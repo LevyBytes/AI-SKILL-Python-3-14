@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "build", "file": "releases/3-12-0-alpha-6/build/INDEX.md", "summary": "Open when checking build.", "keywords": []},
+    {"topic": "c api", "file": "releases/3-12-0-alpha-6/c-api/INDEX.md", "summary": "Open when checking c api.", "keywords": []},
+    {"topic": "core and builtins", "file": "releases/3-12-0-alpha-6/core-and-builtins/INDEX.md", "summary": "Open when checking core and builtins.", "keywords": []},
+    {"topic": "documentation", "file": "releases/3-12-0-alpha-6/documentation/INDEX.md", "summary": "Open when checking documentation.", "keywords": []},
+    {"topic": "library", "file": "releases/3-12-0-alpha-6/library/INDEX.md", "summary": "Open when checking library.", "keywords": []},
+    {"topic": "macos", "file": "releases/3-12-0-alpha-6/macos/INDEX.md", "summary": "Open when checking macos.", "keywords": []},
+    {"topic": "release overview", "file": "releases/3-12-0-alpha-6/release-overview/INDEX.md", "summary": "Open when checking release overview.", "keywords": []},
+    {"topic": "security", "file": "releases/3-12-0-alpha-6/security/INDEX.md", "summary": "Open when checking security.", "keywords": []},
+    {"topic": "tests", "file": "releases/3-12-0-alpha-6/tests/INDEX.md", "summary": "Open when checking tests.", "keywords": []},
+    {"topic": "windows", "file": "releases/3-12-0-alpha-6/windows/INDEX.md", "summary": "Open when checking windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

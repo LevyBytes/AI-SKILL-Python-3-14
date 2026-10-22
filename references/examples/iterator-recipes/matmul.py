@@ -1,0 +1,9 @@
+from itertools import batched, product, starmap
+from math import sumprod
+from transpose import transpose
+
+def matmul(m1, m2):
+    "Multiply two matrices."
+    # matmul([(7, 5), (3, 5)], [(2, 5), (7, 9)]) → (49, 80) (41, 60)
+    n = len(m2[0])
+    return batched(starmap(sumprod, product(m1, transpose(m2))), n)

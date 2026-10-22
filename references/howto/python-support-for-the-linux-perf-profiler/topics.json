@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "How to enable `perf` profiling support", "file": "python-support-for-the-linux-perf-profiler/how-to-enable-perf-profiling-support.md", "summary": "Open when checking How to enable `perf` profiling support.", "keywords": []},
+    {"topic": "How to obtain the best results", "file": "python-support-for-the-linux-perf-profiler/how-to-obtain-the-best-results.md", "summary": "Open when checking How to obtain the best results.", "keywords": []},
+    {"topic": "How to work without frame pointers", "file": "python-support-for-the-linux-perf-profiler/how-to-work-without-frame-pointers.md", "summary": "Open when checking How to work without frame pointers.", "keywords": []},
+    {"topic": "Linux perf support, architecture conditions and sample workload", "file": "linux-perf-architecture-and-sample-workload.md", "summary": "Open when checking Linux perf support, architecture conditions and sample workload.", "keywords": []},
+    {"topic": "Native-only perf report without Python support", "file": "python-support-for-the-linux-perf-profiler/native-only-perf-report-without-python-support.md", "summary": "Open when checking Native-only perf report without Python support.", "keywords": []},
+    {"topic": "Python-function perf report with profiling support", "file": "python-support-for-the-linux-perf-profiler/python-function-perf-report-with-profiling-support.md", "summary": "Open when checking Python-function perf report with profiling support.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

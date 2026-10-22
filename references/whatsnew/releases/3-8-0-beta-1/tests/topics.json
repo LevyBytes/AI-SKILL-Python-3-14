@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 beta 1 / tests / build and platforms", "file": "releases/3-8-0-beta-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / tests / datetime", "file": "releases/3-8-0-beta-1/tests/datetime.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / datetime.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / tests / files and paths", "file": "releases/3-8-0-beta-1/tests/files-and-paths.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / tests / fixes test multiprocessing test venv platforms missing working sem open", "file": "process-venv-test-semaphore-availability.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / fixes test multiprocessing test venv platforms missing working sem open.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / tests / nntplib", "file": "releases/3-8-0-beta-1/tests/nntplib.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / nntplib.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / tests / test", "file": "releases/3-8-0-beta-1/tests/test.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / test.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / tests / tests and documentation", "file": "releases/3-8-0-beta-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 beta 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

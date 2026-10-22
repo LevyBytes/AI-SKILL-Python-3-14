@@ -1,0 +1,15 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Numbers", "file": "argument-parsing/numbers.md", "summary": "Open when checking Numbers.", "keywords": []},
+  {"topic": "Other objects", "file": "argument-parsing/other-objects.md", "summary": "Open when checking Other objects.", "keywords": []},
+  {"topic": "Parsing arguments and building values", "file": "argument-parsing/parsing-arguments-and-building-values.md", "summary": "Open when checking Parsing arguments and building values.", "keywords": []},
+  {"topic": "Parsing arguments", "file": "argument-parsing/parsing-arguments.md", "summary": "Open when checking Parsing arguments.", "keywords": []},
+  {"topic": "argument parsing C API: `Py_BuildValue()`", "file": "argument-parsing/py-buildvalue.md", "summary": "Open when checking the documented contracts for `Py_BuildValue()` in argument parsing C API.", "keywords": []},
+  {"topic": "argument parsing C API: `Py_VaBuildValue()`", "file": "argument-parsing/py-vabuildvalue.md", "summary": "Open when checking the documented contracts for `Py_VaBuildValue()` in argument parsing C API.", "keywords": []},
+  {"topic": "PY_CXX_CONST", "file": "argument-parsing/py-cxx-const.md", "summary": "Open when checking PY_CXX_CONST.", "keywords": []},
+  {"topic": "int PyArg_ParseTuple(PyObject *args, const char *format, ...)", "file": "argument-parsing/pyarg-parsetuple.md", "summary": "Open when checking int PyArg_ParseTuple(PyObject *args, const char *format, ...).", "keywords": []},
+  {"topic": "API Functions", "file": "argument-parsing/pyarg-parsetupleandkeywords-to-pyarg-unpacktuple.md", "summary": "Open when checking API Functions.", "keywords": []},
+  {"topic": "int PyArg_VaParse(PyObject *args, const char *format, va_list vargs)", "file": "argument-parsing/pyarg-vaparse.md", "summary": "Open when checking int PyArg_VaParse(PyObject *args, const char *format, va_list vargs).", "keywords": []},
+  {"topic": "argument parsing C API: String and binary-buffer argument parsing formats", "file": "argument-parsing/string-buffer-memory-ownership.md", "summary": "Open when checking string and binary-buffer argument parsing formats in argument parsing C API.", "keywords": []},
+  {"topic": "argument parsing C API: Encoded strings and buffer conversion formats", "file": "argument-parsing/strings-and-buffers-w-read-write-bytes-like-object-py-buffer.md", "summary": "Open when checking encoded strings and buffer conversion formats in argument parsing C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

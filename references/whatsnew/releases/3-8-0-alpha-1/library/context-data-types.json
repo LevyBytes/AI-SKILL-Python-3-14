@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Types / Python 3.8.0 alpha 1 / library / copy", "file": "releases/3-8-0-alpha-1/library/copy.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / copy.", "keywords": []},
+  {"topic": "Data Types / Python 3.8.0 alpha 1 / library / collections chainmap keeps ordering mappings beneath it", "file": "releases/3-8-0-alpha-1/library/collections-chainmap-keeps-ordering-mappings-beneath-it.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / collections chainmap keeps ordering mappings beneath it.", "keywords": []},
+  {"topic": "Data Types / Python 3.8.0 alpha 1 / library / throw typeerror rather than crashing whenever collections deque subclass hands", "file": "releases/3-8-0-alpha-1/library/deque-subclass-invalid-return-type.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / throw typeerror rather than crashing whenever collections deque subclass hands.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

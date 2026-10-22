@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Acknowledgements", "file": "unicode/acknowledgements.md", "summary": "Open when checking Acknowledgements.", "keywords": []},
+    {"topic": "Comparing Strings", "file": "unicode/comparing-strings.md", "summary": "Open when checking Comparing Strings.", "keywords": []},
+    {"topic": "Converting Between File Encodings", "file": "unicode/converting-between-file-encodings.md", "summary": "Open when checking Converting Between File Encodings.", "keywords": []},
+    {"topic": "Converting to Bytes", "file": "unicode/converting-to-bytes.md", "summary": "Open when checking Converting to Bytes.", "keywords": []},
+    {"topic": "Definitions", "file": "unicode/definitions.md", "summary": "Open when checking Definitions.", "keywords": []},
+    {"topic": "Encodings", "file": "unicode/encodings.md", "summary": "Open when checking Encodings.", "keywords": []},
+    {"topic": "Files in an Unknown Encoding", "file": "unicode/files-in-an-unknown-encoding.md", "summary": "Open when checking Files in an Unknown Encoding.", "keywords": []},
+    {"topic": "Python’s Unicode Support", "file": "unicode/python-s-unicode-support.md", "summary": "Open when checking Python’s Unicode Support.", "keywords": []},
+    {"topic": "Reading and Writing Unicode Data continuation", "file": "unicode/reading-and-writing-unicode-data-continuation.md", "summary": "Open when checking Reading and Writing Unicode Data continuation.", "keywords": []},
+    {"topic": "Reading and Writing Unicode Data", "file": "unicode/reading-and-writing-unicode-data.md", "summary": "Open when checking Reading and Writing Unicode Data.", "keywords": []},
+    {"topic": "References", "file": "unicode/references.md", "summary": "Open when checking References.", "keywords": []},
+    {"topic": "The String Type", "file": "unicode/the-string-type.md", "summary": "Open when checking The String Type.", "keywords": []},
+    {"topic": "Tips for Writing Unicode-aware Programs", "file": "unicode/tips-for-writing-unicode-aware-programs.md", "summary": "Open when checking Tips for Writing Unicode-aware Programs.", "keywords": []},
+    {"topic": "Unicode filenames", "file": "unicode/unicode-filenames.md", "summary": "Open when checking Unicode filenames.", "keywords": []},
+    {"topic": "Unicode HOWTO", "file": "unicode/unicode-howto.md", "summary": "Open when checking Unicode HOWTO.", "keywords": []},
+    {"topic": "Unicode Literals in Python Source Code", "file": "unicode/unicode-literals-in-python-source-code.md", "summary": "Open when checking Unicode Literals in Python Source Code.", "keywords": []},
+    {"topic": "Unicode Properties", "file": "unicode/unicode-properties.md", "summary": "Open when checking Unicode Properties.", "keywords": []},
+    {"topic": "Unicode Regular Expressions", "file": "unicode/unicode-regular-expressions.md", "summary": "Open when checking Unicode Regular Expressions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "MS Windows Specific Services / windows", "file": "windows/INDEX.md", "summary": "Open when checking windows.", "keywords": []},
+  {"topic": "MS Windows Specific Services / msvcrt", "file": "msvcrt/INDEX.md", "summary": "Open when checking msvcrt.", "keywords": []},
+  {"topic": "MS Windows Specific Services / winreg", "file": "winreg/INDEX.md", "summary": "Open when checking winreg.", "keywords": []},
+  {"topic": "MS Windows Specific Services / winsound", "file": "winsound/INDEX.md", "summary": "Open when checking winsound.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

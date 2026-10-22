@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "email.utils: Email address and date utility functions", "file": "email-utils/email-utils-localtime-to-email-utils-parsedate-to-datetime.md", "summary": "Open when checking email address and date utility functions in email.utils.", "keywords": []},
+  {"topic": "email.utils: `email.utils.mktime_tz()`, `email.utils.formatdate()`, `email.utils.format_datetime()`, `email.utils.decode_rfc2231()`, `email.utils.encode_rfc2231()`, `email.utils.collapse_rfc2231_value()`, `email.utils.decode_params()`", "file": "email-utils/email-utils-mktime-tz-to-email-utils-decode-params.md", "summary": "Open when checking the documented contracts for `email.utils.mktime_tz()`, `email.utils.formatdate()`, `email.utils.format_datetime()`, `email.utils.decode_rfc2231()`, `email.utils.encode_rfc2231()`, `email.utils.collapse_rfc2231_value()`, `email.utils.decode_params()` in email.utils.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

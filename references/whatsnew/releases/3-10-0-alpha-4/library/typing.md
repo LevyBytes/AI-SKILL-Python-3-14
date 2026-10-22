@@ -1,0 +1,11 @@
+# Python 3.10.0 alpha 4 / library / typing
+
+[bpo-42195](https://bugs.python.org/issue?@action=redirect&bpo=42195): The `__args__` produced by the parameterized generics behind [`typing.Callable`](https://docs.python.org/3.14/library/typing.html#typing.Callable) and [`collections.abc.Callable`](https://docs.python.org/3.14/library/collections.abc.html#collections.abc.Callable) are now in agreement. For `collections.abc.Callable` the `__args__` are flattened, whereas `typing.Callable`?s remain as before. Enabling that required making [`types.GenericAlias`](https://docs.python.org/3.14/library/types.html#types.GenericAlias) subclassable, and `collections.abc.Callable`?s `__class_getitem__` now hands back a subclass of `types.GenericAlias`. The typing tests were likewise revised to stop subclassing things such as `Callable[..., T]`, since that is not a legal base class. Lastly, neither `Callable` validates its `argtypes` inside `Callable[[argtypes], resulttype]` any longer, getting ready for [**PEP 612**](https://peps.python.org/pep-0612/). Ken Jin wrote the patch.
+
+[bpo-41559](https://bugs.python.org/issue?@action=redirect&bpo=41559): Carried out [**PEP 612**](https://peps.python.org/pep-0612/): brought `ParamSpec` and `Concatenate` into [`typing`](https://docs.python.org/3.14/library/typing.html#module-typing). Ken Jin authored the patch.
+
+[bpo-42740](https://bugs.python.org/issue?@action=redirect&bpo=42740): [`typing.get_args()`](https://docs.python.org/3.14/library/typing.html#typing.get_args) along with [`typing.get_origin()`](https://docs.python.org/3.14/library/typing.html#typing.get_origin) now understand [**PEP 604**](https://peps.python.org/pep-0604/) union types as well as the [**PEP 612**](https://peps.python.org/pep-0612/) additions made to `Callable`.
+
+[bpo-42059](https://bugs.python.org/issue?@action=redirect&bpo=42059): When a [`typing.TypedDict`](https://docs.python.org/3.14/library/typing.html#typing.TypedDict) type is built through the alternative call-style syntax, it now correctly honors the `total` keyword argument while populating its `__required_keys__` and `__optional_keys__` class attributes.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.5 release candidate 1 / security / advance bundled libexpat release", "file": "releases/3-14-5-release-candidate-1/security/advance-bundled-libexpat-release.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / advance bundled libexpat release.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / asyncio eventloop", "file": "releases/3-14-5-release-candidate-1/security/asyncio-eventloop.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / asyncio eventloop.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / build and platforms", "file": "releases/3-14-5-release-candidate-1/security/build-and-platforms.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / configparser", "file": "releases/3-14-5-release-candidate-1/security/configparser.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / configparser.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / functions and types", "file": "releases/3-14-5-release-candidate-1/security/functions-and-types.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / http cookies", "file": "releases/3-14-5-release-candidate-1/security/http-cookies.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / http cookies.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / lzma", "file": "releases/3-14-5-release-candidate-1/security/lzma.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / lzma.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / shutil", "file": "releases/3-14-5-release-candidate-1/security/shutil.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / shutil.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / security / webbrowser", "file": "releases/3-14-5-release-candidate-1/security/webbrowser.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / security / webbrowser.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

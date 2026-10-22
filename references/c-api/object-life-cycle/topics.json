@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Cyclic Isolate Destruction", "file": "object-life-cycle/cyclic-isolate-destruction.md", "summary": "Open when checking Cyclic Isolate Destruction.", "keywords": []},
+    {"topic": "Life Events", "file": "object-life-cycle/life-events.md", "summary": "Open when checking Life Events.", "keywords": []},
+    {"topic": "Object Life Cycle", "file": "object-life-cycle/object-life-cycle.md", "summary": "Open when checking Object Life Cycle.", "keywords": []},
+    {"topic": "Functions", "file": "object-life-cycle/pyobject-callfinalizer-to-pyobject-callfinalizerfromdealloc.md", "summary": "Open when checking Functions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

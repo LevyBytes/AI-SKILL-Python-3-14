@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Bad file descriptor error example", "file": "devmode/bad-file-descriptor-error-example.md", "summary": "Open when checking Bad file descriptor error example.", "keywords": []},
+    {"topic": "Effects of the Python Development Mode — Section introduction and initial examples", "file": "development-mode-effects-overview.md", "summary": "Open when checking Effects of the Python Development Mode — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Effects of the Python Development Mode — Contract: Any `close()` exceptions raised by the `io.IOBase` destructor get written to the log.", "file": "devmode/iobase-destructor-close-errors.md", "summary": "Open when checking Effects of the Python Development Mode — Contract: Any `close()` exceptions raised by the `io.IOBase` destructor get written to the log..", "keywords": []},
+    {"topic": "Python Development Mode", "file": "devmode/python-development-mode.md", "summary": "Open when checking Python Development Mode.", "keywords": []},
+    {"topic": "ResourceWarning Example", "file": "devmode/resourcewarning-example.md", "summary": "Open when checking ResourceWarning Example.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

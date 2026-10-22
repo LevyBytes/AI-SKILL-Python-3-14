@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 3 / tools demos / gettext", "file": "releases/3-10-0-alpha-3/tools-demos/gettext.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tools demos / gettext.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tools demos / modules", "file": "releases/3-10-0-alpha-3/tools-demos/modules.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tools demos / modules.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

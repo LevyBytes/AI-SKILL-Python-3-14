@@ -1,0 +1,10 @@
+{"schema_version": 1, "topics": [
+  {"topic": "heapq — Basic Examples", "file": "heapq/basic-examples.md", "summary": "Open when checking heapq — Basic Examples.", "keywords": []},
+  {"topic": "heapq — Heap queue algorithm", "file": "heapq/heap-queue-algorithm.md", "summary": "Open when checking heapq — Heap queue algorithm.", "keywords": []},
+  {"topic": "heapq: `heapq.heapify()`, `heapq.heappush()`, `heapq.heappop()`, `heapq.heappushpop()`, `heapq.heapreplace()`, `heapq.heapify_max()`, `heapq.heappush_max()`, `heapq.heappop_max()`, `heapq.heappushpop_max()`", "file": "heapq/heapq-heapify-to-heapq-heappushpop-max.md", "summary": "Open when checking the documented contracts for `heapq.heapify()`, `heapq.heappush()`, `heapq.heappop()`, `heapq.heappushpop()`, `heapq.heapreplace()`, `heapq.heapify_max()`, `heapq.heappush_max()`, `heapq.heappop_max()`, `heapq.heappushpop_max()` in heapq.", "keywords": []},
+  {"topic": "heapq: `heapq.heapreplace_max()`, `heapq.merge()`, `heapq.nlargest()`, `heapq.nsmallest()`", "file": "heapq/heapq-heapreplace-max-to-heapq-nsmallest.md", "summary": "Open when checking the documented contracts for `heapq.heapreplace_max()`, `heapq.merge()`, `heapq.nlargest()`, `heapq.nsmallest()` in heapq.", "keywords": []},
+  {"topic": "heapq — Other Applications", "file": "heapq/other-applications.md", "summary": "Open when checking heapq — Other Applications.", "keywords": []},
+  {"topic": "heapq — Priority Queue Implementation Notes", "file": "heapq/priority-queue-implementation-notes.md", "summary": "Open when checking heapq — Priority Queue Implementation Notes.", "keywords": []},
+  {"topic": "heapq — Theory", "file": "heapq/theory.md", "summary": "Open when checking heapq — Theory.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

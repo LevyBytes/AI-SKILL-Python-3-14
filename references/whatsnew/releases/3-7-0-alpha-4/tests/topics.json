@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 4 / tests / files and paths", "file": "releases/3-7-0-alpha-4/tests/files-and-paths.md", "summary": "Open when checking Python 3.7.0 alpha 4 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / tests / platform", "file": "releases/3-7-0-alpha-4/tests/platform.md", "summary": "Open when checking Python 3.7.0 alpha 4 / tests / platform.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

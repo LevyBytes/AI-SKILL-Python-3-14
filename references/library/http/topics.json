@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "http — HTTP status category", "file": "http/http-httpmethod-class.md", "summary": "Open when checking http — HTTP status category.", "keywords": []},
+    {"topic": "http — `http` — HTTP modules", "file": "http/http-httpstatus-class.md", "summary": "Open when checking http — `http` — HTTP modules.", "keywords": []},
+    {"topic": "http — HTTP methods", "file": "http/http-methods.md", "summary": "Open when checking http — HTTP methods.", "keywords": []},
+    {"topic": "http — HTTP status codes", "file": "http/http-status-codes.md", "summary": "Open when checking http — HTTP status codes.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

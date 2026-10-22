@@ -1,0 +1,47 @@
+# xml.parsers.expat — Example
+
+### Example
+
+The following program defines three handlers that just print out their arguments.
+
+```python
+import xml.parsers.expat
+
+# 3 handler functions
+def start_element(name, attrs):
+    print('Start element:', name, attrs)
+def end_element(name):
+    print('End element:', name)
+def char_data(data):
+    print('Character data:', repr(data))
+
+p = xml.parsers.expat.ParserCreate()
+
+p.StartElementHandler = start_element
+p.EndElementHandler = end_element
+p.CharacterDataHandler = char_data
+
+p.Parse("""<?xml version="1.0"?>
+<parent id="top"><child1 name="paul">Text goes here</child1>
+<child2 name="fred">More text</child2>
+</parent>""", 1)
+
+```
+
+Executing it produces this on screen:
+
+```python
+Start element: parent {'id': 'top'}
+Start element: child1 {'name': 'paul'}
+Character data: 'Text goes here'
+End element: child1
+Character data: '\n'
+Start element: child2 {'name': 'fred'}
+Character data: 'More text'
+End element: child2
+Character data: '\n'
+End element: parent
+
+```
+
+[Subject index](INDEX.md) · [Previous](expaterror-code-to-expaterror-offset.md) · [Owning module, declaration or section: xml.parsers.expat](expat-parser-factory-and-exception.md) · [Continue](expat-content-model-types-and-quantifiers.md)

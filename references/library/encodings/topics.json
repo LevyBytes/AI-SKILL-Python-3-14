@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "encodings — `encodings` — Encodings package", "file": "encodings/encodings-normalize-encoding-to-encodings-codecregistryerror.md", "summary": "Open when checking encodings — `encodings` — Encodings package.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

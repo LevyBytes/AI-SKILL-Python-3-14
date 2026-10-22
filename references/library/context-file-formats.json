@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "File Formats / fileformats", "file": "fileformats/INDEX.md", "summary": "Open when checking fileformats.", "keywords": []},
+  {"topic": "File Formats / csv", "file": "csv/INDEX.md", "summary": "Open when checking csv.", "keywords": []},
+  {"topic": "File Formats / configparser", "file": "configparser/INDEX.md", "summary": "Open when checking configparser.", "keywords": []},
+  {"topic": "File Formats / tomllib", "file": "tomllib/INDEX.md", "summary": "Open when checking tomllib.", "keywords": []},
+  {"topic": "File Formats / netrc", "file": "netrc/INDEX.md", "summary": "Open when checking netrc.", "keywords": []},
+  {"topic": "File Formats / plistlib", "file": "plistlib/INDEX.md", "summary": "Open when checking plistlib.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

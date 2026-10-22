@@ -1,0 +1,21 @@
+# Upstream feature guide navigation for Python 2.5
+
+- [What’s New in Python 2.5](https://docs.python.org/3.14/whatsnew/2.5.html)
+  - [PEP 308: Conditional Expressions](https://docs.python.org/3.14/whatsnew/2.5.html#pep-308-conditional-expressions)
+  - [PEP 309: Partial Function Application](https://docs.python.org/3.14/whatsnew/2.5.html#pep-309-partial-function-application)
+  - [PEP 314: Metadata for Python Software Packages v1.1](https://docs.python.org/3.14/whatsnew/2.5.html#pep-314-metadata-for-python-software-packages-v1-1)
+  - [PEP 328: Absolute and Relative Imports](https://docs.python.org/3.14/whatsnew/2.5.html#pep-328-absolute-and-relative-imports)
+  - [PEP 338: Executing Modules as Scripts](https://docs.python.org/3.14/whatsnew/2.5.html#pep-338-executing-modules-as-scripts)
+  - [PEP 341: Unified try/except/finally](https://docs.python.org/3.14/whatsnew/2.5.html#pep-341-unified-try-except-finally)
+  - [PEP 342: New Generator Features](https://docs.python.org/3.14/whatsnew/2.5.html#pep-342-new-generator-features)
+  - [PEP 343: The ‘with’ statement](https://docs.python.org/3.14/whatsnew/2.5.html#pep-343-the-with-statement)
+  - [PEP 352: Exceptions as New-Style Classes](https://docs.python.org/3.14/whatsnew/2.5.html#pep-352-exceptions-as-new-style-classes)
+  - [PEP 353: Using ssize_t as the index type](https://docs.python.org/3.14/whatsnew/2.5.html#pep-353-using-ssize-t-as-the-index-type)
+  - [PEP 357: The ‘__index__’ method](https://docs.python.org/3.14/whatsnew/2.5.html#pep-357-the-index-method)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/2.5.html#other-language-changes)
+  - [New, Improved, and Removed Modules](https://docs.python.org/3.14/whatsnew/2.5.html#new-improved-and-removed-modules)
+  - [Build and C API Changes](https://docs.python.org/3.14/whatsnew/2.5.html#build-and-c-api-changes)
+  - [Porting to Python 2.5](https://docs.python.org/3.14/whatsnew/2.5.html#porting-to-python-2-5)
+  - [Acknowledgements](https://docs.python.org/3.14/whatsnew/2.5.html#acknowledgements)
+
+[Subject index](INDEX.md) · [Previous source section](../release-3-0/release-overview.md) · [Next source section](../release-2-4/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md) · [Preceding release/subject continuation](../release-3-1/release-overview.md)

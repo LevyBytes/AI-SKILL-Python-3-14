@@ -1,0 +1,81 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.12.0 beta 1 / library / calendar. [Data Types / Python 3.12.0 beta 1 / library / calendar](calendar.md).
+- Open when checking Python 3.12.0 beta 1 / library / collections abc. [Data Types / Python 3.12.0 beta 1 / library / collections abc](collections-abc.md).
+- Open when checking Python 3.12.0 beta 1 / library / types. [Data Types / Python 3.12.0 beta 1 / library / types](types.md).
+- Open when checking Python 3.12.0 beta 1 / library / math. [Numeric and Mathematical Modules / Python 3.12.0 beta 1 / library / math](math.md).
+- Open when checking Python 3.12.0 beta 1 / library / functools. [Functional Programming Modules / Python 3.12.0 beta 1 / library / functools](functools.md).
+- Open when checking Python 3.12.0 beta 1 / library / os path. [File and Directory Access / Python 3.12.0 beta 1 / library / os path](os-path.md).
+- Open when checking Python 3.12.0 beta 1 / library / tempfile. [File and Directory Access / Python 3.12.0 beta 1 / library / tempfile](tempfile.md).
+- Open when checking Python 3.12.0 beta 1 / library / gzip. [Data Compression and Archiving / Python 3.12.0 beta 1 / library / gzip](gzip.md).
+- Open when checking Python 3.12.0 beta 1 / library / tarfile. [Data Compression and Archiving / Python 3.12.0 beta 1 / library / tarfile](tarfile.md).
+- Open when checking Python 3.12.0 beta 1 / library / zipfile. [Data Compression and Archiving / Python 3.12.0 beta 1 / library / zipfile](zipfile.md).
+- Open when checking Python 3.12.0 beta 1 / library / csv. [File Formats / Python 3.12.0 beta 1 / library / csv](csv.md).
+- Open when checking Python 3.12.0 beta 1 / library / hmac. [Cryptographic Services / Python 3.12.0 beta 1 / library / hmac](hmac.md).
+- Open when checking Python 3.12.0 beta 1 / library / platform. [Generic Operating System Services / Python 3.12.0 beta 1 / library / platform](platform.md).
+- Open when checking Python 3.12.0 beta 1 / library / logging. [Generic Operating System Services / Python 3.12.0 beta 1 / library / logging](logging.md).
+- Open when checking Python 3.12.0 beta 1 / library / argparse. [Command-line interface libraries / Python 3.12.0 beta 1 / library / argparse](argparse.md).
+- Open when checking Python 3.12.0 beta 1 / library / multiprocessing. [Concurrent Execution / Python 3.12.0 beta 1 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.12.0 beta 1 / library / subprocess. [Concurrent Execution / Python 3.12.0 beta 1 / library / subprocess](subprocess.md).
+- Open when checking Python 3.12.0 beta 1 / library / asyncio task. [Networking and Interprocess Communication / Python 3.12.0 beta 1 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.12.0 beta 1 / library / mmap. [Networking and Interprocess Communication / Python 3.12.0 beta 1 / library / mmap](mmap.md).
+- Open when checking Python 3.12.0 beta 1 / library / asyncio protocol. [Networking and Interprocess Communication / Python 3.12.0 beta 1 / library / asyncio protocol](asyncio-protocol.md).
+- Open when checking Python 3.12.0 beta 1 / library / asyncio subprocess. [Networking and Interprocess Communication / Python 3.12.0 beta 1 / library / asyncio subprocess](asyncio-subprocess.md).
+- Open when checking Python 3.12.0 beta 1 / library / urllib parse. [Internet Protocols and Support / Python 3.12.0 beta 1 / library / urllib parse](urllib-parse.md).
+- Open when checking Python 3.12.0 beta 1 / library / socketserver. [Internet Protocols and Support / Python 3.12.0 beta 1 / library / socketserver](socketserver.md).
+- Open when checking Python 3.12.0 beta 1 / library / urllib request. [Internet Protocols and Support / Python 3.12.0 beta 1 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.12.0 beta 1 / library / http server. [Internet Protocols and Support / Python 3.12.0 beta 1 / library / http server](http-server.md).
+- Open when checking Python 3.12.0 beta 1 / library / webbrowser. [Internet Protocols and Support / Python 3.12.0 beta 1 / library / webbrowser](webbrowser.md).
+- Open when checking Python 3.12.0 beta 1 / library / strip out needless comments code turtle py. [Graphical user interfaces with Tk / Python 3.12.0 beta 1 / library / strip out needless comments code turtle py](strip-out-needless-comments-code-turtle-py.md).
+- Open when checking Python 3.12.0 beta 1 / library / turtle. [Graphical user interfaces with Tk / Python 3.12.0 beta 1 / library / turtle](turtle.md).
+- Open when checking Python 3.12.0 beta 1 / library / numeric behavior. [Graphical user interfaces with Tk / Python 3.12.0 beta 1 / library / numeric behavior](numeric-behavior.md).
+- Open when checking Python 3.12.0 beta 1 / library / let tkinter canvas coords take flattened arguments. [Graphical user interfaces with Tk / Python 3.12.0 beta 1 / library / let tkinter canvas coords take flattened arguments](let-tkinter-canvas-coords-take-flattened-arguments.md).
+- Open when checking Python 3.12.0 beta 1 / library / unittest mock. [Development Tools / Python 3.12.0 beta 1 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.12.0 beta 1 / library / tracemalloc. [Debugging and Profiling / Python 3.12.0 beta 1 / library / tracemalloc](tracemalloc.md).
+- Open when checking Python 3.12.0 beta 1 / library / profile. [Debugging and Profiling / Python 3.12.0 beta 1 / library / profile](profile.md).
+- Open when checking Python 3.12.0 beta 1 / library / ensurepip. [Software Packaging and Distribution / Python 3.12.0 beta 1 / library / ensurepip](ensurepip.md).
+- Open when checking Python 3.12.0 beta 1 / library / contextlib. [Python Runtime Services / Python 3.12.0 beta 1 / library / contextlib](contextlib.md).
+- Open when checking Python 3.12.0 beta 1 / library / idle. [Python Runtime Services / Python 3.12.0 beta 1 / library / idle](idle.md).
+- Open when checking Python 3.12.0 beta 1 / library / sys. [Python Runtime Services / Python 3.12.0 beta 1 / library / sys](sys.md).
+- Open when checking Python 3.12.0 beta 1 / library / importlib metadata. [Importing Modules / Python 3.12.0 beta 1 / library / importlib metadata](importlib-metadata.md).
+- Open when checking Python 3.12.0 beta 1 / library / tokenize. [Python Language Services / Python 3.12.0 beta 1 / library / tokenize](tokenize.md).
+- Open when checking Python 3.12.0 beta 1 / library / ast. [Python Language Services / Python 3.12.0 beta 1 / library / ast](ast.md).
+- Open when checking Python 3.12.0 beta 1 / library / compiler and parser. [Python Language Services / Python 3.12.0 beta 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.12.0 beta 1 / library / msvcrt. [MS Windows Specific Services / Python 3.12.0 beta 1 / library / msvcrt](msvcrt.md).
+- Open when checking Python 3.12.0 beta 1 / library / winreg. [MS Windows Specific Services / Python 3.12.0 beta 1 / library / winreg](winreg.md).
+- Open when checking Python 3.12.0 beta 1 / library / winsound. [MS Windows Specific Services / Python 3.12.0 beta 1 / library / winsound](winsound.md).
+- Open when checking Python 3.12.0 beta 1 / library / tty. [Unix-specific services / Python 3.12.0 beta 1 / library / tty](tty.md).
+- Open when checking Python 3.12.0 beta 1 / library / asyncio. [Combined library maintenance / Python 3.12.0 beta 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.12.0 beta 1 / library / functions. [Combined library maintenance / Python 3.12.0 beta 1 / library / functions](functions.md).
+- Open when checking Python 3.12.0 beta 1 / library / build and platforms. [Combined library maintenance / Python 3.12.0 beta 1 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.12.0 beta 1 / library / bump bundled pip copy up release. [Combined library maintenance / Python 3.12.0 beta 1 / library / bump bundled pip copy up release](bump-bundled-pip-copy-up-release.md).
+- Open when checking Python 3.12.0 beta 1 / library / datetime. [Combined library maintenance / Python 3.12.0 beta 1 / library / datetime](datetime.md).
+- Open when checking Python 3.12.0 beta 1 / library / dis. [Combined library maintenance / Python 3.12.0 beta 1 / library / dis](dis.md).
+- Open when checking Python 3.12.0 beta 1 / library / exceptions. [Combined library maintenance / Python 3.12.0 beta 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.12.0 beta 1 / library / files and paths. [Combined library maintenance / Python 3.12.0 beta 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.12.0 beta 1 / library / io. [Combined library maintenance / Python 3.12.0 beta 1 / library / io](io.md).
+- Open when checking Python 3.12.0 beta 1 / library / modules. [Combined library maintenance / Python 3.12.0 beta 1 / library / modules](modules.md).
+- Open when checking Python 3.12.0 beta 1 / library / sqlite3. [Combined library maintenance / Python 3.12.0 beta 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.12.0 beta 1 / library / typing. [Combined library maintenance / Python 3.12.0 beta 1 / library / typing](typing.md).
+- Open when checking Python 3.12.0 beta 1 / library / unittest. [Combined library maintenance / Python 3.12.0 beta 1 / library / unittest](unittest.md).
+- Open when checking Python 3.12.0 beta 1 / library / enum. [Combined library maintenance / Python 3.12.0 beta 1 / library / enum](enum.md).
+- Open when checking Python 3.12.0 beta 1 / library / imports and modules. [Combined library maintenance / Python 3.12.0 beta 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.12.0 beta 1 / library / socket. [Combined library maintenance / Python 3.12.0 beta 1 / library / socket](socket.md).
+- Open when checking Python 3.12.0 beta 1 / library / dataclasses. [Combined library maintenance / Python 3.12.0 beta 1 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.12.0 beta 1 / library / http client. [Combined library maintenance / Python 3.12.0 beta 1 / library / http client](http-client.md).
+- Open when checking Python 3.12.0 beta 1 / library / inspect. [Combined library maintenance / Python 3.12.0 beta 1 / library / inspect](inspect.md).
+- Open when checking Python 3.12.0 beta 1 / library / pathlib. [Combined library maintenance / Python 3.12.0 beta 1 / library / pathlib](pathlib.md).
+- Open when checking Python 3.12.0 beta 1 / library / pdb. [Combined library maintenance / Python 3.12.0 beta 1 / library / pdb](pdb.md).
+- Open when checking Python 3.12.0 beta 1 / library / importlib. [Combined library maintenance / Python 3.12.0 beta 1 / library / importlib](importlib.md).
+- Open when checking Python 3.12.0 beta 1 / library / threads and concurrency. [Combined library maintenance / Python 3.12.0 beta 1 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.12.0 beta 1 / library / functions and types. [Combined library maintenance / Python 3.12.0 beta 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.12.0 beta 1 / library / locale. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / locale](locale.md).
+- Open when checking Python 3.12.0 beta 1 / library / stop discarding custom getstate setstate definitions slotted frozen dataclasses. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / stop discarding custom getstate setstate definitions slotted frozen dataclasses](frozen-slotted-dataclass-custom-pickle-state.md).
+- Open when checking Python 3.12.0 beta 1 / library / make strict default flag boundary correct bitwise operations. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / make strict default flag boundary correct bitwise operations](make-strict-default-flag-boundary-correct-bitwise-operations.md).
+- Open when checking Python 3.12.0 beta 1 / library / make collections isolated applying pep. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / make collections isolated applying pep](make-collections-isolated-applying-pep.md).
+- Open when checking Python 3.12.0 beta 1 / library / make socket isolated applying pep. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / make socket isolated applying pep](make-socket-isolated-applying-pep.md).
+- Open when checking Python 3.12.0 beta 1 / library / collections and iteration. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.12.0 beta 1 / library / imp. [Library compatibility and maintenance / Python 3.12.0 beta 1 / library / imp](imp.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

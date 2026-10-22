@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Using importlib as the Implementation of Import / What's New In Python 3.3 / Using importlib as the Implementation of Import — importlib", "file": "release-3-3/using-importlib-as-the-implementation-of-import.md", "summary": "Open when checking What's New In Python 3.3 / Using importlib as the Implementation of Import — importlib.", "keywords": []},
+  {"topic": "Using importlib as the Implementation of Import / What's New In Python 3.3 / New APIs — importlib, sys", "file": "release-3-3/new-apis.md", "summary": "Open when checking What's New In Python 3.3 / New APIs — importlib, sys.", "keywords": []},
+  {"topic": "Using importlib as the Implementation of Import / What's New In Python 3.3 / Visible Changes — importlib, sys", "file": "release-3-3/visible-changes.md", "summary": "Open when checking What's New In Python 3.3 / Visible Changes — importlib, sys.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

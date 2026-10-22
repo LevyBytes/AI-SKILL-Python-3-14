@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Preprocessor flags / CONFIGURE_CPPFLAGS", "file": "build-configuration/configure-cppflags.md", "summary": "Open when checking CONFIGURE_CPPFLAGS.", "keywords": []},
+  {"topic": "Preprocessor flags / BASECPPFLAGS", "file": "build-configuration/basecppflags.md", "summary": "Open when checking BASECPPFLAGS.", "keywords": []},
+  {"topic": "Preprocessor flags / PY_CPPFLAGS", "file": "build-configuration/py-cppflags.md", "summary": "Open when checking PY_CPPFLAGS.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

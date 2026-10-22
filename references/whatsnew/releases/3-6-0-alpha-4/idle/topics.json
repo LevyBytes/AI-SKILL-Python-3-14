@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 4 / idle / idle tab following initial whitespace should indent not autocomplete", "file": "idle-leading-whitespace-tab-indentation.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / idle tab following initial whitespace should indent not autocomplete.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / idle / imports and modules", "file": "releases/3-6-0-alpha-4/idle/imports-and-modules.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / idle / pressing escape dismisses query box cancelled", "file": "releases/3-6-0-alpha-4/idle/pressing-escape-dismisses-query-box-cancelled.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / pressing escape dismisses query box cancelled.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / idle / re", "file": "releases/3-6-0-alpha-4/idle/re.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / re.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / idle / return none explicitly wherever there also non none returns", "file": "releases/3-6-0-alpha-4/idle/return-none-explicitly-wherever-there-also-non-none-returns.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / return none explicitly wherever there also non none returns.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / idle / tests and documentation", "file": "releases/3-6-0-alpha-4/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / idle / tkinter", "file": "releases/3-6-0-alpha-4/idle/tkinter.md", "summary": "Open when checking Python 3.6.0 alpha 4 / idle / tkinter.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,7 @@
+# Python 3.8.0 beta 1 / core and builtins / functions
+
+[bpo-36793](https://bugs.python.org/issue?@action=redirect&bpo=36793): The `__str__` implementations were stripped from the builtin types [`bool`](https://docs.python.org/3.14/library/functions.html#bool), [`int`](https://docs.python.org/3.14/library/functions.html#int), [`float`](https://docs.python.org/3.14/library/functions.html#float), [`complex`](https://docs.python.org/3.14/library/functions.html#complex) and from a handful of standard-library classes. Each of them now inherits `__str__()` straight from [`object`](https://docs.python.org/3.14/library/functions.html#object).
+
+[bpo-20092](https://bugs.python.org/issue?@action=redirect&bpo=20092): The constructors for [`int`](https://docs.python.org/3.14/library/functions.html#int), [`float`](https://docs.python.org/3.14/library/functions.html#float) and [`complex`](https://docs.python.org/3.14/library/functions.html#complex) henceforth reach for the [`__index__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__index__) special method when present and when the matching method [`__int__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__int__), [`__float__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__float__) or [`__complex__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__complex__) is absent.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

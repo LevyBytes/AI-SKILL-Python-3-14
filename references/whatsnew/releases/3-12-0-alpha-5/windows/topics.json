@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 5 / windows / files and paths", "file": "releases/3-12-0-alpha-5/windows/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 5 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / windows / give py exe launcher back ability start older bit releases", "file": "releases/3-12-0-alpha-5/windows/give-py-exe-launcher-back-ability-start-older-bit-releases.md", "summary": "Open when checking Python 3.12.0 alpha 5 / windows / give py exe launcher back ability start older bit releases.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / windows / modules", "file": "releases/3-12-0-alpha-5/windows/modules.md", "summary": "Open when checking Python 3.12.0 alpha 5 / windows / modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / windows / single runtime installed py exe launcher filters correctly", "file": "releases/3-12-0-alpha-5/windows/single-runtime-installed-py-exe-launcher-filters-correctly.md", "summary": "Open when checking Python 3.12.0 alpha 5 / windows / single runtime installed py exe launcher filters correctly.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / windows / text and unicode", "file": "releases/3-12-0-alpha-5/windows/text-and-unicode.md", "summary": "Open when checking Python 3.12.0 alpha 5 / windows / text and unicode.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / windows / updates bundled copy tcl tk", "file": "releases/3-12-0-alpha-5/windows/updates-bundled-copy-tcl-tk.md", "summary": "Open when checking Python 3.12.0 alpha 5 / windows / updates bundled copy tcl tk.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

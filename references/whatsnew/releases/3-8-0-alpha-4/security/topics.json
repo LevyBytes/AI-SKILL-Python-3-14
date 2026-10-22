@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / security / corrects mishandling pre normalization characters within urlsplit", "file": "url-normalization-character-validation.md", "summary": "Open when checking Python 3.8.0 alpha 4 / security / corrects mishandling pre normalization characters within urlsplit.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / security / http", "file": "releases/3-8-0-alpha-4/security/http.md", "summary": "Open when checking Python 3.8.0 alpha 4 / security / http.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / security / shutil", "file": "releases/3-8-0-alpha-4/security/shutil.md", "summary": "Open when checking Python 3.8.0 alpha 4 / security / shutil.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

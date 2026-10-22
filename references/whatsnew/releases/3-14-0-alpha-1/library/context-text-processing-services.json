@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Text Processing Services / Python 3.14.0 alpha 1 / library / unicodedata", "file": "releases/3-14-0-alpha-1/library/unicodedata.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / unicodedata.", "keywords": []},
+  {"topic": "Text Processing Services / Python 3.14.0 alpha 1 / library / stdtypes", "file": "releases/3-14-0-alpha-1/library/stdtypes.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / stdtypes.", "keywords": []},
+  {"topic": "Text Processing Services / Python 3.14.0 alpha 1 / library / difflib differ runs much more quickly certain diffs many line", "file": "releases/3-14-0-alpha-1/library/difflib-differ-runs-much-more-quickly-certain-diffs-many-line.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / difflib differ runs much more quickly certain diffs many line.", "keywords": []},
+  {"topic": "Text Processing Services / Python 3.14.0 alpha 1 / library / readline", "file": "releases/3-14-0-alpha-1/library/readline.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / readline.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

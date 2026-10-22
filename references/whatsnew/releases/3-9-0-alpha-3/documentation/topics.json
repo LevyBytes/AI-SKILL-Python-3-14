@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 3 / documentation / ast", "file": "releases/3-9-0-alpha-3/documentation/ast.md", "summary": "Open when checking Python 3.9.0 alpha 3 / documentation / ast.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / documentation / asyncio eventloop", "file": "releases/3-9-0-alpha-3/documentation/asyncio-eventloop.md", "summary": "Open when checking Python 3.9.0 alpha 3 / documentation / asyncio eventloop.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / documentation / inspect", "file": "releases/3-9-0-alpha-3/documentation/inspect.md", "summary": "Open when checking Python 3.9.0 alpha 3 / documentation / inspect.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

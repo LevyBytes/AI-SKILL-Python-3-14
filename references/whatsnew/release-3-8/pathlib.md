@@ -1,0 +1,9 @@
+# What’s New In Python 3.8 / pathlib — pathlib
+
+### pathlib
+
+The boolean-returning [`pathlib.Path`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path) methods, namely [`exists()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.exists), [`is_dir()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_dir), [`is_file()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_file), [`is_mount()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_mount), [`is_symlink()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_symlink), [`is_block_device()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_block_device), [`is_char_device()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_char_device), [`is_fifo()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_fifo), [`is_socket()`](https://docs.python.org/3.14/library/pathlib.html#pathlib.Path.is_socket), henceforth yield `False` in place of throwing [`ValueError`](https://docs.python.org/3.14/library/exceptions.html#ValueError) (or its [`UnicodeEncodeError`](https://docs.python.org/3.14/library/exceptions.html#UnicodeEncodeError) subclass) when a path holds characters the OS layer cannot represent. (Contributed by Serhiy Storchaka in [bpo-33721](https://bugs.python.org/issue?@action=redirect&bpo=33721).)
+
+A `pathlib.Path.link_to()` method arrived; it builds a hard link aimed at a path. (Contributed by Joannah Nanjekye in [bpo-26978](https://bugs.python.org/issue?@action=redirect&bpo=26978)) Be aware that `link_to` became deprecated in 3.10 and then dropped in 3.12, superseded by the `hardlink_to` method introduced in 3.10, whose semantics align with the already-present `symlink_to` method.
+
+[Subject index](INDEX.md) · [Previous source section](os-path.md) · [Next source section](pickle.md) · [Release/subject declaration](assignment-expressions.md)

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "How to port Python 2 Code to Python 3", "file": "how-to-port-python-2-code-to-python-3/how-to-port-python-2-code-to-python-3.md", "summary": "Open when checking How to port Python 2 Code to Python 3.", "keywords": []},
+    {"topic": "Third-party guides", "file": "how-to-port-python-2-code-to-python-3/third-party-guides.md", "summary": "Open when checking Third-party guides.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

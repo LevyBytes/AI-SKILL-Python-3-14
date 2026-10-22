@@ -1,0 +1,51 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.10.0 alpha 4 / library / exceptions. [Built-in objects and typing / Python 3.10.0 alpha 4 / library / exceptions](exceptions.md).
+- Open when checking Python 3.10.0 alpha 4 / library / array. [Data Types / Python 3.10.0 alpha 4 / library / array](array.md).
+- Open when checking Python 3.10.0 alpha 4 / library / collections. [Data Types / Python 3.10.0 alpha 4 / library / collections](collections.md).
+- Open when checking Python 3.10.0 alpha 4 / library / os. [Generic Operating System Services / Python 3.10.0 alpha 4 / library / os](os.md).
+- Open when checking Python 3.10.0 alpha 4 / library / curses. [Command-line interface libraries / Python 3.10.0 alpha 4 / library / curses](curses.md).
+- Open when checking Python 3.10.0 alpha 4 / library / subprocess. [Concurrent Execution / Python 3.10.0 alpha 4 / library / subprocess](subprocess.md).
+- Open when checking Python 3.10.0 alpha 4 / library / text. [Concurrent Execution / Python 3.10.0 alpha 4 / library / text](text.md).
+- Open when checking Python 3.10.0 alpha 4 / library / made certain asyncio wait for waits until task finishes. [Networking and Interprocess Communication / Python 3.10.0 alpha 4 / library / made certain asyncio wait for waits until task finishes](made-certain-asyncio-wait-for-waits-until-task-finishes.md).
+- Open when checking Python 3.10.0 alpha 4 / library / base64. [Internet Data Handling / Python 3.10.0 alpha 4 / library / base64](base64.md).
+- Open when checking Python 3.10.0 alpha 4 / library / pyexpat. [Structured Markup Processing Tools / Python 3.10.0 alpha 4 / library / pyexpat](pyexpat.md).
+- Open when checking Python 3.10.0 alpha 4 / library / memory and lifetimes. [Internet Protocols and Support / Python 3.10.0 alpha 4 / library / memory and lifetimes](memory-and-lifetimes.md).
+- Open when checking Python 3.10.0 alpha 4 / library / lowered tkinter ttk labeledscale dummy widget no longer obscures part content. [Graphical user interfaces with Tk / Python 3.10.0 alpha 4 / library / lowered tkinter ttk labeledscale dummy widget no longer obscures part content](ttk-labeled-scale-widget-stacking.md).
+- Open when checking Python 3.10.0 alpha 4 / library / unittest mock. [Development Tools / Python 3.10.0 alpha 4 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.10.0 alpha 4 / library / exceptions and tracebacks. [Debugging and Profiling / Python 3.10.0 alpha 4 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.10.0 alpha 4 / library / sys. [Python Runtime Services / Python 3.10.0 alpha 4 / library / sys](sys.md).
+- Open when checking Python 3.10.0 alpha 4 / library / atexit. [Python Runtime Services / Python 3.10.0 alpha 4 / library / atexit](atexit.md).
+- Open when checking Python 3.10.0 alpha 4 / library / traceback. [Python Runtime Services / Python 3.10.0 alpha 4 / library / traceback](traceback.md).
+- Open when checking Python 3.10.0 alpha 4 / library / inspect. [Python Runtime Services / Python 3.10.0 alpha 4 / library / inspect](inspect.md).
+- Open when checking Python 3.10.0 alpha 4 / library / importlib metadata. [Importing Modules / Python 3.10.0 alpha 4 / library / importlib metadata](importlib-metadata.md).
+- Open when checking Python 3.10.0 alpha 4 / library / ast. [Python Language Services / Python 3.10.0 alpha 4 / library / ast](ast.md).
+- Open when checking Python 3.10.0 alpha 4 / library / corrected random random seeding. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / corrected random random seeding](corrected-random-random-seeding.md).
+- Open when checking Python 3.10.0 alpha 4 / library / type. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / type](type.md).
+- Open when checking Python 3.10.0 alpha 4 / library / argparse help dropped muddled wording optional arguments. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / argparse help dropped muddled wording optional arguments](argparse-help-dropped-muddled-wording-optional-arguments.md).
+- Open when checking Python 3.10.0 alpha 4 / library / enummeta prepare takes kwds init subclass supported correctly. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / enummeta prepare takes kwds init subclass supported correctly](enummeta-prepare-takes-kwds-init-subclass-supported-correctly.md).
+- Open when checking Python 3.10.0 alpha 4 / library / socket. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / socket](socket.md).
+- Open when checking Python 3.10.0 alpha 4 / library / thread. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / thread](thread.md).
+- Open when checking Python 3.10.0 alpha 4 / library / added guard flags misspellings autospect auto spec set spec they handed. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / added guard flags misspellings autospect auto spec set spec they handed](mock-spec-keyword-typo-detection.md).
+- Open when checking Python 3.10.0 alpha 4 / library / compiler and parser. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.10.0 alpha 4 / library / defined thread stack size vxworks. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / defined thread stack size vxworks](defined-thread-stack-size-vxworks.md).
+- Open when checking Python 3.10.0 alpha 4 / library / enum enumdict update works. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / enum enumdict update works](enum-enumdict-update-works.md).
+- Open when checking Python 3.10.0 alpha 4 / library / enum invoke init subclass once members place. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / enum invoke init subclass once members place](enum-invoke-init-subclass-once-members-place.md).
+- Open when checking Python 3.10.0 alpha 4 / library / strenum corrected generate next value yields str. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / strenum corrected generate next value yields str](strenum-corrected-generate-next-value-yields-str.md).
+- Open when checking Python 3.10.0 alpha 4 / library / tarfile. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / tarfile](tarfile.md).
+- Open when checking Python 3.10.0 alpha 4 / library / brought back compatibility uname result regarding deepcopy replace. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / brought back compatibility uname result regarding deepcopy replace](uname-result-copy-and-replacement.md).
+- Open when checking Python 3.10.0 alpha 4 / library / corrected format behavior intflag. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / corrected format behavior intflag](corrected-format-behavior-intflag.md).
+- Open when checking Python 3.10.0 alpha 4 / library / overview. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / overview](overview.md).
+- Open when checking Python 3.10.0 alpha 4 / library / sysconfig. [Library compatibility and maintenance / Python 3.10.0 alpha 4 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.10.0 alpha 4 / library / typing. [Combined library maintenance / Python 3.10.0 alpha 4 / library / typing](typing.md).
+- Open when checking Python 3.10.0 alpha 4 / library / dialog. [Combined library maintenance / Python 3.10.0 alpha 4 / library / dialog](dialog.md).
+- Open when checking Python 3.10.0 alpha 4 / library / tkinter font. [Combined library maintenance / Python 3.10.0 alpha 4 / library / tkinter font](tkinter-font.md).
+- Open when checking Python 3.10.0 alpha 4 / library / tkinter. [Combined library maintenance / Python 3.10.0 alpha 4 / library / tkinter](tkinter.md).
+- Open when checking Python 3.10.0 alpha 4 / library / files and paths. [Combined library maintenance / Python 3.10.0 alpha 4 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.10.0 alpha 4 / library / functions and types. [Combined library maintenance / Python 3.10.0 alpha 4 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.10.0 alpha 4 / library / random. [Combined library maintenance / Python 3.10.0 alpha 4 / library / random](random.md).
+- Open when checking Python 3.10.0 alpha 4 / library / text and unicode. [Combined library maintenance / Python 3.10.0 alpha 4 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.10.0 alpha 4 / library / imports and modules. [Combined library maintenance / Python 3.10.0 alpha 4 / library / imports and modules](imports-and-modules.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

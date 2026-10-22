@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "14.2. Alternatives to the Interactive Interpreter", "file": "interactive-input-editing-and-history-substitution/alternatives-to-the-interactive-interpreter.md", "summary": "Open when checking 14.2. Alternatives to the Interactive Interpreter.", "keywords": []},
+    {"topic": "14. Interactive Input Editing and History Substitution", "file": "interactive-input-editing-and-history-substitution/interactive-input-editing-and-history-substitution.md", "summary": "Open when checking 14. Interactive Input Editing and History Substitution.", "keywords": []},
+    {"topic": "14.1. Tab Completion and History Editing", "file": "interactive-input-editing-and-history-substitution/tab-completion-and-history-editing.md", "summary": "Open when checking 14.1. Tab Completion and History Editing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

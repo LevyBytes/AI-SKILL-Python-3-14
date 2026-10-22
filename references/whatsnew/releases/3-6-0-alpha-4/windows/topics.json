@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 4 / windows / build and platforms", "file": "releases/3-6-0-alpha-4/windows/build-and-platforms.md", "summary": "Open when checking Python 3.6.0 alpha 4 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / windows / bundled tcl tk moved up", "file": "releases/3-6-0-alpha-4/windows/bundled-tcl-tk-moved-up.md", "summary": "Open when checking Python 3.6.0 alpha 4 / windows / bundled tcl tk moved up.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / windows / functions and types", "file": "releases/3-6-0-alpha-4/windows/functions-and-types.md", "summary": "Open when checking Python 3.6.0 alpha 4 / windows / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / windows / python", "file": "releases/3-6-0-alpha-4/windows/python.md", "summary": "Open when checking Python 3.6.0 alpha 4 / windows / python.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

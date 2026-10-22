@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / compiler and parser", "file": "releases/3-8-0-alpha-4/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / debug", "file": "releases/3-8-0-alpha-4/core-and-builtins/debug.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / debug.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / files and paths", "file": "releases/3-8-0-alpha-4/core-and-builtins/files-and-paths.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / files and paths.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / functions and types", "file": "releases/3-8-0-alpha-4/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / gcsupport", "file": "releases/3-8-0-alpha-4/core-and-builtins/gcsupport.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / gcsupport.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / itertools", "file": "releases/3-8-0-alpha-4/core-and-builtins/itertools.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / itertools.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / keyword", "file": "releases/3-8-0-alpha-4/core-and-builtins/keyword.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / keyword.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / mutating dict s keys while looping over dict keys", "file": "releases/3-8-0-alpha-4/core-and-builtins/mutating-dict-s-keys-while-looping-over-dict-keys.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / mutating dict s keys while looping over dict keys.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / numeric behavior", "file": "releases/3-8-0-alpha-4/core-and-builtins/numeric-behavior.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / numeric", "file": "releases/3-8-0-alpha-4/core-and-builtins/numeric.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / numeric.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / pablo galindo patched pep python positional only parameters proposal", "file": "positional-only-python-parameters.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / pablo galindo patched pep python positional only parameters proposal.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / sys", "file": "releases/3-8-0-alpha-4/core-and-builtins/sys.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / sys.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / text and unicode", "file": "releases/3-8-0-alpha-4/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / text", "file": "releases/3-8-0-alpha-4/core-and-builtins/text.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / text.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / threads", "file": "releases/3-8-0-alpha-4/core-and-builtins/threads.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / threads.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / core and builtins / tracemalloc", "file": "releases/3-8-0-alpha-4/core-and-builtins/tracemalloc.md", "summary": "Open when checking Python 3.8.0 alpha 4 / core and builtins / tracemalloc.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

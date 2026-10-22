@@ -1,0 +1,5 @@
+# Python 3.7.0 alpha 1 / security / re
+
+[bpo-30694](https://bugs.python.org/issue?@action=redirect&bpo=30694): The expat copy was bumped from 2.2.0 to 2.2.1 to pick up fixes for several security vulnerabilities. The list includes [**CVE 2017-9233**](https://www.cve.org/CVERecord?id=CVE-2017-9233) (a DoS from an external entity infinite loop), [**CVE 2016-9063**](https://www.cve.org/CVERecord?id=CVE-2016-9063) (a re-fix of an integer overflow), [**CVE 2016-0718**](https://www.cve.org/CVERecord?id=CVE-2016-0718) (repairing regressions that the 2.2.0 patch for [**CVE 2016-0718**](https://www.cve.org/CVERecord?id=CVE-2016-0718) had introduced) plus [**CVE 2012-0876**](https://www.cve.org/CVERecord?id=CVE-2012-0876) (SipHash-based counter hash flooding). One caveat: [**CVE 2016-5300**](https://www.cve.org/CVERecord?id=CVE-2016-5300) (relying on os-specific entropy sources such as getrandom) leaves Python unaffected, because Python already draws entropy from the OS when it seeds the expat secret through `XML_SetHashSalt()`.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

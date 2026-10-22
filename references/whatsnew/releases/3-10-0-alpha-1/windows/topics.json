@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 1 / windows / build and platforms", "file": "releases/3-10-0-alpha-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / corrected installer s final page layout his permission special", "file": "windows-installer-final-page-layout.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / corrected installer s final page layout his permission special.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / corrects wording shown inside uac prompts", "file": "releases/3-10-0-alpha-1/windows/corrects-wording-shown-inside-uac-prompts.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / corrects wording shown inside uac prompts.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / functions and types", "file": "releases/3-10-0-alpha-1/windows/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / imports and modules", "file": "releases/3-10-0-alpha-1/windows/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / msilib", "file": "releases/3-10-0-alpha-1/windows/msilib.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / msilib.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / overview", "file": "releases/3-10-0-alpha-1/windows/overview.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / overview.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / python", "file": "releases/3-10-0-alpha-1/windows/python.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / python.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / re", "file": "releases/3-10-0-alpha-1/windows/re.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / re.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / site", "file": "releases/3-10-0-alpha-1/windows/site.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / site.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / windows / text", "file": "releases/3-10-0-alpha-1/windows/text.md", "summary": "Open when checking Python 3.10.0 alpha 1 / windows / text.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

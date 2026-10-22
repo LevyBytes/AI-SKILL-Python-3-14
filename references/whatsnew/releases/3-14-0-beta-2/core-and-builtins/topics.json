@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / compiler and parser", "file": "releases/3-14-0-beta-2/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / drop special casing c stack depth limits wasi", "file": "releases/3-14-0-beta-2/core-and-builtins/drop-special-casing-c-stack-depth-limits-wasi.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / drop special casing c stack depth limits wasi.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / exceptions", "file": "releases/3-14-0-beta-2/core-and-builtins/exceptions.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / files and paths", "file": "releases/3-14-0-beta-2/core-and-builtins/files-and-paths.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / functions", "file": "releases/3-14-0-beta-2/core-and-builtins/functions.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / functions.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / future", "file": "releases/3-14-0-beta-2/core-and-builtins/future.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / future.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / imports and modules", "file": "releases/3-14-0-beta-2/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / repair situation where hashtable inside dict can grow larger", "file": "releases/3-14-0-beta-2/core-and-builtins/repair-situation-where-hashtable-inside-dict-can-grow-larger.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / repair situation where hashtable inside dict can grow larger.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / stdtypes", "file": "releases/3-14-0-beta-2/core-and-builtins/stdtypes.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / stdtypes.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / sys", "file": "releases/3-14-0-beta-2/core-and-builtins/sys.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / sys.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / text and unicode", "file": "releases/3-14-0-beta-2/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / core and builtins / threading", "file": "releases/3-14-0-beta-2/core-and-builtins/threading.md", "summary": "Open when checking Python 3.14.0 beta 2 / core and builtins / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

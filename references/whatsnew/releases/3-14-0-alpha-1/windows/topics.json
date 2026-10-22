@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 1 / windows / build and platforms", "file": "releases/3-14-0-alpha-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / corrects how py exe treats shebangs such usr bin env", "file": "releases/3-14-0-alpha-1/windows/corrects-how-py-exe-treats-shebangs-such-usr-bin-env.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / corrects how py exe treats shebangs such usr bin env.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / ensurepip", "file": "releases/3-14-0-alpha-1/windows/ensurepip.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / ensurepip.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / files and paths", "file": "releases/3-14-0-alpha-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / guarantees experimental free threaded binaries stay installed across update", "file": "free-threaded-windows-binary-upgrade-preservation.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / guarantees experimental free threaded binaries stay installed across update.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / imports and modules", "file": "releases/3-14-0-alpha-1/windows/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / mimetypes", "file": "releases/3-14-0-alpha-1/windows/mimetypes.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / mimetypes.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / mmap", "file": "releases/3-14-0-alpha-1/windows/mmap.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / mmap.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / refreshed bundled tcl tk", "file": "releases/3-14-0-alpha-1/windows/refreshed-bundled-tcl-tk.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / refreshed bundled tcl tk.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / windows / text and unicode", "file": "releases/3-14-0-alpha-1/windows/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 alpha 1 / windows / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

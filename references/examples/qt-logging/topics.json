@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "logging_window", "file": "references/examples/qt-logging/logging_window.py", "summary": "Open when checking logging_window.", "keywords": []},
+    {"topic": "qt_logging", "file": "references/examples/qt-logging/qt_logging.py", "summary": "Open when checking qt_logging.", "keywords": []},
+    {"topic": "run_gui", "file": "references/examples/qt-logging/run_gui.py", "summary": "Open when checking run_gui.", "keywords": []},
+    {"topic": "worker", "file": "references/examples/qt-logging/worker.py", "summary": "Open when checking worker.", "keywords": []},
+    {"topic": "worker_controls", "file": "references/examples/qt-logging/worker_controls.py", "summary": "Open when checking worker_controls.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

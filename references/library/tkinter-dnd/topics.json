@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "tkinter.dnd: `tkinter.dnd.DndHandler`", "file": "tkinter-dnd/tkinter-dnd-dndhandler-class.md", "summary": "Open when checking the documented contracts for `tkinter.dnd.DndHandler` in tkinter.dnd.", "keywords": []},
+  {"topic": "tkinter.dnd.DndHandler: `cancel()`, `finish()`, `on_motion()`, `on_release()`", "file": "drag-handler-cancellation-and-release.md", "summary": "Open when checking the documented contracts for `cancel()`, `finish()`, `on_motion()`, `on_release()` in tkinter.dnd.DndHandler.", "keywords": []},
+  {"topic": "tkinter.dnd: `tkinter.dnd.dnd_start()`", "file": "tkinter-dnd/tkinter-dnd-dnd-start.md", "summary": "Open when checking the documented contracts for `tkinter.dnd.dnd_start()` in tkinter.dnd.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

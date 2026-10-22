@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.4 release candidate 1 / tests / compiler and parser", "file": "releases/3-5-4-release-candidate-1/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / tests / imports and modules", "file": "releases/3-5-4-release-candidate-1/tests/imports-and-modules.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / tests / locale", "file": "releases/3-5-4-release-candidate-1/tests/locale.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / tests / locale.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / tests / platform", "file": "releases/3-5-4-release-candidate-1/tests/platform.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / tests / platform.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / tests / random", "file": "releases/3-5-4-release-candidate-1/tests/random.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / tests / random.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / tests / text", "file": "releases/3-5-4-release-candidate-1/tests/text.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / tests / text.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "1.1. Alternate Implementations", "file": "introduction/alternate-implementations.md", "summary": "Open when checking 1.1. Alternate Implementations.", "keywords": []},
+    {"topic": "1. Introduction", "file": "introduction/introduction.md", "summary": "Open when checking 1. Introduction.", "keywords": []},
+    {"topic": "1.2.1. Lexical and Syntactic definitions", "file": "introduction/lexical-and-syntactic-definitions.md", "summary": "Open when checking 1.2.1. Lexical and Syntactic definitions.", "keywords": []},
+    {"topic": "1.2. Notation", "file": "introduction/notation.md", "summary": "Open when checking 1.2. Notation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

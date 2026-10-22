@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Orientation", "file": "orientation/INDEX.md", "summary": "Open when checking orientation.", "keywords": []},
+  {"topic": "Python setup and usage", "file": "python-setup-and-usage/INDEX.md", "summary": "Open when checking python setup and usage.", "keywords": []},
+  {"topic": "Command line", "file": "command-line/INDEX.md", "summary": "Open when checking command line.", "keywords": []},
+  {"topic": "Windows", "file": "windows/INDEX.md", "summary": "Open when checking windows.", "keywords": []},
+  {"topic": "Unix", "file": "unix/INDEX.md", "summary": "Open when checking unix.", "keywords": []},
+  {"topic": "Macos", "file": "macos/INDEX.md", "summary": "Open when checking macos.", "keywords": []},
+  {"topic": "Build configuration", "file": "build-configuration/INDEX.md", "summary": "Open when checking build configuration.", "keywords": []},
+  {"topic": "Android", "file": "android/INDEX.md", "summary": "Open when checking android.", "keywords": []},
+  {"topic": "Using python on ios", "file": "using-python-on-ios/INDEX.md", "summary": "Open when checking using python on ios.", "keywords": []},
+  {"topic": "Editors and ides", "file": "editors-and-ides/INDEX.md", "summary": "Open when checking editors and ides.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

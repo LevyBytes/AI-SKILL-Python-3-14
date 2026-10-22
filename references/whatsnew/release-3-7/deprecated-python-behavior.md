@@ -1,0 +1,9 @@
+# What's New In Python 3.7 / Deprecated Python Behavior
+
+### Deprecated Python Behavior
+
+Inside comprehensions and generator expressions, yield expressions (covering both `yield` and `yield from` clauses) are now deprecated, except for the iterable expression appearing in the leftmost `for` clause. The effect is that comprehensions consistently return a container of the right type straightaway (instead of perhaps handing back a [generator iterator](https://docs.python.org/3.14/glossary.html#term-generator-iterator) object), and generator expressions avoid mixing their implicit output together with anything produced by explicit yield expressions. Under Python 3.7, compiling such expressions raises [`DeprecationWarning`](https://docs.python.org/3.14/library/exceptions.html#DeprecationWarning); under Python 3.8 it becomes a [`SyntaxError`](https://docs.python.org/3.14/library/exceptions.html#SyntaxError). (Contributed by Serhiy Storchaka in [bpo-10544](https://bugs.python.org/issue?@action=redirect&bpo=10544).)
+
+Handing back a subclass of [`complex`](https://docs.python.org/3.14/library/functions.html#complex) from [`object.__complex__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__complex__) is now deprecated and will raise an error in later Python releases. That brings `__complex__()` into line with [`object.__int__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__int__) and [`object.__float__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__float__). (Contributed by Serhiy Storchaka in [bpo-28894](https://bugs.python.org/issue?@action=redirect&bpo=28894).)
+
+[Subject index](INDEX.md) · [Previous source section](other-cpython-implementation-changes.md) · [Next source section](aifc.md) · [Release/subject declaration](summary-release-highlights.md)

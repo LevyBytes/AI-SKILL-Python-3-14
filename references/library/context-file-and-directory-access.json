@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "File and Directory Access / filesys", "file": "filesys/INDEX.md", "summary": "Open when checking filesys.", "keywords": []},
+  {"topic": "File and Directory Access / pathlib", "file": "pathlib/INDEX.md", "summary": "Open when checking pathlib.", "keywords": []},
+  {"topic": "File and Directory Access / os path", "file": "os-path/INDEX.md", "summary": "Open when checking os path.", "keywords": []},
+  {"topic": "File and Directory Access / stat", "file": "stat/INDEX.md", "summary": "Open when checking stat.", "keywords": []},
+  {"topic": "File and Directory Access / filecmp", "file": "filecmp/INDEX.md", "summary": "Open when checking filecmp.", "keywords": []},
+  {"topic": "File and Directory Access / tempfile", "file": "tempfile/INDEX.md", "summary": "Open when checking tempfile.", "keywords": []},
+  {"topic": "File and Directory Access / glob", "file": "glob/INDEX.md", "summary": "Open when checking glob.", "keywords": []},
+  {"topic": "File and Directory Access / fnmatch", "file": "fnmatch/INDEX.md", "summary": "Open when checking fnmatch.", "keywords": []},
+  {"topic": "File and Directory Access / linecache", "file": "linecache/INDEX.md", "summary": "Open when checking linecache.", "keywords": []},
+  {"topic": "File and Directory Access / shutil", "file": "shutil/INDEX.md", "summary": "Open when checking shutil.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

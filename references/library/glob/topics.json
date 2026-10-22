@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "glob — Examples", "file": "glob/examples.md", "summary": "Open when checking glob — Examples.", "keywords": []},
+  {"topic": "glob: `glob.glob()`, `glob.iglob()`, `glob.escape()`", "file": "glob/glob-glob-to-glob-escape.md", "summary": "Open when checking the documented contracts for `glob.glob()`, `glob.iglob()`, `glob.escape()` in glob.", "keywords": []},
+  {"topic": "glob: `glob.translate()`", "file": "glob/glob-translate.md", "summary": "Open when checking the documented contracts for `glob.translate()` in glob.", "keywords": []},
+  {"topic": "glob — Unix style pathname pattern expansion", "file": "glob/unix-style-pathname-pattern-expansion.md", "summary": "Open when checking glob — Unix style pathname pattern expansion.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

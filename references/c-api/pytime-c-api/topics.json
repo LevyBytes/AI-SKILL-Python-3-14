@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "double PyTime_AsSecondsDouble(PyTime_t t)", "file": "pytime-c-api/pytime-assecondsdouble.md", "summary": "Open when checking double PyTime_AsSecondsDouble(PyTime_t t).", "keywords": []},
+    {"topic": "PyTime C API", "file": "pytime-c-api/pytime-c-api.md", "summary": "Open when checking PyTime C API.", "keywords": []},
+    {"topic": "Clock Functions", "file": "pytime-c-api/pytime-monotonic-to-pytime-time.md", "summary": "Open when checking Clock Functions.", "keywords": []},
+    {"topic": "Raw Clock Functions", "file": "pytime-c-api/pytime-monotonicraw-to-pytime-timeraw.md", "summary": "Open when checking Raw Clock Functions.", "keywords": []},
+    {"topic": "Types", "file": "pytime-c-api/pytime-t-to-pytime-max.md", "summary": "Open when checking Types.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 2 / documentation / documents how object eq behaves default", "file": "releases/3-10-0-alpha-2/documentation/documents-how-object-eq-behaves-default.md", "summary": "Open when checking Python 3.10.0 alpha 2 / documentation / documents how object eq behaves default.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 2 / documentation / functions and types", "file": "releases/3-10-0-alpha-2/documentation/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 2 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 2 / documentation / numeric", "file": "releases/3-10-0-alpha-2/documentation/numeric.md", "summary": "Open when checking Python 3.10.0 alpha 2 / documentation / numeric.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 2 / documentation / stdtypes", "file": "releases/3-10-0-alpha-2/documentation/stdtypes.md", "summary": "Open when checking Python 3.10.0 alpha 2 / documentation / stdtypes.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 2 / documentation / tarfile", "file": "releases/3-10-0-alpha-2/documentation/tarfile.md", "summary": "Open when checking Python 3.10.0 alpha 2 / documentation / tarfile.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 2 / documentation / tests and documentation", "file": "releases/3-10-0-alpha-2/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 2 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

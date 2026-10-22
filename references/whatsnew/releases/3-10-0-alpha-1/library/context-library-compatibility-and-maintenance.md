@@ -1,0 +1,34 @@
+# Library compatibility and maintenance
+
+Select by the documented task or API context. [Topic catalog](context-library-compatibility-and-maintenance.json).
+
+- Open when checking Python 3.10.0 alpha 1 / library / type. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / type](type.md).
+- Open when checking Python 3.10.0 alpha 1 / library / modules. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / modules](modules.md).
+- Open when checking Python 3.10.0 alpha 1 / library / brings winapi multiphase initialization. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / brings winapi multiphase initialization](brings-winapi-multiphase-initialization.md).
+- Open when checking Python 3.10.0 alpha 1 / library / brings sha256 multiphase initialization. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / brings sha256 multiphase initialization](brings-sha256-multiphase-initialization.md).
+- Open when checking Python 3.10.0 alpha 1 / library / nis. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / nis](nis.md).
+- Open when checking Python 3.10.0 alpha 1 / library / move lzma over multiphase initialization. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / move lzma over multiphase initialization](move-lzma-over-multiphase-initialization.md).
+- Open when checking Python 3.10.0 alpha 1 / library / corrected bug let enums extended through multiple inheritance. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / corrected bug let enums extended through multiple inheritance](corrected-bug-let-enums-extended-through-multiple-inheritance.md).
+- Open when checking Python 3.10.0 alpha 1 / library / corrected sqlite3 segfault occurred while backing up closed database. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / corrected sqlite3 segfault occurred while backing up closed database](sqlite-closed-database-backup-crash.md).
+- Open when checking Python 3.10.0 alpha 1 / library / dis. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / dis](dis.md).
+- Open when checking Python 3.10.0 alpha 1 / library / pdb. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / pdb](pdb.md).
+- Open when checking Python 3.10.0 alpha 1 / library / pprint. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / pprint](pprint.md).
+- Open when checking Python 3.10.0 alpha 1 / library / tkinter. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / tkinter](tkinter.md).
+- Open when checking Python 3.10.0 alpha 1 / library / turtle. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / turtle](turtle.md).
+- Open when checking Python 3.10.0 alpha 1 / library / block creation shared memory sharedmemory objects size. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / block creation shared memory sharedmemory objects size](block-creation-shared-memory-sharedmemory-objects-size.md).
+- Open when checking Python 3.10.0 alpha 1 / library / compiler and parser. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.10.0 alpha 1 / library / inside distutils spawn reinstated expectation distutilsexecerror gets raised whenever command. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / inside distutils spawn reinstated expectation distutilsexecerror gets raised whenever command](distutils-spawn-command-error-contract.md).
+- Open when checking Python 3.10.0 alpha 1 / library / selector choose defaultselector according implementation. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / selector choose defaultselector according implementation](selector-choose-defaultselector-according-implementation.md).
+- Open when checking Python 3.10.0 alpha 1 / library / speed up httpresponse read specific count requested. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / speed up httpresponse read specific count requested](speed-up-httpresponse-read-specific-count-requested.md).
+- Open when checking Python 3.10.0 alpha 1 / library / statistics. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / statistics](statistics.md).
+- Open when checking Python 3.10.0 alpha 1 / library / asyncio. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.10.0 alpha 1 / library / collections and iteration. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.10.0 alpha 1 / library / distutils. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / distutils](distutils.md).
+- Open when checking Python 3.10.0 alpha 1 / library / stop truncation str object sent via xxsubinterpreters channel send. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / stop truncation str object sent via xxsubinterpreters channel send](subinterpreter-channel-string-truncation.md).
+- Open when checking Python 3.10.0 alpha 1 / library / correct default missing duplicate valueerror does not end up. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / correct default missing duplicate valueerror does not end up](correct-default-missing-duplicate-valueerror-does-not-end-up.md).
+- Open when checking Python 3.10.0 alpha 1 / library / module. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / module](module.md).
+- Open when checking Python 3.10.0 alpha 1 / library / tests and documentation. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / tests and documentation](tests-and-documentation.md).
+- Open when checking Python 3.10.0 alpha 1 / library / use sqlite3 trace v2 api whenever can found. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / use sqlite3 trace v2 api whenever can found](use-sqlite3-trace-v2-api-whenever-can-found.md).
+- Open when checking Python 3.10.0 alpha 1 / library / numeric. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / numeric](numeric.md).
+- Open when checking Python 3.10.0 alpha 1 / library / repair cgi parse multipart case no content length. [Library compatibility and maintenance / Python 3.10.0 alpha 1 / library / repair cgi parse multipart case no content length](repair-cgi-parse-multipart-case-no-content-length.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

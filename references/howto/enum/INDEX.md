@@ -1,0 +1,56 @@
+# Python HOWTOs subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Enum creation, names, values and member types. [Creating enums and choosing member types / Enum creation, names, values and member types](enum-creation-names-values-and-member-types.md).
+- Open when checking Programmatic access to enumeration members and their attributes. [Programmatic access to enumeration members and their attributes](enum-member-and-attribute-access.md).
+- Open when checking Duplicating enum members and values. [Duplicating enum members and values](duplicating-enum-members-and-values.md).
+- Open when checking Ensuring unique enumeration values. [Ensuring unique enumeration values](ensuring-unique-enumeration-values.md).
+- Open when checking Using automatic values. [Using automatic values](using-automatic-values.md).
+- Open when checking Iteration. [Iteration](iteration.md).
+- Open when checking Comparisons. [Comparisons](comparisons.md).
+- Open when checking Allowed members and attributes of enumerations. [Allowed members and attributes of enumerations](allowed-members-and-attributes-of-enumerations.md).
+- Open when checking Restricted Enum subclassing. [Restricted Enum subclassing](restricted-enum-subclassing.md).
+- Open when checking Dataclass support. [Dataclass support](dataclass-support.md).
+- Open when checking Pickling. [Pickling](pickling.md).
+- Open when checking Functional Enum creation and pickling module/qualname requirements. [Functional API / Functional Enum creation and pickling module/qualname requirements](functional-enum-pickling-module-and-qualname.md).
+- Open when checking Complete Enum functional signature, parameters and start version note. [Functional API / Complete Enum functional signature, parameters and start version note](functional-enum-signature-and-start-parameter.md).
+- Open when checking IntEnum. [Derived Enumerations / IntEnum](intenum.md).
+- Open when checking StrEnum. [Derived Enumerations / StrEnum](strenum.md).
+- Open when checking IntFlag continuation. [Derived Enumerations / IntFlag continuation](intflag-continuation.md).
+- Open when checking IntFlag. [Derived Enumerations / IntFlag](intflag.md).
+- Open when checking Flag. [Derived Enumerations / Flag](flag.md).
+- Open when checking Others. [Derived Enumerations / Others](others.md).
+- Open when checking When to use `__new__()` vs. `__init__()`. [When to use `__new__()` vs. `__init__()`](when-to-use-new-vs-init.md).
+- Open when checking Supported `__dunder__` and `_sunder_` names. [Finer Points / Supported `__dunder__` and `_sunder_` names](supported-dunder-and-sunder-names.md).
+- Open when checking _Private__names. [Finer Points / _Private__names](private-names.md).
+- Open when checking `Enum` member type. [Finer Points / `Enum` member type](enum-member-type.md).
+- Open when checking Creating members that are mixed with other data types. [Finer Points / Creating members that are mixed with other data types](creating-members-that-are-mixed-with-other-data-types.md).
+- Open when checking Boolean value of `Enum` classes and members. [Finer Points / Boolean value of `Enum` classes and members](boolean-value-of-enum-classes-and-members.md).
+- Open when checking `Enum` classes with methods. [Finer Points / `Enum` classes with methods](enum-classes-with-methods.md).
+- Open when checking Combining members of `Flag`. [Finer Points / Combining members of `Flag`](combining-members-of-flag.md).
+- Open when checking IntFlag Color setup, canonical bits and pseudo-flag names. [Finer Points / IntFlag Color setup, canonical bits and pseudo-flag names](intflag-color-setup-canonical-bits-and-pseudo-flag-names.md).
+- Open when checking Flag aliases and containment. [Finer Points / Flag aliases and containment](flag-aliases-and-containment.md).
+- Open when checking STRICT, CONFORM, EJECT and KEEP boundary modes. [Finer Points / STRICT, CONFORM, EJECT and KEEP boundary modes](strict-conform-eject-and-keep-boundary-modes.md).
+- Open when checking How are Enums and Flags different? [How are Enums and Flags different?](how-are-enums-and-flags-different.md).
+- Open when checking Enum Classes. [How are Enums and Flags different? / Enum Classes](enum-classes.md).
+- Open when checking Flag Classes. [How are Enums and Flags different? / Flag Classes](flag-classes.md).
+- Open when checking Enum Members (aka instances). [How are Enums and Flags different? / Enum Members (aka instances)](enum-members.md).
+- Open when checking Flag Members. [How are Enums and Flags different? / Flag Members](flag-members.md).
+- Open when checking Enum Cookbook. [Enum Cookbook](enum-cookbook.md).
+- Open when checking Omitting values. [Enum Cookbook / Omitting values](omitting-values.md).
+- Open when checking Using `auto`. [Enum Cookbook / Using `auto`](using-auto.md).
+- Open when checking Using `object`. [Enum Cookbook / Using `object`](using-object.md).
+- Open when checking Using a descriptive string. [Enum Cookbook / Using a descriptive string](using-a-descriptive-string.md).
+- Open when checking Using a custom `__new__()`. [Enum Cookbook / Using a custom `__new__()`](using-a-custom-new.md).
+- Open when checking OrderedEnum. [Enum Cookbook / OrderedEnum](orderedenum.md).
+- Open when checking DuplicateFreeEnum. [Enum Cookbook / DuplicateFreeEnum](duplicatefreeenum.md).
+- Open when checking MultiValueEnum. [Enum Cookbook / MultiValueEnum](multivalueenum.md).
+- Open when checking Planet. [Enum Cookbook / Planet](planet.md).
+- Open when checking TimePeriod continuation. [Enum Cookbook / TimePeriod continuation](timeperiod-continuation.md).
+- Open when checking TimePeriod. [Enum Cookbook / TimePeriod](timeperiod.md).
+- Open when checking Subclassing EnumType. [Subclassing EnumType](subclassing-enumtype.md).
+- Open when checking Weekday class method and date lookup. [Enum HOWTO / Weekday class method and date lookup](weekday-class-method-and-date-lookup.md).
+- Open when checking Flag combinations and iteration. [Enum HOWTO / Flag combinations and iteration](flag-combinations-and-iteration.md).
+- Open when checking Flag chores and automatic values. [Enum HOWTO / Flag chores and automatic values](flag-chores-and-automatic-values.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

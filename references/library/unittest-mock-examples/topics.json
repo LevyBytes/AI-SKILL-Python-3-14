@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Matching custom objects in mock call assertions", "file": "custom-object-argument-matchers.md", "summary": "Open when checking Matching custom objects in mock call assertions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

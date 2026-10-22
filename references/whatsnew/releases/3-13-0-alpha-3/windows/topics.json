@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 3 / windows / build and platforms", "file": "releases/3-13-0-alpha-3/windows/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / files and paths", "file": "releases/3-13-0-alpha-3/windows/files-and-paths.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / mmap", "file": "releases/3-13-0-alpha-3/windows/mmap.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / mmap.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / modules", "file": "releases/3-13-0-alpha-3/windows/modules.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / multiprocessing", "file": "releases/3-13-0-alpha-3/windows/multiprocessing.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / os", "file": "releases/3-13-0-alpha-3/windows/os.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / os.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / platform", "file": "releases/3-13-0-alpha-3/windows/platform.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / platform.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / sort properly strip duplicate environment variables inside winapi createprocess", "file": "windows-process-environment-sort-and-deduplication.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / sort properly strip duplicate environment variables inside winapi createprocess.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / windows / sys", "file": "releases/3-13-0-alpha-3/windows/sys.md", "summary": "Open when checking Python 3.13.0 alpha 3 / windows / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Data Handling / Python 3.12.0 alpha 1 / library / mimetypes", "file": "releases/3-12-0-alpha-1/library/mimetypes.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / mimetypes.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.12.0 alpha 1 / library / json dumps runs quicker whenever key sorting goes unrequested default", "file": "releases/3-12-0-alpha-1/library/unsorted-json-serialization-optimization.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / json dumps runs quicker whenever key sorting goes unrequested default.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

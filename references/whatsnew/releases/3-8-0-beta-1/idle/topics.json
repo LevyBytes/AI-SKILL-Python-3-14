@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 beta 1 / idle / files and paths", "file": "releases/3-8-0-beta-1/idle/files-and-paths.md", "summary": "Open when checking Python 3.8.0 beta 1 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / idle / functions and types", "file": "releases/3-8-0-beta-1/idle/functions-and-types.md", "summary": "Open when checking Python 3.8.0 beta 1 / idle / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / idle / numeric behavior", "file": "releases/3-8-0-beta-1/idle/numeric-behavior.md", "summary": "Open when checking Python 3.8.0 beta 1 / idle / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / idle / swaps now superfluous context use ps1 prompt last line", "file": "releases/3-8-0-beta-1/idle/swaps-now-superfluous-context-use-ps1-prompt-last-line.md", "summary": "Open when checking Python 3.8.0 beta 1 / idle / swaps now superfluous context use ps1 prompt last line.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / idle / tests and documentation", "file": "releases/3-8-0-beta-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 beta 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

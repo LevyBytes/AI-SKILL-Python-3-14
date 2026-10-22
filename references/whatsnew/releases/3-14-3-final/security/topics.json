@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.3 final / security / c0 control characters within wsgiref headers headers fields values parameters rejected", "file": "wsgi-header-control-character-rejection.md", "summary": "Open when checking Python 3.14.3 final / security / c0 control characters within wsgiref headers headers fields values parameters rejected.", "keywords": []},
+    {"topic": "Python 3.14.3 final / security / email generator", "file": "releases/3-14-3-final/security/email-generator.md", "summary": "Open when checking Python 3.14.3 final / security / email generator.", "keywords": []},
+    {"topic": "Python 3.14.3 final / security / email", "file": "releases/3-14-3-final/security/email.md", "summary": "Open when checking Python 3.14.3 final / security / email.", "keywords": []},
+    {"topic": "Python 3.14.3 final / security / functions and types", "file": "releases/3-14-3-final/security/functions-and-types.md", "summary": "Open when checking Python 3.14.3 final / security / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.3 final / security / http cookies", "file": "releases/3-14-3-final/security/http-cookies.md", "summary": "Open when checking Python 3.14.3 final / security / http cookies.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

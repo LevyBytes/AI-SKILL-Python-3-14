@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "dbm — `dbm` — Interfaces to Unix “databases”", "file": "dbm/dbm-sqlite3-to-dbm-open.md", "summary": "Open when checking dbm — `dbm` — Interfaces to Unix “databases”.", "keywords": []},
+    {"topic": "dbm — **flag** (*str*) –", "file": "dbm/flag-str.md", "summary": "Open when checking dbm — **flag** (*str*) –.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

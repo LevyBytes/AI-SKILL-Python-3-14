@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 3 / security / http cookiejar", "file": "releases/3-8-0-alpha-3/security/http-cookiejar.md", "summary": "Open when checking Python 3.8.0 alpha 3 / security / http cookiejar.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / security / text and unicode", "file": "releases/3-8-0-alpha-3/security/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 alpha 3 / security / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

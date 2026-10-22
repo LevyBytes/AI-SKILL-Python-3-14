@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 2 / tests / build and platforms", "file": "releases/3-8-0-alpha-2/tests/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / crypto", "file": "releases/3-8-0-alpha-2/tests/crypto.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / crypto.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / http", "file": "releases/3-8-0-alpha-2/tests/http.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / http.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / imports and modules", "file": "releases/3-8-0-alpha-2/tests/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / make test imap4 host default value not depend whether local imap server happens", "file": "imap-test-default-host-independence.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / make test imap4 host default value not depend whether local imap server happens.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / multiprocessing", "file": "releases/3-8-0-alpha-2/tests/multiprocessing.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / skip test shutil test unpack archive xztar memoryerror avoided bit aix whenever maxdata setting", "file": "aix-memory-constrained-archive-test-skip.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / skip test shutil test unpack archive xztar memoryerror avoided bit aix whenever maxdata setting.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / tests / tests and documentation", "file": "releases/3-8-0-alpha-2/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 alpha 2 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

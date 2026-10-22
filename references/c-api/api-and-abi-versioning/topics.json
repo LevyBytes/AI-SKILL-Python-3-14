@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Build-time version constants", "file": "api-and-abi-versioning/build-time-version-constants.md", "summary": "Open when checking Build-time version constants.", "keywords": []},
+    {"topic": "Bit-packing macros", "file": "api-and-abi-versioning/py-pack-full-version-to-py-pack-version.md", "summary": "Open when checking Bit-packing macros.", "keywords": []},
+    {"topic": "const unsigned long Py_Version", "file": "api-and-abi-versioning/py-version.md", "summary": "Open when checking const unsigned long Py_Version.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

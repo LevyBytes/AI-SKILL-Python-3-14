@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Structured Markup Processing Tools / markup", "file": "markup/INDEX.md", "summary": "Open when checking markup.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / html", "file": "html/INDEX.md", "summary": "Open when checking html.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / html parser", "file": "html-parser/INDEX.md", "summary": "Open when checking html parser.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / html entities", "file": "html-entities/INDEX.md", "summary": "Open when checking html entities.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml", "file": "xml/INDEX.md", "summary": "Open when checking xml.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml etree elementtree", "file": "xml-etree-elementtree/INDEX.md", "summary": "Open when checking xml etree elementtree.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml dom", "file": "xml-dom/INDEX.md", "summary": "Open when checking xml dom.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml dom minidom", "file": "xml-dom-minidom/INDEX.md", "summary": "Open when checking xml dom minidom.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml dom pulldom", "file": "xml-dom-pulldom/INDEX.md", "summary": "Open when checking xml dom pulldom.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml sax", "file": "xml-sax/INDEX.md", "summary": "Open when checking xml sax.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml sax handler", "file": "xml-sax-handler/INDEX.md", "summary": "Open when checking xml sax handler.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml sax utils", "file": "xml-sax-utils/INDEX.md", "summary": "Open when checking xml sax utils.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml sax reader", "file": "xml-sax-reader/INDEX.md", "summary": "Open when checking xml sax reader.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / xml parsers expat", "file": "xml-parsers-expat/INDEX.md", "summary": "Open when checking xml parsers expat.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

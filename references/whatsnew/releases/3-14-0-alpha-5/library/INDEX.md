@@ -1,0 +1,61 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.0 alpha 5 / library / stdtypes. [Built-in objects and typing / Python 3.14.0 alpha 5 / library / stdtypes](stdtypes.md).
+- Open when checking Python 3.14.0 alpha 5 / library / difflib. [Text Processing Services / Python 3.14.0 alpha 5 / library / difflib](difflib.md).
+- Open when checking Python 3.14.0 alpha 5 / library / string. [Text Processing Services / Python 3.14.0 alpha 5 / library / string](string.md).
+- Open when checking Python 3.14.0 alpha 5 / library / calendar. [Data Types / Python 3.14.0 alpha 5 / library / calendar](calendar.md).
+- Open when checking Python 3.14.0 alpha 5 / library / array. [Data Types / Python 3.14.0 alpha 5 / library / array](array.md).
+- Open when checking Python 3.14.0 alpha 5 / library / math. [Numeric and Mathematical Modules / Python 3.14.0 alpha 5 / library / math](math.md).
+- Open when checking Python 3.14.0 alpha 5 / library / pathlib. [File and Directory Access / Python 3.14.0 alpha 5 / library / pathlib](pathlib.md).
+- Open when checking Python 3.14.0 alpha 5 / library / tomllib. [File Formats / Python 3.14.0 alpha 5 / library / tomllib](tomllib.md).
+- Open when checking Python 3.14.0 alpha 5 / library / configparser. [File Formats / Python 3.14.0 alpha 5 / library / configparser](configparser.md).
+- Open when checking Python 3.14.0 alpha 5 / library / hashlib. [Cryptographic Services / Python 3.14.0 alpha 5 / library / hashlib](hashlib.md).
+- Open when checking Python 3.14.0 alpha 5 / library / optparse. [Command-line interface libraries / Python 3.14.0 alpha 5 / library / optparse](optparse.md).
+- Open when checking Python 3.14.0 alpha 5 / library / subprocess. [Concurrent Execution / Python 3.14.0 alpha 5 / library / subprocess](subprocess.md).
+- Open when checking Python 3.14.0 alpha 5 / library / asyncio task. [Networking and Interprocess Communication / Python 3.14.0 alpha 5 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.14.0 alpha 5 / library / functions and types. [Networking and Interprocess Communication / Python 3.14.0 alpha 5 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.14.0 alpha 5 / library / asyncio eventloop. [Networking and Interprocess Communication / Python 3.14.0 alpha 5 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.14.0 alpha 5 / library / asyncio graph. [Networking and Interprocess Communication / Python 3.14.0 alpha 5 / library / asyncio graph](asyncio-graph.md).
+- Open when checking Python 3.14.0 alpha 5 / library / base64. [Internet Data Handling / Python 3.14.0 alpha 5 / library / base64](base64.md).
+- Open when checking Python 3.14.0 alpha 5 / library / uuid. [Internet Protocols and Support / Python 3.14.0 alpha 5 / library / uuid](uuid.md).
+- Open when checking Python 3.14.0 alpha 5 / library / http client. [Internet Protocols and Support / Python 3.14.0 alpha 5 / library / http client](http-client.md).
+- Open when checking Python 3.14.0 alpha 5 / library / imaplib. [Internet Protocols and Support / Python 3.14.0 alpha 5 / library / imaplib](imaplib.md).
+- Open when checking Python 3.14.0 alpha 5 / library / http cookies. [Internet Protocols and Support / Python 3.14.0 alpha 5 / library / http cookies](http-cookies.md).
+- Open when checking Python 3.14.0 alpha 5 / library / locale. [Internationalization / Python 3.14.0 alpha 5 / library / locale](locale.md).
+- Open when checking Python 3.14.0 alpha 5 / library / gettext. [Internationalization / Python 3.14.0 alpha 5 / library / gettext](gettext.md).
+- Open when checking Python 3.14.0 alpha 5 / library / turtle. [Graphical user interfaces with Tk / Python 3.14.0 alpha 5 / library / turtle](turtle.md).
+- Open when checking Python 3.14.0 alpha 5 / library / pydoc. [Development Tools / Python 3.14.0 alpha 5 / library / pydoc](pydoc.md).
+- Open when checking Python 3.14.0 alpha 5 / library / profile. [Debugging and Profiling / Python 3.14.0 alpha 5 / library / profile](profile.md).
+- Open when checking Python 3.14.0 alpha 5 / library / tracemalloc. [Debugging and Profiling / Python 3.14.0 alpha 5 / library / tracemalloc](tracemalloc.md).
+- Open when checking Python 3.14.0 alpha 5 / library / mark pdb pdb curframe locals deprecated. [Debugging and Profiling / Python 3.14.0 alpha 5 / library / mark pdb pdb curframe locals deprecated](mark-pdb-pdb-curframe-locals-deprecated.md).
+- Open when checking Python 3.14.0 alpha 5 / library / pdb. [Debugging and Profiling / Python 3.14.0 alpha 5 / library / pdb](pdb.md).
+- Open when checking Python 3.14.0 alpha 5 / library / threading. [Python Runtime Services / Python 3.14.0 alpha 5 / library / threading](threading.md).
+- Open when checking Python 3.14.0 alpha 5 / library / sys. [Python Runtime Services / Python 3.14.0 alpha 5 / library / sys](sys.md).
+- Open when checking Python 3.14.0 alpha 5 / library / importlib. [Importing Modules / Python 3.14.0 alpha 5 / library / importlib](importlib.md).
+- Open when checking Python 3.14.0 alpha 5 / library / ast. [Python Language Services / Python 3.14.0 alpha 5 / library / ast](ast.md).
+- Open when checking Python 3.14.0 alpha 5 / library / tokenize. [Python Language Services / Python 3.14.0 alpha 5 / library / tokenize](tokenize.md).
+- Open when checking Python 3.14.0 alpha 5 / library / syslog. [Unix-specific services / Python 3.14.0 alpha 5 / library / syslog](syslog.md).
+- Open when checking Python 3.14.0 alpha 5 / library / bundled pip updated. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / bundled pip updated](bundled-pip-updated.md).
+- Open when checking Python 3.14.0 alpha 5 / library / pyio fileio readall allocates resizes populates data buffer very algorithm io fileio readall. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / pyio fileio readall allocates resizes populates data buffer very algorithm io fileio readall](python-fileio-readall-buffer-algorithm.md).
+- Open when checking Python 3.14.0 alpha 5 / library / text and unicode. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.14.0 alpha 5 / library / collections and iteration. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.14.0 alpha 5 / library / compiler and parser. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.14.0 alpha 5 / library / tty. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / tty](tty.md).
+- Open when checking Python 3.14.0 alpha 5 / library / render tab completions menu underneath current line giving less. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / render tab completions menu underneath current line giving less](completion-menu-placement-and-cursor-movement.md).
+- Open when checking Python 3.14.0 alpha 5 / library / resource. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / resource](resource.md).
+- Open when checking Python 3.14.0 alpha 5 / library / stop pyrepl crash occurred double ctrl z entered overflowing line. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / stop pyrepl crash occurred double ctrl z entered overflowing line](interactive-overflow-line-double-suspend-crash.md).
+- Open when checking Python 3.14.0 alpha 5 / library / while e active ignore only python colors leave force color no color. [Library compatibility and maintenance / Python 3.14.0 alpha 5 / library / while e active ignore only python colors leave force color no color](environment-ignore-mode-and-color-controls.md).
+- Open when checking Python 3.14.0 alpha 5 / library / bdb. [Combined library maintenance / Python 3.14.0 alpha 5 / library / bdb](bdb.md).
+- Open when checking Python 3.14.0 alpha 5 / library / csv. [Combined library maintenance / Python 3.14.0 alpha 5 / library / csv](csv.md).
+- Open when checking Python 3.14.0 alpha 5 / library / ctypes. [Combined library maintenance / Python 3.14.0 alpha 5 / library / ctypes](ctypes.md).
+- Open when checking Python 3.14.0 alpha 5 / library / exceptions. [Combined library maintenance / Python 3.14.0 alpha 5 / library / exceptions](exceptions.md).
+- Open when checking Python 3.14.0 alpha 5 / library / logging handlers. [Combined library maintenance / Python 3.14.0 alpha 5 / library / logging handlers](logging-handlers.md).
+- Open when checking Python 3.14.0 alpha 5 / library / os. [Combined library maintenance / Python 3.14.0 alpha 5 / library / os](os.md).
+- Open when checking Python 3.14.0 alpha 5 / library / sqlite3. [Combined library maintenance / Python 3.14.0 alpha 5 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.14.0 alpha 5 / library / sysconfig. [Combined library maintenance / Python 3.14.0 alpha 5 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.14.0 alpha 5 / library / warnings. [Combined library maintenance / Python 3.14.0 alpha 5 / library / warnings](warnings.md).
+- Open when checking Python 3.14.0 alpha 5 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.14.0 alpha 5 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.14.0 alpha 5 / library / zipfile. [Combined library maintenance / Python 3.14.0 alpha 5 / library / zipfile](zipfile.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

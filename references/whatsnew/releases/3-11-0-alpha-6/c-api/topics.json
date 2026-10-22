@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 6 / c api / drop have py set 53bit precision macro relocated into internal c api", "file": "floating-precision-macro-internalization.md", "summary": "Open when checking Python 3.11.0 alpha 6 / c api / drop have py set 53bit precision macro relocated into internal c api.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / c api / frame", "file": "releases/3-11-0-alpha-6/c-api/frame.md", "summary": "Open when checking Python 3.11.0 alpha 6 / c api / frame.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / c api / python s public headers stop importing stdbool h code embedding", "file": "public-header-stdbool-dependency-removal.md", "summary": "Open when checking Python 3.11.0 alpha 6 / c api / python s public headers stop importing stdbool h code embedding.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / c api / rename include buffer h header include pybuffer h dodging conflicts projects", "file": "pybuffer-header-name-collision-prevention.md", "summary": "Open when checking Python 3.11.0 alpha 6 / c api / rename include buffer h header include pybuffer h dodging conflicts projects.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / c api / type", "file": "releases/3-11-0-alpha-6/c-api/type.md", "summary": "Open when checking Python 3.11.0 alpha 6 / c api / type.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

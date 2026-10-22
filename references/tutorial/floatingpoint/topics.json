@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Binary approximation, decimal display and representation", "file": "floatingpoint/binary-approximation-decimal-display-and-representation.md", "summary": "Open when checking Binary approximation, decimal display and representation.", "keywords": []},
+    {"topic": "Deriving the nearest binary64 representation of one tenth", "file": "floatingpoint/deriving-the-nearest-binary64-representation-of-one-tenth.md", "summary": "Open when checking Deriving the nearest binary64 representation of one tenth.", "keywords": []},
+    {"topic": "Exact float serialization and accurate summation", "file": "floatingpoint/exact-float-serialization-and-accurate-summation.md", "summary": "Open when checking Exact float serialization and accurate summation.", "keywords": []},
+    {"topic": "Floating-point comparisons, rounding and exact-arithmetic alternatives", "file": "float-comparison-rounding-and-exact-alternatives.md", "summary": "Open when checking Floating-point comparisons, rounding and exact-arithmetic alternatives.", "keywords": []},
+    {"topic": "Recovering the stored decimal value and exact fractions", "file": "floatingpoint/recovering-the-stored-decimal-value-and-exact-fractions.md", "summary": "Open when checking Recovering the stored decimal value and exact fractions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

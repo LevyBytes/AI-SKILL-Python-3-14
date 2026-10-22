@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Structured Markup Processing Tools / Python 3.10.0 alpha 1 / library / xml sax handler", "file": "releases/3-10-0-alpha-1/library/xml-sax-handler.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / xml sax handler.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / Python 3.10.0 alpha 1 / library / html parser", "file": "releases/3-10-0-alpha-1/library/html-parser.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / html parser.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

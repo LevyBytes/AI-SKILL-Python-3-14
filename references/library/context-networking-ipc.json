@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Networking and Interprocess Communication / ipc", "file": "ipc/INDEX.md", "summary": "Open when checking ipc.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / asyncio", "file": "asyncio/INDEX.md", "summary": "Open when checking asyncio.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / socket", "file": "socket/INDEX.md", "summary": "Open when checking socket.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / ssl", "file": "ssl/INDEX.md", "summary": "Open when checking ssl.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / select", "file": "select/INDEX.md", "summary": "Open when checking select.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / selectors", "file": "selectors/INDEX.md", "summary": "Open when checking selectors.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / signal", "file": "signal/INDEX.md", "summary": "Open when checking signal.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / mmap", "file": "mmap/INDEX.md", "summary": "Open when checking mmap.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

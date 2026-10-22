@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "sequence protocol C API: Sequence checks, item access and slice mutation", "file": "sequence-protocol/pysequence-check-to-pysequence-delslice.md", "summary": "Open when checking sequence checks, item access and slice mutation in sequence protocol C API.", "keywords": []},
+  {"topic": "sequence protocol C API: Sequence search, conversion and fast item access", "file": "sequence-protocol/pysequence-count-to-pysequence-item.md", "summary": "Open when checking sequence search, conversion and fast item access in sequence protocol C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

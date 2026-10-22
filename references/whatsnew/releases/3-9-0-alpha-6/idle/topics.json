@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 6 / idle / files and paths", "file": "releases/3-9-0-alpha-6/idle/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 6 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / idle / inspect signature fails while fetching calltip idle will no longer", "file": "idle-calltip-signature-failure-handling.md", "summary": "Open when checking Python 3.9.0 alpha 6 / idle / inspect signature fails while fetching calltip idle will no longer.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.1 release candidate 1 / idle / raise idle s test configdialog coverage another", "file": "releases/3-6-1-release-candidate-1/idle/raise-idle-s-test-configdialog-coverage-another.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / idle / raise idle s test configdialog coverage another.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / idle / text and unicode", "file": "releases/3-6-1-release-candidate-1/idle/text-and-unicode.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / idle / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

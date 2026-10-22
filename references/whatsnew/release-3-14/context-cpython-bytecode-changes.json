@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "CPython bytecode changes / What's new in Python 3.14 / CPython bytecode changes — dis, string.templatelib", "file": "release-3-14/cpython-bytecode-changes.md", "summary": "Open when checking What's new in Python 3.14 / CPython bytecode changes — dis, string.templatelib.", "keywords": []},
+  {"topic": "CPython bytecode changes / What's new in Python 3.14 / Pseudo-instructions — dis, sys.monitoring", "file": "release-3-14/pseudo-instructions.md", "summary": "Open when checking What's new in Python 3.14 / Pseudo-instructions — dis, sys.monitoring.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

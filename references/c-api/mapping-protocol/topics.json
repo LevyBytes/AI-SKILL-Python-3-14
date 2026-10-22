@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "mapping protocol C API: Mapping access, assignment and key-error handling", "file": "mapping-protocol/pymapping-check-to-pymapping-haskeystringwitherror.md", "summary": "Open when checking mapping access, assignment and key-error handling in mapping protocol C API.", "keywords": []},
+  {"topic": "mapping protocol C API: `PyMapping_HasKey()`, `PyMapping_HasKeyString()`, `PyMapping_Keys()`, `PyMapping_Values()`, `PyMapping_Items()`", "file": "mapping-protocol/pymapping-haskey-to-pymapping-items.md", "summary": "Open when checking the documented contracts for `PyMapping_HasKey()`, `PyMapping_HasKeyString()`, `PyMapping_Keys()`, `PyMapping_Values()`, `PyMapping_Items()` in mapping protocol C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

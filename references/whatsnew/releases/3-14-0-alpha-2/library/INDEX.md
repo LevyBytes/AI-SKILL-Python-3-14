@@ -1,0 +1,66 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.0 alpha 2 / library / calendar. [Data Types / Python 3.14.0 alpha 2 / library / calendar](calendar.md).
+- Open when checking Python 3.14.0 alpha 2 / library / itertools. [Functional Programming Modules / Python 3.14.0 alpha 2 / library / itertools](itertools.md).
+- Open when checking Python 3.14.0 alpha 2 / library / functools. [Functional Programming Modules / Python 3.14.0 alpha 2 / library / functools](functools.md).
+- Open when checking Python 3.14.0 alpha 2 / library / pathlib. [File and Directory Access / Python 3.14.0 alpha 2 / library / pathlib](pathlib.md).
+- Open when checking Python 3.14.0 alpha 2 / library / os path. [File and Directory Access / Python 3.14.0 alpha 2 / library / os path](os-path.md).
+- Open when checking Python 3.14.0 alpha 2 / library / tarfile. [Data Compression and Archiving / Python 3.14.0 alpha 2 / library / tarfile](tarfile.md).
+- Open when checking Python 3.14.0 alpha 2 / library / tomllib. [File Formats / Python 3.14.0 alpha 2 / library / tomllib](tomllib.md).
+- Open when checking Python 3.14.0 alpha 2 / library / time. [Generic Operating System Services / Python 3.14.0 alpha 2 / library / time](time.md).
+- Open when checking Python 3.14.0 alpha 2 / library / platform. [Generic Operating System Services / Python 3.14.0 alpha 2 / library / platform](platform.md).
+- Open when checking Python 3.14.0 alpha 2 / library / curses. [Command-line interface libraries / Python 3.14.0 alpha 2 / library / curses](curses.md).
+- Open when checking Python 3.14.0 alpha 2 / library / argparse booleanoptionalaction refuses option names begin no. [Command-line interface libraries / Python 3.14.0 alpha 2 / library / argparse booleanoptionalaction refuses option names begin no](argparse-booleanoptionalaction-refuses-option-names-begin-no.md).
+- Open when checking Python 3.14.0 alpha 2 / library / contextvars. [Concurrent Execution / Python 3.14.0 alpha 2 / library / contextvars](contextvars.md).
+- Open when checking Python 3.14.0 alpha 2 / library / threading. [Concurrent Execution / Python 3.14.0 alpha 2 / library / threading](threading.md).
+- Open when checking Python 3.14.0 alpha 2 / library / collections and iteration. [Networking and Interprocess Communication / Python 3.14.0 alpha 2 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.14.0 alpha 2 / library / build and platforms. [Networking and Interprocess Communication / Python 3.14.0 alpha 2 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.14.0 alpha 2 / library / email policy. [Internet Data Handling / Python 3.14.0 alpha 2 / library / email policy](email-policy.md).
+- Open when checking Python 3.14.0 alpha 2 / library / http cookies. [Internet Protocols and Support / Python 3.14.0 alpha 2 / library / http cookies](http-cookies.md).
+- Open when checking Python 3.14.0 alpha 2 / library / uuid. [Internet Protocols and Support / Python 3.14.0 alpha 2 / library / uuid](uuid.md).
+- Open when checking Python 3.14.0 alpha 2 / library / text and unicode. [Internationalization / Python 3.14.0 alpha 2 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.14.0 alpha 2 / library / unittest mock. [Development Tools / Python 3.14.0 alpha 2 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.14.0 alpha 2 / library / annotationlib. [Python Runtime Services / Python 3.14.0 alpha 2 / library / annotationlib](annotationlib.md).
+- Open when checking Python 3.14.0 alpha 2 / library / warnings. [Python Runtime Services / Python 3.14.0 alpha 2 / library / warnings](warnings.md).
+- Open when checking Python 3.14.0 alpha 2 / library / drop deprecated pkgutil get loader together pkgutil find loader. [Importing Modules / Python 3.14.0 alpha 2 / library / drop deprecated pkgutil get loader together pkgutil find loader](pkgutil-loader-function-removal.md).
+- Open when checking Python 3.14.0 alpha 2 / library / ast. [Python Language Services / Python 3.14.0 alpha 2 / library / ast](ast.md).
+- Open when checking Python 3.14.0 alpha 2 / library / re. [Combined library maintenance / Python 3.14.0 alpha 2 / library / re](re.md).
+- Open when checking Python 3.14.0 alpha 2 / library / sysconfig. [Combined library maintenance / Python 3.14.0 alpha 2 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.14.0 alpha 2 / library / asyncio task. [Combined library maintenance / Python 3.14.0 alpha 2 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.14.0 alpha 2 / library / exceptions. [Combined library maintenance / Python 3.14.0 alpha 2 / library / exceptions](exceptions.md).
+- Open when checking Python 3.14.0 alpha 2 / library / getopt. [Combined library maintenance / Python 3.14.0 alpha 2 / library / getopt](getopt.md).
+- Open when checking Python 3.14.0 alpha 2 / library / multiprocessing. [Combined library maintenance / Python 3.14.0 alpha 2 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.14.0 alpha 2 / library / ssl. [Combined library maintenance / Python 3.14.0 alpha 2 / library / ssl](ssl.md).
+- Open when checking Python 3.14.0 alpha 2 / library / argparse. [Combined library maintenance / Python 3.14.0 alpha 2 / library / argparse](argparse.md).
+- Open when checking Python 3.14.0 alpha 2 / library / asyncio eventloop. [Combined library maintenance / Python 3.14.0 alpha 2 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.14.0 alpha 2 / library / asyncio future. [Combined library maintenance / Python 3.14.0 alpha 2 / library / asyncio future](asyncio-future.md).
+- Open when checking Python 3.14.0 alpha 2 / library / functions. [Combined library maintenance / Python 3.14.0 alpha 2 / library / functions](functions.md).
+- Open when checking Python 3.14.0 alpha 2 / library / os. [Combined library maintenance / Python 3.14.0 alpha 2 / library / os](os.md).
+- Open when checking Python 3.14.0 alpha 2 / library / pdb. [Combined library maintenance / Python 3.14.0 alpha 2 / library / pdb](pdb.md).
+- Open when checking Python 3.14.0 alpha 2 / library / urllib parse. [Combined library maintenance / Python 3.14.0 alpha 2 / library / urllib parse](urllib-parse.md).
+- Open when checking Python 3.14.0 alpha 2 / library / urllib request. [Combined library maintenance / Python 3.14.0 alpha 2 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.14.0 alpha 2 / library / collections abc. [Combined library maintenance / Python 3.14.0 alpha 2 / library / collections abc](collections-abc.md).
+- Open when checking Python 3.14.0 alpha 2 / library / concurrent futures. [Combined library maintenance / Python 3.14.0 alpha 2 / library / concurrent futures](concurrent-futures.md).
+- Open when checking Python 3.14.0 alpha 2 / library / json. [Combined library maintenance / Python 3.14.0 alpha 2 / library / json](json.md).
+- Open when checking Python 3.14.0 alpha 2 / library / pickle. [Combined library maintenance / Python 3.14.0 alpha 2 / library / pickle](pickle.md).
+- Open when checking Python 3.14.0 alpha 2 / library / venv. [Combined library maintenance / Python 3.14.0 alpha 2 / library / venv](venv.md).
+- Open when checking Python 3.14.0 alpha 2 / library / functions and types. [Combined library maintenance / Python 3.14.0 alpha 2 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.14.0 alpha 2 / library / inspect. [Combined library maintenance / Python 3.14.0 alpha 2 / library / inspect](inspect.md).
+- Open when checking Python 3.14.0 alpha 2 / library / unittest. [Combined library maintenance / Python 3.14.0 alpha 2 / library / unittest](unittest.md).
+- Open when checking Python 3.14.0 alpha 2 / library / zipfile. [Combined library maintenance / Python 3.14.0 alpha 2 / library / zipfile](zipfile.md).
+- Open when checking Python 3.14.0 alpha 2 / library / importlib. [Combined library maintenance / Python 3.14.0 alpha 2 / library / importlib](importlib.md).
+- Open when checking Python 3.14.0 alpha 2 / library / imports and modules. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.14.0 alpha 2 / library / update bundled pip. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / update bundled pip](update-bundled-pip.md).
+- Open when checking Python 3.14.0 alpha 2 / library / properly detect whether libffi supports complex numbers. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / properly detect whether libffi supports complex numbers](properly-detect-whether-libffi-supports-complex-numbers.md).
+- Open when checking Python 3.14.0 alpha 2 / library / repair crash within cprofile profile plus lsprof profiler happening their callbacks. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / repair crash within cprofile profile plus lsprof profiler happening their callbacks](profiler-empty-callback-argument-crash.md).
+- Open when checking Python 3.14.0 alpha 2 / library / enum repair hashable nonhashable comparisons across member values. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / enum repair hashable nonhashable comparisons across member values](enum-hashable-and-unhashable-value-comparison.md).
+- Open when checking Python 3.14.0 alpha 2 / library / keep interpreter quitting whenever null byte arrives input within. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / keep interpreter quitting whenever null byte arrives input within](interactive-null-byte-input-handling.md).
+- Open when checking Python 3.14.0 alpha 2 / library / enum. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / enum](enum.md).
+- Open when checking Python 3.14.0 alpha 2 / library / let framelocalsproxy delete plus pop whenever key not fast. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / let framelocalsproxy delete plus pop whenever key not fast](let-framelocalsproxy-delete-plus-pop-whenever-key-not-fast.md).
+- Open when checking Python 3.14.0 alpha 2 / library / language. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / language](language.md).
+- Open when checking Python 3.14.0 alpha 2 / library / repair canvas failing clear once turtledemo clock run. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / repair canvas failing clear once turtledemo clock run](repair-canvas-failing-clear-once-turtledemo-clock-run.md).
+- Open when checking Python 3.14.0 alpha 2 / library / repair systemerror raised while matching regular expression pattern mixes. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / repair systemerror raised while matching regular expression pattern mixes](possessive-regex-alternation-capture-error.md).
+- Open when checking Python 3.14.0 alpha 2 / library / correct defect where sslprotocol connection lost failed fire after oserror raised. [Library compatibility and maintenance / Python 3.14.0 alpha 2 / library / correct defect where sslprotocol connection lost failed fire after oserror raised](ssl-transport-connection-lost-after-oserror.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

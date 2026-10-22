@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "fractions: `fractions.Fraction`", "file": "fractions/fractions-fraction-class-to-fractions-fraction-class.md", "summary": "Open when checking the documented contracts for `fractions.Fraction` in fractions.", "keywords": []},
+  {"topic": "fractions / Rational numbers: `as_integer_ratio()`, `is_integer()`, `from_float()`, `from_decimal()`, `from_number()`, `limit_denominator()`, `__floor__()`, `__ceil__()`", "file": "fractions/fraction-construction-and-conversion.md", "summary": "Open when checking the documented contracts for `as_integer_ratio()`, `is_integer()`, `from_float()`, `from_decimal()`, `from_number()`, `limit_denominator()`, `__floor__()`, `__ceil__()` in fractions / Rational numbers.", "keywords": []},
+  {"topic": "fractions / Rational numbers: `__round__()`, `__format__()`", "file": "fractions/fraction-numeric-protocol-and-changes.md", "summary": "Open when checking the documented contracts for `__round__()`, `__format__()` in fractions / Rational numbers.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Declared API contracts / bdb.BdbQuit", "file": "bdb/bdb-bdbquit.md", "summary": "Open when checking bdb.BdbQuit.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb.Breakpoint", "file": "bdb/bdb-breakpoint-class-to-bdb-breakpoint-bpprint.md", "summary": "Open when checking bdb.Breakpoint.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb debugger framework", "file": "bdb/bdb-debugger-framework.md", "summary": "Open when checking bdb debugger framework.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb.Bdb", "file": "bdb/bdb-bdb-class-to-bdb-bdb-dispatch-line.md", "summary": "Open when checking bdb.Bdb.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb bdb dispatch call to bdb bdb set trace", "file": "bdb/bdb-bdb-dispatch-call-to-bdb-bdb-set-trace.md", "summary": "Open when checking bdb bdb dispatch call to bdb bdb set trace.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb bdb set continue to bdb bdb get stack", "file": "bdb/bdb-bdb-set-continue-to-bdb-bdb-get-stack.md", "summary": "Open when checking bdb bdb set continue to bdb bdb get stack.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb bdb format stack entry to bdb bdb runcall", "file": "bdb/bdb-bdb-format-stack-entry-to-bdb-bdb-runcall.md", "summary": "Open when checking bdb bdb format stack entry to bdb bdb runcall.", "keywords": []},
+  {"topic": "bdb — Debugger framework¶ / bdb.checkfuncname, bdb.effective, bdb.set_trace", "file": "bdb/bdb-checkfuncname-to-bdb-set-trace.md", "summary": "Open when checking bdb.checkfuncname, bdb.effective, bdb.set_trace.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

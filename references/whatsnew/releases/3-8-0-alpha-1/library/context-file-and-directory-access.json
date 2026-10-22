@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "File and Directory Access / Python 3.8.0 alpha 1 / library / pathlib", "file": "releases/3-8-0-alpha-1/library/pathlib.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / pathlib.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.8.0 alpha 1 / library / os path", "file": "releases/3-8-0-alpha-1/library/os-path.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / os path.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.8.0 alpha 1 / library / tempfile candidate tempdir list should consider common temp locations", "file": "releases/3-8-0-alpha-1/library/temporary-directory-default-candidates.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / tempfile candidate tempdir list should consider common temp locations.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.8.0 alpha 1 / library / fnmatch", "file": "releases/3-8-0-alpha-1/library/fnmatch.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / fnmatch.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

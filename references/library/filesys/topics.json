@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "fileinput — File and Directory Access", "file": "filesys/file-and-directory-access.md", "summary": "Open when checking fileinput — File and Directory Access.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

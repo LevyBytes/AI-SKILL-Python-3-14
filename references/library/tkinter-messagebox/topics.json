@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "tkinter.messagebox — Tkinter message prompts", "file": "tkinter-messagebox/tkinter-message-prompts.md", "summary": "Open when checking tkinter.messagebox — Tkinter message prompts.", "keywords": []},
+  {"topic": "tkinter.messagebox: `tkinter.messagebox.Message`", "file": "tkinter-messagebox/tkinter-messagebox-message-class.md", "summary": "Open when checking the documented contracts for `tkinter.messagebox.Message` in tkinter.messagebox.", "keywords": []},
+  {"topic": "tkinter.messagebox.Message: `show()`", "file": "tkinter-messagebox/tkinter-messagebox-message-show.md", "summary": "Open when checking the documented contracts for `show()` in tkinter.messagebox.Message.", "keywords": []},
+  {"topic": "tkinter.messagebox: Information, warning, error and confirmation dialogs", "file": "tkinter-messagebox/tkinter-messagebox-showinfo-to-tkinter-messagebox-askyesno.md", "summary": "Open when checking information, warning, error and confirmation dialogs in tkinter.messagebox.", "keywords": []},
+  {"topic": "tkinter.messagebox: `tkinter.messagebox.askyesnocancel()`", "file": "tkinter-messagebox/tkinter-messagebox-askyesnocancel.md", "summary": "Open when checking the documented contracts for `tkinter.messagebox.askyesnocancel()` in tkinter.messagebox.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

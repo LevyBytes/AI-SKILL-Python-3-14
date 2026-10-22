@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 1 / security / according pep sys monitoring register callback supposed emit audit event", "file": "monitoring-callback-registration-audit-event.md", "summary": "Open when checking Python 3.13.0 alpha 1 / security / according pep sys monitoring register callback supposed emit audit event.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / security / email utils", "file": "releases/3-13-0-alpha-1/security/email-utils.md", "summary": "Open when checking Python 3.13.0 alpha 1 / security / email utils.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / security / hashlib", "file": "releases/3-13-0-alpha-1/security/hashlib.md", "summary": "Open when checking Python 3.13.0 alpha 1 / security / hashlib.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / security / long", "file": "releases/3-13-0-alpha-1/security/long.md", "summary": "Open when checking Python 3.13.0 alpha 1 / security / long.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / security / ssl", "file": "releases/3-13-0-alpha-1/security/ssl.md", "summary": "Open when checking Python 3.13.0 alpha 1 / security / ssl.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,90 @@
+# Logging cookbook context index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Logging Cookbook. [Overview and scope / Logging Cookbook](logging-cookbook.md).
+- Open when checking Using logging in multiple modules. [Using logging in multiple modules](using-logging-in-multiple-modules.md).
+- Open when checking Logging from multiple threads. [Logging from multiple threads](logging-from-multiple-threads.md).
+- Open when checking Multiple handlers and formatters. [Multiple handlers and formatters](multiple-handlers-and-formatters.md).
+- Open when checking Logging to multiple destinations. [Logging to multiple destinations](logging-to-multiple-destinations.md).
+- Open when checking Route logging severities to stdout, stderr and file. [Custom handling of levels / Route logging severities to stdout, stderr and file](route-logging-severities-to-stdout-stderr-and-file.md).
+- Open when checking Level filter factory and stdout handler configuration. [Custom handling of levels / Level filter factory and stdout handler configuration](level-filter-factory-and-stdout-handler-configuration.md).
+- Open when checking Complete custom-severity main.py. [Custom handling of levels / Complete custom-severity main.py](complete-custom-severity-main-py.md).
+- Open when checking Run and inspect custom severity output. [Custom handling of levels / Run and inspect custom severity output](run-and-inspect-custom-severity-output.md).
+- Open when checking Configuration server example. [Configuration server example](configuration-server-example.md).
+- Open when checking Dealing with handlers that block. [Dealing with handlers that block](dealing-with-handlers-that-block.md).
+- Open when checking Complete socket logging receiver implementation. [Sending and receiving logging events across a network / Complete socket logging receiver implementation](complete-socket-logging-receiver-implementation.md).
+- Open when checking Socket logging receiver launch, output and pickle security. [Sending and receiving logging events across a network / Socket logging receiver launch, output and pickle security](socket-logging-receiver-launch-output-and-pickle-security.md).
+- Open when checking Sending and receiving logging events across a network. [Sending and receiving logging events across a network](sending-and-receiving-logging-events-across-a-network.md).
+- Open when checking Running a logging socket listener in production. [Sending and receiving logging events across a network / Running a logging socket listener in production](running-a-logging-socket-listener-in-production.md).
+- Open when checking Adding contextual information to your logging output. [Adding contextual information to your logging output](adding-contextual-information-to-your-logging-output.md).
+- Open when checking Using LoggerAdapters to impart contextual information. [Adding contextual information to your logging output / Using LoggerAdapters to impart contextual information](using-loggeradapters-to-impart-contextual-information.md).
+- Open when checking Using objects other than dicts to pass contextual information. [Adding contextual information to your logging output / Using objects other than dicts to pass contextual information](using-objects-other-than-dicts-to-pass-contextual-information.md).
+- Open when checking Using Filters to impart contextual information. [Adding contextual information to your logging output / Using Filters to impart contextual information](using-filters-to-impart-contextual-information.md).
+- Open when checking Context-variable logging output. [Use of contextvars / Context-variable logging output](context-variable-logging-output.md).
+- Open when checking Imports, request data, formatter and context variables. [Use of contextvars / Imports, request data, formatter and context variables](imports-request-data-formatter-and-context-variables.md).
+- Open when checking Context-injecting filter and whole WebApp class. [Use of contextvars / Context-injecting filter and whole WebApp class](context-injecting-filter-and-whole-webapp-class.md).
+- Open when checking Request simulation, thread joins and entry point. [Use of contextvars / Request simulation, thread joins and entry point](request-simulation-thread-joins-and-entry-point.md).
+- Open when checking Imparting contextual information in handlers. [Imparting contextual information in handlers](imparting-contextual-information-in-handlers.md).
+- Open when checking Imports, listener configuration and whole queue listener loop. [Logging to a single file from multiple processes / Imports, listener configuration and whole queue listener loop](imports-listener-configuration-and-whole-queue-listener-loop.md).
+- Open when checking Demo data and worker configuration/process functions. [Logging to a single file from multiple processes / Demo data and worker configuration/process functions](demo-data-and-worker-configuration-process-functions.md).
+- Open when checking Multiprocess orchestration, sentinel and joins. [Logging to a single file from multiple processes / Multiprocess orchestration, sentinel and joins](multiprocess-orchestration-sentinel-and-joins.md).
+- Open when checking Complete logging listener-thread alternative. [Logging to a single file from multiple processes / Complete logging listener-thread alternative](complete-logging-listener-thread-alternative.md).
+- Open when checking Using concurrent.futures.ProcessPoolExecutor. [Logging to a single file from multiple processes / Using concurrent.futures.ProcessPoolExecutor](using-concurrent-futures-processpoolexecutor.md).
+- Open when checking Deploying web applications using Gunicorn and uWSGI. [Logging to a single file from multiple processes / Deploying web applications using Gunicorn and uWSGI](deploying-web-applications-using-gunicorn-and-uwsgi.md).
+- Open when checking Using file rotation. [Using file rotation](using-file-rotation.md).
+- Open when checking Formatter style and logging-call interpolation contracts. [Use of alternative formatting styles / Formatter style and logging-call interpolation contracts](formatter-style-and-logging-call-interpolation-contracts.md).
+- Open when checking BraceMessage and DollarMessage implementations and use. [Use of alternative formatting styles / BraceMessage and DollarMessage implementations and use](bracemessage-and-dollarmessage-implementations-and-use.md).
+- Open when checking LoggerAdapter alternative-style implementation. [Use of alternative formatting styles / LoggerAdapter alternative-style implementation](loggeradapter-alternative-style-implementation.md).
+- Open when checking LogRecord creation and factories. [Customizing LogRecord / LogRecord creation and factories](log-record-factories.md).
+- Open when checking ZeroMQ logging handler. [Subclassing QueueHandler and QueueListener- a ZeroMQ example / ZeroMQ logging handler](zeromq-logging-handler.md).
+- Open when checking ZeroMQ logging listener. [Subclassing QueueHandler and QueueListener- a ZeroMQ example / ZeroMQ logging listener](zeromq-logging-listener.md).
+- Open when receiving logging events over a pynng subscription. [Subclassing QueueHandler and QueueListener- a pynng example / pynng logging listener](pynng-logging-listener.md).
+- Open when checking Subclassing QueueHandler and QueueListener- a `pynng` example. [Subclassing QueueHandler and QueueListener- a `pynng` example](subclassing-queuehandler-and-queuelistener-a-pynng-example.md).
+- Open when checking pynng QueueHandler sender and execution setup. [Subclassing QueueHandler and QueueListener- a pynng example / pynng QueueHandler sender and execution setup](pynng-queuehandler-sender-and-execution-setup.md).
+- Open when checking Two sender outputs and interleaved listener output. [Subclassing QueueHandler and QueueListener- a pynng example / Two sender outputs and interleaved listener output](two-sender-outputs-and-interleaved-listener-output.md).
+- Open when checking An example dictionary-based configuration. [An example dictionary-based configuration](an-example-dictionary-based-configuration.md).
+- Open when checking Using a rotator and namer to customize log rotation processing. [Using a rotator and namer to customize log rotation processing](custom-log-rotation-namer-and-rotator.md).
+- Open when checking Imports, dispatch handler and whole listener process. [A more elaborate multiprocessing example / Imports, dispatch handler and whole listener process](imports-dispatch-handler-and-whole-listener-process.md).
+- Open when checking Whole worker process function. [A more elaborate multiprocessing example / Whole worker process function](whole-worker-process-function.md).
+- Open when checking Main function queue and initial/worker configuration. [A more elaborate multiprocessing example / Main function queue and initial/worker configuration](main-function-queue-and-initial-worker-configuration.md).
+- Open when checking Main function complete listener configuration. [A more elaborate multiprocessing example / Main function complete listener configuration](main-function-complete-listener-configuration.md).
+- Open when checking Main function process startup, joins and shutdown. [A more elaborate multiprocessing example / Main function process startup, joins and shutdown](main-function-process-startup-joins-and-shutdown.md).
+- Open when checking Inserting a BOM into messages sent to a SysLogHandler continuation. [Inserting a BOM into messages sent to a SysLogHandler / Inserting a BOM into messages sent to a SysLogHandler continuation](syslog-bom-message-formatting.md).
+- Open when checking Inserting a BOM into messages sent to a SysLogHandler. [Inserting a BOM into messages sent to a SysLogHandler](inserting-a-bom-into-messages-sent-to-a-sysloghandler.md).
+- Open when checking Implementing structured logging. [Implementing structured logging](implementing-structured-logging.md).
+- Open when checking Owned-file handler factory and dictConfig schema. [Customizing handlers with dictConfig() / Owned-file handler factory and dictConfig schema](owned-file-handler-factory-and-dictconfig-schema.md).
+- Open when checking Complete owned-file handler script and output. [Customizing handlers with dictConfig() / Complete owned-file handler script and output](complete-owned-file-handler-script-and-output.md).
+- Open when checking Handler factory version and external-name configuration. [Customizing handlers with dictConfig() / Handler factory version and external-name configuration](handler-factory-version-and-external-name-configuration.md).
+- Open when checking Using particular formatting styles throughout your application. [Using particular formatting styles throughout your application](application-wide-logging-format-styles.md).
+- Open when checking Using LogRecord factories. [Using particular formatting styles throughout your application / Using LogRecord factories](using-logrecord-factories.md).
+- Open when checking Using custom message objects. [Using particular formatting styles throughout your application / Using custom message objects](using-custom-message-objects.md).
+- Open when checking Configuring filters with `dictConfig()`. [Configuring filters with `dictConfig()`](configuring-filters-with-dictconfig.md).
+- Open when checking Customized exception formatting. [Customized exception formatting](customized-exception-formatting.md).
+- Open when checking Speaking logging messages. [Speaking logging messages](speaking-logging-messages.md).
+- Open when checking Complete conditional logging decorator demonstration. [Buffering logging messages and outputting them conditionally / Complete conditional logging decorator demonstration](complete-conditional-logging-decorator-demonstration.md).
+- Open when checking Conditional buffer flush output and decorator syntax. [Buffering logging messages and outputting them conditionally / Conditional buffer flush output and decorator syntax](conditional-buffer-flush-output-and-decorator-syntax.md).
+- Open when checking Buffering logging messages and outputting them conditionally. [Buffering logging messages and outputting them conditionally](buffering-logging-messages-and-outputting-them-conditionally.md).
+- Open when checking Sending logging messages to email, with buffering. [Sending logging messages to email, with buffering](sending-logging-messages-to-email-with-buffering.md).
+- Open when checking Formatting times using UTC (GMT) via configuration. [Formatting times using UTC (GMT) via configuration](formatting-times-using-utc-via-configuration.md).
+- Open when checking Using a context manager for selective logging. [Using a context manager for selective logging](using-a-context-manager-for-selective-logging.md).
+- Open when checking CLI logging dispatcher and common log-level setup. [A CLI application starter template / CLI logging dispatcher and common log-level setup](cli-logging-dispatcher-and-common-log-level-setup.md).
+- Open when checking Start, stop and restart modules. [A CLI application starter template / Start, stop and restart modules](start-stop-and-restart-modules.md).
+- Open when checking CLI logging output at default, DEBUG and WARNING levels. [A CLI application starter template / CLI logging output at default, DEBUG and WARNING levels](cli-logging-output-at-default-debug-and-warning-levels.md).
+- Open when checking GUI application and logging entry point. [A Qt GUI for logging / GUI application and logging entry point](gui-application-and-logging-entry-point.md).
+- Open when checking Qt binding imports, signal bridge, log handler and thread-name helper. [A Qt GUI for logging / Qt binding imports, signal bridge, log handler and thread-name helper](qt-logging-imports-signals-handler-and-thread-names.md).
+- Open when checking Whole background Worker class. [A Qt GUI for logging / Whole background Worker class](whole-background-worker-class.md).
+- Open when checking Window class metadata, colors and complete initializer. [A Qt GUI for logging / Window class metadata, colors and complete initializer](window-class-metadata-colors-and-complete-initializer.md).
+- Open when checking Window thread lifecycle and GUI slot methods. [A Qt GUI for logging / Window thread lifecycle and GUI slot methods](window-thread-lifecycle-and-gui-slot-methods.md).
+- Open when checking A Qt GUI for logging. [A Qt GUI for logging](a-qt-gui-for-logging.md).
+- Open when checking Logging to syslog with RFC5424 support. [Logging to syslog with RFC5424 support](logging-to-syslog-with-rfc5424-support.md).
+- Open when checking LoggerWriter file-like adapter and stdout/stderr routing. [How to treat a logger like an output stream / LoggerWriter file-like adapter and stdout/stderr routing](loggerwriter-file-like-adapter-and-stdout-stderr-routing.md).
+- Open when checking Fragmented traceback writes and BufferingLoggerWriter correction. [How to treat a logger like an output stream / Fragmented traceback writes and BufferingLoggerWriter correction](fragmented-traceback-buffering-writer.md).
+- Open when checking How to uniformly handle newlines in logging output. [How to uniformly handle newlines in logging output](how-to-uniformly-handle-newlines-in-logging-output.md).
+- Open when checking Patterns to avoid. [Patterns to avoid](patterns-to-avoid.md).
+- Open when checking Opening the same log file multiple times. [Patterns to avoid / Opening the same log file multiple times](opening-the-same-log-file-multiple-times.md).
+- Open when checking Using loggers as attributes in a class or passing them as parameters. [Patterns to avoid / Using loggers as attributes in a class or passing them as parameters](logger-attributes-and-parameter-misuse.md).
+- Open when checking Adding handlers other than `NullHandler` to a logger in a library. [Patterns to avoid / Adding handlers other than `NullHandler` to a logger in a library](library-logger-handler-misuse.md).
+- Open when checking Creating a lot of loggers. [Patterns to avoid / Creating a lot of loggers](creating-a-lot-of-loggers.md).
+- Open when checking Other resources. [Other resources](other-resources.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

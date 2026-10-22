@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 1 / build / build and platforms", "file": "releases/3-5-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / building under visual studio newer define have round", "file": "releases/3-5-0-alpha-1/build/building-under-visual-studio-newer-define-have-round.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / building under visual studio newer define have round.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / compiler and parser", "file": "releases/3-5-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / curses", "file": "releases/3-5-0-alpha-1/build/curses.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / curses.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / distutils", "file": "releases/3-5-0-alpha-1/build/distutils.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / distutils.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / doctest", "file": "releases/3-5-0-alpha-1/build/doctest.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / doctest.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / dropped reliance deprecated bundlebuilder within os x builds", "file": "releases/3-5-0-alpha-1/build/dropped-reliance-deprecated-bundlebuilder-within-os-x-builds.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / dropped reliance deprecated bundlebuilder within os x builds.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / files and paths", "file": "releases/3-5-0-alpha-1/build/files-and-paths.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / imports and modules", "file": "releases/3-5-0-alpha-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / prospective fixes cover os x releases above", "file": "releases/3-5-0-alpha-1/build/prospective-fixes-cover-os-x-releases-above.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / prospective fixes cover os x releases above.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / python", "file": "releases/3-5-0-alpha-1/build/python.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / python.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / ssl", "file": "releases/3-5-0-alpha-1/build/ssl.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / ssl.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / strip out wrong uses recursive make", "file": "releases/3-5-0-alpha-1/build/strip-out-wrong-uses-recursive-make.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / strip out wrong uses recursive make.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / build / within setup py verify whether self extensions empty", "file": "releases/3-5-0-alpha-1/build/within-setup-py-verify-whether-self-extensions-empty.md", "summary": "Open when checking Python 3.5.0 alpha 1 / build / within setup py verify whether self extensions empty.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

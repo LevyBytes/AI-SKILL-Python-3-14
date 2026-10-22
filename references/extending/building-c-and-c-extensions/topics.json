@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Building C and C++ Extensions with setuptools", "file": "building-c-and-c-extensions/building-c-and-c-extensions-with-setuptools.md", "summary": "Open when checking Building C and C++ Extensions with setuptools.", "keywords": []},
+    {"topic": "Building C and C++ Extensions", "file": "building-c-and-c-extensions/building-c-and-c-extensions.md", "summary": "Open when checking Building C and C++ Extensions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

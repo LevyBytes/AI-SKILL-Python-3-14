@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 6 / library / argparse", "file": "releases/3-12-0-alpha-6/library/argparse.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / argparse.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / asyncio task", "file": "releases/3-12-0-alpha-6/library/asyncio-task.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / asyncio task.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / bdb", "file": "releases/3-12-0-alpha-6/library/bdb.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / bdb.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / binary", "file": "releases/3-12-0-alpha-6/library/binary.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / binary.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / collections", "file": "releases/3-12-0-alpha-6/library/collections.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / collections.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / ensurepip", "file": "releases/3-12-0-alpha-6/library/ensurepip.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / ensurepip.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / exceptions", "file": "releases/3-12-0-alpha-6/library/exceptions.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / exceptions.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / fnmatch", "file": "releases/3-12-0-alpha-6/library/fnmatch.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / fnmatch.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / fractions", "file": "releases/3-12-0-alpha-6/library/fractions.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / fractions.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / functools", "file": "releases/3-12-0-alpha-6/library/functools.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / functools.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / hashlib", "file": "releases/3-12-0-alpha-6/library/hashlib.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / hashlib.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / inspect", "file": "releases/3-12-0-alpha-6/library/inspect.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / inspect.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / itertools", "file": "releases/3-12-0-alpha-6/library/itertools.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / itertools.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / lzma", "file": "releases/3-12-0-alpha-6/library/lzma.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / lzma.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / mmap", "file": "releases/3-12-0-alpha-6/library/mmap.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / mmap.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / os", "file": "releases/3-12-0-alpha-6/library/os.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / os.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / pathlib", "file": "releases/3-12-0-alpha-6/library/pathlib.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / pathlib.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / platform", "file": "releases/3-12-0-alpha-6/library/platform.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / platform.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / pty", "file": "releases/3-12-0-alpha-6/library/pty.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / pty.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / python", "file": "releases/3-12-0-alpha-6/library/python.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / python.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / repair potential undefined behaviour edge cases converting floating point values", "file": "float-to-time-conversion-undefined-behavior.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / repair potential undefined behaviour edge cases converting floating point values.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / sqlite3", "file": "releases/3-12-0-alpha-6/library/sqlite3.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / sqlite3.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / tabnanny", "file": "releases/3-12-0-alpha-6/library/tabnanny.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / tabnanny.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / typing", "file": "releases/3-12-0-alpha-6/library/typing.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / typing.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / urllib error", "file": "releases/3-12-0-alpha-6/library/urllib-error.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / urllib error.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / zipfile", "file": "releases/3-12-0-alpha-6/library/zipfile.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / zipfile.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / library / zoneinfo", "file": "releases/3-12-0-alpha-6/library/zoneinfo.md", "summary": "Open when checking Python 3.12.0 alpha 6 / library / zoneinfo.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

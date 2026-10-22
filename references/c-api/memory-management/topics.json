@@ -1,0 +1,20 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Allocator Domains", "file": "memory-management/allocator-domains.md", "summary": "Open when checking Allocator Domains.", "keywords": []},
+  {"topic": "Debug hooks on the Python memory allocators", "file": "memory-management/debug-hooks-on-the-python-memory-allocators.md", "summary": "Open when checking Debug hooks on the Python memory allocators.", "keywords": []},
+  {"topic": "Default Memory Allocators", "file": "memory-management/default-memory-allocators.md", "summary": "Open when checking Default Memory Allocators.", "keywords": []},
+  {"topic": "Deprecated aliases", "file": "memory-management/deprecated-aliases.md", "summary": "Open when checking Deprecated aliases.", "keywords": []},
+  {"topic": "Examples", "file": "memory-management/examples.md", "summary": "Open when checking Examples.", "keywords": []},
+  {"topic": "Overview", "file": "memory-management/overview.md", "summary": "Open when checking Overview.", "keywords": []},
+  {"topic": "Memory Interface", "file": "memory-management/pymem-malloc-to-pymem-del.md", "summary": "Open when checking Memory Interface.", "keywords": []},
+  {"topic": "Raw Memory Interface", "file": "memory-management/pymem-rawmalloc-to-pymem-rawfree.md", "summary": "Open when checking Raw Memory Interface.", "keywords": []},
+  {"topic": "memory management C API: Allocator domains and allocator inspection", "file": "memory-management/pymemallocatordomain-to-pymem-getallocator.md", "summary": "Open when checking allocator domains and allocator inspection in memory management C API.", "keywords": []},
+  {"topic": "memory management C API: `PyMem_SetAllocator()`, `PyMem_SetupDebugHooks()`", "file": "memory-management/pymem-setallocator-to-pymem-setupdebughooks.md", "summary": "Open when checking the documented contracts for `PyMem_SetAllocator()`, `PyMem_SetupDebugHooks()` in memory management C API.", "keywords": []},
+  {"topic": "type PyMemAllocatorEx", "file": "memory-management/pymemallocatorex.md", "summary": "Open when checking type PyMemAllocatorEx.", "keywords": []},
+  {"topic": "Object allocators", "file": "memory-management/pyobject-malloc-to-pyobject-newvar.md", "summary": "Open when checking Object allocators.", "keywords": []},
+  {"topic": "Customize pymalloc Arena Allocator", "file": "memory-management/pyobjectarenaallocator-to-pyobject-setarenaallocator.md", "summary": "Open when checking Customize pymalloc Arena Allocator.", "keywords": []},
+  {"topic": "tracemalloc C API", "file": "memory-management/pytracemalloc-track-to-pytracemalloc-untrack.md", "summary": "Open when checking tracemalloc C API.", "keywords": []},
+  {"topic": "PyType_GenericAlloc()", "file": "memory-management/pytype-genericalloc.md", "summary": "Open when checking PyType_GenericAlloc().", "keywords": []},
+  {"topic": "The mimalloc allocator", "file": "memory-management/the-mimalloc-allocator.md", "summary": "Open when checking The mimalloc allocator.", "keywords": []},
+  {"topic": "The pymalloc allocator", "file": "memory-management/the-pymalloc-allocator.md", "summary": "Open when checking The pymalloc allocator.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

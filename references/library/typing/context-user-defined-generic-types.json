@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "User-defined generic types / typing — User-defined generic types — Section introduction and initial examples", "file": "typing/user-defined-generics-overview.md", "summary": "Open when checking typing — User-defined generic types — Section introduction and initial examples.", "keywords": []},
+  {"topic": "User-defined generic types / typing — User-defined generic types — Contract: Other classes may serve as bases for generic classes as well:", "file": "typing/generic-class-inheritance-contract.md", "summary": "Open when checking typing — User-defined generic types — Contract: Other classes may serve as bases for generic classes as well:.", "keywords": []},
+  {"topic": "User-defined generic types / typing — User-defined generic types — Code example: from typing import ParamSpec, Generic", "file": "typing/paramspec-generic-class-example.md", "summary": "Open when checking typing — User-defined generic types — Code example: from typing import ParamSpec, Generic.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

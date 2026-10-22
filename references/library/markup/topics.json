@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "mailcap — Structured Markup Processing Tools — Contract: `html` — HyperText Markup Language support", "file": "html-markup-support.md", "summary": "Open when checking mailcap — Structured Markup Processing Tools — Contract: `html` — HyperText Markup Language support.", "keywords": []},
+    {"topic": "mailcap — Structured Markup Processing Tools — Section introduction and initial examples", "file": "structured-markup-tools-overview.md", "summary": "Open when checking mailcap — Structured Markup Processing Tools — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

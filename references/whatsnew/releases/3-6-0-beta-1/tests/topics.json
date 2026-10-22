@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 beta 1 / tests / cmath", "file": "releases/3-6-0-beta-1/tests/cmath.md", "summary": "Open when checking Python 3.6.0 beta 1 / tests / cmath.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / tests / imports and modules", "file": "releases/3-6-0-beta-1/tests/imports-and-modules.md", "summary": "Open when checking Python 3.6.0 beta 1 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / tests / strengthen coverage rigour test math test cmath", "file": "releases/3-6-0-beta-1/tests/strengthen-coverage-rigour-test-math-test-cmath.md", "summary": "Open when checking Python 3.6.0 beta 1 / tests / strengthen coverage rigour test math test cmath.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / tests / threads and concurrency", "file": "releases/3-6-0-beta-1/tests/threads-and-concurrency.md", "summary": "Open when checking Python 3.6.0 beta 1 / tests / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

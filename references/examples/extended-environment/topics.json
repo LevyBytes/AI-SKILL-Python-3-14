@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "build_environment", "file": "references/examples/extended-environment/build_environment.py", "summary": "Open when checking build_environment.", "keywords": []},
+    {"topic": "environment_builder", "file": "references/examples/extended-environment/environment_builder.py", "summary": "Open when checking environment_builder.", "keywords": []},
+    {"topic": "install_pip", "file": "references/examples/extended-environment/install_pip.py", "summary": "Open when checking install_pip.", "keywords": []},
+    {"topic": "install_script", "file": "references/examples/extended-environment/install_script.py", "summary": "Open when checking install_script.", "keywords": []},
+    {"topic": "install_setuptools", "file": "references/examples/extended-environment/install_setuptools.py", "summary": "Open when checking install_setuptools.", "keywords": []},
+    {"topic": "reader", "file": "references/examples/extended-environment/reader.py", "summary": "Open when checking reader.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

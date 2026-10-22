@@ -1,0 +1,52 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.13.0 alpha 6 / library / functions. [Built-in objects and typing / Python 3.13.0 alpha 6 / library / functions](functions.md).
+- Open when checking Python 3.13.0 alpha 6 / library / types. [Data Types / Python 3.13.0 alpha 6 / library / types](types.md).
+- Open when checking Python 3.13.0 alpha 6 / library / datetime. [Data Types / Python 3.13.0 alpha 6 / library / datetime](datetime.md).
+- Open when checking Python 3.13.0 alpha 6 / library / math. [Numeric and Mathematical Modules / Python 3.13.0 alpha 6 / library / math](math.md).
+- Open when checking Python 3.13.0 alpha 6 / library / glob. [File and Directory Access / Python 3.13.0 alpha 6 / library / glob](glob.md).
+- Open when checking Python 3.13.0 alpha 6 / library / gzip. [Data Compression and Archiving / Python 3.13.0 alpha 6 / library / gzip](gzip.md).
+- Open when checking Python 3.13.0 alpha 6 / library / zipfile. [Data Compression and Archiving / Python 3.13.0 alpha 6 / library / zipfile](zipfile.md).
+- Open when checking Python 3.13.0 alpha 6 / library / reworked configparser rawconfigparser read lower cyclometric complexity make easier follow. [File Formats / Python 3.13.0 alpha 6 / library / reworked configparser rawconfigparser read lower cyclometric complexity make easier follow](config-parser-read-complexity-reduction.md).
+- Open when checking Python 3.13.0 alpha 6 / library / time. [Generic Operating System Services / Python 3.13.0 alpha 6 / library / time](time.md).
+- Open when checking Python 3.13.0 alpha 6 / library / os. [Generic Operating System Services / Python 3.13.0 alpha 6 / library / os](os.md).
+- Open when checking Python 3.13.0 alpha 6 / library / repair handling interval values above within logging timedrotatingfilehandler midnight together. [Generic Operating System Services / Python 3.13.0 alpha 6 / library / repair handling interval values above within logging timedrotatingfilehandler midnight together](midnight-log-rotation-interval-handling.md).
+- Open when checking Python 3.13.0 alpha 6 / library / threads and concurrency. [Concurrent Execution / Python 3.13.0 alpha 6 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.13.0 alpha 6 / library / asyncio eventloop. [Networking and Interprocess Communication / Python 3.13.0 alpha 6 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.13.0 alpha 6 / library / asyncio queue. [Networking and Interprocess Communication / Python 3.13.0 alpha 6 / library / asyncio queue](asyncio-queue.md).
+- Open when checking Python 3.13.0 alpha 6 / library / asyncio stream. [Networking and Interprocess Communication / Python 3.13.0 alpha 6 / library / asyncio stream](asyncio-stream.md).
+- Open when checking Python 3.13.0 alpha 6 / library / asyncio task. [Networking and Interprocess Communication / Python 3.13.0 alpha 6 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.13.0 alpha 6 / library / mailbox. [Internet Data Handling / Python 3.13.0 alpha 6 / library / mailbox](mailbox.md).
+- Open when checking Python 3.13.0 alpha 6 / library / ipaddress. [Internet Protocols and Support / Python 3.13.0 alpha 6 / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.13.0 alpha 6 / library / urllib parse. [Internet Protocols and Support / Python 3.13.0 alpha 6 / library / urllib parse](urllib-parse.md).
+- Open when checking Python 3.13.0 alpha 6 / library / uuid. [Internet Protocols and Support / Python 3.13.0 alpha 6 / library / uuid](uuid.md).
+- Open when checking Python 3.13.0 alpha 6 / library / adjust auto generated tkinter checkbutton widget names they no longer clash. [Graphical user interfaces with Tk / Python 3.13.0 alpha 6 / library / adjust auto generated tkinter checkbutton widget names they no longer clash](tk-checkbutton-generated-name-collisions.md).
+- Open when checking Python 3.13.0 alpha 6 / library / typing. [Development Tools / Python 3.13.0 alpha 6 / library / typing](typing.md).
+- Open when checking Python 3.13.0 alpha 6 / library / unittest. [Development Tools / Python 3.13.0 alpha 6 / library / unittest](unittest.md).
+- Open when checking Python 3.13.0 alpha 6 / library / inspect. [Python Runtime Services / Python 3.13.0 alpha 6 / library / inspect](inspect.md).
+- Open when checking Python 3.13.0 alpha 6 / library / zipimport. [Importing Modules / Python 3.13.0 alpha 6 / library / zipimport](zipimport.md).
+- Open when checking Python 3.13.0 alpha 6 / library / compileall. [Python Language Services / Python 3.13.0 alpha 6 / library / compileall](compileall.md).
+- Open when checking Python 3.13.0 alpha 6 / library / dis. [Python Language Services / Python 3.13.0 alpha 6 / library / dis](dis.md).
+- Open when checking Python 3.13.0 alpha 6 / library / doctest. [Combined library maintenance / Python 3.13.0 alpha 6 / library / doctest](doctest.md).
+- Open when checking Python 3.13.0 alpha 6 / library / exceptions. [Combined library maintenance / Python 3.13.0 alpha 6 / library / exceptions](exceptions.md).
+- Open when checking Python 3.13.0 alpha 6 / library / modules. [Combined library maintenance / Python 3.13.0 alpha 6 / library / modules](modules.md).
+- Open when checking Python 3.13.0 alpha 6 / library / configparser. [Combined library maintenance / Python 3.13.0 alpha 6 / library / configparser](configparser.md).
+- Open when checking Python 3.13.0 alpha 6 / library / functions and types. [Combined library maintenance / Python 3.13.0 alpha 6 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.13.0 alpha 6 / library / subprocess. [Combined library maintenance / Python 3.13.0 alpha 6 / library / subprocess](subprocess.md).
+- Open when checking Python 3.13.0 alpha 6 / library / codecs. [Combined library maintenance / Python 3.13.0 alpha 6 / library / codecs](codecs.md).
+- Open when checking Python 3.13.0 alpha 6 / library / ctypes. [Combined library maintenance / Python 3.13.0 alpha 6 / library / ctypes](ctypes.md).
+- Open when checking Python 3.13.0 alpha 6 / library / dataclasses. [Combined library maintenance / Python 3.13.0 alpha 6 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.13.0 alpha 6 / library / importlib resources. [Combined library maintenance / Python 3.13.0 alpha 6 / library / importlib resources](importlib-resources.md).
+- Open when checking Python 3.13.0 alpha 6 / library / os path. [Combined library maintenance / Python 3.13.0 alpha 6 / library / os path](os-path.md).
+- Open when checking Python 3.13.0 alpha 6 / library / pdb. [Combined library maintenance / Python 3.13.0 alpha 6 / library / pdb](pdb.md).
+- Open when checking Python 3.13.0 alpha 6 / library / platform. [Combined library maintenance / Python 3.13.0 alpha 6 / library / platform](platform.md).
+- Open when checking Python 3.13.0 alpha 6 / library / ssl. [Combined library maintenance / Python 3.13.0 alpha 6 / library / ssl](ssl.md).
+- Open when checking Python 3.13.0 alpha 6 / library / mimetypes. [Combined library maintenance / Python 3.13.0 alpha 6 / library / mimetypes](mimetypes.md).
+- Open when checking Python 3.13.0 alpha 6 / library / exceptions and tracebacks. [Library compatibility and maintenance / Python 3.13.0 alpha 6 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.13.0 alpha 6 / library / throw typeerror ntpath commonpath given non sequences. [Library compatibility and maintenance / Python 3.13.0 alpha 6 / library / throw typeerror ntpath commonpath given non sequences](throw-typeerror-ntpath-commonpath-given-non-sequences.md).
+- Open when checking Python 3.13.0 alpha 6 / library / skip blank lines together comments inside pdbrc. [Library compatibility and maintenance / Python 3.13.0 alpha 6 / library / skip blank lines together comments inside pdbrc](skip-blank-lines-together-comments-inside-pdbrc.md).
+- Open when checking Python 3.13.0 alpha 6 / library / within pathfinder invalidate caches hand off metadatapathfinder invalidate caches. [Library compatibility and maintenance / Python 3.13.0 alpha 6 / library / within pathfinder invalidate caches hand off metadatapathfinder invalidate caches](path-finder-metadata-cache-invalidation.md).
+- Open when checking Python 3.13.0 alpha 6 / library / overview. [Library compatibility and maintenance / Python 3.13.0 alpha 6 / library / overview](overview.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

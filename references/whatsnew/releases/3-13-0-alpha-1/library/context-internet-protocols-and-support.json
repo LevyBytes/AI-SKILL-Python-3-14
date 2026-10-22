@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Protocols and Support / Python 3.13.0 alpha 1 / library / http server", "file": "releases/3-13-0-alpha-1/library/http-server.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / http server.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.13.0 alpha 1 / library / http client", "file": "releases/3-13-0-alpha-1/library/http-client.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / http client.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.13.0 alpha 1 / library / urllib parse", "file": "releases/3-13-0-alpha-1/library/urllib-parse.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / urllib parse.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.13.0 alpha 1 / library / urllib request", "file": "releases/3-13-0-alpha-1/library/urllib-request.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / urllib request.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.13.0 alpha 1 / library / webbrowser", "file": "releases/3-13-0-alpha-1/library/webbrowser.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / webbrowser.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.13.0 alpha 1 / library / ipaddress", "file": "releases/3-13-0-alpha-1/library/ipaddress.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / ipaddress.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

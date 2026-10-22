@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 2 / build / build and platforms", "file": "releases/3-14-0-alpha-2/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / build / building emscripten demands node", "file": "releases/3-14-0-alpha-2/build/building-emscripten-demands-node.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / building emscripten demands node.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / build / functions and types", "file": "releases/3-14-0-alpha-2/build/functions-and-types.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / build / new tools wasm emscripten py added make emscripten builds easier", "file": "emscripten-build-helper.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / new tools wasm emscripten py added make emscripten builds easier.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / build / numeric behavior", "file": "releases/3-14-0-alpha-2/build/numeric-behavior.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / build / turn off simd support hacl building under wasi", "file": "releases/3-14-0-alpha-2/build/turn-off-simd-support-hacl-building-under-wasi.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / turn off simd support hacl building under wasi.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / build / wasi target triple wasm32 wasip1 rather than wasm32 wasi", "file": "releases/3-14-0-alpha-2/build/wasi-target-triple-wasm32-wasip1-rather-than-wasm32-wasi.md", "summary": "Open when checking Python 3.14.0 alpha 2 / build / wasi target triple wasm32 wasip1 rather than wasm32 wasi.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

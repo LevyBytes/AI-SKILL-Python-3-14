@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Data Types / datatypes", "file": "datatypes/INDEX.md", "summary": "Open when checking datatypes.", "keywords": []},
+  {"topic": "Data Types / datetime", "file": "datetime/INDEX.md", "summary": "Open when checking datetime.", "keywords": []},
+  {"topic": "Data Types / zoneinfo", "file": "zoneinfo/INDEX.md", "summary": "Open when checking zoneinfo.", "keywords": []},
+  {"topic": "Data Types / calendar", "file": "calendar/INDEX.md", "summary": "Open when checking calendar.", "keywords": []},
+  {"topic": "Data Types / collections", "file": "collections/INDEX.md", "summary": "Open when checking collections.", "keywords": []},
+  {"topic": "Data Types / collections abc", "file": "collections-abc/INDEX.md", "summary": "Open when checking collections abc.", "keywords": []},
+  {"topic": "Data Types / heapq", "file": "heapq/INDEX.md", "summary": "Open when checking heapq.", "keywords": []},
+  {"topic": "Data Types / bisect", "file": "bisect/INDEX.md", "summary": "Open when checking bisect.", "keywords": []},
+  {"topic": "Data Types / array", "file": "array/INDEX.md", "summary": "Open when checking array.", "keywords": []},
+  {"topic": "Data Types / weakref", "file": "weakref/INDEX.md", "summary": "Open when checking weakref.", "keywords": []},
+  {"topic": "Data Types / types", "file": "types/INDEX.md", "summary": "Open when checking types.", "keywords": []},
+  {"topic": "Data Types / copy", "file": "copy/INDEX.md", "summary": "Open when checking copy.", "keywords": []},
+  {"topic": "Data Types / pprint", "file": "pprint/INDEX.md", "summary": "Open when checking pprint.", "keywords": []},
+  {"topic": "Data Types / reprlib", "file": "reprlib/INDEX.md", "summary": "Open when checking reprlib.", "keywords": []},
+  {"topic": "Data Types / enum", "file": "enum/INDEX.md", "summary": "Open when checking enum.", "keywords": []},
+  {"topic": "Data Types / graphlib", "file": "graphlib/INDEX.md", "summary": "Open when checking graphlib.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

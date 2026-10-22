@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 3 / tests / add shell requirement test pipes", "file": "releases/3-10-0-alpha-3/tests/add-shell-requirement-test-pipes.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / add shell requirement test pipes.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / asyncio", "file": "releases/3-10-0-alpha-3/tests/asyncio.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / asyncio.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / files and paths", "file": "releases/3-10-0-alpha-3/tests/files-and-paths.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / fix test doctest py failures vxworks", "file": "releases/3-10-0-alpha-3/tests/fix-test-doctest-py-failures-vxworks.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / fix test doctest py failures vxworks.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / imports and modules", "file": "releases/3-10-0-alpha-3/tests/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / os", "file": "releases/3-10-0-alpha-3/tests/os.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / os.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / skip test getaddrinfo ipv6 scopeid symbolic test getnameinfo ipv6 scopeid symbolic vxworks", "file": "vxworks-ipv6-symbolic-scope-test-skips.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / skip test getaddrinfo ipv6 scopeid symbolic test getnameinfo ipv6 scopeid symbolic vxworks.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / skip test test test mailcap vxworks", "file": "releases/3-10-0-alpha-3/tests/skip-test-test-test-mailcap-vxworks.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / skip test test test mailcap vxworks.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / switch test gdb back gdb later https bugzilla redhat com show bug cgi id", "file": "gdb-test-version-compatibility.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / switch test gdb back gdb later https bugzilla redhat com show bug cgi id.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / test ssl skip test min max version mismatch tls not available", "file": "releases/3-10-0-alpha-3/tests/test-ssl-skip-test-min-max-version-mismatch-tls-not-available.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / test ssl skip test min max version mismatch tls not available.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / tests / tests and documentation", "file": "releases/3-10-0-alpha-3/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 3 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

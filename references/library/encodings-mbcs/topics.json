@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "encodings.mbcs — `encodings.mbcs` — Windows ANSI codepage", "file": "encodings-mbcs/encodings-mbcs-windows-ansi-codepage.md", "summary": "Open when checking encodings.mbcs — `encodings.mbcs` — Windows ANSI codepage.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

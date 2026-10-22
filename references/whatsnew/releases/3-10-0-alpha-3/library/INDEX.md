@@ -1,0 +1,50 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.10.0 alpha 3 / library / pprint. [Data Types / Python 3.10.0 alpha 3 / library / pprint](pprint.md).
+- Open when checking Python 3.10.0 alpha 3 / library / added itertools pairwise. [Functional Programming Modules / Python 3.10.0 alpha 3 / library / added itertools pairwise](added-itertools-pairwise.md).
+- Open when checking Python 3.10.0 alpha 3 / library / filecmp. [File and Directory Access / Python 3.10.0 alpha 3 / library / filecmp](filecmp.md).
+- Open when checking Python 3.10.0 alpha 3 / library / multiprocessing. [Data Persistence / Python 3.10.0 alpha 3 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.10.0 alpha 3 / library / stdtypes. [Data Persistence / Python 3.10.0 alpha 3 / library / stdtypes](stdtypes.md).
+- Open when checking Python 3.10.0 alpha 3 / library / sqlite3. [Data Persistence / Python 3.10.0 alpha 3 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.10.0 alpha 3 / library / fix os sendfile illumos. [Generic Operating System Services / Python 3.10.0 alpha 3 / library / fix os sendfile illumos](fix-os-sendfile-illumos.md).
+- Open when checking Python 3.10.0 alpha 3 / library / time. [Generic Operating System Services / Python 3.10.0 alpha 3 / library / time](time.md).
+- Open when checking Python 3.10.0 alpha 3 / library / queue. [Concurrent Execution / Python 3.10.0 alpha 3 / library / queue](queue.md).
+- Open when checking Python 3.10.0 alpha 3 / library / fix time of check time of action issue subprocess popen send signal. [Concurrent Execution / Python 3.10.0 alpha 3 / library / fix time of check time of action issue subprocess popen send signal](subprocess-signal-delivery-race.md).
+- Open when checking Python 3.10.0 alpha 3 / library / mmap. [Networking and Interprocess Communication / Python 3.10.0 alpha 3 / library / mmap](mmap.md).
+- Open when checking Python 3.10.0 alpha 3 / library / socket. [Networking and Interprocess Communication / Python 3.10.0 alpha 3 / library / socket](socket.md).
+- Open when checking Python 3.10.0 alpha 3 / library / asyncio exceptions. [Networking and Interprocess Communication / Python 3.10.0 alpha 3 / library / asyncio exceptions](asyncio-exceptions.md).
+- Open when checking Python 3.10.0 alpha 3 / library / collections and iteration. [Networking and Interprocess Communication / Python 3.10.0 alpha 3 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.10.0 alpha 3 / library / added support xpath operator xml etree. [Structured Markup Processing Tools / Python 3.10.0 alpha 3 / library / added support xpath operator xml etree](added-support-xpath-operator-xml-etree.md).
+- Open when checking Python 3.10.0 alpha 3 / library / urllib request. [Internet Protocols and Support / Python 3.10.0 alpha 3 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.10.0 alpha 3 / library / tkinter ttk. [Graphical user interfaces with Tk / Python 3.10.0 alpha 3 / library / tkinter ttk](tkinter-ttk.md).
+- Open when checking Python 3.10.0 alpha 3 / library / tkinter. [Graphical user interfaces with Tk / Python 3.10.0 alpha 3 / library / tkinter](tkinter.md).
+- Open when checking Python 3.10.0 alpha 3 / library / exceptions. [Python Runtime Services / Python 3.10.0 alpha 3 / library / exceptions](exceptions.md).
+- Open when checking Python 3.10.0 alpha 3 / library / inspect. [Python Runtime Services / Python 3.10.0 alpha 3 / library / inspect](inspect.md).
+- Open when checking Python 3.10.0 alpha 3 / library / add async context manager support contextlib nullcontext. [Python Runtime Services / Python 3.10.0 alpha 3 / library / add async context manager support contextlib nullcontext](add-async-context-manager-support-contextlib-nullcontext.md).
+- Open when checking Python 3.10.0 alpha 3 / library / windows. [Python Runtime Services / Python 3.10.0 alpha 3 / library / windows](windows.md).
+- Open when checking Python 3.10.0 alpha 3 / library / deprecate zipimport zipimporter load module favour exec module. [Importing Modules / Python 3.10.0 alpha 3 / library / deprecate zipimport zipimporter load module favour exec module](zipimport-load-module-deprecation.md).
+- Open when checking Python 3.10.0 alpha 3 / library / pyclbr. [Python Language Services / Python 3.10.0 alpha 3 / library / pyclbr](pyclbr.md).
+- Open when checking Python 3.10.0 alpha 3 / library / termios. [Unix-specific services / Python 3.10.0 alpha 3 / library / termios](termios.md).
+- Open when checking Python 3.10.0 alpha 3 / library / chainmap iter no longer calls getitem underlying maps. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / chainmap iter no longer calls getitem underlying maps](chainmap-iter-no-longer-calls-getitem-underlying-maps.md).
+- Open when checking Python 3.10.0 alpha 3 / library / dis. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / dis](dis.md).
+- Open when checking Python 3.10.0 alpha 3 / library / numeric behavior. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / numeric behavior](numeric-behavior.md).
+- Open when checking Python 3.10.0 alpha 3 / library / tests and documentation. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / tests and documentation](tests-and-documentation.md).
+- Open when checking Python 3.10.0 alpha 3 / library / binary. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / binary](binary.md).
+- Open when checking Python 3.10.0 alpha 3 / library / subprocess. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / subprocess](subprocess.md).
+- Open when checking Python 3.10.0 alpha 3 / library / asyncio. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / asyncio](asyncio.md).
+- Open when checking Python 3.10.0 alpha 3 / library / contextlib. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / contextlib](contextlib.md).
+- Open when checking Python 3.10.0 alpha 3 / library / enum. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / enum](enum.md).
+- Open when checking Python 3.10.0 alpha 3 / library / files and paths. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.10.0 alpha 3 / library / modules. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / modules](modules.md).
+- Open when checking Python 3.10.0 alpha 3 / library / webbrowser. [Library compatibility and maintenance / Python 3.10.0 alpha 3 / library / webbrowser](webbrowser.md).
+- Open when checking Python 3.10.0 alpha 3 / library / platform. [Combined library maintenance / Python 3.10.0 alpha 3 / library / platform](platform.md).
+- Open when checking Python 3.10.0 alpha 3 / library / functions and types. [Combined library maintenance / Python 3.10.0 alpha 3 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.10.0 alpha 3 / library / importlib. [Combined library maintenance / Python 3.10.0 alpha 3 / library / importlib](importlib.md).
+- Open when checking Python 3.10.0 alpha 3 / library / imports and modules. [Combined library maintenance / Python 3.10.0 alpha 3 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.10.0 alpha 3 / library / threading. [Combined library maintenance / Python 3.10.0 alpha 3 / library / threading](threading.md).
+- Open when checking Python 3.10.0 alpha 3 / library / os. [Combined library maintenance / Python 3.10.0 alpha 3 / library / os](os.md).
+- Open when checking Python 3.10.0 alpha 3 / library / pathlib. [Combined library maintenance / Python 3.10.0 alpha 3 / library / pathlib](pathlib.md).
+- Open when checking Python 3.10.0 alpha 3 / library / traceback. [Combined library maintenance / Python 3.10.0 alpha 3 / library / traceback](traceback.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

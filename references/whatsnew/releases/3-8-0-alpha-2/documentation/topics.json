@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 2 / documentation / correct formatting check hash based pycs options within manpage synopsis", "file": "hash-based-bytecode-manpage-options.md", "summary": "Open when checking Python 3.8.0 alpha 2 / documentation / correct formatting check hash based pycs options within manpage synopsis.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / documentation / raise minimum sphinx version", "file": "releases/3-8-0-alpha-2/documentation/raise-minimum-sphinx-version.md", "summary": "Open when checking Python 3.8.0 alpha 2 / documentation / raise minimum sphinx version.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / documentation / tests and documentation", "file": "releases/3-8-0-alpha-2/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 alpha 2 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "generator objects C API: Generator object creation principles", "file": "generator-objects/generator-objects.md", "summary": "Open when checking generator object creation principles in generator objects C API.", "keywords": []},
+  {"topic": "generator objects C API: `PyGenObject`, `PyGen_Type`, `PyGen_Check()`, `PyGen_CheckExact()`, `PyGen_New()`, `PyGen_NewWithQualName()`, `PyGen_GetCode()`", "file": "generator-objects/pygenobject-to-pygen-getcode.md", "summary": "Open when checking the documented contracts for `PyGenObject`, `PyGen_Type`, `PyGen_Check()`, `PyGen_CheckExact()`, `PyGen_New()`, `PyGen_NewWithQualName()`, `PyGen_GetCode()` in generator objects C API.", "keywords": []},
+  {"topic": "Asynchronous Generator Objects", "file": "generator-objects/pyasyncgen-type-to-pyasyncgen-checkexact.md", "summary": "Open when checking Asynchronous Generator Objects.", "keywords": []},
+  {"topic": "PyAsyncGenASend_CheckExact(op)", "file": "generator-objects/pyasyncgenasend-checkexact.md", "summary": "Open when checking PyAsyncGenASend_CheckExact(op).", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

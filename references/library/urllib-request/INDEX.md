@@ -1,0 +1,61 @@
+# Standard library subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking urllib.request — `urllib.request` — Extensible library for opening URLs. [Opening URLs and configuring handlers / urllib.request — `urllib.request` — Extensible library for opening URLs](urllib-request-urlopen-to-urllib-request-build-opener.md).
+- Open when checking the documented contracts for `Request.get_header()`, `Request.header_items()` in urllib.request. [urllib.request: `Request.get_header()`, `Request.header_items()`](request-get-header-to-request-header-items.md).
+- Open when checking request URL, headers, methods and proxy configuration in urllib.request. [urllib.request: Request URL, headers, methods and proxy configuration](request-full-url-to-request-set-proxy.md).
+- Open when checking urllib.request — OpenerDirector Objects. [OpenerDirector Objects / urllib.request — OpenerDirector Objects](openerdirector-add-handler-to-openerdirector-error.md).
+- Open when checking the documented contracts for `BaseHandler.add_parent()`, `BaseHandler.close()`, `BaseHandler.parent`, `BaseHandler.default_open()`, `BaseHandler.unknown_open()` in urllib.request. [urllib.request: `BaseHandler.add_parent()`, `BaseHandler.close()`, `BaseHandler.parent`, `BaseHandler.default_open()`, `BaseHandler.unknown_open()`](basehandler-add-parent-to-basehandler-unknown-open.md).
+- Open when checking the documented contracts for `BaseHandler.http_error_default()` in urllib.request. [urllib.request: `BaseHandler.http_error_default()`](basehandler-http-error-default.md).
+- Open when checking urllib.request — HTTPRedirectHandler Objects. [HTTPRedirectHandler Objects / urllib.request — HTTPRedirectHandler Objects](http-redirect-request-and-status-handling.md).
+- Open when checking urllib.request — HTTPCookieProcessor Objects. [HTTPCookieProcessor Objects / urllib.request — HTTPCookieProcessor Objects](httpcookieprocessor-cookiejar.md).
+- Open when checking urllib.request — ProxyHandler Objects. [ProxyHandler Objects / urllib.request — ProxyHandler Objects](proxyhandler-objects.md).
+- Open when checking urllib.request — HTTPPasswordMgr Objects. [HTTPPasswordMgr Objects / urllib.request — HTTPPasswordMgr Objects](http-password-registration-and-lookup.md).
+- Open when checking urllib.request — HTTPPasswordMgrWithPriorAuth Objects. [HTTPPasswordMgrWithPriorAuth Objects / urllib.request — HTTPPasswordMgrWithPriorAuth Objects](http-preauthorization-password-state.md).
+- Open when checking urllib.request — AbstractBasicAuthHandler Objects. [AbstractBasicAuthHandler Objects / urllib.request — AbstractBasicAuthHandler Objects](abstractbasicauthhandler-http-error-auth-reqed.md).
+- Open when checking urllib.request — HTTPBasicAuthHandler Objects. [HTTPBasicAuthHandler Objects / urllib.request — HTTPBasicAuthHandler Objects](httpbasicauthhandler-http-error-401.md).
+- Open when checking urllib.request — ProxyBasicAuthHandler Objects. [ProxyBasicAuthHandler Objects / urllib.request — ProxyBasicAuthHandler Objects](proxybasicauthhandler-http-error-407.md).
+- Open when checking urllib.request — AbstractDigestAuthHandler Objects. [AbstractDigestAuthHandler Objects / urllib.request — AbstractDigestAuthHandler Objects](abstractdigestauthhandler-http-error-auth-reqed.md).
+- Open when checking urllib.request — HTTPDigestAuthHandler Objects. [HTTPDigestAuthHandler Objects / urllib.request — HTTPDigestAuthHandler Objects](httpdigestauthhandler-http-error-401.md).
+- Open when checking urllib.request — ProxyDigestAuthHandler Objects. [ProxyDigestAuthHandler Objects / urllib.request — ProxyDigestAuthHandler Objects](proxydigestauthhandler-http-error-407.md).
+- Open when checking urllib.request — HTTPHandler Objects. [HTTPHandler Objects / urllib.request — HTTPHandler Objects](httphandler-http-open.md).
+- Open when checking urllib.request — HTTPSHandler Objects. [HTTPSHandler Objects / urllib.request — HTTPSHandler Objects](httpshandler-https-open.md).
+- Open when checking urllib.request — FileHandler Objects. [FileHandler Objects / urllib.request — FileHandler Objects](filehandler-file-open.md).
+- Open when checking urllib.request — DataHandler Objects. [DataHandler Objects / urllib.request — DataHandler Objects](datahandler-data-open.md).
+- Open when checking urllib.request — FTPHandler Objects. [FTPHandler Objects / urllib.request — FTPHandler Objects](ftphandler-ftp-open.md).
+- Open when checking urllib.request — CacheFTPHandler Objects. [CacheFTPHandler Objects / urllib.request — CacheFTPHandler Objects](cacheftphandler-settimeout-to-cacheftphandler-setmaxconns.md).
+- Open when checking urllib.request — UnknownHandler Objects. [UnknownHandler Objects / urllib.request — UnknownHandler Objects](unknownhandler-unknown-open.md).
+- Open when checking urllib.request — HTTPErrorProcessor Objects. [HTTPErrorProcessor Objects / urllib.request — HTTPErrorProcessor Objects](http-and-https-error-response-processing.md).
+- Open when checking urllib.request — Examples. [Examples / urllib.request — Examples](examples.md).
+- Open when checking urllib.request — Examples — Section introduction and initial examples. [Examples / urllib.request — Examples — Section introduction and initial examples](examples-section-introduction-and-initial-examples.md).
+- Open when checking urllib.request — Examples — Code example: import urllib.request. [Examples / urllib.request — Examples — Code example: import urllib.request](examples-code-example-import-urllib-request-pass.md).
+- Open when checking urllib.request — Examples — Code example: &gt;&gt;&gt; import urllib.request. [Examples / urllib.request — Examples — Code example: &gt;&gt;&gt; import urllib.request](url-request-post-example.md).
+- Open when checking urllib.request — Legacy interface. [Legacy interface / urllib.request — Legacy interface](urllib-request-urlretrieve-to-urllib-request-urlcleanup.md).
+- Open when checking urllib.request — `urllib.request` Restrictions. [urllib.request Restrictions / urllib.request — `urllib.request` Restrictions](urllib-request-restrictions.md).
+- Open when checking the documented contracts for `urllib.request.pathname2url()`, `urllib.request.url2pathname()`, `urllib.request.getproxies()` in urllib.request. [urllib.request: `urllib.request.pathname2url()`, `urllib.request.url2pathname()`, `urllib.request.getproxies()`](urllib-request-pathname2url-to-urllib-request-getproxies.md).
+- Open when checking the documented contracts for `urllib.request.Request` in urllib.request. [urllib.request: `urllib.request.Request`](urllib-request-request-class.md).
+- Open when checking the documented contracts for `urllib.request.OpenerDirector` in urllib.request. [urllib.request: `urllib.request.OpenerDirector`](urllib-request-openerdirector-class.md).
+- Open when checking the documented contracts for `urllib.request.BaseHandler` in urllib.request. [urllib.request: `urllib.request.BaseHandler`](urllib-request-basehandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPDefaultErrorHandler` in urllib.request. [urllib.request: `urllib.request.HTTPDefaultErrorHandler`](urllib-request-httpdefaulterrorhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPRedirectHandler` in urllib.request. [urllib.request: `urllib.request.HTTPRedirectHandler`](urllib-request-httpredirecthandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPCookieProcessor` in urllib.request. [urllib.request: `urllib.request.HTTPCookieProcessor`](urllib-request-httpcookieprocessor-class.md).
+- Open when checking the documented contracts for `urllib.request.ProxyHandler` in urllib.request. [urllib.request: `urllib.request.ProxyHandler`](urllib-request-proxyhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPPasswordMgr` in urllib.request. [urllib.request: `urllib.request.HTTPPasswordMgr`](urllib-request-httppasswordmgr-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPPasswordMgrWithDefaultRealm` in urllib.request. [urllib.request: `urllib.request.HTTPPasswordMgrWithDefaultRealm`](urllib-request-httppasswordmgrwithdefaultrealm-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPPasswordMgrWithPriorAuth` in urllib.request. [urllib.request: `urllib.request.HTTPPasswordMgrWithPriorAuth`](urllib-request-httppasswordmgrwithpriorauth-class.md).
+- Open when checking the documented contracts for `urllib.request.AbstractBasicAuthHandler` in urllib.request. [urllib.request: `urllib.request.AbstractBasicAuthHandler`](urllib-request-abstractbasicauthhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPBasicAuthHandler` in urllib.request. [urllib.request: `urllib.request.HTTPBasicAuthHandler`](urllib-request-httpbasicauthhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.ProxyBasicAuthHandler` in urllib.request. [urllib.request: `urllib.request.ProxyBasicAuthHandler`](urllib-request-proxybasicauthhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.AbstractDigestAuthHandler` in urllib.request. [urllib.request: `urllib.request.AbstractDigestAuthHandler`](urllib-request-abstractdigestauthhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPDigestAuthHandler` in urllib.request. [urllib.request: `urllib.request.HTTPDigestAuthHandler`](urllib-request-httpdigestauthhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.ProxyDigestAuthHandler` in urllib.request. [urllib.request: `urllib.request.ProxyDigestAuthHandler`](urllib-request-proxydigestauthhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPHandler` in urllib.request. [urllib.request: `urllib.request.HTTPHandler`](urllib-request-httphandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPSHandler` in urllib.request. [urllib.request: `urllib.request.HTTPSHandler`](urllib-request-httpshandler-class.md).
+- Open when checking the documented contracts for `urllib.request.FileHandler` in urllib.request. [urllib.request: `urllib.request.FileHandler`](urllib-request-filehandler-class.md).
+- Open when checking the documented contracts for `urllib.request.DataHandler` in urllib.request. [urllib.request: `urllib.request.DataHandler`](urllib-request-datahandler-class.md).
+- Open when checking the documented contracts for `urllib.request.FTPHandler` in urllib.request. [urllib.request: `urllib.request.FTPHandler`](urllib-request-ftphandler-class.md).
+- Open when checking the documented contracts for `urllib.request.CacheFTPHandler` in urllib.request. [urllib.request: `urllib.request.CacheFTPHandler`](urllib-request-cacheftphandler-class.md).
+- Open when checking the documented contracts for `urllib.request.UnknownHandler` in urllib.request. [urllib.request: `urllib.request.UnknownHandler`](urllib-request-unknownhandler-class.md).
+- Open when checking the documented contracts for `urllib.request.HTTPErrorProcessor` in urllib.request. [urllib.request: `urllib.request.HTTPErrorProcessor`](urllib-request-httperrorprocessor-class.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

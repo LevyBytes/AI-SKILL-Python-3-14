@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "marshal: `marshal.dump()`, `marshal.load()`", "file": "marshal/marshal-dump-to-marshal-load.md", "summary": "Open when checking the documented contracts for `marshal.dump()`, `marshal.load()` in marshal.", "keywords": []},
+  {"topic": "marshal: `marshal.dumps()`, `marshal.loads()`, `marshal.version`", "file": "marshal/marshal-dumps-to-marshal-version.md", "summary": "Open when checking the documented contracts for `marshal.dumps()`, `marshal.loads()`, `marshal.version` in marshal.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

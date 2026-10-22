@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "File Formats / Python 3.14.0 alpha 1 / library / tomllib", "file": "releases/3-14-0-alpha-1/library/tomllib.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / tomllib.", "keywords": []},
+  {"topic": "File Formats / Python 3.14.0 alpha 1 / library / configparser", "file": "releases/3-14-0-alpha-1/library/configparser.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / configparser.", "keywords": []},
+  {"topic": "File Formats / Python 3.14.0 alpha 1 / library / csv", "file": "releases/3-14-0-alpha-1/library/csv.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / csv.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

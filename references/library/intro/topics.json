@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Introduction", "file": "intro/introduction.md", "summary": "Open when checking Introduction.", "keywords": []},
+    {"topic": "Mobile platforms", "file": "intro/mobile-platforms.md", "summary": "Open when checking Mobile platforms.", "keywords": []},
+    {"topic": "Notes on availability", "file": "intro/notes-on-availability.md", "summary": "Open when checking Notes on availability.", "keywords": []},
+    {"topic": "WebAssembly platforms", "file": "intro/webassembly-platforms.md", "summary": "Open when checking WebAssembly platforms.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

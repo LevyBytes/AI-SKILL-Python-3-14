@@ -1,0 +1,3 @@
+def quantify(iterable, predicate=bool):
+    "Given a predicate that returns True or False, count the True results."
+    return sum(map(predicate, iterable))

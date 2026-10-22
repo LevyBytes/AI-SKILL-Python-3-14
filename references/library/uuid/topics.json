@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "uuid — Command-Line Example", "file": "uuid/command-line-example.md", "summary": "Open when checking uuid — Command-Line Example.", "keywords": []},
+  {"topic": "uuid — Command-Line Usage", "file": "uuid/command-line-usage.md", "summary": "Open when checking uuid — Command-Line Usage.", "keywords": []},
+  {"topic": "uuid — Example", "file": "uuid/example.md", "summary": "Open when checking uuid — Example.", "keywords": []},
+  {"topic": "uuid: `uuid.SafeUUID`", "file": "uuid/uuid-safeuuid-class.md", "summary": "Open when checking the documented contracts for `uuid.SafeUUID` in uuid.", "keywords": []},
+  {"topic": "uuid: UUID multiprocessing-safety classifications", "file": "uuid/uuid-uuid-objects-according-to-rfc-9562.md", "summary": "Open when checking UUID multiprocessing-safety classifications in uuid.", "keywords": []},
+  {"topic": "uuid: `uuid.UUID`, `UUID.bytes`, `UUID.bytes_le`, `UUID.fields`, `UUID.hex`, `UUID.int`, `UUID.urn`, `UUID.variant`, `UUID.version`, `UUID.is_safe`", "file": "uuid/uuid-uuid-class-to-uuid-is-safe.md", "summary": "Open when checking the documented contracts for `uuid.UUID`, `UUID.bytes`, `UUID.bytes_le`, `UUID.fields`, `UUID.hex`, `UUID.int`, `UUID.urn`, `UUID.variant`, `UUID.version`, `UUID.is_safe` in uuid.", "keywords": []},
+  {"topic": "uuid: UUID generation, namespace and variant selection", "file": "uuid/uuid-getnode-to-uuid-rfc-4122.md", "summary": "Open when checking UUID generation, namespace and variant selection in uuid.", "keywords": []},
+  {"topic": "uuid: `uuid.RESERVED_MICROSOFT`, `uuid.RESERVED_FUTURE`, `uuid.NIL`, `uuid.MAX`", "file": "uuid/uuid-reserved-microsoft-to-uuid-max.md", "summary": "Open when checking the documented contracts for `uuid.RESERVED_MICROSOFT`, `uuid.RESERVED_FUTURE`, `uuid.NIL`, `uuid.MAX` in uuid.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

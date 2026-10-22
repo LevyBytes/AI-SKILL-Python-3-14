@@ -1,0 +1,9 @@
+{"schema_version": 1, "topics": [
+  {"topic": "cmd — `cmd` — Support for line-oriented command interpreters", "file": "cmd/cmd-cmd-class.md", "summary": "Open when checking cmd — `cmd` — Support for line-oriented command interpreters.", "keywords": []},
+  {"topic": "cmd: Command-interpreter loop, hooks and help configuration", "file": "cmd/cmd-cmdloop-to-cmd-intro.md", "summary": "Open when checking command-interpreter loop, hooks and help configuration in cmd.", "keywords": []},
+  {"topic": "cmd: `Cmd.doc_header`, `Cmd.misc_header`, `Cmd.undoc_header`, `Cmd.ruler`, `Cmd.use_rawinput`", "file": "cmd/cmd-doc-header-to-cmd-use-rawinput.md", "summary": "Open when checking the documented contracts for `Cmd.doc_header`, `Cmd.misc_header`, `Cmd.undoc_header`, `Cmd.ruler`, `Cmd.use_rawinput` in cmd.", "keywords": []},
+  {"topic": "cmd — Cmd Example — Code example: import cmd, sys", "file": "cmd/cmd-example-code-example-import-cmd-sys.md", "summary": "Open when checking cmd — Cmd Example — Code example: import cmd, sys.", "keywords": []},
+  {"topic": "cmd — Cmd Example — Code example: Welcome to the turtle shell.   Type help or ? to list commands.", "file": "turtle-shell-interactive-example.md", "summary": "Open when checking cmd — Cmd Example — Code example: Welcome to the turtle shell.   Type help or ? to list commands..", "keywords": []},
+  {"topic": "cmd — Cmd Example — Section introduction and initial examples", "file": "cmd/cmd-example-section-introduction-and-initial-examples.md", "summary": "Open when checking cmd — Cmd Example — Section introduction and initial examples.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

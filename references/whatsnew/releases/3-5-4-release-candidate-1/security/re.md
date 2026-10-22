@@ -1,0 +1,5 @@
+# Python 3.5.4 release candidate 1 / security / re
+
+[bpo-30694](https://bugs.python.org/issue?@action=redirect&bpo=30694): Move the bundled expat copy from 2.2.0 to 2.2.1 to obtain fixes for several security vulnerabilities, among them: [**CVE 2017-9233**](https://www.cve.org/CVERecord?id=CVE-2017-9233) (a DoS via an infinite loop on an external entity), [**CVE 2016-9063**](https://www.cve.org/CVERecord?id=CVE-2016-9063) (a re-fix of the integer overflow), [**CVE 2016-0718**](https://www.cve.org/CVERecord?id=CVE-2016-0718) (repairs the regressions that the 2.2.0 fix to [**CVE 2016-0718**](https://www.cve.org/CVERecord?id=CVE-2016-0718) introduced) and [**CVE 2012-0876**](https://www.cve.org/CVERecord?id=CVE-2012-0876) (hash flooding of the counter mitigated via SipHash). One caveat: [**CVE 2016-5300**](https://www.cve.org/CVERecord?id=CVE-2016-5300) (which suggests OS-specific entropy sources such as getrandom) has no bearing on Python, because the interpreter already pulls entropy out of the OS so as to seed the expat secret through `XML_SetHashSalt()`.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

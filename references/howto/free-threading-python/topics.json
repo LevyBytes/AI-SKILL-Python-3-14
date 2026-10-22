@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Overview and scope / Python support for free threading", "file": "free-threading-python/python-support-for-free-threading.md", "summary": "Open when checking Python support for free threading.", "keywords": []},
+  {"topic": "Installation", "file": "free-threading-python/installation.md", "summary": "Open when checking Installation.", "keywords": []},
+  {"topic": "Identifying free-threaded Python", "file": "free-threading-python/identifying-free-threaded-python.md", "summary": "Open when checking Identifying free-threaded Python.", "keywords": []},
+  {"topic": "The global interpreter lock in free-threaded Python", "file": "free-threading-python/the-global-interpreter-lock-in-free-threaded-python.md", "summary": "Open when checking The global interpreter lock in free-threaded Python.", "keywords": []},
+  {"topic": "Thread safety", "file": "free-threading-python/thread-safety.md", "summary": "Open when checking Thread safety.", "keywords": []},
+  {"topic": "Known limitations", "file": "free-threading-python/known-limitations.md", "summary": "Open when checking Known limitations.", "keywords": []},
+  {"topic": "Known limitations / Immortalization", "file": "free-threading-python/immortalization.md", "summary": "Open when checking Immortalization.", "keywords": []},
+  {"topic": "Known limitations / Frame objects", "file": "free-threading-python/frame-objects.md", "summary": "Open when checking Frame objects.", "keywords": []},
+  {"topic": "Known limitations / Iterators", "file": "free-threading-python/iterators.md", "summary": "Open when checking Iterators.", "keywords": []},
+  {"topic": "Known limitations / Single-threaded performance", "file": "free-threading-python/single-threaded-performance.md", "summary": "Open when checking Single-threaded performance.", "keywords": []},
+  {"topic": "Behavioral changes", "file": "free-threading-python/behavioral-changes.md", "summary": "Open when checking Behavioral changes.", "keywords": []},
+  {"topic": "Behavioral changes / Context variables", "file": "free-threading-python/context-variables.md", "summary": "Open when checking Context variables.", "keywords": []},
+  {"topic": "Behavioral changes / Warning filters", "file": "free-threading-python/warning-filters.md", "summary": "Open when checking Warning filters.", "keywords": []},
+  {"topic": "Behavioral changes / Increased memory usage", "file": "free-threading-python/increased-memory-usage.md", "summary": "Open when checking Increased memory usage.", "keywords": []},
+  {"topic": "Behavioral changes / All interned strings are immortal", "file": "free-threading-python/all-interned-strings-are-immortal.md", "summary": "Open when checking All interned strings are immortal.", "keywords": []},
+  {"topic": "Behavioral changes / Non-GC objects have a larger object header", "file": "free-threading-python/non-gc-objects-have-a-larger-object-header.md", "summary": "Open when checking Non-GC objects have a larger object header.", "keywords": []},
+  {"topic": "Behavioral changes / QSBR can delay freeing of memory", "file": "free-threading-python/qsbr-can-delay-freeing-of-memory.md", "summary": "Open when checking QSBR can delay freeing of memory.", "keywords": []},
+  {"topic": "Behavioral changes / mimalloc allocator vs pymalloc", "file": "free-threading-python/mimalloc-allocator-vs-pymalloc.md", "summary": "Open when checking mimalloc allocator vs pymalloc.", "keywords": []},
+  {"topic": "Behavioral changes / Free-threaded reference counting can cause objects to live longer", "file": "free-threading-python/free-threaded-reference-counting-and-lifetimes.md", "summary": "Open when checking Free-threaded reference counting can cause objects to live longer.", "keywords": []},
+  {"topic": "Behavioral changes / Per-thread reference counting can delay freeing objects", "file": "free-threading-python/per-thread-reference-counting-can-delay-freeing-objects.md", "summary": "Open when checking Per-thread reference counting can delay freeing objects.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

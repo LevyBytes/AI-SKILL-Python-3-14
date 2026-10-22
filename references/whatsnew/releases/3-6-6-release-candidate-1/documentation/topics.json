@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / documented pybuffer tocontiguous", "file": "releases/3-6-6-release-candidate-1/documentation/documented-pybuffer-tocontiguous.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / documented pybuffer tocontiguous.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / exceptions and tracebacks", "file": "releases/3-6-6-release-candidate-1/documentation/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / imports and modules", "file": "releases/3-6-6-release-candidate-1/documentation/imports-and-modules.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / language", "file": "releases/3-6-6-release-candidate-1/documentation/language.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / language.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / repaired broken pypi link", "file": "releases/3-6-6-release-candidate-1/documentation/repaired-broken-pypi-link.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / repaired broken pypi link.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / spelled out meaning carried cert none cert optional cert required flags ssl sslcontext verify mode", "file": "ssl-certificate-verification-mode-documentation.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / spelled out meaning carried cert none cert optional cert required flags ssl sslcontext verify mode.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / tests and documentation", "file": "releases/3-6-6-release-candidate-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / documentation / zipapp", "file": "releases/3-6-6-release-candidate-1/documentation/zipapp.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / documentation / zipapp.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

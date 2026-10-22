@@ -1,0 +1,61 @@
+# Improved Modules
+
+Select by the documented task or API context. [Topic catalog](context-improved-modules.json).
+
+- Open when checking What's New In Python 3.6 / array — array. [Improved Modules / What's New In Python 3.6 / array — array](array.md).
+- Open when checking What's New In Python 3.6 / ast — ast. [Improved Modules / What's New In Python 3.6 / ast — ast](ast.md).
+- Open when checking What's New In Python 3.6 / asyncio — asyncio, asyncio-eventloop, asyncio-future, asyncio-protocol, asyncio-stream, asyncio-task. [Improved Modules / What's New In Python 3.6 / asyncio — asyncio, asyncio-eventloop, asyncio-future, asyncio-protocol, asyncio-stream, asyncio-task](asyncio.md).
+- Open when checking What's New In Python 3.6 / binascii — binascii. [Improved Modules / What's New In Python 3.6 / binascii — binascii](binascii.md).
+- Open when checking What's New In Python 3.6 / cmath — cmath, math. [Improved Modules / What's New In Python 3.6 / cmath — cmath, math](cmath.md).
+- Open when checking What's New In Python 3.6 / collections — collections, collections.abc. [Improved Modules / What's New In Python 3.6 / collections — collections, collections.abc](collections.md).
+- Open when checking What's New In Python 3.6 / concurrent.futures — concurrent.futures. [Improved Modules / What's New In Python 3.6 / concurrent.futures — concurrent.futures](concurrent-futures.md).
+- Open when checking What's New In Python 3.6 / contextlib — contextlib, typing. [Improved Modules / What's New In Python 3.6 / contextlib — contextlib, typing](contextlib.md).
+- Open when checking What's New In Python 3.6 / datetime — datetime. [Improved Modules / What's New In Python 3.6 / datetime — datetime](datetime.md).
+- Open when checking What's New In Python 3.6 / decimal — decimal. [Improved Modules / What's New In Python 3.6 / decimal — decimal](decimal.md).
+- Open when checking What's New In Python 3.6 / email — email, email.compat32-message, email.generator, email.message, email.mime, email.policy. [Improved Modules / What's New In Python 3.6 / email — email, email.compat32-message, email.generator, email.message, email.mime, email.policy](email.md).
+- Open when checking What's New In Python 3.6 / encodings. [Improved Modules / What's New In Python 3.6 / encodings](encodings.md).
+- Open when checking What's New In Python 3.6 / enum — enum. [Improved Modules / What's New In Python 3.6 / enum — enum](enum.md).
+- Open when checking What's New In Python 3.6 / faulthandler — faulthandler. [Improved Modules / What's New In Python 3.6 / faulthandler — faulthandler](faulthandler.md).
+- Open when checking What's New In Python 3.6 / fileinput — fileinput. [Improved Modules / What's New In Python 3.6 / fileinput — fileinput](fileinput.md).
+- Open when checking What's New In Python 3.6 / hashlib — hashlib. [Improved Modules / What's New In Python 3.6 / hashlib — hashlib](hashlib.md).
+- Open when checking What's New In Python 3.6 / http.client — http.client. [Improved Modules / What's New In Python 3.6 / http.client — http.client](http-client.md).
+- Open when checking What's New In Python 3.6 / idlelib and IDLE. [Improved Modules / What's New In Python 3.6 / idlelib and IDLE](idlelib-and-idle.md).
+- Open when checking What's New In Python 3.6 / inspect — inspect. [Improved Modules / What's New In Python 3.6 / inspect — inspect](inspect.md).
+- Open when checking What's New In Python 3.6 / json — json. [Improved Modules / What's New In Python 3.6 / json — json](json.md).
+- Open when checking What's New In Python 3.6 / logging — logging.handlers. [Improved Modules / What's New In Python 3.6 / logging — logging.handlers](logging.md).
+- Open when checking What's New In Python 3.6 / math — cmath, math. [Improved Modules / What's New In Python 3.6 / math — cmath, math](math.md).
+- Open when checking What's New In Python 3.6 / multiprocessing — multiprocessing. [Improved Modules / What's New In Python 3.6 / multiprocessing — multiprocessing](multiprocessing.md).
+- Open when checking What's New In Python 3.6 / pathlib — pathlib. [Improved Modules / What's New In Python 3.6 / pathlib — pathlib](pathlib.md).
+- Open when checking What's New In Python 3.6 / pdb — pdb. [Improved Modules / What's New In Python 3.6 / pdb — pdb](pdb.md).
+- Open when checking What's New In Python 3.6 / pickle — pickle. [Improved Modules / What's New In Python 3.6 / pickle — pickle](pickle.md).
+- Open when checking What's New In Python 3.6 / pickletools — pickletools. [Improved Modules / What's New In Python 3.6 / pickletools — pickletools](pickletools.md).
+- Open when checking What's New In Python 3.6 / pydoc — pydoc. [Improved Modules / What's New In Python 3.6 / pydoc — pydoc](pydoc.md).
+- Open when checking What's New In Python 3.6 / random — random. [Improved Modules / What's New In Python 3.6 / random — random](random.md).
+- Open when checking What's New In Python 3.6 / readline — readline. [Improved Modules / What's New In Python 3.6 / readline — readline](readline.md).
+- Open when checking What's New In Python 3.6 / rlcompleter. [Improved Modules / What's New In Python 3.6 / rlcompleter](rlcompleter.md).
+- Open when checking What's New In Python 3.6 / shlex — shlex. [Improved Modules / What's New In Python 3.6 / shlex — shlex](shlex.md).
+- Open when checking What's New In Python 3.6 / site — sys. [Improved Modules / What's New In Python 3.6 / site — sys](site.md).
+- Open when checking What's New In Python 3.6 / sqlite3 — sqlite3. [Improved Modules / What's New In Python 3.6 / sqlite3 — sqlite3](sqlite3.md).
+- Open when checking What's New In Python 3.6 / socket — socket. [Improved Modules / What's New In Python 3.6 / socket — socket](socket.md).
+- Open when checking What's New In Python 3.6 / socketserver — http.server, io, socketserver, wsgiref, xmlrpc.server. [Improved Modules / What's New In Python 3.6 / socketserver — http.server, io, socketserver, wsgiref, xmlrpc.server](socketserver.md).
+- Open when checking What's New In Python 3.6 / statistics — statistics. [Improved Modules / What's New In Python 3.6 / statistics — statistics](statistics.md).
+- Open when checking What's New In Python 3.6 / struct — struct. [Improved Modules / What's New In Python 3.6 / struct — struct](struct.md).
+- Open when checking What's New In Python 3.6 / subprocess — subprocess. [Improved Modules / What's New In Python 3.6 / subprocess — subprocess](subprocess.md).
+- Open when checking What's New In Python 3.6 / sys — sys. [Improved Modules / What's New In Python 3.6 / sys — sys](sys.md).
+- Open when checking What's New In Python 3.6 / telnetlib. [Improved Modules / What's New In Python 3.6 / telnetlib](telnetlib.md).
+- Open when checking What's New In Python 3.6 / time — time. [Improved Modules / What's New In Python 3.6 / time — time](time.md).
+- Open when checking What's New In Python 3.6 / timeit — timeit. [Improved Modules / What's New In Python 3.6 / timeit — timeit](timeit.md).
+- Open when checking What's New In Python 3.6 / traceback. [Improved Modules / What's New In Python 3.6 / traceback](traceback.md).
+- Open when checking What's New In Python 3.6 / tracemalloc — tracemalloc. [Improved Modules / What's New In Python 3.6 / tracemalloc — tracemalloc](tracemalloc.md).
+- Open when checking What's New In Python 3.6 / typing — collections.abc, contextlib, typing. [Improved Modules / What's New In Python 3.6 / typing — collections.abc, contextlib, typing](typing.md).
+- Open when checking What's New In Python 3.6 / unicodedata — unicodedata. [Improved Modules / What's New In Python 3.6 / unicodedata — unicodedata](unicodedata.md).
+- Open when checking What's New In Python 3.6 / unittest.mock — unittest.mock. [Improved Modules / What's New In Python 3.6 / unittest.mock — unittest.mock](unittest-mock.md).
+- Open when checking What's New In Python 3.6 / urllib.request — urllib.request. [Improved Modules / What's New In Python 3.6 / urllib.request — urllib.request](urllib-request.md).
+- Open when checking What's New In Python 3.6 / urllib.robotparser — urllib.robotparser. [Improved Modules / What's New In Python 3.6 / urllib.robotparser — urllib.robotparser](urllib-robotparser.md).
+- Open when checking What's New In Python 3.6 / warnings — tracemalloc, warnings. [Improved Modules / What's New In Python 3.6 / warnings — tracemalloc, warnings](warnings.md).
+- Open when checking What's New In Python 3.6 / winreg — winreg. [Improved Modules / What's New In Python 3.6 / winreg — winreg](winreg.md).
+- Open when checking What's New In Python 3.6 / winsound — winsound. [Improved Modules / What's New In Python 3.6 / winsound — winsound](winsound.md).
+- Open when checking What's New In Python 3.6 / xmlrpc.client — xmlrpc.client. [Improved Modules / What's New In Python 3.6 / xmlrpc.client — xmlrpc.client](xmlrpc-client.md).
+- Open when checking What's New In Python 3.6 / zipfile — zipfile. [Improved Modules / What's New In Python 3.6 / zipfile — zipfile](zipfile.md).
+- Open when checking What's New In Python 3.6 / zlib — zlib. [Improved Modules / What's New In Python 3.6 / zlib — zlib](zlib.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

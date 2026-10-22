@@ -1,0 +1,53 @@
+# Python/C API subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Type Object Structures. [Overview and scope / Type Object Structures](type-object-structures.md).
+- Open when checking “tp slots”. [Quick Reference / “tp slots”](tp-slots.md).
+- Open when checking sub-slots. [Quick Reference / sub-slots](sub-slots.md).
+- Open when checking slot typedefs. [Quick Reference / slot typedefs](slot-typedefs.md).
+- Open when checking PyTypeObject header, operation suites, GC, comparison and iteration slots. [PyTypeObject Definition / PyTypeObject header, operation suites, GC, comparison and iteration slots](type-header-operation-gc-and-iteration-slots.md).
+- Open when checking PyTypeObject descriptors, construction, inheritance and version/cache fields. [PyTypeObject Definition / PyTypeObject descriptors, construction, inheritance and version/cache fields](type-descriptors-construction-and-version-cache.md).
+- Open when checking PyObject Slots. [PyObject Slots](pyobject-ob-refcnt-to-pyobject-ob-type.md).
+- Open when checking PyVarObject.ob_size. [PyVarObject Slots / PyVarObject.ob_size](pyvarobject-ob-size.md).
+- Open when checking the documented contracts for `Py_TPFLAGS_HAVE_VECTORCALL`, `Py_TPFLAGS_IMMUTABLETYPE`, `Py_TPFLAGS_DISALLOW_INSTANTIATION`, `Py_TPFLAGS_MAPPING` in type slots C API. [type slots C API: `Py_TPFLAGS_HAVE_VECTORCALL`, `Py_TPFLAGS_IMMUTABLETYPE`, `Py_TPFLAGS_DISALLOW_INSTANTIATION`, `Py_TPFLAGS_MAPPING`](py-tpflags-have-vectorcall-to-py-tpflags-mapping.md).
+- Open when checking the documented contracts for `Py_TPFLAGS_SEQUENCE`, `Py_TPFLAGS_VALID_VERSION_TAG`, `Py_TPFLAGS_HAVE_VERSION_TAG`, `Py_TPFLAGS_INLINE_VALUES`, `Py_TPFLAGS_IS_ABSTRACT`, `Py_TPFLAGS_HAVE_STACKLESS_EXTENSION`, `PyTypeObject.tp_doc` in type slots C API. [type slots C API: `Py_TPFLAGS_SEQUENCE`, `Py_TPFLAGS_VALID_VERSION_TAG`, `Py_TPFLAGS_HAVE_VERSION_TAG`, `Py_TPFLAGS_INLINE_VALUES`, `Py_TPFLAGS_IS_ABSTRACT`, `Py_TPFLAGS_HAVE_STACKLESS_EXTENSION`, `PyTypeObject.tp_doc`](py-tpflags-sequence-to-pytypeobject-tp-doc.md).
+- Open when checking the documented contracts for `PyObject_CallFinalizer()` in type slots C API. [type slots C API: `PyObject_CallFinalizer()`](pyobject-callfinalizer.md).
+- Open when checking the documented contracts for `PyObject_CallFinalizerFromDealloc()`, `PyTypeObject.tp_watched` in type slots C API. [type slots C API: `PyObject_CallFinalizerFromDealloc()`, `PyTypeObject.tp_watched`](pyobject-callfinalizerfromdealloc-to-pytypeobject-tp-watched.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_methods`, `PyTypeObject.tp_members`, `PyTypeObject.tp_getset`, `PyTypeObject.tp_base`, `PyTypeObject.tp_dict` in type slots C API. [type slots C API: `PyTypeObject.tp_methods`, `PyTypeObject.tp_members`, `PyTypeObject.tp_getset`, `PyTypeObject.tp_base`, `PyTypeObject.tp_dict`](pytypeobject-tp-methods-to-pytypeobject-tp-dict.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_dictoffset` in type slots C API. [type slots C API: `PyTypeObject.tp_dictoffset`](pytypeobject-tp-descr-get-to-pytypeobject-tp-dictoffset.md).
+- Open when checking type initialization and allocation slots in type slots C API. [type slots C API: Type initialization and allocation slots](pytypeobject-tp-init-to-pytypeobject-tp-new.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_bases`, `PyTypeObject.tp_mro`, `PyTypeObject.tp_cache` in type slots C API. [type slots C API: `PyTypeObject.tp_bases`, `PyTypeObject.tp_mro`, `PyTypeObject.tp_cache`](pytypeobject-tp-free-to-pytypeobject-tp-cache.md).
+- Open when checking the documented contracts for `Py_RETURN_RICHCOMPARE()` in type slots C API. [type slots C API: `Py_RETURN_RICHCOMPARE()`](pytypeobject-tp-richcompare-to-py-return-richcompare.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_weaklist`, `PyTypeObject.tp_version_tag` in type slots C API. [type slots C API: `PyTypeObject.tp_weaklist`, `PyTypeObject.tp_version_tag`](pytypeobject-tp-subclasses-to-pytypeobject-tp-version-tag.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_vectorcall_offset`, `PyTypeObject.tp_as_async` in type slots C API. [type slots C API: `PyTypeObject.tp_vectorcall_offset`, `PyTypeObject.tp_as_async`](pytypeobject-tp-vectorcall-offset-to-pytypeobject-tp-repr.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_as_number`, `PyTypeObject.tp_as_sequence`, `PyTypeObject.tp_as_mapping` in type slots C API. [type slots C API: `PyTypeObject.tp_as_number`, `PyTypeObject.tp_as_sequence`, `PyTypeObject.tp_as_mapping`](pytypeobject-tp-as-number-to-pytypeobject-tp-call.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_as_buffer` in type slots C API. [type slots C API: `PyTypeObject.tp_as_buffer`](pytypeobject-tp-str-to-pytypeobject-tp-as-buffer.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_flags`, `Py_TPFLAGS_HEAPTYPE`, `Py_TPFLAGS_BASETYPE`, `Py_TPFLAGS_READY`, `Py_TPFLAGS_READYING`, `Py_TPFLAGS_HAVE_GC`, `Py_TPFLAGS_DEFAULT` in type slots C API. [type slots C API: `PyTypeObject.tp_flags`, `Py_TPFLAGS_HEAPTYPE`, `Py_TPFLAGS_BASETYPE`, `Py_TPFLAGS_READY`, `Py_TPFLAGS_READYING`, `Py_TPFLAGS_HAVE_GC`, `Py_TPFLAGS_DEFAULT`](pytypeobject-tp-flags-to-py-tpflags-default.md).
+- Open when checking the documented contracts for `Py_TPFLAGS_METHOD_DESCRIPTOR`, `Py_TPFLAGS_MANAGED_DICT`, `Py_TPFLAGS_MANAGED_WEAKREF`, `Py_TPFLAGS_ITEMS_AT_END` in type slots C API. [type slots C API: `Py_TPFLAGS_METHOD_DESCRIPTOR`, `Py_TPFLAGS_MANAGED_DICT`, `Py_TPFLAGS_MANAGED_WEAKREF`, `Py_TPFLAGS_ITEMS_AT_END`](py-tpflags-method-descriptor-to-py-tpflags-items-at-end.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_weaklistoffset` in type slots C API. [type slots C API: `PyTypeObject.tp_weaklistoffset`](pytypeobject-tp-weaklistoffset-to-pytypeobject-tp-iternext.md).
+- Open when checking the documented contracts for `PyTypeObject.tp_name`, `PyTypeObject.tp_basicsize`, `PyTypeObject.tp_itemsize` in type slots C API. [type slots C API: `PyTypeObject.tp_name`, `PyTypeObject.tp_basicsize`, `PyTypeObject.tp_itemsize`](pytypeobject-tp-name-to-pytypeobject-tp-itemsize.md).
+- Open when checking type destructor slot and lifecycle contract in type slots C API. [type slots C API: Type destructor slot and lifecycle contract](pytypeobject-tp-dealloc.md).
+- Open when checking destructor garbage-collection and resurrection obligations in type slots C API. [type slots C API: Destructor garbage-collection and resurrection obligations](destructor-pytypeobject-tp-dealloc.md).
+- Open when checking Py_TPFLAGS_HAVE_FINALIZE. [PyTypeObject Slots / Py_TPFLAGS_HAVE_FINALIZE](py-tpflags-have-finalize.md).
+- Open when checking Py_TPFLAGS_LONG_SUBCLASS / Py_TPFLAGS_LIST_SUBCLASS / Py_TPFLAGS_TUPLE_SUBCLASS / Py_TPFLAGS_BYTES_SUBCLASS / Py_TPFLAGS_UNICODE_SUBCLASS / Py_TPFLAGS_DICT_SUBCLASS / Py_TPFLAGS_BASE_EXC_SUBCLASS / Py_TPFLAGS_TYPE_SUBCLASS. [PyTypeObject Slots / Py_TPFLAGS_LONG_SUBCLASS / Py_TPFLAGS_LIST_SUBCLASS / Py_TPFLAGS_TUPLE_SUBCLASS / Py_TPFLAGS_BYTES_SUBCLASS / Py_TPFLAGS_UNICODE_SUBCLASS / Py_TPFLAGS_DICT_SUBCLASS / Py_TPFLAGS_BASE_EXC_SUBCLASS / Py_TPFLAGS_TYPE_SUBCLASS](py-tpflags-long-subclass-to-py-tpflags-type-subclass.md).
+- Open when checking traverseproc PyTypeObject.tp_traverse. [PyTypeObject Slots / traverseproc PyTypeObject.tp_traverse](pytypeobject-tp-traverse.md).
+- Open when checking inquiry PyTypeObject.tp_clear. [PyTypeObject Slots / inquiry PyTypeObject.tp_clear](pytypeobject-tp-clear.md).
+- Open when checking destructor PyTypeObject.tp_finalize. [PyTypeObject Slots / destructor PyTypeObject.tp_finalize](pytypeobject-tp-finalize.md).
+- Open when checking Static Types. [Static Types](static-types.md).
+- Open when checking Heap Types. [Heap Types](heap-types.md).
+- Open when checking the documented contracts for `PyNumberMethods` in type slots C API. [type slots C API: `PyNumberMethods`](pynumbermethods-to-pynumbermethods-nb-divmod.md).
+- Open when checking power, numeric conversion and in-place arithmetic slots in type slots C API. [type slots C API: Power, numeric conversion and in-place arithmetic slots](pynumbermethods-nb-power-to-pynumbermethods-nb-inplace-rshift.md).
+- Open when checking in-place bitwise and remaining numeric slots in type slots C API. [type slots C API: In-place bitwise and remaining numeric slots](inplace-numeric-operation-slots.md).
+- Open when checking Mapping Object Structures. [Mapping Object Structures](pymappingmethods-to-pymappingmethods-mp-ass-subscript.md).
+- Open when checking Sequence Object Structures. [Sequence Object Structures](pysequencemethods-to-pysequencemethods-sq-inplace-concat.md).
+- Open when checking ssizeargfunc PySequenceMethods.sq_inplace_repeat. [Sequence Object Structures / ssizeargfunc PySequenceMethods.sq_inplace_repeat](pysequencemethods-sq-inplace-repeat.md).
+- Open when checking type PyBufferProcs. [Buffer Object Structures / type PyBufferProcs](pybufferprocs.md).
+- Open when checking getbufferproc PyBufferProcs.bf_getbuffer. [Buffer Object Structures / getbufferproc PyBufferProcs.bf_getbuffer](pybufferprocs-bf-getbuffer.md).
+- Open when checking releasebufferproc PyBufferProcs.bf_releasebuffer. [Buffer Object Structures / releasebufferproc PyBufferProcs.bf_releasebuffer](pybufferprocs-bf-releasebuffer.md).
+- Open when checking Async Object Structures. [Async Object Structures](pyasyncmethods-to-pyasyncmethods-am-send.md).
+- Open when checking allocation, destructor, traversal and hash callback typedefs in type slots C API. [type slots C API: Allocation, destructor, traversal and hash callback typedefs](pyobject-to-py-hash-t.md).
+- Open when checking comparison, iteration, descriptor and send callback typedefs in type slots C API. [type slots C API: Comparison, iteration, descriptor and send callback typedefs](pyobject-to-pysendresult.md).
+- Open when checking static extension type declaration example in type slots C API. [type slots C API: Static extension type declaration example](examples-pyobject-head.md).
+- Open when checking non-instantiable, fixed-size and variable-size type examples in type slots C API. [type slots C API: Non-instantiable, fixed-size and variable-size type examples](examples-pyobject-head-to-pyobject-var-head.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

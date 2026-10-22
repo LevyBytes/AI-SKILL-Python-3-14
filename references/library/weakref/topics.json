@@ -1,0 +1,19 @@
+{"schema_version": 1, "topics": [
+  {"topic": "weakref — Comparing finalizers with `__del__()` methods", "file": "weakref/comparing-finalizers-with-del-methods.md", "summary": "Open when checking weakref — Comparing finalizers with `__del__()` methods.", "keywords": []},
+  {"topic": "weakref — Example", "file": "weakref/example.md", "summary": "Open when checking weakref — Example.", "keywords": []},
+  {"topic": "weakref — Finalizer Objects", "file": "weakref/finalizer-objects.md", "summary": "Open when checking weakref — Finalizer Objects.", "keywords": []},
+  {"topic": "weakref — Weak Reference Objects", "file": "weakref/weak-reference-objects.md", "summary": "Open when checking weakref — Weak Reference Objects.", "keywords": []},
+  {"topic": "weakref: `weakref.ref`", "file": "weakref/weakref-ref-class.md", "summary": "Open when checking the documented contracts for `weakref.ref` in weakref.", "keywords": []},
+  {"topic": "weakref: Weak-reference callbacks and lifetime", "file": "weakref/weakref-weak-references.md", "summary": "Open when checking weak-reference callbacks and lifetime in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.proxy()`, `weakref.getweakrefcount()`, `weakref.getweakrefs()`", "file": "weakref/weakref-proxy-to-weakref-getweakrefs.md", "summary": "Open when checking the documented contracts for `weakref.proxy()`, `weakref.getweakrefcount()`, `weakref.getweakrefs()` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.WeakKeyDictionary`, `WeakKeyDictionary.keyrefs()`", "file": "weakref/weakref-weakkeydictionary-class-to-weakkeydictionary-keyrefs.md", "summary": "Open when checking the documented contracts for `weakref.WeakKeyDictionary`, `WeakKeyDictionary.keyrefs()` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.WeakValueDictionary`, `WeakValueDictionary.valuerefs()`", "file": "weak-value-dictionary-and-value-references.md", "summary": "Open when checking the documented contracts for `weakref.WeakValueDictionary`, `WeakValueDictionary.valuerefs()` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.WeakSet`", "file": "weakref/weakref-weakset-class.md", "summary": "Open when checking the documented contracts for `weakref.WeakSet` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.WeakMethod`", "file": "weakref/weakref-weakmethod-class.md", "summary": "Open when checking the documented contracts for `weakref.WeakMethod` in weakref.", "keywords": []},
+  {"topic": "weakref / Weak references: `weakref.finalize`, `__call__()`, `detach()`, `peek()`", "file": "weakref/weakref-finalize-class-to-weakref-finalize-peek.md", "summary": "Open when checking the documented contracts for `weakref.finalize`, `__call__()`, `detach()`, `peek()` in weakref / Weak references.", "keywords": []},
+  {"topic": "weakref: `weakref.ReferenceType`", "file": "weakref/weakref-referencetype-class.md", "summary": "Open when checking the documented contracts for `weakref.ReferenceType` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.ProxyType`", "file": "weakref/weakref-proxytype-class.md", "summary": "Open when checking the documented contracts for `weakref.ProxyType` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.CallableProxyType`", "file": "weakref/weakref-callableproxytype-class.md", "summary": "Open when checking the documented contracts for `weakref.CallableProxyType` in weakref.", "keywords": []},
+  {"topic": "weakref: `weakref.ProxyTypes`", "file": "weakref/weakref-proxytypes.md", "summary": "Open when checking the documented contracts for `weakref.ProxyTypes` in weakref.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

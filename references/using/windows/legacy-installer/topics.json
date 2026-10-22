@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "4.11.1. Installation steps", "file": "windows/legacy-installer/installation-steps.md", "summary": "Open when checking 4.11.1. Installation steps.", "keywords": []},
+    {"topic": "4.11.6. Installing free-threaded binaries", "file": "windows/legacy-installer/installing-free-threaded-binaries.md", "summary": "Open when checking 4.11.6. Installing free-threaded binaries.", "keywords": []},
+    {"topic": "4.11.4. Installing without downloading", "file": "windows/legacy-installer/installing-without-downloading.md", "summary": "Open when checking 4.11.4. Installing without downloading.", "keywords": []},
+    {"topic": "4.11.3. Installing without UI", "file": "windows/legacy-installer/installing-without-ui.md", "summary": "Open when checking 4.11.3. Installing without UI.", "keywords": []},
+    {"topic": "4.11.5. Modifying an install", "file": "windows/legacy-installer/modifying-an-install.md", "summary": "Open when checking 4.11.5. Modifying an install.", "keywords": []},
+    {"topic": "4.11.2. Removing the MAX_PATH limitation", "file": "windows/legacy-installer/removing-the-max-path-limitation.md", "summary": "Open when checking 4.11.2. Removing the MAX_PATH limitation.", "keywords": []},
+    {"topic": "4.11. The full installer (deprecated)", "file": "windows/legacy-installer/the-full-installer.md", "summary": "Open when checking 4.11. The full installer (deprecated).", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / tests / build and platforms", "file": "releases/3-11-0-alpha-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / contextlib", "file": "releases/3-11-0-alpha-1/tests/contextlib.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / contextlib.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / functions and types", "file": "releases/3-11-0-alpha-1/tests/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / functions", "file": "releases/3-11-0-alpha-1/tests/functions.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / functions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / gc", "file": "releases/3-11-0-alpha-1/tests/gc.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / gc.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / imports and modules", "file": "releases/3-11-0-alpha-1/tests/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / math", "file": "releases/3-11-0-alpha-1/tests/math.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / math.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / memory and lifetimes", "file": "releases/3-11-0-alpha-1/tests/memory-and-lifetimes.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / modules", "file": "releases/3-11-0-alpha-1/tests/modules.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / multiprocessing", "file": "releases/3-11-0-alpha-1/tests/multiprocessing.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / platform", "file": "releases/3-11-0-alpha-1/tests/platform.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / platform.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / plistlib", "file": "releases/3-11-0-alpha-1/tests/plistlib.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / plistlib.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / re", "file": "releases/3-11-0-alpha-1/tests/re.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / re.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / shared memory test resource tracking", "file": "releases/3-11-0-alpha-1/tests/shared-memory-test-resource-tracking.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / shared memory test resource tracking.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / ssl", "file": "releases/3-11-0-alpha-1/tests/ssl.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / ssl.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / sys", "file": "releases/3-11-0-alpha-1/tests/sys.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / sys.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / take address sanitizer into account test capi", "file": "releases/3-11-0-alpha-1/tests/take-address-sanitizer-into-account-test-capi.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / take address sanitizer into account test capi.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / test", "file": "releases/3-11-0-alpha-1/tests/test.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / test.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / tests and documentation", "file": "releases/3-11-0-alpha-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / text and unicode", "file": "releases/3-11-0-alpha-1/tests/text-and-unicode.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / text and unicode.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / turtle", "file": "releases/3-11-0-alpha-1/tests/turtle.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / turtle.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / typing", "file": "releases/3-11-0-alpha-1/tests/typing.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / typing.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tests / unittest mock", "file": "releases/3-11-0-alpha-1/tests/unittest-mock.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tests / unittest mock.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

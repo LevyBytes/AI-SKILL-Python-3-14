@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 1 / windows / bdist wininst created binaries fail start find bit python", "file": "releases/3-6-0-alpha-1/windows/bdist-wininst-created-binaries-fail-start-find-bit-python.md", "summary": "Open when checking Python 3.6.0 alpha 1 / windows / bdist wininst created binaries fail start find bit python.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / windows / files and paths", "file": "releases/3-6-0-alpha-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.6.0 alpha 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / windows / numbers", "file": "releases/3-6-0-alpha-1/windows/numbers.md", "summary": "Open when checking Python 3.6.0 alpha 1 / windows / numbers.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / windows / venv", "file": "releases/3-6-0-alpha-1/windows/venv.md", "summary": "Open when checking Python 3.6.0 alpha 1 / windows / venv.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

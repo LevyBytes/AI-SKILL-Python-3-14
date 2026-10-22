@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Compiler flags / 3.5.2. Compiler flags", "file": "build-configuration/compiler-flags.md", "summary": "Open when checking 3.5.2. Compiler flags.", "keywords": []},
+  {"topic": "Compiler flags / CXX", "file": "build-configuration/cxx.md", "summary": "Open when checking CXX.", "keywords": []},
+  {"topic": "Compiler flags / CFLAGS_NODIST", "file": "build-configuration/cflags-nodist.md", "summary": "Open when checking CFLAGS_NODIST.", "keywords": []},
+  {"topic": "Compiler flags / COMPILEALL_OPTS", "file": "build-configuration/compileall-opts.md", "summary": "Open when checking COMPILEALL_OPTS.", "keywords": []},
+  {"topic": "Compiler flags / EXTRA_CFLAGS", "file": "build-configuration/extra-cflags.md", "summary": "Open when checking EXTRA_CFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / CONFIGURE_CFLAGS", "file": "build-configuration/configure-cflags.md", "summary": "Open when checking CONFIGURE_CFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / CONFIGURE_CFLAGS_NODIST", "file": "build-configuration/configure-cflags-nodist.md", "summary": "Open when checking CONFIGURE_CFLAGS_NODIST.", "keywords": []},
+  {"topic": "Compiler flags / BASECFLAGS", "file": "build-configuration/basecflags.md", "summary": "Open when checking BASECFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / OPT", "file": "build-configuration/opt.md", "summary": "Open when checking OPT.", "keywords": []},
+  {"topic": "Compiler flags / CFLAGS_ALIASING", "file": "build-configuration/cflags-aliasing.md", "summary": "Open when checking CFLAGS_ALIASING.", "keywords": []},
+  {"topic": "Compiler flags / CFLAGS_CEVAL", "file": "build-configuration/cflags-ceval.md", "summary": "Open when checking CFLAGS_CEVAL.", "keywords": []},
+  {"topic": "Compiler flags / CCSHARED", "file": "build-configuration/ccshared.md", "summary": "Open when checking CCSHARED.", "keywords": []},
+  {"topic": "Compiler flags / CFLAGSFORSHARED", "file": "build-configuration/cflagsforshared.md", "summary": "Open when checking CFLAGSFORSHARED.", "keywords": []},
+  {"topic": "Compiler flags / PY_CFLAGS", "file": "build-configuration/py-cflags.md", "summary": "Open when checking PY_CFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / PY_CFLAGS_NODIST", "file": "build-configuration/py-cflags-nodist.md", "summary": "Open when checking PY_CFLAGS_NODIST.", "keywords": []},
+  {"topic": "Compiler flags / PY_STDMODULE_CFLAGS", "file": "build-configuration/py-stdmodule-cflags.md", "summary": "Open when checking PY_STDMODULE_CFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / PY_CORE_CFLAGS", "file": "build-configuration/py-core-cflags.md", "summary": "Open when checking PY_CORE_CFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / PY_BUILTIN_MODULE_CFLAGS", "file": "build-configuration/py-builtin-module-cflags.md", "summary": "Open when checking PY_BUILTIN_MODULE_CFLAGS.", "keywords": []},
+  {"topic": "Compiler flags / PURIFY", "file": "build-configuration/purify.md", "summary": "Open when checking PURIFY.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 7 / build / build and platforms", "file": "releases/3-11-0-alpha-7/build/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 7 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / build / compiling python demands support ieee floating point numbers", "file": "releases/3-11-0-alpha-7/build/compiling-python-demands-support-ieee-floating-point-numbers.md", "summary": "Open when checking Python 3.11.0 alpha 7 / build / compiling python demands support ieee floating point numbers.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / build / imports and modules", "file": "releases/3-11-0-alpha-7/build/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 7 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / build / soabi values added wasm32 emscripten emscripten wasm32 wasi wasi bit wasm", "file": "emscripten-and-wasi-soabi-values.md", "summary": "Open when checking Python 3.11.0 alpha 7 / build / soabi values added wasm32 emscripten emscripten wasm32 wasi wasi bit wasm.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / build / sqlite3", "file": "releases/3-11-0-alpha-7/build/sqlite3.md", "summary": "Open when checking Python 3.11.0 alpha 7 / build / sqlite3.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / build / tkinter", "file": "releases/3-11-0-alpha-7/build/tkinter.md", "summary": "Open when checking Python 3.11.0 alpha 7 / build / tkinter.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

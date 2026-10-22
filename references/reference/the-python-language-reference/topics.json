@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "language reference: Language reference introduction and core syntax topics", "file": "the-python-language-reference/language-reference-introduction.md", "summary": "Open when checking language reference introduction and core syntax topics in language reference.", "keywords": []},
+  {"topic": "language reference: Compound statements and remaining language-reference topics", "file": "the-python-language-reference/the-python-language-reference-8.md", "summary": "Open when checking compound statements and remaining language-reference topics in language reference.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

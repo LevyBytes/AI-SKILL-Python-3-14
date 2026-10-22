@@ -1,0 +1,5 @@
+# Python 3.12.0 alpha 1 / c api / profiling
+
+[gh-93503](https://github.com/python/cpython/issues/93503): Two fresh public functions, [`PyEval_SetProfileAllThreads()`](https://docs.python.org/3.14/c-api/profiling.html#c.PyEval_SetProfileAllThreads) and [`PyEval_SetTraceAllThreads()`](https://docs.python.org/3.14/c-api/profiling.html#c.PyEval_SetTraceAllThreads), join the public C-API and make it possible to install tracing and profiling hooks across every running thread, not just the caller. Mirroring them, the [`threading`](https://docs.python.org/3.14/library/threading.html#module-threading) module gains [`threading.setprofile_all_threads()`](https://docs.python.org/3.14/library/threading.html#threading.setprofile_all_threads) and [`threading.settrace_all_threads()`](https://docs.python.org/3.14/library/threading.html#threading.settrace_all_threads) to achieve the same thing from Python. Pablo Galindo contributed this.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

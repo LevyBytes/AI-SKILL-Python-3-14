@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 3 / tests / files and paths", "file": "releases/3-12-0-alpha-3/tests/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 3 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / tests / fix test marsh bit x86 where test deterministic sets had failing", "file": "x86-deterministic-set-marshalling-tests.md", "summary": "Open when checking Python 3.12.0 alpha 3 / tests / fix test marsh bit x86 where test deterministic sets had failing.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / tests / functional", "file": "releases/3-12-0-alpha-3/tests/functional.md", "summary": "Open when checking Python 3.12.0 alpha 3 / tests / functional.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / tests / imports and modules", "file": "releases/3-12-0-alpha-3/tests/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 3 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / tests / memory and lifetimes", "file": "releases/3-12-0-alpha-3/tests/memory-and-lifetimes.md", "summary": "Open when checking Python 3.12.0 alpha 3 / tests / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / tests / text and unicode", "file": "releases/3-12-0-alpha-3/tests/text-and-unicode.md", "summary": "Open when checking Python 3.12.0 alpha 3 / tests / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

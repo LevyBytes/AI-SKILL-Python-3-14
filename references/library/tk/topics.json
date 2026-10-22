@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Graphical user interfaces with Tk — Section introduction and initial examples", "file": "tk-gui-overview.md", "summary": "Open when checking Graphical user interfaces with Tk — Section introduction and initial examples.", "keywords": []},
+  {"topic": "tk: Tk graphical-interface documentation overview", "file": "tk/graphical-user-interfaces-with-tk.md", "summary": "Open when checking tk graphical-interface documentation overview in tk.", "keywords": []},
+  {"topic": "tk: `ttk.Widget`, `ttk.Combobox`, `ttk.Spinbox`, `ttk.Notebook`, `ttk.Progressbar`, `ttk.Treeview`", "file": "tk/ttk-widget-routes.md", "summary": "Open when checking the documented contracts for `ttk.Widget`, `ttk.Combobox`, `ttk.Spinbox`, `ttk.Notebook`, `ttk.Progressbar`, `ttk.Treeview` in tk.", "keywords": []},
+  {"topic": "tk: IDLE menus and editing documentation routes", "file": "tk/idle-menu-routes.md", "summary": "Open when checking IDLE menus and editing documentation routes in tk.", "keywords": []},
+  {"topic": "tk: Turtle graphics learning and API routes", "file": "tk/turtle-graphics-routes.md", "summary": "Open when checking turtle graphics learning and API routes in tk.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

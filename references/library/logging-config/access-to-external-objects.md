@@ -1,0 +1,13 @@
+# logging.config — Access to external objects
+
+### Handler configuration order
+
+The order in which handlers get configured follows their keys alphabetically, and once a handler is configured it supplants the configuration dictionary inside (a working copy of) the schema's `handlers` dictionary. Should you write something like `cfg://handlers.foo`, then at the outset `handlers['foo']` refers to the configuration dictionary belonging to the handler called `foo`; afterward — that is, after that handler has been configured — it refers to the configured handler instance. So `cfg://handlers.foo` may end up being either a dictionary or a handler instance. As a general matter, choosing handler names so that any dependent handler is configured *after* the handlers it relies on is the prudent course; that way a reference like `cfg://handlers.foo` can serve in configuring a handler that hinges on handler `foo`. Were that dependent handler called `bar`, trouble would follow, since configuring `bar` would be tried before configuring `foo`, and at that point `foo` would still be unconfigured. Name the dependent handler `foobar` instead, though, and it lands after `foo` in the order, so `cfg://handlers.foo` then yields the configured handler `foo` rather than its configuration dictionary.
+
+### Access to external objects
+
+On occasion a configuration has to point at objects that live outside the configuration itself — `sys.stderr`, say. Where the configuration dict is assembled in Python code, that poses no difficulty, yet a snag appears once the configuration comes from a text file (JSON or YAML, for instance). Within a text file, no conventional means exists for telling `sys.stderr` apart from the literal string `'sys.stderr'`. To make that distinction possible, the configuration system watches for particular special prefixes in string values and gives them special treatment. As an illustration, supplying the literal string `'ext://sys.stderr'` as a value in the configuration causes the `ext://` to be removed and whatever remains of the value to be run through the ordinary import machinery.
+
+Prefixes like these are handled along the lines of protocol handling: a general-purpose mechanism scans for prefixes matching the regular expression `^(?P<prefix>[a-z]+)://(?P<suffix>.*)$`, and when the `prefix` is one it recognizes, the `suffix` undergoes prefix-specific processing whose outcome takes the place of the string value. Where the prefix goes unrecognized, the string value stays untouched.
+
+[Subject index](INDEX.md) · [Continue](access-to-internal-objects.md) · [Owning module, declaration or section: logging.config](logging-config-logging-configuration.md)

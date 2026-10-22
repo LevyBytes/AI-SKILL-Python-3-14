@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 2 / windows / exceptions and tracebacks", "file": "releases/3-14-0-beta-2/windows/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.14.0 beta 2 / windows / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / windows / imports and modules", "file": "releases/3-14-0-beta-2/windows/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 beta 2 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / windows / os path", "file": "releases/3-14-0-beta-2/windows/os-path.md", "summary": "Open when checking Python 3.14.0 beta 2 / windows / os path.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 2 / windows / sysconfig", "file": "releases/3-14-0-beta-2/windows/sysconfig.md", "summary": "Open when checking Python 3.14.0 beta 2 / windows / sysconfig.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

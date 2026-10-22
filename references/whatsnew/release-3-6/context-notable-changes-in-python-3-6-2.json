@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Notable changes in Python 3.6.2 / What's New In Python 3.6 / New `make regen-all` build target", "file": "release-3-6/new-make-regen-all-build-target.md", "summary": "Open when checking What's New In Python 3.6 / New `make regen-all` build target.", "keywords": []},
+  {"topic": "Notable changes in Python 3.6.2 / What's New In Python 3.6 / Removal of `make touch` build target", "file": "release-3-6/removal-of-make-touch-build-target.md", "summary": "Open when checking What's New In Python 3.6 / Removal of `make touch` build target.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

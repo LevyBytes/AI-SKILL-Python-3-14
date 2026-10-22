@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Graphical user interfaces with Tk / Python 3.10.0 alpha 1 / library / numeric behavior", "file": "releases/3-10-0-alpha-1/library/numeric-behavior.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / numeric behavior.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / Python 3.10.0 alpha 1 / library / unknown option reaches tkinter optionmenu raise tclerror rather than typeerror", "file": "releases/3-10-0-alpha-1/library/tk-optionmenu-unknown-option-error.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / unknown option reaches tkinter optionmenu raise tclerror rather than typeerror.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

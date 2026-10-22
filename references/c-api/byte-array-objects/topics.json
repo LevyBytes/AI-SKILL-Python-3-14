@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Macros", "file": "byte-array-objects/pybytearray-as-string-to-pybytearray-get-size.md", "summary": "Open when checking Macros.", "keywords": []},
+    {"topic": "Type check macros", "file": "byte-array-objects/pybytearray-check-to-pybytearray-checkexact.md", "summary": "Open when checking Type check macros.", "keywords": []},
+    {"topic": "Direct API functions", "file": "byte-array-objects/pybytearray-fromobject-to-pybytearray-resize.md", "summary": "Open when checking Direct API functions.", "keywords": []},
+    {"topic": "Byte Array Objects", "file": "byte-array-objects/pybytearrayobject-to-pybytearray-type.md", "summary": "Open when checking Byte Array Objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

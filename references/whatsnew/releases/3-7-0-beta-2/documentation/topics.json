@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 2 / documentation / contextvars", "file": "releases/3-7-0-beta-2/documentation/contextvars.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / contextvars.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / documentation / exceptions", "file": "releases/3-7-0-beta-2/documentation/exceptions.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / exceptions.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / documentation / make docstrings pathlib purepath subclasses better", "file": "releases/3-7-0-beta-2/documentation/make-docstrings-pathlib-purepath-subclasses-better.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / make docstrings pathlib purepath subclasses better.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / documentation / ssl", "file": "releases/3-7-0-beta-2/documentation/ssl.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / ssl.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / documentation / test", "file": "releases/3-7-0-beta-2/documentation/test.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / test.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / documentation / tests and documentation", "file": "releases/3-7-0-beta-2/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / documentation / xml", "file": "releases/3-7-0-beta-2/documentation/xml.md", "summary": "Open when checking Python 3.7.0 beta 2 / documentation / xml.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

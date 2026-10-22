@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "2.2. Building Python", "file": "unix/building-python.md", "summary": "Open when checking 2.2. Building Python.", "keywords": []},
+    {"topic": "2.5. Custom OpenSSL", "file": "unix/custom-openssl.md", "summary": "Open when checking 2.5. Custom OpenSSL.", "keywords": []},
+    {"topic": "2.1.1.1. Installing IDLE", "file": "unix/installing-idle.md", "summary": "Open when checking 2.1.1.1. Installing IDLE.", "keywords": []},
+    {"topic": "2.4. Miscellaneous", "file": "unix/miscellaneous.md", "summary": "Open when checking 2.4. Miscellaneous.", "keywords": []},
+    {"topic": "2.1.2. On FreeBSD and OpenBSD", "file": "unix/on-freebsd-and-openbsd.md", "summary": "Open when checking 2.1.2. On FreeBSD and OpenBSD.", "keywords": []},
+    {"topic": "2.1.1. On Linux", "file": "unix/on-linux.md", "summary": "Open when checking 2.1.1. On Linux.", "keywords": []},
+    {"topic": "2.3. Python-related paths and files", "file": "unix/python-related-paths-and-files.md", "summary": "Open when checking 2.3. Python-related paths and files.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / compiler and parser", "file": "releases/3-6-0-beta-4/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / debug", "file": "releases/3-6-0-beta-4/core-and-builtins/debug.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / debug.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / display sys version whenever v option appears twice", "file": "releases/3-6-0-beta-4/core-and-builtins/display-sys-version-whenever-v-option-appears-twice.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / display sys version whenever v option appears twice.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / files and paths", "file": "releases/3-6-0-beta-4/core-and-builtins/files-and-paths.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / functions and types", "file": "releases/3-6-0-beta-4/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / locale", "file": "releases/3-6-0-beta-4/core-and-builtins/locale.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / locale.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / pydict setdefault failed combine split table required", "file": "releases/3-6-0-beta-4/core-and-builtins/pydict-setdefault-failed-combine-split-table-required.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / pydict setdefault failed combine split table required.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / repair asynchronous generators aclose athrow they propagate stopasynciteration properly", "file": "async-generator-close-throw-exception-propagation.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / repair asynchronous generators aclose athrow they propagate stopasynciteration properly.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / repair refleak code raises deprecationwarning", "file": "releases/3-6-0-beta-4/core-and-builtins/repair-refleak-code-raises-deprecationwarning.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / repair refleak code raises deprecationwarning.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / core and builtins / switch pendingdeprecationwarning deprecationwarning", "file": "releases/3-6-0-beta-4/core-and-builtins/switch-pendingdeprecationwarning-deprecationwarning.md", "summary": "Open when checking Python 3.6.0 beta 4 / core and builtins / switch pendingdeprecationwarning deprecationwarning.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

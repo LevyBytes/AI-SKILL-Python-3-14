@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 3 / build / imports and modules", "file": "releases/3-10-0-alpha-3/build/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / build / overview", "file": "releases/3-10-0-alpha-3/build/overview.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / overview.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / build / remove libnet dependency detect socket vxworks", "file": "releases/3-10-0-alpha-3/build/remove-libnet-dependency-detect-socket-vxworks.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / remove libnet dependency detect socket vxworks.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / build / removed", "file": "releases/3-10-0-alpha-3/build/removed.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / removed.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / build / tests and documentation", "file": "releases/3-10-0-alpha-3/build/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / build / threads and concurrency", "file": "releases/3-10-0-alpha-3/build/threads-and-concurrency.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / build / warnings", "file": "releases/3-10-0-alpha-3/build/warnings.md", "summary": "Open when checking Python 3.10.0 alpha 3 / build / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

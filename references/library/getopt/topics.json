@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "getopt — `getopt` — C-style parser for command line options — Code example: import getopt, sys", "file": "getopt-command-line-parsing-example.md", "summary": "Open when checking getopt — `getopt` — C-style parser for command line options — Code example: import getopt, sys.", "keywords": []},
+    {"topic": "getopt — `getopt` — C-style parser for command line options — Signature and initial contract", "file": "getopt/getopt-error.md", "summary": "Open when checking getopt — `getopt` — C-style parser for command line options — Signature and initial contract.", "keywords": []},
+    {"topic": "getopt — `getopt` — C-style parser for command line options", "file": "getopt/getopt-getopt-to-getopt-getopterror.md", "summary": "Open when checking getopt — `getopt` — C-style parser for command line options.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

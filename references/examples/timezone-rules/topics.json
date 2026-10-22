@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "daylight_rules", "file": "references/examples/timezone-rules/daylight_rules.py", "summary": "Open when checking daylight_rules.", "keywords": []},
+    {"topic": "local_timezone", "file": "references/examples/timezone-rules/local_timezone.py", "summary": "Open when checking local_timezone.", "keywords": []},
+    {"topic": "us_timezone", "file": "references/examples/timezone-rules/us_timezone.py", "summary": "Open when checking us_timezone.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

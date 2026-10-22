@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 release candidate 1 / c api / arg", "file": "releases/3-14-0-release-candidate-1/c-api/arg.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / c api / synchronization", "file": "releases/3-14-0-release-candidate-1/c-api/synchronization.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / c api / synchronization.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

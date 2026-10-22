@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "http.cookies — Cookie Objects", "file": "http-cookies/basecookie-value-decode-to-basecookie-load.md", "summary": "Open when checking http.cookies — Cookie Objects.", "keywords": []},
+  {"topic": "http.cookies — Example", "file": "http-cookies/example.md", "summary": "Open when checking http.cookies — Example.", "keywords": []},
+  {"topic": "http.cookies: `http.cookies.CookieError`", "file": "http-cookies/http-cookies-cookieerror.md", "summary": "Open when checking the documented contracts for `http.cookies.CookieError` in http.cookies.", "keywords": []},
+  {"topic": "http.cookies: `http.cookies.BaseCookie`", "file": "http-cookies/http-cookies-basecookie-class.md", "summary": "Open when checking the documented contracts for `http.cookies.BaseCookie` in http.cookies.", "keywords": []},
+  {"topic": "http.cookies: `http.cookies.SimpleCookie`", "file": "http-cookies/http-cookies-simplecookie-class.md", "summary": "Open when checking the documented contracts for `http.cookies.SimpleCookie` in http.cookies.", "keywords": []},
+  {"topic": "http.cookies: `http.cookies.Morsel`", "file": "http-cookies/http-cookies-morsel-class.md", "summary": "Open when checking the documented contracts for `http.cookies.Morsel` in http.cookies.", "keywords": []},
+  {"topic": "http.cookies: `Morsel.value`, `Morsel.coded_value`, `Morsel.key`, `Morsel.set()`, `Morsel.isReservedKey()`, `Morsel.output()`, `Morsel.js_output()`, `Morsel.OutputString()`, `Morsel.update()`", "file": "http-cookies/morsel-value-to-morsel-update.md", "summary": "Open when checking the documented contracts for `Morsel.value`, `Morsel.coded_value`, `Morsel.key`, `Morsel.set()`, `Morsel.isReservedKey()`, `Morsel.output()`, `Morsel.js_output()`, `Morsel.OutputString()`, `Morsel.update()` in http.cookies.", "keywords": []},
+  {"topic": "http.cookies: `Morsel.copy()`, `Morsel.setdefault()`", "file": "http-cookies/morsel-copy-to-morsel-setdefault.md", "summary": "Open when checking the documented contracts for `Morsel.copy()`, `Morsel.setdefault()` in http.cookies.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,56 @@
+# Environment variables
+
+Select by the documented task or API context. [Topic catalog](context-environment-variables.json).
+
+- Open when checking 1.2. Environment variables. [Environment variables / 1.2. Environment variables](environment-variables.md).
+- Open when checking PYTHONHOME. [Environment variables / PYTHONHOME](pythonhome.md).
+- Open when checking PYTHONPATH. [Environment variables / PYTHONPATH](pythonpath.md).
+- Open when checking PYTHONSAFEPATH. [Environment variables / PYTHONSAFEPATH](pythonsafepath.md).
+- Open when checking PYTHONPLATLIBDIR. [Environment variables / PYTHONPLATLIBDIR](pythonplatlibdir.md).
+- Open when checking PYTHONSTARTUP. [Environment variables / PYTHONSTARTUP](pythonstartup.md).
+- Open when checking PYTHONOPTIMIZE. [Environment variables / PYTHONOPTIMIZE](pythonoptimize.md).
+- Open when checking PYTHONBREAKPOINT. [Environment variables / PYTHONBREAKPOINT](pythonbreakpoint.md).
+- Open when checking PYTHONDEBUG. [Environment variables / PYTHONDEBUG](pythondebug.md).
+- Open when checking PYTHONINSPECT. [Environment variables / PYTHONINSPECT](pythoninspect.md).
+- Open when checking PYTHONUNBUFFERED. [Environment variables / PYTHONUNBUFFERED](pythonunbuffered.md).
+- Open when checking PYTHONVERBOSE. [Environment variables / PYTHONVERBOSE](pythonverbose.md).
+- Open when checking PYTHONCASEOK. [Environment variables / PYTHONCASEOK](pythoncaseok.md).
+- Open when checking PYTHONDONTWRITEBYTECODE. [Environment variables / PYTHONDONTWRITEBYTECODE](pythondontwritebytecode.md).
+- Open when checking PYTHONPYCACHEPREFIX. [Environment variables / PYTHONPYCACHEPREFIX](pythonpycacheprefix.md).
+- Open when checking PYTHONHASHSEED. [Environment variables / PYTHONHASHSEED](pythonhashseed.md).
+- Open when checking PYTHONINTMAXSTRDIGITS. [Environment variables / PYTHONINTMAXSTRDIGITS](pythonintmaxstrdigits.md).
+- Open when checking PYTHONIOENCODING. [Environment variables / PYTHONIOENCODING](pythonioencoding.md).
+- Open when checking PYTHONNOUSERSITE. [Environment variables / PYTHONNOUSERSITE](pythonnousersite.md).
+- Open when checking PYTHONUSERBASE. [Environment variables / PYTHONUSERBASE](pythonuserbase.md).
+- Open when checking PYTHONEXECUTABLE. [Environment variables / PYTHONEXECUTABLE](pythonexecutable.md).
+- Open when checking PYTHONWARNINGS. [Environment variables / PYTHONWARNINGS](pythonwarnings.md).
+- Open when checking PYTHONFAULTHANDLER. [Environment variables / PYTHONFAULTHANDLER](pythonfaulthandler.md).
+- Open when checking PYTHONTRACEMALLOC. [Environment variables / PYTHONTRACEMALLOC](pythontracemalloc.md).
+- Open when checking PYTHONPROFILEIMPORTTIME. [Environment variables / PYTHONPROFILEIMPORTTIME](pythonprofileimporttime.md).
+- Open when checking PYTHONASYNCIODEBUG. [Environment variables / PYTHONASYNCIODEBUG](pythonasynciodebug.md).
+- Open when checking PYTHONMALLOC. [Environment variables / PYTHONMALLOC](pythonmalloc.md).
+- Open when checking PYTHONMALLOCSTATS. [Environment variables / PYTHONMALLOCSTATS](pythonmallocstats.md).
+- Open when checking PYTHONLEGACYWINDOWSFSENCODING. [Environment variables / PYTHONLEGACYWINDOWSFSENCODING](pythonlegacywindowsfsencoding.md).
+- Open when checking PYTHONLEGACYWINDOWSSTDIO. [Environment variables / PYTHONLEGACYWINDOWSSTDIO](pythonlegacywindowsstdio.md).
+- Open when checking PYTHONCOERCECLOCALE. [Environment variables / PYTHONCOERCECLOCALE](pythoncoerceclocale.md).
+- Open when checking PYTHONDEVMODE. [Environment variables / PYTHONDEVMODE](pythondevmode.md).
+- Open when checking PYTHONUTF8. [Environment variables / PYTHONUTF8](pythonutf8.md).
+- Open when checking PYTHONWARNDEFAULTENCODING. [Environment variables / PYTHONWARNDEFAULTENCODING](pythonwarndefaultencoding.md).
+- Open when checking PYTHONNODEBUGRANGES. [Environment variables / PYTHONNODEBUGRANGES](pythonnodebugranges.md).
+- Open when checking PYTHONPERFSUPPORT. [Environment variables / PYTHONPERFSUPPORT](pythonperfsupport.md).
+- Open when checking PYTHON_PERF_JIT_SUPPORT. [Environment variables / PYTHON_PERF_JIT_SUPPORT](python-perf-jit-support.md).
+- Open when checking PYTHON_DISABLE_REMOTE_DEBUG. [Environment variables / PYTHON_DISABLE_REMOTE_DEBUG](python-disable-remote-debug.md).
+- Open when checking PYTHON_CPU_COUNT. [Environment variables / PYTHON_CPU_COUNT](python-cpu-count.md).
+- Open when checking PYTHON_BASIC_REPL. [Environment variables / PYTHON_BASIC_REPL](python-basic-repl.md).
+- Open when checking PYTHON_COLORS. [Environment variables / PYTHON_COLORS](python-colors.md).
+- Open when checking PYTHON_CONTEXT_AWARE_WARNINGS. [Environment variables / PYTHON_CONTEXT_AWARE_WARNINGS](python-context-aware-warnings.md).
+- Open when checking PYTHON_FROZEN_MODULES. [Environment variables / PYTHON_FROZEN_MODULES](python-frozen-modules.md).
+- Open when checking PYTHON_GIL. [Environment variables / PYTHON_GIL](python-gil.md).
+- Open when checking PYTHON_HISTORY. [Environment variables / PYTHON_HISTORY](python-history.md).
+- Open when checking PYTHON_JIT. [Environment variables / PYTHON_JIT](python-jit.md).
+- Open when checking PYTHON_THREAD_INHERIT_CONTEXT. [Environment variables / PYTHON_THREAD_INHERIT_CONTEXT](python-thread-inherit-context.md).
+- Open when checking PYTHON_TLBC. [Environment variables / PYTHON_TLBC](python-tlbc.md).
+- Open when checking PYTHONDUMPREFS. [Environment variables / PYTHONDUMPREFS](pythondumprefs.md).
+- Open when checking PYTHONDUMPREFSFILE. [Environment variables / PYTHONDUMPREFSFILE](pythondumprefsfile.md).
+- Open when checking PYTHON_PRESITE. [Environment variables / PYTHON_PRESITE](python-presite.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

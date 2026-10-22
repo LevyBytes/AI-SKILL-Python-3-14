@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Deprecated / What’s New In Python 3.5 / New Keywords", "file": "release-3-5/new-keywords.md", "summary": "Open when checking What’s New In Python 3.5 / New Keywords.", "keywords": []},
+  {"topic": "Deprecated / What’s New In Python 3.5 / Deprecated Python Behavior", "file": "release-3-5/deprecated-python-behavior.md", "summary": "Open when checking What’s New In Python 3.5 / Deprecated Python Behavior.", "keywords": []},
+  {"topic": "Deprecated / What’s New In Python 3.5 / Unsupported Operating Systems", "file": "release-3-5/unsupported-operating-systems.md", "summary": "Open when checking What’s New In Python 3.5 / Unsupported Operating Systems.", "keywords": []},
+  {"topic": "Deprecated / What’s New In Python 3.5 / Deprecated Python modules, functions and methods — asyncio-future, http.cookies, inspect, re, string, unittest", "file": "release-3-5/deprecated-python-modules-functions-and-methods.md", "summary": "Open when checking What’s New In Python 3.5 / Deprecated Python modules, functions and methods — asyncio-future, http.cookies, inspect, re, string, unittest.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

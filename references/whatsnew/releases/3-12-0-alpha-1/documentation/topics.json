@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 1 / documentation / ast", "file": "releases/3-12-0-alpha-1/documentation/ast.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / ast.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / build and platforms", "file": "releases/3-12-0-alpha-1/documentation/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / codecs", "file": "releases/3-12-0-alpha-1/documentation/codecs.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / codecs.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / compiler and parser", "file": "releases/3-12-0-alpha-1/documentation/compiler-and-parser.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / concurrent futures", "file": "releases/3-12-0-alpha-1/documentation/concurrent-futures.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / drop additional row", "file": "releases/3-12-0-alpha-1/documentation/drop-additional-row.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / drop additional row.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / inspect", "file": "releases/3-12-0-alpha-1/documentation/inspect.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / inspect.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / intro", "file": "releases/3-12-0-alpha-1/documentation/intro.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / intro.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / note threadpoolexecutor limitation exit handler fires ahead any handlers", "file": "thread-pool-exit-handler-order-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / note threadpoolexecutor limitation exit handler fires ahead any handlers.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / pathlib", "file": "releases/3-12-0-alpha-1/documentation/pathlib.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / pathlib.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / platform", "file": "releases/3-12-0-alpha-1/documentation/platform.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / platform.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / refresh tutorial introduction output shows syntaxerror invalid range", "file": "tutorial-range-syntax-error-output.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / refresh tutorial introduction output shows syntaxerror invalid range.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / since deprecated make suspicious rstlint py tools deleted", "file": "releases/3-12-0-alpha-1/documentation/since-deprecated-make-suspicious-rstlint-py-tools-deleted.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / since deprecated make suspicious rstlint py tools deleted.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / sqlite3", "file": "releases/3-12-0-alpha-1/documentation/sqlite3.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / sqlite3.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / supplied release dates within what s new python x", "file": "releases/3-12-0-alpha-1/documentation/supplied-release-dates-within-what-s-new-python-x.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / supplied release dates within what s new python x.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / tests and documentation", "file": "releases/3-12-0-alpha-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / documentation / warnings", "file": "releases/3-12-0-alpha-1/documentation/warnings.md", "summary": "Open when checking Python 3.12.0 alpha 1 / documentation / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

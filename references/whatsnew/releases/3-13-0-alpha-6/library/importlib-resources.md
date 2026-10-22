@@ -1,0 +1,9 @@
+# Python 3.13.0 alpha 6 / library / importlib resources
+
+[gh-116608](https://github.com/python/cpython/issues/116608): The [`importlib.resources`](https://docs.python.org/3.14/library/importlib.resources.html#module-importlib.resources) functions [`is_resource()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.is_resource), [`open_binary()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.open_binary), [`open_text()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.open_text), [`path()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.path), [`read_binary()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.read_binary), and [`read_text()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.read_text) lose their deprecation and gain subdirectory support through several positional arguments. The [`contents()`](https://docs.python.org/3.14/library/importlib.resources.html#importlib.resources.contents) function permits subdirectories as well, yet stays deprecated.
+
+[gh-109653](https://github.com/python/cpython/issues/109653): Pushed select imports later within importlib.metadata and importlib.resources, yielding a 14% speedup.
+
+[gh-106531](https://github.com/python/cpython/issues/106531): Brought zipfile._path up to date from [zipp 3.18](https://zipp.readthedocs.io/en/latest/history.html#v3-18-0), which delivers stronger PyPy compatibility, faster glob handling for deeply nested zipfiles, and internal reach into `CompleteDirs.inject` so other tests (importlib.resources among them) can use it.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

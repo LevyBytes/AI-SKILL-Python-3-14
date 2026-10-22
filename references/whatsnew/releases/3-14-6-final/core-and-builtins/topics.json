@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.6 final / core and builtins / asyncio", "file": "releases/3-14-6-final/core-and-builtins/asyncio.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / asyncio.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / build and platforms", "file": "releases/3-14-6-final/core-and-builtins/build-and-platforms.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / exceptions", "file": "releases/3-14-6-final/core-and-builtins/exceptions.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / faulthandler", "file": "releases/3-14-6-final/core-and-builtins/faulthandler.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / faulthandler.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / functions and types", "file": "releases/3-14-6-final/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / gc", "file": "releases/3-14-6-final/core-and-builtins/gc.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / gc.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / imports and modules", "file": "releases/3-14-6-final/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / memory and lifetimes", "file": "releases/3-14-6-final/core-and-builtins/memory-and-lifetimes.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / os", "file": "releases/3-14-6-final/core-and-builtins/os.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / os.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / sqlite3", "file": "releases/3-14-6-final/core-and-builtins/sqlite3.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / sqlite3.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / stdtypes", "file": "releases/3-14-6-final/core-and-builtins/stdtypes.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / stdtypes.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / sys", "file": "releases/3-14-6-final/core-and-builtins/sys.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / sys.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / threading", "file": "releases/3-14-6-final/core-and-builtins/threading.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / threading.", "keywords": []},
+    {"topic": "Python 3.14.6 final / core and builtins / unicodedata", "file": "releases/3-14-6-final/core-and-builtins/unicodedata.md", "summary": "Open when checking Python 3.14.6 final / core and builtins / unicodedata.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

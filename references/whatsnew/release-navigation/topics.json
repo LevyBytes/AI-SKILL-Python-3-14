@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "What’s New in Python", "file": "release-navigation/release-overview.md", "summary": "Open when checking What’s New in Python.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

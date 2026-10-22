@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 beta 1 / security / exceptions and tracebacks", "file": "releases/3-10-0-beta-1/security/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / glob", "file": "releases/3-10-0-beta-1/security/glob.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / glob.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / http client", "file": "releases/3-10-0-beta-1/security/http-client.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / http client.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / imports and modules", "file": "releases/3-10-0-beta-1/security/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / ipaddress", "file": "releases/3-10-0-beta-1/security/ipaddress.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / ipaddress.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / sqlite3", "file": "releases/3-10-0-beta-1/security/sqlite3.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / sqlite3.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / ssl", "file": "releases/3-10-0-beta-1/security/ssl.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / ssl.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / urllib parse", "file": "releases/3-10-0-beta-1/security/urllib-parse.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / urllib parse.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / security / urllib request", "file": "releases/3-10-0-beta-1/security/urllib-request.md", "summary": "Open when checking Python 3.10.0 beta 1 / security / urllib request.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

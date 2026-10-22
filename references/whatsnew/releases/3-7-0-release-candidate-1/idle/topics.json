@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 release candidate 1 / idle / click any context line scrolls up editor window s", "file": "releases/3-7-0-release-candidate-1/idle/click-any-context-line-scrolls-up-editor-window-s.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / idle / click any context line scrolls up editor window s.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / idle / permit theme by theme color settings code context", "file": "releases/3-7-0-release-candidate-1/idle/permit-theme-by-theme-color-settings-code-context.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / idle / permit theme by theme color settings code context.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / idle / render many maxlines lines aren t blank code context", "file": "releases/3-7-0-release-candidate-1/idle/render-many-maxlines-lines-aren-t-blank-code-context.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / idle / render many maxlines lines aren t blank code context.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / idle / text", "file": "releases/3-7-0-release-candidate-1/idle/text.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / idle / text.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / idle / windows", "file": "releases/3-7-0-release-candidate-1/idle/windows.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / idle / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

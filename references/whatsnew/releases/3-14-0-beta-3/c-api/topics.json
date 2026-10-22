@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 3 / c api / object", "file": "releases/3-14-0-beta-3/c-api/object.md", "summary": "Open when checking Python 3.14.0 beta 3 / c api / object.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / c api / repair py return none py return true py return false macros within limited c api", "file": "limited-api-singleton-return-macros.md", "summary": "Open when checking Python 3.14.0 beta 3 / c api / repair py return none py return true py return false macros within limited c api.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / c api / unicode", "file": "releases/3-14-0-beta-3/c-api/unicode.md", "summary": "Open when checking Python 3.14.0 beta 3 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "email — An email and MIME handling package", "file": "email/an-email-and-mime-handling-package.md", "summary": "Open when checking email — An email and MIME handling package.", "keywords": []},
+    {"topic": "email — `email` — An email and MIME handling package", "file": "email/email-an-email-and-mime-handling-package.md", "summary": "Open when checking email — `email` — An email and MIME handling package.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Install Options / --prefix=PREFIX", "file": "build-configuration/prefix-prefix.md", "summary": "Open when checking --prefix=PREFIX.", "keywords": []},
+  {"topic": "Install Options / --exec-prefix=EPREFIX", "file": "build-configuration/exec-prefix-eprefix.md", "summary": "Open when checking --exec-prefix=EPREFIX.", "keywords": []},
+  {"topic": "Install Options / --disable-test-modules", "file": "build-configuration/disable-test-modules.md", "summary": "Open when checking --disable-test-modules.", "keywords": []},
+  {"topic": "Install Options / --with-ensurepip=[upgrade/install/no]", "file": "build-configuration/with-ensurepip-upgrade-install-no.md", "summary": "Open when checking --with-ensurepip=[upgrade/install/no].", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

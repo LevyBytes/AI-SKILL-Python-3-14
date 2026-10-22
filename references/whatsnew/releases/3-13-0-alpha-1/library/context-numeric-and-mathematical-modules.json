@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Numeric and Mathematical Modules / Python 3.13.0 alpha 1 / library / corrected base case handling within statistics quantiles", "file": "releases/3-13-0-alpha-1/library/corrected-base-case-handling-within-statistics-quantiles.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / corrected base case handling within statistics quantiles.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.13.0 alpha 1 / library / random", "file": "releases/3-13-0-alpha-1/library/random.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / random.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.13.0 alpha 1 / library / made normaldist samples faster adopting inverse cdf approach rather than", "file": "releases/3-13-0-alpha-1/library/normal-distribution-inverse-cdf-sampling.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / made normaldist samples faster adopting inverse cdf approach rather than.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

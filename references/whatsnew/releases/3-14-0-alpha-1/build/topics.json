@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 1 / build / address bug where experimental jit might get rebuilt repeatedly", "file": "jit-repeated-build-prevention.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / address bug where experimental jit might get rebuilt repeatedly.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / build and platforms", "file": "releases/3-14-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / compiler and parser", "file": "releases/3-14-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / curses", "file": "releases/3-14-0-alpha-1/build/curses.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / curses.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / debug", "file": "releases/3-14-0-alpha-1/build/debug.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / debug.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / exceptions", "file": "releases/3-14-0-alpha-1/build/exceptions.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / files and paths", "file": "releases/3-14-0-alpha-1/build/files-and-paths.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / functions and types", "file": "releases/3-14-0-alpha-1/build/functions-and-types.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / imports and modules", "file": "releases/3-14-0-alpha-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / python", "file": "releases/3-14-0-alpha-1/build/python.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / python.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / revert bundled libmpdec whenever system copy cannot located", "file": "releases/3-14-0-alpha-1/build/revert-bundled-libmpdec-whenever-system-copy-cannot-located.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / revert bundled libmpdec whenever system copy cannot located.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / silence deprecation warning concerning atomic var init inside mimalloc", "file": "mimalloc-atomic-initializer-deprecation-warning.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / silence deprecation warning concerning atomic var init inside mimalloc.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / sys", "file": "releases/3-14-0-alpha-1/build/sys.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / sys.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / sysconfig", "file": "releases/3-14-0-alpha-1/build/sysconfig.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / sysconfig.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / tests and documentation", "file": "releases/3-14-0-alpha-1/build/tests-and-documentation.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / build / threads and concurrency", "file": "releases/3-14-0-alpha-1/build/threads-and-concurrency.md", "summary": "Open when checking Python 3.14.0 alpha 1 / build / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

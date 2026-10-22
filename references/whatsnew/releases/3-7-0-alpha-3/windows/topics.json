@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 3 / windows / corrects modify button within apps features dialog", "file": "releases/3-7-0-alpha-3/windows/corrects-modify-button-within-apps-features-dialog.md", "summary": "Open when checking Python 3.7.0 alpha 3 / windows / corrects modify button within apps features dialog.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / windows / functions and types", "file": "releases/3-7-0-alpha-3/windows/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 3 / windows / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / windows / make use stackcheck behave deterministically running multi threaded environment", "file": "windows-multithreaded-stack-checking.md", "summary": "Open when checking Python 3.7.0 alpha 3 / windows / make use stackcheck behave deterministically running multi threaded environment.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / windows / view fetch yields error no more items return none rather than raising msierror", "file": "msi-view-fetch-exhaustion.md", "summary": "Open when checking Python 3.7.0 alpha 3 / windows / view fetch yields error no more items return none rather than raising msierror.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

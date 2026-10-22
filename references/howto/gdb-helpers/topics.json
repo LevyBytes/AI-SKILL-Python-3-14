@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Debugging C API extensions and CPython Internals with GDB", "file": "gdb-helpers/debugging-c-api-extensions-and-cpython-internals-with-gdb.md", "summary": "Open when checking Debugging C API extensions and CPython Internals with GDB.", "keywords": []},
+    {"topic": "Distinguishing Python integers/strings from GDB native values", "file": "gdb-helpers/distinguishing-python-integers-strings-from-gdb-native-values.md", "summary": "Open when checking Distinguishing Python integers/strings from GDB native values.", "keywords": []},
+    {"topic": "GDB PyObject pretty printing and underlying layouts", "file": "gdb-helpers/gdb-pyobject-pretty-printing-and-underlying-layouts.md", "summary": "Open when checking GDB PyObject pretty printing and underlying layouts.", "keywords": []},
+    {"topic": "Prerequisites", "file": "gdb-helpers/prerequisites.md", "summary": "Open when checking Prerequisites.", "keywords": []},
+    {"topic": "`py-bt`", "file": "gdb-helpers/py-bt.md", "summary": "Open when checking `py-bt`.", "keywords": []},
+    {"topic": "`py-list`", "file": "gdb-helpers/py-list.md", "summary": "Open when checking `py-list`.", "keywords": []},
+    {"topic": "`py-locals`", "file": "gdb-helpers/py-locals.md", "summary": "Open when checking `py-locals`.", "keywords": []},
+    {"topic": "`py-print`", "file": "gdb-helpers/py-print.md", "summary": "Open when checking `py-print`.", "keywords": []},
+    {"topic": "`py-up` and `py-down`", "file": "gdb-helpers/py-up-and-py-down.md", "summary": "Open when checking `py-up` and `py-down`.", "keywords": []},
+    {"topic": "Setup for Python from a Linux distro", "file": "gdb-helpers/setup-for-python-from-a-linux-distro.md", "summary": "Open when checking Setup for Python from a Linux distro.", "keywords": []},
+    {"topic": "Setup with Python built from source", "file": "gdb-helpers/setup-with-python-built-from-source.md", "summary": "Open when checking Setup with Python built from source.", "keywords": []},
+    {"topic": "Use with GDB commands", "file": "gdb-helpers/use-with-gdb-commands.md", "summary": "Open when checking Use with GDB commands.", "keywords": []},
+    {"topic": "Using the Debug build and Development mode", "file": "gdb-helpers/using-the-debug-build-and-development-mode.md", "summary": "Open when checking Using the Debug build and Development mode.", "keywords": []},
+    {"topic": "Using the `python-gdb` extension", "file": "gdb-helpers/using-the-python-gdb-extension.md", "summary": "Open when checking Using the `python-gdb` extension.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "MemoryView objects", "file": "memoryview-objects/pymemoryview-type-to-pymemoryview-get-base.md", "summary": "Open when checking MemoryView objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

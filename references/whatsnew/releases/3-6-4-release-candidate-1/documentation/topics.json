@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.4 release candidate 1 / documentation / functions and types", "file": "releases/3-6-4-release-candidate-1/documentation/functions-and-types.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / documentation / supplied versionadded marker asyncio baseeventloop connect accepted socket", "file": "accepted-socket-api-version-documentation.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / documentation / supplied versionadded marker asyncio baseeventloop connect accepted socket.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / documentation / tests and documentation", "file": "releases/3-6-4-release-candidate-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

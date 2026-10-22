@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.6 release candidate 1 / idle / allowed per theme color configuration code context", "file": "releases/3-6-6-release-candidate-1/idle/allowed-per-theme-color-configuration-code-context.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / allowed per theme color configuration code context.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / binary", "file": "releases/3-6-6-release-candidate-1/idle/binary.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / binary.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / click context line lifts line up top editor window", "file": "releases/3-6-6-release-candidate-1/idle/click-context-line-lifts-line-up-top-editor-window.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / click context line lifts line up top editor window.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / idle s code context will treat async block opener", "file": "releases/3-6-6-release-candidate-1/idle/idle-s-code-context-will-treat-async-block-opener.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / idle s code context will treat async block opener.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / show many maxlines non blank lines code context", "file": "releases/3-6-6-release-candidate-1/idle/show-many-maxlines-non-blank-lines-code-context.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / show many maxlines non blank lines code context.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / tests and documentation", "file": "releases/3-6-6-release-candidate-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / text and unicode", "file": "releases/3-6-6-release-candidate-1/idle/text-and-unicode.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / text and unicode.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / text", "file": "releases/3-6-6-release-candidate-1/idle/text.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / text.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / windows", "file": "releases/3-6-6-release-candidate-1/idle/windows.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / windows.", "keywords": []},
+    {"topic": "Python 3.6.6 release candidate 1 / idle / within idle highlights async await keywords", "file": "releases/3-6-6-release-candidate-1/idle/within-idle-highlights-async-await-keywords.md", "summary": "Open when checking Python 3.6.6 release candidate 1 / idle / within idle highlights async await keywords.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

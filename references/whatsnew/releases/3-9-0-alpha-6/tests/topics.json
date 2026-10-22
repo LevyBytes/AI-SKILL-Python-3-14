@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 6 / tests / bring travis ci configuration up openssl f", "file": "releases/3-9-0-alpha-6/tests/bring-travis-ci-configuration-up-openssl-f.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / bring travis ci configuration up openssl f.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / tests / ftplib", "file": "releases/3-9-0-alpha-6/tests/ftplib.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / ftplib.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / tests / imports and modules", "file": "releases/3-9-0-alpha-6/tests/imports-and-modules.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / tests / move openssl f within azure pipelines", "file": "releases/3-9-0-alpha-6/tests/move-openssl-f-within-azure-pipelines.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / move openssl f within azure pipelines.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / tests / test", "file": "releases/3-9-0-alpha-6/tests/test.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / test.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / tests / tests and documentation", "file": "releases/3-9-0-alpha-6/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / tests / text and unicode", "file": "releases/3-9-0-alpha-6/tests/text-and-unicode.md", "summary": "Open when checking Python 3.9.0 alpha 6 / tests / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

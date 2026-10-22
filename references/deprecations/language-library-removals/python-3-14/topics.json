@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Language and standard library pending removal in 3.14: argparse; ast; asyncio; email; importlib.abc deprecated classes", "file": "language-library-removals/python-3-14/argparse-through-importlib-abc-deprecated-classes.md", "summary": "Open when checking Language and standard library pending removal in 3.14: argparse; ast; asyncio; email; importlib.abc deprecated classes.", "keywords": []},
+    {"topic": "Language and standard library pending removal in 3.14: itertools; multiprocessing; pathlib; pkgutil; pty; sqlite3; urllib", "file": "language-library-removals/python-3-14/itertools-through-urllib.md", "summary": "Open when checking Language and standard library pending removal in 3.14: itertools; multiprocessing; pathlib; pkgutil; pty; sqlite3; urllib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

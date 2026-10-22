@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Porting Extension Modules to Python 3", "file": "porting-extension-modules-to-python-3/porting-extension-modules-to-python-3.md", "summary": "Open when checking Porting Extension Modules to Python 3.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

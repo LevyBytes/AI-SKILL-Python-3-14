@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "asyncio.future: `asyncio.Future`", "file": "asyncio-future/asyncio-future-class.md", "summary": "Open when checking the documented contracts for `asyncio.Future` in asyncio.future.", "keywords": []},
+  {"topic": "asyncio.future: `result()`, `set_result()`, `set_exception()`, `done()`, `cancelled()`, `add_done_callback()`, `remove_done_callback()`, `cancel()`", "file": "asyncio-future/asyncio-future-result-to-asyncio-future-cancel.md", "summary": "Open when checking the documented contracts for `result()`, `set_result()`, `set_exception()`, `done()`, `cancelled()`, `add_done_callback()`, `remove_done_callback()`, `cancel()` in asyncio.future.", "keywords": []},
+  {"topic": "asyncio.future: `exception()`, `get_loop()`", "file": "asyncio-future/asyncio-future-exception-to-asyncio-future-get-loop.md", "summary": "Open when checking the documented contracts for `exception()`, `get_loop()` in asyncio.future.", "keywords": []},
+  {"topic": "Future Functions", "file": "asyncio-future/asyncio-isfuture-to-asyncio-wrap-future.md", "summary": "Open when checking Future Functions.", "keywords": []},
+  {"topic": "Futures", "file": "asyncio-future/futures.md", "summary": "Open when checking Futures.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

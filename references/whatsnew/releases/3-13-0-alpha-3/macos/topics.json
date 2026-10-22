@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 3 / macos / build and platforms", "file": "releases/3-13-0-alpha-3/macos/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / collections and iteration", "file": "releases/3-13-0-alpha-3/macos/collections-and-iteration.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / dbm", "file": "releases/3-13-0-alpha-3/macos/dbm.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / dbm.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / files and paths", "file": "releases/3-13-0-alpha-3/macos/files-and-paths.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / files and paths.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / locale", "file": "releases/3-13-0-alpha-3/macos/locale.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / locale.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / os", "file": "releases/3-13-0-alpha-3/macos/os.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / os.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / stat", "file": "releases/3-13-0-alpha-3/macos/stat.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / stat.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / macos / webbrowser", "file": "releases/3-13-0-alpha-3/macos/webbrowser.md", "summary": "Open when checking Python 3.13.0 alpha 3 / macos / webbrowser.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,9 @@
+# What's new in Python 3.14 / Changes in annotations (**PEP 649** and **PEP 749**) / Related changes — annotationlib
+
+Python 3.14 reworks the runtime mechanics of `__annotations__`, and the goal was to keep disruption low both for source that carries annotations and for source that inspects `__annotations__`. That said, anyone leaning on annotation behavior that was never documented, or on private helpers buried in the standard library, may discover several places where their programs stop functioning under Python 3.14. The recommended way to keep your programs resilient as things evolve is to stick to the published surface of the [`annotationlib`](https://docs.python.org/3.14/library/annotationlib.html#module-annotationlib) module.
+
+Specifically, avoid pulling annotations straight out of the namespace-dictionary attribute belonging to a type object. While the class is still being built, reach for [`annotationlib.get_annotate_from_class_namespace()`](https://docs.python.org/3.14/library/annotationlib.html#annotationlib.get_annotate_from_class_namespace), and once construction has finished, switch to [`annotationlib.get_annotations()`](https://docs.python.org/3.14/library/annotationlib.html#annotationlib.get_annotations).
+
+Earlier versions occasionally let you fetch a class's annotations by going through an instance of that annotated class. That capability was never intentional nor written down, and Python 3.14 drops it entirely.
+
+[Subject index](INDEX.md) · [Next source section](changes-in-annotations-from-future-import-annotations.md) · [Release/subject declaration](summary-release-highlights.md) · [Release/subject declaration](changes-in-annotations.md) · [Release/subject declaration](annotation-reader-behavior-changes.md) · [Preceding release/subject continuation](annotation-reader-behavior-changes.md)

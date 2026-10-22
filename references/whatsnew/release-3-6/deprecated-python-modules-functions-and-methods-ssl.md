@@ -1,0 +1,9 @@
+# What's New In Python 3.6 / Deprecated Python modules, functions and methods / ssl — ftplib, http.client, imaplib, poplib, smtplib, ssl
+
+OpenSSL 0.9.8, 1.0.0 and 1.0.1 are now deprecated and have lost support. Going forward, the [`ssl`](https://docs.python.org/3.14/library/ssl.html#module-ssl) module is expected to mandate OpenSSL 1.0.2 or 1.1.0 as a minimum.
+
+Arguments tied to SSL such as `certfile`, `keyfile` and `check_hostname` across [`ftplib`](https://docs.python.org/3.14/library/ftplib.html#module-ftplib), [`http.client`](https://docs.python.org/3.14/library/http.client.html#module-http.client), [`imaplib`](https://docs.python.org/3.14/library/imaplib.html#module-imaplib), [`poplib`](https://docs.python.org/3.14/library/poplib.html#module-poplib), and [`smtplib`](https://docs.python.org/3.14/library/smtplib.html#module-smtplib) are deprecated, with `context` recommended instead. (Contributed by Christian Heimes in [bpo-28022](https://bugs.python.org/issue?@action=redirect&bpo=28022).)
+
+Several protocols plus functions belonging to the [`ssl`](https://docs.python.org/3.14/library/ssl.html#module-ssl) module carry deprecation now. Certain capabilities will vanish from later OpenSSL releases. Remaining ones are superseded by an alternative API. (Contributed by Christian Heimes in [bpo-28022](https://bugs.python.org/issue?@action=redirect&bpo=28022) and [bpo-26470](https://bugs.python.org/issue?@action=redirect&bpo=26470).)
+
+[Subject index](INDEX.md) · [Next source section](deprecated-python-modules-functions-and-methods-tkinter.md) · [Release/subject declaration](summary-release-highlights.md) · [Release/subject declaration](deprecated-python-modules-functions-and-methods-asynchat.md) · [Release/subject declaration](deprecated-python-modules-functions-and-methods-re.md) · [Preceding release/subject continuation](deprecated-python-modules-functions-and-methods-re.md)

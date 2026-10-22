@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "extension_module", "file": "references/examples/extension-gc/extension_module.c", "summary": "Open when checking extension_module.", "keywords": []},
+    {"topic": "object_properties", "file": "references/examples/extension-gc/object_properties.h", "summary": "Open when checking object_properties.", "keywords": []},
+    {"topic": "object_state", "file": "references/examples/extension-gc/object_state.h", "summary": "Open when checking object_state.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

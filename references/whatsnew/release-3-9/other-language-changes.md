@@ -1,0 +1,25 @@
+# What's New In Python 3.9 / Other Language Changes — __main__, devmode, operator, os, typing
+
+### Other Language Changes
+
+- [`__import__()`](https://docs.python.org/3.14/library/functions.html#import__) now raises [`ImportError`](https://docs.python.org/3.14/library/exceptions.html#ImportError) in place of [`ValueError`](https://docs.python.org/3.14/library/exceptions.html#ValueError), the error formerly seen when a relative import reached beyond its top-level package. (Contributed by Ngalim Siregar in [bpo-37444](https://bugs.python.org/issue?@action=redirect&bpo=37444).)
+
+- Python now resolves the absolute path of the script name given on the command line (for example: `python3 script.py`): the `__file__` attribute of the [`__main__`](https://docs.python.org/3.14/library/__main__.html#module-__main__) module turned into an absolute path rather than a relative one. Such paths stay correct even once [`os.chdir()`](https://docs.python.org/3.14/library/os.html#os.chdir) alters the working directory. A consequent effect is that the traceback likewise reports the absolute path for `__main__` module frames here. (Contributed by Victor Stinner in [bpo-20443](https://bugs.python.org/issue?@action=redirect&bpo=20443).)
+
+- Under [Python Development Mode](https://docs.python.org/3.14/library/devmode.html#devmode) and on a [debug build](https://docs.python.org/3.14/using/configure.html#debug-build), the *encoding* together with *errors* arguments now undergo validation for string encode and decode work. Examples: [`open()`](https://docs.python.org/3.14/library/functions.html#open), [`str.encode()`](https://docs.python.org/3.14/library/stdtypes.html#str.encode) and [`bytes.decode()`](https://docs.python.org/3.14/library/stdtypes.html#bytes.decode).
+
+Ordinarily, to keep things fast, the *errors* argument gets validated only upon the first encode/decode failure and the *encoding* argument is occasionally skipped for empty strings. (Contributed by Victor Stinner in [bpo-37388](https://bugs.python.org/issue?@action=redirect&bpo=37388).)
+
+- `"".replace("", s, n)` now yields `s` rather than an empty string whenever `n` is non-zero. That brings it in line with `"".replace("", s)`. Comparable adjustments apply to [`bytes`](https://docs.python.org/3.14/library/stdtypes.html#bytes) and [`bytearray`](https://docs.python.org/3.14/library/stdtypes.html#bytearray) objects. (Contributed by Serhiy Storchaka in [bpo-28029](https://bugs.python.org/issue?@action=redirect&bpo=28029).)
+
+- A [decorator](https://docs.python.org/3.14/glossary.html#term-decorator) may now be any valid expression. The grammar formerly imposed far tighter limits. Consult [**PEP 614**](https://peps.python.org/pep-0614/) for the details. (Contributed by Brandt Bucher in [bpo-39702](https://bugs.python.org/issue?@action=redirect&bpo=39702).)
+
+- The [`typing`](https://docs.python.org/3.14/library/typing.html#module-typing) module now offers better help. Every special form and special generic alias (`Union` and `List` among them) now carries a docstring. Calling [`help()`](https://docs.python.org/3.14/library/functions.html#help) on a generic alias such as `List[int]` surfaces the help for the matching concrete type (`list` here). (Contributed by Serhiy Storchaka in [bpo-40257](https://bugs.python.org/issue?@action=redirect&bpo=40257).)
+
+- Concurrent invocation of [`aclose()`](https://docs.python.org/3.14/reference/expressions.html#agen.aclose) / [`asend()`](https://docs.python.org/3.14/reference/expressions.html#agen.asend) / [`athrow()`](https://docs.python.org/3.14/reference/expressions.html#agen.athrow) is henceforth disallowed, and `ag_running` now mirrors the genuine running state of the async generator. (Contributed by Yury Selivanov in [bpo-30773](https://bugs.python.org/issue?@action=redirect&bpo=30773).)
+
+- Surprise errors raised while invoking the `__iter__` method no longer get hidden behind `TypeError` within the [`in`](https://docs.python.org/3.14/reference/expressions.html#in) operator and the [`contains()`](https://docs.python.org/3.14/library/operator.html#operator.contains), [`indexOf()`](https://docs.python.org/3.14/library/operator.html#operator.indexOf) and [`countOf()`](https://docs.python.org/3.14/library/operator.html#operator.countOf) functions of the [`operator`](https://docs.python.org/3.14/library/operator.html#module-operator) module. (Contributed by Serhiy Storchaka in [bpo-40824](https://bugs.python.org/issue?@action=redirect&bpo=40824).)
+
+- A lambda expression without surrounding parentheses may no longer act as the expression portion of an `if` clause inside comprehensions and generator expressions. Refer to [bpo-41848](https://bugs.python.org/issue?@action=redirect&bpo=41848) and [bpo-43755](https://bugs.python.org/issue?@action=redirect&bpo=43755) for the specifics.
+
+[Subject index](INDEX.md) · [Previous source section](new-parser.md) · [Next source section](zoneinfo.md) · [Release/subject declaration](summary-release-highlights.md)

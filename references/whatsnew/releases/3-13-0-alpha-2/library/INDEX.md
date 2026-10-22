@@ -1,0 +1,49 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.13.0 alpha 2 / library / better errors look behind patterns unsupported. [Text Processing Services / Python 3.13.0 alpha 2 / library / better errors look behind patterns unsupported](better-errors-look-behind-patterns-unsupported.md).
+- Open when checking Python 3.13.0 alpha 2 / library / math. [Numeric and Mathematical Modules / Python 3.13.0 alpha 2 / library / math](math.md).
+- Open when checking Python 3.13.0 alpha 2 / library / glob. [File and Directory Access / Python 3.13.0 alpha 2 / library / glob](glob.md).
+- Open when checking Python 3.13.0 alpha 2 / library / cmd. [Command-line interface libraries / Python 3.13.0 alpha 2 / library / cmd](cmd.md).
+- Open when checking Python 3.13.0 alpha 2 / library / curses. [Command-line interface libraries / Python 3.13.0 alpha 2 / library / curses](curses.md).
+- Open when checking Python 3.13.0 alpha 2 / library / multiprocessing. [Concurrent Execution / Python 3.13.0 alpha 2 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.13.0 alpha 2 / library / socket. [Networking and Interprocess Communication / Python 3.13.0 alpha 2 / library / socket](socket.md).
+- Open when checking Python 3.13.0 alpha 2 / library / asyncio stream. [Networking and Interprocess Communication / Python 3.13.0 alpha 2 / library / asyncio stream](asyncio-stream.md).
+- Open when checking Python 3.13.0 alpha 2 / library / mmap. [Networking and Interprocess Communication / Python 3.13.0 alpha 2 / library / mmap](mmap.md).
+- Open when checking Python 3.13.0 alpha 2 / library / asyncio runner. [Networking and Interprocess Communication / Python 3.13.0 alpha 2 / library / asyncio runner](asyncio-runner.md).
+- Open when checking Python 3.13.0 alpha 2 / library / asyncio task. [Networking and Interprocess Communication / Python 3.13.0 alpha 2 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.13.0 alpha 2 / library / ssl. [Networking and Interprocess Communication / Python 3.13.0 alpha 2 / library / ssl](ssl.md).
+- Open when checking Python 3.13.0 alpha 2 / library / mailbox. [Internet Data Handling / Python 3.13.0 alpha 2 / library / mailbox](mailbox.md).
+- Open when checking Python 3.13.0 alpha 2 / library / http client. [Internet Protocols and Support / Python 3.13.0 alpha 2 / library / http client](http-client.md).
+- Open when checking Python 3.13.0 alpha 2 / library / ipaddress. [Internet Protocols and Support / Python 3.13.0 alpha 2 / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.13.0 alpha 2 / library / push back planned removal release locale getdefaultlocale python. [Internationalization / Python 3.13.0 alpha 2 / library / push back planned removal release locale getdefaultlocale python](default-locale-removal-postponement.md).
+- Open when checking Python 3.13.0 alpha 2 / library / gettext. [Internationalization / Python 3.13.0 alpha 2 / library / gettext](gettext.md).
+- Open when checking Python 3.13.0 alpha 2 / library / tkinter ttk. [Graphical user interfaces with Tk / Python 3.13.0 alpha 2 / library / tkinter ttk](tkinter-ttk.md).
+- Open when checking Python 3.13.0 alpha 2 / library / tkinter. [Graphical user interfaces with Tk / Python 3.13.0 alpha 2 / library / tkinter](tkinter.md).
+- Open when checking Python 3.13.0 alpha 2 / library / numeric behavior. [Graphical user interfaces with Tk / Python 3.13.0 alpha 2 / library / numeric behavior](numeric-behavior.md).
+- Open when checking Python 3.13.0 alpha 2 / library / traceback. [Python Runtime Services / Python 3.13.0 alpha 2 / library / traceback](traceback.md).
+- Open when checking Python 3.13.0 alpha 2 / library / code. [Custom Python Interpreters / Python 3.13.0 alpha 2 / library / code](code.md).
+- Open when checking Python 3.13.0 alpha 2 / library / compileall. [Python Language Services / Python 3.13.0 alpha 2 / library / compileall](compileall.md).
+- Open when checking Python 3.13.0 alpha 2 / library / symtable. [Python Language Services / Python 3.13.0 alpha 2 / library / symtable](symtable.md).
+- Open when checking Python 3.13.0 alpha 2 / library / drop posix fallocate wasi since backing posix fallocate does not exist. [Unix-specific services / Python 3.13.0 alpha 2 / library / drop posix fallocate wasi since backing posix fallocate does not exist](wasi-posix-fallocate-removal.md).
+- Open when checking Python 3.13.0 alpha 2 / library / tty. [Unix-specific services / Python 3.13.0 alpha 2 / library / tty](tty.md).
+- Open when checking Python 3.13.0 alpha 2 / library / debug. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / debug](debug.md).
+- Open when checking Python 3.13.0 alpha 2 / library / allow turtledemo start up default root disabled. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / allow turtledemo start up default root disabled](allow-turtledemo-start-up-default-root-disabled.md).
+- Open when checking Python 3.13.0 alpha 2 / library / correct blake2 failing check errors initialization. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / correct blake2 failing check errors initialization](correct-blake2-failing-check-errors-initialization.md).
+- Open when checking Python 3.13.0 alpha 2 / library / imports and modules. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.13.0 alpha 2 / library / text and unicode. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.13.0 alpha 2 / library / unicodedata. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / unicodedata](unicodedata.md).
+- Open when checking Python 3.13.0 alpha 2 / library / zipfile. [Library compatibility and maintenance / Python 3.13.0 alpha 2 / library / zipfile](zipfile.md).
+- Open when checking Python 3.13.0 alpha 2 / library / exceptions. [Combined library maintenance / Python 3.13.0 alpha 2 / library / exceptions](exceptions.md).
+- Open when checking Python 3.13.0 alpha 2 / library / os. [Combined library maintenance / Python 3.13.0 alpha 2 / library / os](os.md).
+- Open when checking Python 3.13.0 alpha 2 / library / wsgiref. [Combined library maintenance / Python 3.13.0 alpha 2 / library / wsgiref](wsgiref.md).
+- Open when checking Python 3.13.0 alpha 2 / library / asyncio eventloop. [Combined library maintenance / Python 3.13.0 alpha 2 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.13.0 alpha 2 / library / doctest. [Combined library maintenance / Python 3.13.0 alpha 2 / library / doctest](doctest.md).
+- Open when checking Python 3.13.0 alpha 2 / library / functions and types. [Combined library maintenance / Python 3.13.0 alpha 2 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.13.0 alpha 2 / library / io. [Combined library maintenance / Python 3.13.0 alpha 2 / library / io](io.md).
+- Open when checking Python 3.13.0 alpha 2 / library / pathlib. [Combined library maintenance / Python 3.13.0 alpha 2 / library / pathlib](pathlib.md).
+- Open when checking Python 3.13.0 alpha 2 / library / pdb. [Combined library maintenance / Python 3.13.0 alpha 2 / library / pdb](pdb.md).
+- Open when checking Python 3.13.0 alpha 2 / library / select. [Combined library maintenance / Python 3.13.0 alpha 2 / library / select](select.md).
+- Open when checking Python 3.13.0 alpha 2 / library / time. [Combined library maintenance / Python 3.13.0 alpha 2 / library / time](time.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

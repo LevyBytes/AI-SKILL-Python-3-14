@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 beta 1 / windows / build and platforms", "file": "releases/3-8-0-beta-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 beta 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / windows / compiler and parser", "file": "releases/3-8-0-beta-1/windows/compiler-and-parser.md", "summary": "Open when checking Python 3.8.0 beta 1 / windows / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / windows / intro", "file": "releases/3-8-0-beta-1/windows/intro.md", "summary": "Open when checking Python 3.8.0 beta 1 / windows / intro.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

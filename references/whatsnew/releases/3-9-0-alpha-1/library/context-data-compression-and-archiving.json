@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Compression and Archiving / Python 3.9.0 alpha 1 / library / repaired backward seeking encrypted zipfile zipextfile", "file": "releases/3-9-0-alpha-1/library/repaired-backward-seeking-encrypted-zipfile-zipextfile.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / repaired backward seeking encrypted zipfile zipextfile.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.9.0 alpha 1 / library / gzip", "file": "releases/3-9-0-alpha-1/library/gzip.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / gzip.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.9.0 alpha 1 / library / lzma", "file": "releases/3-9-0-alpha-1/library/lzma.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / lzma.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

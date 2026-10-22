@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Data Persistence / persistence", "file": "persistence/INDEX.md", "summary": "Open when checking persistence.", "keywords": []},
+  {"topic": "Data Persistence / pickle", "file": "pickle/INDEX.md", "summary": "Open when checking pickle.", "keywords": []},
+  {"topic": "Data Persistence / copyreg", "file": "copyreg/INDEX.md", "summary": "Open when checking copyreg.", "keywords": []},
+  {"topic": "Data Persistence / shelve", "file": "shelve/INDEX.md", "summary": "Open when checking shelve.", "keywords": []},
+  {"topic": "Data Persistence / marshal", "file": "marshal/INDEX.md", "summary": "Open when checking marshal.", "keywords": []},
+  {"topic": "Data Persistence / dbm", "file": "dbm/INDEX.md", "summary": "Open when checking dbm.", "keywords": []},
+  {"topic": "Data Persistence / sqlite3", "file": "sqlite3/INDEX.md", "summary": "Open when checking sqlite3.", "keywords": []},
+  {"topic": "Data Persistence / dbm dumb", "file": "dbm-dumb/INDEX.md", "summary": "Open when checking dbm dumb.", "keywords": []},
+  {"topic": "Data Persistence / dbm gnu", "file": "dbm-gnu/INDEX.md", "summary": "Open when checking dbm gnu.", "keywords": []},
+  {"topic": "Data Persistence / dbm ndbm", "file": "dbm-ndbm/INDEX.md", "summary": "Open when checking dbm ndbm.", "keywords": []},
+  {"topic": "Data Persistence / dbm sqlite3", "file": "dbm-sqlite3/INDEX.md", "summary": "Open when checking dbm sqlite3.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

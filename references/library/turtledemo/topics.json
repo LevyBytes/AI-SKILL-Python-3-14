@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "turtledemo — Changes since Python 2.6", "file": "turtledemo/changes-since-python-2-6.md", "summary": "Open when checking turtledemo — Changes since Python 2.6.", "keywords": []},
+    {"topic": "turtledemo — Changes since Python 3.0", "file": "turtledemo/changes-since-python-3-0.md", "summary": "Open when checking turtledemo — Changes since Python 3.0.", "keywords": []},
+    {"topic": "turtledemo — `turtledemo` — Demo scripts", "file": "turtledemo/turtledemo-demo-scripts.md", "summary": "Open when checking turtledemo — `turtledemo` — Demo scripts.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 4 / c api / allocation", "file": "releases/3-9-0-alpha-4/c-api/allocation.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / allocation.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / files and paths", "file": "releases/3-9-0-alpha-4/c-api/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / functions and types", "file": "releases/3-9-0-alpha-4/c-api/functions-and-types.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / imports and modules", "file": "releases/3-9-0-alpha-4/c-api/imports-and-modules.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / imports and modules.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / keep trashcan mechanism out limited c api needs access", "file": "releases/3-9-0-alpha-4/c-api/keep-trashcan-mechanism-out-limited-c-api-needs-access.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / keep trashcan mechanism out limited c api needs access.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / math", "file": "releases/3-9-0-alpha-4/c-api/math.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / math.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / refcounting", "file": "releases/3-9-0-alpha-4/c-api/refcounting.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / structures", "file": "releases/3-9-0-alpha-4/c-api/structures.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / structures.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / threads", "file": "releases/3-9-0-alpha-4/c-api/threads.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / threads.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / type", "file": "releases/3-9-0-alpha-4/c-api/type.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / type.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / c api / unicode", "file": "releases/3-9-0-alpha-4/c-api/unicode.md", "summary": "Open when checking Python 3.9.0 alpha 4 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

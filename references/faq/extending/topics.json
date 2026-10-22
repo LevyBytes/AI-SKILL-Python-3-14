@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Can I create my own functions in C?", "file": "extending/c-extension-functions.md", "summary": "Open when checking Can I create my own functions in C?.", "keywords": []},
+    {"topic": "Can I create my own functions in C++?", "file": "extending/c-plus-plus-extension-functions.md", "summary": "Open when checking Can I create my own functions in C++?.", "keywords": []},
+    {"topic": "Can I create an object class with some methods implemented in C and others in Python (e.g. through inheritance)?", "file": "mixed-c-and-python-methods.md", "summary": "Open when checking Can I create an object class with some methods implemented in C and others in Python (e.g. through inheritance)?.", "keywords": []},
+    {"topic": "How can I evaluate an arbitrary Python expression from C?", "file": "extending/how-can-i-evaluate-an-arbitrary-python-expression-from-c.md", "summary": "Open when checking How can I evaluate an arbitrary Python expression from C?.", "keywords": []},
+    {"topic": "How can I execute arbitrary Python statements from C?", "file": "extending/how-can-i-execute-arbitrary-python-statements-from-c.md", "summary": "Open when checking How can I execute arbitrary Python statements from C?.", "keywords": []},
+    {"topic": "How do I access a module written in Python from C?", "file": "extending/how-do-i-access-a-module-written-in-python-from-c.md", "summary": "Open when checking How do I access a module written in Python from C?.", "keywords": []},
+    {"topic": "How do I call an object’s method from C?", "file": "extending/how-do-i-call-an-object-s-method-from-c.md", "summary": "Open when checking How do I call an object’s method from C?.", "keywords": []},
+    {"topic": "How do I catch the output from PyErr_Print() (or anything that prints to stdout/stderr)?", "file": "extending/how-do-i-catch-the-output-from-pyerr-print.md", "summary": "Open when checking How do I catch the output from PyErr_Print() (or anything that prints to stdout/stderr)?.", "keywords": []},
+    {"topic": "How do I debug an extension?", "file": "extending/how-do-i-debug-an-extension.md", "summary": "Open when checking How do I debug an extension?.", "keywords": []},
+    {"topic": "How do I extract C values from a Python object?", "file": "extending/how-do-i-extract-c-values-from-a-python-object.md", "summary": "Open when checking How do I extract C values from a Python object?.", "keywords": []},
+    {"topic": "How do I find undefined g++ symbols __builtin_new or __pure_virtual?", "file": "extending/how-do-i-find-undefined-g-symbols-builtin-new-or-pure-virtual.md", "summary": "Open when checking How do I find undefined g++ symbols __builtin_new or __pure_virtual?.", "keywords": []},
+    {"topic": "How do I interface to C++ objects from Python?", "file": "extending/how-do-i-interface-to-c-objects-from-python.md", "summary": "Open when checking How do I interface to C++ objects from Python?.", "keywords": []},
+    {"topic": "How do I tell “incomplete input” from “invalid input”?", "file": "extending/how-do-i-tell-incomplete-input-from-invalid-input.md", "summary": "Open when checking How do I tell “incomplete input” from “invalid input”?.", "keywords": []},
+    {"topic": "How do I use Py_BuildValue() to create a tuple of arbitrary length?", "file": "arbitrary-length-c-api-tuples.md", "summary": "Open when checking How do I use Py_BuildValue() to create a tuple of arbitrary length?.", "keywords": []},
+    {"topic": "I added a module using the Setup file and the make fails; why?", "file": "extending/i-added-a-module-using-the-setup-file-and-the-make-fails-why.md", "summary": "Open when checking I added a module using the Setup file and the make fails; why?.", "keywords": []},
+    {"topic": "I want to compile a Python module on my Linux system, but some files are missing. Why?", "file": "linux-extension-build-missing-files.md", "summary": "Open when checking I want to compile a Python module on my Linux system, but some files are missing. Why?.", "keywords": []},
+    {"topic": "Writing C is hard; are there any alternatives?", "file": "extending/writing-c-is-hard-are-there-any-alternatives.md", "summary": "Open when checking Writing C is hard; are there any alternatives?.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

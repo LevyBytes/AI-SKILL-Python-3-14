@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Objects for Type Hinting", "file": "type-hints/py-genericalias-to-py-genericaliastype.md", "summary": "Open when checking Objects for Type Hinting.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

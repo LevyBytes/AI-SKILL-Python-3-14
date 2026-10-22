@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.1 release candidate 1 / build / build and platforms", "file": "releases/3-5-1-release-candidate-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / build / tests and documentation", "file": "releases/3-5-1-release-candidate-1/build/tests-and-documentation.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / build / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 beta 1 / documentation / collections and iteration", "file": "releases/3-10-0-beta-1/documentation/collections-and-iteration.md", "summary": "Open when checking Python 3.10.0 beta 1 / documentation / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / documentation / dataclasses", "file": "releases/3-10-0-beta-1/documentation/dataclasses.md", "summary": "Open when checking Python 3.10.0 beta 1 / documentation / dataclasses.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / documentation / files and paths", "file": "releases/3-10-0-beta-1/documentation/files-and-paths.md", "summary": "Open when checking Python 3.10.0 beta 1 / documentation / files and paths.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / documentation / functions and types", "file": "releases/3-10-0-beta-1/documentation/functions-and-types.md", "summary": "Open when checking Python 3.10.0 beta 1 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / documentation / tests and documentation", "file": "releases/3-10-0-beta-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 beta 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / documentation / typeobj", "file": "releases/3-10-0-beta-1/documentation/typeobj.md", "summary": "Open when checking Python 3.10.0 beta 1 / documentation / typeobj.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

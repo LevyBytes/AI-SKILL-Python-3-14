@@ -1,0 +1,66 @@
+# Combined library maintenance
+
+Select by the documented task or API context. [Topic catalog](context-combined-library-maintenance.json).
+
+- Open when checking Python 3.8.0 alpha 1 / library / compiler and parser. [Combined library maintenance / Python 3.8.0 alpha 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.8.0 alpha 1 / library / distutils. [Combined library maintenance / Python 3.8.0 alpha 1 / library / distutils](distutils.md).
+- Open when checking Python 3.8.0 alpha 1 / library / numeric behavior. [Combined library maintenance / Python 3.8.0 alpha 1 / library / numeric behavior](numeric-behavior.md).
+- Open when checking Python 3.8.0 alpha 1 / library / random. [Combined library maintenance / Python 3.8.0 alpha 1 / library / random](random.md).
+- Open when checking Python 3.8.0 alpha 1 / library / inspect. [Combined library maintenance / Python 3.8.0 alpha 1 / library / inspect](inspect.md).
+- Open when checking Python 3.8.0 alpha 1 / library / pydoc. [Combined library maintenance / Python 3.8.0 alpha 1 / library / pydoc](pydoc.md).
+- Open when checking Python 3.8.0 alpha 1 / library / hashlib. [Combined library maintenance / Python 3.8.0 alpha 1 / library / hashlib](hashlib.md).
+- Open when checking Python 3.8.0 alpha 1 / library / re. [Combined library maintenance / Python 3.8.0 alpha 1 / library / re](re.md).
+- Open when checking Python 3.8.0 alpha 1 / library / memory and lifetimes. [Combined library maintenance / Python 3.8.0 alpha 1 / library / memory and lifetimes](memory-and-lifetimes.md).
+- Open when checking Python 3.8.0 alpha 1 / library / zipfile. [Combined library maintenance / Python 3.8.0 alpha 1 / library / zipfile](zipfile.md).
+- Open when checking Python 3.8.0 alpha 1 / library / dbm. [Combined library maintenance / Python 3.8.0 alpha 1 / library / dbm](dbm.md).
+- Open when checking Python 3.8.0 alpha 1 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.8.0 alpha 1 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.8.0 alpha 1 / library / exceptions. [Combined library maintenance / Python 3.8.0 alpha 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.8.0 alpha 1 / library / imaplib. [Combined library maintenance / Python 3.8.0 alpha 1 / library / imaplib](imaplib.md).
+- Open when checking Python 3.8.0 alpha 1 / library / smtplib. [Combined library maintenance / Python 3.8.0 alpha 1 / library / smtplib](smtplib.md).
+- Open when checking Python 3.8.0 alpha 1 / library / unittest. [Combined library maintenance / Python 3.8.0 alpha 1 / library / unittest](unittest.md).
+- Open when checking Python 3.8.0 alpha 1 / library / importlib. [Combined library maintenance / Python 3.8.0 alpha 1 / library / importlib](importlib.md).
+- Open when checking Python 3.8.0 alpha 1 / library / tracemalloc. [Combined library maintenance / Python 3.8.0 alpha 1 / library / tracemalloc](tracemalloc.md).
+- Open when checking Python 3.8.0 alpha 1 / library / collections and iteration. [Combined library maintenance / Python 3.8.0 alpha 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.8.0 alpha 1 / library / imports and modules. [Combined library maintenance / Python 3.8.0 alpha 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.8.0 alpha 1 / library / multiprocessing. [Combined library maintenance / Python 3.8.0 alpha 1 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.8.0 alpha 1 / library / os. [Combined library maintenance / Python 3.8.0 alpha 1 / library / os](os.md).
+- Open when checking Python 3.8.0 alpha 1 / library / sqlite3. [Combined library maintenance / Python 3.8.0 alpha 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.8.0 alpha 1 / library / tests and documentation. [Combined library maintenance / Python 3.8.0 alpha 1 / library / tests and documentation](tests-and-documentation.md).
+- Open when checking Python 3.8.0 alpha 1 / library / time. [Combined library maintenance / Python 3.8.0 alpha 1 / library / time](time.md).
+- Open when checking Python 3.8.0 alpha 1 / library / tkinter ttk. [Combined library maintenance / Python 3.8.0 alpha 1 / library / tkinter ttk](tkinter-ttk.md).
+- Open when checking Python 3.8.0 alpha 1 / library / webbrowser. [Combined library maintenance / Python 3.8.0 alpha 1 / library / webbrowser](webbrowser.md).
+- Open when checking Python 3.8.0 alpha 1 / library / platform. [Combined library maintenance / Python 3.8.0 alpha 1 / library / platform](platform.md).
+- Open when checking Python 3.8.0 alpha 1 / library / asyncio task. [Combined library maintenance / Python 3.8.0 alpha 1 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.8.0 alpha 1 / library / asyncio. [Combined library maintenance / Python 3.8.0 alpha 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.8.0 alpha 1 / library / base64. [Combined library maintenance / Python 3.8.0 alpha 1 / library / base64](base64.md).
+- Open when checking Python 3.8.0 alpha 1 / library / files and paths. [Combined library maintenance / Python 3.8.0 alpha 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.8.0 alpha 1 / library / logging. [Combined library maintenance / Python 3.8.0 alpha 1 / library / logging](logging.md).
+- Open when checking Python 3.8.0 alpha 1 / library / mmap. [Combined library maintenance / Python 3.8.0 alpha 1 / library / mmap](mmap.md).
+- Open when checking Python 3.8.0 alpha 1 / library / shutil. [Combined library maintenance / Python 3.8.0 alpha 1 / library / shutil](shutil.md).
+- Open when checking Python 3.8.0 alpha 1 / library / xml dom minidom. [Combined library maintenance / Python 3.8.0 alpha 1 / library / xml dom minidom](xml-dom-minidom.md).
+- Open when checking Python 3.8.0 alpha 1 / library / concurrent futures. [Combined library maintenance / Python 3.8.0 alpha 1 / library / concurrent futures](concurrent-futures.md).
+- Open when checking Python 3.8.0 alpha 1 / library / text and unicode. [Combined library maintenance / Python 3.8.0 alpha 1 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.8.0 alpha 1 / library / threads and concurrency. [Combined library maintenance / Python 3.8.0 alpha 1 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.8.0 alpha 1 / library / uuid. [Combined library maintenance / Python 3.8.0 alpha 1 / library / uuid](uuid.md).
+- Open when checking Python 3.8.0 alpha 1 / library / argparse. [Combined library maintenance / Python 3.8.0 alpha 1 / library / argparse](argparse.md).
+- Open when checking Python 3.8.0 alpha 1 / library / configparser. [Combined library maintenance / Python 3.8.0 alpha 1 / library / configparser](configparser.md).
+- Open when checking Python 3.8.0 alpha 1 / library / dataclasses. [Combined library maintenance / Python 3.8.0 alpha 1 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.8.0 alpha 1 / library / socketserver. [Combined library maintenance / Python 3.8.0 alpha 1 / library / socketserver](socketserver.md).
+- Open when checking Python 3.8.0 alpha 1 / library / unittest mock. [Combined library maintenance / Python 3.8.0 alpha 1 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.8.0 alpha 1 / library / urllib robotparser. [Combined library maintenance / Python 3.8.0 alpha 1 / library / urllib robotparser](urllib-robotparser.md).
+- Open when checking Python 3.8.0 alpha 1 / library / xml etree elementtree. [Combined library maintenance / Python 3.8.0 alpha 1 / library / xml etree elementtree](xml-etree-elementtree.md).
+- Open when checking Python 3.8.0 alpha 1 / library / dis. [Combined library maintenance / Python 3.8.0 alpha 1 / library / dis](dis.md).
+- Open when checking Python 3.8.0 alpha 1 / library / functions. [Combined library maintenance / Python 3.8.0 alpha 1 / library / functions](functions.md).
+- Open when checking Python 3.8.0 alpha 1 / library / http cookies. [Combined library maintenance / Python 3.8.0 alpha 1 / library / http cookies](http-cookies.md).
+- Open when checking Python 3.8.0 alpha 1 / library / pickle. [Combined library maintenance / Python 3.8.0 alpha 1 / library / pickle](pickle.md).
+- Open when checking Python 3.8.0 alpha 1 / library / sys. [Combined library maintenance / Python 3.8.0 alpha 1 / library / sys](sys.md).
+- Open when checking Python 3.8.0 alpha 1 / library / ipaddress. [Combined library maintenance / Python 3.8.0 alpha 1 / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.8.0 alpha 1 / library / constants. [Combined library maintenance / Python 3.8.0 alpha 1 / library / constants](constants.md).
+- Open when checking Python 3.8.0 alpha 1 / library / socket. [Combined library maintenance / Python 3.8.0 alpha 1 / library / socket](socket.md).
+- Open when checking Python 3.8.0 alpha 1 / library / ssl. [Combined library maintenance / Python 3.8.0 alpha 1 / library / ssl](ssl.md).
+- Open when checking Python 3.8.0 alpha 1 / library / subprocess. [Combined library maintenance / Python 3.8.0 alpha 1 / library / subprocess](subprocess.md).
+- Open when checking Python 3.8.0 alpha 1 / library / build and platforms. [Combined library maintenance / Python 3.8.0 alpha 1 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.8.0 alpha 1 / library / ctypes. [Combined library maintenance / Python 3.8.0 alpha 1 / library / ctypes](ctypes.md).
+- Open when checking Python 3.8.0 alpha 1 / library / datetime. [Combined library maintenance / Python 3.8.0 alpha 1 / library / datetime](datetime.md).
+- Open when checking Python 3.8.0 alpha 1 / library / http server. [Combined library maintenance / Python 3.8.0 alpha 1 / library / http server](http-server.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

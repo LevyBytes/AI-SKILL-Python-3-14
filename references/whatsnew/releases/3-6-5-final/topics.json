@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "build", "file": "releases/3-6-5-final/build/INDEX.md", "summary": "Open when checking build.", "keywords": []},
+    {"topic": "release overview", "file": "releases/3-6-5-final/release-overview/INDEX.md", "summary": "Open when checking release overview.", "keywords": []},
+    {"topic": "tests", "file": "releases/3-6-5-final/tests/INDEX.md", "summary": "Open when checking tests.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

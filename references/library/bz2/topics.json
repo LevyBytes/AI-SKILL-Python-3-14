@@ -1,0 +1,12 @@
+{"schema_version": 1, "topics": [
+  {"topic": "bz2: `bz2.BZ2Compressor`", "file": "bz2/bz2-bz2compressor-class.md", "summary": "Open when checking the documented contracts for `bz2.BZ2Compressor` in bz2.", "keywords": []},
+  {"topic": "bz2.BZ2Compressor: `compress()`, `flush()`", "file": "bz2/bz2-bz2compressor-compress-to-bz2-bz2compressor-flush.md", "summary": "Open when checking the documented contracts for `compress()`, `flush()` in bz2.BZ2Compressor.", "keywords": []},
+  {"topic": "bz2 / Incremental (de)compression: `bz2.BZ2Decompressor`, `decompress()`", "file": "bz2/bz2-bz2decompressor-class-to-bz2-bz2decompressor-decompress.md", "summary": "Open when checking the documented contracts for `bz2.BZ2Decompressor`, `decompress()` in bz2 / Incremental (de)compression.", "keywords": []},
+  {"topic": "bz2: `bz2.open()`", "file": "bz2/bz2-open.md", "summary": "Open when checking the documented contracts for `bz2.open()` in bz2.", "keywords": []},
+  {"topic": "bz2 / (De)compression of files: `bz2.BZ2File`, `peek()`, `fileno()`, `readable()`, `seekable()`, `writable()`, `read1()`, `readinto()`", "file": "bz2/bz2-bz2file-class-to-bz2-bz2file-readinto.md", "summary": "Open when checking the documented contracts for `bz2.BZ2File`, `peek()`, `fileno()`, `readable()`, `seekable()`, `writable()`, `read1()`, `readinto()` in bz2 / (De)compression of files.", "keywords": []},
+  {"topic": "bz2: BZ2File filename attribute", "file": "bz2/de-compression-of-files.md", "summary": "Open when checking BZ2File filename attribute in bz2.", "keywords": []},
+  {"topic": "bz2 — One-shot (de)compression", "file": "bz2/bz2-compress-to-bz2-decompress.md", "summary": "Open when checking bz2 — One-shot (de)compression.", "keywords": []},
+  {"topic": "bz2 — `bz2` — Support for **bzip2** compression", "file": "bz2/bz2-support-for-bzip2-compression.md", "summary": "Open when checking bz2 — `bz2` — Support for **bzip2** compression.", "keywords": []},
+  {"topic": "bz2 — Examples of usage", "file": "bz2/examples-of-usage.md", "summary": "Open when checking bz2 — Examples of usage.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

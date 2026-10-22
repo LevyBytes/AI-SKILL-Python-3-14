@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "tkinter.scrolledtext: `tkinter.scrolledtext.ScrolledText`", "file": "tkinter-scrolledtext/tkinter-scrolledtext-scrolledtext-class.md", "summary": "Open when checking the documented contracts for `tkinter.scrolledtext.ScrolledText` in tkinter.scrolledtext.", "keywords": []},
+  {"topic": "tkinter.scrolledtext: ScrolledText scrollbar widget access", "file": "tkinter-scrolledtext/tkinter-scrolledtext-scrolled-text-widget.md", "summary": "Open when checking ScrolledText scrollbar widget access in tkinter.scrolledtext.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

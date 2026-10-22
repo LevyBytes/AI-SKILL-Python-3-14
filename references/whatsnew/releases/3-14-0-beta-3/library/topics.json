@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 3 / library / argparse", "file": "releases/3-14-0-beta-3/library/argparse.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / argparse.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / ast", "file": "releases/3-14-0-beta-3/library/ast.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / ast.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / compiler and parser", "file": "releases/3-14-0-beta-3/library/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / compression zstd", "file": "releases/3-14-0-beta-3/library/compression-zstd.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / compression zstd.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / concurrent futures", "file": "releases/3-14-0-beta-3/library/concurrent-futures.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / concurrent interpreters", "file": "releases/3-14-0-beta-3/library/concurrent-interpreters.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / concurrent interpreters.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / configparser", "file": "releases/3-14-0-beta-3/library/configparser.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / configparser.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / csv", "file": "releases/3-14-0-beta-3/library/csv.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / csv.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / ctypes", "file": "releases/3-14-0-beta-3/library/ctypes.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / ctypes.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / curses", "file": "releases/3-14-0-beta-3/library/curses.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / curses.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / doctest", "file": "releases/3-14-0-beta-3/library/doctest.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / doctest.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / email", "file": "releases/3-14-0-beta-3/library/email.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / email.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / functions and types", "file": "releases/3-14-0-beta-3/library/functions-and-types.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / hashlib", "file": "releases/3-14-0-beta-3/library/hashlib.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / hashlib.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / heapq", "file": "releases/3-14-0-beta-3/library/heapq.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / heapq.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / json", "file": "releases/3-14-0-beta-3/library/json.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / json.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / locale", "file": "releases/3-14-0-beta-3/library/locale.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / locale.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / logging", "file": "releases/3-14-0-beta-3/library/logging.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / logging.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / os", "file": "releases/3-14-0-beta-3/library/os.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / os.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / pickle", "file": "releases/3-14-0-beta-3/library/pickle.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / pickle.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / random", "file": "releases/3-14-0-beta-3/library/random.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / random.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / text and unicode", "file": "releases/3-14-0-beta-3/library/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / text", "file": "releases/3-14-0-beta-3/library/text.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / text.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / unittest mock", "file": "releases/3-14-0-beta-3/library/unittest-mock.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / unittest mock.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / uuid", "file": "releases/3-14-0-beta-3/library/uuid.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / uuid.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / library / zipfile", "file": "releases/3-14-0-beta-3/library/zipfile.md", "summary": "Open when checking Python 3.14.0 beta 3 / library / zipfile.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

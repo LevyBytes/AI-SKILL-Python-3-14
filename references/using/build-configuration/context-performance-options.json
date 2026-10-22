@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Performance options / 3.3.7. Performance options", "file": "build-configuration/performance-options.md", "summary": "Open when checking 3.3.7. Performance options.", "keywords": []},
+  {"topic": "Performance options / --enable-optimizations", "file": "build-configuration/enable-optimizations.md", "summary": "Open when checking --enable-optimizations.", "keywords": []},
+  {"topic": "Performance options / PROFILE_TASK", "file": "build-configuration/profile-task.md", "summary": "Open when checking PROFILE_TASK.", "keywords": []},
+  {"topic": "Performance options / --with-lto=[full/thin/no/yes]", "file": "build-configuration/with-lto-full-thin-no-yes.md", "summary": "Open when checking --with-lto=[full/thin/no/yes].", "keywords": []},
+  {"topic": "Performance options / --enable-bolt", "file": "build-configuration/enable-bolt.md", "summary": "Open when checking --enable-bolt.", "keywords": []},
+  {"topic": "Performance options / BOLT_APPLY_FLAGS", "file": "build-configuration/bolt-apply-flags.md", "summary": "Open when checking BOLT_APPLY_FLAGS.", "keywords": []},
+  {"topic": "Performance options / BOLT_INSTRUMENT_FLAGS", "file": "build-configuration/bolt-instrument-flags.md", "summary": "Open when checking BOLT_INSTRUMENT_FLAGS.", "keywords": []},
+  {"topic": "Performance options / --with-computed-gotos", "file": "build-configuration/with-computed-gotos.md", "summary": "Open when checking --with-computed-gotos.", "keywords": []},
+  {"topic": "Performance options / --with-tail-call-interp", "file": "build-configuration/with-tail-call-interp.md", "summary": "Open when checking --with-tail-call-interp.", "keywords": []},
+  {"topic": "Performance options / --without-mimalloc", "file": "build-configuration/without-mimalloc.md", "summary": "Open when checking --without-mimalloc.", "keywords": []},
+  {"topic": "Performance options / --without-pymalloc", "file": "build-configuration/without-pymalloc.md", "summary": "Open when checking --without-pymalloc.", "keywords": []},
+  {"topic": "Performance options / --without-doc-strings", "file": "build-configuration/without-doc-strings.md", "summary": "Open when checking --without-doc-strings.", "keywords": []},
+  {"topic": "Performance options / --enable-profiling", "file": "build-configuration/enable-profiling.md", "summary": "Open when checking --enable-profiling.", "keywords": []},
+  {"topic": "Performance options / --with-strict-overflow", "file": "build-configuration/with-strict-overflow.md", "summary": "Open when checking --with-strict-overflow.", "keywords": []},
+  {"topic": "Performance options / --without-remote-debug", "file": "build-configuration/without-remote-debug.md", "summary": "Open when checking --without-remote-debug.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

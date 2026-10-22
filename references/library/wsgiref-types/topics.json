@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "wsgiref.types — Examples", "file": "wsgiref-types/examples.md", "summary": "Open when checking wsgiref.types — Examples.", "keywords": []},
+  {"topic": "wsgiref.types: `wsgiref.types.StartResponse`, `wsgiref.types.WSGIEnvironment`, `wsgiref.types.WSGIApplication`", "file": "wsgi-response-and-application-type-protocols.md", "summary": "Open when checking the documented contracts for `wsgiref.types.StartResponse`, `wsgiref.types.WSGIEnvironment`, `wsgiref.types.WSGIApplication` in wsgiref.types.", "keywords": []},
+  {"topic": "wsgiref.types: `wsgiref.types.InputStream`", "file": "wsgiref-types/wsgiref-types-inputstream-class.md", "summary": "Open when checking the documented contracts for `wsgiref.types.InputStream` in wsgiref.types.", "keywords": []},
+  {"topic": "wsgiref.types: `wsgiref.types.ErrorStream`", "file": "wsgiref-types/wsgiref-types-errorstream-class.md", "summary": "Open when checking the documented contracts for `wsgiref.types.ErrorStream` in wsgiref.types.", "keywords": []},
+  {"topic": "wsgiref.types: `wsgiref.types.FileWrapper`", "file": "wsgiref-types/wsgiref-types-filewrapper-class.md", "summary": "Open when checking the documented contracts for `wsgiref.types.FileWrapper` in wsgiref.types.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

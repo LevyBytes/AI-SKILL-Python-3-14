@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Python Language Services / language", "file": "language/INDEX.md", "summary": "Open when checking language.", "keywords": []},
+  {"topic": "Python Language Services / ast", "file": "ast/INDEX.md", "summary": "Open when checking ast.", "keywords": []},
+  {"topic": "Python Language Services / symtable", "file": "symtable/INDEX.md", "summary": "Open when checking symtable.", "keywords": []},
+  {"topic": "Python Language Services / token", "file": "token/INDEX.md", "summary": "Open when checking token.", "keywords": []},
+  {"topic": "Python Language Services / keyword", "file": "keyword/INDEX.md", "summary": "Open when checking keyword.", "keywords": []},
+  {"topic": "Python Language Services / tokenize", "file": "tokenize/INDEX.md", "summary": "Open when checking tokenize.", "keywords": []},
+  {"topic": "Python Language Services / tabnanny", "file": "tabnanny/INDEX.md", "summary": "Open when checking tabnanny.", "keywords": []},
+  {"topic": "Python Language Services / pyclbr", "file": "pyclbr/INDEX.md", "summary": "Open when checking pyclbr.", "keywords": []},
+  {"topic": "Python Language Services / py compile", "file": "py-compile/INDEX.md", "summary": "Open when checking py compile.", "keywords": []},
+  {"topic": "Python Language Services / compileall", "file": "compileall/INDEX.md", "summary": "Open when checking compileall.", "keywords": []},
+  {"topic": "Python Language Services / dis", "file": "dis/INDEX.md", "summary": "Open when checking dis.", "keywords": []},
+  {"topic": "Python Language Services / pickletools", "file": "pickletools/INDEX.md", "summary": "Open when checking pickletools.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

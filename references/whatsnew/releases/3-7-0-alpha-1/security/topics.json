@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 1 / security / bundled libexpat copy moved up security fixes picked up", "file": "releases/3-7-0-alpha-1/security/bundled-libexpat-copy-moved-up-security-fixes-picked-up.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / bundled libexpat copy moved up security fixes picked up.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / security / expat copy went obtain fixes cve cve", "file": "releases/3-7-0-alpha-1/security/expat-copy-went-obtain-fixes-cve-cve.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / expat copy went obtain fixes cve cve.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / security / if bio handshake hasn t run yet sslobject version properly", "file": "releases/3-7-0-alpha-1/security/if-bio-handshake-hasn-t-run-yet-sslobject-version-properly.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / if bio handshake hasn t run yet sslobject version properly.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / security / re", "file": "releases/3-7-0-alpha-1/security/re.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / re.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / security / subprocess", "file": "releases/3-7-0-alpha-1/security/subprocess.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / subprocess.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / security / text and unicode", "file": "releases/3-7-0-alpha-1/security/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / security / urllib parse splithost fixed parses fragments properly", "file": "releases/3-7-0-alpha-1/security/urllib-parse-splithost-fixed-parses-fragments-properly.md", "summary": "Open when checking Python 3.7.0 alpha 1 / security / urllib parse splithost fixed parses fragments properly.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

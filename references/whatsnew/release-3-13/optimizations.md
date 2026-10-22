@@ -1,0 +1,11 @@
+# What's New In Python 3.13 / Optimizations — contextlib, email.utils, enum, functools, importlib.metadata, os, re, subprocess, textwrap, threading, typing
+
+### Optimizations
+
+- A number of standard library modules now import markedly faster. As one case, the [`typing`](https://docs.python.org/3.14/library/typing.html#module-typing) module's import cost dropped by roughly a third after its reliance on [`re`](https://docs.python.org/3.14/library/re.html#module-re) and [`contextlib`](https://docs.python.org/3.14/library/contextlib.html#module-contextlib) was dropped. Several other modules also gained import-time speedups, namely [`email.utils`](https://docs.python.org/3.14/library/email.utils.html#module-email.utils), [`enum`](https://docs.python.org/3.14/library/enum.html#module-enum), [`functools`](https://docs.python.org/3.14/library/functools.html#module-functools), [`importlib.metadata`](https://docs.python.org/3.14/library/importlib.metadata.html#module-importlib.metadata), and [`threading`](https://docs.python.org/3.14/library/threading.html#module-threading). The credited contributors are Alex Waygood, Shantanu Jain, Adam Turner, Daniel Hollas, and others, in [gh-109653](https://github.com/python/cpython/issues/109653).
+
+- For large input, [`textwrap.indent()`](https://docs.python.org/3.14/library/textwrap.html#textwrap.indent) now runs roughly 30% quicker than it used to. (Contributed by Inada Naoki in [gh-107369](https://github.com/python/cpython/issues/107369).)
+
+- The [`subprocess`](https://docs.python.org/3.14/library/subprocess.html#module-subprocess) module now reaches for the [`posix_spawn()`](https://docs.python.org/3.14/library/os.html#os.posix_spawn) function across a wider range of cases, including when *close_fds* holds `True` (its default) on plenty of current platforms. Launching processes on FreeBSD and Solaris should see a noticeable speed gain as a result. Consult the subprocess section above for the specifics. (Contributed by Jakub Kulik in [gh-113117](https://github.com/python/cpython/issues/113117).)
+
+[Subject index](INDEX.md) · [Previous source section](zipimport.md) · [Next source section](removed-modules-and-standard-library-replacements.md) · [Release/subject declaration](summary-release-highlights.md)

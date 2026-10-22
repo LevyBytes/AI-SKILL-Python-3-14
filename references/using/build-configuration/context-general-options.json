@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "General Options / --enable-loadable-sqlite-extensions", "file": "build-configuration/enable-loadable-sqlite-extensions.md", "summary": "Open when checking --enable-loadable-sqlite-extensions.", "keywords": []},
+  {"topic": "General Options / --disable-ipv6", "file": "build-configuration/disable-ipv6.md", "summary": "Open when checking --disable-ipv6.", "keywords": []},
+  {"topic": "General Options / --enable-big-digits=[15/30]", "file": "build-configuration/enable-big-digits-15-30.md", "summary": "Open when checking --enable-big-digits=[15/30].", "keywords": []},
+  {"topic": "General Options / --with-suffix=SUFFIX", "file": "build-configuration/with-suffix-suffix.md", "summary": "Open when checking --with-suffix=SUFFIX.", "keywords": []},
+  {"topic": "General Options / --with-tzpath=&lt;list of absolute paths separated by pathsep&gt;", "file": "build-configuration/with-tzpath-list-of-absolute-paths-separated-by-pathsep.md", "summary": "Open when checking --with-tzpath=<list of absolute paths separated by pathsep>.", "keywords": []},
+  {"topic": "General Options / --without-decimal-contextvar", "file": "build-configuration/without-decimal-contextvar.md", "summary": "Open when checking --without-decimal-contextvar.", "keywords": []},
+  {"topic": "General Options / --with-dbmliborder=&lt;list of backend names&gt;", "file": "build-configuration/with-dbmliborder-list-of-backend-names.md", "summary": "Open when checking --with-dbmliborder=<list of backend names>.", "keywords": []},
+  {"topic": "General Options / --without-c-locale-coercion", "file": "build-configuration/without-c-locale-coercion.md", "summary": "Open when checking --without-c-locale-coercion.", "keywords": []},
+  {"topic": "General Options / --with-platlibdir=DIRNAME", "file": "build-configuration/with-platlibdir-dirname.md", "summary": "Open when checking --with-platlibdir=DIRNAME.", "keywords": []},
+  {"topic": "General Options / --with-wheel-pkg-dir=PATH", "file": "build-configuration/with-wheel-pkg-dir-path.md", "summary": "Open when checking --with-wheel-pkg-dir=PATH.", "keywords": []},
+  {"topic": "General Options / --with-pkg-config=[check/yes/no]", "file": "build-configuration/with-pkg-config-check-yes-no.md", "summary": "Open when checking --with-pkg-config=[check/yes/no].", "keywords": []},
+  {"topic": "General Options / --enable-pystats", "file": "build-configuration/enable-pystats.md", "summary": "Open when checking --enable-pystats.", "keywords": []},
+  {"topic": "General Options / --enable-pystats opcode and call statistics", "file": "build-configuration/enable-pystats-opcode-and-call-statistics.md", "summary": "Open when checking --enable-pystats opcode and call statistics.", "keywords": []},
+  {"topic": "General Options / --enable-pystats object and garbage-collector statistics", "file": "build-configuration/enable-pystats-object-and-garbage-collector-statistics.md", "summary": "Open when checking --enable-pystats object and garbage-collector statistics.", "keywords": []},
+  {"topic": "General Options / --disable-gil", "file": "build-configuration/disable-gil.md", "summary": "Open when checking --disable-gil.", "keywords": []},
+  {"topic": "General Options / --enable-experimental-jit=[no/yes/yes-off/interpreter]", "file": "build-configuration/enable-experimental-jit-no-yes-yes-off-interpreter.md", "summary": "Open when checking --enable-experimental-jit=[no/yes/yes-off/interpreter].", "keywords": []},
+  {"topic": "General Options / PKG_CONFIG", "file": "build-configuration/pkg-config.md", "summary": "Open when checking PKG_CONFIG.", "keywords": []},
+  {"topic": "General Options / PKG_CONFIG_LIBDIR / PKG_CONFIG_PATH", "file": "build-configuration/pkg-config-libdir-pkg-config-path.md", "summary": "Open when checking PKG_CONFIG_LIBDIR / PKG_CONFIG_PATH.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

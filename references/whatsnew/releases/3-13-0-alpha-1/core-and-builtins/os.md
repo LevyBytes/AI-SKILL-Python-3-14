@@ -1,0 +1,7 @@
+# Python 3.13.0 alpha 1 / core and builtins / os
+
+[gh-104690](https://github.com/python/cpython/issues/104690): Launching new threads and creating processes via [`os.fork()`](https://docs.python.org/3.14/library/os.html#os.fork) while the interpreter is shutting down (for example from [`atexit`](https://docs.python.org/3.14/library/atexit.html#module-atexit) handlers) is henceforth unsupported. It can produce a race condition in which the main Python runtime thread releases thread states at the same time internal [`threading`](https://docs.python.org/3.14/library/threading.html#module-threading) routines attempt to allocate and use the state of newly created threads. Forked children may likewise try to use the mid-shutdown runtime and thread state within the child process.
+
+[gh-109595](https://github.com/python/cpython/issues/109595): A [`-X cpu_count`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-X) command line option was added to override what [`os.cpu_count()`](https://docs.python.org/3.14/library/os.html#os.cpu_count) and [`os.process_cpu_count()`](https://docs.python.org/3.14/library/os.html#os.process_cpu_count) report. The option helps people who must cap CPU resources within a container system while leaving the container (application code) untouched. Donghee Na wrote the patch.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

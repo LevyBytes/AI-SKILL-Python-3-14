@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Custom Python Interpreters / Python 3.10.0 alpha 1 / library / codeop", "file": "releases/3-10-0-alpha-1/library/codeop.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / codeop.", "keywords": []},
+  {"topic": "Custom Python Interpreters / Python 3.10.0 alpha 1 / library / keep codeop maybe compile code interactiveinterpreter idle depend issuing each warning three", "file": "releases/3-10-0-alpha-1/library/interactive-compilation-duplicate-warnings.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / keep codeop maybe compile code interactiveinterpreter idle depend issuing each warning three.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

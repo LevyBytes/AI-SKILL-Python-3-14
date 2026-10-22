@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 7 / tests / asyncio task", "file": "releases/3-11-0-alpha-7/tests/asyncio-task.md", "summary": "Open when checking Python 3.11.0 alpha 7 / tests / asyncio task.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / tests / debug", "file": "releases/3-11-0-alpha-7/tests/debug.md", "summary": "Open when checking Python 3.11.0 alpha 7 / tests / debug.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / tests / os", "file": "releases/3-11-0-alpha-7/tests/os.md", "summary": "Open when checking Python 3.11.0 alpha 7 / tests / os.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / tests / platform", "file": "releases/3-11-0-alpha-7/tests/platform.md", "summary": "Open when checking Python 3.11.0 alpha 7 / tests / platform.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / tests / subprocess", "file": "releases/3-11-0-alpha-7/tests/subprocess.md", "summary": "Open when checking Python 3.11.0 alpha 7 / tests / subprocess.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / tests / tests and documentation", "file": "releases/3-11-0-alpha-7/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 7 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

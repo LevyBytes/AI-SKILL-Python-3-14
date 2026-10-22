@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / drop tools scripts h2py py reach c api python through", "file": "releases/3-9-0-alpha-1/tools-demos/drop-tools-scripts-h2py-py-reach-c-api-python-through.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / drop tools scripts h2py py reach c api python through.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / files and paths", "file": "releases/3-9-0-alpha-1/tools-demos/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / functions and types", "file": "releases/3-9-0-alpha-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / give pathscript py script k option keeps shebang flags option", "file": "releases/3-9-0-alpha-1/tools-demos/give-pathscript-py-script-k-option-keeps-shebang-flags-option.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / give pathscript py script k option keeps shebang flags option.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / improve argumentclinic converter floats", "file": "releases/3-9-0-alpha-1/tools-demos/improve-argumentclinic-converter-floats.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / improve argumentclinic converter floats.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / pdb", "file": "releases/3-9-0-alpha-1/tools-demos/pdb.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / pdb.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / to3 works run zipped standard library", "file": "releases/3-9-0-alpha-1/tools-demos/to3-works-run-zipped-standard-library.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / to3 works run zipped standard library.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / tools demos / unicode", "file": "releases/3-9-0-alpha-1/tools-demos/unicode.md", "summary": "Open when checking Python 3.9.0 alpha 1 / tools demos / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Custom Python Interpreters / custominterp", "file": "custominterp/INDEX.md", "summary": "Open when checking custominterp.", "keywords": []},
+  {"topic": "Custom Python Interpreters / code", "file": "code/INDEX.md", "summary": "Open when checking code.", "keywords": []},
+  {"topic": "Custom Python Interpreters / codeop", "file": "codeop/INDEX.md", "summary": "Open when checking codeop.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

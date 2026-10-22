@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/faq", "topics": [
+  {"topic": "How do I run a Python program under Windows?", "file": "windows/how-do-i-run-a-python-program-under-windows.md", "summary": "Open when checking How do I run a Python program under Windows.", "keywords": []},
+  {"topic": "How do I make Python scripts executable?", "file": "windows/how-do-i-make-python-scripts-executable.md", "summary": "Open when checking How do I make Python scripts executable.", "keywords": []},
+  {"topic": "Why does Python sometimes take so long to start?", "file": "windows/why-does-python-sometimes-take-so-long-to-start.md", "summary": "Open when checking Why does Python sometimes take so long to start.", "keywords": []},
+  {"topic": "How do I make an executable from a Python script?", "file": "windows/how-do-i-make-an-executable-from-a-python-script.md", "summary": "Open when checking How do I make an executable from a Python script.", "keywords": []},
+  {"topic": "Is a *.pyd file the same as a DLL? / Is a `*.pyd` file the same as a DLL?", "file": "windows/is-a-pyd-file-the-same-as-a-dll.md", "summary": "Open when checking Is a `*.pyd` file the same as a DLL.", "keywords": []},
+  {"topic": "How can I embed Python into a Windows application?", "file": "windows/how-can-i-embed-python-into-a-windows-application.md", "summary": "Open when checking How can I embed Python into a Windows application.", "keywords": []},
+  {"topic": "How do I keep editors from inserting tabs into my Python source?", "file": "windows/editor-tabs-and-python-indentation.md", "summary": "Open when checking How do I keep editors from inserting tabs into my Python source.", "keywords": []},
+  {"topic": "How do I check for a keypress without blocking?", "file": "windows/how-do-i-check-for-a-keypress-without-blocking.md", "summary": "Open when checking How do I check for a keypress without blocking.", "keywords": []},
+  {"topic": "How do I solve the missing api-ms-win-crt-runtime-l1-1-0.dll error?", "file": "windows/missing-windows-crt-runtime-dll.md", "summary": "Open when checking How do I solve the missing api-ms-win-crt-runtime-l1-1-0.dll error.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

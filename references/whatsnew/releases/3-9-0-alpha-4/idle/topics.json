@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 4 / idle / exceptions", "file": "releases/3-9-0-alpha-4/idle/exceptions.md", "summary": "Open when checking Python 3.9.0 alpha 4 / idle / exceptions.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / idle / idle settings cancel button discards any pending changes", "file": "releases/3-9-0-alpha-4/idle/idle-settings-cancel-button-discards-any-pending-changes.md", "summary": "Open when checking Python 3.9.0 alpha 4 / idle / idle settings cancel button discards any pending changes.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / idle / strip duplicated font names out font configuration window", "file": "releases/3-9-0-alpha-4/idle/strip-duplicated-font-names-out-font-configuration-window.md", "summary": "Open when checking Python 3.9.0 alpha 4 / idle / strip duplicated font names out font configuration window.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / idle / tests and documentation", "file": "releases/3-9-0-alpha-4/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.9.0 alpha 4 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

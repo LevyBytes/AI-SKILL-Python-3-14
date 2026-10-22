@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Development Tools / Python 3.7.0 alpha 1 / library / modules", "file": "releases/3-7-0-alpha-1/library/modules.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / modules.", "keywords": []},
+  {"topic": "Development Tools / Python 3.7.0 alpha 1 / library / keep objects outliving expectations unittest testcase assertraises breaks reference cycle hand", "file": "releases/3-7-0-alpha-1/library/exception-assertion-reference-cycle-cleanup.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / keep objects outliving expectations unittest testcase assertraises breaks reference cycle hand.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

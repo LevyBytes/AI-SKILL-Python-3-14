@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.1 release candidate 1 / documentation / functions and types", "file": "releases/3-5-1-release-candidate-1/documentation/functions-and-types.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / documentation / language", "file": "releases/3-5-1-release-candidate-1/documentation/language.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / documentation / language.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / documentation / modules", "file": "releases/3-5-1-release-candidate-1/documentation/modules.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / documentation / modules.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / documentation / tempfile", "file": "releases/3-5-1-release-candidate-1/documentation/tempfile.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / documentation / tempfile.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / documentation / threading", "file": "releases/3-5-1-release-candidate-1/documentation/threading.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / documentation / threading.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / documentation / unittest", "file": "releases/3-5-1-release-candidate-1/documentation/unittest.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / documentation / unittest.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

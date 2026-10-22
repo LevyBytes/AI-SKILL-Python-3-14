@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 1 / security / build and platforms", "file": "releases/3-9-0-alpha-1/security/build-and-platforms.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / bump vendorized expat library version addressing cve", "file": "releases/3-9-0-alpha-1/security/bump-vendorized-expat-library-version-addressing-cve.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / bump vendorized expat library version addressing cve.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / collections and iteration", "file": "releases/3-9-0-alpha-1/security/collections-and-iteration.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / ctypes", "file": "releases/3-9-0-alpha-1/security/ctypes.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / ctypes.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / email", "file": "releases/3-9-0-alpha-1/security/email.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / email.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / ensurepip", "file": "releases/3-9-0-alpha-1/security/ensurepip.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / ensurepip.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / io", "file": "releases/3-9-0-alpha-1/security/io.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / io.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / os", "file": "releases/3-9-0-alpha-1/security/os.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / os.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / runpy", "file": "releases/3-9-0-alpha-1/security/runpy.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / runpy.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / text", "file": "releases/3-9-0-alpha-1/security/text.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / text.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / security / xmlrpc server", "file": "releases/3-9-0-alpha-1/security/xmlrpc-server.md", "summary": "Open when checking Python 3.9.0 alpha 1 / security / xmlrpc server.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

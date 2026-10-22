@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "File and Directory Access / Python 3.5.0 alpha 1 / library / missing get terminal size samefileerror entries added shutil all", "file": "releases/3-5-0-alpha-1/library/shutil-public-export-completeness.md", "summary": "Open when checking Python 3.5.0 alpha 1 / library / missing get terminal size samefileerror entries added shutil all.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.5.0 alpha 1 / library / tempfile", "file": "releases/3-5-0-alpha-1/library/tempfile.md", "summary": "Open when checking Python 3.5.0 alpha 1 / library / tempfile.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 beta 1 / build / compileall", "file": "releases/3-8-0-beta-1/build/compileall.md", "summary": "Open when checking Python 3.8.0 beta 1 / build / compileall.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / build / python", "file": "releases/3-8-0-beta-1/build/python.md", "summary": "Open when checking Python 3.8.0 beta 1 / build / python.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

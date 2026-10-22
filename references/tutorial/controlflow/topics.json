@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "4.9.4. Arbitrary Argument Lists", "file": "controlflow/arbitrary-argument-lists.md", "summary": "Open when checking 4.9.4. Arbitrary Argument Lists.", "keywords": []},
+    {"topic": "4.4. `break` and `continue` Statements", "file": "controlflow/break-and-continue-statements.md", "summary": "Open when checking 4.4. `break` and `continue` Statements.", "keywords": []},
+    {"topic": "4.9.1. Default Argument Values", "file": "controlflow/default-argument-values.md", "summary": "Open when checking 4.9.1. Default Argument Values.", "keywords": []},
+    {"topic": "4.8. Defining Functions", "file": "controlflow/defining-functions.md", "summary": "Open when checking 4.8. Defining Functions.", "keywords": []},
+    {"topic": "4.9.7. Documentation Strings", "file": "controlflow/documentation-strings.md", "summary": "Open when checking 4.9.7. Documentation Strings.", "keywords": []},
+    {"topic": "4.5. `else` Clauses on Loops", "file": "controlflow/else-clauses-on-loops.md", "summary": "Open when checking 4.5. `else` Clauses on Loops.", "keywords": []},
+    {"topic": "4.2. `for` Statements", "file": "controlflow/for-statements.md", "summary": "Open when checking 4.2. `for` Statements.", "keywords": []},
+    {"topic": "4.9.8. Function Annotations", "file": "controlflow/function-annotations.md", "summary": "Open when checking 4.9.8. Function Annotations.", "keywords": []},
+    {"topic": "4.1. `if` Statements", "file": "controlflow/if-statements.md", "summary": "Open when checking 4.1. `if` Statements.", "keywords": []},
+    {"topic": "4.10. Intermezzo: Coding Style", "file": "controlflow/intermezzo-coding-style.md", "summary": "Open when checking 4.10. Intermezzo: Coding Style.", "keywords": []},
+    {"topic": "4.9.2. Keyword Arguments", "file": "controlflow/keyword-arguments.md", "summary": "Open when checking 4.9.2. Keyword Arguments.", "keywords": []},
+    {"topic": "4.9.3.3. Keyword-Only Arguments", "file": "controlflow/keyword-only-arguments.md", "summary": "Open when checking 4.9.3.3. Keyword-Only Arguments.", "keywords": []},
+    {"topic": "4.9.6. Lambda Expressions", "file": "controlflow/lambda-expressions.md", "summary": "Open when checking 4.9.6. Lambda Expressions.", "keywords": []},
+    {"topic": "Match class attributes, positional fields and nested patterns", "file": "controlflow/match-class-attributes-positional-fields-and-nested-patterns.md", "summary": "Open when checking Match class attributes, positional fields and nested patterns.", "keywords": []},
+    {"topic": "Match guards, mapping patterns, captures and named constants", "file": "controlflow/match-guards-mapping-patterns-captures-and-named-constants.md", "summary": "Open when checking Match guards, mapping patterns, captures and named constants.", "keywords": []},
+    {"topic": "Match literals, OR patterns and tuple captures", "file": "controlflow/match-literals-or-patterns-and-tuple-captures.md", "summary": "Open when checking Match literals, OR patterns and tuple captures.", "keywords": []},
+    {"topic": "4. More Control Flow Tools", "file": "controlflow/more-control-flow-tools.md", "summary": "Open when checking 4. More Control Flow Tools.", "keywords": []},
+    {"topic": "4.9. More on Defining Functions", "file": "controlflow/more-on-defining-functions.md", "summary": "Open when checking 4.9. More on Defining Functions.", "keywords": []},
+    {"topic": "4.6. `pass` Statements", "file": "controlflow/pass-statements.md", "summary": "Open when checking 4.6. `pass` Statements.", "keywords": []},
+    {"topic": "Positional-only and keyword-only definitions and calls", "file": "controlflow/positional-only-and-keyword-only-definitions-and-calls.md", "summary": "Open when checking Positional-only and keyword-only definitions and calls.", "keywords": []},
+    {"topic": "Positional-only names shared with keyword dictionaries", "file": "controlflow/positional-only-names-shared-with-keyword-dictionaries.md", "summary": "Open when checking Positional-only names shared with keyword dictionaries.", "keywords": []},
+    {"topic": "4.9.3.2. Positional-Only Parameters", "file": "controlflow/positional-only-parameters.md", "summary": "Open when checking 4.9.3.2. Positional-Only Parameters.", "keywords": []},
+    {"topic": "4.9.3.1. Positional-or-Keyword Arguments", "file": "controlflow/positional-or-keyword-arguments.md", "summary": "Open when checking 4.9.3.1. Positional-or-Keyword Arguments.", "keywords": []},
+    {"topic": "4.9.3.5. Recap", "file": "controlflow/recap.md", "summary": "Open when checking 4.9.3.5. Recap.", "keywords": []},
+    {"topic": "4.9.3. Special parameters", "file": "controlflow/special-parameters.md", "summary": "Open when checking 4.9.3. Special parameters.", "keywords": []},
+    {"topic": "4.3. The `range()` Function", "file": "controlflow/the-range-function.md", "summary": "Open when checking 4.3. The `range()` Function.", "keywords": []},
+    {"topic": "4.9.5. Unpacking Argument Lists", "file": "controlflow/unpacking-argument-lists.md", "summary": "Open when checking 4.9.5. Unpacking Argument Lists.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.2 release candidate 1 / idle / functions and types", "file": "releases/3-6-2-release-candidate-1/idle/functions-and-types.md", "summary": "Open when checking Python 3.6.2 release candidate 1 / idle / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.2 release candidate 1 / idle / include doc subsubsection covering idle s failure start", "file": "releases/3-6-2-release-candidate-1/idle/include-doc-subsubsection-covering-idle-s-failure-start.md", "summary": "Open when checking Python 3.6.2 release candidate 1 / idle / include doc subsubsection covering idle s failure start.", "keywords": []},
+    {"topic": "Python 3.6.2 release candidate 1 / idle / provide docstrings textview py adopt pep8 names", "file": "releases/3-6-2-release-candidate-1/idle/provide-docstrings-textview-py-adopt-pep8-names.md", "summary": "Open when checking Python 3.6.2 release candidate 1 / idle / provide docstrings textview py adopt pep8 names.", "keywords": []},
+    {"topic": "Python 3.6.2 release candidate 1 / idle / tests and documentation", "file": "releases/3-6-2-release-candidate-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.6.2 release candidate 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

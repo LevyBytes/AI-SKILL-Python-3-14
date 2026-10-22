@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 2 / c api / bring getbufferproc releasebufferproc into stable api", "file": "releases/3-12-0-alpha-2/c-api/bring-getbufferproc-releasebufferproc-into-stable-api.md", "summary": "Open when checking Python 3.12.0 alpha 2 / c api / bring getbufferproc releasebufferproc into stable api.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / c api / frame", "file": "releases/3-12-0-alpha-2/c-api/frame.md", "summary": "Open when checking Python 3.12.0 alpha 2 / c api / frame.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / c api / functions and types", "file": "releases/3-12-0-alpha-2/c-api/functions-and-types.md", "summary": "Open when checking Python 3.12.0 alpha 2 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / c api / memory and lifetimes", "file": "releases/3-12-0-alpha-2/c-api/memory-and-lifetimes.md", "summary": "Open when checking Python 3.12.0 alpha 2 / c api / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / c api / refcounting", "file": "releases/3-12-0-alpha-2/c-api/refcounting.md", "summary": "Open when checking Python 3.12.0 alpha 2 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / c api / subprocess", "file": "releases/3-12-0-alpha-2/c-api/subprocess.md", "summary": "Open when checking Python 3.12.0 alpha 2 / c api / subprocess.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

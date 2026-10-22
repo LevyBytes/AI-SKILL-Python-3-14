@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "numeric protocol C API: Numeric checks and arithmetic object operations", "file": "numeric-protocol/pynumber-check-to-pynumber-positive.md", "summary": "Open when checking numeric checks and arithmetic object operations in numeric protocol C API.", "keywords": []},
+  {"topic": "numeric protocol C API: Numeric unary, bitwise and in-place arithmetic", "file": "numeric-protocol/pynumber-absolute-to-pynumber-inplacetruedivide.md", "summary": "Open when checking numeric unary, bitwise and in-place arithmetic in numeric protocol C API.", "keywords": []},
+  {"topic": "numeric protocol C API: In-place numeric operations and index conversion", "file": "numeric-protocol/pynumber-inplaceremainder-to-pyindex-check.md", "summary": "Open when checking in-place numeric operations and index conversion in numeric protocol C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

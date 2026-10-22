@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "unicodedata: `unicodedata.lookup()`, `unicodedata.name()`, `unicodedata.decimal()`, `unicodedata.digit()`, `unicodedata.numeric()`", "file": "unicodedata/unicodedata-lookup-to-unicodedata-numeric.md", "summary": "Open when checking the documented contracts for `unicodedata.lookup()`, `unicodedata.name()`, `unicodedata.decimal()`, `unicodedata.digit()`, `unicodedata.numeric()` in unicodedata.", "keywords": []},
+  {"topic": "unicodedata: Unicode properties, normalization and database versions", "file": "unicodedata/unicodedata-category-to-unicodedata-ucd-3-2-0.md", "summary": "Open when checking Unicode properties, normalization and database versions in unicodedata.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

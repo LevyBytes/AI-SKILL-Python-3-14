@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Support for Perf Maps", "file": "support-for-perf-maps/pyunstable-perfmapstate-init-to-pyunstable-perfmapstate-fini.md", "summary": "Open when checking Support for Perf Maps.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

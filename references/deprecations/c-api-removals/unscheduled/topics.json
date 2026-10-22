@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "C API pending removal in future versions: Py_TPFLAGS_HAVE_FINALIZE; PyErr_Fetch(); PyErr_NormalizeException(); PyErr_Restore(); PyModule_GetFilename(); PyOS_AfterFork(); PySlice_GetIndicesEx(); PyUnicode_READY(); PyErr_Display(); _PyErr_ChainExceptions(); PyBytesObject.ob_shash member; Thread Local Storage API", "file": "c-api-removals/unscheduled/py-tpflags-have-finalize-through-thread-local-storage-api.md", "summary": "Open when checking C API pending removal in future versions: Py_TPFLAGS_HAVE_FINALIZE; PyErr_Fetch(); PyErr_NormalizeException(); PyErr_Restore(); PyModule_GetFilename(); PyOS_AfterFork(); PySlice_GetIndicesEx(); PyUnicode_READY(); PyErr_Display(); _PyErr_ChainExceptions(); PyBytesObject.ob_shash member; Thread Local Storage API.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.6 final / security / build and platforms", "file": "releases/3-14-6-final/security/build-and-platforms.md", "summary": "Open when checking Python 3.14.6 final / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / bz2", "file": "releases/3-14-6-final/security/bz2.md", "summary": "Open when checking Python 3.14.6 final / security / bz2.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / ftplib", "file": "releases/3-14-6-final/security/ftplib.md", "summary": "Open when checking Python 3.14.6 final / security / ftplib.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / pyexpat", "file": "releases/3-14-6-final/security/pyexpat.md", "summary": "Open when checking Python 3.14.6 final / security / pyexpat.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / refresh bundled libexpat release carries remedy cve", "file": "releases/3-14-6-final/security/refresh-bundled-libexpat-release-carries-remedy-cve.md", "summary": "Open when checking Python 3.14.6 final / security / refresh bundled libexpat release carries remedy cve.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / shutil", "file": "releases/3-14-6-final/security/shutil.md", "summary": "Open when checking Python 3.14.6 final / security / shutil.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / tarfile", "file": "releases/3-14-6-final/security/tarfile.md", "summary": "Open when checking Python 3.14.6 final / security / tarfile.", "keywords": []},
+    {"topic": "Python 3.14.6 final / security / unicodedata", "file": "releases/3-14-6-final/security/unicodedata.md", "summary": "Open when checking Python 3.14.6 final / security / unicodedata.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

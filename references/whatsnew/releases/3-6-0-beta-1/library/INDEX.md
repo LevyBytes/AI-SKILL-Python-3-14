@@ -1,0 +1,61 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.6.0 beta 1 / library / add random choices. [Numeric and Mathematical Modules / Python 3.6.0 beta 1 / library / add random choices](add-random-choices.md).
+- Open when checking Python 3.6.0 beta 1 / library / mmap. [Functional Programming Modules / Python 3.6.0 beta 1 / library / mmap](mmap.md).
+- Open when checking Python 3.6.0 beta 1 / library / numeric behavior. [Functional Programming Modules / Python 3.6.0 beta 1 / library / numeric behavior](numeric-behavior.md).
+- Open when checking Python 3.6.0 beta 1 / library / fixed latent bugs around assigning sqlite3 connection isolation level. [Data Persistence / Python 3.6.0 beta 1 / library / fixed latent bugs around assigning sqlite3 connection isolation level](sqlite-isolation-level-assignment.md).
+- Open when checking Python 3.6.0 beta 1 / library / repair sqlite3 connection cursor crash happened factory yields something other than. [Data Persistence / Python 3.6.0 beta 1 / library / repair sqlite3 connection cursor crash happened factory yields something other than](sqlite-cursor-factory-return-type-crash.md).
+- Open when checking Python 3.6.0 beta 1 / library / corrects crash os spawnv args holds no elements. [Generic Operating System Services / Python 3.6.0 beta 1 / library / corrects crash os spawnv args holds no elements](corrects-crash-os-spawnv-args-holds-no-elements.md).
+- Open when checking Python 3.6.0 beta 1 / library / platform. [Generic Operating System Services / Python 3.6.0 beta 1 / library / platform](platform.md).
+- Open when checking Python 3.6.0 beta 1 / library / pathlib. [Generic Operating System Services / Python 3.6.0 beta 1 / library / pathlib](pathlib.md).
+- Open when checking Python 3.6.0 beta 1 / library / better behaviour logging handlers queuelistener. [Generic Operating System Services / Python 3.6.0 beta 1 / library / better behaviour logging handlers queuelistener](better-behaviour-logging-handlers-queuelistener.md).
+- Open when checking Python 3.6.0 beta 1 / library / build and platforms. [Generic Operating System Services / Python 3.6.0 beta 1 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.6.0 beta 1 / library / binary. [Internet Data Handling / Python 3.6.0 beta 1 / library / binary](binary.md).
+- Open when checking Python 3.6.0 beta 1 / library / collections and iteration. [Internet Data Handling / Python 3.6.0 beta 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.6.0 beta 1 / library / email mime. [Internet Data Handling / Python 3.6.0 beta 1 / library / email mime](email-mime.md).
+- Open when checking Python 3.6.0 beta 1 / library / exit message code interact can configured. [Custom Python Interpreters / Python 3.6.0 beta 1 / library / exit message code interact can configured](exit-message-code-interact-can-configured.md).
+- Open when checking Python 3.6.0 beta 1 / library / inspect return value winsound messagebeep. [MS Windows Specific Services / Python 3.6.0 beta 1 / library / inspect return value winsound messagebeep](inspect-return-value-winsound-messagebeep.md).
+- Open when checking Python 3.6.0 beta 1 / library / repair snd memory support inside winsound playsound. [MS Windows Specific Services / Python 3.6.0 beta 1 / library / repair snd memory support inside winsound playsound](repair-snd-memory-support-inside-winsound-playsound.md).
+- Open when checking Python 3.6.0 beta 1 / library / compiler and parser. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.6.0 beta 1 / library / groups regular expression match object can reached via getitem. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / groups regular expression match object can reached via getitem](regex-match-group-subscript-access.md).
+- Open when checking Python 3.6.0 beta 1 / library / inline flags ought appear only beginning regular expression. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / inline flags ought appear only beginning regular expression](inline-flags-ought-appear-only-beginning-regular-expression.md).
+- Open when checking Python 3.6.0 beta 1 / library / rely sqlite3 get autocommit rather than setting connection intransaction hand. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / rely sqlite3 get autocommit rather than setting connection intransaction hand](sqlite-transaction-state-autocommit-query.md).
+- Open when checking Python 3.6.0 beta 1 / library / smtplib. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / smtplib](smtplib.md).
+- Open when checking Python 3.6.0 beta 1 / library / sqlite3. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.6.0 beta 1 / library / ssl context secure defaults. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / ssl context secure defaults](ssl-context-secure-defaults.md).
+- Open when checking Python 3.6.0 beta 1 / library / xmlrpc. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / xmlrpc](xmlrpc.md).
+- Open when checking Python 3.6.0 beta 1 / library / zipfile. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / zipfile](zipfile.md).
+- Open when checking Python 3.6.0 beta 1 / library / added support modifier spans within regular expressions. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / added support modifier spans within regular expressions](added-support-modifier-spans-within-regular-expressions.md).
+- Open when checking Python 3.6.0 beta 1 / library / base64. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / base64](base64.md).
+- Open when checking Python 3.6.0 beta 1 / library / enum. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / enum](enum.md).
+- Open when checking Python 3.6.0 beta 1 / library / mailcap. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / mailcap](mailcap.md).
+- Open when checking Python 3.6.0 beta 1 / library / refresh lib2to3 grammar covers unpacking generalizations introduced. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / refresh lib2to3 grammar covers unpacking generalizations introduced](lib2to3-generalized-unpacking-grammar.md).
+- Open when checking Python 3.6.0 beta 1 / library / stop handing str charset mimetext set payload. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / stop handing str charset mimetext set payload](stop-handing-str-charset-mimetext-set-payload.md).
+- Open when checking Python 3.6.0 beta 1 / library / better diagnostics truncated pickle data within c unpickler. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / better diagnostics truncated pickle data within c unpickler](better-diagnostics-truncated-pickle-data-within-c-unpickler.md).
+- Open when checking Python 3.6.0 beta 1 / library / blake2 blake2b blake2s added hashlib. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / blake2 blake2b blake2s added hashlib](blake2-blake2b-blake2s-added-hashlib.md).
+- Open when checking Python 3.6.0 beta 1 / library / text and unicode. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.6.0 beta 1 / library / urllib. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / urllib](urllib.md).
+- Open when checking Python 3.6.0 beta 1 / library / distribution. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / distribution](distribution.md).
+- Open when checking Python 3.6.0 beta 1 / library / repair connection commit regression. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / repair connection commit regression](repair-connection-commit-regression.md).
+- Open when checking Python 3.6.0 beta 1 / library / socket. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / socket](socket.md).
+- Open when checking Python 3.6.0 beta 1 / library / suppress stray output os x paired gnu readline. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / suppress stray output os x paired gnu readline](suppress-stray-output-os-x-paired-gnu-readline.md).
+- Open when checking Python 3.6.0 beta 1 / library / asyncio. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.6.0 beta 1 / library / correct unnormalised fraction pow outcome both exponent base negative. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / correct unnormalised fraction pow outcome both exponent base negative](negative-fraction-power-normalization.md).
+- Open when checking Python 3.6.0 beta 1 / library / posixpath ismount properly identifies mount points user lacks permission reach. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / posixpath ismount properly identifies mount points user lacks permission reach](mount-point-detection-without-access-permission.md).
+- Open when checking Python 3.6.0 beta 1 / library / queries written ctes cursor description populated. [Library compatibility and maintenance / Python 3.6.0 beta 1 / library / queries written ctes cursor description populated](queries-written-ctes-cursor-description-populated.md).
+- Open when checking Python 3.6.0 beta 1 / library / email. [Combined library maintenance / Python 3.6.0 beta 1 / library / email](email.md).
+- Open when checking Python 3.6.0 beta 1 / library / modules. [Combined library maintenance / Python 3.6.0 beta 1 / library / modules](modules.md).
+- Open when checking Python 3.6.0 beta 1 / library / os. [Combined library maintenance / Python 3.6.0 beta 1 / library / os](os.md).
+- Open when checking Python 3.6.0 beta 1 / library / constants. [Combined library maintenance / Python 3.6.0 beta 1 / library / constants](constants.md).
+- Open when checking Python 3.6.0 beta 1 / library / distutils. [Combined library maintenance / Python 3.6.0 beta 1 / library / distutils](distutils.md).
+- Open when checking Python 3.6.0 beta 1 / library / files and paths. [Combined library maintenance / Python 3.6.0 beta 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.6.0 beta 1 / library / functions and types. [Combined library maintenance / Python 3.6.0 beta 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.6.0 beta 1 / library / hashlib. [Combined library maintenance / Python 3.6.0 beta 1 / library / hashlib](hashlib.md).
+- Open when checking Python 3.6.0 beta 1 / library / imports and modules. [Combined library maintenance / Python 3.6.0 beta 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.6.0 beta 1 / library / python. [Combined library maintenance / Python 3.6.0 beta 1 / library / python](python.md).
+- Open when checking Python 3.6.0 beta 1 / library / random. [Combined library maintenance / Python 3.6.0 beta 1 / library / random](random.md).
+- Open when checking Python 3.6.0 beta 1 / library / ssl. [Combined library maintenance / Python 3.6.0 beta 1 / library / ssl](ssl.md).
+- Open when checking Python 3.6.0 beta 1 / library / multiprocessing. [Combined library maintenance / Python 3.6.0 beta 1 / library / multiprocessing](multiprocessing.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 2 / library / argparse", "file": "releases/3-7-0-alpha-2/library/argparse.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / argparse.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / build and platforms", "file": "releases/3-7-0-alpha-2/library/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / cancel asyncio wait for future sooner timeout", "file": "releases/3-7-0-alpha-2/library/cancel-asyncio-wait-for-future-sooner-timeout.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / cancel asyncio wait for future sooner timeout.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / collections and iteration", "file": "releases/3-7-0-alpha-2/library/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / concurrent futures", "file": "releases/3-7-0-alpha-2/library/concurrent-futures.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / ctypes", "file": "releases/3-7-0-alpha-2/library/ctypes.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / ctypes.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / ensurepip", "file": "releases/3-7-0-alpha-2/library/ensurepip.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / ensurepip.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / exceptions and tracebacks", "file": "releases/3-7-0-alpha-2/library/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / full regular expression cache no longer dumped entirely once", "file": "releases/3-7-0-alpha-2/library/full-regular-expression-cache-no-longer-dumped-entirely-once.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / full regular expression cache no longer dumped entirely once.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / functions and types", "file": "releases/3-7-0-alpha-2/library/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / imports and modules", "file": "releases/3-7-0-alpha-2/library/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / memory and lifetimes", "file": "releases/3-7-0-alpha-2/library/memory-and-lifetimes.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / netrc", "file": "releases/3-7-0-alpha-2/library/netrc.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / netrc.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / prevent crashes itertools groupby iterators iterated concurrently", "file": "concurrent-groupby-iterator-crashes.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / prevent crashes itertools groupby iterators iterated concurrently.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / pydoc", "file": "releases/3-7-0-alpha-2/library/pydoc.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / pydoc.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / stop crashes inside elementtree caused unsafe cleanup element text element tail", "file": "elementtree-text-tail-cleanup-safety.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / stop crashes inside elementtree caused unsafe cleanup element text element tail.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / text and unicode", "file": "releases/3-7-0-alpha-2/library/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / text", "file": "releases/3-7-0-alpha-2/library/text.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / text.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / threads and concurrency", "file": "releases/3-7-0-alpha-2/library/threads-and-concurrency.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / venv", "file": "releases/3-7-0-alpha-2/library/venv.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / venv.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / library / zipapp", "file": "releases/3-7-0-alpha-2/library/zipapp.md", "summary": "Open when checking Python 3.7.0 alpha 2 / library / zipapp.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

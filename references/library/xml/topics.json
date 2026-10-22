@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "XML Processing Modules", "file": "xml/xml-processing-modules.md", "summary": "Open when checking XML Processing Modules.", "keywords": []},
+    {"topic": "XML security", "file": "xml/xml-security.md", "summary": "Open when checking XML security.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

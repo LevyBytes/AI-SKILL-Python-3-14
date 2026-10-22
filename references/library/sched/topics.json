@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "sched — `sched` — Event scheduler", "file": "sched/sched-scheduler-class.md", "summary": "Open when checking sched — `sched` — Event scheduler.", "keywords": []},
+    {"topic": "sched — Scheduler Objects", "file": "sched/scheduler-enterabs-to-scheduler-queue.md", "summary": "Open when checking sched — Scheduler Objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

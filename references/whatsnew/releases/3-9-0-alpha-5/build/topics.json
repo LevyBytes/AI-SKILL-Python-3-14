@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 5 / build / build and platforms", "file": "releases/3-9-0-alpha-5/build/build-and-platforms.md", "summary": "Open when checking Python 3.9.0 alpha 5 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / build / subprocess", "file": "releases/3-9-0-alpha-5/build/subprocess.md", "summary": "Open when checking Python 3.9.0 alpha 5 / build / subprocess.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / build / sys", "file": "releases/3-9-0-alpha-5/build/sys.md", "summary": "Open when checking Python 3.9.0 alpha 5 / build / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

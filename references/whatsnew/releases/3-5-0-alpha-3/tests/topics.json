@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 3 / tests / head off test urllib2net failures stemming ftp connection timeout", "file": "url-network-test-ftp-timeout.md", "summary": "Open when checking Python 3.5.0 alpha 3 / tests / head off test urllib2net failures stemming ftp connection timeout.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 3 / tests / tests and documentation", "file": "releases/3-5-0-alpha-3/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.5.0 alpha 3 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

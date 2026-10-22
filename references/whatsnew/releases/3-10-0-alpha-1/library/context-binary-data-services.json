@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Binary Data Services / Python 3.10.0 alpha 1 / library / codecs", "file": "releases/3-10-0-alpha-1/library/codecs.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / codecs.", "keywords": []},
+  {"topic": "Binary Data Services / Python 3.10.0 alpha 1 / library / struct", "file": "releases/3-10-0-alpha-1/library/struct.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / struct.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

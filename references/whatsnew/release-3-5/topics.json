@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Overview and scope / Upstream feature guide navigation for Python 3.5", "file": "release-3-5/release-overview.md", "summary": "Open when checking Upstream feature guide navigation for Python 3.5.", "keywords": []},
+  {"topic": "Summary – Release highlights / What’s New In Python 3.5 / Summary – Release highlights — collections, sys, typing, zipapp", "file": "release-3-5/summary-release-highlights.md", "summary": "Open when checking What’s New In Python 3.5 / Summary – Release highlights — collections, sys, typing, zipapp.", "keywords": []},
+  {"topic": "New Features", "file": "release-3-5/context-new-features.md", "summary": "Open when checking new features.", "keywords": []},
+  {"topic": "New Modules", "file": "release-3-5/context-new-modules.md", "summary": "Open when checking new modules.", "keywords": []},
+  {"topic": "Improved Modules", "file": "release-3-5/context-improved-modules.md", "summary": "Open when checking improved modules.", "keywords": []},
+  {"topic": "Other module-level changes / What’s New In Python 3.5 / Other module-level changes — codecs, mmap, socket, ssl", "file": "release-3-5/other-module-level-changes.md", "summary": "Open when checking What’s New In Python 3.5 / Other module-level changes — codecs, mmap, socket, ssl.", "keywords": []},
+  {"topic": "Optimizations / What’s New In Python 3.5 / Optimizations — fractions, io, ipaddress, json, marshal, os, random", "file": "release-3-5/optimizations.md", "summary": "Open when checking What’s New In Python 3.5 / Optimizations — fractions, io, ipaddress, json, marshal, os, random.", "keywords": []},
+  {"topic": "Build and C API Changes / What’s New In Python 3.5 / Build and C API Changes", "file": "release-3-5/build-and-c-api-changes.md", "summary": "Open when checking What’s New In Python 3.5 / Build and C API Changes.", "keywords": []},
+  {"topic": "Deprecated", "file": "release-3-5/context-deprecated.md", "summary": "Open when checking deprecated.", "keywords": []},
+  {"topic": "Removed / What’s New In Python 3.5 / API and Feature Removals — asyncio, ftplib", "file": "release-3-5/api-and-feature-removals.md", "summary": "Open when checking What’s New In Python 3.5 / API and Feature Removals — asyncio, ftplib.", "keywords": []},
+  {"topic": "Porting to Python 3.5", "file": "release-3-5/context-porting-to-python-3-5.md", "summary": "Open when checking porting to python 3.5.", "keywords": []},
+  {"topic": "Notable changes in Python 3.5.4", "file": "release-3-5/context-notable-changes-in-python-3-5-4.md", "summary": "Open when checking notable changes in python 3.5.4.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

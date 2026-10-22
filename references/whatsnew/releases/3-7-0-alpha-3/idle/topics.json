@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 3 / idle / dialog", "file": "releases/3-7-0-alpha-3/idle/dialog.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / dialog.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / idle / files and paths", "file": "releases/3-7-0-alpha-3/idle/files-and-paths.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / idle / imports and modules", "file": "releases/3-7-0-alpha-3/idle/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / idle / tests and documentation", "file": "releases/3-7-0-alpha-3/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / idle / tk", "file": "releases/3-7-0-alpha-3/idle/tk.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / tk.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / idle / traceback", "file": "releases/3-7-0-alpha-3/idle/traceback.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / traceback.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / idle / windows", "file": "releases/3-7-0-alpha-3/idle/windows.md", "summary": "Open when checking Python 3.7.0 alpha 3 / idle / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.2 release candidate 2 / security / os", "file": "releases/3-6-2-release-candidate-2/security/os.md", "summary": "Open when checking Python 3.6.2 release candidate 2 / security / os.", "keywords": []},
+    {"topic": "Python 3.6.2 release candidate 2 / security / repair urllib parse splithost parses fragments accurately", "file": "releases/3-6-2-release-candidate-2/security/repair-urllib-parse-splithost-parses-fragments-accurately.md", "summary": "Open when checking Python 3.6.2 release candidate 2 / security / repair urllib parse splithost parses fragments accurately.", "keywords": []},
+    {"topic": "Python 3.6.2 release candidate 2 / security / subprocess", "file": "releases/3-6-2-release-candidate-2/security/subprocess.md", "summary": "Open when checking Python 3.6.2 release candidate 2 / security / subprocess.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

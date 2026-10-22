@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 5 / documentation / string", "file": "releases/3-14-0-alpha-5/documentation/string.md", "summary": "Open when checking Python 3.14.0 alpha 5 / documentation / string.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 5 / documentation / tests and documentation", "file": "releases/3-14-0-alpha-5/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.14.0 alpha 5 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

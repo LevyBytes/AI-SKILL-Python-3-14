@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 beta 1 / security / bump bundled libexpat", "file": "releases/3-13-0-beta-1/security/bump-bundled-libexpat.md", "summary": "Open when checking Python 3.13.0 beta 1 / security / bump bundled libexpat.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / security / hashlib", "file": "releases/3-13-0-beta-1/security/hashlib.md", "summary": "Open when checking Python 3.13.0 beta 1 / security / hashlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

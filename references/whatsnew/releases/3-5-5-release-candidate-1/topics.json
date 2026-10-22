@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "core and builtins", "file": "releases/3-5-5-release-candidate-1/core-and-builtins/INDEX.md", "summary": "Open when checking core and builtins.", "keywords": []},
+    {"topic": "library", "file": "releases/3-5-5-release-candidate-1/library/INDEX.md", "summary": "Open when checking library.", "keywords": []},
+    {"topic": "release overview", "file": "releases/3-5-5-release-candidate-1/release-overview/INDEX.md", "summary": "Open when checking release overview.", "keywords": []},
+    {"topic": "security", "file": "releases/3-5-5-release-candidate-1/security/INDEX.md", "summary": "Open when checking security.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

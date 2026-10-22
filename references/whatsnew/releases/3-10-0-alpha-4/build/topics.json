@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 4 / build / build and platforms", "file": "releases/3-10-0-alpha-4/build/build-and-platforms.md", "summary": "Open when checking Python 3.10.0 alpha 4 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / build / corrected builtin available check older compilers", "file": "releases/3-10-0-alpha-4/build/corrected-builtin-available-check-older-compilers.md", "summary": "Open when checking Python 3.10.0 alpha 4 / build / corrected builtin available check older compilers.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / build / modules", "file": "releases/3-10-0-alpha-4/build/modules.md", "summary": "Open when checking Python 3.10.0 alpha 4 / build / modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / build / platform", "file": "releases/3-10-0-alpha-4/build/platform.md", "summary": "Open when checking Python 3.10.0 alpha 4 / build / platform.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / build / turned libpython3 so vxworks", "file": "releases/3-10-0-alpha-4/build/turned-libpython3-so-vxworks.md", "summary": "Open when checking Python 3.10.0 alpha 4 / build / turned libpython3 so vxworks.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

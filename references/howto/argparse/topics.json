@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Argparse Tutorial", "file": "argparse/argparse-tutorial.md", "summary": "Open when checking Argparse Tutorial.", "keywords": []},
+    {"topic": "Boolean verbose flag with store_true", "file": "argparse/boolean-verbose-flag-with-store-true.md", "summary": "Open when checking Boolean verbose flag with store_true.", "keywords": []},
+    {"topic": "Combining positional square and verbose flag", "file": "argparse/combining-positional-square-and-verbose-flag.md", "summary": "Open when checking Combining positional square and verbose flag.", "keywords": []},
+    {"topic": "Concepts", "file": "argparse/concepts.md", "summary": "Open when checking Concepts.", "keywords": []},
+    {"topic": "Conclusion", "file": "argparse/conclusion.md", "summary": "Open when checking Conclusion.", "keywords": []},
+    {"topic": "Conflicting options", "file": "argparse/conflicting-options.md", "summary": "Open when checking Conflicting options.", "keywords": []},
+    {"topic": "Counting verbosity flags and None behavior", "file": "argparse/counting-verbosity-flags-and-none-behavior.md", "summary": "Open when checking Counting verbosity flags and None behavior.", "keywords": []},
+    {"topic": "Custom type converters", "file": "argparse/custom-type-converters.md", "summary": "Open when checking Custom type converters.", "keywords": []},
+    {"topic": "Default zero for absent verbosity", "file": "argparse/default-zero-for-absent-verbosity.md", "summary": "Open when checking Default zero for absent verbosity.", "keywords": []},
+    {"topic": "Getting a little more advanced", "file": "argparse/getting-a-little-more-advanced.md", "summary": "Open when checking Getting a little more advanced.", "keywords": []},
+    {"topic": "How to translate the argparse output continuation", "file": "argparse/how-to-translate-the-argparse-output-continuation.md", "summary": "Open when checking How to translate the argparse output continuation.", "keywords": []},
+    {"topic": "How to translate the argparse output", "file": "argparse/how-to-translate-the-argparse-output.md", "summary": "Open when checking How to translate the argparse output.", "keywords": []},
+    {"topic": "Numeric positional argument conversion and errors", "file": "argparse/numeric-positional-argument-conversion-and-errors.md", "summary": "Open when checking Numeric positional argument conversion and errors.", "keywords": []},
+    {"topic": "Numeric verbosity levels and invalid choices", "file": "argparse/numeric-verbosity-levels-and-invalid-choices.md", "summary": "Open when checking Numeric verbosity levels and invalid choices.", "keywords": []},
+    {"topic": "Optional verbosity values and omission", "file": "argparse/optional-verbosity-values-and-omission.md", "summary": "Open when checking Optional verbosity values and omission.", "keywords": []},
+    {"topic": "Positional echo argument and parser results", "file": "argparse/positional-echo-argument-and-parser-results.md", "summary": "Open when checking Positional echo argument and parser results.", "keywords": []},
+    {"topic": "Positional help text", "file": "argparse/positional-help-text.md", "summary": "Open when checking Positional help text.", "keywords": []},
+    {"topic": "Restricting verbosity with choices", "file": "argparse/restricting-verbosity-with-choices.md", "summary": "Open when checking Restricting verbosity with choices.", "keywords": []},
+    {"topic": "Saturating verbosity count", "file": "argparse/saturating-verbosity-count.md", "summary": "Open when checking Saturating verbosity count.", "keywords": []},
+    {"topic": "Short options", "file": "argparse/short-options.md", "summary": "Open when checking Short options.", "keywords": []},
+    {"topic": "Specifying ambiguous arguments", "file": "argparse/specifying-ambiguous-arguments.md", "summary": "Open when checking Specifying ambiguous arguments.", "keywords": []},
+    {"topic": "The basics", "file": "argparse/the-basics.md", "summary": "Open when checking The basics.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "comparison_helpers", "file": "references/examples/ndiff-command/comparison_helpers.py", "summary": "Open when checking comparison_helpers.", "keywords": []},
+    {"topic": "run_ndiff", "file": "references/examples/ndiff-command/run_ndiff.py", "summary": "Open when checking run_ndiff.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 beta 1 / c api / datetime", "file": "releases/3-13-0-beta-1/c-api/datetime.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / datetime.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / c api / exceptions and tracebacks", "file": "releases/3-13-0-beta-1/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / c api / interp lifecycle", "file": "releases/3-13-0-beta-1/c-api/interp-lifecycle.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / interp lifecycle.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / c api / intro", "file": "releases/3-13-0-beta-1/c-api/intro.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / intro.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / c api / provide c api emitting monitoring events", "file": "releases/3-13-0-beta-1/c-api/provide-c-api-emitting-monitoring-events.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / provide c api emitting monitoring events.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / c api / threads", "file": "releases/3-13-0-beta-1/c-api/threads.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / threads.", "keywords": []},
+    {"topic": "Python 3.13.0 beta 1 / c api / time", "file": "releases/3-13-0-beta-1/c-api/time.md", "summary": "Open when checking Python 3.13.0 beta 1 / c api / time.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

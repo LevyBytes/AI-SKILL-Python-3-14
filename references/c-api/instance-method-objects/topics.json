@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Instance Method Objects", "file": "instance-method-objects/pyinstancemethod-type-to-pyinstancemethod-get-function.md", "summary": "Open when checking Instance Method Objects.", "keywords": []},
+    {"topic": "Method Objects", "file": "instance-method-objects/pymethod-type-to-pymethod-get-self.md", "summary": "Open when checking Method Objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

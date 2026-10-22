@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / windows / build and platforms", "file": "releases/3-11-0-alpha-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / windows / files and paths", "file": "releases/3-11-0-alpha-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / windows / follow on defect stemming https bugs python org issue26903", "file": "releases/3-11-0-alpha-1/windows/follow-on-defect-stemming-https-bugs-python-org-issue26903.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / follow on defect stemming https bugs python org issue26903.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / windows / mimetypes", "file": "releases/3-11-0-alpha-1/windows/mimetypes.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / mimetypes.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / windows / platform", "file": "releases/3-11-0-alpha-1/windows/platform.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / platform.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / windows / sqlite3", "file": "releases/3-11-0-alpha-1/windows/sqlite3.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / sqlite3.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / windows / threading", "file": "releases/3-11-0-alpha-1/windows/threading.md", "summary": "Open when checking Python 3.11.0 alpha 1 / windows / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

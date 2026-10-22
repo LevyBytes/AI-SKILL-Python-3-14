@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "7.2.2. Adding Python to an iOS project", "file": "using-python-on-ios/adding-python-to-an-ios-project.md", "summary": "Open when checking 7.2.2. Adding Python to an iOS project.", "keywords": []},
+    {"topic": "7.3. App Store Compliance", "file": "using-python-on-ios/app-store-compliance.md", "summary": "Open when checking 7.3. App Store Compliance.", "keywords": []},
+    {"topic": "7.1.4. Binary extension modules", "file": "using-python-on-ios/binary-extension-modules.md", "summary": "Open when checking 7.1.4. Binary extension modules.", "keywords": []},
+    {"topic": "7.1.5. Compiler stub binaries", "file": "using-python-on-ios/compiler-stub-binaries.md", "summary": "Open when checking 7.1.5. Compiler stub binaries.", "keywords": []},
+    {"topic": "7.3.1. Incompatible code in the standard library", "file": "using-python-on-ios/incompatible-code-in-the-standard-library.md", "summary": "Open when checking 7.3.1. Incompatible code in the standard library.", "keywords": []},
+    {"topic": "iOS library installation build phase and interpreter configuration", "file": "ios-library-installation-and-interpreter-configuration.md", "summary": "Open when checking iOS library installation build phase and interpreter configuration.", "keywords": []},
+    {"topic": "7.1.1. iOS version compatibility", "file": "using-python-on-ios/ios-version-compatibility.md", "summary": "Open when checking 7.1.1. iOS version compatibility.", "keywords": []},
+    {"topic": "7.1.2. Platform identification", "file": "using-python-on-ios/platform-identification.md", "summary": "Open when checking 7.1.2. Platform identification.", "keywords": []},
+    {"topic": "7.3.2. Privacy manifests", "file": "using-python-on-ios/privacy-manifests.md", "summary": "Open when checking 7.3.2. Privacy manifests.", "keywords": []},
+    {"topic": "7.1.3. Standard library availability", "file": "using-python-on-ios/standard-library-availability.md", "summary": "Open when checking 7.1.3. Standard library availability.", "keywords": []},
+    {"topic": "7.2.3. Testing a Python package", "file": "using-python-on-ios/testing-a-python-package.md", "summary": "Open when checking 7.2.3. Testing a Python package.", "keywords": []},
+    {"topic": "7.2.1. Tools for building iOS apps", "file": "using-python-on-ios/tools-for-building-ios-apps.md", "summary": "Open when checking 7.2.1. Tools for building iOS apps.", "keywords": []},
+    {"topic": "7. Using Python on iOS", "file": "using-python-on-ios/using-python-on-ios.md", "summary": "Open when checking 7. Using Python on iOS.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

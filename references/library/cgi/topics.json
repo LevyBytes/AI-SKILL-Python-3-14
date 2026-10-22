@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "cgi — `cgi` — Common Gateway Interface support", "file": "cgi/cgi-common-gateway-interface-support.md", "summary": "Open when checking cgi — `cgi` — Common Gateway Interface support.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,21 @@
+# What's New In Python 3.13 / os — os, tempfile
+
+### os
+
+- A new [`process_cpu_count()`](https://docs.python.org/3.14/library/os.html#os.process_cpu_count) function reports how many logical CPU cores the current process's calling thread may use. (Contributed by Victor Stinner in [gh-109649](https://github.com/python/cpython/issues/109649).)
+
+- Both [`cpu_count()`](https://docs.python.org/3.14/library/os.html#os.cpu_count) and [`process_cpu_count()`](https://docs.python.org/3.14/library/os.html#os.process_cpu_count) accept an override via the fresh environment variable [`PYTHON_CPU_COUNT`](https://docs.python.org/3.14/using/cmdline.html#envvar-PYTHON_CPU_COUNT) or the fresh command-line flag [`-X cpu_count`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-X). The flag helps anyone who must cap a container's CPU budget without editing application code or the container image. (Contributed by Donghee Na in [gh-109595](https://github.com/python/cpython/issues/109595).)
+
+- A [low level interface](https://docs.python.org/3.14/library/os.html#os-timerfd) to Linux's *[timer file descriptors](https://manpages.debian.org/timerfd_create(2))* has been added through [`timerfd_create()`](https://docs.python.org/3.14/library/os.html#os.timerfd_create), [`timerfd_settime()`](https://docs.python.org/3.14/library/os.html#os.timerfd_settime), [`timerfd_settime_ns()`](https://docs.python.org/3.14/library/os.html#os.timerfd_settime_ns), [`timerfd_gettime()`](https://docs.python.org/3.14/library/os.html#os.timerfd_gettime), [`timerfd_gettime_ns()`](https://docs.python.org/3.14/library/os.html#os.timerfd_gettime_ns), [`TFD_NONBLOCK`](https://docs.python.org/3.14/library/os.html#os.TFD_NONBLOCK), [`TFD_CLOEXEC`](https://docs.python.org/3.14/library/os.html#os.TFD_CLOEXEC), [`TFD_TIMER_ABSTIME`](https://docs.python.org/3.14/library/os.html#os.TFD_TIMER_ABSTIME), and [`TFD_TIMER_CANCEL_ON_SET`](https://docs.python.org/3.14/library/os.html#os.TFD_TIMER_CANCEL_ON_SET) (Contributed by Masaru Tsuchiyama in [gh-108277](https://github.com/python/cpython/issues/108277).)
+
+- Windows now exposes both [`lchmod()`](https://docs.python.org/3.14/library/os.html#os.lchmod) and the *follow_symlinks* argument of [`chmod()`](https://docs.python.org/3.14/library/os.html#os.chmod). Be aware that on Windows the *follow_symlinks* default for `lchmod()` is `False`. (Contributed by Serhiy Storchaka in [gh-59616](https://github.com/python/cpython/issues/59616).)
+
+- Windows now supports [`fchmod()`](https://docs.python.org/3.14/library/os.html#os.fchmod) along with file descriptor handling in [`chmod()`](https://docs.python.org/3.14/library/os.html#os.chmod). (Contributed by Serhiy Storchaka in [gh-113191](https://github.com/python/cpython/issues/113191).)
+
+- On Windows, both [`mkdir()`](https://docs.python.org/3.14/library/os.html#os.mkdir) and [`makedirs()`](https://docs.python.org/3.14/library/os.html#os.makedirs) accept a *mode* of `0o700` so the new directory gets access control applied. That side-affects [`tempfile.mkdtemp()`](https://docs.python.org/3.14/library/tempfile.html#tempfile.mkdtemp) too and serves as a mitigation for [**CVE 2024-4030**](https://www.cve.org/CVERecord?id=CVE-2024-4030). Any other *mode* value stays ignored. (Contributed by Steve Dower in [gh-118486](https://github.com/python/cpython/issues/118486).)
+
+- Passing `None` as the *env* argument to [`posix_spawn()`](https://docs.python.org/3.14/library/os.html#os.posix_spawn) is now allowed; the freshly spawned process then inherits the current process environment. (Contributed by Jakub Kulik in [gh-113119](https://github.com/python/cpython/issues/113119).)
+
+- Within its *file_actions* parameter, [`posix_spawn()`](https://docs.python.org/3.14/library/os.html#os.posix_spawn) can now apply the [`POSIX_SPAWN_CLOSEFROM`](https://docs.python.org/3.14/library/os.html#os.POSIX_SPAWN_CLOSEFROM) attribute wherever the platform offers `posix_spawn_file_actions_addclosefrom_np()`. (Contributed by Jakub Kulik in [gh-113117](https://github.com/python/cpython/issues/113117).)
+
+[Subject index](INDEX.md) · [Previous source section](multiprocessing.md) · [Next source section](os-path.md) · [Release/subject declaration](summary-release-highlights.md)

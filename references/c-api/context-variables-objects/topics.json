@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "context variables objects C API: Context-variable object API versions and types", "file": "context-variables-objects/context-variables-objects.md", "summary": "Open when checking context-variable object API versions and types in context variables objects C API.", "keywords": []},
+  {"topic": "context variables objects C API: Context tokens, copies, entry/exit and watchers", "file": "context-variables-objects/pycontexttoken-to-pycontext-clearwatcher.md", "summary": "Open when checking context tokens, copies, entry/exit and watchers in context variables objects C API.", "keywords": []},
+  {"topic": "context variables objects C API: `PyContextEvent`, `PyContextVar_New()`, `PyContextVar_Get()`, `PyContextVar_Set()`, `PyContextVar_Reset()`", "file": "context-variables-objects/pycontextevent-to-pycontextvar-reset.md", "summary": "Open when checking the documented contracts for `PyContextEvent`, `PyContextVar_New()`, `PyContextVar_Get()`, `PyContextVar_Set()`, `PyContextVar_Reset()` in context variables objects C API.", "keywords": []},
+  {"topic": "type PyContext", "file": "context-variables-objects/pycontext.md", "summary": "Open when checking type PyContext.", "keywords": []},
+  {"topic": "type PyContextVar", "file": "context-variables-objects/pycontextvar.md", "summary": "Open when checking type PyContextVar.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

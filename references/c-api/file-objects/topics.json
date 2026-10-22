@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "File objects", "file": "file-objects/pyfile-fromfd-to-pyfile-writestring.md", "summary": "Open when checking File objects.", "keywords": []},
+    {"topic": "Soft-deprecated API", "file": "file-objects/pyfile-newstdprinter-to-pystdprinter-type.md", "summary": "Open when checking Soft-deprecated API.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

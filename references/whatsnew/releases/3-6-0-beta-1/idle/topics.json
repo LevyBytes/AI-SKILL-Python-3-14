@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 beta 1 / idle / add larger font sizes classroom projection add version title", "file": "releases/3-6-0-beta-1/idle/add-larger-font-sizes-classroom-projection-add-version-title.md", "summary": "Open when checking Python 3.6.0 beta 1 / idle / add larger font sizes classroom projection add version title.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / idle / collections and iteration", "file": "releases/3-6-0-beta-1/idle/collections-and-iteration.md", "summary": "Open when checking Python 3.6.0 beta 1 / idle / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / idle / modules", "file": "releases/3-6-0-beta-1/idle/modules.md", "summary": "Open when checking Python 3.6.0 beta 1 / idle / modules.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / idle / shell menu gained interrupt execution c", "file": "releases/3-6-0-beta-1/idle/shell-menu-gained-interrupt-execution-c.md", "summary": "Open when checking Python 3.6.0 beta 1 / idle / shell menu gained interrupt execution c.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / idle / tests and documentation", "file": "releases/3-6-0-beta-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.6.0 beta 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / idle / within idle console differences section note exec usage means", "file": "releases/3-6-0-beta-1/idle/within-idle-console-differences-section-note-exec-usage-means.md", "summary": "Open when checking Python 3.6.0 beta 1 / idle / within idle console differences section note exec usage means.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

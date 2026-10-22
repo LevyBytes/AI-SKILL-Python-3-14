@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Upstream advanced development, debugging and profiling navigation", "file": "advanced-development-debugging-and-profiling-index.md", "summary": "Open when checking Upstream advanced development, debugging and profiling navigation.", "keywords": []},
+    {"topic": "Upstream general HOWTO topic navigation", "file": "python-howtos/upstream-general-howto-topic-navigation.md", "summary": "Open when checking Upstream general HOWTO topic navigation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

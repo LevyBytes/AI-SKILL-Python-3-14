@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "New Modules / What's New In Python 3.4 / asyncio — asyncio", "file": "release-3-4/asyncio.md", "summary": "Open when checking What's New In Python 3.4 / asyncio — asyncio.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.4 / ensurepip — ensurepip", "file": "release-3-4/ensurepip.md", "summary": "Open when checking What's New In Python 3.4 / ensurepip — ensurepip.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.4 / enum — enum, socket", "file": "release-3-4/enum.md", "summary": "Open when checking What's New In Python 3.4 / enum — enum, socket.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.4 / pathlib — pathlib", "file": "release-3-4/pathlib.md", "summary": "Open when checking What's New In Python 3.4 / pathlib — pathlib.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.4 / selectors — select, selectors", "file": "release-3-4/selectors.md", "summary": "Open when checking What's New In Python 3.4 / selectors — select, selectors.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.4 / statistics — statistics", "file": "release-3-4/statistics.md", "summary": "Open when checking What's New In Python 3.4 / statistics — statistics.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.4 / tracemalloc — tracemalloc", "file": "release-3-4/tracemalloc.md", "summary": "Open when checking What's New In Python 3.4 / tracemalloc — tracemalloc.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

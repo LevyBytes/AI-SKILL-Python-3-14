@@ -1,0 +1,51 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.3 final / library / constants. [Built-in objects and typing / Python 3.14.3 final / library / constants](constants.md).
+- Open when checking Python 3.14.3 final / library / readline. [Text Processing Services / Python 3.14.3 final / library / readline](readline.md).
+- Open when checking Python 3.14.3 final / library / struct. [Binary Data Services / Python 3.14.3 final / library / struct](struct.md).
+- Open when checking Python 3.14.3 final / library / array. [Data Types / Python 3.14.3 final / library / array](array.md).
+- Open when checking Python 3.14.3 final / library / decimal. [Numeric and Mathematical Modules / Python 3.14.3 final / library / decimal](decimal.md).
+- Open when checking Python 3.14.3 final / library / functools. [Functional Programming Modules / Python 3.14.3 final / library / functools](functools.md).
+- Open when checking Python 3.14.3 final / library / stat. [File and Directory Access / Python 3.14.3 final / library / stat](stat.md).
+- Open when checking Python 3.14.3 final / library / linecache. [File and Directory Access / Python 3.14.3 final / library / linecache](linecache.md).
+- Open when checking Python 3.14.3 final / library / sqlite3. [Data Persistence / Python 3.14.3 final / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.14.3 final / library / indent mixes tabs spaces plistlib plistwriter no longer wraps base64. [File Formats / Python 3.14.3 final / library / indent mixes tabs spaces plistlib plistwriter no longer wraps base64](plist-base64-wrapping-with-mixed-indentation.md).
+- Open when checking Python 3.14.3 final / library / configparser. [File Formats / Python 3.14.3 final / library / configparser](configparser.md).
+- Open when checking Python 3.14.3 final / library / hmac. [Cryptographic Services / Python 3.14.3 final / library / hmac](hmac.md).
+- Open when checking Python 3.14.3 final / library / logging. [Generic Operating System Services / Python 3.14.3 final / library / logging](logging.md).
+- Open when checking Python 3.14.3 final / library / os. [Generic Operating System Services / Python 3.14.3 final / library / os](os.md).
+- Open when checking Python 3.14.3 final / library / thread. [Concurrent Execution / Python 3.14.3 final / library / thread](thread.md).
+- Open when checking Python 3.14.3 final / library / subprocess. [Concurrent Execution / Python 3.14.3 final / library / subprocess](subprocess.md).
+- Open when checking Python 3.14.3 final / library / asyncio task. [Networking and Interprocess Communication / Python 3.14.3 final / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.14.3 final / library / functions and types. [Internet Data Handling / Python 3.14.3 final / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.14.3 final / library / mailbox. [Internet Data Handling / Python 3.14.3 final / library / mailbox](mailbox.md).
+- Open when checking Python 3.14.3 final / library / email parser. [Internet Data Handling / Python 3.14.3 final / library / email parser](email-parser.md).
+- Open when checking Python 3.14.3 final / library / email policy. [Internet Data Handling / Python 3.14.3 final / library / email policy](email-policy.md).
+- Open when checking Python 3.14.3 final / library / xml dom minidom. [Structured Markup Processing Tools / Python 3.14.3 final / library / xml dom minidom](xml-dom-minidom.md).
+- Open when checking Python 3.14.3 final / library / xml etree elementtree. [Structured Markup Processing Tools / Python 3.14.3 final / library / xml etree elementtree](xml-etree-elementtree.md).
+- Open when checking Python 3.14.3 final / library / tkinter. [Graphical user interfaces with Tk / Python 3.14.3 final / library / tkinter](tkinter.md).
+- Open when checking Python 3.14.3 final / library / pydoc. [Development Tools / Python 3.14.3 final / library / pydoc](pydoc.md).
+- Open when checking Python 3.14.3 final / library / unittest mock. [Development Tools / Python 3.14.3 final / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.14.3 final / library / pdb. [Debugging and Profiling / Python 3.14.3 final / library / pdb](pdb.md).
+- Open when checking Python 3.14.3 final / library / inspect. [Python Runtime Services / Python 3.14.3 final / library / inspect](inspect.md).
+- Open when checking Python 3.14.3 final / library / sys. [Python Runtime Services / Python 3.14.3 final / library / sys](sys.md).
+- Open when checking Python 3.14.3 final / library / ast. [Python Language Services / Python 3.14.3 final / library / ast](ast.md).
+- Open when checking Python 3.14.3 final / library / winreg. [MS Windows Specific Services / Python 3.14.3 final / library / winreg](winreg.md).
+- Open when checking Python 3.14.3 final / library / annotationlib. [Combined library maintenance / Python 3.14.3 final / library / annotationlib](annotationlib.md).
+- Open when checking Python 3.14.3 final / library / asyncio. [Combined library maintenance / Python 3.14.3 final / library / asyncio](asyncio.md).
+- Open when checking Python 3.14.3 final / library / atexit. [Combined library maintenance / Python 3.14.3 final / library / atexit](atexit.md).
+- Open when checking Python 3.14.3 final / library / build and platforms. [Combined library maintenance / Python 3.14.3 final / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.14.3 final / library / collections. [Combined library maintenance / Python 3.14.3 final / library / collections](collections.md).
+- Open when checking Python 3.14.3 final / library / ctypes. [Combined library maintenance / Python 3.14.3 final / library / ctypes](ctypes.md).
+- Open when checking Python 3.14.3 final / library / pickle. [Combined library maintenance / Python 3.14.3 final / library / pickle](pickle.md).
+- Open when checking Python 3.14.3 final / library / zoneinfo. [Combined library maintenance / Python 3.14.3 final / library / zoneinfo](zoneinfo.md).
+- Open when checking Python 3.14.3 final / library / io. [Combined library maintenance / Python 3.14.3 final / library / io](io.md).
+- Open when checking Python 3.14.3 final / library / argparse. [Combined library maintenance / Python 3.14.3 final / library / argparse](argparse.md).
+- Open when checking Python 3.14.3 final / library / email. [Combined library maintenance / Python 3.14.3 final / library / email](email.md).
+- Open when checking Python 3.14.3 final / library / multiprocessing. [Combined library maintenance / Python 3.14.3 final / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.14.3 final / library / posix. [Library compatibility and maintenance / Python 3.14.3 final / library / posix](posix.md).
+- Open when checking Python 3.14.3 final / library / pipes. [Library compatibility and maintenance / Python 3.14.3 final / library / pipes](pipes.md).
+- Open when checking Python 3.14.3 final / library / once failure shows up during marshalling stop writing further. [Library compatibility and maintenance / Python 3.14.3 final / library / once failure shows up during marshalling stop writing further](once-failure-shows-up-during-marshalling-stop-writing-further.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "copyreg — `copyreg` — Register `pickle` support functions", "file": "copyreg/copyreg-constructor-to-copyreg-pickle.md", "summary": "Open when checking copyreg — `copyreg` — Register `pickle` support functions.", "keywords": []},
+    {"topic": "copyreg — Example", "file": "copyreg/example.md", "summary": "Open when checking copyreg — Example.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

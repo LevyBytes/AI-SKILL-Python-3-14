@@ -1,0 +1,9 @@
+{"schema_version": 1, "topics": [
+  {"topic": "library.orientation: Date, container and data-type module routes", "file": "library-orientation/data-type-module-routes.md", "summary": "Open when checking date, container and data-type module routes in library.orientation.", "keywords": []},
+  {"topic": "library.orientation: Command-line parsing module routes", "file": "library-orientation/command-line-module-routes.md", "summary": "Open when checking command-line parsing module routes in library.orientation.", "keywords": []},
+  {"topic": "library.orientation: Multimedia and audio module routes", "file": "library-orientation/multimedia-module-routes.md", "summary": "Open when checking multimedia and audio module routes in library.orientation.", "keywords": []},
+  {"topic": "library.orientation: Windows-specific service module routes", "file": "library-orientation/windows-module-routes.md", "summary": "Open when checking windows-specific service module routes in library.orientation.", "keywords": []},
+  {"topic": "library.orientation: Development and testing module routes", "file": "library-orientation/development-module-routes.md", "summary": "Open when checking development and testing module routes in library.orientation.", "keywords": []},
+  {"topic": "library.orientation: Standard-library scope and organization", "file": "standard-library-overview.md", "summary": "Open when checking standard-library scope and organization in library.orientation.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

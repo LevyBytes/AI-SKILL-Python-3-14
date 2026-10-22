@@ -1,0 +1,22 @@
+{"schema_version": 1, "topics": [
+  {"topic": "7.2.2. Annotated assignment statements", "file": "simple-statements/annotated-assignment-statements.md", "summary": "Open when checking 7.2.2. Annotated assignment statements.", "keywords": []},
+  {"topic": "7.2. Assignment statements", "file": "simple-statements/assignment-statements.md", "summary": "Open when checking 7.2. Assignment statements.", "keywords": []},
+  {"topic": "7.2.1. Augmented assignment statements", "file": "simple-statements/augmented-assignment-statements.md", "summary": "Open when checking 7.2.1. Augmented assignment statements.", "keywords": []},
+  {"topic": "7.1. Expression statements", "file": "simple-statements/expression-statements.md", "summary": "Open when checking 7.1. Expression statements.", "keywords": []},
+  {"topic": "7.11.1. Future statements", "file": "simple-statements/future-statements.md", "summary": "Open when checking 7.11.1. Future statements.", "keywords": []},
+  {"topic": "simple statements: Raising, reraising and explicitly chaining exceptions", "file": "simple-statements/raise-statement.md", "summary": "Open when checking raising, reraising and explicitly chaining exceptions in simple statements.", "keywords": []},
+  {"topic": "simple statements: Suppressing exception chaining and traceback changes", "file": "raise-and-implicit-exception-chaining.md", "summary": "Open when checking suppressing exception chaining and traceback changes in simple statements.", "keywords": []},
+  {"topic": "7. Simple statements", "file": "simple-statements/simple-statements.md", "summary": "Open when checking 7. Simple statements.", "keywords": []},
+  {"topic": "7.3. The `assert` statement", "file": "simple-statements/the-assert-statement.md", "summary": "Open when checking 7.3. The `assert` statement.", "keywords": []},
+  {"topic": "7.9. The `break` statement", "file": "simple-statements/the-break-statement.md", "summary": "Open when checking 7.9. The `break` statement.", "keywords": []},
+  {"topic": "7.10. The `continue` statement", "file": "simple-statements/the-continue-statement.md", "summary": "Open when checking 7.10. The `continue` statement.", "keywords": []},
+  {"topic": "7.5. The `del` statement", "file": "simple-statements/the-del-statement.md", "summary": "Open when checking 7.5. The `del` statement.", "keywords": []},
+  {"topic": "7.12. The `global` statement", "file": "simple-statements/the-global-statement.md", "summary": "Open when checking 7.12. The `global` statement.", "keywords": []},
+  {"topic": "7.11. The `import` statement", "file": "simple-statements/the-import-statement.md", "summary": "Open when checking 7.11. The `import` statement.", "keywords": []},
+  {"topic": "7.13. The `nonlocal` statement", "file": "simple-statements/the-nonlocal-statement.md", "summary": "Open when checking 7.13. The `nonlocal` statement.", "keywords": []},
+  {"topic": "7.4. The `pass` statement", "file": "simple-statements/the-pass-statement.md", "summary": "Open when checking 7.4. The `pass` statement.", "keywords": []},
+  {"topic": "7.6. The `return` statement", "file": "simple-statements/the-return-statement.md", "summary": "Open when checking 7.6. The `return` statement.", "keywords": []},
+  {"topic": "7.14. The `type` statement", "file": "simple-statements/the-type-statement.md", "summary": "Open when checking 7.14. The `type` statement.", "keywords": []},
+  {"topic": "7.7. The `yield` statement", "file": "simple-statements/the-yield-statement.md", "summary": "Open when checking 7.7. The `yield` statement.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

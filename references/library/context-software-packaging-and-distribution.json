@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Software Packaging and Distribution / ensurepip", "file": "ensurepip/INDEX.md", "summary": "Open when checking ensurepip.", "keywords": []},
+  {"topic": "Software Packaging and Distribution / venv", "file": "venv/INDEX.md", "summary": "Open when checking venv.", "keywords": []},
+  {"topic": "Software Packaging and Distribution / zipapp", "file": "zipapp/INDEX.md", "summary": "Open when checking zipapp.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

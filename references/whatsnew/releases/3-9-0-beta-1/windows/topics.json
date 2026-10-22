@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 beta 1 / windows / asyncio", "file": "releases/3-9-0-beta-1/windows/asyncio.md", "summary": "Open when checking Python 3.9.0 beta 1 / windows / asyncio.", "keywords": []},
+    {"topic": "Python 3.9.0 beta 1 / windows / numeric behavior", "file": "releases/3-9-0-beta-1/windows/numeric-behavior.md", "summary": "Open when checking Python 3.9.0 beta 1 / windows / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.9.0 beta 1 / windows / pull winsock2 h into pytime c timeval available", "file": "releases/3-9-0-beta-1/windows/pull-winsock2-h-into-pytime-c-timeval-available.md", "summary": "Open when checking Python 3.9.0 beta 1 / windows / pull winsock2 h into pytime c timeval available.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

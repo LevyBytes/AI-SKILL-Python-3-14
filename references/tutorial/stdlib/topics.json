@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "10.12. Batteries included", "file": "stdlib/batteries-included.md", "summary": "Open when checking 10.12. Batteries included.", "keywords": []},
+    {"topic": "10.3. Command-line arguments", "file": "stdlib/command-line-arguments.md", "summary": "Open when checking 10.3. Command-line arguments.", "keywords": []},
+    {"topic": "10.9. Data compression", "file": "stdlib/data-compression.md", "summary": "Open when checking 10.9. Data compression.", "keywords": []},
+    {"topic": "10.8. Dates and times", "file": "stdlib/dates-and-times.md", "summary": "Open when checking 10.8. Dates and times.", "keywords": []},
+    {"topic": "10.4. Error output redirection and program termination", "file": "stdlib/error-output-redirection-and-program-termination.md", "summary": "Open when checking 10.4. Error output redirection and program termination.", "keywords": []},
+    {"topic": "10.2. File wildcards", "file": "stdlib/file-wildcards.md", "summary": "Open when checking 10.2. File wildcards.", "keywords": []},
+    {"topic": "10.7. Internet access", "file": "stdlib/internet-access.md", "summary": "Open when checking 10.7. Internet access.", "keywords": []},
+    {"topic": "10.6. Mathematics", "file": "stdlib/mathematics.md", "summary": "Open when checking 10.6. Mathematics.", "keywords": []},
+    {"topic": "10.1. Operating system interface", "file": "stdlib/operating-system-interface.md", "summary": "Open when checking 10.1. Operating system interface.", "keywords": []},
+    {"topic": "10.10. Performance measurement", "file": "stdlib/performance-measurement.md", "summary": "Open when checking 10.10. Performance measurement.", "keywords": []},
+    {"topic": "10.11. Quality control", "file": "stdlib/quality-control.md", "summary": "Open when checking 10.11. Quality control.", "keywords": []},
+    {"topic": "10.5. String pattern matching", "file": "stdlib/string-pattern-matching.md", "summary": "Open when checking 10.5. String pattern matching.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

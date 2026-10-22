@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 1 / documentation / ctypes", "file": "releases/3-6-0-alpha-1/documentation/ctypes.md", "summary": "Open when checking Python 3.6.0 alpha 1 / documentation / ctypes.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / documentation / imports and modules", "file": "releases/3-6-0-alpha-1/documentation/imports-and-modules.md", "summary": "Open when checking Python 3.6.0 alpha 1 / documentation / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / documentation / tests and documentation", "file": "releases/3-6-0-alpha-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.6.0 alpha 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / documentation / threading", "file": "releases/3-6-0-alpha-1/documentation/threading.md", "summary": "Open when checking Python 3.6.0 alpha 1 / documentation / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

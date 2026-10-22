@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "asyncio — `asyncio` — Asynchronous I/O — Contract: Runners", "file": "asyncio/asyncio-asynchronous-i-o-contract-runners.md", "summary": "Open when checking asyncio — `asyncio` — Asynchronous I/O — Contract: Runners.", "keywords": []},
+    {"topic": "asyncio — `asyncio` — Asynchronous I/O — Section introduction and initial examples", "file": "async-io-overview.md", "summary": "Open when checking asyncio — `asyncio` — Asynchronous I/O — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

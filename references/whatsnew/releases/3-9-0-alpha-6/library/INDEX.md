@@ -1,0 +1,46 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.9.0 alpha 6 / library / weakref. [Data Types / Python 3.9.0 alpha 6 / library / weakref](weakref.md).
+- Open when checking Python 3.9.0 alpha 6 / library / permit random getrandbits work hand back. [Numeric and Mathematical Modules / Python 3.9.0 alpha 6 / library / permit random getrandbits work hand back](permit-random-getrandbits-work-hand-back.md).
+- Open when checking Python 3.9.0 alpha 6 / library / random. [Numeric and Mathematical Modules / Python 3.9.0 alpha 6 / library / random](random.md).
+- Open when checking Python 3.9.0 alpha 6 / library / build and platforms. [Generic Operating System Services / Python 3.9.0 alpha 6 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.9.0 alpha 6 / library / time. [Generic Operating System Services / Python 3.9.0 alpha 6 / library / time](time.md).
+- Open when checking Python 3.9.0 alpha 6 / library / subprocess. [Concurrent Execution / Python 3.9.0 alpha 6 / library / subprocess](subprocess.md).
+- Open when checking Python 3.9.0 alpha 6 / library / threading. [Concurrent Execution / Python 3.9.0 alpha 6 / library / threading](threading.md).
+- Open when checking Python 3.9.0 alpha 6 / library / multiprocessing shared memory. [Concurrent Execution / Python 3.9.0 alpha 6 / library / multiprocessing shared memory](multiprocessing-shared-memory.md).
+- Open when checking Python 3.9.0 alpha 6 / library / asyncio. [Networking and Interprocess Communication / Python 3.9.0 alpha 6 / library / asyncio](asyncio.md).
+- Open when checking Python 3.9.0 alpha 6 / library / socket. [Networking and Interprocess Communication / Python 3.9.0 alpha 6 / library / socket](socket.md).
+- Open when checking Python 3.9.0 alpha 6 / library / ssl. [Networking and Interprocess Communication / Python 3.9.0 alpha 6 / library / ssl](ssl.md).
+- Open when checking Python 3.9.0 alpha 6 / library / http server. [Internet Protocols and Support / Python 3.9.0 alpha 6 / library / http server](http-server.md).
+- Open when checking Python 3.9.0 alpha 6 / library / urllib request. [Internet Protocols and Support / Python 3.9.0 alpha 6 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.9.0 alpha 6 / library / unittest mock. [Development Tools / Python 3.9.0 alpha 6 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.9.0 alpha 6 / library / modulefinder. [Importing Modules / Python 3.9.0 alpha 6 / library / modulefinder](modulefinder.md).
+- Open when checking Python 3.9.0 alpha 6 / library / runpy. [Importing Modules / Python 3.9.0 alpha 6 / library / runpy](runpy.md).
+- Open when checking Python 3.9.0 alpha 6 / library / drop deprecated symtable symboltable has exec. [Python Language Services / Python 3.9.0 alpha 6 / library / drop deprecated symtable symboltable has exec](drop-deprecated-symtable-symboltable-has-exec.md).
+- Open when checking Python 3.9.0 alpha 6 / library / symtable. [Python Language Services / Python 3.9.0 alpha 6 / library / symtable](symtable.md).
+- Open when checking Python 3.9.0 alpha 6 / library / posix sysconf gains handling sc aix realmem. [Unix-specific services / Python 3.9.0 alpha 6 / library / posix sysconf gains handling sc aix realmem](posix-sysconf-gains-handling-sc-aix-realmem.md).
+- Open when checking Python 3.9.0 alpha 6 / library / shlex. [Unix-specific services / Python 3.9.0 alpha 6 / library / shlex](shlex.md).
+- Open when checking Python 3.9.0 alpha 6 / library / collections and iteration. [Combined library maintenance / Python 3.9.0 alpha 6 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.9.0 alpha 6 / library / collections. [Combined library maintenance / Python 3.9.0 alpha 6 / library / collections](collections.md).
+- Open when checking Python 3.9.0 alpha 6 / library / files and paths. [Combined library maintenance / Python 3.9.0 alpha 6 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.9.0 alpha 6 / library / functions and types. [Combined library maintenance / Python 3.9.0 alpha 6 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.9.0 alpha 6 / library / inspect. [Combined library maintenance / Python 3.9.0 alpha 6 / library / inspect](inspect.md).
+- Open when checking Python 3.9.0 alpha 6 / library / logging. [Combined library maintenance / Python 3.9.0 alpha 6 / library / logging](logging.md).
+- Open when checking Python 3.9.0 alpha 6 / library / os. [Combined library maintenance / Python 3.9.0 alpha 6 / library / os](os.md).
+- Open when checking Python 3.9.0 alpha 6 / library / typing. [Combined library maintenance / Python 3.9.0 alpha 6 / library / typing](typing.md).
+- Open when checking Python 3.9.0 alpha 6 / library / concurrent futures. [Combined library maintenance / Python 3.9.0 alpha 6 / library / concurrent futures](concurrent-futures.md).
+- Open when checking Python 3.9.0 alpha 6 / library / sys. [Combined library maintenance / Python 3.9.0 alpha 6 / library / sys](sys.md).
+- Open when checking Python 3.9.0 alpha 6 / library / threads and concurrency. [Combined library maintenance / Python 3.9.0 alpha 6 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.9.0 alpha 6 / library / corrected spooledtemporaryfile seek hands back position. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / corrected spooledtemporaryfile seek hands back position](corrected-spooledtemporaryfile-seek-hands-back-position.md).
+- Open when checking Python 3.9.0 alpha 6 / library / imports and modules. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.9.0 alpha 6 / library / text and unicode. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.9.0 alpha 6 / library / inside kqueueselector select wait whenever no fds registered. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / inside kqueueselector select wait whenever no fds registered](inside-kqueueselector-select-wait-whenever-no-fds-registered.md).
+- Open when checking Python 3.9.0 alpha 6 / library / sqlite3. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.9.0 alpha 6 / library / re. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / re](re.md).
+- Open when checking Python 3.9.0 alpha 6 / library / lib2to3 can parse named assignment expressions walrus operator. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / lib2to3 can parse named assignment expressions walrus operator](lib2to3-assignment-expression-parsing.md).
+- Open when checking Python 3.9.0 alpha 6 / library / numbers. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / numbers](numbers.md).
+- Open when checking Python 3.9.0 alpha 6 / library / platform. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / platform](platform.md).
+- Open when checking Python 3.9.0 alpha 6 / library / stop crashes arose working uninitialized elementtree xmlparser object. [Library compatibility and maintenance / Python 3.9.0 alpha 6 / library / stop crashes arose working uninitialized elementtree xmlparser object](uninitialized-xml-parser-crash.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "array: `array.typecodes`", "file": "array/array-typecodes.md", "summary": "Open when checking the documented contracts for `array.typecodes` in array.", "keywords": []},
+  {"topic": "array: `array.array`, `append()`, `buffer_info()`, `byteswap()`, `count()`, `extend()`, `frombytes()`, `fromfile()`, `fromlist()`, `fromunicode()`, `index()`, `insert()`, `pop()`, `remove()`", "file": "array/array-array-class-to-array-array-remove.md", "summary": "Open when checking the documented contracts for `array.array`, `append()`, `buffer_info()`, `byteswap()`, `count()`, `extend()`, `frombytes()`, `fromfile()`, `fromlist()`, `fromunicode()`, `index()`, `insert()`, `pop()`, `remove()` in array.", "keywords": []},
+  {"topic": "array.array: `clear()`, `reverse()`, `tobytes()`, `tofile()`, `tolist()`, `tounicode()`", "file": "array/array-array-clear-to-array-array-tounicode.md", "summary": "Open when checking the documented contracts for `clear()`, `reverse()`, `tobytes()`, `tofile()`, `tolist()`, `tounicode()` in array.array.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

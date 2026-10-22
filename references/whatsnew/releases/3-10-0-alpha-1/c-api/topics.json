@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 1 / c api / allocation", "file": "releases/3-10-0-alpha-1/c-api/allocation.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / allocation.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / arg", "file": "releases/3-10-0-alpha-1/c-api/arg.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / buffer", "file": "releases/3-10-0-alpha-1/c-api/buffer.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / buffer.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / build and platforms", "file": "releases/3-10-0-alpha-1/c-api/build-and-platforms.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / build and platforms.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / codec", "file": "releases/3-10-0-alpha-1/c-api/codec.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / codec.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / conversion", "file": "releases/3-10-0-alpha-1/c-api/conversion.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / conversion.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / datetime", "file": "releases/3-10-0-alpha-1/c-api/datetime.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / datetime.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / decimal", "file": "releases/3-10-0-alpha-1/c-api/decimal.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / decimal.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / dict", "file": "releases/3-10-0-alpha-1/c-api/dict.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / dict.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / drop pyunicode asunicodecopy", "file": "releases/3-10-0-alpha-1/c-api/drop-pyunicode-asunicodecopy.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / drop pyunicode asunicodecopy.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / dropped pylong fromunicode", "file": "releases/3-10-0-alpha-1/c-api/dropped-pylong-fromunicode.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / dropped pylong fromunicode.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / dropped pyunicode getmax", "file": "releases/3-10-0-alpha-1/c-api/dropped-pyunicode-getmax.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / dropped pyunicode getmax.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / functions and types", "file": "releases/3-10-0-alpha-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / init config", "file": "releases/3-10-0-alpha-1/c-api/init-config.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / init config.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / legacy unicode api deprecations", "file": "releases/3-10-0-alpha-1/c-api/legacy-unicode-api-deprecations.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / legacy unicode api deprecations.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / null unicode constructor deprecation warnings", "file": "releases/3-10-0-alpha-1/c-api/null-unicode-constructor-deprecation-warnings.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / null unicode constructor deprecation warnings.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / number", "file": "releases/3-10-0-alpha-1/c-api/number.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / number.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / refcounting", "file": "releases/3-10-0-alpha-1/c-api/refcounting.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / strip redundant extern c declarations out include cpython h", "file": "releases/3-10-0-alpha-1/c-api/strip-redundant-extern-c-declarations-out-include-cpython-h.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / strip redundant extern c declarations out include cpython h.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / subinterpreters", "file": "releases/3-10-0-alpha-1/c-api/subinterpreters.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / subinterpreters.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / sys", "file": "releases/3-10-0-alpha-1/c-api/sys.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / sys.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / text and unicode", "file": "releases/3-10-0-alpha-1/c-api/text-and-unicode.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / text and unicode.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / type", "file": "releases/3-10-0-alpha-1/c-api/type.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / type.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / c api / unicode", "file": "releases/3-10-0-alpha-1/c-api/unicode.md", "summary": "Open when checking Python 3.10.0 alpha 1 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

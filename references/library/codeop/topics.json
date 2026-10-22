@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "codeop: `codeop.compile_command()`", "file": "codeop/codeop-compile-command.md", "summary": "Open when checking the documented contracts for `codeop.compile_command()` in codeop.", "keywords": []},
+  {"topic": "codeop: `codeop.Compile`", "file": "codeop/codeop-compile-class.md", "summary": "Open when checking the documented contracts for `codeop.Compile` in codeop.", "keywords": []},
+  {"topic": "codeop: `codeop.CommandCompiler`", "file": "codeop/codeop-commandcompiler-class.md", "summary": "Open when checking the documented contracts for `codeop.CommandCompiler` in codeop.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

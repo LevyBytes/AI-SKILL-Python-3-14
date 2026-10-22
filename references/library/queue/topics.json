@@ -1,0 +1,12 @@
+{"schema_version": 1, "topics": [
+  {"topic": "queue: `queue.Queue`", "file": "queue/queue-queue-class.md", "summary": "Open when checking the documented contracts for `queue.Queue` in queue.", "keywords": []},
+  {"topic": "queue: `queue.LifoQueue`", "file": "queue/queue-lifoqueue-class.md", "summary": "Open when checking the documented contracts for `queue.LifoQueue` in queue.", "keywords": []},
+  {"topic": "queue: `queue.PriorityQueue`", "file": "queue/queue-priorityqueue-class.md", "summary": "Open when checking the documented contracts for `queue.PriorityQueue` in queue.", "keywords": []},
+  {"topic": "queue: `queue.SimpleQueue`", "file": "queue/queue-simplequeue-class.md", "summary": "Open when checking the documented contracts for `queue.SimpleQueue` in queue.", "keywords": []},
+  {"topic": "queue: `queue.Empty`, `queue.Full`, `queue.ShutDown`", "file": "queue/queue-empty-to-queue-shutdown.md", "summary": "Open when checking the documented contracts for `queue.Empty`, `queue.Full`, `queue.ShutDown` in queue.", "keywords": []},
+  {"topic": "queue — Queue Objects", "file": "queue/queue-qsize-to-queue-join.md", "summary": "Open when checking queue — Queue Objects.", "keywords": []},
+  {"topic": "queue — Terminating queues", "file": "queue/queue-shutdown.md", "summary": "Open when checking queue — Terminating queues.", "keywords": []},
+  {"topic": "queue — SimpleQueue Objects", "file": "queue/simplequeue-qsize-to-simplequeue-get-nowait.md", "summary": "Open when checking queue — SimpleQueue Objects.", "keywords": []},
+  {"topic": "queue — Waiting for task completion", "file": "queue/waiting-for-task-completion.md", "summary": "Open when checking queue — Waiting for task completion.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Numeric and Mathematical Modules / Python 3.14.0 alpha 1 / library / random", "file": "releases/3-14-0-alpha-1/library/random.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / random.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.14.0 alpha 1 / library / tune cmath tanh nanj along cmath tanh infj align recent c", "file": "releases/3-14-0-alpha-1/library/tune-cmath-tanh-nanj-along-cmath-tanh-infj-align-recent-c.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / tune cmath tanh nanj along cmath tanh infj align recent c.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.14.0 alpha 1 / library / cmath", "file": "releases/3-14-0-alpha-1/library/cmath.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / cmath.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.14.0 alpha 1 / library / tunes cmath acosh complex nanj suit recent c standards", "file": "releases/3-14-0-alpha-1/library/tunes-cmath-acosh-complex-nanj-suit-recent-c-standards.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / tunes cmath acosh complex nanj suit recent c standards.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.14.0 alpha 1 / library / math", "file": "releases/3-14-0-alpha-1/library/math.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / math.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

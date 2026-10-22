@@ -1,0 +1,5 @@
+# Python 3.13.0 alpha 2 / library / mailbox
+
+[gh-90890](https://github.com/python/cpython/issues/90890): Several new methods arrive: [`mailbox.Maildir.get_info()`](https://docs.python.org/3.14/library/mailbox.html#mailbox.Maildir.get_info), [`mailbox.Maildir.set_info()`](https://docs.python.org/3.14/library/mailbox.html#mailbox.Maildir.set_info), [`mailbox.Maildir.get_flags()`](https://docs.python.org/3.14/library/mailbox.html#mailbox.Maildir.get_flags), [`mailbox.Maildir.set_flags()`](https://docs.python.org/3.14/library/mailbox.html#mailbox.Maildir.set_flags), [`mailbox.Maildir.add_flag()`](https://docs.python.org/3.14/library/mailbox.html#mailbox.Maildir.add_flag), [`mailbox.Maildir.remove_flag()`](https://docs.python.org/3.14/library/mailbox.html#mailbox.Maildir.remove_flag). They make reaching a message's info and/or flags quicker and come in handy whenever the message's contents need not be touched, for instance while scanning a Maildir for messages bearing particular flags.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

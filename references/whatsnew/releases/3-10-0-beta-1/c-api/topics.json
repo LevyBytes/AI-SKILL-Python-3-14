@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 beta 1 / c api / debug", "file": "releases/3-10-0-beta-1/c-api/debug.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / debug.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / functions and types", "file": "releases/3-10-0-beta-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / gcsupport", "file": "releases/3-10-0-beta-1/c-api/gcsupport.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / gcsupport.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / memory", "file": "releases/3-10-0-beta-1/c-api/memory.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / memory.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / stable abi limited api definitions produced single central manifest", "file": "stable-and-limited-api-central-manifest.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / stable abi limited api definitions produced single central manifest.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / structures", "file": "releases/3-10-0-beta-1/c-api/structures.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / structures.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / typeobj", "file": "releases/3-10-0-beta-1/c-api/typeobj.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / typeobj.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / c api / veryhigh", "file": "releases/3-10-0-beta-1/c-api/veryhigh.md", "summary": "Open when checking Python 3.10.0 beta 1 / c api / veryhigh.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,52 @@
+# Improved Modules
+
+Select by the documented task or API context. [Topic catalog](context-improved-modules.json).
+
+- Open when checking What's New In Python 3.13 / argparse — argparse. [Improved Modules / What's New In Python 3.13 / argparse — argparse](argparse.md).
+- Open when checking What's New In Python 3.13 / array — array, collections.abc. [Improved Modules / What's New In Python 3.13 / array — array, collections.abc](array.md).
+- Open when checking What's New In Python 3.13 / ast — ast. [Improved Modules / What's New In Python 3.13 / ast — ast](ast.md).
+- Open when checking What's New In Python 3.13 / asyncio — asyncio-eventloop, asyncio-exceptions, asyncio-protocol, asyncio-queue, asyncio-stream, asyncio-task. [Improved Modules / What's New In Python 3.13 / asyncio — asyncio-eventloop, asyncio-exceptions, asyncio-protocol, asyncio-queue, asyncio-stream, asyncio-task](asyncio.md).
+- Open when checking What's New In Python 3.13 / base64 — base64. [Improved Modules / What's New In Python 3.13 / base64 — base64](base64.md).
+- Open when checking What's New In Python 3.13 / compileall — os. [Improved Modules / What's New In Python 3.13 / compileall — os](compileall.md).
+- Open when checking What's New In Python 3.13 / concurrent.futures — os. [Improved Modules / What's New In Python 3.13 / concurrent.futures — os](concurrent-futures.md).
+- Open when checking What's New In Python 3.13 / copy — collections, copy, dataclasses, datetime, inspect, types. [Improved Modules / What's New In Python 3.13 / copy — collections, copy, dataclasses, datetime, inspect, types](copy.md).
+- Open when checking What's New In Python 3.13 / ctypes — ctypes. [Improved Modules / What's New In Python 3.13 / ctypes — ctypes](ctypes.md).
+- Open when checking What's New In Python 3.13 / dbm — dbm. [Improved Modules / What's New In Python 3.13 / dbm — dbm](dbm.md).
+- Open when checking What's New In Python 3.13 / dis — dis. [Improved Modules / What's New In Python 3.13 / dis — dis](dis.md).
+- Open when checking What's New In Python 3.13 / doctest — doctest. [Improved Modules / What's New In Python 3.13 / doctest — doctest](doctest.md).
+- Open when checking What's New In Python 3.13 / email — email.generator, email.policy, email.utils. [Improved Modules / What's New In Python 3.13 / email — email.generator, email.policy, email.utils](email.md).
+- Open when checking What's New In Python 3.13 / enum — enum. [Improved Modules / What's New In Python 3.13 / enum — enum](enum.md).
+- Open when checking What's New In Python 3.13 / fractions — fractions, string. [Improved Modules / What's New In Python 3.13 / fractions — fractions, string](fractions.md).
+- Open when checking What's New In Python 3.13 / glob — glob. [Improved Modules / What's New In Python 3.13 / glob — glob](glob.md).
+- Open when checking What's New In Python 3.13 / importlib. [Improved Modules / What's New In Python 3.13 / importlib](importlib.md).
+- Open when checking What's New In Python 3.13 / io — devmode, io, sys. [Improved Modules / What's New In Python 3.13 / io — devmode, io, sys](io.md).
+- Open when checking What's New In Python 3.13 / ipaddress — ipaddress. [Improved Modules / What's New In Python 3.13 / ipaddress — ipaddress](ipaddress.md).
+- Open when checking What's New In Python 3.13 / itertools — itertools. [Improved Modules / What's New In Python 3.13 / itertools — itertools](itertools.md).
+- Open when checking What's New In Python 3.13 / marshal. [Improved Modules / What's New In Python 3.13 / marshal](marshal.md).
+- Open when checking What's New In Python 3.13 / math — math. [Improved Modules / What's New In Python 3.13 / math — math](math.md).
+- Open when checking What's New In Python 3.13 / mimetypes — mimetypes. [Improved Modules / What's New In Python 3.13 / mimetypes — mimetypes](mimetypes.md).
+- Open when checking What's New In Python 3.13 / mmap — mmap. [Improved Modules / What's New In Python 3.13 / mmap — mmap](mmap.md).
+- Open when checking What's New In Python 3.13 / multiprocessing — os. [Improved Modules / What's New In Python 3.13 / multiprocessing — os](multiprocessing.md).
+- Open when checking What's New In Python 3.13 / os — os, tempfile. [Improved Modules / What's New In Python 3.13 / os — os, tempfile](os.md).
+- Open when checking What's New In Python 3.13 / os.path — os.path. [Improved Modules / What's New In Python 3.13 / os.path — os.path](os-path.md).
+- Open when checking What's New In Python 3.13 / pdb — pdb, sys, zipapp. [Improved Modules / What's New In Python 3.13 / pdb — pdb, sys, zipapp](pdb.md).
+- Open when checking What's New In Python 3.13 / queue — queue. [Improved Modules / What's New In Python 3.13 / queue — queue](queue.md).
+- Open when checking What's New In Python 3.13 / random — random. [Improved Modules / What's New In Python 3.13 / random — random](random.md).
+- Open when checking What's New In Python 3.13 / shutil — shutil. [Improved Modules / What's New In Python 3.13 / shutil — shutil](shutil.md).
+- Open when checking What's New In Python 3.13 / site. [Improved Modules / What's New In Python 3.13 / site](site.md).
+- Open when checking What's New In Python 3.13 / sqlite3 — sqlite3. [Improved Modules / What's New In Python 3.13 / sqlite3 — sqlite3](sqlite3.md).
+- Open when checking What's New In Python 3.13 / ssl — ssl. [Improved Modules / What's New In Python 3.13 / ssl — ssl](ssl.md).
+- Open when checking What's New In Python 3.13 / statistics — statistics. [Improved Modules / What's New In Python 3.13 / statistics — statistics](statistics.md).
+- Open when checking What's New In Python 3.13 / subprocess — os, subprocess. [Improved Modules / What's New In Python 3.13 / subprocess — os, subprocess](subprocess.md).
+- Open when checking What's New In Python 3.13 / sys — sys. [Improved Modules / What's New In Python 3.13 / sys — sys](sys.md).
+- Open when checking What's New In Python 3.13 / tempfile — os, tempfile. [Improved Modules / What's New In Python 3.13 / tempfile — os, tempfile](tempfile.md).
+- Open when checking What's New In Python 3.13 / time — time. [Improved Modules / What's New In Python 3.13 / time — time](time.md).
+- Open when checking What's New In Python 3.13 / tkinter — tkinter, tkinter.ttk. [Improved Modules / What's New In Python 3.13 / tkinter — tkinter, tkinter.ttk](tkinter.md).
+- Open when checking What's New In Python 3.13 / traceback. [Improved Modules / What's New In Python 3.13 / traceback](traceback.md).
+- Open when checking What's New In Python 3.13 / types — types. [Improved Modules / What's New In Python 3.13 / types — types](types.md).
+- Open when checking What's New In Python 3.13 / unicodedata. [Improved Modules / What's New In Python 3.13 / unicodedata](unicodedata.md).
+- Open when checking What's New In Python 3.13 / venv — venv. [Improved Modules / What's New In Python 3.13 / venv — venv](venv.md).
+- Open when checking What's New In Python 3.13 / warnings — warnings. [Improved Modules / What's New In Python 3.13 / warnings — warnings](warnings.md).
+- Open when checking What's New In Python 3.13 / xml — pyexpat, xml.etree.elementtree. [Improved Modules / What's New In Python 3.13 / xml — pyexpat, xml.etree.elementtree](xml.md).
+- Open when checking What's New In Python 3.13 / zipimport. [Improved Modules / What's New In Python 3.13 / zipimport](zipimport.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

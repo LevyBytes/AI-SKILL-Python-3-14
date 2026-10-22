@@ -1,0 +1,23 @@
+# Upstream feature guide navigation for Python 3.2
+
+- [What’s New In Python 3.2](https://docs.python.org/3.14/whatsnew/3.2.html)
+  - [PEP 384: Defining a Stable ABI](https://docs.python.org/3.14/whatsnew/3.2.html#pep-384-defining-a-stable-abi)
+  - [PEP 389: Argparse Command Line Parsing Module](https://docs.python.org/3.14/whatsnew/3.2.html#pep-389-argparse-command-line-parsing-module)
+  - [PEP 391: Dictionary Based Configuration for Logging](https://docs.python.org/3.14/whatsnew/3.2.html#pep-391-dictionary-based-configuration-for-logging)
+  - [PEP 3148: The `concurrent.futures` module](https://docs.python.org/3.14/whatsnew/3.2.html#pep-3148-the-concurrent-futures-module)
+  - [PEP 3147: PYC Repository Directories](https://docs.python.org/3.14/whatsnew/3.2.html#pep-3147-pyc-repository-directories)
+  - [PEP 3149: ABI Version Tagged .so Files](https://docs.python.org/3.14/whatsnew/3.2.html#pep-3149-abi-version-tagged-so-files)
+  - [PEP 3333: Python Web Server Gateway Interface v1.0.1](https://docs.python.org/3.14/whatsnew/3.2.html#pep-3333-python-web-server-gateway-interface-v1-0-1)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/3.2.html#other-language-changes)
+  - [New, Improved, and Deprecated Modules](https://docs.python.org/3.14/whatsnew/3.2.html#new-improved-and-deprecated-modules)
+  - [Multi-threading](https://docs.python.org/3.14/whatsnew/3.2.html#multi-threading)
+  - [Optimizations](https://docs.python.org/3.14/whatsnew/3.2.html#optimizations)
+  - [Unicode](https://docs.python.org/3.14/whatsnew/3.2.html#unicode)
+  - [Codecs](https://docs.python.org/3.14/whatsnew/3.2.html#codecs)
+  - [Documentation](https://docs.python.org/3.14/whatsnew/3.2.html#documentation)
+  - [IDLE](https://docs.python.org/3.14/whatsnew/3.2.html#idle)
+  - [Code Repository](https://docs.python.org/3.14/whatsnew/3.2.html#code-repository)
+  - [Build and C API Changes](https://docs.python.org/3.14/whatsnew/3.2.html#build-and-c-api-changes)
+  - [Porting to Python 3.2](https://docs.python.org/3.14/whatsnew/3.2.html#porting-to-python-3-2)
+
+[Subject index](INDEX.md) · [Previous source section](../release-3-3/release-overview.md) · [Next source section](../release-3-1/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md)

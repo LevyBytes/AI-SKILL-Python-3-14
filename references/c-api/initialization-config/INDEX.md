@@ -1,0 +1,46 @@
+# Python/C API subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking PyInitConfig C API. [PyInitConfig C API](pyinitconfig-c-api.md).
+- Open when checking Create Config. [PyInitConfig C API / Create Config](pyinitconfig-to-pyinitconfig-free.md).
+- Open when checking Error Handling. [PyInitConfig C API / Error Handling](pyinitconfig-geterror-to-pyinitconfig-getexitcode.md).
+- Open when checking Get Options. [PyInitConfig C API / Get Options](pyinitconfig-hasoption-to-pyinitconfig-freestrlist.md).
+- Open when checking Set Options. [PyInitConfig C API / Set Options](pyinitconfig-setint-to-pyinitconfig-setstrlist.md).
+- Open when checking int PyInitConfig_AddModule(PyInitConfig *config, const char *name, PyObject *(*initfunc)(void)). [PyInitConfig C API / int PyInitConfig_AddModule(PyInitConfig *config, const char *name, PyObject *(*initfunc)(void))](pyinitconfig-addmodule.md).
+- Open when checking int Py_InitializeFromInitConfig(PyInitConfig *config). [PyInitConfig C API / int Py_InitializeFromInitConfig(PyInitConfig *config)](py-initializefrominitconfig.md).
+- Open when checking Configuration Options. [Configuration Options](configuration-options.md).
+- Open when checking Runtime Python configuration API. [Runtime Python configuration API](pyconfig-get-to-pyconfig-names.md).
+- Open when checking int PyConfig_Set(const char *name, PyObject *value). [Runtime Python configuration API / int PyConfig_Set(const char *name, PyObject *value)](pyconfig-set.md).
+- Open when checking PyConfig C API. [PyConfig C API](pyconfig-c-api.md).
+- Open when checking Example. [PyConfig C API / Example](example.md).
+- Open when checking PyWideStringList. [PyConfig C API / PyWideStringList](pywidestringlist-to-items.md).
+- Open when checking PyStatus. [PyConfig C API / PyStatus](pystatus-to-pystatus-isexit.md).
+- Open when checking void Py_ExitStatusException(PyStatus status). [PyConfig C API / void Py_ExitStatusException(PyStatus status)](py-exitstatusexception.md).
+- Open when checking preconfiguration initialization and allocator selection in initialization config C API. [initialization config C API: Preconfiguration initialization and allocator selection](pypreconfig-to-configure-locale.md).
+- Open when checking locale coercion, environment and UTF-8 preconfiguration in initialization config C API. [initialization config C API: Locale coercion, environment and UTF-8 preconfiguration](coerce-c-locale-to-utf8-mode.md).
+- Open when checking Preinitialize Python with PyPreConfig. [PyConfig C API / Preinitialize Python with PyPreConfig](py-preinitialize-to-py-preinitializefrombytesargs.md).
+- Open when checking installation prefixes and execution target configuration in initialization config C API. [initialization config C API: Installation prefixes and execution target configuration](prefix-to-run-module.md).
+- Open when checking presite imports and standard-stream encoding in initialization config C API. [initialization config C API: Presite imports and standard-stream encoding](run-presite-to-stdio-errors.md).
+- Open when checking allocation tracing, environment use and verbose imports in initialization config C API. [initialization config C API: Allocation tracing, environment use and verbose imports](tracemalloc-to-verbose.md).
+- Open when checking warning filters, bytecode and interpreter statistics in initialization config C API. [initialization config C API: Warning filters, bytecode and interpreter statistics](warnoptions-to-pystats.md).
+- Open when checking PyConfig construction, setters, reading and cleanup in initialization config C API. [initialization config C API: PyConfig construction, setters, reading and cleanup](pyconfig-to-pyconfig-parse-argv.md).
+- Open when checking argument parsing, safe paths and base installation configuration in initialization config C API. [initialization config C API: Argument parsing, safe paths and base installation configuration](pyconfig-use-environment-to-base-prefix.md).
+- Open when checking standard-stream buffering and C stdio setup in initialization config C API. [initialization config C API: Standard-stream buffering and C stdio setup](buffered-stdio-to-configure-c-stdio.md).
+- Open when checking development mode and fault handling configuration in initialization config C API. [initialization config C API: Development mode and fault handling configuration](dev-mode-to-faulthandler.md).
+- Open when checking filesystem encoding and interpreter home configuration in initialization config C API. [initialization config C API: Filesystem encoding and interpreter home configuration](filesystem-encoding-to-home.md).
+- Open when checking import profiling and interpreter isolation in initialization config C API. [initialization config C API: Import profiling and interpreter isolation](import-time-to-isolated.md).
+- Open when checking Windows stdio, search paths and optimization configuration in initialization config C API. [initialization config C API: Windows stdio, search paths and optimization configuration](legacy-windows-stdio-to-optimization-level.md).
+- Open when checking original command-line arguments and parsing in initialization config C API. [initialization config C API: Original command-line arguments and parsing](orig-argv-to-parse-argv.md).
+- Open when checking PyConfig.parser_debug. [PyConfig C API / PyConfig.parser_debug](parser-debug.md).
+- Open when checking interpreter startup and PyStatus handling with PyConfig in initialization config C API. [initialization config C API: Interpreter startup and PyStatus handling with PyConfig](pyconfig-initialization-sequence.md).
+- Open when checking complete PyConfig initialization example in initialization config C API. [initialization config C API: Complete PyConfig initialization example](pyconfig-initialization.md).
+- Open when checking Isolated Configuration. [PyConfig C API / Isolated Configuration](isolated-configuration.md).
+- Open when checking Python Configuration. [PyConfig C API / Python Configuration](python-configuration.md).
+- Open when checking Python Path Configuration. [PyConfig C API / Python Path Configuration](pyconfig-home-to-pyconfig-executable.md).
+- Open when checking PyConfig.prefix. [PyConfig C API / PyConfig.prefix](pyconfig-prefix-to-pybuilddir-txt.md).
+- Open when checking PyStatus Py_PreInitializeFromArgs(const PyPreConfig *preconfig, int argc, wchar_t *const *argv). [Preinitialize Python with PyPreConfig / PyStatus Py_PreInitializeFromArgs(const PyPreConfig *preconfig, int argc, wchar_t *const *argv)](py-preinitializefromargs.md).
+- Open when checking PyConfig.pathconfig_warnings. [PyConfig / PyConfig.pathconfig_warnings](pathconfig-warnings.md).
+- Open when checking void Py_GetArgcArgv(int *argc, wchar_t ***argv). [Py_GetArgcArgv() / void Py_GetArgcArgv(int *argc, wchar_t ***argv)](py-getargcargv.md).
+- Open when checking Delaying main module execution. [Delaying main module execution](delaying-main-module-execution.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

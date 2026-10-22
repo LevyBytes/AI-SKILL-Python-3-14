@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 1 / tools demos / emit warning messages whenever pygettext unimplemented extract all option invoked", "file": "pygettext-unimplemented-extract-all-warning.md", "summary": "Open when checking Python 3.14.0 beta 1 / tools demos / emit warning messages whenever pygettext unimplemented extract all option invoked.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / tools demos / functions and types", "file": "releases/3-14-0-beta-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.14.0 beta 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

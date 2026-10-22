@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Pickle buffer objects", "file": "pickle-buffer-objects/pypicklebuffer-type-to-pypicklebuffer-release.md", "summary": "Open when checking Pickle buffer objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

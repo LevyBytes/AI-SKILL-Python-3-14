@@ -1,0 +1,16 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Calibration", "file": "profile/calibration.md", "summary": "Open when checking Calibration.", "keywords": []},
+  {"topic": "Instant User's Manual — Contract: -s <sort_order>", "file": "profile/instant-user-s-manual-contract-s-sort-order.md", "summary": "Open when checking Instant User's Manual — Contract: -s <sort_order>.", "keywords": []},
+  {"topic": "Instant User's Manual — Section introduction and initial examples", "file": "profiler-quickstart-overview.md", "summary": "Open when checking Instant User's Manual — Section introduction and initial examples.", "keywords": []},
+  {"topic": "Introduction to the profilers", "file": "profile/introduction-to-the-profilers.md", "summary": "Open when checking Introduction to the profilers.", "keywords": []},
+  {"topic": "Limitations", "file": "profile/limitations.md", "summary": "Open when checking Limitations.", "keywords": []},
+  {"topic": "profile: `profile.run()`, `profile.runctx()`", "file": "profile/profile-run-to-profile-runctx.md", "summary": "Open when checking the documented contracts for `profile.run()`, `profile.runctx()` in profile.", "keywords": []},
+  {"topic": "profile: `profile.Profile`, `enable()`, `disable()`, `create_stats()`, `print_stats()`, `dump_stats()`, `run()`, `runctx()`, `runcall()`", "file": "profile/profile-profile-class-to-profile-profile-runcall.md", "summary": "Open when checking the documented contracts for `profile.Profile`, `enable()`, `disable()`, `create_stats()`, `print_stats()`, `dump_stats()`, `run()`, `runctx()`, `runcall()` in profile.", "keywords": []},
+  {"topic": "Using a custom timer", "file": "profile/profile-profile-to-cprofile-profile.md", "summary": "Open when checking Using a custom timer.", "keywords": []},
+  {"topic": "profile: `pstats.Stats`", "file": "profile/pstats-stats-class.md", "summary": "Open when checking the documented contracts for `pstats.Stats` in profile.", "keywords": []},
+  {"topic": "profile: `strip_dirs()`, `add()`, `dump_stats()`, `sort_stats()`, `reverse_order()`, `print_stats()`, `print_callers()`", "file": "profile/pstats-stats-strip-dirs-to-pstats-stats-print-callers.md", "summary": "Open when checking the documented contracts for `strip_dirs()`, `add()`, `dump_stats()`, `sort_stats()`, `reverse_order()`, `print_stats()`, `print_callers()` in profile.", "keywords": []},
+  {"topic": "profile: `print_callees()`, `get_stats_profile()`", "file": "profile/pstats-stats-print-callees-to-pstats-stats-get-stats-profile.md", "summary": "Open when checking the documented contracts for `print_callees()`, `get_stats_profile()` in profile.", "keywords": []},
+  {"topic": "The Python Profilers", "file": "profile/the-python-profilers.md", "summary": "Open when checking The Python Profilers.", "keywords": []},
+  {"topic": "What Is Deterministic Profiling?", "file": "profile/what-is-deterministic-profiling.md", "summary": "Open when checking What Is Deterministic Profiling?.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Cross Compiling Options / 3.3.15. Cross Compiling Options", "file": "build-configuration/cross-compiling-options.md", "summary": "Open when checking 3.3.15. Cross Compiling Options.", "keywords": []},
+  {"topic": "Cross Compiling Options / --build=BUILD", "file": "build-configuration/build-build.md", "summary": "Open when checking --build=BUILD.", "keywords": []},
+  {"topic": "Cross Compiling Options / --host=HOST", "file": "build-configuration/host-host.md", "summary": "Open when checking --host=HOST.", "keywords": []},
+  {"topic": "Cross Compiling Options / --with-build-python=path/to/python", "file": "build-configuration/with-build-python-path-to-python.md", "summary": "Open when checking --with-build-python=path/to/python.", "keywords": []},
+  {"topic": "Cross Compiling Options / HOSTRUNNER", "file": "build-configuration/hostrunner.md", "summary": "Open when checking HOSTRUNNER.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

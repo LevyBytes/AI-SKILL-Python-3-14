@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 6 / c api / compiler and parser", "file": "releases/3-10-0-alpha-6/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / c api / descriptor", "file": "releases/3-10-0-alpha-6/c-api/descriptor.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / descriptor.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / c api / exceptions", "file": "releases/3-10-0-alpha-6/c-api/exceptions.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / c api / intro", "file": "releases/3-10-0-alpha-6/c-api/intro.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / intro.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / c api / iter", "file": "releases/3-10-0-alpha-6/c-api/iter.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / iter.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / c api / object", "file": "releases/3-10-0-alpha-6/c-api/object.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / object.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / c api / structures", "file": "releases/3-10-0-alpha-6/c-api/structures.md", "summary": "Open when checking Python 3.10.0 alpha 6 / c api / structures.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,77 @@
+# ctypes reference
+
+Select by the documented task or API context. [Topic catalog](context-ctypes-reference.json).
+
+- Open when checking ctypes — Finding shared libraries. [ctypes reference / ctypes — Finding shared libraries](ctypes-util-find-library.md).
+- Open when checking ctypes — Listing loaded shared libraries. [ctypes reference / ctypes — Listing loaded shared libraries](listing-loaded-shared-libraries.md).
+- Open when checking shared-library loading flags and Windows error state in ctypes. [ctypes: Shared-library loading flags and Windows error state](loading-shared-libraries.md).
+- Open when checking the documented contracts for `ctypes.OleDLL` in ctypes. [ctypes: `ctypes.OleDLL`](ctypes-oledll-class.md).
+- Open when checking the documented contracts for `ctypes.WinDLL` in ctypes. [ctypes: `ctypes.WinDLL`](ctypes-windll-class.md).
+- Open when checking the documented contracts for `ctypes.PyDLL` in ctypes. [ctypes: `ctypes.PyDLL`](ctypes-pydll-class.md).
+- Open when checking the documented contracts for `ctypes.RTLD_GLOBAL`, `ctypes.RTLD_LOCAL`, `ctypes.DEFAULT_MODE` in ctypes. [ctypes: `ctypes.RTLD_GLOBAL`, `ctypes.RTLD_LOCAL`, `ctypes.DEFAULT_MODE`](ctypes-rtld-global-to-ctypes-default-mode.md).
+- Open when checking the documented contracts for `ctypes.LibraryLoader`, `LoadLibrary()` in ctypes / Loading shared libraries. [ctypes / Loading shared libraries: `ctypes.LibraryLoader`, `LoadLibrary()`](shared-library-loader.md).
+- Open when checking the documented contracts for `ctypes.cdll`, `ctypes.windll`, `ctypes.oledll`, `ctypes.pydll`, `ctypes.pythonapi` in ctypes. [ctypes: `ctypes.cdll`, `ctypes.windll`, `ctypes.oledll`, `ctypes.pydll`, `ctypes.pythonapi`](ctypes-cdll-to-ctypes-pythonapi.md).
+- Open when checking the documented contracts for `ctypes.CDLL` in ctypes. [ctypes: `ctypes.CDLL`](ctypes-cdll-class.md).
+- Open when checking the documented contracts for `ctypes._CFuncPtr` in ctypes. [ctypes: `ctypes._CFuncPtr`](ctypes-cfuncptr-class.md).
+- Open when checking foreign-function restype, argtypes and errcheck contracts in ctypes._CFuncPtr. [ctypes._CFuncPtr: Foreign-function restype, argtypes and errcheck contracts](ctypes-cfuncptr-callable.md).
+- Open when checking ctypes — Function prototypes. [ctypes reference / ctypes — Function prototypes](ctypes-cfunctype-to-prototype.md).
+- Open when checking ctypes — Function prototypes — Signature and initial contract. [ctypes reference / ctypes — Function prototypes — Signature and initial contract](prototype.md).
+- Open when checking ctypes — Function prototypes — Code example: &gt;&gt;&gt; from ctypes import POINTER, WINFUNCTYPE, windll, WinError. [ctypes reference / ctypes — Function prototypes — Code example: &gt;&gt;&gt; from ctypes import POINTER, WINFUNCTYPE, windll, WinError](windows-function-prototype-example.md).
+- Open when checking the documented contracts for `ctypes.pointer()`, `ctypes.resize()`, `ctypes.set_errno()`, `ctypes.set_last_error()`, `ctypes.sizeof()`, `ctypes.string_at()`, `ctypes.WinError()`, `ctypes.wstring_at()`, `ctypes.memoryview_at()` in ctypes. [ctypes: `ctypes.pointer()`, `ctypes.resize()`, `ctypes.set_errno()`, `ctypes.set_last_error()`, `ctypes.sizeof()`, `ctypes.string_at()`, `ctypes.WinError()`, `ctypes.wstring_at()`, `ctypes.memoryview_at()`](ctypes-pointer-to-ctypes-memoryview-at.md).
+- Open when checking the documented contracts for `ctypes.addressof()`, `ctypes.alignment()`, `ctypes.byref()`, `ctypes.CopyComPointer()`, `ctypes.cast()`, `ctypes.create_string_buffer()` in ctypes. [ctypes: `ctypes.addressof()`, `ctypes.alignment()`, `ctypes.byref()`, `ctypes.CopyComPointer()`, `ctypes.cast()`, `ctypes.create_string_buffer()`](ctypes-addressof-to-ctypes-create-string-buffer.md).
+- Open when checking Unicode buffers, library lookup, errors and raw memory operations in ctypes. [ctypes: Unicode buffers, library lookup, errors and raw memory operations](ctypes-create-unicode-buffer-to-ctypes-memset.md).
+- Open when checking the documented contracts for `ctypes.POINTER()` in ctypes. [ctypes: `ctypes.POINTER()`](ctypes-pointer.md).
+- Open when checking the documented contracts for `ctypes._CData` in ctypes. [ctypes: `ctypes._CData`](ctypes-cdata-class.md).
+- Open when checking the documented contracts for `from_buffer()`, `from_buffer_copy()`, `from_address()`, `from_param()`, `in_dll()` in ctypes._CData. [ctypes._CData: `from_buffer()`, `from_buffer_copy()`, `from_address()`, `from_param()`, `in_dll()`](ctypes-cdata-from-buffer-to-ctypes-cdata-in-dll.md).
+- Open when checking the documented contracts for `ctypes._SimpleCData` in ctypes. [ctypes: `ctypes._SimpleCData`](ctypes-simplecdata-class.md).
+- Open when checking fundamental ctypes instance values in ctypes. [ctypes: Fundamental ctypes instance values](fundamental-data-types.md).
+- Open when checking the documented contracts for `ctypes.c_byte` in ctypes. [ctypes: `ctypes.c_byte`](ctypes-c-byte-class.md).
+- Open when checking the documented contracts for `ctypes.c_char` in ctypes. [ctypes: `ctypes.c_char`](ctypes-c-char-class.md).
+- Open when checking the documented contracts for `ctypes.c_char_p` in ctypes. [ctypes: `ctypes.c_char_p`](ctypes-c-char-p-class.md).
+- Open when checking the documented contracts for `ctypes.c_double` in ctypes. [ctypes: `ctypes.c_double`](ctypes-c-double-class.md).
+- Open when checking the documented contracts for `ctypes.c_longdouble` in ctypes. [ctypes: `ctypes.c_longdouble`](ctypes-c-longdouble-class.md).
+- Open when checking the documented contracts for `ctypes.c_float` in ctypes. [ctypes: `ctypes.c_float`](ctypes-c-float-class.md).
+- Open when checking the documented contracts for `ctypes.c_double_complex` in ctypes. [ctypes: `ctypes.c_double_complex`](ctypes-c-double-complex-class.md).
+- Open when checking the documented contracts for `ctypes.c_float_complex` in ctypes. [ctypes: `ctypes.c_float_complex`](ctypes-c-float-complex-class.md).
+- Open when checking the documented contracts for `ctypes.c_longdouble_complex` in ctypes. [ctypes: `ctypes.c_longdouble_complex`](ctypes-c-longdouble-complex-class.md).
+- Open when checking the documented contracts for `ctypes.c_int` in ctypes. [ctypes: `ctypes.c_int`](ctypes-c-int-class.md).
+- Open when checking the documented contracts for `ctypes.c_int8` in ctypes. [ctypes: `ctypes.c_int8`](ctypes-c-int8-class.md).
+- Open when checking the documented contracts for `ctypes.c_int16` in ctypes. [ctypes: `ctypes.c_int16`](ctypes-c-int16-class.md).
+- Open when checking the documented contracts for `ctypes.c_int32` in ctypes. [ctypes: `ctypes.c_int32`](ctypes-c-int32-class.md).
+- Open when checking the documented contracts for `ctypes.c_int64` in ctypes. [ctypes: `ctypes.c_int64`](ctypes-c-int64-class.md).
+- Open when checking the documented contracts for `ctypes.c_long` in ctypes. [ctypes: `ctypes.c_long`](ctypes-c-long-class.md).
+- Open when checking the documented contracts for `ctypes.c_longlong` in ctypes. [ctypes: `ctypes.c_longlong`](ctypes-c-longlong-class.md).
+- Open when checking the documented contracts for `ctypes.c_short` in ctypes. [ctypes: `ctypes.c_short`](ctypes-c-short-class.md).
+- Open when checking the documented contracts for `ctypes.c_size_t` in ctypes. [ctypes: `ctypes.c_size_t`](ctypes-c-size-t-class.md).
+- Open when checking the documented contracts for `ctypes.c_ssize_t` in ctypes. [ctypes: `ctypes.c_ssize_t`](ctypes-c-ssize-t-class.md).
+- Open when checking the documented contracts for `ctypes.c_time_t` in ctypes. [ctypes: `ctypes.c_time_t`](ctypes-c-time-t-class.md).
+- Open when checking the documented contracts for `ctypes.c_ubyte` in ctypes. [ctypes: `ctypes.c_ubyte`](ctypes-c-ubyte-class.md).
+- Open when checking the documented contracts for `ctypes.c_uint` in ctypes. [ctypes: `ctypes.c_uint`](ctypes-c-uint-class.md).
+- Open when checking the documented contracts for `ctypes.c_uint8` in ctypes. [ctypes: `ctypes.c_uint8`](ctypes-c-uint8-class.md).
+- Open when checking the documented contracts for `ctypes.c_uint16` in ctypes. [ctypes: `ctypes.c_uint16`](ctypes-c-uint16-class.md).
+- Open when checking the documented contracts for `ctypes.c_uint32` in ctypes. [ctypes: `ctypes.c_uint32`](ctypes-c-uint32-class.md).
+- Open when checking the documented contracts for `ctypes.c_uint64` in ctypes. [ctypes: `ctypes.c_uint64`](ctypes-c-uint64-class.md).
+- Open when checking the documented contracts for `ctypes.c_ulong` in ctypes. [ctypes: `ctypes.c_ulong`](ctypes-c-ulong-class.md).
+- Open when checking the documented contracts for `ctypes.c_ulonglong` in ctypes. [ctypes: `ctypes.c_ulonglong`](ctypes-c-ulonglong-class.md).
+- Open when checking the documented contracts for `ctypes.c_ushort` in ctypes. [ctypes: `ctypes.c_ushort`](ctypes-c-ushort-class.md).
+- Open when checking the documented contracts for `ctypes.c_void_p` in ctypes. [ctypes: `ctypes.c_void_p`](ctypes-c-void-p-class.md).
+- Open when checking the documented contracts for `ctypes.c_wchar` in ctypes. [ctypes: `ctypes.c_wchar`](ctypes-c-wchar-class.md).
+- Open when checking the documented contracts for `ctypes.c_wchar_p` in ctypes. [ctypes: `ctypes.c_wchar_p`](ctypes-c-wchar-p-class.md).
+- Open when checking the documented contracts for `ctypes.c_bool` in ctypes. [ctypes: `ctypes.c_bool`](ctypes-c-bool-class.md).
+- Open when checking the documented contracts for `ctypes.HRESULT` in ctypes. [ctypes: `ctypes.HRESULT`](ctypes-hresult-class.md).
+- Open when checking the documented contracts for `ctypes.py_object` in ctypes. [ctypes: `ctypes.py_object`](ctypes-py-object-class.md).
+- Open when checking ctypes — Fundamental data types — Section introduction and initial examples. [ctypes reference / ctypes — Fundamental data types — Section introduction and initial examples](fundamental-ctypes-overview.md).
+- Open when checking ctypes — Fundamental data types — Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):. [ctypes reference / ctypes — Fundamental data types — Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):](ctypes-and-given-that-python-string-objects-cannot-be-mutated.md).
+- Open when checking CField names, types, offsets and bit-field descriptors in ctypes. [ctypes: CField names, types, offsets and bit-field descriptors](structured-data-types-ctypes-cfield.md).
+- Open when checking the documented contracts for `ctypes.Union` in ctypes. [ctypes: `ctypes.Union`](ctypes-union-class.md).
+- Open when checking the documented contracts for `ctypes.BigEndianUnion` in ctypes. [ctypes: `ctypes.BigEndianUnion`](ctypes-bigendianunion-class.md).
+- Open when checking the documented contracts for `ctypes.LittleEndianUnion` in ctypes. [ctypes: `ctypes.LittleEndianUnion`](ctypes-littleendianunion-class.md).
+- Open when checking the documented contracts for `ctypes.BigEndianStructure` in ctypes. [ctypes: `ctypes.BigEndianStructure`](ctypes-bigendianstructure-class.md).
+- Open when checking the documented contracts for `ctypes.LittleEndianStructure` in ctypes. [ctypes: `ctypes.LittleEndianStructure`](ctypes-littleendianstructure-class.md).
+- Open when checking the documented contracts for `ctypes.Structure` in ctypes. [ctypes: `ctypes.Structure`](ctypes-structure-class.md).
+- Open when checking structure and union layout selection in ctypes. [ctypes: Structure and union layout selection](structured-data-types-ctypes-structure.md).
+- Open when checking the documented contracts for `ctypes.CField` in ctypes. [ctypes: `ctypes.CField`](ctypes-cfield-class.md).
+- Open when checking the documented contracts for `ctypes.Array`, `ctypes.ARRAY()` in ctypes. [ctypes: `ctypes.Array`, `ctypes.ARRAY()`](ctypes-array-class-to-ctypes-array.md).
+- Open when checking the documented contracts for `ctypes._Pointer` in ctypes. [ctypes: `ctypes._Pointer`](ctypes-pointer-class.md).
+- Open when checking ctypes — Exceptions. [ctypes reference / ctypes — Exceptions](ctypes-argumenterror-to-ctypes-comerror.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

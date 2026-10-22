@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 1 / c api / compiler and parser", "file": "releases/3-5-0-alpha-1/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / c api / dropped undocumented pyobject repr macro", "file": "releases/3-5-0-alpha-1/c-api/dropped-undocumented-pyobject-repr-macro.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / dropped undocumented pyobject repr macro.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / c api / functions and types", "file": "releases/3-5-0-alpha-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / c api / importlib", "file": "releases/3-5-0-alpha-1/c-api/importlib.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / importlib.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / c api / memory and lifetimes", "file": "releases/3-5-0-alpha-1/c-api/memory-and-lifetimes.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / c api / null buffer view errors", "file": "releases/3-5-0-alpha-1/c-api/null-buffer-view-errors.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / null buffer view errors.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / c api / sys", "file": "releases/3-5-0-alpha-1/c-api/sys.md", "summary": "Open when checking Python 3.5.0 alpha 1 / c api / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

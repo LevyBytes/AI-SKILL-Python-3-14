@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "test — Running tests using the command-line interface", "file": "test/running-tests-using-the-command-line-interface.md", "summary": "Open when checking test — Running tests using the command-line interface.", "keywords": []},
+    {"topic": "test — `test` — Regression tests package for Python", "file": "test/test-regression-tests-package-for-python.md", "summary": "Open when checking test — `test` — Regression tests package for Python.", "keywords": []},
+    {"topic": "test — Writing Unit Tests for the `test` package — Code example: class TestFuncAcceptsSequencesMixin:", "file": "sequence-acceptance-test-mixin-example.md", "summary": "Open when checking test — Writing Unit Tests for the `test` package — Code example: class TestFuncAcceptsSequencesMixin:.", "keywords": []},
+    {"topic": "test — Writing Unit Tests for the `test` package — Section introduction and initial examples", "file": "cpython-unit-test-authoring-overview.md", "summary": "Open when checking test — Writing Unit Tests for the `test` package — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

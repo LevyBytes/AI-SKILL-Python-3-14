@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / build / build and platforms", "file": "releases/3-8-0-alpha-4/build/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / correct regression setup py refactoring bpo 36146 had introduced", "file": "setup-script-refactoring-regression.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / correct regression setup py refactoring bpo 36146 had introduced.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / distutils", "file": "releases/3-8-0-alpha-4/build/distutils.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / distutils.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / drop mentions aix3 aix4", "file": "releases/3-8-0-alpha-4/build/drop-mentions-aix3-aix4.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / drop mentions aix3 aix4.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / drop obsolete scriptsinstall makefile target", "file": "releases/3-8-0-alpha-4/build/drop-obsolete-scriptsinstall-makefile-target.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / drop obsolete scriptsinstall makefile target.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / imports and modules", "file": "releases/3-8-0-alpha-4/build/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / memory and lifetimes", "file": "releases/3-8-0-alpha-4/build/memory-and-lifetimes.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / once more setup py accurately flags openssl headers libraries absent", "file": "missing-openssl-build-diagnostics.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / once more setup py accurately flags openssl headers libraries absent.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / python", "file": "releases/3-8-0-alpha-4/build/python.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / python.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / skip building crypt extension under vxworks", "file": "releases/3-8-0-alpha-4/build/skip-building-crypt-extension-under-vxworks.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / skip building crypt extension under vxworks.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / build / sys", "file": "releases/3-8-0-alpha-4/build/sys.md", "summary": "Open when checking Python 3.8.0 alpha 4 / build / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

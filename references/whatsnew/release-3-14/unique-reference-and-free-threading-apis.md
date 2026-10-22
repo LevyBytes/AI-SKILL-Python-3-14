@@ -1,0 +1,7 @@
+# Python 3.14 changes: Unique-reference checks and free-threaded APIs
+
+- Introduce [`PyUnstable_Object_IsUniquelyReferenced()`](https://docs.python.org/3.14/c-api/object.html#c.PyUnstable_Object_IsUniquelyReferenced) to stand in for `Py_REFCNT(op) == 1` on [free threaded](https://docs.python.org/3.14/glossary.html#term-free-threading) builds. (Contributed by Peter Bierma in [gh-133140](https://github.com/python/cpython/issues/133140).)
+
+- Introduce [`PyUnstable_Object_IsUniqueReferencedTemporary()`](https://docs.python.org/3.14/c-api/object.html#c.PyUnstable_Object_IsUniqueReferencedTemporary), which reports whether an object is a unique temporary sitting on the interpreter’s operand stack. In certain situations this can stand in for testing whether [`Py_REFCNT()`](https://docs.python.org/3.14/c-api/refcounting.html#c.Py_REFCNT) equals `1` for Python objects handed to C API functions as arguments. (Contributed by Sam Gross in [gh-133164](https://github.com/python/cpython/issues/133164).)
+
+[Subject index](INDEX.md) · [Previous source section](c-api-type-freezing-and-unicode-writer.md) · [Next source section](c-api-changes-limited-c-api-changes.md) · [Release/subject declaration](summary-release-highlights.md) · [Release/subject declaration](c-api-changes-python-configuration-c-api.md) · [Release/subject declaration](c-api-additions.md) · [Preceding release/subject continuation](c-api-additions.md)

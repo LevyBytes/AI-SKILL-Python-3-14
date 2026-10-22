@@ -1,0 +1,10 @@
+{"schema_version": 1, "topics": [
+  {"topic": "poplib — POP3 Example", "file": "poplib/pop3-example.md", "summary": "Open when checking poplib — POP3 Example.", "keywords": []},
+  {"topic": "poplib — POP3 protocol client", "file": "poplib/pop3-protocol-client.md", "summary": "Open when checking poplib — POP3 protocol client.", "keywords": []},
+  {"topic": "poplib: POP3 authentication, mailbox and message commands", "file": "poplib/pop3-set-debuglevel-to-pop3-utf8.md", "summary": "Open when checking POP3 authentication, mailbox and message commands in poplib.", "keywords": []},
+  {"topic": "poplib: `POP3.stls()`", "file": "poplib/pop3-stls.md", "summary": "Open when checking the documented contracts for `POP3.stls()` in poplib.", "keywords": []},
+  {"topic": "poplib: `poplib.POP3`", "file": "poplib/poplib-pop3-class.md", "summary": "Open when checking the documented contracts for `poplib.POP3` in poplib.", "keywords": []},
+  {"topic": "poplib: `poplib.POP3_SSL`", "file": "poplib/poplib-pop3-ssl-class.md", "summary": "Open when checking the documented contracts for `poplib.POP3_SSL` in poplib.", "keywords": []},
+  {"topic": "poplib: `poplib.error_proto`", "file": "poplib/poplib-error-proto.md", "summary": "Open when checking the documented contracts for `poplib.error_proto` in poplib.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

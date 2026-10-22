@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Graphical and interactive applications / curses textpad", "file": "curses-textpad/INDEX.md", "summary": "Open when checking curses textpad.", "keywords": []},
+  {"topic": "Graphical and interactive applications / frameworks", "file": "frameworks/INDEX.md", "summary": "Open when checking frameworks.", "keywords": []},
+  {"topic": "Graphical and interactive applications / turtledemo", "file": "turtledemo/INDEX.md", "summary": "Open when checking turtledemo.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

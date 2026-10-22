@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "C API pending removal in 3.15: Global configuration variables", "file": "c-api-removals/python-3-15/global-configuration-variables.md", "summary": "Open when checking C API pending removal in 3.15: Global configuration variables.", "keywords": []},
+    {"topic": "C API pending removal in 3.15: Initialization configuration functions", "file": "c-api-removals/python-3-15/initialization-configuration-functions.md", "summary": "Open when checking C API pending removal in 3.15: Initialization configuration functions.", "keywords": []},
+    {"topic": "C API pending removal in 3.15: PyImport_ImportModuleNoBlock(); PyWeakref_GetObject() and PyWeakref_GET_OBJECT(); Py_UNICODE type together with the Py_UNICODE_WIDE macro; PyUnicode_AsDecodedObject(); PyUnicode_AsDecodedUnicode(); PyUnicode_AsEncodedObject(); PyUnicode_AsEncodedUnicode(); Initialization getters", "file": "c-api-removals/python-3-15/pyimport-importmodulenoblock-through-initialization-getters.md", "summary": "Open when checking C API pending removal in 3.15: PyImport_ImportModuleNoBlock(); PyWeakref_GetObject() and PyWeakref_GET_OBJECT(); Py_UNICODE type together with the Py_UNICODE_WIDE macro; PyUnicode_AsDecodedObject(); PyUnicode_AsDecodedUnicode(); PyUnicode_AsEncodedObject(); PyUnicode_AsEncodedUnicode(); Initialization getters.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

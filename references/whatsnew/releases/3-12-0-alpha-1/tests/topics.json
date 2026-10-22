@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 1 / tests / address test ssl test get ciphers issue systems mandate perfect forward secrecy", "file": "ssl-cipher-tests-and-forward-secrecy.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / address test ssl test get ciphers issue systems mandate perfect forward secrecy.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / build and platforms", "file": "releases/3-12-0-alpha-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / ctypes", "file": "releases/3-12-0-alpha-1/tests/ctypes.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / ctypes.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / dataclasses", "file": "releases/3-12-0-alpha-1/tests/dataclasses.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / dataclasses.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / errno", "file": "releases/3-12-0-alpha-1/tests/errno.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / errno.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / exceptions and tracebacks", "file": "releases/3-12-0-alpha-1/tests/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / files and paths", "file": "releases/3-12-0-alpha-1/tests/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / importlib resources", "file": "releases/3-12-0-alpha-1/tests/importlib-resources.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / importlib resources.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / imports and modules", "file": "releases/3-12-0-alpha-1/tests/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / multiprocessing", "file": "releases/3-12-0-alpha-1/tests/multiprocessing.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / number", "file": "releases/3-12-0-alpha-1/tests/number.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / number.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / os", "file": "releases/3-12-0-alpha-1/tests/os.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / os.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / re", "file": "releases/3-12-0-alpha-1/tests/re.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / re.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / renamed test tk test tkinter test ttk guionly test ttk", "file": "releases/3-12-0-alpha-1/tests/renamed-test-tk-test-tkinter-test-ttk-guionly-test-ttk.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / renamed test tk test tkinter test ttk guionly test ttk.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / repaired test embed builds done out tree", "file": "releases/3-12-0-alpha-1/tests/repaired-test-embed-builds-done-out-tree.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / repaired test embed builds done out tree.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / sys", "file": "releases/3-12-0-alpha-1/tests/sys.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / sys.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / tests and documentation", "file": "releases/3-12-0-alpha-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / text and unicode", "file": "releases/3-12-0-alpha-1/tests/text-and-unicode.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / text and unicode.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / threads and concurrency", "file": "releases/3-12-0-alpha-1/tests/threads-and-concurrency.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tests / within test bdb statetestcase test skip steer clear pulling auxiliary importers", "file": "debugger-skip-test-import-isolation.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tests / within test bdb statetestcase test skip steer clear pulling auxiliary importers.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

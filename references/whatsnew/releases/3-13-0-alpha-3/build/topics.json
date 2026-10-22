@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 3 / build / build and platforms", "file": "releases/3-13-0-alpha-3/build/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / build / collections and iteration", "file": "releases/3-13-0-alpha-3/build/collections-and-iteration.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / build / files and paths", "file": "releases/3-13-0-alpha-3/build/files-and-paths.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / build / leave ipv6type unset while cross compiling", "file": "releases/3-13-0-alpha-3/build/leave-ipv6type-unset-while-cross-compiling.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / leave ipv6type unset while cross compiling.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / build / modules", "file": "releases/3-13-0-alpha-3/build/modules.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / build / os", "file": "releases/3-13-0-alpha-3/build/os.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / os.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / build / threads and concurrency", "file": "releases/3-13-0-alpha-3/build/threads-and-concurrency.md", "summary": "Open when checking Python 3.13.0 alpha 3 / build / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

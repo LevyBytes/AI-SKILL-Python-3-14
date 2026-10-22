@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "c api removals", "file": "c-api-removals/INDEX.md", "summary": "Open when checking c api removals.", "keywords": []},
+    {"topic": "language library removals", "file": "language-library-removals/INDEX.md", "summary": "Open when checking language library removals.", "keywords": []},
+    {"topic": "Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 4 / library / annotationlib", "file": "releases/3-14-0-beta-4/library/annotationlib.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / annotationlib.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / crash debug builds whenever hacl hmac routine fails fixed", "file": "releases/3-14-0-beta-4/library/crash-debug-builds-whenever-hacl-hmac-routine-fails-fixed.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / crash debug builds whenever hacl hmac routine fails fixed.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / decimal", "file": "releases/3-14-0-beta-4/library/decimal.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / decimal.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / exceptions and tracebacks", "file": "releases/3-14-0-beta-4/library/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / exceptions", "file": "releases/3-14-0-beta-4/library/exceptions.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / fractions", "file": "releases/3-14-0-beta-4/library/fractions.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / fractions.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / heapq", "file": "releases/3-14-0-beta-4/library/heapq.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / heapq.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / logging", "file": "releases/3-14-0-beta-4/library/logging.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / logging.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / multiprocessing", "file": "releases/3-14-0-beta-4/library/multiprocessing.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / netrc", "file": "releases/3-14-0-beta-4/library/netrc.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / netrc.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / pickling failures under protocols fixed numerous objects tied subinterpreters", "file": "subinterpreter-object-legacy-pickle-protocols.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / pickling failures under protocols fixed numerous objects tied subinterpreters.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / sys", "file": "releases/3-14-0-beta-4/library/sys.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / sys.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / text and unicode", "file": "releases/3-14-0-beta-4/library/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / time", "file": "releases/3-14-0-beta-4/library/time.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / time.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / types", "file": "releases/3-14-0-beta-4/library/types.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / types.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / typing", "file": "releases/3-14-0-beta-4/library/typing.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / typing.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / xml etree elementtree", "file": "releases/3-14-0-beta-4/library/xml-etree-elementtree.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / xml etree elementtree.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / library / zoneinfo", "file": "releases/3-14-0-beta-4/library/zoneinfo.md", "summary": "Open when checking Python 3.14.0 beta 4 / library / zoneinfo.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

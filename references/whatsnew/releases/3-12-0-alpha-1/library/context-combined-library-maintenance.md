@@ -1,0 +1,52 @@
+# Combined library maintenance
+
+Select by the documented task or API context. [Topic catalog](context-combined-library-maintenance.json).
+
+- Open when checking Python 3.12.0 alpha 1 / library / functions and types. [Combined library maintenance / Python 3.12.0 alpha 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.12.0 alpha 1 / library / asyncio. [Combined library maintenance / Python 3.12.0 alpha 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.12.0 alpha 1 / library / collections and iteration. [Combined library maintenance / Python 3.12.0 alpha 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.12.0 alpha 1 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.12.0 alpha 1 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.12.0 alpha 1 / library / files and paths. [Combined library maintenance / Python 3.12.0 alpha 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.12.0 alpha 1 / library / importlib. [Combined library maintenance / Python 3.12.0 alpha 1 / library / importlib](importlib.md).
+- Open when checking Python 3.12.0 alpha 1 / library / sys. [Combined library maintenance / Python 3.12.0 alpha 1 / library / sys](sys.md).
+- Open when checking Python 3.12.0 alpha 1 / library / urllib parse. [Combined library maintenance / Python 3.12.0 alpha 1 / library / urllib parse](urllib-parse.md).
+- Open when checking Python 3.12.0 alpha 1 / library / venv. [Combined library maintenance / Python 3.12.0 alpha 1 / library / venv](venv.md).
+- Open when checking Python 3.12.0 alpha 1 / library / socket. [Combined library maintenance / Python 3.12.0 alpha 1 / library / socket](socket.md).
+- Open when checking Python 3.12.0 alpha 1 / library / struct. [Combined library maintenance / Python 3.12.0 alpha 1 / library / struct](struct.md).
+- Open when checking Python 3.12.0 alpha 1 / library / typing. [Combined library maintenance / Python 3.12.0 alpha 1 / library / typing](typing.md).
+- Open when checking Python 3.12.0 alpha 1 / library / datetime. [Combined library maintenance / Python 3.12.0 alpha 1 / library / datetime](datetime.md).
+- Open when checking Python 3.12.0 alpha 1 / library / imports and modules. [Combined library maintenance / Python 3.12.0 alpha 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.12.0 alpha 1 / library / incompatible change originating bpo 28080 reverted had created regression disregarded. [Combined library maintenance / Python 3.12.0 alpha 1 / library / incompatible change originating bpo 28080 reverted had created regression disregarded](zip-info-utf8-flag-regression.md).
+- Open when checking Python 3.12.0 alpha 1 / library / logging. [Combined library maintenance / Python 3.12.0 alpha 1 / library / logging](logging.md).
+- Open when checking Python 3.12.0 alpha 1 / library / threads and concurrency. [Combined library maintenance / Python 3.12.0 alpha 1 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.12.0 alpha 1 / library / unicodedata. [Combined library maintenance / Python 3.12.0 alpha 1 / library / unicodedata](unicodedata.md).
+- Open when checking Python 3.12.0 alpha 1 / library / unittest. [Combined library maintenance / Python 3.12.0 alpha 1 / library / unittest](unittest.md).
+- Open when checking Python 3.12.0 alpha 1 / library / asyncio runner. [Combined library maintenance / Python 3.12.0 alpha 1 / library / asyncio runner](asyncio-runner.md).
+- Open when checking Python 3.12.0 alpha 1 / library / asyncio task. [Combined library maintenance / Python 3.12.0 alpha 1 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.12.0 alpha 1 / library / concurrent futures. [Combined library maintenance / Python 3.12.0 alpha 1 / library / concurrent futures](concurrent-futures.md).
+- Open when checking Python 3.12.0 alpha 1 / library / email. [Combined library maintenance / Python 3.12.0 alpha 1 / library / email](email.md).
+- Open when checking Python 3.12.0 alpha 1 / library / enum. [Combined library maintenance / Python 3.12.0 alpha 1 / library / enum](enum.md).
+- Open when checking Python 3.12.0 alpha 1 / library / inspect. [Combined library maintenance / Python 3.12.0 alpha 1 / library / inspect](inspect.md).
+- Open when checking Python 3.12.0 alpha 1 / library / os. [Combined library maintenance / Python 3.12.0 alpha 1 / library / os](os.md).
+- Open when checking Python 3.12.0 alpha 1 / library / pathlib. [Combined library maintenance / Python 3.12.0 alpha 1 / library / pathlib](pathlib.md).
+- Open when checking Python 3.12.0 alpha 1 / library / sqlite3. [Combined library maintenance / Python 3.12.0 alpha 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.12.0 alpha 1 / library / vendored pip advances. [Combined library maintenance / Python 3.12.0 alpha 1 / library / vendored pip advances](vendored-pip-advances.md).
+- Open when checking Python 3.12.0 alpha 1 / library / traceback. [Combined library maintenance / Python 3.12.0 alpha 1 / library / traceback](traceback.md).
+- Open when checking Python 3.12.0 alpha 1 / library / copy. [Combined library maintenance / Python 3.12.0 alpha 1 / library / copy](copy.md).
+- Open when checking Python 3.12.0 alpha 1 / library / ssl. [Combined library maintenance / Python 3.12.0 alpha 1 / library / ssl](ssl.md).
+- Open when checking Python 3.12.0 alpha 1 / library / functions. [Combined library maintenance / Python 3.12.0 alpha 1 / library / functions](functions.md).
+- Open when checking Python 3.12.0 alpha 1 / library / argparse. [Combined library maintenance / Python 3.12.0 alpha 1 / library / argparse](argparse.md).
+- Open when checking Python 3.12.0 alpha 1 / library / dataclasses. [Combined library maintenance / Python 3.12.0 alpha 1 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.12.0 alpha 1 / library / exceptions. [Combined library maintenance / Python 3.12.0 alpha 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.12.0 alpha 1 / library / ast. [Combined library maintenance / Python 3.12.0 alpha 1 / library / ast](ast.md).
+- Open when checking Python 3.12.0 alpha 1 / library / ctypes. [Combined library maintenance / Python 3.12.0 alpha 1 / library / ctypes](ctypes.md).
+- Open when checking Python 3.12.0 alpha 1 / library / dis. [Combined library maintenance / Python 3.12.0 alpha 1 / library / dis](dis.md).
+- Open when checking Python 3.12.0 alpha 1 / library / text and unicode. [Combined library maintenance / Python 3.12.0 alpha 1 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.12.0 alpha 1 / library / csv. [Combined library maintenance / Python 3.12.0 alpha 1 / library / csv](csv.md).
+- Open when checking Python 3.12.0 alpha 1 / library / python. [Combined library maintenance / Python 3.12.0 alpha 1 / library / python](python.md).
+- Open when checking Python 3.12.0 alpha 1 / library / threading. [Combined library maintenance / Python 3.12.0 alpha 1 / library / threading](threading.md).
+- Open when checking Python 3.12.0 alpha 1 / library / re. [Combined library maintenance / Python 3.12.0 alpha 1 / library / re](re.md).
+- Open when checking Python 3.12.0 alpha 1 / library / tarfile. [Combined library maintenance / Python 3.12.0 alpha 1 / library / tarfile](tarfile.md).
+- Open when checking Python 3.12.0 alpha 1 / library / stdtypes. [Combined library maintenance / Python 3.12.0 alpha 1 / library / stdtypes](stdtypes.md).
+- Open when checking Python 3.12.0 alpha 1 / library / tempfile. [Combined library maintenance / Python 3.12.0 alpha 1 / library / tempfile](tempfile.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 3 / macos / build and platforms", "file": "releases/3-10-0-alpha-3/macos/build-and-platforms.md", "summary": "Open when checking Python 3.10.0 alpha 3 / macos / build and platforms.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / macos / collections and iteration", "file": "releases/3-10-0-alpha-3/macos/collections-and-iteration.md", "summary": "Open when checking Python 3.10.0 alpha 3 / macos / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / macos / mmap", "file": "releases/3-10-0-alpha-3/macos/mmap.md", "summary": "Open when checking Python 3.10.0 alpha 3 / macos / mmap.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

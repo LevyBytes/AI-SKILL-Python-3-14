@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Linker flags / LINKCC", "file": "build-configuration/linkcc.md", "summary": "Open when checking LINKCC.", "keywords": []},
+  {"topic": "Linker flags / CONFIGURE_LDFLAGS", "file": "build-configuration/configure-ldflags.md", "summary": "Open when checking CONFIGURE_LDFLAGS.", "keywords": []},
+  {"topic": "Linker flags / LDFLAGS_NODIST", "file": "build-configuration/ldflags-nodist.md", "summary": "Open when checking LDFLAGS_NODIST.", "keywords": []},
+  {"topic": "Linker flags / CONFIGURE_LDFLAGS_NODIST", "file": "build-configuration/configure-ldflags-nodist.md", "summary": "Open when checking CONFIGURE_LDFLAGS_NODIST.", "keywords": []},
+  {"topic": "Linker flags / LDSHARED", "file": "build-configuration/ldshared.md", "summary": "Open when checking LDSHARED.", "keywords": []},
+  {"topic": "Linker flags / BLDSHARED", "file": "build-configuration/bldshared.md", "summary": "Open when checking BLDSHARED.", "keywords": []},
+  {"topic": "Linker flags / PY_LDFLAGS", "file": "build-configuration/py-ldflags.md", "summary": "Open when checking PY_LDFLAGS.", "keywords": []},
+  {"topic": "Linker flags / PY_LDFLAGS_NODIST", "file": "build-configuration/py-ldflags-nodist.md", "summary": "Open when checking PY_LDFLAGS_NODIST.", "keywords": []},
+  {"topic": "Linker flags / PY_CORE_LDFLAGS", "file": "build-configuration/py-core-ldflags.md", "summary": "Open when checking PY_CORE_LDFLAGS.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

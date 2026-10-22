@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Creating Subprocesses", "file": "subprocess-exec-and-shell-creation.md", "summary": "Open when checking Creating Subprocesses.", "keywords": []},
+  {"topic": "Constants", "file": "asyncio-subprocess/asyncio-subprocess-pipe-to-asyncio-subprocess-devnull.md", "summary": "Open when checking Constants.", "keywords": []},
+  {"topic": "asyncio.subprocess: `asyncio.subprocess.Process`", "file": "asyncio-subprocess/asyncio-subprocess-process-class.md", "summary": "Open when checking the documented contracts for `asyncio.subprocess.Process` in asyncio.subprocess.", "keywords": []},
+  {"topic": "asyncio.subprocess: `wait()`, `communicate()`, `send_signal()`, `terminate()`, `kill()`", "file": "subprocess-wait-communicate-and-signals.md", "summary": "Open when checking the documented contracts for `wait()`, `communicate()`, `send_signal()`, `terminate()`, `kill()` in asyncio.subprocess.", "keywords": []},
+  {"topic": "asyncio.subprocess: Async subprocess PID and return-code fields", "file": "asyncio-subprocess/interacting-with-subprocesses.md", "summary": "Open when checking async subprocess PID and return-code fields in asyncio.subprocess.", "keywords": []},
+  {"topic": "Examples", "file": "asyncio-subprocess/examples.md", "summary": "Open when checking Examples.", "keywords": []},
+  {"topic": "Subprocess and Threads", "file": "asyncio-subprocess/subprocess-and-threads.md", "summary": "Open when checking Subprocess and Threads.", "keywords": []},
+  {"topic": "Subprocesses", "file": "asyncio-subprocess/subprocesses.md", "summary": "Open when checking Subprocesses.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

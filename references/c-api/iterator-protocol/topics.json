@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "iterator protocol C API: `PyIter_Check()`, `PyAIter_Check()`, `PyIter_NextItem()`, `PyIter_Next()`", "file": "iterator-protocol/pyiter-check-to-pyiter-next.md", "summary": "Open when checking the documented contracts for `PyIter_Check()`, `PyAIter_Check()`, `PyIter_NextItem()`, `PyIter_Next()` in iterator protocol C API.", "keywords": []},
+  {"topic": "iterator protocol C API: `PySendResult`, `PyIter_Send()`", "file": "iterator-protocol/pysendresult-to-pyiter-send.md", "summary": "Open when checking the documented contracts for `PySendResult`, `PyIter_Send()` in iterator protocol C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

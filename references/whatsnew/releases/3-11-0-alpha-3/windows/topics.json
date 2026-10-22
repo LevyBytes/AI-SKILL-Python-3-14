@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 3 / windows / corrected python launcher can tell versions apart whenever either", "file": "windows-launcher-version-distinction.md", "summary": "Open when checking Python 3.11.0 alpha 3 / windows / corrected python launcher can tell versions apart whenever either.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / windows / imports and modules", "file": "releases/3-11-0-alpha-3/windows/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 3 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / windows / python", "file": "releases/3-11-0-alpha-3/windows/python.md", "summary": "Open when checking Python 3.11.0 alpha 3 / windows / python.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / windows / refreshes bundled tcl tk", "file": "releases/3-11-0-alpha-3/windows/refreshes-bundled-tcl-tk.md", "summary": "Open when checking Python 3.11.0 alpha 3 / windows / refreshes bundled tcl tk.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / windows / removed", "file": "releases/3-11-0-alpha-3/windows/removed.md", "summary": "Open when checking Python 3.11.0 alpha 3 / windows / removed.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / windows / sys", "file": "releases/3-11-0-alpha-3/windows/sys.md", "summary": "Open when checking Python 3.11.0 alpha 3 / windows / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

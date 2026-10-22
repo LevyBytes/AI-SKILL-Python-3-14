@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / documentation / functions and types", "file": "releases/3-8-0-alpha-4/documentation/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 4 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / documentation / imports and modules", "file": "releases/3-8-0-alpha-4/documentation/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 4 / documentation / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / documentation / strip outdated comments out docstrings within fractions fraction", "file": "fraction-obsolete-docstring-comments.md", "summary": "Open when checking Python 3.8.0 alpha 4 / documentation / strip outdated comments out docstrings within fractions fraction.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / documentation / tests and documentation", "file": "releases/3-8-0-alpha-4/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 alpha 4 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / documentation / wsgiref", "file": "releases/3-8-0-alpha-4/documentation/wsgiref.md", "summary": "Open when checking Python 3.8.0 alpha 4 / documentation / wsgiref.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

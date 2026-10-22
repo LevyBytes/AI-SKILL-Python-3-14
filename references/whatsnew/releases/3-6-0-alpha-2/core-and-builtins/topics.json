@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / collections and iteration", "file": "releases/3-6-0-alpha-2/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / compiler and parser", "file": "releases/3-6-0-alpha-2/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / exceptions and tracebacks", "file": "releases/3-6-0-alpha-2/core-and-builtins/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / gave open support os pathlike objects one piece pep", "file": "releases/3-6-0-alpha-2/core-and-builtins/gave-open-support-os-pathlike-objects-one-piece-pep.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / gave open support os pathlike objects one piece pep.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / numeric behavior", "file": "releases/3-6-0-alpha-2/core-and-builtins/numeric-behavior.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / sqlite3", "file": "releases/3-6-0-alpha-2/core-and-builtins/sqlite3.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / sqlite3.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / streamlined make function dropped make closure opcodes", "file": "releases/3-6-0-alpha-2/core-and-builtins/streamlined-make-function-dropped-make-closure-opcodes.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / streamlined make function dropped make closure opcodes.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / core and builtins / text and unicode", "file": "releases/3-6-0-alpha-2/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.6.0 alpha 2 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

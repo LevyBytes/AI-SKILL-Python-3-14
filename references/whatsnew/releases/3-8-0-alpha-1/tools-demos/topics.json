@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / files and paths", "file": "releases/3-8-0-alpha-1/tools-demos/files-and-paths.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / files and paths.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / functions and types", "file": "releases/3-8-0-alpha-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / provide benchmarking script times several approaches reaching variables tools", "file": "variable-access-benchmark-script.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / provide benchmarking script times several approaches reaching variables tools.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / python", "file": "releases/3-8-0-alpha-1/tools-demos/python.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / python.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / repair pystackv pystack gdbinit macros", "file": "releases/3-8-0-alpha-1/tools-demos/repair-pystackv-pystack-gdbinit-macros.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / repair pystackv pystack gdbinit macros.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / text and unicode", "file": "releases/3-8-0-alpha-1/tools-demos/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / text and unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / tools demos / venv", "file": "releases/3-8-0-alpha-1/tools-demos/venv.md", "summary": "Open when checking Python 3.8.0 alpha 1 / tools demos / venv.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "C API pending removal in 3.18: Private functions and replacement APIs", "file": "c-api-removals/python-3-18/private-functions-and-replacement-apis.md", "summary": "Open when checking C API pending removal in 3.18: Private functions and replacement APIs.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

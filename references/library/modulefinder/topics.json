@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "modulefinder — Example usage of `ModuleFinder`", "file": "modulefinder/example-usage-of-modulefinder.md", "summary": "Open when checking modulefinder — Example usage of `ModuleFinder`.", "keywords": []},
+  {"topic": "modulefinder: `modulefinder.AddPackagePath()`, `modulefinder.ReplacePackage()`", "file": "modulefinder/modulefinder-addpackagepath-to-modulefinder-replacepackage.md", "summary": "Open when checking the documented contracts for `modulefinder.AddPackagePath()`, `modulefinder.ReplacePackage()` in modulefinder.", "keywords": []},
+  {"topic": "modulefinder / Find modules used by a script: `modulefinder.ModuleFinder`, `report()`, `run_script()`", "file": "module-finder-analysis-and-script-execution.md", "summary": "Open when checking the documented contracts for `modulefinder.ModuleFinder`, `report()`, `run_script()` in modulefinder / Find modules used by a script.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

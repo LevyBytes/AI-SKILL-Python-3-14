@@ -1,0 +1,20 @@
+# Upstream feature guide navigation for Python 2.4
+
+- [What’s New in Python 2.4](https://docs.python.org/3.14/whatsnew/2.4.html)
+  - [PEP 218: Built-In Set Objects](https://docs.python.org/3.14/whatsnew/2.4.html#pep-218-built-in-set-objects)
+  - [PEP 237: Unifying Long Integers and Integers](https://docs.python.org/3.14/whatsnew/2.4.html#pep-237-unifying-long-integers-and-integers)
+  - [PEP 289: Generator Expressions](https://docs.python.org/3.14/whatsnew/2.4.html#pep-289-generator-expressions)
+  - [PEP 292: Simpler String Substitutions](https://docs.python.org/3.14/whatsnew/2.4.html#pep-292-simpler-string-substitutions)
+  - [PEP 318: Decorators for Functions and Methods](https://docs.python.org/3.14/whatsnew/2.4.html#pep-318-decorators-for-functions-and-methods)
+  - [PEP 322: Reverse Iteration](https://docs.python.org/3.14/whatsnew/2.4.html#pep-322-reverse-iteration)
+  - [PEP 324: New subprocess Module](https://docs.python.org/3.14/whatsnew/2.4.html#pep-324-new-subprocess-module)
+  - [PEP 327: Decimal Data Type](https://docs.python.org/3.14/whatsnew/2.4.html#pep-327-decimal-data-type)
+  - [PEP 328: Multi-line Imports](https://docs.python.org/3.14/whatsnew/2.4.html#pep-328-multi-line-imports)
+  - [PEP 331: Locale-Independent Float/String Conversions](https://docs.python.org/3.14/whatsnew/2.4.html#pep-331-locale-independent-float-string-conversions)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/2.4.html#other-language-changes)
+  - [New, Improved, and Deprecated Modules](https://docs.python.org/3.14/whatsnew/2.4.html#new-improved-and-deprecated-modules)
+  - [Build and C API Changes](https://docs.python.org/3.14/whatsnew/2.4.html#build-and-c-api-changes)
+  - [Porting to Python 2.4](https://docs.python.org/3.14/whatsnew/2.4.html#porting-to-python-2-4)
+  - [Acknowledgements](https://docs.python.org/3.14/whatsnew/2.4.html#acknowledgements)
+
+[Subject index](INDEX.md) · [Previous source section](../release-2-5/release-overview.md) · [Next source section](../release-2-3/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md) · [Preceding release/subject continuation](../release-3-1/release-overview.md)

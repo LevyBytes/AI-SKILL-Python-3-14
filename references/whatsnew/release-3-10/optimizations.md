@@ -1,0 +1,27 @@
+# What's New In Python 3.10 / Optimizations — bz2, lzma, runpy, zlib
+
+### Optimizations
+
+- Constructors [`str()`](https://docs.python.org/3.14/library/stdtypes.html#str), [`bytes()`](https://docs.python.org/3.14/library/stdtypes.html#bytes) and [`bytearray()`](https://docs.python.org/3.14/library/stdtypes.html#bytearray) now run faster (roughly 30–40% for small objects). (Contributed by Serhiy Storchaka in [bpo-41334](https://bugs.python.org/issue?@action=redirect&bpo=41334).)
+
+- Fewer modules get imported by the [`runpy`](https://docs.python.org/3.14/library/runpy.html#module-runpy) module now. Startup time for the `python3 -m module-name` command runs 1.4x faster on average. On Linux, `python3 -I -m module-name` brings in 69 modules under Python 3.9, while on Python 3.10 it imports just 51 modules (-18). (Contributed by Victor Stinner in [bpo-41006](https://bugs.python.org/issue?@action=redirect&bpo=41006) and [bpo-41718](https://bugs.python.org/issue?@action=redirect&bpo=41718).)
+
+- The `LOAD_ATTR` instruction now relies on a new "per opcode cache" mechanism. Slots see roughly a 44% speedup, while regular attributes get about 36% faster. (Work in [bpo-42093](https://bugs.python.org/issue?@action=redirect&bpo=42093) contributed by Pablo Galindo and Yury Selivanov; Guido van Rossum contributed [bpo-42927](https://bugs.python.org/issue?@action=redirect&bpo=42927); the approach is rooted in ideas first built in PyPy and MicroPython.)
+
+- While building Python with [`--enable-optimizations`](https://docs.python.org/3.14/using/configure.html#cmdoption-enable-optimizations), the flag `-fno-semantic-interposition` now gets appended to both the compile and link line. With `gcc`, this accelerates builds of the Python interpreter made using [`--enable-shared`](https://docs.python.org/3.14/using/configure.html#cmdoption-enable-shared) by as much as 30%. Further detail appears in [this article](https://developers.redhat.com/blog/2020/06/25/red-hat-enterprise-linux-8-2-brings-faster-python-3-8-run-speeds/). (Contributed by Victor Stinner and Pablo Galindo in [bpo-38980](https://bugs.python.org/issue?@action=redirect&bpo=38980).)
+
+- Switch the [`bz2`](https://docs.python.org/3.14/library/bz2.html#module-bz2) / [`lzma`](https://docs.python.org/3.14/library/lzma.html#module-lzma) / [`zlib`](https://docs.python.org/3.14/library/zlib.html#module-zlib) modules to new output buffer management code, and add a `.readall()` function on the `_compression.DecompressReader` class. Decompression speed climbs to 1.09x ~ 1.17x for bz2, 1.20x ~ 1.32x for lzma, and 1.11x ~ 1.18x for `GzipFile.read(-1)`. (Contributed by Ma Lin, reviewed by Gregory P. Smith, in [bpo-41486](https://bugs.python.org/issue?@action=redirect&bpo=41486))
+
+- With stringized annotations, the annotations dicts for functions are no longer built at the moment the function is created. They are instead kept as a tuple of strings, and the function object converts that lazily into the annotations dict only when something asks for it. This optimization halves the CPU time required to define an annotated function. (Contributed by Yurii Karabas and Inada Naoki in [bpo-42202](https://bugs.python.org/issue?@action=redirect&bpo=42202).)
+
+-
+
+To dodge quadratic slowdowns on lengthy strings, substring lookups like `str1 in str2` and `str2.find(str1)` may now reach for the Crochemore & Perrin "Two-Way" search routine. (Contributed by Dennis Sweeney in [bpo-41972](https://bugs.python.org/issue?@action=redirect&bpo=41972))
+
+- Several micro-optimizations were added to `_PyType_Lookup()` so that, when the attribute cache hits (the typical path), type lookups go faster. On average the interpreter runs 1.04 times faster. (Contributed by Dino Viehland in [bpo-43452](https://bugs.python.org/issue?@action=redirect&bpo=43452).)
+
+- These built-in callables gained support for the speedier [**PEP 590**](https://peps.python.org/pep-0590/) vectorcall protocol: [`map()`](https://docs.python.org/3.14/library/functions.html#map), [`filter()`](https://docs.python.org/3.14/library/functions.html#filter), [`reversed()`](https://docs.python.org/3.14/library/functions.html#reversed), [`bool()`](https://docs.python.org/3.14/library/functions.html#bool) and [`float()`](https://docs.python.org/3.14/library/functions.html#float). (Contributed by Donghee Na and Jeroen Demeyer in [bpo-43575](https://bugs.python.org/issue?@action=redirect&bpo=43575), [bpo-43287](https://bugs.python.org/issue?@action=redirect&bpo=43287), [bpo-41922](https://bugs.python.org/issue?@action=redirect&bpo=41922), [bpo-41873](https://bugs.python.org/issue?@action=redirect&bpo=41873) and [bpo-41870](https://bugs.python.org/issue?@action=redirect&bpo=41870).)
+
+- Dropping the internal `RLock` speeds up [`BZ2File`](https://docs.python.org/3.14/library/bz2.html#bz2.BZ2File). The tradeoff is that `BZ2File` becomes thread unsafe when several readers or writers operate at once — matching the long-standing behavior of the parallel classes in [`gzip`](https://docs.python.org/3.14/library/gzip.html#module-gzip) and [`lzma`](https://docs.python.org/3.14/library/lzma.html#module-lzma). (Contributed by Inada Naoki in [bpo-43785](https://bugs.python.org/issue?@action=redirect&bpo=43785).)
+
+[Subject index](INDEX.md) · [Previous source section](zipimport.md) · [Release/subject declaration](summary-release-highlights.md) · [Next source section](deprecated.md)

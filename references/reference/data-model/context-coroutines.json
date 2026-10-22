@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/reference", "topics": [
+  {"topic": "Coroutines / 3.4.1. Awaitable Objects", "file": "data-model/awaitable-objects.md", "summary": "Open when checking 3.4.1. Awaitable Objects.", "keywords": []},
+  {"topic": "Coroutines / object.__await__(*self*)", "file": "data-model/object-await.md", "summary": "Open when checking object.__await__(*self*).", "keywords": []},
+  {"topic": "Coroutines / 3.4.2. Coroutine Objects", "file": "data-model/coroutine-objects.md", "summary": "Open when checking 3.4.2. Coroutine Objects.", "keywords": []},
+  {"topic": "Coroutines / coroutine.send(*value*)", "file": "data-model/coroutine-send.md", "summary": "Open when checking coroutine.send(*value*).", "keywords": []},
+  {"topic": "Coroutines / coroutine.throw(*value*) / coroutine.throw(*type*[, *value*[, *traceback*]])", "file": "data-model/coroutine-exception-injection.md", "summary": "Open when checking coroutine.throw(*value*) / coroutine.throw(*type*[, *value*[, *traceback*]]).", "keywords": []},
+  {"topic": "Coroutines / coroutine.close()", "file": "data-model/coroutine-close.md", "summary": "Open when checking coroutine.close().", "keywords": []},
+  {"topic": "Coroutines / 3.4.3. Asynchronous Iterators", "file": "data-model/asynchronous-iterators.md", "summary": "Open when checking 3.4.3. Asynchronous Iterators.", "keywords": []},
+  {"topic": "Coroutines / object.__aiter__(*self*)", "file": "data-model/object-aiter.md", "summary": "Open when checking object.__aiter__(*self*).", "keywords": []},
+  {"topic": "Coroutines / object.__anext__(*self*)", "file": "data-model/object-anext.md", "summary": "Open when checking object.__anext__(*self*).", "keywords": []},
+  {"topic": "Coroutines / 3.4.4. Asynchronous Context Managers", "file": "data-model/asynchronous-context-managers.md", "summary": "Open when checking 3.4.4. Asynchronous Context Managers.", "keywords": []},
+  {"topic": "Coroutines / object.__aenter__(*self*)", "file": "data-model/object-aenter.md", "summary": "Open when checking object.__aenter__(*self*).", "keywords": []},
+  {"topic": "Coroutines / object.__aexit__(*self*, *exc_type*, *exc_value*, *traceback*)", "file": "data-model/object-aexit.md", "summary": "Open when checking object.__aexit__(*self*, *exc_type*, *exc_value*, *traceback*).", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

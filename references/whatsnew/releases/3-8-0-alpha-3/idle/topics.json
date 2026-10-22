@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 3 / idle / adopt dict unpacking throughout idlelib", "file": "releases/3-8-0-alpha-3/idle/adopt-dict-unpacking-throughout-idlelib.md", "summary": "Open when checking Python 3.8.0 alpha 3 / idle / adopt dict unpacking throughout idlelib.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / idle / build and platforms", "file": "releases/3-8-0-alpha-3/idle/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 alpha 3 / idle / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / idle / functions and types", "file": "releases/3-8-0-alpha-3/idle/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 3 / idle / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / idle / imports and modules", "file": "releases/3-8-0-alpha-3/idle/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 3 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / idle / tests and documentation", "file": "releases/3-8-0-alpha-3/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 alpha 3 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

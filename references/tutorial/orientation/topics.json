@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Tutorial audience, learning scope and upstream documentation", "file": "orientation/tutorial-audience-learning-scope-and-upstream-documentation.md", "summary": "Open when checking Tutorial audience, learning scope and upstream documentation.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 1. Whetting Your Appetite", "file": "orientation/upstream-chapter-navigation-1-whetting-your-appetite.md", "summary": "Open when checking Upstream chapter navigation: 1. Whetting Your Appetite.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 2. Using the Python Interpreter", "file": "orientation/upstream-chapter-navigation-2-using-the-python-interpreter.md", "summary": "Open when checking Upstream chapter navigation: 2. Using the Python Interpreter.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 3. An Informal Introduction to Python", "file": "introductory-python-index.md", "summary": "Open when checking Upstream chapter navigation: 3. An Informal Introduction to Python.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 4. More Control Flow Tools", "file": "orientation/upstream-chapter-navigation-4-more-control-flow-tools.md", "summary": "Open when checking Upstream chapter navigation: 4. More Control Flow Tools.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 5. Data Structures", "file": "orientation/upstream-chapter-navigation-5-data-structures.md", "summary": "Open when checking Upstream chapter navigation: 5. Data Structures.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 6. Modules", "file": "orientation/upstream-chapter-navigation-6-modules.md", "summary": "Open when checking Upstream chapter navigation: 6. Modules.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 7. Input and Output", "file": "orientation/upstream-chapter-navigation-7-input-and-output.md", "summary": "Open when checking Upstream chapter navigation: 7. Input and Output.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 8. Errors and Exceptions", "file": "orientation/upstream-chapter-navigation-8-errors-and-exceptions.md", "summary": "Open when checking Upstream chapter navigation: 8. Errors and Exceptions.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 9. Classes", "file": "orientation/upstream-chapter-navigation-9-classes.md", "summary": "Open when checking Upstream chapter navigation: 9. Classes.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 10. Brief tour of the standard library", "file": "standard-library-tour-index.md", "summary": "Open when checking Upstream chapter navigation: 10. Brief tour of the standard library.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 11. Brief tour of the standard library — part II", "file": "advanced-standard-library-tour-index.md", "summary": "Open when checking Upstream chapter navigation: 11. Brief tour of the standard library — part II.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 12. Virtual Environments and Packages", "file": "virtual-environments-and-packages-index.md", "summary": "Open when checking Upstream chapter navigation: 12. Virtual Environments and Packages.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 13. What Now?", "file": "orientation/upstream-chapter-navigation-13-what-now.md", "summary": "Open when checking Upstream chapter navigation: 13. What Now?.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 14. Interactive Input Editing and History Substitution", "file": "interactive-editing-and-history-index.md", "summary": "Open when checking Upstream chapter navigation: 14. Interactive Input Editing and History Substitution.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 15. Floating-Point Arithmetic: Issues and Limitations", "file": "floating-point-limitations-index.md", "summary": "Open when checking Upstream chapter navigation: 15. Floating-Point Arithmetic: Issues and Limitations.", "keywords": []},
+    {"topic": "Upstream chapter navigation: 16. Appendix", "file": "orientation/upstream-chapter-navigation-16-appendix.md", "summary": "Open when checking Upstream chapter navigation: 16. Appendix.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

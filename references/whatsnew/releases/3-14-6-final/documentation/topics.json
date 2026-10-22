@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.6 final / documentation / functions and types", "file": "releases/3-14-6-final/documentation/functions-and-types.md", "summary": "Open when checking Python 3.14.6 final / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.6 final / documentation / shutil", "file": "releases/3-14-6-final/documentation/shutil.md", "summary": "Open when checking Python 3.14.6 final / documentation / shutil.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

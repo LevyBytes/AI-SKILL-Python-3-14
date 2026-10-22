@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 beta 1 / idle / idle s shell displays prompts within separate side bar", "file": "releases/3-10-0-beta-1/idle/idle-s-shell-displays-prompts-within-separate-side-bar.md", "summary": "Open when checking Python 3.10.0 beta 1 / idle / idle s shell displays prompts within separate side bar.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / idle / input idle shell indented spaces instead tabs", "file": "releases/3-10-0-beta-1/idle/input-idle-shell-indented-spaces-instead-tabs.md", "summary": "Open when checking Python 3.10.0 beta 1 / idle / input idle shell indented spaces instead tabs.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / idle / memory and lifetimes", "file": "releases/3-10-0-beta-1/idle/memory-and-lifetimes.md", "summary": "Open when checking Python 3.10.0 beta 1 / idle / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / idle / numeric behavior", "file": "releases/3-10-0-beta-1/idle/numeric-behavior.md", "summary": "Open when checking Python 3.10.0 beta 1 / idle / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / idle / windows", "file": "releases/3-10-0-beta-1/idle/windows.md", "summary": "Open when checking Python 3.10.0 beta 1 / idle / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

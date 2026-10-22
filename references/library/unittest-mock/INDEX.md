@@ -1,0 +1,93 @@
+# Standard library subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking unittest.mock — `unittest.mock` — mock object library. [Overview and scope / unittest.mock — `unittest.mock` — mock object library](unittest-mock-mock-object-library.md).
+- Open when checking unittest.mock — Mock and patch keyword configuration and callable spec signatures. [Mock configuration and callable specifications / unittest.mock — Mock and patch keyword configuration and callable spec signatures](mock-patch-configuration-and-call-signatures.md).
+- Open when checking unittest.mock — Mocking a generator method. [Mocking generator methods / unittest.mock — Mocking a generator method](mocking-a-generator-method.md).
+- Open when working with unittest.mock — Mock patching methods. [Using Mock / unittest.mock — Mock patching methods](mock-patching-methods.md).
+- Open when checking unittest.mock — Mock for method calls on an object. [Using Mock / unittest.mock — Mock for method calls on an object](mock-for-method-calls-on-an-object.md).
+- Open when checking unittest.mock — Mocking classes. [Using Mock / unittest.mock — Mocking classes](mocking-classes.md).
+- Open when checking unittest.mock — Naming your mocks. [Using Mock / unittest.mock — Naming your mocks](naming-your-mocks.md).
+- Open when checking unittest.mock — Tracking all calls. [Using Mock / unittest.mock — Tracking all calls](tracking-all-calls.md).
+- Open when checking unittest.mock — Setting return values and attributes. [Using Mock / unittest.mock — Setting return values and attributes](setting-return-values-and-attributes.md).
+- Open when checking unittest.mock — Raising exceptions with mocks. [Using Mock / unittest.mock — Raising exceptions with mocks](raising-exceptions-with-mocks.md).
+- Open when checking unittest.mock — Side effect functions and iterables. [Using Mock / unittest.mock — Side effect functions and iterables](side-effect-functions-and-iterables.md).
+- Open when checking unittest.mock — Mocking asynchronous iterators. [Using Mock / unittest.mock — Mocking asynchronous iterators](mocking-asynchronous-iterators.md).
+- Open when checking unittest.mock — Mocking asynchronous context manager. [Using Mock / unittest.mock — Mocking asynchronous context manager](mocking-asynchronous-context-manager.md).
+- Open when checking unittest.mock — Creating a mock from an existing object. [Using Mock / unittest.mock — Creating a mock from an existing object](creating-a-mock-from-an-existing-object.md).
+- Open when checking unittest.mock — Using side_effect to return per file content. [Using Mock / unittest.mock — Using side_effect to return per file content](using-side-effect-to-return-per-file-content.md).
+- Open when checking unittest.mock — Quick Guide — Section introduction and initial examples. [Quick Guide / unittest.mock — Quick Guide — Section introduction and initial examples](quick-guide-section-introduction-and-initial-examples.md).
+- Open when checking unittest.mock — Quick Guide — Code example: &gt;&gt;&gt; foo = {'key': 'value'}. [Quick Guide / unittest.mock — Quick Guide — Code example: &gt;&gt;&gt; foo = {'key': 'value'}](quick-guide-code-example-foo-key-value.md).
+- Open when checking the documented contracts for `unittest.mock.PropertyMock` in unittest.mock. [unittest.mock: `unittest.mock.PropertyMock`](unittest-mock-propertymock-class.md).
+- Open when checking the documented contracts for `unittest.mock.AsyncMock` in unittest.mock. [unittest.mock: `unittest.mock.AsyncMock`](unittest-mock-asyncmock-class.md).
+- Open when checking the documented contracts for `assert_awaited()`, `assert_awaited_once()`, `assert_awaited_with()`, `assert_awaited_once_with()` in unittest.mock.AsyncMock. [unittest.mock.AsyncMock: `assert_awaited()`, `assert_awaited_once()`, `assert_awaited_with()`, `assert_awaited_once_with()`](async-mock-await-count-and-argument-assertions.md).
+- Open when checking the documented contracts for `assert_any_await()`, `assert_has_awaits()`, `assert_not_awaited()`, `reset_mock()` in unittest.mock.AsyncMock. [unittest.mock.AsyncMock: `assert_any_await()`, `assert_has_awaits()`, `assert_not_awaited()`, `reset_mock()`](async-mock-await-history-and-reset.md).
+- Open when checking AsyncMock await arguments and await history in unittest.mock. [unittest.mock: AsyncMock await arguments and await history](the-mock-class.md).
+- Open when checking the documented contracts for `unittest.mock.ThreadingMock`, `wait_until_called()`, `wait_until_any_call_with()` in unittest.mock / The Mock Class. [unittest.mock / The Mock Class: `unittest.mock.ThreadingMock`, `wait_until_called()`, `wait_until_any_call_with()`](threading-mock-waiting-for-calls.md).
+- Open when checking the documented contracts for `unittest.mock.Mock` in unittest.mock. [unittest.mock: `unittest.mock.Mock`](unittest-mock-mock-class.md).
+- Open when checking the documented contracts for `assert_called()`, `assert_called_once()`, `assert_called_with()`, `assert_called_once_with()`, `assert_any_call()` in unittest.mock.Mock. [unittest.mock.Mock: `assert_called()`, `assert_called_once()`, `assert_called_with()`, `assert_called_once_with()`, `assert_any_call()`](mock-call-count-and-argument-assertions.md).
+- Open when checking the documented contracts for `assert_has_calls()`, `assert_not_called()` in unittest.mock.Mock. [unittest.mock.Mock: `assert_has_calls()`, `assert_not_called()`](mock-call-sequence-and-absence-assertions.md).
+- Open when checking the documented contracts for `reset_mock()`, `mock_add_spec()`, `attach_mock()` in unittest.mock.Mock. [unittest.mock.Mock: `reset_mock()`, `mock_add_spec()`, `attach_mock()`](mock-reset-specification-and-attachment.md).
+- Open when checking the documented contracts for `configure_mock()`, `__dir__()`, `_get_child_mock()` in unittest.mock.Mock. [unittest.mock.Mock: `configure_mock()`, `__dir__()`, `_get_child_mock()`](mock-configuration-and-child-creation.md).
+- Open when checking mock return-value configuration in unittest.mock. [unittest.mock: Mock return-value configuration](mock-return-value.md).
+- Open when checking mock callable, iterable and exception side effects in unittest.mock. [unittest.mock: Mock callable, iterable and exception side effects](mock-side-effects.md).
+- Open when checking mock call arguments and argument-history inspection in unittest.mock. [unittest.mock: Mock call arguments and argument-history inspection](mock-call-arguments.md).
+- Open when checking mock call history across methods and return values in unittest.mock. [unittest.mock: Mock call history across methods and return values](mock-call-history.md).
+- Open when checking the documented contracts for `unittest.mock.NonCallableMock` in unittest.mock. [unittest.mock: `unittest.mock.NonCallableMock`](unittest-mock-noncallablemock-class.md).
+- Open when checking unittest.mock — Calling — Section introduction and initial examples. [The Mock Class / unittest.mock — Calling — Section introduction and initial examples](calling-section-introduction-and-initial-examples.md).
+- Open when checking unittest.mock — Calling — Code example: &gt;&gt;&gt; m = MagicMock(side_effect=[1, 2, 3]). [The Mock Class / unittest.mock — Calling — Code example: &gt;&gt;&gt; m = MagicMock(side_effect=\[1, 2, 3\])](calling-code-example-m-magicmock-side-effect-1-2-3.md).
+- Open when checking unittest.mock — Deleting Attributes. [The Mock Class / unittest.mock — Deleting Attributes](deleting-attributes.md).
+- Open when checking unittest.mock — Mock names and the name attribute. [The Mock Class / unittest.mock — Mock names and the name attribute](mock-names-and-the-name-attribute.md).
+- Open when checking unittest.mock — Attaching Mocks as Attributes. [The Mock Class / unittest.mock — Attaching Mocks as Attributes](attaching-mocks-as-attributes.md).
+- Open when checking unittest.mock — The patchers. [The patchers / unittest.mock — The patchers](the-patchers.md).
+- Open when checking unittest.mock — patch. [The patchers / unittest.mock — patch](patch.md).
+- Open when checking unittest.mock — patch — Signature and initial contract. [The patchers / unittest.mock — patch — Signature and initial contract](unittest-mock-patch.md).
+- Open when checking unittest.mock — patch — Code example: &gt;&gt;&gt; thing = object(). [The patchers / unittest.mock — patch — Code example: &gt;&gt;&gt; thing = object()](patch-code-example-thing-object.md).
+- Open when checking unittest.mock — patch.object. [The patchers / unittest.mock — patch.object](patch-object.md).
+- Open when checking unittest.mock — patch.dict — Signature and initial contract. [The patchers / unittest.mock — patch.dict — Signature and initial contract](patch-dict.md).
+- Open when checking unittest.mock — patch.dict — Code example: &gt;&gt;&gt; class Container:. [The patchers / unittest.mock — patch.dict — Code example: &gt;&gt;&gt; class Container:](patch-dict-code-example-class-container.md).
+- Open when checking unittest.mock — patch.multiple. [The patchers / unittest.mock — patch.multiple](patch-multiple.md).
+- Open when checking unittest.mock — patch methods: start and stop. [The patchers / unittest.mock — patch methods: start and stop](patch-stopall.md).
+- Open when checking unittest.mock — patch builtins. [The patchers / unittest.mock — patch builtins](patch-builtins.md).
+- Open when checking unittest.mock — TEST_PREFIX. [The patchers / unittest.mock — TEST_PREFIX](test-prefix.md).
+- Open when checking unittest.mock — Nesting Patch Decorators. [The patchers / unittest.mock — Nesting Patch Decorators](nesting-patch-decorators.md).
+- Open when checking unittest.mock — Where to patch. [The patchers / unittest.mock — Where to patch](where-to-patch.md).
+- Open when checking unittest.mock — Patching Descriptors and Proxy Objects. [The patchers / unittest.mock — Patching Descriptors and Proxy Objects](patching-descriptors-and-proxy-objects.md).
+- Open when checking unittest.mock — Patch decorators — Section introduction and initial examples. [Patch decorators / unittest.mock — Patch decorators — Section introduction and initial examples](patch-decorators-section-introduction-and-initial-examples.md).
+- Open when checking unittest.mock — Patch decorators — Code example: &gt;&gt;&gt; class MyTest(unittest.TestCase):. [Patch decorators / unittest.mock — Patch decorators — Code example: &gt;&gt;&gt; class MyTest(unittest.TestCase):](patch-decorators-code-example-class-mytest-unittest-testcase.md).
+- Open when checking unittest.mock — Further examples. [Further examples / unittest.mock — Further examples](further-examples.md).
+- Open when checking unittest.mock — Mocking chained calls. [Further examples / unittest.mock — Mocking chained calls](mocking-chained-calls.md).
+- Open when checking unittest.mock — Partial mocking. [Further examples / unittest.mock — Partial mocking](partial-mocking.md).
+- Open when checking unittest.mock — Applying the same patch to every test method. [Further examples / unittest.mock — Applying the same patch to every test method](applying-the-same-patch-to-every-test-method.md).
+- Open when checking unittest.mock — Mocking unbound methods. [Further examples / unittest.mock — Mocking unbound methods](mocking-unbound-methods.md).
+- Open when checking unittest.mock — Checking multiple calls with mock. [Further examples / unittest.mock — Checking multiple calls with mock](checking-multiple-calls-with-mock.md).
+- Open when checking unittest.mock — Coping with mutable arguments — Section introduction and initial examples. [Further examples / unittest.mock — Coping with mutable arguments — Section introduction and initial examples](mutable-mock-argument-overview.md).
+- Open when checking unittest.mock — Coping with mutable arguments — Code example: &gt;&gt;&gt; from copy import deepcopy. [Further examples / unittest.mock — Coping with mutable arguments — Code example: &gt;&gt;&gt; from copy import deepcopy](mutable-mock-argument-deepcopy-example.md).
+- Open when checking unittest.mock — Nesting patches. [Further examples / unittest.mock — Nesting patches](nesting-patches.md).
+- Open when checking unittest.mock — Mocking a dictionary with MagicMock. [Further examples / unittest.mock — Mocking a dictionary with MagicMock](mocking-a-dictionary-with-magicmock.md).
+- Open when checking unittest.mock — Mock subclasses and their attributes. [Further examples / unittest.mock — Mock subclasses and their attributes](mock-subclasses-and-their-attributes.md).
+- Open when checking unittest.mock — Mocking imports with patch.dict. [Further examples / unittest.mock — Mocking imports with patch.dict](mocking-imports-with-patch-dict.md).
+- Open when checking unittest.mock — Tracking order of calls and less verbose call assertions. [Further examples / unittest.mock — Tracking order of calls and less verbose call assertions](tracking-order-of-calls-and-less-verbose-call-assertions.md).
+- Open when checking unittest.mock — More complex argument matching. [Further examples / unittest.mock — More complex argument matching](more-complex-argument-matching.md).
+- Open when checking unittest.mock — Mocking Magic Methods — Section introduction and initial examples. [MagicMock and magic method support / unittest.mock — Mocking Magic Methods — Section introduction and initial examples](magic-method-mocking-overview.md).
+- Open when checking unittest.mock — Mocking Magic Methods — Contract: Unary numeric methods: `__neg__`, `__pos__` and `__invert__`. [MagicMock and magic method support / unittest.mock — Mocking Magic Methods — Contract: Unary numeric methods: `__neg__`, `__pos__` and `__invert__`](mock-unary-numeric-magic-methods.md).
+- Open when checking unittest.mock — Magic Mock. [MagicMock and magic method support / unittest.mock — Magic Mock](unittest-mock-magicmock-class.md).
+- Open when checking unittest.mock — Magic Mock — Signature and initial contract. [MagicMock and magic method support / unittest.mock — Magic Mock — Signature and initial contract](unittest-mock-noncallablemagicmock-class.md).
+- Open when checking unittest.mock — Magic Mock — Contract: `__str__`: default str for the mock. [MagicMock and magic method support / unittest.mock — Magic Mock — Contract: `__str__`: default str for the mock](magic-mock-contract-str-default-str-for-the-mock.md).
+- Open when checking unittest.mock — Magic Mock — Contract: `__reduce__`, `__reduce_ex__`, `__getinitargs__`, `__getnewargs__`, `__getstate__` and `__setstate__`. [MagicMock and magic method support / unittest.mock — Magic Mock — Contract: `__reduce__`, `__reduce_ex__`, `__getinitargs__`, `__getnewargs__`, `__getstate__` and `__setstate__`](magic-mock-pickling-protocols.md).
+- Open when checking the documented contracts for `unittest.mock.sentinel` in unittest.mock. [unittest.mock: `unittest.mock.sentinel`](unittest-mock-sentinel.md).
+- Open when checking sentinel identity example in unittest.mock. [unittest.mock: Sentinel identity example](sentinel.md).
+- Open when checking unittest.mock — DEFAULT. [Helpers / unittest.mock — DEFAULT](unittest-mock-default.md).
+- Open when checking unittest.mock — call. [Helpers / unittest.mock — call](unittest-mock-call-to-call-call-list.md).
+- Open when checking unittest.mock — create_autospec. [Helpers / unittest.mock — create_autospec](unittest-mock-create-autospec.md).
+- Open when checking unittest.mock — ANY. [Helpers / unittest.mock — ANY](unittest-mock-any.md).
+- Open when checking unittest.mock — FILTER_DIR. [Helpers / unittest.mock — FILTER_DIR](unittest-mock-filter-dir.md).
+- Open when checking unittest.mock — mock_open. [Helpers / unittest.mock — mock_open](unittest-mock-mock-open.md).
+- Open when checking unittest.mock — Autospeccing — Section introduction and initial examples. [Helpers / unittest.mock — Autospeccing — Section introduction and initial examples](autospeccing-section-introduction-and-initial-examples.md).
+- Open when checking unittest.mock — Autospeccing — Code example: &gt;&gt;&gt; from urllib import request. [Helpers / unittest.mock — Autospeccing — Code example: &gt;&gt;&gt; from urllib import request](autospeccing-code-example-from-urllib-import-request.md).
+- Open when checking unittest.mock — Autospeccing — Code example: &gt;&gt;&gt; class Something:. [Helpers / unittest.mock — Autospeccing — Code example: &gt;&gt;&gt; class Something:](autospeccing-code-example-class-something.md).
+- Open when checking unittest.mock — Sealing mocks. [Helpers / unittest.mock — Sealing mocks](unittest-mock-seal.md).
+- Open when checking unittest.mock — Order of precedence of `side_effect`, `return_value` and *wraps* — Section introduction and initial examples. [Order of precedence of side_effect, return_value and wraps / unittest.mock — Order of precedence of `side_effect`, `return_value` and *wraps* — Section introduction and initial examples](mock-side-effect-return-and-wraps-precedence.md).
+- Open when checking unittest.mock — Order of precedence of `side_effect`, `return_value` and *wraps* — Code example: &gt;&gt;&gt; order_mock.get_value.return_value = "second". [Order of precedence of side_effect, return_value and wraps / unittest.mock — Order of precedence of `side_effect`, `return_value` and *wraps* — Code example: &gt;&gt;&gt; order_mock.get_value.return_value = "second"](mock-return-precedence-example.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

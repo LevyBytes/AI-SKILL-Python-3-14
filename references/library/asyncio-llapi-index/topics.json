@@ -1,0 +1,10 @@
+{"schema_version": 1, "topics": [
+  {"topic": "asyncio.llapi.index: Event-loop lifecycle, scheduling and task-factory routes", "file": "asyncio-llapi-index/event-loop-methods-loop-stop-to-loop-get-task-factory.md", "summary": "Open when checking event-loop lifecycle, scheduling and task-factory routes in asyncio.llapi.index.", "keywords": []},
+  {"topic": "asyncio.llapi.index: Event-loop DNS, connections and event-handler routes", "file": "event-loop-connection-and-handler-methods.md", "summary": "Open when checking event-loop DNS, connections and event-handler routes in asyncio.llapi.index.", "keywords": []},
+  {"topic": "Event Loop Policies", "file": "asyncio-llapi-index/event-loop-policies.md", "summary": "Open when checking Event Loop Policies.", "keywords": []},
+  {"topic": "Low-level API Index", "file": "asyncio-llapi-index/low-level-api-index.md", "summary": "Open when checking Low-level API Index.", "keywords": []},
+  {"topic": "Obtaining the Event Loop", "file": "asyncio-llapi-index/obtaining-the-event-loop.md", "summary": "Open when checking Obtaining the Event Loop.", "keywords": []},
+  {"topic": "Protocols", "file": "asyncio-llapi-index/protocols.md", "summary": "Open when checking Protocols.", "keywords": []},
+  {"topic": "Transports", "file": "asyncio-llapi-index/transports.md", "summary": "Open when checking Transports.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

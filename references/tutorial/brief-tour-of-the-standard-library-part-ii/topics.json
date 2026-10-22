@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "11. Brief tour of the standard library — part II", "file": "brief-tour-of-the-standard-library-part-ii/brief-tour-of-the-standard-library-part-ii.md", "summary": "Open when checking 11. Brief tour of the standard library — part II.", "keywords": []},
+    {"topic": "11.8. Decimal floating-point arithmetic", "file": "brief-tour-of-the-standard-library-part-ii/decimal-floating-point-arithmetic.md", "summary": "Open when checking 11.8. Decimal floating-point arithmetic.", "keywords": []},
+    {"topic": "11.5. Logging", "file": "brief-tour-of-the-standard-library-part-ii/logging.md", "summary": "Open when checking 11.5. Logging.", "keywords": []},
+    {"topic": "11.4. Multi-threading", "file": "brief-tour-of-the-standard-library-part-ii/multi-threading.md", "summary": "Open when checking 11.4. Multi-threading.", "keywords": []},
+    {"topic": "11.1. Output formatting", "file": "brief-tour-of-the-standard-library-part-ii/output-formatting.md", "summary": "Open when checking 11.1. Output formatting.", "keywords": []},
+    {"topic": "11.2. Templating", "file": "brief-tour-of-the-standard-library-part-ii/templating.md", "summary": "Open when checking 11.2. Templating.", "keywords": []},
+    {"topic": "11.7. Tools for working with lists", "file": "brief-tour-of-the-standard-library-part-ii/tools-for-working-with-lists.md", "summary": "Open when checking 11.7. Tools for working with lists.", "keywords": []},
+    {"topic": "11.6. Weak references", "file": "brief-tour-of-the-standard-library-part-ii/weak-references.md", "summary": "Open when checking 11.6. Weak references.", "keywords": []},
+    {"topic": "11.3. Working with binary data record layouts", "file": "brief-tour-of-the-standard-library-part-ii/working-with-binary-data-record-layouts.md", "summary": "Open when checking 11.3. Working with binary data record layouts.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

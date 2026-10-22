@@ -1,0 +1,15 @@
+{"schema_version": 1, "topics": [
+  {"topic": "selectors: `selectors.SelectorKey`", "file": "selectors/selectors-selectorkey-class.md", "summary": "Open when checking the documented contracts for `selectors.SelectorKey` in selectors.", "keywords": []},
+  {"topic": "selectors: SelectorKey registered-file, event and attached-data fields", "file": "selectors/classes.md", "summary": "Open when checking SelectorKey registered-file, event and attached-data fields in selectors.", "keywords": []},
+  {"topic": "selectors / Classes: `selectors.BaseSelector`, `modify()`, `close()`, `get_key()`", "file": "base-selector-registration-and-key-access.md", "summary": "Open when checking the documented contracts for `selectors.BaseSelector`, `modify()`, `close()`, `get_key()` in selectors / Classes.", "keywords": []},
+  {"topic": "selectors: `selectors.DefaultSelector`", "file": "selectors/selectors-defaultselector-class.md", "summary": "Open when checking the documented contracts for `selectors.DefaultSelector` in selectors.", "keywords": []},
+  {"topic": "selectors: `selectors.SelectSelector`", "file": "selectors/selectors-selectselector-class.md", "summary": "Open when checking the documented contracts for `selectors.SelectSelector` in selectors.", "keywords": []},
+  {"topic": "selectors: `selectors.PollSelector`", "file": "selectors/selectors-pollselector-class.md", "summary": "Open when checking the documented contracts for `selectors.PollSelector` in selectors.", "keywords": []},
+  {"topic": "selectors / Classes: `selectors.EpollSelector`, `fileno()`", "file": "epoll-selector.md", "summary": "Open when checking the documented contracts for `selectors.EpollSelector`, `fileno()` in selectors / Classes.", "keywords": []},
+  {"topic": "selectors / Classes: `selectors.DevpollSelector`, `fileno()`", "file": "devpoll-selector.md", "summary": "Open when checking the documented contracts for `selectors.DevpollSelector`, `fileno()` in selectors / Classes.", "keywords": []},
+  {"topic": "selectors / Classes: `selectors.KqueueSelector`, `fileno()`", "file": "kqueue-selector.md", "summary": "Open when checking the documented contracts for `selectors.KqueueSelector`, `fileno()` in selectors / Classes.", "keywords": []},
+  {"topic": "selectors — Examples", "file": "selectors/examples.md", "summary": "Open when checking selectors — Examples.", "keywords": []},
+  {"topic": "selectors — Introduction", "file": "selectors/introduction.md", "summary": "Open when checking selectors — Introduction.", "keywords": []},
+  {"topic": "selectors — `selectors` — High-level I/O multiplexing", "file": "selectors/selectors-high-level-i-o-multiplexing.md", "summary": "Open when checking selectors — `selectors` — High-level I/O multiplexing.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

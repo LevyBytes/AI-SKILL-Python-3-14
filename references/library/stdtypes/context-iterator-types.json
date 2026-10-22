@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Iterator Types", "file": "stdtypes/container-iter-to-iterator-next.md", "summary": "Open when checking Iterator Types.", "keywords": []},
+  {"topic": "Iterator Types / Generator Types", "file": "stdtypes/generator-types.md", "summary": "Open when checking Generator Types.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Development Tools / Python 3.12.0 alpha 1 / library / corrects hang occurred iterating over typing union", "file": "releases/3-12-0-alpha-1/library/corrects-hang-occurred-iterating-over-typing-union.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / corrects hang occurred iterating over typing union.", "keywords": []},
+  {"topic": "Development Tools / Python 3.12.0 alpha 1 / library / pydoc", "file": "releases/3-12-0-alpha-1/library/pydoc.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / pydoc.", "keywords": []},
+  {"topic": "Development Tools / Python 3.12.0 alpha 1 / library / doctest", "file": "releases/3-12-0-alpha-1/library/doctest.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / doctest.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

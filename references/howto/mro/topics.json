@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Overview and scope / The Python 2.3 Method Resolution Order", "file": "mro/the-python-2-3-method-resolution-order.md", "summary": "Open when checking The Python 2.3 Method Resolution Order.", "keywords": []},
+  {"topic": "The beginning", "file": "mro/the-beginning.md", "summary": "Open when checking The beginning.", "keywords": []},
+  {"topic": "The C3 Method Resolution Order", "file": "mro/the-c3-method-resolution-order.md", "summary": "Open when checking The C3 Method Resolution Order.", "keywords": []},
+  {"topic": "Examples / First C3 hierarchy and base-class merge", "file": "mro/first-c3-hierarchy-and-base-class-merge.md", "summary": "Open when checking First C3 hierarchy and base-class merge.", "keywords": []},
+  {"topic": "Examples / Derived C3 merge and second hierarchy exercise", "file": "mro/derived-c3-merge-and-second-hierarchy-exercise.md", "summary": "Open when checking Derived C3 merge and second hierarchy exercise.", "keywords": []},
+  {"topic": "Examples / Conflicting base orders cannot be merged", "file": "mro/conflicting-base-orders-cannot-be-merged.md", "summary": "Open when checking Conflicting base orders cannot be merged.", "keywords": []},
+  {"topic": "Bad Method Resolution Orders / Historical local-precedence failures", "file": "mro/historical-local-precedence-failures.md", "summary": "Open when checking Historical local-precedence failures.", "keywords": []},
+  {"topic": "Bad Method Resolution Orders / Unambiguous hierarchy and duplicate-base rejection", "file": "mro/unambiguous-hierarchy-and-duplicate-base-rejection.md", "summary": "Open when checking Unambiguous hierarchy and duplicate-base rejection.", "keywords": []},
+  {"topic": "Bad Method Resolution Orders / Classic and Python 2.2 monotonicity failures", "file": "mro/classic-and-python-2-2-monotonicity-failures.md", "summary": "Open when checking Classic and Python 2.2 monotonicity failures.", "keywords": []},
+  {"topic": "The end / Complete historical Python 2 C3 MRO implementation", "file": "mro/complete-historical-python-2-c3-mro-implementation.md", "summary": "Open when checking Complete historical Python 2 C3 MRO implementation.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

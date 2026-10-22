@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.4 release candidate 1 / windows / corrects modify button within apps features dialog", "file": "releases/3-6-4-release-candidate-1/windows/corrects-modify-button-within-apps-features-dialog.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / windows / corrects modify button within apps features dialog.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / windows / hand back none whenever view fetch yields error no more items rather than", "file": "msi-view-fetch-exhaustion.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / windows / hand back none whenever view fetch yields error no more items rather than.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

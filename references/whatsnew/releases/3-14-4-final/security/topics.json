@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.4 final / security / http cookies", "file": "releases/3-14-4-final/security/http-cookies.md", "summary": "Open when checking Python 3.14.4 final / security / http cookies.", "keywords": []},
+    {"topic": "Python 3.14.4 final / security / io", "file": "releases/3-14-4-final/security/io.md", "summary": "Open when checking Python 3.14.4 final / security / io.", "keywords": []},
+    {"topic": "Python 3.14.4 final / security / pyexpat", "file": "releases/3-14-4-final/security/pyexpat.md", "summary": "Open when checking Python 3.14.4 final / security / pyexpat.", "keywords": []},
+    {"topic": "Python 3.14.4 final / security / webbrowser", "file": "releases/3-14-4-final/security/webbrowser.md", "summary": "Open when checking Python 3.14.4 final / security / webbrowser.", "keywords": []},
+    {"topic": "Python 3.14.4 final / security / wsgiref", "file": "releases/3-14-4-final/security/wsgiref.md", "summary": "Open when checking Python 3.14.4 final / security / wsgiref.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

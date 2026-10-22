@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "faulthandler — C Stack Compatibility", "file": "faulthandler/c-stack-compatibility.md", "summary": "Open when checking faulthandler — C Stack Compatibility.", "keywords": []},
+    {"topic": "faulthandler — Dump the Python traceback", "file": "faulthandler/dump-the-python-traceback.md", "summary": "Open when checking faulthandler — Dump the Python traceback.", "keywords": []},
+    {"topic": "faulthandler — Example", "file": "faulthandler/example.md", "summary": "Open when checking faulthandler — Example.", "keywords": []},
+    {"topic": "faulthandler — Dumping the C stack", "file": "faulthandler/faulthandler-dump-c-stack.md", "summary": "Open when checking faulthandler — Dumping the C stack.", "keywords": []},
+    {"topic": "faulthandler — `faulthandler` — Dump the Python traceback", "file": "faulthandler/faulthandler-dump-the-python-traceback.md", "summary": "Open when checking faulthandler — `faulthandler` — Dump the Python traceback.", "keywords": []},
+    {"topic": "faulthandler — Dumping the tracebacks after a timeout", "file": "delayed-traceback-dump-and-cancellation.md", "summary": "Open when checking faulthandler — Dumping the tracebacks after a timeout.", "keywords": []},
+    {"topic": "faulthandler — Dumping the traceback", "file": "faulthandler/faulthandler-dump-traceback.md", "summary": "Open when checking faulthandler — Dumping the traceback.", "keywords": []},
+    {"topic": "faulthandler — Fault handler state", "file": "faulthandler/faulthandler-enable-to-faulthandler-is-enabled.md", "summary": "Open when checking faulthandler — Fault handler state.", "keywords": []},
+    {"topic": "faulthandler — Dumping the traceback on a user signal", "file": "faulthandler/faulthandler-register-to-faulthandler-unregister.md", "summary": "Open when checking faulthandler — Dumping the traceback on a user signal.", "keywords": []},
+    {"topic": "faulthandler — Issue with file descriptors", "file": "faulthandler/issue-with-file-descriptors.md", "summary": "Open when checking faulthandler — Issue with file descriptors.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

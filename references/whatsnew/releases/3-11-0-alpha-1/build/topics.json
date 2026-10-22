@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / build / build and platforms", "file": "releases/3-11-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / build / collections and iteration", "file": "releases/3-11-0-alpha-1/build/collections-and-iteration.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / build / compiler and parser", "file": "releases/3-11-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / build / exceptions and tracebacks", "file": "releases/3-11-0-alpha-1/build/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / build / modules", "file": "releases/3-11-0-alpha-1/build/modules.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / build / permit building clang thin lto through with lto thin full", "file": "releases/3-11-0-alpha-1/build/permit-building-clang-thin-lto-through-with-lto-thin-full.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / permit building clang thin lto through with lto thin full.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / build / platform", "file": "releases/3-11-0-alpha-1/build/platform.md", "summary": "Open when checking Python 3.11.0 alpha 1 / build / platform.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

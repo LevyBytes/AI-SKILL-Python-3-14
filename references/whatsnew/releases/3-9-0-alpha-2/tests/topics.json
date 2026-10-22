@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 2 / tests / asyncio", "file": "releases/3-9-0-alpha-2/tests/asyncio.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / asyncio.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / collections and iteration", "file": "releases/3-9-0-alpha-2/tests/collections-and-iteration.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / compiler and parser", "file": "releases/3-9-0-alpha-2/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / concurrent futures", "file": "releases/3-9-0-alpha-2/tests/concurrent-futures.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / exceptions", "file": "releases/3-9-0-alpha-2/tests/exceptions.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / exceptions.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / files and paths", "file": "releases/3-9-0-alpha-2/tests/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / math", "file": "releases/3-9-0-alpha-2/tests/math.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / math.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / test", "file": "releases/3-9-0-alpha-2/tests/test.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / test.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / tests / tests and documentation", "file": "releases/3-9-0-alpha-2/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.9.0 alpha 2 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

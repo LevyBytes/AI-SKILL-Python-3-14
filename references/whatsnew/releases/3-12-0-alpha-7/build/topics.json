@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 7 / build / compiler and parser", "file": "releases/3-12-0-alpha-7/build/compiler-and-parser.md", "summary": "Open when checking Python 3.12.0 alpha 7 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 7 / build / development", "file": "releases/3-12-0-alpha-7/build/development.md", "summary": "Open when checking Python 3.12.0 alpha 7 / build / development.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 7 / build / imports and modules", "file": "releases/3-12-0-alpha-7/build/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 7 / build / imports and modules.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

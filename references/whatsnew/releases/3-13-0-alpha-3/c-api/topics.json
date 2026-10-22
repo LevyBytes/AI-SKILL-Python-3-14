@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 3 / c api / arg", "file": "releases/3-13-0-alpha-3/c-api/arg.md", "summary": "Open when checking Python 3.13.0 alpha 3 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / c api / clear duplicate declarations out public c api", "file": "releases/3-13-0-alpha-3/c-api/clear-duplicate-declarations-out-public-c-api.md", "summary": "Open when checking Python 3.13.0 alpha 3 / c api / clear duplicate declarations out public c api.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / c api / hash", "file": "releases/3-13-0-alpha-3/c-api/hash.md", "summary": "Open when checking Python 3.13.0 alpha 3 / c api / hash.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

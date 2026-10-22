@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.1 final / build / build and platforms", "file": "releases/3-14-1-final/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.1 final / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.1 final / build / compiler and parser", "file": "releases/3-14-1-final/build/compiler-and-parser.md", "summary": "Open when checking Python 3.14.1 final / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.1 final / build / emit warning whenever wasi sdk release differs one supported", "file": "releases/3-14-1-final/build/emit-warning-whenever-wasi-sdk-release-differs-one-supported.md", "summary": "Open when checking Python 3.14.1 final / build / emit warning whenever wasi sdk release differs one supported.", "keywords": []},
+    {"topic": "Python 3.14.1 final / build / overview", "file": "releases/3-14-1-final/build/overview.md", "summary": "Open when checking Python 3.14.1 final / build / overview.", "keywords": []},
+    {"topic": "Python 3.14.1 final / build / supported range python for regen python through python", "file": "releases/3-14-1-final/build/supported-range-python-for-regen-python-through-python.md", "summary": "Open when checking Python 3.14.1 final / build / supported range python for regen python through python.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "File and Directory Access / Python 3.9.0 alpha 1 / library / literal parts casing what pathlib windowspath glob returns lines up casing", "file": "releases/3-9-0-alpha-1/library/windows-path-glob-literal-case.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / literal parts casing what pathlib windowspath glob returns lines up casing.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.9.0 alpha 1 / library / stat", "file": "releases/3-9-0-alpha-1/library/stat.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / stat.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.9.0 alpha 1 / library / shutil", "file": "releases/3-9-0-alpha-1/library/shutil.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / shutil.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

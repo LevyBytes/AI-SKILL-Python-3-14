@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Command-line interface libraries / Python 3.7.0 alpha 1 / library / curses a italic supported", "file": "releases/3-7-0-alpha-1/library/curses-a-italic-supported.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / curses a italic supported.", "keywords": []},
+  {"topic": "Command-line interface libraries / Python 3.7.0 alpha 1 / library / cured recursion errors arising large or resized curses textpad textbox", "file": "releases/3-7-0-alpha-1/library/curses-textbox-size-recursion.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / cured recursion errors arising large or resized curses textpad textbox.", "keywords": []},
+  {"topic": "Command-line interface libraries / Python 3.7.0 alpha 1 / library / curses ascii", "file": "releases/3-7-0-alpha-1/library/curses-ascii.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / curses ascii.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

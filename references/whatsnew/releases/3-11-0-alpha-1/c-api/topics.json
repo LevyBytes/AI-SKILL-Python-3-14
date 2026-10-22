@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / c api / codec", "file": "releases/3-11-0-alpha-1/c-api/codec.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / codec.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / compiler and parser", "file": "releases/3-11-0-alpha-1/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / drop crypt h include out public python h header", "file": "releases/3-11-0-alpha-1/c-api/drop-crypt-h-include-out-public-python-h-header.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / drop crypt h include out public python h header.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / exceptions", "file": "releases/3-11-0-alpha-1/c-api/exceptions.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / functions and types", "file": "releases/3-11-0-alpha-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / functions", "file": "releases/3-11-0-alpha-1/c-api/functions.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / functions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / init config", "file": "releases/3-11-0-alpha-1/c-api/init-config.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / init config.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / interp lifecycle", "file": "releases/3-11-0-alpha-1/c-api/interp-lifecycle.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / interp lifecycle.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / intro", "file": "releases/3-11-0-alpha-1/c-api/intro.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / intro.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / removed legacy unicode encoding apis", "file": "releases/3-11-0-alpha-1/c-api/removed-legacy-unicode-encoding-apis.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / removed legacy unicode encoding apis.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / removed unicode filename error apis", "file": "releases/3-11-0-alpha-1/c-api/removed-unicode-filename-error-apis.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / removed unicode filename error apis.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / removed", "file": "releases/3-11-0-alpha-1/c-api/removed.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / removed.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / stable", "file": "releases/3-11-0-alpha-1/c-api/stable.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / stable.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / structures", "file": "releases/3-11-0-alpha-1/c-api/structures.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / structures.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / threads", "file": "releases/3-11-0-alpha-1/c-api/threads.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / threads.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / type", "file": "releases/3-11-0-alpha-1/c-api/type.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / type.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / c api / undoes removal old buffer protocol given forms part stable", "file": "releases/3-11-0-alpha-1/c-api/undoes-removal-old-buffer-protocol-given-forms-part-stable.md", "summary": "Open when checking Python 3.11.0 alpha 1 / c api / undoes removal old buffer protocol given forms part stable.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

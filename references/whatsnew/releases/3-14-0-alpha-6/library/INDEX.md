@@ -1,0 +1,46 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.0 alpha 6 / library / exceptions. [Built-in objects and typing / Python 3.14.0 alpha 6 / library / exceptions](exceptions.md).
+- Open when checking Python 3.14.0 alpha 6 / library / stdtypes. [Built-in objects and typing / Python 3.14.0 alpha 6 / library / stdtypes](stdtypes.md).
+- Open when checking Python 3.14.0 alpha 6 / library / unicodedata. [Text Processing Services / Python 3.14.0 alpha 6 / library / unicodedata](unicodedata.md).
+- Open when checking Python 3.14.0 alpha 6 / library / calendar. [Data Types / Python 3.14.0 alpha 6 / library / calendar](calendar.md).
+- Open when checking Python 3.14.0 alpha 6 / library / enum. [Data Types / Python 3.14.0 alpha 6 / library / enum](enum.md).
+- Open when checking Python 3.14.0 alpha 6 / library / types. [Data Types / Python 3.14.0 alpha 6 / library / types](types.md).
+- Open when checking Python 3.14.0 alpha 6 / library / random. [Numeric and Mathematical Modules / Python 3.14.0 alpha 6 / library / random](random.md).
+- Open when checking Python 3.14.0 alpha 6 / library / itertools. [Functional Programming Modules / Python 3.14.0 alpha 6 / library / itertools](itertools.md).
+- Open when checking Python 3.14.0 alpha 6 / library / doctest. [Data Persistence / Python 3.14.0 alpha 6 / library / doctest](doctest.md).
+- Open when checking Python 3.14.0 alpha 6 / library / time. [Generic Operating System Services / Python 3.14.0 alpha 6 / library / time](time.md).
+- Open when checking Python 3.14.0 alpha 6 / library / cmd. [Command-line interface libraries / Python 3.14.0 alpha 6 / library / cmd](cmd.md).
+- Open when checking Python 3.14.0 alpha 6 / library / subprocess. [Concurrent Execution / Python 3.14.0 alpha 6 / library / subprocess](subprocess.md).
+- Open when checking Python 3.14.0 alpha 6 / library / contextvars. [Concurrent Execution / Python 3.14.0 alpha 6 / library / contextvars](contextvars.md).
+- Open when checking Python 3.14.0 alpha 6 / library / repairs asyncio abstracteventloop run forever case where some other loop already going. [Networking and Interprocess Communication / Python 3.14.0 alpha 6 / library / repairs asyncio abstracteventloop run forever case where some other loop already going](event-loop-run-forever-concurrent-loop-check.md).
+- Open when checking Python 3.14.0 alpha 6 / library / socket. [Networking and Interprocess Communication / Python 3.14.0 alpha 6 / library / socket](socket.md).
+- Open when checking Python 3.14.0 alpha 6 / library / numeric. [Internet Protocols and Support / Python 3.14.0 alpha 6 / library / numeric](numeric.md).
+- Open when checking Python 3.14.0 alpha 6 / library / annotationlib. [Python Runtime Services / Python 3.14.0 alpha 6 / library / annotationlib](annotationlib.md).
+- Open when checking Python 3.14.0 alpha 6 / library / traceback. [Python Runtime Services / Python 3.14.0 alpha 6 / library / traceback](traceback.md).
+- Open when checking Python 3.14.0 alpha 6 / library / code. [Custom Python Interpreters / Python 3.14.0 alpha 6 / library / code](code.md).
+- Open when checking Python 3.14.0 alpha 6 / library / importlib. [Importing Modules / Python 3.14.0 alpha 6 / library / importlib](importlib.md).
+- Open when checking Python 3.14.0 alpha 6 / library / ast. [Python Language Services / Python 3.14.0 alpha 6 / library / ast](ast.md).
+- Open when checking Python 3.14.0 alpha 6 / library / build and platforms. [Combined library maintenance / Python 3.14.0 alpha 6 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.14.0 alpha 6 / library / datetime. [Combined library maintenance / Python 3.14.0 alpha 6 / library / datetime](datetime.md).
+- Open when checking Python 3.14.0 alpha 6 / library / difflib. [Combined library maintenance / Python 3.14.0 alpha 6 / library / difflib](difflib.md).
+- Open when checking Python 3.14.0 alpha 6 / library / functions. [Combined library maintenance / Python 3.14.0 alpha 6 / library / functions](functions.md).
+- Open when checking Python 3.14.0 alpha 6 / library / gzip. [Combined library maintenance / Python 3.14.0 alpha 6 / library / gzip](gzip.md).
+- Open when checking Python 3.14.0 alpha 6 / library / pathlib. [Combined library maintenance / Python 3.14.0 alpha 6 / library / pathlib](pathlib.md).
+- Open when checking Python 3.14.0 alpha 6 / library / pdb. [Combined library maintenance / Python 3.14.0 alpha 6 / library / pdb](pdb.md).
+- Open when checking Python 3.14.0 alpha 6 / library / uuid. [Combined library maintenance / Python 3.14.0 alpha 6 / library / uuid](uuid.md).
+- Open when checking Python 3.14.0 alpha 6 / library / zipimport. [Combined library maintenance / Python 3.14.0 alpha 6 / library / zipimport](zipimport.md).
+- Open when checking Python 3.14.0 alpha 6 / library / configparser. [Combined library maintenance / Python 3.14.0 alpha 6 / library / configparser](configparser.md).
+- Open when checking Python 3.14.0 alpha 6 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.14.0 alpha 6 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.14.0 alpha 6 / library / functools. [Combined library maintenance / Python 3.14.0 alpha 6 / library / functools](functools.md).
+- Open when checking Python 3.14.0 alpha 6 / library / io. [Combined library maintenance / Python 3.14.0 alpha 6 / library / io](io.md).
+- Open when checking Python 3.14.0 alpha 6 / library / mimetypes. [Combined library maintenance / Python 3.14.0 alpha 6 / library / mimetypes](mimetypes.md).
+- Open when checking Python 3.14.0 alpha 6 / library / concurrent futures. [Combined library maintenance / Python 3.14.0 alpha 6 / library / concurrent futures](concurrent-futures.md).
+- Open when checking Python 3.14.0 alpha 6 / library / zipapp. [Library compatibility and maintenance / Python 3.14.0 alpha 6 / library / zipapp](zipapp.md).
+- Open when checking Python 3.14.0 alpha 6 / library / repairs reference leaks within hashlib hmac new hashlib hmac digest. [Library compatibility and maintenance / Python 3.14.0 alpha 6 / library / repairs reference leaks within hashlib hmac new hashlib hmac digest](hmac-construction-and-digest-reference-leaks.md).
+- Open when checking Python 3.14.0 alpha 6 / library / functions and types. [Library compatibility and maintenance / Python 3.14.0 alpha 6 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.14.0 alpha 6 / library / new repl deals correctly characters do not print. [Library compatibility and maintenance / Python 3.14.0 alpha 6 / library / new repl deals correctly characters do not print](new-repl-deals-correctly-characters-do-not-print.md).
+- Open when checking Python 3.14.0 alpha 6 / library / data race compile template inside sre c fixed. [Library compatibility and maintenance / Python 3.14.0 alpha 6 / library / data race compile template inside sre c fixed](data-race-compile-template-inside-sre-c-fixed.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

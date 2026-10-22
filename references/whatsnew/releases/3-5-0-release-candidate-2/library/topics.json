@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 release candidate 2 / library / build and platforms", "file": "releases/3-5-0-release-candidate-2/library/build-and-platforms.md", "summary": "Open when checking Python 3.5.0 release candidate 2 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.0 release candidate 2 / library / drops vcruntime140 dll dependency tcl tk", "file": "releases/3-5-0-release-candidate-2/library/drops-vcruntime140-dll-dependency-tcl-tk.md", "summary": "Open when checking Python 3.5.0 release candidate 2 / library / drops vcruntime140 dll dependency tcl tk.", "keywords": []},
+    {"topic": "Python 3.5.0 release candidate 2 / library / repair task get stack async def coroutines", "file": "releases/3-5-0-release-candidate-2/library/repair-task-get-stack-async-def-coroutines.md", "summary": "Open when checking Python 3.5.0 release candidate 2 / library / repair task get stack async def coroutines.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

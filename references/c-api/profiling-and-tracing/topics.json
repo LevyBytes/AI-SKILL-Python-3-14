@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "void PyEval_SetTraceAllThreads(Py_tracefunc func, PyObject *obj)", "file": "profiling-and-tracing/pyeval-settraceallthreads.md", "summary": "Open when checking void PyEval_SetTraceAllThreads(Py_tracefunc func, PyObject *obj).", "keywords": []},
+    {"topic": "Reference tracing", "file": "profiling-and-tracing/pyreftracer-create-to-pyreftracer-gettracer.md", "summary": "Open when checking Reference tracing.", "keywords": []},
+    {"topic": "Profiling and tracing", "file": "profiling-and-tracing/pytrace-call-to-pyeval-settrace.md", "summary": "Open when checking Profiling and tracing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

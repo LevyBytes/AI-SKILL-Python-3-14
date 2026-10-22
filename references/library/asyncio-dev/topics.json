@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "asyncio — Debug Mode", "file": "asyncio-dev/debug-mode.md", "summary": "Open when checking asyncio — Debug Mode.", "keywords": []},
+  {"topic": "asyncio — Concurrency and Multithreading", "file": "asyncio-dev/concurrency-and-multithreading.md", "summary": "Open when checking asyncio — Concurrency and Multithreading.", "keywords": []},
+  {"topic": "asyncio — Running Blocking Code", "file": "asyncio-dev/running-blocking-code.md", "summary": "Open when checking asyncio — Running Blocking Code.", "keywords": []},
+  {"topic": "asyncio — Logging", "file": "asyncio-dev/logging.md", "summary": "Open when checking asyncio — Logging.", "keywords": []},
+  {"topic": "asyncio — Detect never-awaited coroutines", "file": "asyncio-dev/detect-never-awaited-coroutines.md", "summary": "Open when checking asyncio — Detect never-awaited coroutines.", "keywords": []},
+  {"topic": "asyncio — Detect never-retrieved exceptions", "file": "asyncio-dev/detect-never-retrieved-exceptions.md", "summary": "Open when checking asyncio — Detect never-retrieved exceptions.", "keywords": []},
+  {"topic": "asyncio — Asynchronous generators best practices", "file": "asyncio-dev/asynchronous-generators-best-practices.md", "summary": "Open when checking asyncio — Asynchronous generators best practices.", "keywords": []},
+  {"topic": "Asynchronous generators best practices / asyncio — Close asynchronous generators explicitly", "file": "asyncio-dev/close-asynchronous-generators-explicitly.md", "summary": "Open when checking asyncio — Close asynchronous generators explicitly.", "keywords": []},
+  {"topic": "Asynchronous generators best practices / asyncio — Create asynchronous generators only when the event loop is running", "file": "asyncio-dev/async-generator-event-loop-lifecycle.md", "summary": "Open when checking asyncio — Create asynchronous generators only when the event loop is running.", "keywords": []},
+  {"topic": "Asynchronous generators best practices / asyncio — Avoid concurrent iteration and closure of the same generator", "file": "asyncio-dev/avoid-concurrent-iteration-and-closure-of-the-same-generator.md", "summary": "Open when checking asyncio — Avoid concurrent iteration and closure of the same generator.", "keywords": []},
+  {"topic": "Developing with asyncio¶ / asyncio — Developing with asyncio", "file": "asyncio-dev/developing-with-asyncio.md", "summary": "Open when checking asyncio — Developing with asyncio.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

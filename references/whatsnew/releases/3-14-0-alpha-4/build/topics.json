@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 4 / build / build and platforms", "file": "releases/3-14-0-alpha-4/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / build / compiler and parser", "file": "releases/3-14-0-alpha-4/build/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / build / curses", "file": "releases/3-14-0-alpha-4/build/curses.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / curses.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / build / functions and types", "file": "releases/3-14-0-alpha-4/build/functions-and-types.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / build / gc", "file": "releases/3-14-0-alpha-4/build/gc.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / gc.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / build / sqlite3", "file": "releases/3-14-0-alpha-4/build/sqlite3.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / sqlite3.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / build / statistics", "file": "releases/3-14-0-alpha-4/build/statistics.md", "summary": "Open when checking Python 3.14.0 alpha 4 / build / statistics.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

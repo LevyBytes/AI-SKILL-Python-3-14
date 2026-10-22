@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Generic Operating System Services / Python 3.13.0 alpha 1 / library / time", "file": "releases/3-13-0-alpha-1/library/time.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / time.", "keywords": []},
+  {"topic": "Generic Operating System Services / Python 3.13.0 alpha 1 / library / ctypes", "file": "releases/3-13-0-alpha-1/library/ctypes.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / ctypes.", "keywords": []},
+  {"topic": "Generic Operating System Services / Python 3.13.0 alpha 1 / library / errno", "file": "releases/3-13-0-alpha-1/library/errno.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / errno.", "keywords": []},
+  {"topic": "Generic Operating System Services / Python 3.13.0 alpha 1 / library / io", "file": "releases/3-13-0-alpha-1/library/io.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / io.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

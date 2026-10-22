@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 2 / idle / dialog", "file": "releases/3-7-0-alpha-2/idle/dialog.md", "summary": "Open when checking Python 3.7.0 alpha 2 / idle / dialog.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / idle / hidpi displays default fonts scaled", "file": "releases/3-7-0-alpha-2/idle/hidpi-displays-default-fonts-scaled.md", "summary": "Open when checking Python 3.7.0 alpha 2 / idle / hidpi displays default fonts scaled.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / idle / idle htest utest parameters converted keyword only", "file": "releases/3-7-0-alpha-2/idle/idle-htest-utest-parameters-converted-keyword-only.md", "summary": "Open when checking Python 3.7.0 alpha 2 / idle / idle htest utest parameters converted keyword only.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / idle / imports and modules", "file": "releases/3-7-0-alpha-2/idle/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 alpha 2 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / idle / python", "file": "releases/3-7-0-alpha-2/idle/python.md", "summary": "Open when checking Python 3.7.0 alpha 2 / idle / python.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / idle / tests and documentation", "file": "releases/3-7-0-alpha-2/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 alpha 2 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

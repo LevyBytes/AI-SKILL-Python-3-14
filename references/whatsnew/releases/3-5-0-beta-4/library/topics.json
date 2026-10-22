@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 beta 4 / library / bytes never str what chunk chunk read consistently hands back", "file": "releases/3-5-0-beta-4/library/bytes-never-str-what-chunk-chunk-read-consistently-hands-back.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / bytes never str what chunk chunk read consistently hands back.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / compiler and parser", "file": "releases/3-5-0-beta-4/library/compiler-and-parser.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / files and paths", "file": "releases/3-5-0-beta-4/library/files-and-paths.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / functions and types", "file": "releases/3-5-0-beta-4/library/functions-and-types.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / inspect", "file": "releases/3-5-0-beta-4/library/inspect.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / inspect.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / last element supplied state validated random setstate", "file": "releases/3-5-0-beta-4/library/last-element-supplied-state-validated-random-setstate.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / last element supplied state validated random setstate.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / numeric", "file": "releases/3-5-0-beta-4/library/numeric.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / numeric.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / re", "file": "releases/3-5-0-beta-4/library/re.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / re.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / repaired segmentation fault occurred while constructing lru cache via gc collect", "file": "lru-cache-construction-gc-crash.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / repaired segmentation fault occurred while constructing lru cache via gc collect.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / tarfile", "file": "releases/3-5-0-beta-4/library/tarfile.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / tarfile.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / text and unicode", "file": "releases/3-5-0-beta-4/library/text-and-unicode.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / timeit", "file": "releases/3-5-0-beta-4/library/timeit.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / timeit.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / traceback", "file": "releases/3-5-0-beta-4/library/traceback.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / traceback.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / unittest mock", "file": "releases/3-5-0-beta-4/library/unittest-mock.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / unittest mock.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / library / unittest", "file": "releases/3-5-0-beta-4/library/unittest.md", "summary": "Open when checking Python 3.5.0 beta 4 / library / unittest.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

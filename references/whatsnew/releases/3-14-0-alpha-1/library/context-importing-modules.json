@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Importing Modules / Python 3.14.0 alpha 1 / library / zipimport", "file": "releases/3-14-0-alpha-1/library/zipimport.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / zipimport.", "keywords": []},
+  {"topic": "Importing Modules / Python 3.14.0 alpha 1 / library / strip deprecated names out importlib abc live importlib resources abc", "file": "releases/3-14-0-alpha-1/library/importlib-resource-abstract-class-alias-removal.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / strip deprecated names out importlib abc live importlib resources abc.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

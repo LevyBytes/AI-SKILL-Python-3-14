@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python next / library / apply coloring match within repl whenever unary or operator", "file": "releases/next/library/apply-coloring-match-within-repl-whenever-unary-or-operator.md", "summary": "Open when checking Python next / library / apply coloring match within repl whenever unary or operator.", "keywords": []},
+    {"topic": "Python next / library / concurrent futures", "file": "releases/next/library/concurrent-futures.md", "summary": "Open when checking Python next / library / concurrent futures.", "keywords": []},
+    {"topic": "Python next / library / exceptions", "file": "releases/next/library/exceptions.md", "summary": "Open when checking Python next / library / exceptions.", "keywords": []},
+    {"topic": "Python next / library / locale", "file": "releases/next/library/locale.md", "summary": "Open when checking Python next / library / locale.", "keywords": []},
+    {"topic": "Python next / library / memory and lifetimes", "file": "releases/next/library/memory-and-lifetimes.md", "summary": "Open when checking Python next / library / memory and lifetimes.", "keywords": []},
+    {"topic": "Python next / library / socket", "file": "releases/next/library/socket.md", "summary": "Open when checking Python next / library / socket.", "keywords": []},
+    {"topic": "Python next / library / stdtypes", "file": "releases/next/library/stdtypes.md", "summary": "Open when checking Python next / library / stdtypes.", "keywords": []},
+    {"topic": "Python next / library / subprocess", "file": "releases/next/library/subprocess.md", "summary": "Open when checking Python next / library / subprocess.", "keywords": []},
+    {"topic": "Python next / library / unittest", "file": "releases/next/library/unittest.md", "summary": "Open when checking Python next / library / unittest.", "keywords": []},
+    {"topic": "Python next / library / venv", "file": "releases/next/library/venv.md", "summary": "Open when checking Python next / library / venv.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

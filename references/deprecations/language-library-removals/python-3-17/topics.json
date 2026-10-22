@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Language and standard library pending removal in 3.17: collections.abc; typing", "file": "language-library-removals/python-3-17/collections-abc-typing.md", "summary": "Open when checking Language and standard library pending removal in 3.17: collections.abc; typing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

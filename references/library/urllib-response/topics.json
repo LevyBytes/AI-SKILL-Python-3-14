@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "urllib.response: `urllib.response.addinfourl`", "file": "urllib-response/urllib-response-addinfourl-class.md", "summary": "Open when checking the documented contracts for `urllib.response.addinfourl` in urllib.response.", "keywords": []},
+  {"topic": "urllib.response / Response classes used by urllib: `geturl()`, `info()`, `getcode()`", "file": "url-response-address-and-status.md", "summary": "Open when checking the documented contracts for `geturl()`, `info()`, `getcode()` in urllib.response / Response classes used by urllib.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

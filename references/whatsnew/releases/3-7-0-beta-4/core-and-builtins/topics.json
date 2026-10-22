@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 4 / core and builtins / better error messages within async aenter or aexit hand", "file": "releases/3-7-0-beta-4/core-and-builtins/better-error-messages-within-async-aenter-or-aexit-hand.md", "summary": "Open when checking Python 3.7.0 beta 4 / core and builtins / better error messages within async aenter or aexit hand.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / core and builtins / functions and types", "file": "releases/3-7-0-beta-4/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.7.0 beta 4 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / core and builtins / memory and lifetimes", "file": "releases/3-7-0-beta-4/core-and-builtins/memory-and-lifetimes.md", "summary": "Open when checking Python 3.7.0 beta 4 / core and builtins / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / core and builtins / resolve bug where pathfinder showed up twice sys meta path", "file": "releases/3-7-0-beta-4/core-and-builtins/resolve-bug-where-pathfinder-showed-up-twice-sys-meta-path.md", "summary": "Open when checking Python 3.7.0 beta 4 / core and builtins / resolve bug where pathfinder showed up twice sys meta path.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / core and builtins / resolve ma version tag dict implementation stays uninitialized while copying key sharing", "file": "shared-key-dictionary-copy-version-tag.md", "summary": "Open when checking Python 3.7.0 beta 4 / core and builtins / resolve ma version tag dict implementation stays uninitialized while copying key sharing.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / core and builtins / warnings", "file": "releases/3-7-0-beta-4/core-and-builtins/warnings.md", "summary": "Open when checking Python 3.7.0 beta 4 / core and builtins / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Data Handling / Python 3.7.0 alpha 1 / library / both binascii b2a uu uu encode can treat zero place space", "file": "releases/3-7-0-alpha-1/library/both-binascii-b2a-uu-uu-encode-can-treat-zero-place-space.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / both binascii b2a uu uu encode can treat zero place space.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.7.0 alpha 1 / library / closed buffer overrun affecting binascii b2a qp plus binascii a2b qp", "file": "releases/3-7-0-alpha-1/library/quoted-printable-buffer-overruns.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / closed buffer overrun affecting binascii b2a qp plus binascii a2b qp.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

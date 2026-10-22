@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 6 / windows / asyncio", "file": "releases/3-13-0-alpha-6/windows/asyncio.md", "summary": "Open when checking Python 3.13.0 alpha 6 / windows / asyncio.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / windows / imports and modules", "file": "releases/3-13-0-alpha-6/windows/imports-and-modules.md", "summary": "Open when checking Python 3.13.0 alpha 6 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / windows / os", "file": "releases/3-13-0-alpha-6/windows/os.md", "summary": "Open when checking Python 3.13.0 alpha 6 / windows / os.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / windows / resolve cases overlapped overlapped object xxxx still pending operation deallocation", "file": "pending-overlapped-operation-deallocation.md", "summary": "Open when checking Python 3.13.0 alpha 6 / windows / resolve cases overlapped overlapped object xxxx still pending operation deallocation.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / windows / time", "file": "releases/3-13-0-alpha-6/windows/time.md", "summary": "Open when checking Python 3.13.0 alpha 6 / windows / time.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

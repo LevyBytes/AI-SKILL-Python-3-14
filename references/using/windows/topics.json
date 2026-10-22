@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "install manager", "file": "windows/install-manager/INDEX.md", "summary": "Open when checking install manager.", "keywords": []},
+    {"topic": "legacy installer", "file": "windows/legacy-installer/INDEX.md", "summary": "Open when checking legacy installer.", "keywords": []},
+    {"topic": "legacy launcher", "file": "windows/legacy-launcher/INDEX.md", "summary": "Open when checking legacy launcher.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

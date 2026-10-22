@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Built-in objects and typing / Python 3.11.0 alpha 1 / library / stdtypes", "file": "releases/3-11-0-alpha-1/library/stdtypes.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / stdtypes.", "keywords": []},
+  {"topic": "Built-in objects and typing / Python 3.11.0 alpha 1 / library / functions", "file": "releases/3-11-0-alpha-1/library/functions.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / functions.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

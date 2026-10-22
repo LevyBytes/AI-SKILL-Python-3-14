@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 1 / idle / build and platforms", "file": "releases/3-5-0-alpha-1/idle/build-and-platforms.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / collections and iteration", "file": "releases/3-5-0-alpha-1/idle/collections-and-iteration.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / dialog", "file": "releases/3-5-0-alpha-1/idle/dialog.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / dialog.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / files and paths", "file": "releases/3-5-0-alpha-1/idle/files-and-paths.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / hyperparser gained support non ascii identifiers", "file": "releases/3-5-0-alpha-1/idle/hyperparser-gained-support-non-ascii-identifiers.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / hyperparser gained support non ascii identifiers.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / idle can launch turtledemo", "file": "releases/3-5-0-alpha-1/idle/idle-can-launch-turtledemo.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / idle can launch turtledemo.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / imports and modules", "file": "releases/3-5-0-alpha-1/idle/imports-and-modules.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / lines get inserted or deleted idle debugger breakpoints no", "file": "releases/3-5-0-alpha-1/idle/lines-get-inserted-or-deleted-idle-debugger-breakpoints-no.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / lines get inserted or deleted idle debugger breakpoints no.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / main", "file": "releases/3-5-0-alpha-1/idle/main.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / main.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / make certain idle menus get customized correctly under os", "file": "releases/3-5-0-alpha-1/idle/make-certain-idle-menus-get-customized-correctly-under-os.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / make certain idle menus get customized correctly under os.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / refresh idle doc chapter lines up present idle add", "file": "releases/3-5-0-alpha-1/idle/refresh-idle-doc-chapter-lines-up-present-idle-add.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / refresh idle doc chapter lines up present idle add.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / switch default paragraph width pep recommendation", "file": "releases/3-5-0-alpha-1/idle/switch-default-paragraph-width-pep-recommendation.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / switch default paragraph width pep recommendation.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / tests and documentation", "file": "releases/3-5-0-alpha-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / tweak editor window title drop python shift version end", "file": "releases/3-5-0-alpha-1/idle/tweak-editor-window-title-drop-python-shift-version-end.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / tweak editor window title drop python shift version end.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / idle / unittest", "file": "releases/3-5-0-alpha-1/idle/unittest.md", "summary": "Open when checking Python 3.5.0 alpha 1 / idle / unittest.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

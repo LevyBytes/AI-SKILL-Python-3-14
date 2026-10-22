@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Built-in objects and typing / constants", "file": "constants/INDEX.md", "summary": "Open when checking constants.", "keywords": []},
+  {"topic": "Built-in objects and typing / exceptions", "file": "exceptions/INDEX.md", "summary": "Open when checking exceptions.", "keywords": []},
+  {"topic": "Built-in objects and typing / functions", "file": "functions/INDEX.md", "summary": "Open when checking functions.", "keywords": []},
+  {"topic": "Built-in objects and typing / stdtypes", "file": "stdtypes/INDEX.md", "summary": "Open when checking stdtypes.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

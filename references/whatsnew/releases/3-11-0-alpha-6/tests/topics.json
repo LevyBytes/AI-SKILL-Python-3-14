@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 6 / tests / asyncio", "file": "releases/3-11-0-alpha-6/tests/asyncio.md", "summary": "Open when checking Python 3.11.0 alpha 6 / tests / asyncio.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / tests / compiler and parser", "file": "releases/3-11-0-alpha-6/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 alpha 6 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / tests / files and paths", "file": "releases/3-11-0-alpha-6/tests/files-and-paths.md", "summary": "Open when checking Python 3.11.0 alpha 6 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / tests / functions and types", "file": "releases/3-11-0-alpha-6/tests/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 6 / tests / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / tests / zlib", "file": "releases/3-11-0-alpha-6/tests/zlib.md", "summary": "Open when checking Python 3.11.0 alpha 6 / tests / zlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

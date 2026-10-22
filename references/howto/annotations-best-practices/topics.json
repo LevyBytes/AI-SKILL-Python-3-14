@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Accessing The Annotations Dict Of An Object In Python 3.9 And Older", "file": "annotation-dictionaries-python-3-9-and-older.md", "summary": "Open when checking Accessing The Annotations Dict Of An Object In Python 3.9 And Older.", "keywords": []},
+    {"topic": "Accessing The Annotations Dict Of An Object In Python 3.10 And Newer", "file": "annotation-dictionaries-python-3-10-and-newer.md", "summary": "Open when checking Accessing The Annotations Dict Of An Object In Python 3.10 And Newer.", "keywords": []},
+    {"topic": "Annotations Best Practices", "file": "annotations-best-practices/annotations-best-practices.md", "summary": "Open when checking Annotations Best Practices.", "keywords": []},
+    {"topic": "`__annotations__` Quirks", "file": "annotations-best-practices/annotations-quirks.md", "summary": "Open when checking `__annotations__` Quirks.", "keywords": []},
+    {"topic": "Best Practices For `__annotations__` In Any Python Version", "file": "annotations-best-practices/best-practices-for-annotations-in-any-python-version.md", "summary": "Open when checking Best Practices For `__annotations__` In Any Python Version.", "keywords": []},
+    {"topic": "Manually Un-Stringizing Stringized Annotations", "file": "annotations-best-practices/manually-un-stringizing-stringized-annotations.md", "summary": "Open when checking Manually Un-Stringizing Stringized Annotations.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

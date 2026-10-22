@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "builtins — `builtins` — Built-in objects", "file": "builtins/builtins-built-in-objects.md", "summary": "Open when checking builtins — `builtins` — Built-in objects.", "keywords": []},
+    {"topic": "Mmap, Modulefinder, Modules, Msilib", "file": "builtins/mmap-modulefinder-modules-msilib.md", "summary": "Open when checking Mmap, Modulefinder, Modules, Msilib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

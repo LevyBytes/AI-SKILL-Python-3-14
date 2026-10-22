@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Python 3.7 release history / 3 7 0 alpha 1", "file": "releases/3-7-0-alpha-1/INDEX.md", "summary": "Open when checking 3 7 0 alpha 1.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 alpha 2", "file": "releases/3-7-0-alpha-2/INDEX.md", "summary": "Open when checking 3 7 0 alpha 2.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 alpha 3", "file": "releases/3-7-0-alpha-3/INDEX.md", "summary": "Open when checking 3 7 0 alpha 3.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 alpha 4", "file": "releases/3-7-0-alpha-4/INDEX.md", "summary": "Open when checking 3 7 0 alpha 4.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 beta 1", "file": "releases/3-7-0-beta-1/INDEX.md", "summary": "Open when checking 3 7 0 beta 1.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 beta 2", "file": "releases/3-7-0-beta-2/INDEX.md", "summary": "Open when checking 3 7 0 beta 2.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 beta 3", "file": "releases/3-7-0-beta-3/INDEX.md", "summary": "Open when checking 3 7 0 beta 3.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 beta 4", "file": "releases/3-7-0-beta-4/INDEX.md", "summary": "Open when checking 3 7 0 beta 4.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 beta 5", "file": "releases/3-7-0-beta-5/INDEX.md", "summary": "Open when checking 3 7 0 beta 5.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 release candidate 1", "file": "releases/3-7-0-release-candidate-1/INDEX.md", "summary": "Open when checking 3 7 0 release candidate 1.", "keywords": []},
+  {"topic": "Python 3.7 release history / 3 7 0 final", "file": "releases/3-7-0-final/INDEX.md", "summary": "Open when checking 3 7 0 final.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

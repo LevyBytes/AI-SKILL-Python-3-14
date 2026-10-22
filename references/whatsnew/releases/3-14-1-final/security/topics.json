@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.1 final / security / email message", "file": "releases/3-14-1-final/security/email-message.md", "summary": "Open when checking Python 3.14.1 final / security / email message.", "keywords": []},
+    {"topic": "Python 3.14.1 final / security / files and paths", "file": "releases/3-14-1-final/security/files-and-paths.md", "summary": "Open when checking Python 3.14.1 final / security / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.1 final / security / html parser", "file": "releases/3-14-1-final/security/html-parser.md", "summary": "Open when checking Python 3.14.1 final / security / html parser.", "keywords": []},
+    {"topic": "Python 3.14.1 final / security / http client", "file": "releases/3-14-1-final/security/http-client.md", "summary": "Open when checking Python 3.14.1 final / security / http client.", "keywords": []},
+    {"topic": "Python 3.14.1 final / security / os path", "file": "releases/3-14-1-final/security/os-path.md", "summary": "Open when checking Python 3.14.1 final / security / os path.", "keywords": []},
+    {"topic": "Python 3.14.1 final / security / plistlib", "file": "releases/3-14-1-final/security/plistlib.md", "summary": "Open when checking Python 3.14.1 final / security / plistlib.", "keywords": []},
+    {"topic": "Python 3.14.1 final / security / sqlite3", "file": "releases/3-14-1-final/security/sqlite3.md", "summary": "Open when checking Python 3.14.1 final / security / sqlite3.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

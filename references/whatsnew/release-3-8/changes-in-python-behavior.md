@@ -1,0 +1,17 @@
+# What’s New In Python 3.8 / Changes in Python behavior — sys
+
+### Changes in Python behavior
+
+- Comprehensions and generator expressions can no longer contain yield expressions (covering both `yield` and `yield from` clauses), with the sole exception of the iterable expression sitting in the leftmost `for` clause. (Contributed by Serhiy Storchaka in [bpo-10544](https://bugs.python.org/issue?@action=redirect&bpo=10544).)
+
+- Whenever identity checks (`is` and `is not`) get paired with particular literal kinds (for instance, strings or numbers), the compiler will now emit a [`SyntaxWarning`](https://docs.python.org/3.14/library/exceptions.html#SyntaxWarning). Such comparisons may succeed by chance inside CPython, yet the language spec offers no such guarantee. Users are nudged by the warning toward equality tests (`==` and `!=`) as a replacement. (Contributed by Serhiy Storchaka in [bpo-34850](https://bugs.python.org/issue?@action=redirect&bpo=34850).)
+
+- Under certain conditions the CPython interpreter may quietly discard exceptions. Python 3.8 reduces how often that occurs. Notably, an exception that arises while fetching the attribute out of the type dictionary will no longer be discarded. (Contributed by Serhiy Storchaka in [bpo-35459](https://bugs.python.org/issue?@action=redirect&bpo=35459).)
+
+- The builtin types [`bool`](https://docs.python.org/3.14/library/functions.html#bool), [`int`](https://docs.python.org/3.14/library/functions.html#int), [`float`](https://docs.python.org/3.14/library/functions.html#float), [`complex`](https://docs.python.org/3.14/library/functions.html#complex), plus a handful of standard-library classes, no longer carry their own `__str__` implementations. Each one now picks up `__str__()` via inheritance from [`object`](https://docs.python.org/3.14/library/functions.html#object). Consequently, supplying a `__repr__()` method in a subclass of any of these will change how it stringifies. (Contributed by Serhiy Storchaka in [bpo-36793](https://bugs.python.org/issue?@action=redirect&bpo=36793).)
+
+- Under AIX, the major version is no longer baked into [`sys.platform`](https://docs.python.org/3.14/library/sys.html#sys.platform). The value stays fixed at `'aix'` rather than ranging over `'aix3'` .. `'aix7'`. Because earlier Python releases embedded that number, the advice is to consistently rely on `sys.platform.startswith('aix')`. (Contributed by M. Felt in [bpo-36588](https://bugs.python.org/issue?@action=redirect&bpo=36588).)
+
+- Calling `PyEval_AcquireLock()` or `PyEval_AcquireThread()` during interpreter finalization will now end the current thread, lining their behavior up with [`PyEval_RestoreThread()`](https://docs.python.org/3.14/c-api/threads.html#c.PyEval_RestoreThread), [`Py_END_ALLOW_THREADS()`](https://docs.python.org/3.14/c-api/threads.html#c.Py_END_ALLOW_THREADS), and [`PyGILState_Ensure()`](https://docs.python.org/3.14/c-api/threads.html#c.PyGILState_Ensure). Should you want to avoid that outcome, protect the call by testing `_Py_IsFinalizing()` or [`sys.is_finalizing()`](https://docs.python.org/3.14/library/sys.html#sys.is_finalizing). (Contributed by Joannah Nanjekye in [bpo-36475](https://bugs.python.org/issue?@action=redirect&bpo=36475).)
+
+[Subject index](INDEX.md) · [Previous source section](porting-to-python-3-8.md) · [Next source section](changes-in-the-python-api.md) · [Release/subject declaration](assignment-expressions.md)

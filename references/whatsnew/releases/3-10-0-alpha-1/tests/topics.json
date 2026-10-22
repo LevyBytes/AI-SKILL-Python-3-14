@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 1 / tests / array", "file": "releases/3-10-0-alpha-1/tests/array.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / array.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / build and platforms", "file": "releases/3-10-0-alpha-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / ctypes", "file": "releases/3-10-0-alpha-1/tests/ctypes.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / ctypes.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / files and paths", "file": "releases/3-10-0-alpha-1/tests/files-and-paths.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / get test cmd line script pass under vv option", "file": "releases/3-10-0-alpha-1/tests/get-test-cmd-line-script-pass-under-vv-option.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / get test cmd line script pass under vv option.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / get test gdb running properly hp ux", "file": "releases/3-10-0-alpha-1/tests/get-test-gdb-running-properly-hp-ux.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / get test gdb running properly hp ux.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / imaplib", "file": "releases/3-10-0-alpha-1/tests/imaplib.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / imaplib.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / license test url opener cleanup", "file": "releases/3-10-0-alpha-1/tests/license-test-url-opener-cleanup.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / license test url opener cleanup.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / multiprocessing", "file": "releases/3-10-0-alpha-1/tests/multiprocessing.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / raise loopback timeout up vxworks rtos", "file": "releases/3-10-0-alpha-1/tests/raise-loopback-timeout-up-vxworks-rtos.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / raise loopback timeout up vxworks rtos.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / repair test binhex second run works relies import fresh module guarantee deprecationwarning", "file": "binhex-repeat-test-deprecation-warning.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / repair test binhex second run works relies import fresh module guarantee deprecationwarning.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / runpy", "file": "releases/3-10-0-alpha-1/tests/runpy.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / runpy.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / test", "file": "releases/3-10-0-alpha-1/tests/test.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / test.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / tests and documentation", "file": "releases/3-10-0-alpha-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / tests / warnings", "file": "releases/3-10-0-alpha-1/tests/warnings.md", "summary": "Open when checking Python 3.10.0 alpha 1 / tests / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

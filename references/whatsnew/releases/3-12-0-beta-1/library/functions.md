@@ -1,0 +1,7 @@
+# Python 3.12.0 beta 1 / library / functions
+
+[gh-104555](https://github.com/python/cpython/issues/104555): Resolve a problem where an [`issubclass()`](https://docs.python.org/3.14/library/functions.html#issubclass) test of a class `X` against a [`runtime-checkable protocol`](https://docs.python.org/3.14/library/typing.html#typing.runtime_checkable) `Y` having non-callable members failed to raise [`TypeError`](https://docs.python.org/3.14/library/exceptions.html#TypeError) whenever an earlier [`isinstance()`](https://docs.python.org/3.14/library/functions.html#isinstance) call had compared an instance of `X` with `Y`. The defect showed up in edge cases on Python 3.11 yet grew more visible in 3.12 thanks to a few unrelated revisions to runtime-checkable protocols. Alex Waygood wrote the patch.
+
+[gh-74690](https://github.com/python/cpython/issues/74690): For protocols carrying only a handful of members, [`isinstance()`](https://docs.python.org/3.14/library/functions.html#isinstance) checks against [`runtime-checkable protocols`](https://docs.python.org/3.14/library/typing.html#typing.runtime_checkable) now run substantially faster. Realising this gain meant reworking several internal pieces of the [`typing`](https://docs.python.org/3.14/library/typing.html#module-typing) module, among them `typing._ProtocolMeta.__instancecheck__`, `typing._is_callable_members_only`, and `typing._get_protocol_attrs`. Alex Waygood supplied the patches.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "C API pending removal in 3.14: PyDictObject.ma_version_tag; Immutable types with mutable bases", "file": "dict-version-tag-and-immutable-type-base-removals.md", "summary": "Open when checking C API pending removal in 3.14: PyDictObject.ma_version_tag; Immutable types with mutable bases.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

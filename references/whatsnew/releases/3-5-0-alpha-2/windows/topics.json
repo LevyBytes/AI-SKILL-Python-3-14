@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 2 / windows / files and paths", "file": "releases/3-5-0-alpha-2/windows/files-and-paths.md", "summary": "Open when checking Python 3.5.0 alpha 2 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 2 / windows / implemented pep teaching python launcher about virtual environments", "file": "windows-launcher-virtual-environment-support.md", "summary": "Open when checking Python 3.5.0 alpha 2 / windows / implemented pep teaching python launcher about virtual environments.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

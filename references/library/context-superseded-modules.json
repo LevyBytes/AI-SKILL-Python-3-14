@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Superseded Modules / superseded", "file": "superseded/INDEX.md", "summary": "Open when checking superseded.", "keywords": []},
+  {"topic": "Superseded Modules / getopt", "file": "getopt/INDEX.md", "summary": "Open when checking getopt.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

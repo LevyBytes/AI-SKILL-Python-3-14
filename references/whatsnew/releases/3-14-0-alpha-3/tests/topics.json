@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 3 / tests / build and platforms", "file": "releases/3-14-0-alpha-3/tests/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 3 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / tests / collections and iteration", "file": "releases/3-14-0-alpha-3/tests/collections-and-iteration.md", "summary": "Open when checking Python 3.14.0 alpha 3 / tests / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / tests / dis", "file": "releases/3-14-0-alpha-3/tests/dis.md", "summary": "Open when checking Python 3.14.0 alpha 3 / tests / dis.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / tests / exercise limited c api within test cppext", "file": "releases/3-14-0-alpha-3/tests/exercise-limited-c-api-within-test-cppext.md", "summary": "Open when checking Python 3.14.0 alpha 3 / tests / exercise limited c api within test cppext.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / tests / io", "file": "releases/3-14-0-alpha-3/tests/io.md", "summary": "Open when checking Python 3.14.0 alpha 3 / tests / io.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

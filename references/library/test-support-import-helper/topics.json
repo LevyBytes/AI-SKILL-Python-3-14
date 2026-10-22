@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "test.support.import_helper: Import test caches and bytecode helpers", "file": "import-test-cache-and-bytecode-helpers.md", "summary": "Open when checking import test caches and bytecode helpers in test.support.import_helper.", "keywords": []},
+  {"topic": "test.support.import_helper: `test.support.import_helper.CleanImport`", "file": "test-support-import-helper/test-support-import-helper-cleanimport-class.md", "summary": "Open when checking the documented contracts for `test.support.import_helper.CleanImport` in test.support.import_helper.", "keywords": []},
+  {"topic": "test.support.import_helper: `test.support.import_helper.DirsOnSysPath`", "file": "test-support-import-helper/test-support-import-helper-dirsonsyspath-class.md", "summary": "Open when checking the documented contracts for `test.support.import_helper.DirsOnSysPath` in test.support.import_helper.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

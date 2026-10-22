@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Graphical user interfaces with Tk / tk", "file": "tk/INDEX.md", "summary": "Open when checking tk.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter", "file": "tkinter/INDEX.md", "summary": "Open when checking tkinter.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter colorchooser", "file": "tkinter-colorchooser/INDEX.md", "summary": "Open when checking tkinter colorchooser.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter font", "file": "tkinter-font/INDEX.md", "summary": "Open when checking tkinter font.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / dialog", "file": "dialog/INDEX.md", "summary": "Open when checking dialog.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter messagebox", "file": "tkinter-messagebox/INDEX.md", "summary": "Open when checking tkinter messagebox.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter scrolledtext", "file": "tkinter-scrolledtext/INDEX.md", "summary": "Open when checking tkinter scrolledtext.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter dnd", "file": "tkinter-dnd/INDEX.md", "summary": "Open when checking tkinter dnd.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / tkinter ttk", "file": "tkinter-ttk/INDEX.md", "summary": "Open when checking tkinter ttk.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / idle", "file": "idle/INDEX.md", "summary": "Open when checking idle.", "keywords": []},
+  {"topic": "Graphical user interfaces with Tk / turtle", "file": "turtle/INDEX.md", "summary": "Open when checking turtle.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

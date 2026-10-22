@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Security Options / --with-hash-algorithm=[fnv/siphash13/siphash24]", "file": "build-configuration/with-hash-algorithm-fnv-siphash13-siphash24.md", "summary": "Open when checking --with-hash-algorithm=[fnv/siphash13/siphash24].", "keywords": []},
+  {"topic": "Security Options / --with-builtin-hashlib-hashes=md5,sha1,sha256,sha512,sha3,blake2", "file": "build-configuration/builtin-hash-algorithm-selection.md", "summary": "Open when checking --with-builtin-hashlib-hashes=md5,sha1,sha256,sha512,sha3,blake2.", "keywords": []},
+  {"topic": "Security Options / --with-ssl-default-suites=[python/openssl/STRING]", "file": "build-configuration/with-ssl-default-suites-python-openssl-string.md", "summary": "Open when checking --with-ssl-default-suites=[python/openssl/STRING].", "keywords": []},
+  {"topic": "Security Options / --disable-safety", "file": "build-configuration/disable-safety.md", "summary": "Open when checking --disable-safety.", "keywords": []},
+  {"topic": "Security Options / --enable-slower-safety", "file": "build-configuration/enable-slower-safety.md", "summary": "Open when checking --enable-slower-safety.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 3 / idle / dialog", "file": "releases/3-6-0-alpha-3/idle/dialog.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / dialog.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / idle search dialogs switched over ttk widgets", "file": "releases/3-6-0-alpha-3/idle/idle-search-dialogs-switched-over-ttk-widgets.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / idle search dialogs switched over ttk widgets.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / imports and modules", "file": "releases/3-6-0-alpha-3/idle/imports-and-modules.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / permit non ascii chars within idle news txt contributor names work", "file": "idle-news-contributor-name-encoding.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / permit non ascii chars within idle news txt contributor names work.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / python", "file": "releases/3-6-0-alpha-3/idle/python.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / python.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / removed", "file": "releases/3-6-0-alpha-3/idle/removed.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / removed.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / test idle no longer changes locale", "file": "releases/3-6-0-alpha-3/idle/test-idle-no-longer-changes-locale.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / test idle no longer changes locale.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / tests and documentation", "file": "releases/3-6-0-alpha-3/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / idle / tkinter", "file": "releases/3-6-0-alpha-3/idle/tkinter.md", "summary": "Open when checking Python 3.6.0 alpha 3 / idle / tkinter.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

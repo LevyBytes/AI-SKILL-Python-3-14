@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Atomic", "file": "threadsafety/atomic.md", "summary": "Open when checking Atomic.", "keywords": []},
+    {"topic": "Compatible", "file": "threadsafety/compatible.md", "summary": "Open when checking Compatible.", "keywords": []},
+    {"topic": "Thread safety for dict objects — Code example: d[key] = d[key] + 1", "file": "threadsafety/dictionary-nonatomic-operations.md", "summary": "Open when checking Thread safety for dict objects — Code example: d[key] = d[key] + 1.", "keywords": []},
+    {"topic": "Incompatible", "file": "threadsafety/incompatible.md", "summary": "Open when checking Incompatible.", "keywords": []},
+    {"topic": "Safe on distinct objects", "file": "threadsafety/safe-on-distinct-objects.md", "summary": "Open when checking Safe on distinct objects.", "keywords": []},
+    {"topic": "Safe on shared objects", "file": "threadsafety/safe-on-shared-objects.md", "summary": "Open when checking Safe on shared objects.", "keywords": []},
+    {"topic": "Thread safety for bytearray objects", "file": "threadsafety/thread-safety-for-bytearray-objects.md", "summary": "Open when checking Thread safety for bytearray objects.", "keywords": []},
+    {"topic": "Thread safety for dict objects — Section introduction and initial examples", "file": "dictionary-thread-safety-overview.md", "summary": "Open when checking Thread safety for dict objects — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Thread safety for list objects", "file": "threadsafety/thread-safety-for-list-objects.md", "summary": "Open when checking Thread safety for list objects.", "keywords": []},
+    {"topic": "Thread safety for memoryview objects", "file": "threadsafety/thread-safety-for-memoryview-objects.md", "summary": "Open when checking Thread safety for memoryview objects.", "keywords": []},
+    {"topic": "Thread safety for set objects — Code example: s.isdisjoint(other)          # both locked", "file": "set-disjoint-operation-locking-example.md", "summary": "Open when checking Thread safety for set objects — Code example: s.isdisjoint(other)          # both locked.", "keywords": []},
+    {"topic": "Thread safety for set objects — Section introduction and initial examples", "file": "set-thread-safety-overview.md", "summary": "Open when checking Thread safety for set objects — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Thread Safety Guarantees", "file": "threadsafety/thread-safety-guarantees.md", "summary": "Open when checking Thread Safety Guarantees.", "keywords": []},
+    {"topic": "Thread safety levels", "file": "threadsafety/thread-safety-levels.md", "summary": "Open when checking Thread safety levels.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

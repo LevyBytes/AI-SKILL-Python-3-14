@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "4.2.3. Annotation scopes", "file": "execution-model/annotation-scopes.md", "summary": "Open when checking 4.2.3. Annotation scopes.", "keywords": []},
+    {"topic": "4.2.1. Binding of names", "file": "execution-model/binding-of-names.md", "summary": "Open when checking 4.2.1. Binding of names.", "keywords": []},
+    {"topic": "4.2.5. Builtins and restricted execution", "file": "execution-model/builtins-and-restricted-execution.md", "summary": "Open when checking 4.2.5. Builtins and restricted execution.", "keywords": []},
+    {"topic": "4.3. Exceptions", "file": "execution-model/exceptions.md", "summary": "Open when checking 4.3. Exceptions.", "keywords": []},
+    {"topic": "4.4.1. General Computing Model", "file": "execution-model/general-computing-model.md", "summary": "Open when checking 4.4.1. General Computing Model.", "keywords": []},
+    {"topic": "4.2.6. Interaction with dynamic features", "file": "execution-model/interaction-with-dynamic-features.md", "summary": "Open when checking 4.2.6. Interaction with dynamic features.", "keywords": []},
+    {"topic": "4.2.4. Lazy evaluation", "file": "execution-model/lazy-evaluation.md", "summary": "Open when checking 4.2.4. Lazy evaluation.", "keywords": []},
+    {"topic": "4.4.2. Python Runtime Model", "file": "execution-model/python-runtime-model.md", "summary": "Open when checking 4.4.2. Python Runtime Model.", "keywords": []},
+    {"topic": "4.2.2. Resolution of names", "file": "execution-model/resolution-of-names.md", "summary": "Open when checking 4.2.2. Resolution of names.", "keywords": []},
+    {"topic": "4.1. Structure of a program", "file": "execution-model/structure-of-a-program.md", "summary": "Open when checking 4.1. Structure of a program.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

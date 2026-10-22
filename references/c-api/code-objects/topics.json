@@ -1,0 +1,9 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Code Object Flags", "file": "code-objects/code-object-flags.md", "summary": "Open when checking Code Object Flags.", "keywords": []},
+  {"topic": "code objects C API: Code objects and executable-code representation", "file": "code-objects/code-objects.md", "summary": "Open when checking code objects and executable-code representation in code objects C API.", "keywords": []},
+  {"topic": "code objects C API: Code object construction, bytecode and source locations", "file": "code-objects/pycodeobject-to-pycode-getvarnames.md", "summary": "Open when checking code object construction, bytecode and source locations in code objects C API.", "keywords": []},
+  {"topic": "code objects C API: `PyCode_GetCellvars()`, `PyCode_GetFreevars()`, `PyCode_AddWatcher()`, `PyCode_ClearWatcher()`", "file": "code-objects/pycode-getcellvars-to-pycode-clearwatcher.md", "summary": "Open when checking the documented contracts for `PyCode_GetCellvars()`, `PyCode_GetFreevars()`, `PyCode_AddWatcher()`, `PyCode_ClearWatcher()` in code objects C API.", "keywords": []},
+  {"topic": "code objects C API: `PyCodeEvent`, `PyCode_Optimize()`", "file": "code-objects/pycodeevent-to-pycode-optimize.md", "summary": "Open when checking the documented contracts for `PyCodeEvent`, `PyCode_Optimize()` in code objects C API.", "keywords": []},
+  {"topic": "Extra information", "file": "code-object-extra-data.md", "summary": "Open when checking Extra information.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

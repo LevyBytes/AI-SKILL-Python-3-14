@@ -1,0 +1,16 @@
+{"schema_version": 1, "topics": [
+  {"topic": "time: `time.struct_time`", "file": "time/time-struct-time-class.md", "summary": "Open when checking the documented contracts for `time.struct_time` in time.", "keywords": []},
+  {"topic": "time: `time.asctime()`, `time.pthread_getcpuclockid()`, `time.clock_getres()`, `time.clock_settime()`, `time.clock_settime_ns()`, `time.ctime()`", "file": "time/time-asctime-to-time-ctime.md", "summary": "Open when checking the documented contracts for `time.asctime()`, `time.pthread_getcpuclockid()`, `time.clock_getres()`, `time.clock_settime()`, `time.clock_settime_ns()`, `time.ctime()` in time.", "keywords": []},
+  {"topic": "time: `time.get_clock_info()`, `time.gmtime()`, `time.localtime()`, `time.mktime()`", "file": "time/time-get-clock-info-to-time-mktime.md", "summary": "Open when checking the documented contracts for `time.get_clock_info()`, `time.gmtime()`, `time.localtime()`, `time.mktime()` in time.", "keywords": []},
+  {"topic": "time: Clock monotonicity, performance and CPU-time behavior", "file": "time/functions.md", "summary": "Open when checking clock monotonicity, performance and CPU-time behavior in time.", "keywords": []},
+  {"topic": "time: `time.sleep()`", "file": "time/time-sleep.md", "summary": "Open when checking the documented contracts for `time.sleep()` in time.", "keywords": []},
+  {"topic": "time: `time.strftime()`", "file": "time/time-strftime.md", "summary": "Open when checking the documented contracts for `time.strftime()` in time.", "keywords": []},
+  {"topic": "time: `time.strptime()`", "file": "time/time-strptime.md", "summary": "Open when checking the documented contracts for `time.strptime()` in time.", "keywords": []},
+  {"topic": "time: `time.tzset()`", "file": "time/time-tzset.md", "summary": "Open when checking the documented contracts for `time.tzset()` in time.", "keywords": []},
+  {"topic": "time: POSIX timezone month-week-day transition rules", "file": "time/mm-n-d.md", "summary": "Open when checking POSIX timezone month-week-day transition rules in time.", "keywords": []},
+  {"topic": "time — Timezone Constants", "file": "time/time-altzone-to-time-tzname.md", "summary": "Open when checking time — Timezone Constants.", "keywords": []},
+  {"topic": "time: Boot, monotonic, process and thread clock identifiers", "file": "time/time-clock-boottime-to-time-clock-thread-cputime-id.md", "summary": "Open when checking boot, monotonic, process and thread clock identifiers in time.", "keywords": []},
+  {"topic": "time: `time.CLOCK_UPTIME`, `time.CLOCK_UPTIME_RAW`, `time.CLOCK_UPTIME_RAW_APPROX`, `time.CLOCK_REALTIME`", "file": "time/time-clock-uptime-to-time-clock-realtime.md", "summary": "Open when checking the documented contracts for `time.CLOCK_UPTIME`, `time.CLOCK_UPTIME_RAW`, `time.CLOCK_UPTIME_RAW_APPROX`, `time.CLOCK_REALTIME` in time.", "keywords": []},
+  {"topic": "time — `time` — Time access and conversions", "file": "time/time-time-access-and-conversions.md", "summary": "Open when checking time — `time` — Time access and conversions.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

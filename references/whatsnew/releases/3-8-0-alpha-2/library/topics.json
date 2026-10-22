@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 2 / library / collections and iteration", "file": "releases/3-8-0-alpha-2/library/collections-and-iteration.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / dataclasses", "file": "releases/3-8-0-alpha-2/library/dataclasses.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / dataclasses.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / datetime", "file": "releases/3-8-0-alpha-2/library/datetime.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / datetime.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / functions and types", "file": "releases/3-8-0-alpha-2/library/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / http server", "file": "releases/3-8-0-alpha-2/library/http-server.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / http server.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / importlib", "file": "releases/3-8-0-alpha-2/library/importlib.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / importlib.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / math", "file": "releases/3-8-0-alpha-2/library/math.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / math.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / pdb", "file": "releases/3-8-0-alpha-2/library/pdb.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / pdb.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / random", "file": "releases/3-8-0-alpha-2/library/random.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / random.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / re", "file": "releases/3-8-0-alpha-2/library/re.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / re.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / shutil", "file": "releases/3-8-0-alpha-2/library/shutil.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / shutil.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / unittest mock", "file": "releases/3-8-0-alpha-2/library/unittest-mock.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / unittest mock.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / weakref", "file": "releases/3-8-0-alpha-2/library/weakref.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / weakref.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 2 / library / xmlrpc client", "file": "releases/3-8-0-alpha-2/library/xmlrpc-client.md", "summary": "Open when checking Python 3.8.0 alpha 2 / library / xmlrpc client.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

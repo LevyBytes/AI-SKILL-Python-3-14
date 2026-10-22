@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 2 / documentation / collections abc", "file": "releases/3-11-0-alpha-2/documentation/collections-abc.md", "summary": "Open when checking Python 3.11.0 alpha 2 / documentation / collections abc.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / documentation / exceptions", "file": "releases/3-11-0-alpha-2/documentation/exceptions.md", "summary": "Open when checking Python 3.11.0 alpha 2 / documentation / exceptions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / documentation / functions and types", "file": "releases/3-11-0-alpha-2/documentation/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 2 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / documentation / functools", "file": "releases/3-11-0-alpha-2/documentation/functools.md", "summary": "Open when checking Python 3.11.0 alpha 2 / documentation / functools.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / documentation / imports and modules", "file": "releases/3-11-0-alpha-2/documentation/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 2 / documentation / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / documentation / tests and documentation", "file": "releases/3-11-0-alpha-2/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 2 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

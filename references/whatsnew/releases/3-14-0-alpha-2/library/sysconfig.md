@@ -1,0 +1,7 @@
+# Python 3.14.0 alpha 2 / library / sysconfig
+
+[gh-126920](https://github.com/python/cpython/issues/126920): Correct the `prefix` and `exec_prefix` entries returned by [`sysconfig.get_config_vars()`](https://docs.python.org/3.14/library/sysconfig.html#sysconfig.get_config_vars), which inside virtual environments mistakenly matched [`sys.base_prefix`](https://docs.python.org/3.14/library/sys.html#sys.base_prefix) and [`sys.base_exec_prefix`](https://docs.python.org/3.14/library/sys.html#sys.base_exec_prefix) respectively. Those entries now properly mirror [`sys.prefix`](https://docs.python.org/3.14/library/sys.html#sys.prefix) and [`sys.exec_prefix`](https://docs.python.org/3.14/library/sys.html#sys.exec_prefix).
+
+[gh-126789](https://github.com/python/cpython/issues/126789): Correct the results from [`sysconfig.get_config_vars()`](https://docs.python.org/3.14/library/sysconfig.html#sysconfig.get_config_vars), [`sysconfig.get_paths()`](https://docs.python.org/3.14/library/sysconfig.html#sysconfig.get_paths), and their relatives for the case where [`site`](https://docs.python.org/3.14/library/site.html#module-site) initialization runs after [`sysconfig`](https://docs.python.org/3.14/library/sysconfig.html#module-sysconfig) has already populated a cache for `sysconfig.get_config_vars()`.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

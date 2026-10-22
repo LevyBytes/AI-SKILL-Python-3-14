@@ -1,0 +1,7 @@
+# What's New In Python 3.10 / collections.abc — collections.abc, types, typing
+
+### collections.abc
+
+For [`collections.abc.Callable`](https://docs.python.org/3.14/library/collections.abc.html#collections.abc.Callable), the `__args__` of its [parameterized generic](https://docs.python.org/3.14/library/stdtypes.html#types-genericalias) now line up with those of [`typing.Callable`](https://docs.python.org/3.14/library/typing.html#typing.Callable). The `collections.abc.Callable` generic now collapses its type parameters into a flat form, mirroring the behavior `typing.Callable` already exhibits. Concretely, `collections.abc.Callable[[int, str], str]` will end up with `__args__` equal to `(int, str, str)`, whereas it formerly produced `([int, str], str)`. Enabling that shift meant making [`types.GenericAlias`](https://docs.python.org/3.14/library/types.html#types.GenericAlias) subclassable, and subscripting the `collections.abc.Callable` type now hands back such a subclass. Bear in mind that a [`TypeError`](https://docs.python.org/3.14/library/exceptions.html#TypeError) can surface for invalid ways of parameterizing `collections.abc.Callable` that slipped by quietly back in Python 3.9. (Contributed by Ken Jin in [bpo-42195](https://bugs.python.org/issue?@action=redirect&bpo=42195).)
+
+[Subject index](INDEX.md) · [Previous source section](codecs.md) · [Next source section](contextlib.md) · [Release/subject declaration](summary-release-highlights.md)

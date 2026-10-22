@@ -1,0 +1,47 @@
+# Combined library maintenance
+
+Select by the documented task or API context. [Topic catalog](context-combined-library-maintenance.json).
+
+- Open when checking Python 3.13.0 alpha 1 / library / decimal. [Combined library maintenance / Python 3.13.0 alpha 1 / library / decimal](decimal.md).
+- Open when checking Python 3.13.0 alpha 1 / library / sysconfig. [Combined library maintenance / Python 3.13.0 alpha 1 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.13.0 alpha 1 / library / functools. [Combined library maintenance / Python 3.13.0 alpha 1 / library / functools](functools.md).
+- Open when checking Python 3.13.0 alpha 1 / library / os path. [Combined library maintenance / Python 3.13.0 alpha 1 / library / os path](os-path.md).
+- Open when checking Python 3.13.0 alpha 1 / library / reprlib. [Combined library maintenance / Python 3.13.0 alpha 1 / library / reprlib](reprlib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / codecs. [Combined library maintenance / Python 3.13.0 alpha 1 / library / codecs](codecs.md).
+- Open when checking Python 3.13.0 alpha 1 / library / copy. [Combined library maintenance / Python 3.13.0 alpha 1 / library / copy](copy.md).
+- Open when checking Python 3.13.0 alpha 1 / library / corrected regression brought gh 101251 yielded wrong offset calculation within. [Combined library maintenance / Python 3.13.0 alpha 1 / library / corrected regression brought gh 101251 yielded wrong offset calculation within](gzip-seek-offset-regression.md).
+- Open when checking Python 3.13.0 alpha 1 / library / venv. [Combined library maintenance / Python 3.13.0 alpha 1 / library / venv](venv.md).
+- Open when checking Python 3.13.0 alpha 1 / library / logging. [Combined library maintenance / Python 3.13.0 alpha 1 / library / logging](logging.md).
+- Open when checking Python 3.13.0 alpha 1 / library / re. [Combined library maintenance / Python 3.13.0 alpha 1 / library / re](re.md).
+- Open when checking Python 3.13.0 alpha 1 / library / sqlite3. [Combined library maintenance / Python 3.13.0 alpha 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.13.0 alpha 1 / library / tarfile. [Combined library maintenance / Python 3.13.0 alpha 1 / library / tarfile](tarfile.md).
+- Open when checking Python 3.13.0 alpha 1 / library / xml dom minidom. [Combined library maintenance / Python 3.13.0 alpha 1 / library / xml dom minidom](xml-dom-minidom.md).
+- Open when checking Python 3.13.0 alpha 1 / library / contextlib. [Combined library maintenance / Python 3.13.0 alpha 1 / library / contextlib](contextlib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / dis. [Combined library maintenance / Python 3.13.0 alpha 1 / library / dis](dis.md).
+- Open when checking Python 3.13.0 alpha 1 / library / enum. [Combined library maintenance / Python 3.13.0 alpha 1 / library / enum](enum.md).
+- Open when checking Python 3.13.0 alpha 1 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.13.0 alpha 1 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.13.0 alpha 1 / library / exceptions. [Combined library maintenance / Python 3.13.0 alpha 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.13.0 alpha 1 / library / inspect. [Combined library maintenance / Python 3.13.0 alpha 1 / library / inspect](inspect.md).
+- Open when checking Python 3.13.0 alpha 1 / library / multiprocessing. [Combined library maintenance / Python 3.13.0 alpha 1 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.13.0 alpha 1 / library / pdb. [Combined library maintenance / Python 3.13.0 alpha 1 / library / pdb](pdb.md).
+- Open when checking Python 3.13.0 alpha 1 / library / selectors. [Combined library maintenance / Python 3.13.0 alpha 1 / library / selectors](selectors.md).
+- Open when checking Python 3.13.0 alpha 1 / library / ssl. [Combined library maintenance / Python 3.13.0 alpha 1 / library / ssl](ssl.md).
+- Open when checking Python 3.13.0 alpha 1 / library / asyncio. [Combined library maintenance / Python 3.13.0 alpha 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.13.0 alpha 1 / library / array. [Combined library maintenance / Python 3.13.0 alpha 1 / library / array](array.md).
+- Open when checking Python 3.13.0 alpha 1 / library / files and paths. [Combined library maintenance / Python 3.13.0 alpha 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.13.0 alpha 1 / library / threads and concurrency. [Combined library maintenance / Python 3.13.0 alpha 1 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.13.0 alpha 1 / library / os. [Combined library maintenance / Python 3.13.0 alpha 1 / library / os](os.md).
+- Open when checking Python 3.13.0 alpha 1 / library / tests and documentation. [Combined library maintenance / Python 3.13.0 alpha 1 / library / tests and documentation](tests-and-documentation.md).
+- Open when checking Python 3.13.0 alpha 1 / library / ast. [Combined library maintenance / Python 3.13.0 alpha 1 / library / ast](ast.md).
+- Open when checking Python 3.13.0 alpha 1 / library / functions and types. [Combined library maintenance / Python 3.13.0 alpha 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.13.0 alpha 1 / library / imports and modules. [Combined library maintenance / Python 3.13.0 alpha 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.13.0 alpha 1 / library / pathlib. [Combined library maintenance / Python 3.13.0 alpha 1 / library / pathlib](pathlib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / typing. [Combined library maintenance / Python 3.13.0 alpha 1 / library / typing](typing.md).
+- Open when checking Python 3.13.0 alpha 1 / library / unittest. [Combined library maintenance / Python 3.13.0 alpha 1 / library / unittest](unittest.md).
+- Open when checking Python 3.13.0 alpha 1 / library / functions. [Combined library maintenance / Python 3.13.0 alpha 1 / library / functions](functions.md).
+- Open when checking Python 3.13.0 alpha 1 / library / shutil. [Combined library maintenance / Python 3.13.0 alpha 1 / library / shutil](shutil.md).
+- Open when checking Python 3.13.0 alpha 1 / library / threading. [Combined library maintenance / Python 3.13.0 alpha 1 / library / threading](threading.md).
+- Open when checking Python 3.13.0 alpha 1 / library / types. [Combined library maintenance / Python 3.13.0 alpha 1 / library / types](types.md).
+- Open when checking Python 3.13.0 alpha 1 / library / unittest mock. [Combined library maintenance / Python 3.13.0 alpha 1 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.13.0 alpha 1 / library / gettext. [Combined library maintenance / Python 3.13.0 alpha 1 / library / gettext](gettext.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

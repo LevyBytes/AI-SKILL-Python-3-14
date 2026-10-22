@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 2 / build / build and platforms", "file": "releases/3-11-0-alpha-2/build/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / functions and types", "file": "releases/3-11-0-alpha-2/build/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / imports and modules", "file": "releases/3-11-0-alpha-2/build/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / math", "file": "releases/3-11-0-alpha-2/build/math.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / math.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / modules", "file": "releases/3-11-0-alpha-2/build/modules.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / pyexpat", "file": "releases/3-11-0-alpha-2/build/pyexpat.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / pyexpat.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / resolve warning about swprintf s usage inside testembed c", "file": "releases/3-11-0-alpha-2/build/resolve-warning-about-swprintf-s-usage-inside-testembed-c.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / resolve warning about swprintf s usage inside testembed c.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / steer clear linking libpython against libcrypt", "file": "releases/3-11-0-alpha-2/build/steer-clear-linking-libpython-against-libcrypt.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / steer clear linking libpython against libcrypt.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / sys", "file": "releases/3-11-0-alpha-2/build/sys.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / sys.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / build / tests and documentation", "file": "releases/3-11-0-alpha-2/build/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 2 / build / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

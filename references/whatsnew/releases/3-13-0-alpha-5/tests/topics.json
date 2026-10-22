@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 5 / tests / bisect", "file": "releases/3-13-0-alpha-5/tests/bisect.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / bisect.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / tests / build and platforms", "file": "releases/3-13-0-alpha-5/tests/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / tests / exceptions and tracebacks", "file": "releases/3-13-0-alpha-5/tests/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / tests / memory and lifetimes", "file": "releases/3-13-0-alpha-5/tests/memory-and-lifetimes.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / tests / stop programprioritytests inside test os permanently altering process priority", "file": "process-priority-test-state-restoration.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / stop programprioritytests inside test os permanently altering process priority.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / tests / stop segfault testinternalcapi compiler codegen triggered bad input", "file": "internal-codegen-test-invalid-input-crash.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / stop segfault testinternalcapi compiler codegen triggered bad input.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / tests / threading", "file": "releases/3-13-0-alpha-5/tests/threading.md", "summary": "Open when checking Python 3.13.0 alpha 5 / tests / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

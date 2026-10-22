@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Summary – Release Highlights / What's New In Python 3.13 / Summary ? Release Highlights — argparse, base64, copy, dbm", "file": "release-3-13/summary-release-highlights.md", "summary": "Open when checking What's New In Python 3.13 / Summary ? Release Highlights — argparse, base64, copy, dbm.", "keywords": []},
+  {"topic": "Summary – Release Highlights / What's New In Python 3.13 / Summary ? Release Highlights — os, random, ssl, typing, warnings", "file": "release-3-13/timer-notification-and-library-highlights.md", "summary": "Open when checking What's New In Python 3.13 / Summary ? Release Highlights — os, random, ssl, typing, warnings.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

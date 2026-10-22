@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "getpass — `getpass` — Portable password input", "file": "getpass/getpass-getpass-to-getpass-getuser.md", "summary": "Open when checking getpass — `getpass` — Portable password input.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

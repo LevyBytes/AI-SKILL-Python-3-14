@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "asynchat — `asynchat` — Asynchronous socket command/response handler", "file": "asynchat/asynchat-asynchronous-socket-command-response-handler.md", "summary": "Open when checking asynchat — `asynchat` — Asynchronous socket command/response handler.", "keywords": []},
+    {"topic": "asynchat — Asynchronous socket command/response handler", "file": "asynchat/asynchronous-socket-command-response-handler.md", "summary": "Open when checking asynchat — Asynchronous socket command/response handler.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

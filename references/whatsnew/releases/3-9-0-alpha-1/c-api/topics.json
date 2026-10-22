@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 1 / c api / arg", "file": "releases/3-9-0-alpha-1/c-api/arg.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / audioop", "file": "releases/3-9-0-alpha-1/c-api/audioop.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / audioop.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / call", "file": "releases/3-9-0-alpha-1/c-api/call.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / call.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / compiler and parser", "file": "releases/3-9-0-alpha-1/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / debug", "file": "releases/3-9-0-alpha-1/c-api/debug.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / debug.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / exceptions and tracebacks", "file": "releases/3-9-0-alpha-1/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / exceptions", "file": "releases/3-9-0-alpha-1/c-api/exceptions.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / fix crash pysys setargvex null", "file": "releases/3-9-0-alpha-1/c-api/fix-crash-pysys-setargvex-null.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / fix crash pysys setargvex null.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / fix dtrace issue introduce bpo 36842", "file": "releases/3-9-0-alpha-1/c-api/fix-dtrace-issue-introduce-bpo-36842.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / fix dtrace issue introduce bpo 36842.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / functions and types", "file": "releases/3-9-0-alpha-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / init config", "file": "releases/3-9-0-alpha-1/c-api/init-config.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / init config.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / interpreter path initialization arguments", "file": "releases/3-9-0-alpha-1/c-api/interpreter-path-initialization-arguments.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / interpreter path initialization arguments.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / intro", "file": "releases/3-9-0-alpha-1/c-api/intro.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / intro.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / long", "file": "releases/3-9-0-alpha-1/c-api/long.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / long.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / removed", "file": "releases/3-9-0-alpha-1/c-api/removed.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / removed.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / structures", "file": "releases/3-9-0-alpha-1/c-api/structures.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / structures.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / sys", "file": "releases/3-9-0-alpha-1/c-api/sys.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / sys.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / text and unicode", "file": "releases/3-9-0-alpha-1/c-api/text-and-unicode.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / text and unicode.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / tuple", "file": "releases/3-9-0-alpha-1/c-api/tuple.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / tuple.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / weakref", "file": "releases/3-9-0-alpha-1/c-api/weakref.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / weakref.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / c api / whatever options pysys addxoption adds get treated just like pyconfig xoptions", "file": "c-api-xoptions-configuration-consistency.md", "summary": "Open when checking Python 3.9.0 alpha 1 / c api / whatever options pysys addxoption adds get treated just like pyconfig xoptions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

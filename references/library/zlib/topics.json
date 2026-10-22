@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "zlib: Checksums and compression constructors", "file": "zlib/zlib-error-to-zlib-crc32.md", "summary": "Open when checking checksums and compression constructors in zlib.", "keywords": []},
+  {"topic": "zlib: Decompression setup and streaming state", "file": "zlib/zlib-decompress-to-decompress-eof.md", "summary": "Open when checking decompression setup and streaming state in zlib.", "keywords": []},
+  {"topic": "zlib: Streaming decompression methods and compression settings", "file": "zlib/decompress-decompress-to-zlib-z-fixed.md", "summary": "Open when checking streaming decompression methods and compression settings in zlib.", "keywords": []},
+  {"topic": "zlib: Flush modes and zlib version constants", "file": "zlib/zlib-z-no-flush-to-zlib-zlibng-version.md", "summary": "Open when checking flush modes and zlib version constants in zlib.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

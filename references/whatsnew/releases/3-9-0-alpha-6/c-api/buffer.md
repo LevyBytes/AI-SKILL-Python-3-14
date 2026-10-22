@@ -1,0 +1,5 @@
+# Python 3.9.0 alpha 6 / c api / buffer
+
+[bpo-40170](https://bugs.python.org/issue?@action=redirect&bpo=40170): Turn the [`PyObject_CheckBuffer()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyObject_CheckBuffer) macro into a function so implementation details stay hidden: that macro had been reaching straight into the [`PyTypeObject.tp_as_buffer`](https://docs.python.org/3.14/c-api/typeobj.html#c.PyTypeObject.tp_as_buffer) member.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "email.generator: `email.generator.BytesGenerator`", "file": "email-generator/email-generator-bytesgenerator-class.md", "summary": "Open when checking the documented contracts for `email.generator.BytesGenerator` in email.generator.", "keywords": []},
+  {"topic": "email.generator.BytesGenerator: `flatten()`, `clone()`, `write()`", "file": "byte-generator-flattening-and-output.md", "summary": "Open when checking the documented contracts for `flatten()`, `clone()`, `write()` in email.generator.BytesGenerator.", "keywords": []},
+  {"topic": "email.generator: `email.generator.Generator`, `flatten()`, `clone()`, `write()`", "file": "text-generator-class-and-output.md", "summary": "Open when checking the documented contracts for `email.generator.Generator`, `flatten()`, `clone()`, `write()` in email.generator.", "keywords": []},
+  {"topic": "email.generator: `email.generator.DecodedGenerator`", "file": "email-generator/email-generator-decodedgenerator-class.md", "summary": "Open when checking the documented contracts for `email.generator.DecodedGenerator` in email.generator.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

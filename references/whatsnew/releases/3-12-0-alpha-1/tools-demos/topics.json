@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / build and platforms", "file": "releases/3-12-0-alpha-1/tools-demos/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / files and paths", "file": "releases/3-12-0-alpha-1/tools-demos/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / i18n", "file": "releases/3-12-0-alpha-1/tools-demos/i18n.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / i18n.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / imports and modules", "file": "releases/3-12-0-alpha-1/tools-demos/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / inspect", "file": "releases/3-12-0-alpha-1/tools-demos/inspect.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / inspect.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / remove ptags eptags scripts", "file": "releases/3-12-0-alpha-1/tools-demos/remove-ptags-eptags-scripts.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / remove ptags eptags scripts.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / tools scripts parseentities py script parsed html4 entities gone", "file": "obsolete-html-entity-parser-tool-removal.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / tools scripts parseentities py script parsed html4 entities gone.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / tools demos / warnings", "file": "releases/3-12-0-alpha-1/tools-demos/warnings.md", "summary": "Open when checking Python 3.12.0 alpha 1 / tools demos / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Overview and scope / Curses Programming with Python", "file": "curses/curses-programming-with-python.md", "summary": "Open when checking Curses Programming with Python.", "keywords": []},
+  {"topic": "What is curses?", "file": "curses/what-is-curses.md", "summary": "Open when checking What is curses.", "keywords": []},
+  {"topic": "What is curses? / The Python curses module", "file": "curses/the-python-curses-module.md", "summary": "Open when checking The Python curses module.", "keywords": []},
+  {"topic": "Starting and ending a curses application", "file": "curses/starting-and-ending-a-curses-application.md", "summary": "Open when checking Starting and ending a curses application.", "keywords": []},
+  {"topic": "Windows and Pads", "file": "curses/windows-and-pads.md", "summary": "Open when checking Windows and Pads.", "keywords": []},
+  {"topic": "Displaying Text", "file": "curses/displaying-text.md", "summary": "Open when checking Displaying Text.", "keywords": []},
+  {"topic": "Displaying Text / Attributes and Color", "file": "curses/attributes-and-color.md", "summary": "Open when checking Attributes and Color.", "keywords": []},
+  {"topic": "User Input", "file": "curses/user-input.md", "summary": "Open when checking User Input.", "keywords": []},
+  {"topic": "For More Information / Curses further information and API coverage", "file": "curses/curses-further-information-and-api-coverage.md", "summary": "Open when checking Curses further information and API coverage.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

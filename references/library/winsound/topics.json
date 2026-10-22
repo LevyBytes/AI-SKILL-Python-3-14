@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "winsound: `winsound.Beep()`, `winsound.PlaySound()`, `winsound.MessageBeep()`, `winsound.SND_FILENAME`, `winsound.SND_ALIAS`, `winsound.SND_LOOP`, `winsound.SND_MEMORY`, `winsound.SND_PURGE`, `winsound.SND_ASYNC`, `winsound.SND_NODEFAULT`", "file": "winsound/winsound-beep-to-winsound-snd-nodefault.md", "summary": "Open when checking the documented contracts for `winsound.Beep()`, `winsound.PlaySound()`, `winsound.MessageBeep()`, `winsound.SND_FILENAME`, `winsound.SND_ALIAS`, `winsound.SND_LOOP`, `winsound.SND_MEMORY`, `winsound.SND_PURGE`, `winsound.SND_ASYNC`, `winsound.SND_NODEFAULT` in winsound.", "keywords": []},
+  {"topic": "winsound: Sound playback flags and message-beep constants", "file": "winsound/winsound-snd-nostop-to-winsound-mb-iconwarning.md", "summary": "Open when checking sound playback flags and message-beep constants in winsound.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

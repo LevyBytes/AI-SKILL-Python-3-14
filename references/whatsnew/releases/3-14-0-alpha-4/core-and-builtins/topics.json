@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / build and platforms", "file": "releases/3-14-0-alpha-4/core-and-builtins/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / compiler and parser", "file": "releases/3-14-0-alpha-4/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / debug", "file": "releases/3-14-0-alpha-4/core-and-builtins/debug.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / debug.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / exceptions", "file": "releases/3-14-0-alpha-4/core-and-builtins/exceptions.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / files and paths", "file": "releases/3-14-0-alpha-4/core-and-builtins/files-and-paths.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / functions and types", "file": "releases/3-14-0-alpha-4/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / functions", "file": "releases/3-14-0-alpha-4/core-and-builtins/functions.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / functions.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / imports and modules", "file": "releases/3-14-0-alpha-4/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / numeric behavior", "file": "releases/3-14-0-alpha-4/core-and-builtins/numeric-behavior.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / sys path init", "file": "releases/3-14-0-alpha-4/core-and-builtins/sys-path-init.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / sys path init.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / sys", "file": "releases/3-14-0-alpha-4/core-and-builtins/sys.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / sys.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / threads and concurrency", "file": "releases/3-14-0-alpha-4/core-and-builtins/threads-and-concurrency.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 4 / core and builtins / unicode", "file": "releases/3-14-0-alpha-4/core-and-builtins/unicode.md", "summary": "Open when checking Python 3.14.0 alpha 4 / core and builtins / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Data Handling / Python 3.13.0 alpha 1 / library / email utils", "file": "releases/3-13-0-alpha-1/library/email-utils.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / email utils.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.13.0 alpha 1 / library / email parser", "file": "releases/3-13-0-alpha-1/library/email-parser.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / email parser.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.13.0 alpha 1 / library / backed out addition json attrdict", "file": "releases/3-13-0-alpha-1/library/backed-out-addition-json-attrdict.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / backed out addition json attrdict.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

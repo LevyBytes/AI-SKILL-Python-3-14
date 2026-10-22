@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "msilib — `msilib` — Read and write Microsoft Installer files", "file": "msilib/msilib-read-and-write-microsoft-installer-files.md", "summary": "Open when checking msilib — `msilib` — Read and write Microsoft Installer files.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

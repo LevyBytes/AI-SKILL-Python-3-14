@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.1 release candidate 1 / windows / files and paths", "file": "releases/3-6-1-release-candidate-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / windows / installer no longer ships readme txt", "file": "releases/3-6-1-release-candidate-1/windows/installer-no-longer-ships-readme-txt.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / installer no longer ships readme txt.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / windows / io fileio gains implementation pep eryk sun contributed patch", "file": "releases/3-6-1-release-candidate-1/windows/io-fileio-gains-implementation-pep-eryk-sun-contributed-patch.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / io fileio gains implementation pep eryk sun contributed patch.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / windows / msvcrt", "file": "releases/3-6-1-release-candidate-1/windows/msvcrt.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / msvcrt.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / windows / special console filenames processed correctly eryk sun wrote patch", "file": "windows-special-console-filenames.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / special console filenames processed correctly eryk sun wrote patch.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / windows / windowsregistryfinder deprecated turned off default", "file": "releases/3-6-1-release-candidate-1/windows/windowsregistryfinder-deprecated-turned-off-default.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / windowsregistryfinder deprecated turned off default.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / windows / winreg", "file": "releases/3-6-1-release-candidate-1/windows/winreg.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / windows / winreg.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

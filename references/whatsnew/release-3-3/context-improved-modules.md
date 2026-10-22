@@ -1,0 +1,71 @@
+# Improved Modules
+
+Select by the documented task or API context. [Topic catalog](context-improved-modules.json).
+
+- Open when checking What's New In Python 3.3 / abc — abc. [Improved Modules / What's New In Python 3.3 / abc — abc](abc.md).
+- Open when checking What's New In Python 3.3 / array — array. [Improved Modules / What's New In Python 3.3 / array — array](array.md).
+- Open when checking What's New In Python 3.3 / base64 — base64. [Improved Modules / What's New In Python 3.3 / base64 — base64](base64.md).
+- Open when checking What's New In Python 3.3 / binascii. [Improved Modules / What's New In Python 3.3 / binascii](binascii.md).
+- Open when checking What's New In Python 3.3 / bz2 — bz2, io. [Improved Modules / What's New In Python 3.3 / bz2 — bz2, io](bz2.md).
+- Open when checking What's New In Python 3.3 / codecs — codecs. [Improved Modules / What's New In Python 3.3 / codecs — codecs](codecs.md).
+- Open when checking What's New In Python 3.3 / collections — collections, collections.abc. [Improved Modules / What's New In Python 3.3 / collections — collections, collections.abc](collections.md).
+- Open when checking What's New In Python 3.3 / contextlib — contextlib, threading. [Improved Modules / What's New In Python 3.3 / contextlib — contextlib, threading](contextlib.md).
+- Open when checking What's New In Python 3.3 / crypt. [Improved Modules / What's New In Python 3.3 / crypt](crypt.md).
+- Open when checking What's New In Python 3.3 / curses — curses. [Improved Modules / What's New In Python 3.3 / curses — curses](curses.md).
+- Open when checking What's New In Python 3.3 / datetime — datetime. [Improved Modules / What's New In Python 3.3 / datetime — datetime](datetime.md).
+- Open when checking What's New In Python 3.3 / decimal. [Improved Modules / What's New In Python 3.3 / decimal](decimal.md).
+- Open when checking What's New In Python 3.3 / Features. [Improved Modules / What's New In Python 3.3 / Features](features.md).
+- Open when checking What's New In Python 3.3 / decimal / Features — decimal. [Improved Modules / What's New In Python 3.3 / decimal / Features — decimal](decimal-features.md).
+- Open when checking What's New In Python 3.3 / API changes. [Improved Modules / What's New In Python 3.3 / API changes](api-changes.md).
+- Open when checking What's New In Python 3.3 / decimal / API changes — collections.abc, decimal. [Improved Modules / What's New In Python 3.3 / decimal / API changes — collections.abc, decimal](decimal-api-changes.md).
+- Open when checking What's New In Python 3.3 / email / Policy Framework — email.compat32-message, email.generator, email.parser, email.policy. [Improved Modules / What's New In Python 3.3 / email / Policy Framework — email.compat32-message, email.generator, email.parser, email.policy](email-policy-framework.md).
+- Open when checking What's New In Python 3.3 / email / Provisional Policy with New Header API — email.header, email.policy. [Improved Modules / What's New In Python 3.3 / email / Provisional Policy with New Header API — email.header, email.policy](email-provisional-policy-with-new-header-api.md).
+- Open when checking What's New In Python 3.3 / email / Other API Changes — datetime, email.parser, email.utils. [Improved Modules / What's New In Python 3.3 / email / Other API Changes — datetime, email.parser, email.utils](email-other-api-changes.md).
+- Open when checking What's New In Python 3.3 / ftplib — ftplib. [Improved Modules / What's New In Python 3.3 / ftplib — ftplib](ftplib.md).
+- Open when checking What's New In Python 3.3 / functools — functools. [Improved Modules / What's New In Python 3.3 / functools — functools](functools.md).
+- Open when checking What's New In Python 3.3 / gc — gc. [Improved Modules / What's New In Python 3.3 / gc — gc](gc.md).
+- Open when checking What's New In Python 3.3 / hmac — hmac. [Improved Modules / What's New In Python 3.3 / hmac — hmac](hmac.md).
+- Open when checking What's New In Python 3.3 / http — http.client, http.server, io. [Improved Modules / What's New In Python 3.3 / http — http.client, http.server, io](http.md).
+- Open when checking What's New In Python 3.3 / html — html.entities, html.parser. [Improved Modules / What's New In Python 3.3 / html — html.entities, html.parser](html.md).
+- Open when checking What's New In Python 3.3 / imaplib — imaplib. [Improved Modules / What's New In Python 3.3 / imaplib — imaplib](imaplib.md).
+- Open when checking What's New In Python 3.3 / inspect — inspect. [Improved Modules / What's New In Python 3.3 / inspect — inspect](inspect.md).
+- Open when checking What's New In Python 3.3 / io — io. [Improved Modules / What's New In Python 3.3 / io — io](io.md).
+- Open when checking What's New In Python 3.3 / itertools — itertools. [Improved Modules / What's New In Python 3.3 / itertools — itertools](itertools.md).
+- Open when checking What's New In Python 3.3 / logging — logging, logging.handlers. [Improved Modules / What's New In Python 3.3 / logging — logging, logging.handlers](logging.md).
+- Open when checking What's New In Python 3.3 / math — math. [Improved Modules / What's New In Python 3.3 / math — math](math.md).
+- Open when checking What's New In Python 3.3 / mmap — mmap. [Improved Modules / What's New In Python 3.3 / mmap — mmap](mmap.md).
+- Open when checking What's New In Python 3.3 / multiprocessing — itertools, multiprocessing, select. [Improved Modules / What's New In Python 3.3 / multiprocessing — itertools, multiprocessing, select](multiprocessing.md).
+- Open when checking What's New In Python 3.3 / nntplib — socket. [Improved Modules / What's New In Python 3.3 / nntplib — socket](nntplib.md).
+- Open when checking What's New In Python 3.3 / os — os, os.path, shutil. [Improved Modules / What's New In Python 3.3 / os — os, os.path, shutil](os.md).
+- Open when checking What's New In Python 3.3 / pdb. [Improved Modules / What's New In Python 3.3 / pdb](pdb.md).
+- Open when checking What's New In Python 3.3 / pickle — pickle. [Improved Modules / What's New In Python 3.3 / pickle — pickle](pickle.md).
+- Open when checking What's New In Python 3.3 / pydoc — pydoc. [Improved Modules / What's New In Python 3.3 / pydoc — pydoc](pydoc.md).
+- Open when checking What's New In Python 3.3 / re. [Improved Modules / What's New In Python 3.3 / re](re.md).
+- Open when checking What's New In Python 3.3 / sched — sched, time. [Improved Modules / What's New In Python 3.3 / sched — sched, time](sched.md).
+- Open when checking What's New In Python 3.3 / select — select. [Improved Modules / What's New In Python 3.3 / select — select](select.md).
+- Open when checking What's New In Python 3.3 / shlex — shlex. [Improved Modules / What's New In Python 3.3 / shlex — shlex](shlex.md).
+- Open when checking What's New In Python 3.3 / shutil — os, shutil. [Improved Modules / What's New In Python 3.3 / shutil — os, shutil](shutil.md).
+- Open when checking What's New In Python 3.3 / signal — signal. [Improved Modules / What's New In Python 3.3 / signal — signal](signal.md).
+- Open when checking What's New In Python 3.3 / smtpd. [Improved Modules / What's New In Python 3.3 / smtpd](smtpd.md).
+- Open when checking What's New In Python 3.3 / smtplib — smtplib. [Improved Modules / What's New In Python 3.3 / smtplib — smtplib](smtplib.md).
+- Open when checking What's New In Python 3.3 / socket — socket. [Improved Modules / What's New In Python 3.3 / socket — socket](socket.md).
+- Open when checking What's New In Python 3.3 / socketserver — socketserver. [Improved Modules / What's New In Python 3.3 / socketserver — socketserver](socketserver.md).
+- Open when checking What's New In Python 3.3 / sqlite3 — sqlite3. [Improved Modules / What's New In Python 3.3 / sqlite3 — sqlite3](sqlite3.md).
+- Open when checking What's New In Python 3.3 / ssl — ssl. [Improved Modules / What's New In Python 3.3 / ssl — ssl](ssl.md).
+- Open when checking What's New In Python 3.3 / stat — stat. [Improved Modules / What's New In Python 3.3 / stat — stat](stat.md).
+- Open when checking What's New In Python 3.3 / struct — struct. [Improved Modules / What's New In Python 3.3 / struct — struct](struct.md).
+- Open when checking What's New In Python 3.3 / subprocess — subprocess. [Improved Modules / What's New In Python 3.3 / subprocess — subprocess](subprocess.md).
+- Open when checking What's New In Python 3.3 / sys — sys. [Improved Modules / What's New In Python 3.3 / sys — sys](sys.md).
+- Open when checking What's New In Python 3.3 / tarfile — lzma, tarfile. [Improved Modules / What's New In Python 3.3 / tarfile — lzma, tarfile](tarfile.md).
+- Open when checking What's New In Python 3.3 / tempfile — tempfile. [Improved Modules / What's New In Python 3.3 / tempfile — tempfile](tempfile.md).
+- Open when checking What's New In Python 3.3 / textwrap — textwrap. [Improved Modules / What's New In Python 3.3 / textwrap — textwrap](textwrap.md).
+- Open when checking What's New In Python 3.3 / threading — threading. [Improved Modules / What's New In Python 3.3 / threading — threading](threading.md).
+- Open when checking What's New In Python 3.3 / time — time. [Improved Modules / What's New In Python 3.3 / time — time](time.md).
+- Open when checking What's New In Python 3.3 / SimpleNamespace end — types. [Improved Modules / What's New In Python 3.3 / SimpleNamespace end — types](simplenamespace-end.md).
+- Open when checking What's New In Python 3.3 / types — types. [Improved Modules / What's New In Python 3.3 / types — types](types.md).
+- Open when checking What's New In Python 3.3 / unittest — unittest. [Improved Modules / What's New In Python 3.3 / unittest — unittest](unittest.md).
+- Open when checking What's New In Python 3.3 / urllib — urllib.request. [Improved Modules / What's New In Python 3.3 / urllib — urllib.request](urllib.md).
+- Open when checking What's New In Python 3.3 / webbrowser — webbrowser. [Improved Modules / What's New In Python 3.3 / webbrowser — webbrowser](webbrowser.md).
+- Open when checking What's New In Python 3.3 / xml.etree.ElementTree — xml.etree.elementtree. [Improved Modules / What's New In Python 3.3 / xml.etree.ElementTree — xml.etree.elementtree](xml-etree-elementtree.md).
+- Open when checking What's New In Python 3.3 / zlib — zlib. [Improved Modules / What's New In Python 3.3 / zlib — zlib](zlib.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 6 / tests / build and platforms", "file": "releases/3-14-0-alpha-6/tests/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tests / multiprocessing", "file": "releases/3-14-0-alpha-6/tests/multiprocessing.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tests / tests and documentation", "file": "releases/3-14-0-alpha-6/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "New Features / What's New In Python 3.13 / A better interactive interpreter", "file": "release-3-13/a-better-interactive-interpreter.md", "summary": "Open when checking What's New In Python 3.13 / A better interactive interpreter.", "keywords": []},
+  {"topic": "New Features / What's New In Python 3.13 / Improved error messages", "file": "release-3-13/improved-error-messages.md", "summary": "Open when checking What's New In Python 3.13 / Improved error messages.", "keywords": []},
+  {"topic": "New Features / What's New In Python 3.13 / Free-threaded CPython — sys", "file": "release-3-13/free-threaded-cpython.md", "summary": "Open when checking What's New In Python 3.13 / Free-threaded CPython — sys.", "keywords": []},
+  {"topic": "New Features / What's New In Python 3.13 / An experimental just-in-time (JIT) compiler", "file": "release-3-13/an-experimental-just-in-time-compiler.md", "summary": "Open when checking What's New In Python 3.13 / An experimental just-in-time (JIT) compiler.", "keywords": []},
+  {"topic": "New Features / What's New In Python 3.13 / Defined mutation semantics for `locals()` — runpy", "file": "release-3-13/defined-mutation-semantics-for-locals.md", "summary": "Open when checking What's New In Python 3.13 / Defined mutation semantics for `locals()` — runpy.", "keywords": []},
+  {"topic": "New Features / What's New In Python 3.13 / Support for mobile platforms", "file": "release-3-13/support-for-mobile-platforms.md", "summary": "Open when checking What's New In Python 3.13 / Support for mobile platforms.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

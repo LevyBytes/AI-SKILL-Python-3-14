@@ -1,0 +1,8 @@
+from itertools import accumulate
+from math import comb, prod
+
+def multinomial(*counts):
+    "Number of distinct arrangements of a multiset."
+    # Counter('abracadabra').values() → 5 2 2 1 1
+    # multinomial(5, 2, 2, 1, 1) → 83160
+    return prod(map(comb, accumulate(counts), counts))

@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Avoiding `PyObject_New`", "file": "isolating-extensions/avoiding-pyobject-new.md", "summary": "Open when checking Avoiding `PyObject_New`.", "keywords": []},
+    {"topic": "Background", "file": "isolating-extensions/background.md", "summary": "Open when checking Background.", "keywords": []},
+    {"topic": "Changing Static Types to Heap Types", "file": "isolating-extensions/changing-static-types-to-heap-types.md", "summary": "Open when checking Changing Static Types to Heap Types.", "keywords": []},
+    {"topic": "Defining Heap Types", "file": "isolating-extensions/defining-heap-types.md", "summary": "Open when checking Defining Heap Types.", "keywords": []},
+    {"topic": "Defining `tp_dealloc`", "file": "isolating-extensions/defining-tp-dealloc.md", "summary": "Open when checking Defining `tp_dealloc`.", "keywords": []},
+    {"topic": "Delegating `tp_traverse`", "file": "isolating-extensions/delegating-tp-traverse.md", "summary": "Open when checking Delegating `tp_traverse`.", "keywords": []},
+    {"topic": "Enter Per-Module State", "file": "isolating-extensions/enter-per-module-state.md", "summary": "Open when checking Enter Per-Module State.", "keywords": []},
+    {"topic": "Garbage-Collection Protocol", "file": "isolating-extensions/garbage-collection-protocol.md", "summary": "Open when checking Garbage-Collection Protocol.", "keywords": []},
+    {"topic": "Heap Types", "file": "isolating-extensions/heap-types.md", "summary": "Open when checking Heap Types.", "keywords": []},
+    {"topic": "Isolated Module Objects", "file": "isolating-extensions/isolated-module-objects.md", "summary": "Open when checking Isolated Module Objects.", "keywords": []},
+    {"topic": "Lifetime of the Module State", "file": "isolating-extensions/lifetime-of-the-module-state.md", "summary": "Open when checking Lifetime of the Module State.", "keywords": []},
+    {"topic": "Lossless Conversion to Heap Types", "file": "isolating-extensions/lossless-conversion-to-heap-types.md", "summary": "Open when checking Lossless Conversion to Heap Types.", "keywords": []},
+    {"topic": "Managing Global State", "file": "isolating-extensions/managing-global-state.md", "summary": "Open when checking Managing Global State.", "keywords": []},
+    {"topic": "Managing Per-Module State", "file": "isolating-extensions/managing-per-module-state.md", "summary": "Open when checking Managing Per-Module State.", "keywords": []},
+    {"topic": "Module State Access from Classes", "file": "isolating-extensions/module-state-access-from-classes.md", "summary": "Open when checking Module State Access from Classes.", "keywords": []},
+    {"topic": "Module State Access from Functions", "file": "isolating-extensions/module-state-access-from-functions.md", "summary": "Open when checking Module State Access from Functions.", "keywords": []},
+    {"topic": "Module State Access from Regular Methods", "file": "isolating-extensions/module-state-access-from-regular-methods.md", "summary": "Open when checking Module State Access from Regular Methods.", "keywords": []},
+    {"topic": "Module State Access from Slot Methods, Getters and Setters", "file": "isolating-extensions/module-state-access-from-slot-methods-getters-and-setters.md", "summary": "Open when checking Module State Access from Slot Methods, Getters and Setters.", "keywords": []},
+    {"topic": "Not overriding `tp_free`", "file": "isolating-extensions/not-overriding-tp-free.md", "summary": "Open when checking Not overriding `tp_free`.", "keywords": []},
+    {"topic": "Open Issues", "file": "isolating-extensions/open-issues.md", "summary": "Open when checking Open Issues.", "keywords": []},
+    {"topic": "Opt-Out: Limiting to One Module Object per Process", "file": "isolating-extensions/opt-out-limiting-to-one-module-object-per-process.md", "summary": "Open when checking Opt-Out: Limiting to One Module Object per Process.", "keywords": []},
+    {"topic": "Per-Class Scope", "file": "isolating-extensions/per-class-scope.md", "summary": "Open when checking Per-Class Scope.", "keywords": []},
+    {"topic": "Surprising Edge Cases", "file": "isolating-extensions/surprising-edge-cases.md", "summary": "Open when checking Surprising Edge Cases.", "keywords": []},
+    {"topic": "`tp_traverse` in Python 3.8 and lower", "file": "isolating-extensions/tp-traverse-in-python-3-8-and-lower.md", "summary": "Open when checking `tp_traverse` in Python 3.8 and lower.", "keywords": []},
+    {"topic": "Who should read this", "file": "isolating-extensions/who-should-read-this.md", "summary": "Open when checking Who should read this.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

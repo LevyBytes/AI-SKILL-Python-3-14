@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "WebAssembly Options / --enable-wasm-dynamic-linking", "file": "build-configuration/enable-wasm-dynamic-linking.md", "summary": "Open when checking --enable-wasm-dynamic-linking.", "keywords": []},
+  {"topic": "WebAssembly Options / --enable-wasm-pthreads", "file": "build-configuration/enable-wasm-pthreads.md", "summary": "Open when checking --enable-wasm-pthreads.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 3 / tests / drop findleaks command line option regrtest reach fail env changed option", "file": "regrtest-findleaks-option-removal.md", "summary": "Open when checking Python 3.11.0 alpha 3 / tests / drop findleaks command line option regrtest reach fail env changed option.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / tests / email", "file": "releases/3-11-0-alpha-3/tests/email.md", "summary": "Open when checking Python 3.11.0 alpha 3 / tests / email.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / tests / files and paths", "file": "releases/3-11-0-alpha-3/tests/files-and-paths.md", "summary": "Open when checking Python 3.11.0 alpha 3 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / tests / functools", "file": "releases/3-11-0-alpha-3/tests/functools.md", "summary": "Open when checking Python 3.11.0 alpha 3 / tests / functools.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / tests / threads and concurrency", "file": "releases/3-11-0-alpha-3/tests/threads-and-concurrency.md", "summary": "Open when checking Python 3.11.0 alpha 3 / tests / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

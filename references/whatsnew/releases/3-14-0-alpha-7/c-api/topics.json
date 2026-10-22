@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 7 / c api / pytupleobject keeps computed hash inside fresh ob hash field", "file": "releases/3-14-0-alpha-7/c-api/pytupleobject-keeps-computed-hash-inside-fresh-ob-hash-field.md", "summary": "Open when checking Python 3.14.0 alpha 7 / c api / pytupleobject keeps computed hash inside fresh ob hash field.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 7 / c api / updates pyunstable gc visitobjects also walks perm gen", "file": "releases/3-14-0-alpha-7/c-api/updates-pyunstable-gc-visitobjects-also-walks-perm-gen.md", "summary": "Open when checking Python 3.14.0 alpha 7 / c api / updates pyunstable gc visitobjects also walks perm gen.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

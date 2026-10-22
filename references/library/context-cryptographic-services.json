@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Cryptographic Services / crypto", "file": "crypto/INDEX.md", "summary": "Open when checking crypto.", "keywords": []},
+  {"topic": "Cryptographic Services / hashlib", "file": "hashlib/INDEX.md", "summary": "Open when checking hashlib.", "keywords": []},
+  {"topic": "Cryptographic Services / hmac", "file": "hmac/INDEX.md", "summary": "Open when checking hmac.", "keywords": []},
+  {"topic": "Cryptographic Services / secrets", "file": "secrets/INDEX.md", "summary": "Open when checking secrets.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

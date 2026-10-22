@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Build changes / What's new in Python 3.14 / Build changes — ctypes, fcntl, termios", "file": "release-3-14/build-changes.md", "summary": "Open when checking What's new in Python 3.14 / Build changes — ctypes, fcntl, termios.", "keywords": []},
+  {"topic": "Build changes / What's new in Python 3.14 / `build-details.json` — sysconfig", "file": "release-3-14/build-details-json.md", "summary": "Open when checking What's new in Python 3.14 / `build-details.json` — sysconfig.", "keywords": []},
+  {"topic": "Build changes / What's new in Python 3.14 / Discontinuation of PGP signatures", "file": "release-3-14/discontinuation-of-pgp-signatures.md", "summary": "Open when checking What's new in Python 3.14 / Discontinuation of PGP signatures.", "keywords": []},
+  {"topic": "Build changes / What's new in Python 3.14 / Free-threaded Python is officially supported", "file": "release-3-14/free-threaded-python-is-officially-supported.md", "summary": "Open when checking What's new in Python 3.14 / Free-threaded Python is officially supported.", "keywords": []},
+  {"topic": "Build changes / What's new in Python 3.14 / Binary releases for the experimental just-in-time compiler — pdb, profile, sys", "file": "release-3-14/binary-releases-for-the-experimental-just-in-time-compiler.md", "summary": "Open when checking What's new in Python 3.14 / Binary releases for the experimental just-in-time compiler — pdb, profile, sys.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

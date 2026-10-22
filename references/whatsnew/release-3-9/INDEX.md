@@ -1,0 +1,69 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Upstream feature guide navigation for Python 3.9. [Overview and scope / Upstream feature guide navigation for Python 3.9](release-overview.md).
+- Open when checking What's New In Python 3.9 / Summary ? Release highlights — ast, graphlib, grp, math, operator, os, pwd, random, resource, select, struct, termios, time, zlib, zoneinfo. [Summary – Release highlights / What's New In Python 3.9 / Summary ? Release highlights — ast, graphlib, grp, math, operator, os, pwd, random, resource, select, struct, termios, time, zlib, zoneinfo](summary-release-highlights.md).
+- Open when checking What's New In Python 3.9 / You should check for DeprecationWarning in your code — collections, collections.abc, devmode, warnings. [You should check for DeprecationWarning in your code / What's New In Python 3.9 / You should check for DeprecationWarning in your code — collections, collections.abc, devmode, warnings](you-should-check-for-deprecationwarning-in-your-code.md).
+- Open when checking What's New In Python 3.9 / Dictionary Merge &amp; Update Operators. [New Features / What's New In Python 3.9 / Dictionary Merge &amp; Update Operators](dictionary-merge-update-operators.md).
+- Open when checking What's New In Python 3.9 / New String Methods to Remove Prefixes and Suffixes. [New Features / What's New In Python 3.9 / New String Methods to Remove Prefixes and Suffixes](new-string-methods-to-remove-prefixes-and-suffixes.md).
+- Open when checking What's New In Python 3.9 / Type Hinting Generics in Standard Collections. [New Features / What's New In Python 3.9 / Type Hinting Generics in Standard Collections](type-hinting-generics-in-standard-collections.md).
+- Open when checking What's New In Python 3.9 / New Parser — ast. [New Features / What's New In Python 3.9 / New Parser — ast](new-parser.md).
+- Open when checking What's New In Python 3.9 / Other Language Changes — __main__, devmode, operator, os, typing. [Other Language Changes / What's New In Python 3.9 / Other Language Changes — __main__, devmode, operator, os, typing](other-language-changes.md).
+- Open when checking What's New In Python 3.9 / zoneinfo — datetime, zoneinfo. [New Modules / What's New In Python 3.9 / zoneinfo — datetime, zoneinfo](zoneinfo.md).
+- Open when checking What's New In Python 3.9 / graphlib — graphlib. [New Modules / What's New In Python 3.9 / graphlib — graphlib](graphlib.md).
+- Open when checking What's New In Python 3.9 / ast — ast. [Improved Modules / What's New In Python 3.9 / ast — ast](ast.md).
+- Open when checking What's New In Python 3.9 / asyncio — asyncio, asyncio-eventloop, asyncio-runner, asyncio-task, concurrent.futures, ssl. [Improved Modules / What's New In Python 3.9 / asyncio — asyncio, asyncio-eventloop, asyncio-runner, asyncio-task, concurrent.futures, ssl](asyncio.md).
+- Open when checking What's New In Python 3.9 / compileall. [Improved Modules / What's New In Python 3.9 / compileall](compileall.md).
+- Open when checking What's New In Python 3.9 / concurrent.futures — concurrent.futures. [Improved Modules / What's New In Python 3.9 / concurrent.futures — concurrent.futures](concurrent-futures.md).
+- Open when checking What's New In Python 3.9 / curses — curses. [Improved Modules / What's New In Python 3.9 / curses — curses](curses.md).
+- Open when checking What's New In Python 3.9 / datetime — collections, datetime. [Improved Modules / What's New In Python 3.9 / datetime — collections, datetime](datetime.md).
+- Open when checking What's New In Python 3.9 / distutils. [Improved Modules / What's New In Python 3.9 / distutils](distutils.md).
+- Open when checking What's New In Python 3.9 / fcntl. [Improved Modules / What's New In Python 3.9 / fcntl](fcntl.md).
+- Open when checking What's New In Python 3.9 / ftplib — ftplib. [Improved Modules / What's New In Python 3.9 / ftplib — ftplib](ftplib.md).
+- Open when checking What's New In Python 3.9 / gc — gc. [Improved Modules / What's New In Python 3.9 / gc — gc](gc.md).
+- Open when checking What's New In Python 3.9 / hashlib — hashlib. [Improved Modules / What's New In Python 3.9 / hashlib — hashlib](hashlib.md).
+- Open when checking What's New In Python 3.9 / http — http. [Improved Modules / What's New In Python 3.9 / http — http](http.md).
+- Open when checking What's New In Python 3.9 / IDLE and idlelib — sys. [Improved Modules / What's New In Python 3.9 / IDLE and idlelib — sys](idle-and-idlelib.md).
+- Open when checking What's New In Python 3.9 / imaplib — imaplib. [Improved Modules / What's New In Python 3.9 / imaplib — imaplib](imaplib.md).
+- Open when checking What's New In Python 3.9 / importlib — importlib, importlib.resources. [Improved Modules / What's New In Python 3.9 / importlib — importlib, importlib.resources](importlib.md).
+- Open when checking What's New In Python 3.9 / inspect — inspect. [Improved Modules / What's New In Python 3.9 / inspect — inspect](inspect.md).
+- Open when checking What's New In Python 3.9 / ipaddress — ipaddress. [Improved Modules / What's New In Python 3.9 / ipaddress — ipaddress](ipaddress.md).
+- Open when checking What's New In Python 3.9 / math — math. [Improved Modules / What's New In Python 3.9 / math — math](math.md).
+- Open when checking What's New In Python 3.9 / multiprocessing — multiprocessing. [Improved Modules / What's New In Python 3.9 / multiprocessing — multiprocessing](multiprocessing.md).
+- Open when checking What's New In Python 3.9 / nntplib. [Improved Modules / What's New In Python 3.9 / nntplib](nntplib.md).
+- Open when checking What's New In Python 3.9 / os — os. [Improved Modules / What's New In Python 3.9 / os — os](os.md).
+- Open when checking What's New In Python 3.9 / pathlib — os, pathlib. [Improved Modules / What's New In Python 3.9 / pathlib — os, pathlib](pathlib.md).
+- Open when checking What's New In Python 3.9 / pdb — pdb. [Improved Modules / What's New In Python 3.9 / pdb — pdb](pdb.md).
+- Open when checking What's New In Python 3.9 / poplib — poplib. [Improved Modules / What's New In Python 3.9 / poplib — poplib](poplib.md).
+- Open when checking What's New In Python 3.9 / pprint — pprint, types. [Improved Modules / What's New In Python 3.9 / pprint — pprint, types](pprint.md).
+- Open when checking What's New In Python 3.9 / pydoc. [Improved Modules / What's New In Python 3.9 / pydoc](pydoc.md).
+- Open when checking What's New In Python 3.9 / random — random. [Improved Modules / What's New In Python 3.9 / random — random](random.md).
+- Open when checking What's New In Python 3.9 / signal — signal. [Improved Modules / What's New In Python 3.9 / signal — signal](signal.md).
+- Open when checking What's New In Python 3.9 / smtplib — smtplib. [Improved Modules / What's New In Python 3.9 / smtplib — smtplib](smtplib.md).
+- Open when checking What's New In Python 3.9 / socket — socket. [Improved Modules / What's New In Python 3.9 / socket — socket](socket.md).
+- Open when checking What's New In Python 3.9 / time — time. [Improved Modules / What's New In Python 3.9 / time — time](time.md).
+- Open when checking What's New In Python 3.9 / sys — sys. [Improved Modules / What's New In Python 3.9 / sys — sys](sys.md).
+- Open when checking What's New In Python 3.9 / tracemalloc — tracemalloc. [Improved Modules / What's New In Python 3.9 / tracemalloc — tracemalloc](tracemalloc.md).
+- Open when checking What's New In Python 3.9 / unicodedata. [Improved Modules / What's New In Python 3.9 / unicodedata](unicodedata.md).
+- Open when checking What's New In Python 3.9 / venv — venv. [Improved Modules / What's New In Python 3.9 / venv — venv](venv.md).
+- Open when checking What's New In Python 3.9 / xml — xml.etree.elementtree. [Improved Modules / What's New In Python 3.9 / xml — xml.etree.elementtree](xml.md).
+- Open when checking What's New In Python 3.9 / Optimizations — subprocess. [Optimizations / What's New In Python 3.9 / Optimizations — subprocess](optimizations.md).
+- Open when checking What's New In Python 3.9 / Deprecated — ast, math. [Deprecated / What's New In Python 3.9 / Deprecated — ast, math](deprecated.md).
+- Open when checking What's New In Python 3.9 / Changes in the Python API — __future__, asyncio-eventloop, bz2, codecs, errno, ftplib, importlib, ipaddress, logging, pathlib, select, socket, venv. [Porting to Python 3.9 / What's New In Python 3.9 / Changes in the Python API — __future__, asyncio-eventloop, bz2, codecs, errno, ftplib, importlib, ipaddress, logging, pathlib, select, socket, venv](changes-in-the-python-api.md).
+- Open when checking What's New In Python 3.9 / Porting to Python 3.9 / Changes in the C API. [Porting to Python 3.9 / What's New In Python 3.9 / Porting to Python 3.9 / Changes in the C API](porting-to-python-3-9-changes-in-the-c-api.md).
+- Open when checking What's New In Python 3.9 / Porting to Python 3.9 / Changes in the C API / CPython bytecode changes — dis. [Porting to Python 3.9 / What's New In Python 3.9 / Porting to Python 3.9 / Changes in the C API / CPython bytecode changes — dis](bytecode-migration-changes.md).
+- Open when checking What's New In Python 3.9 / Build Changes — sys. [Build Changes / What's New In Python 3.9 / Build Changes — sys](build-changes.md).
+- Open when checking What's New In Python 3.9 / C API Changes / New Features. [C API Changes / What's New In Python 3.9 / C API Changes / New Features](c-api-changes-new-features.md).
+- Open when checking What's New In Python 3.9 / C API Changes / Porting to Python 3.9 — sys. [C API Changes / What's New In Python 3.9 / C API Changes / Porting to Python 3.9 — sys](c-api-changes-porting-to-python-3-9.md).
+- Open when checking What's New In Python 3.9 / Porting to Python 3.9. [C API Changes / What's New In Python 3.9 / Porting to Python 3.9](porting-to-python-3-9.md).
+- Open when checking What's New In Python 3.9 / Removed — array, base64, bz2, json, math, plistlib, sys, threading, typing, wave, xml.etree.elementtree. [C API Changes / What's New In Python 3.9 / Removed — array, base64, bz2, json, math, plistlib, sys, threading, typing, wave, xml.etree.elementtree](removed.md).
+- Open when checking What's New In Python 3.9 / C API Changes / Removed. [C API Changes / What's New In Python 3.9 / C API Changes / Removed](c-api-changes-removed.md).
+- Open when checking What's New In Python 3.9 / typing — typing. [Notable changes in Python 3.9.1 / What's New In Python 3.9 / typing — typing](typing.md).
+- Open when checking What's New In Python 3.9 / macOS 11.0 (Big Sur) and Apple Silicon Mac support. [Notable changes in Python 3.9.1 / What's New In Python 3.9 / macOS 11.0 (Big Sur) and Apple Silicon Mac support](macos-11-0-and-apple-silicon-mac-support.md).
+- Open when checking What's New In Python 3.9 / collections.abc — collections.abc, types, typing. [Notable changes in Python 3.9.2 / What's New In Python 3.9 / collections.abc — collections.abc, types, typing](collections-abc.md).
+- Open when checking What's New In Python 3.9 / Notable changes in Python 3.9.3 — ftplib. [Notable changes in Python 3.9.3 / What's New In Python 3.9 / Notable changes in Python 3.9.3 — ftplib](notable-changes-in-python-3-9-3.md).
+- Open when checking What's New In Python 3.9 / urllib.parse — urllib.parse. [Notable changes in Python 3.9.5 / What's New In Python 3.9 / urllib.parse — urllib.parse](urllib-parse.md).
+- Open when checking What's New In Python 3.9 / Notable security feature in 3.9.14 — sys. [Notable security feature in 3.9.14 / What's New In Python 3.9 / Notable security feature in 3.9.14 — sys](notable-security-feature-in-3-9-14.md).
+- Open when checking What's New In Python 3.9 / tarfile — shutil, tarfile. [Notable changes in 3.9.17 / What's New In Python 3.9 / tarfile — shutil, tarfile](tarfile.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

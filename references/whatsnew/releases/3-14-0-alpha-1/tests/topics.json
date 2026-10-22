@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 1 / tests / bypass test gdb whenever bolt relocated binary", "file": "releases/3-14-0-alpha-1/tests/bypass-test-gdb-whenever-bolt-relocated-binary.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / bypass test gdb whenever bolt relocated binary.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / collections and iteration", "file": "releases/3-14-0-alpha-1/tests/collections-and-iteration.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / compiler and parser", "file": "releases/3-14-0-alpha-1/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / files and paths", "file": "releases/3-14-0-alpha-1/tests/files-and-paths.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / functions and types", "file": "releases/3-14-0-alpha-1/tests/functions-and-types.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / importlib metadata", "file": "releases/3-14-0-alpha-1/tests/importlib-metadata.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / importlib metadata.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / made test ttk pass under tcl tk", "file": "releases/3-14-0-alpha-1/tests/made-test-ttk-pass-under-tcl-tk.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / made test ttk pass under tcl tk.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / os", "file": "releases/3-14-0-alpha-1/tests/os.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / os.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / pkgutil", "file": "releases/3-14-0-alpha-1/tests/pkgutil.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / pkgutil.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / random", "file": "releases/3-14-0-alpha-1/tests/random.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / random.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / readline", "file": "releases/3-14-0-alpha-1/tests/readline.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / readline.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / tests and documentation", "file": "releases/3-14-0-alpha-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / text and unicode", "file": "releases/3-14-0-alpha-1/tests/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / tests / zlib", "file": "releases/3-14-0-alpha-1/tests/zlib.md", "summary": "Open when checking Python 3.14.0 alpha 1 / tests / zlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

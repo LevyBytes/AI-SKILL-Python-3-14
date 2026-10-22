@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / atexit", "file": "releases/3-7-0-alpha-4/core-and-builtins/atexit.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / atexit.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / build and platforms", "file": "releases/3-7-0-alpha-4/core-and-builtins/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / collections and iteration", "file": "releases/3-7-0-alpha-4/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / compiler and parser", "file": "releases/3-7-0-alpha-4/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / constants", "file": "releases/3-7-0-alpha-4/core-and-builtins/constants.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / constants.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / exceptions and tracebacks", "file": "releases/3-7-0-alpha-4/core-and-builtins/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / functions and types", "file": "releases/3-7-0-alpha-4/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / imports and modules", "file": "releases/3-7-0-alpha-4/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / pep bring support mro entries class getitem", "file": "releases/3-7-0-alpha-4/core-and-builtins/pep-bring-support-mro-entries-class-getitem.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / pep bring support mro entries class getitem.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / platform", "file": "releases/3-7-0-alpha-4/core-and-builtins/platform.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / platform.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / text and unicode", "file": "releases/3-7-0-alpha-4/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / traceback", "file": "releases/3-7-0-alpha-4/core-and-builtins/traceback.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / traceback.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / uuid", "file": "releases/3-7-0-alpha-4/core-and-builtins/uuid.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / uuid.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / warnings", "file": "releases/3-7-0-alpha-4/core-and-builtins/warnings.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / warnings.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / core and builtins / x dev pushes default entry onto sys warnoptions acts exactly", "file": "releases/3-7-0-alpha-4/core-and-builtins/x-dev-pushes-default-entry-onto-sys-warnoptions-acts-exactly.md", "summary": "Open when checking Python 3.7.0 alpha 4 / core and builtins / x dev pushes default entry onto sys warnoptions acts exactly.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

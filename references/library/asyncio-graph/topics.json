@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Low level utility functions", "file": "future-await-dependency-registration.md", "summary": "Open when checking Low level utility functions.", "keywords": []},
+  {"topic": "asyncio.graph: `asyncio.print_call_graph()`, `asyncio.format_call_graph()`, `asyncio.capture_call_graph()`, `FutureCallGraph()`", "file": "asyncio-graph/asyncio-print-call-graph-to-futurecallgraph.md", "summary": "Open when checking the documented contracts for `asyncio.print_call_graph()`, `asyncio.format_call_graph()`, `asyncio.capture_call_graph()`, `FutureCallGraph()` in asyncio.graph.", "keywords": []},
+  {"topic": "asyncio.graph: `FrameCallGraphEntry()`", "file": "asyncio-graph/framecallgraphentry.md", "summary": "Open when checking the documented contracts for `FrameCallGraphEntry()` in asyncio.graph.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

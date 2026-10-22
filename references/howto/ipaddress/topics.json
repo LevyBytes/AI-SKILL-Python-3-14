@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Overview and scope / An introduction to the ipaddress module", "file": "ipaddress/an-introduction-to-the-ipaddress-module.md", "summary": "Open when checking An introduction to the ipaddress module.", "keywords": []},
+  {"topic": "Creating Address/Network/Interface objects", "file": "ipaddress/creating-address-network-interface-objects.md", "summary": "Open when checking Creating Address/Network/Interface objects.", "keywords": []},
+  {"topic": "Creating Address/Network/Interface objects / A Note on IP Versions", "file": "ipaddress/a-note-on-ip-versions.md", "summary": "Open when checking A Note on IP Versions.", "keywords": []},
+  {"topic": "Creating Address/Network/Interface objects / IP Host Addresses", "file": "ipaddress/ip-host-addresses.md", "summary": "Open when checking IP Host Addresses.", "keywords": []},
+  {"topic": "Creating Address/Network/Interface objects / Defining Networks", "file": "ipaddress/defining-networks.md", "summary": "Open when checking Defining Networks.", "keywords": []},
+  {"topic": "Creating Address/Network/Interface objects / Host Interfaces", "file": "ipaddress/host-interfaces.md", "summary": "Open when checking Host Interfaces.", "keywords": []},
+  {"topic": "Inspecting Address/Network/Interface Objects", "file": "ipaddress/inspecting-address-network-interface-objects.md", "summary": "Open when checking Inspecting Address/Network/Interface Objects.", "keywords": []},
+  {"topic": "Networks as lists of Addresses", "file": "ipaddress/networks-as-lists-of-addresses.md", "summary": "Open when checking Networks as lists of Addresses.", "keywords": []},
+  {"topic": "Comparisons", "file": "ipaddress/comparisons.md", "summary": "Open when checking Comparisons.", "keywords": []},
+  {"topic": "Using IP Addresses with other modules", "file": "ipaddress/using-ip-addresses-with-other-modules.md", "summary": "Open when checking Using IP Addresses with other modules.", "keywords": []},
+  {"topic": "Getting more detail when instance creation fails", "file": "ipaddress/getting-more-detail-when-instance-creation-fails.md", "summary": "Open when checking Getting more detail when instance creation fails.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

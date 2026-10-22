@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 2 / security / asyncio eventloop", "file": "releases/3-9-0-alpha-2/security/asyncio-eventloop.md", "summary": "Open when checking Python 3.9.0 alpha 2 / security / asyncio eventloop.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / security / http cookiejar", "file": "releases/3-9-0-alpha-2/security/http-cookiejar.md", "summary": "Open when checking Python 3.9.0 alpha 2 / security / http cookiejar.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / security / uu", "file": "releases/3-9-0-alpha-2/security/uu.md", "summary": "Open when checking Python 3.9.0 alpha 2 / security / uu.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

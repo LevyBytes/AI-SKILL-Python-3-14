@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "abc: `abc.ABC`", "file": "abc/abc-abc-class.md", "summary": "Open when checking the documented contracts for `abc.ABC` in abc.", "keywords": []},
+  {"topic": "abc / Abstract Base Classes: `abc.ABCMeta`, `register()`, `__subclasshook__()`", "file": "abc/abc-abcmeta-class-to-abc-abcmeta-subclasshook.md", "summary": "Open when checking the documented contracts for `abc.ABCMeta`, `register()`, `__subclasshook__()` in abc / Abstract Base Classes.", "keywords": []},
+  {"topic": "abc: `abc.abstractmethod`, `abc.abstractclassmethod`", "file": "abc/abc-abstract-base-classes.md", "summary": "Open when checking the documented contracts for `abc.abstractmethod`, `abc.abstractclassmethod` in abc.", "keywords": []},
+  {"topic": "abc: `abc.abstractstaticmethod`, `abc.abstractproperty`, `abc.get_cache_token()`", "file": "abc/abc-get-cache-token.md", "summary": "Open when checking the documented contracts for `abc.abstractstaticmethod`, `abc.abstractproperty`, `abc.get_cache_token()` in abc.", "keywords": []},
+  {"topic": "abc: `abc.update_abstractmethods()`", "file": "abc/abc-update-abstractmethods.md", "summary": "Open when checking the documented contracts for `abc.update_abstractmethods()` in abc.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

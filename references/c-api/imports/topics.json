@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "imports C API: Importing modules and registering module objects", "file": "imports/pyimport-importmodule-to-pyimport-addmoduleref.md", "summary": "Open when checking importing modules and registering module objects in imports C API.", "keywords": []},
+  {"topic": "imports C API: Module registration, code execution and import metadata", "file": "imports/pyimport-addmoduleobject-to-pyimport-getmoduledict.md", "summary": "Open when checking module registration, code execution and import metadata in imports C API.", "keywords": []},
+  {"topic": "imports C API: `PyImport_GetModule()`, `PyImport_GetImporter()`, `PyImport_ImportFrozenModuleObject()`, `PyImport_ImportFrozenModule()`", "file": "imports/pyimport-getmodule-to-pyimport-importfrozenmodule.md", "summary": "Open when checking the documented contracts for `PyImport_GetModule()`, `PyImport_GetImporter()`, `PyImport_ImportFrozenModuleObject()`, `PyImport_ImportFrozenModule()` in imports C API.", "keywords": []},
+  {"topic": "imports C API: `PyImport_AppendInittab()`", "file": "imports/pyimport-frozenmodules-to-pyimport-appendinittab.md", "summary": "Open when checking the documented contracts for `PyImport_AppendInittab()` in imports C API.", "keywords": []},
+  {"topic": "imports C API: Builtin-module initialization table and attribute imports", "file": "imports/name-to-pyimport-importmoduleattrstring.md", "summary": "Open when checking builtin-module initialization table and attribute imports in imports C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

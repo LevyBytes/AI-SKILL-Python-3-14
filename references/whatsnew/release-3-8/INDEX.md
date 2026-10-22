@@ -1,0 +1,84 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Upstream feature guide navigation for Python 3.8. [Overview and scope / Upstream feature guide navigation for Python 3.8](release-overview.md).
+- Open when checking What’s New In Python 3.8 / Assignment expressions. [New Features / What’s New In Python 3.8 / Assignment expressions](assignment-expressions.md).
+- Open when checking What’s New In Python 3.8 / Positional-only parameters — collections, statistics. [New Features / What’s New In Python 3.8 / Positional-only parameters — collections, statistics](positional-only-parameters.md).
+- Open when checking What’s New In Python 3.8 / Parallel filesystem cache for compiled bytecode files — sys. [New Features / What’s New In Python 3.8 / Parallel filesystem cache for compiled bytecode files — sys](parallel-filesystem-cache-for-compiled-bytecode-files.md).
+- Open when checking What’s New In Python 3.8 / Debug build uses the same ABI as release build — sys. [New Features / What’s New In Python 3.8 / Debug build uses the same ABI as release build — sys](debug-build-uses-the-same-abi-as-release-build.md).
+- Open when checking What’s New In Python 3.8 / f-strings support `=` for self-documenting expressions and debugging. [New Features / What’s New In Python 3.8 / f-strings support `=` for self-documenting expressions and debugging](fstring-debug-expressions.md).
+- Open when checking What’s New In Python 3.8 / PEP 578: Python Runtime Audit Hooks. [New Features / What’s New In Python 3.8 / PEP 578: Python Runtime Audit Hooks](pep-578-python-runtime-audit-hooks.md).
+- Open when checking What’s New In Python 3.8 / PEP 587: Python Initialization Configuration. [New Features / What’s New In Python 3.8 / PEP 587: Python Initialization Configuration](pep-587-python-initialization-configuration.md).
+- Open when checking What’s New In Python 3.8 / PEP 590: Vectorcall: a fast calling protocol for CPython. [New Features / What’s New In Python 3.8 / PEP 590: Vectorcall: a fast calling protocol for CPython](pep-590-vectorcall-a-fast-calling-protocol-for-cpython.md).
+- Open when checking What’s New In Python 3.8 / Pickle protocol 5 with out-of-band data buffers — pickle. [New Features / What’s New In Python 3.8 / Pickle protocol 5 with out-of-band data buffers — pickle](pickle-protocol-5-with-out-of-band-data-buffers.md).
+- Open when checking What’s New In Python 3.8 / Other Language Changes. [Other Language Changes / What’s New In Python 3.8 / Other Language Changes](modular-inverses-and-language-changes.md).
+- Open when checking What’s New In Python 3.8 / Other Language Changes — pickle. [Other Language Changes / What’s New In Python 3.8 / Other Language Changes — pickle](object-reduction-and-pickle-protocol.md).
+- Open when checking What’s New In Python 3.8 / Other Language Changes — datetime, decimal, fractions, re, statistics, types. [Other Language Changes / What’s New In Python 3.8 / Other Language Changes — datetime, decimal, fractions, re, statistics, types](other-language-changes.md).
+- Open when checking What’s New In Python 3.8 / New Modules — importlib.metadata. [New Modules / What’s New In Python 3.8 / New Modules — importlib.metadata](new-modules.md).
+- Open when checking What’s New In Python 3.8 / ast — ast. [New Modules / What’s New In Python 3.8 / ast — ast](ast.md).
+- Open when checking What’s New In Python 3.8 / asyncio — asyncio-eventloop, asyncio-exceptions, asyncio-runner, asyncio-task, concurrent.futures. [Improved Modules / What’s New In Python 3.8 / asyncio — asyncio-eventloop, asyncio-exceptions, asyncio-runner, asyncio-task, concurrent.futures](asyncio.md).
+- Open when checking What’s New In Python 3.8 / builtins. [Improved Modules / What’s New In Python 3.8 / builtins](builtins.md).
+- Open when checking What’s New In Python 3.8 / collections — collections. [Improved Modules / What’s New In Python 3.8 / collections — collections](collections.md).
+- Open when checking What’s New In Python 3.8 / cProfile — profile. [Improved Modules / What’s New In Python 3.8 / cProfile — profile](cprofile.md).
+- Open when checking What’s New In Python 3.8 / csv — collections, csv. [Improved Modules / What’s New In Python 3.8 / csv — collections, csv](csv.md).
+- Open when checking What’s New In Python 3.8 / curses — curses. [Improved Modules / What’s New In Python 3.8 / curses — curses](curses.md).
+- Open when checking What’s New In Python 3.8 / ctypes — ctypes, os. [Improved Modules / What’s New In Python 3.8 / ctypes — ctypes, os](ctypes.md).
+- Open when checking What’s New In Python 3.8 / datetime — datetime. [Improved Modules / What’s New In Python 3.8 / datetime — datetime](datetime.md).
+- Open when checking What’s New In Python 3.8 / functools — functools. [Improved Modules / What’s New In Python 3.8 / functools — functools](functools.md).
+- Open when checking What’s New In Python 3.8 / gc — gc. [Improved Modules / What’s New In Python 3.8 / gc — gc](gc.md).
+- Open when checking What’s New In Python 3.8 / gettext — gettext. [Improved Modules / What’s New In Python 3.8 / gettext — gettext](gettext.md).
+- Open when checking What’s New In Python 3.8 / gzip — gzip. [Improved Modules / What’s New In Python 3.8 / gzip — gzip](gzip.md).
+- Open when checking What’s New In Python 3.8 / IDLE and idlelib. [Improved Modules / What’s New In Python 3.8 / IDLE and idlelib](idle-and-idlelib.md).
+- Open when checking What’s New In Python 3.8 / inspect — inspect. [Improved Modules / What’s New In Python 3.8 / inspect — inspect](inspect.md).
+- Open when checking What’s New In Python 3.8 / io — io. [Improved Modules / What’s New In Python 3.8 / io — io](io.md).
+- Open when checking What’s New In Python 3.8 / itertools — itertools. [Improved Modules / What’s New In Python 3.8 / itertools — itertools](itertools.md).
+- Open when checking What’s New In Python 3.8 / json.tool. [Improved Modules / What’s New In Python 3.8 / json.tool](json-tool.md).
+- Open when checking What’s New In Python 3.8 / logging — logging. [Improved Modules / What’s New In Python 3.8 / logging — logging](logging.md).
+- Open when checking What’s New In Python 3.8 / math — math. [Improved Modules / What’s New In Python 3.8 / math — math](math.md).
+- Open when checking What’s New In Python 3.8 / mmap — mmap. [Improved Modules / What’s New In Python 3.8 / mmap — mmap](mmap.md).
+- Open when checking What’s New In Python 3.8 / multiprocessing — multiprocessing.shared_memory. [Improved Modules / What’s New In Python 3.8 / multiprocessing — multiprocessing.shared_memory](multiprocessing.md).
+- Open when checking What’s New In Python 3.8 / os — ctypes, os. [Improved Modules / What’s New In Python 3.8 / os — ctypes, os](os.md).
+- Open when checking What’s New In Python 3.8 / os.path — os.path. [Improved Modules / What’s New In Python 3.8 / os.path — os.path](os-path.md).
+- Open when checking What’s New In Python 3.8 / pathlib — pathlib. [Improved Modules / What’s New In Python 3.8 / pathlib — pathlib](pathlib.md).
+- Open when checking What’s New In Python 3.8 / pickle — pickle. [Improved Modules / What’s New In Python 3.8 / pickle — pickle](pickle.md).
+- Open when checking What’s New In Python 3.8 / plistlib — plistlib. [Improved Modules / What’s New In Python 3.8 / plistlib — plistlib](plistlib.md).
+- Open when checking What’s New In Python 3.8 / pprint — pprint. [Improved Modules / What’s New In Python 3.8 / pprint — pprint](pprint.md).
+- Open when checking What’s New In Python 3.8 / py_compile — py_compile. [Improved Modules / What’s New In Python 3.8 / py_compile — py_compile](py-compile.md).
+- Open when checking What’s New In Python 3.8 / shlex — shlex. [Improved Modules / What’s New In Python 3.8 / shlex — shlex](shlex.md).
+- Open when checking What’s New In Python 3.8 / shutil — shutil, tarfile. [Improved Modules / What’s New In Python 3.8 / shutil — shutil, tarfile](shutil.md).
+- Open when checking What’s New In Python 3.8 / socket — socket. [Improved Modules / What’s New In Python 3.8 / socket — socket](socket.md).
+- Open when checking What’s New In Python 3.8 / ssl — ssl. [Improved Modules / What’s New In Python 3.8 / ssl — ssl](ssl.md).
+- Open when checking What’s New In Python 3.8 / statistics — statistics. [Improved Modules / What’s New In Python 3.8 / statistics — statistics](statistics.md).
+- Open when checking What’s New In Python 3.8 / sys — gc, sys. [Improved Modules / What’s New In Python 3.8 / sys — gc, sys](sys.md).
+- Open when checking What’s New In Python 3.8 / threading — threading. [Improved Modules / What’s New In Python 3.8 / threading — threading](threading.md).
+- Open when checking What’s New In Python 3.8 / tokenize — tokenize. [Improved Modules / What’s New In Python 3.8 / tokenize — tokenize](tokenize.md).
+- Open when checking What’s New In Python 3.8 / tkinter. [Improved Modules / What’s New In Python 3.8 / tkinter](tkinter.md).
+- Open when checking What’s New In Python 3.8 / time — time. [Improved Modules / What’s New In Python 3.8 / time — time](time.md).
+- Open when checking What’s New In Python 3.8 / typing — typing. [Improved Modules / What’s New In Python 3.8 / typing — typing](typing.md).
+- Open when checking What’s New In Python 3.8 / unicodedata — unicodedata. [Improved Modules / What’s New In Python 3.8 / unicodedata — unicodedata](unicodedata.md).
+- Open when checking What’s New In Python 3.8 / unittest — unittest, unittest.mock. [Improved Modules / What’s New In Python 3.8 / unittest — unittest, unittest.mock](unittest.md).
+- Open when checking What’s New In Python 3.8 / venv — venv. [Improved Modules / What’s New In Python 3.8 / venv — venv](venv.md).
+- Open when checking What’s New In Python 3.8 / weakref — weakref. [Improved Modules / What’s New In Python 3.8 / weakref — weakref](weakref.md).
+- Open when checking What’s New In Python 3.8 / xml — xml.dom.minidom, xml.etree.elementtree, xml.sax. [Improved Modules / What’s New In Python 3.8 / xml — xml.dom.minidom, xml.etree.elementtree, xml.sax](xml.md).
+- Open when checking What’s New In Python 3.8 / xmlrpc — xmlrpc.client. [Improved Modules / What’s New In Python 3.8 / xmlrpc — xmlrpc.client](xmlrpc.md).
+- Open when checking What’s New In Python 3.8 / Optimizations — os, subprocess. [Optimizations / What’s New In Python 3.8 / Optimizations — os, subprocess](optimizations.md).
+- Open when checking What’s New In Python 3.8 / Build and C API Changes — decimal, fractions, sys. [Build and C API Changes / What’s New In Python 3.8 / Build and C API Changes — decimal, fractions, sys](build-and-c-api-changes.md).
+- Open when checking What’s New In Python 3.8 / Deprecated. [Deprecated / What’s New In Python 3.8 / Deprecated](deprecated.md).
+- Open when checking What’s New In Python 3.8 / API and Feature Removals — collections, collections.abc, os, tarfile, time, xml.etree.elementtree. [API and Feature Removals / What’s New In Python 3.8 / API and Feature Removals — collections, collections.abc, os, tarfile, time, xml.etree.elementtree](api-and-feature-removals.md).
+- Open when checking What’s New In Python 3.8 / Porting to Python 3.8. [Porting to Python 3.8 / What’s New In Python 3.8 / Porting to Python 3.8](porting-to-python-3-8.md).
+- Open when checking What’s New In Python 3.8 / Changes in Python behavior — sys. [Porting to Python 3.8 / What’s New In Python 3.8 / Changes in Python behavior — sys](changes-in-python-behavior.md).
+- Open when checking What’s New In Python 3.8 / Porting to Python 3.8 / Changes in the C API. [Porting to Python 3.8 / What’s New In Python 3.8 / Porting to Python 3.8 / Changes in the C API](porting-to-python-3-8-changes-in-the-c-api.md).
+- Open when checking What’s New In Python 3.8 / Porting to Python 3.8 / Changes in the C API / CPython bytecode changes. [Porting to Python 3.8 / What’s New In Python 3.8 / Porting to Python 3.8 / Changes in the C API / CPython bytecode changes](bytecode-migration-changes.md).
+- Open when checking What’s New In Python 3.8 / Porting to Python 3.8 / Changes in the C API / Demos and Tools. [Porting to Python 3.8 / What’s New In Python 3.8 / Porting to Python 3.8 / Changes in the C API / Demos and Tools](porting-to-python-3-8-changes-in-the-c-api-demos-and-tools.md).
+- Open when checking What’s New In Python 3.8 / Notable changes in Python 3.8.1 — asyncio-eventloop. [Notable changes in Python 3.8.1 / What’s New In Python 3.8 / Notable changes in Python 3.8.1 — asyncio-eventloop](notable-changes-in-python-3-8-1.md).
+- Open when checking What’s New In Python 3.8 / Notable changes in Python 3.8.2 — shutil. [Notable changes in Python 3.8.2 / What’s New In Python 3.8 / Notable changes in Python 3.8.2 — shutil](notable-changes-in-python-3-8-2.md).
+- Open when checking What’s New In Python 3.8 / Notable changes in Python 3.8.3 — __future__. [Notable changes in Python 3.8.3 / What’s New In Python 3.8 / Notable changes in Python 3.8.3 — __future__](notable-changes-in-python-3-8-3.md).
+- Open when checking What’s New In Python 3.8 / Notable changes in Python 3.8.8 — urllib.parse. [Notable changes in Python 3.8.8 / What’s New In Python 3.8 / Notable changes in Python 3.8.8 — urllib.parse](notable-changes-in-python-3-8-8.md).
+- Open when checking What’s New In Python 3.8 / Notable changes in Python 3.8.9 — ftplib. [Notable changes in Python 3.8.9 / What’s New In Python 3.8 / Notable changes in Python 3.8.9 — ftplib](notable-changes-in-python-3-8-9.md).
+- Open when checking What’s New In Python 3.8 / macOS 11.0 (Big Sur) and Apple Silicon Mac support. [Notable changes in Python 3.8.10 / What’s New In Python 3.8 / macOS 11.0 (Big Sur) and Apple Silicon Mac support](macos-11-0-and-apple-silicon-mac-support.md).
+- Open when checking What’s New In Python 3.8 / urllib.parse — urllib.parse. [Notable changes in Python 3.8.10 / What’s New In Python 3.8 / urllib.parse — urllib.parse](urllib-parse.md).
+- Open when checking What’s New In Python 3.8 / Changes in the Python API. [Notable changes in Python 3.8.12 / What’s New In Python 3.8 / Changes in the Python API](changes-in-the-python-api.md).
+- Open when checking What’s New In Python 3.8 / Notable security feature in 3.8.14 — sys. [Notable security feature in 3.8.14 / What’s New In Python 3.8 / Notable security feature in 3.8.14 — sys](notable-security-feature-in-3-8-14.md).
+- Open when checking What’s New In Python 3.8 / tarfile — tarfile. [Notable changes in 3.8.17 / What’s New In Python 3.8 / tarfile — tarfile](tarfile.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

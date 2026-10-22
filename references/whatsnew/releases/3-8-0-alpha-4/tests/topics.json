@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / tests / abc", "file": "releases/3-8-0-alpha-4/tests/abc.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / abc.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / collections and iteration", "file": "releases/3-8-0-alpha-4/tests/collections-and-iteration.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / errno", "file": "releases/3-8-0-alpha-4/tests/errno.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / errno.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / exceptions and tracebacks", "file": "releases/3-8-0-alpha-4/tests/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / functions and types", "file": "releases/3-8-0-alpha-4/tests/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / imports and modules", "file": "releases/3-8-0-alpha-4/tests/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / memory and lifetimes", "file": "releases/3-8-0-alpha-4/tests/memory-and-lifetimes.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / multiprocessing", "file": "releases/3-8-0-alpha-4/tests/multiprocessing.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / test time test monotonic altered assert only lower bound elapsed time following", "file": "monotonic-clock-test-lower-bound.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / test time test monotonic altered assert only lower bound elapsed time following.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / tests and documentation", "file": "releases/3-8-0-alpha-4/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / text and unicode", "file": "releases/3-8-0-alpha-4/tests/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / text and unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / tests / tracemalloc", "file": "releases/3-8-0-alpha-4/tests/tracemalloc.md", "summary": "Open when checking Python 3.8.0 alpha 4 / tests / tracemalloc.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "5.2. Alternative Distributions", "file": "macos/alternative-distributions.md", "summary": "Open when checking 5.2. Alternative Distributions.", "keywords": []},
+    {"topic": "5.5.4. App Store Compliance", "file": "macos/app-store-compliance.md", "summary": "Open when checking 5.5.4. App Store Compliance.", "keywords": []},
+    {"topic": "5.5.3. Distributing Python Applications", "file": "macos/distributing-python-applications.md", "summary": "Open when checking 5.5.3. Distributing Python Applications.", "keywords": []},
+    {"topic": "5.4. GUI Programming", "file": "macos/gui-programming.md", "summary": "Open when checking 5.4. GUI Programming.", "keywords": []},
+    {"topic": "5.1.2. How to run a Python script", "file": "macos/how-to-run-a-python-script.md", "summary": "Open when checking 5.1.2. How to run a Python script.", "keywords": []},
+    {"topic": "5.1.1. Installation steps", "file": "macos/installation-steps.md", "summary": "Open when checking 5.1.1. Installation steps.", "keywords": []},
+    {"topic": "5.3. Installing Additional Python Packages", "file": "macos/installing-additional-python-packages.md", "summary": "Open when checking 5.3. Installing Additional Python Packages.", "keywords": []},
+    {"topic": "5.5.1. Installing Free-threaded Binaries", "file": "macos/installing-free-threaded-binaries.md", "summary": "Open when checking 5.5.1. Installing Free-threaded Binaries.", "keywords": []},
+    {"topic": "5.5.2. Installing using the command line", "file": "macos/installing-using-the-command-line.md", "summary": "Open when checking 5.5.2. Installing using the command line.", "keywords": []},
+    {"topic": "5.6. Other Resources", "file": "macos/other-resources.md", "summary": "Open when checking 5.6. Other Resources.", "keywords": []},
+    {"topic": "5. Using Python on macOS", "file": "macos/using-python-on-macos.md", "summary": "Open when checking 5. Using Python on macOS.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

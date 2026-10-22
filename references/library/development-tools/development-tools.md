@@ -1,0 +1,62 @@
+# development.tools: `patch.object`, `patch.dict`, `patch.multiple`
+
+- [`unittest` — Unit testing framework](https://docs.python.org/3.14/library/unittest.html)
+  - [Basic example](https://docs.python.org/3.14/library/unittest.html#basic-example)
+  - [Command-Line Interface](https://docs.python.org/3.14/library/unittest.html#command-line-interface)
+    - [Command-line options](https://docs.python.org/3.14/library/unittest.html#command-line-options)
+
+  - [Test Discovery](https://docs.python.org/3.14/library/unittest.html#test-discovery)
+  - [Organizing test code](https://docs.python.org/3.14/library/unittest.html#organizing-test-code)
+  - [Re-using old test code](https://docs.python.org/3.14/library/unittest.html#re-using-old-test-code)
+  - [Skipping tests and expected failures](https://docs.python.org/3.14/library/unittest.html#skipping-tests-and-expected-failures)
+  - [Distinguishing test iterations using subtests](https://docs.python.org/3.14/library/unittest.html#distinguishing-test-iterations-using-subtests)
+  - [Classes and functions](https://docs.python.org/3.14/library/unittest.html#classes-and-functions)
+    - [Test cases](https://docs.python.org/3.14/library/unittest.html#test-cases)
+    - [Grouping tests](https://docs.python.org/3.14/library/unittest.html#grouping-tests)
+    - [Loading and running tests](https://docs.python.org/3.14/library/unittest.html#loading-and-running-tests)
+      - [load_tests Protocol](https://docs.python.org/3.14/library/unittest.html#load-tests-protocol)
+
+  - [Class and Module Fixtures](https://docs.python.org/3.14/library/unittest.html#class-and-module-fixtures)
+    - [setUpClass and tearDownClass](https://docs.python.org/3.14/library/unittest.html#setupclass-and-teardownclass)
+    - [setUpModule and tearDownModule](https://docs.python.org/3.14/library/unittest.html#setupmodule-and-teardownmodule)
+
+  - [Signal Handling](https://docs.python.org/3.14/library/unittest.html#signal-handling)
+
+- [`unittest.mock` — mock object library](https://docs.python.org/3.14/library/unittest.mock.html)
+  - [Quick Guide](https://docs.python.org/3.14/library/unittest.mock.html#quick-guide)
+  - [The Mock Class](https://docs.python.org/3.14/library/unittest.mock.html#the-mock-class)
+    - [Calling](https://docs.python.org/3.14/library/unittest.mock.html#calling)
+    - [Deleting Attributes](https://docs.python.org/3.14/library/unittest.mock.html#deleting-attributes)
+    - [Mock names and the name attribute](https://docs.python.org/3.14/library/unittest.mock.html#mock-names-and-the-name-attribute)
+    - [Attaching Mocks as Attributes](https://docs.python.org/3.14/library/unittest.mock.html#attaching-mocks-as-attributes)
+
+  - [The patchers](https://docs.python.org/3.14/library/unittest.mock.html#the-patchers)
+    - [patch](https://docs.python.org/3.14/library/unittest.mock.html#patch)
+    - [patch.object](https://docs.python.org/3.14/library/unittest.mock.html#patch-object)
+    - [patch.dict](https://docs.python.org/3.14/library/unittest.mock.html#patch-dict)
+    - [patch.multiple](https://docs.python.org/3.14/library/unittest.mock.html#patch-multiple)
+    - [patch methods: start and stop](https://docs.python.org/3.14/library/unittest.mock.html#patch-methods-start-and-stop)
+    - [patch builtins](https://docs.python.org/3.14/library/unittest.mock.html#patch-builtins)
+    - [TEST_PREFIX](https://docs.python.org/3.14/library/unittest.mock.html#test-prefix)
+    - [Nesting Patch Decorators](https://docs.python.org/3.14/library/unittest.mock.html#nesting-patch-decorators)
+    - [Where to patch](https://docs.python.org/3.14/library/unittest.mock.html#where-to-patch)
+    - [Patching Descriptors and Proxy Objects](https://docs.python.org/3.14/library/unittest.mock.html#patching-descriptors-and-proxy-objects)
+
+  - [MagicMock and magic method support](https://docs.python.org/3.14/library/unittest.mock.html#magicmock-and-magic-method-support)
+    - [Mocking Magic Methods](https://docs.python.org/3.14/library/unittest.mock.html#mocking-magic-methods)
+    - [Magic Mock](https://docs.python.org/3.14/library/unittest.mock.html#magic-mock)
+
+  - [Helpers](https://docs.python.org/3.14/library/unittest.mock.html#helpers)
+    - [sentinel](https://docs.python.org/3.14/library/unittest.mock.html#sentinel)
+    - [DEFAULT](https://docs.python.org/3.14/library/unittest.mock.html#default)
+    - [call](https://docs.python.org/3.14/library/unittest.mock.html#call)
+    - [create_autospec](https://docs.python.org/3.14/library/unittest.mock.html#create-autospec)
+    - [ANY](https://docs.python.org/3.14/library/unittest.mock.html#any)
+    - [FILTER_DIR](https://docs.python.org/3.14/library/unittest.mock.html#filter-dir)
+    - [mock_open](https://docs.python.org/3.14/library/unittest.mock.html#mock-open)
+    - [Autospeccing](https://docs.python.org/3.14/library/unittest.mock.html#autospeccing)
+    - [Sealing mocks](https://docs.python.org/3.14/library/unittest.mock.html#sealing-mocks)
+
+  - [Order of precedence of `side_effect`, `return_value` and *wraps*](https://docs.python.org/3.14/library/unittest.mock.html#order-of-precedence-of-side-effect-return-value-and-wraps)
+
+[Subject index](INDEX.md) · [Previous](development-tools-section-introduction-and-initial-examples.md) · [Continue](mocking-and-patching-routes.md) · [Owning module, declaration or section: Development Tools](development-tools-section-introduction-and-initial-examples.md)

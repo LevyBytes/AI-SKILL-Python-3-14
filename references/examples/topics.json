@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": ".", "topics": [
+  {"topic": "Iterator recipes", "file": "references/examples/iterator-recipes/INDEX.md", "summary": "Open when checking iterator recipes.", "keywords": []},
+  {"topic": "Decimal recipes", "file": "references/examples/decimal-recipes/INDEX.md", "summary": "Open when checking decimal recipes.", "keywords": []},
+  {"topic": "Timezone rules", "file": "references/examples/timezone-rules/INDEX.md", "summary": "Open when checking timezone rules.", "keywords": []},
+  {"topic": "Ndiff command", "file": "references/examples/ndiff-command/INDEX.md", "summary": "Open when checking ndiff command.", "keywords": []},
+  {"topic": "Extended environment", "file": "references/examples/extended-environment/INDEX.md", "summary": "Open when checking extended environment.", "keywords": []},
+  {"topic": "Pool examples", "file": "references/examples/pool-examples/INDEX.md", "summary": "Open when checking pool examples.", "keywords": []},
+  {"topic": "Timerfd server", "file": "references/examples/timerfd-server/INDEX.md", "summary": "Open when checking timerfd server.", "keywords": []},
+  {"topic": "Queue logging", "file": "references/examples/queue-logging/INDEX.md", "summary": "Open when checking queue logging.", "keywords": []},
+  {"topic": "Multiprocess logging", "file": "references/examples/multiprocess-logging/INDEX.md", "summary": "Open when checking multiprocess logging.", "keywords": []},
+  {"topic": "Request context logging", "file": "references/examples/request-context-logging/INDEX.md", "summary": "Open when checking request context logging.", "keywords": []},
+  {"topic": "Qt logging", "file": "references/examples/qt-logging/INDEX.md", "summary": "Open when checking qt logging.", "keywords": []},
+  {"topic": "Type layout", "file": "references/examples/type-layout/INDEX.md", "summary": "Open when checking type layout.", "keywords": []},
+  {"topic": "Extension members", "file": "references/examples/extension-members/INDEX.md", "summary": "Open when checking extension members.", "keywords": []},
+  {"topic": "Extension properties", "file": "references/examples/extension-properties/INDEX.md", "summary": "Open when checking extension properties.", "keywords": []},
+  {"topic": "Extension gc", "file": "references/examples/extension-gc/INDEX.md", "summary": "Open when checking extension gc.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

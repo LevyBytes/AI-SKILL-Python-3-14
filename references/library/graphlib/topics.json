@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "graphlib — Exceptions", "file": "graphlib/graphlib-cycleerror.md", "summary": "Open when checking graphlib — Exceptions.", "keywords": []},
+  {"topic": "graphlib: `graphlib.TopologicalSorter`", "file": "graphlib/graphlib-topologicalsorter-class.md", "summary": "Open when checking the documented contracts for `graphlib.TopologicalSorter` in graphlib.", "keywords": []},
+  {"topic": "graphlib.TopologicalSorter: `add()`, `prepare()`, `is_active()`, `done()`, `get_ready()`", "file": "topological-sorter-graph-and-ready-nodes.md", "summary": "Open when checking the documented contracts for `add()`, `prepare()`, `is_active()`, `done()`, `get_ready()` in graphlib.TopologicalSorter.", "keywords": []},
+  {"topic": "graphlib.TopologicalSorter: `static_order()`", "file": "graphlib/graphlib-topologicalsorter-static-order.md", "summary": "Open when checking the documented contracts for `static_order()` in graphlib.TopologicalSorter.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

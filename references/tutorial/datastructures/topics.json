@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "5.8. Comparing Sequences and Other Types", "file": "datastructures/comparing-sequences-and-other-types.md", "summary": "Open when checking 5.8. Comparing Sequences and Other Types.", "keywords": []},
+    {"topic": "5. Data Structures", "file": "datastructures/data-structures.md", "summary": "Open when checking 5. Data Structures.", "keywords": []},
+    {"topic": "5.5. Dictionaries", "file": "datastructures/dictionaries.md", "summary": "Open when checking 5.5. Dictionaries.", "keywords": []},
+    {"topic": "Dictionary, enumerated, zipped and reversed iteration", "file": "datastructures/dictionary-enumerated-zipped-and-reversed-iteration.md", "summary": "Open when checking Dictionary, enumerated, zipped and reversed iteration.", "keywords": []},
+    {"topic": "List-comprehension construction and equivalent nested loops", "file": "datastructures/list-comprehension-construction-and-equivalent-nested-loops.md", "summary": "Open when checking List-comprehension construction and equivalent nested loops.", "keywords": []},
+    {"topic": "List-comprehension transformations, filtering, tuples and flattening", "file": "list-comprehension-filtering-and-flattening.md", "summary": "Open when checking List-comprehension transformations, filtering, tuples and flattening.", "keywords": []},
+    {"topic": "5.7. More on Conditions", "file": "datastructures/more-on-conditions.md", "summary": "Open when checking 5.7. More on Conditions.", "keywords": []},
+    {"topic": "5.1. More on Lists", "file": "datastructures/more-on-lists.md", "summary": "Open when checking 5.1. More on Lists.", "keywords": []},
+    {"topic": "5.1.4. Nested List Comprehensions", "file": "datastructures/nested-list-comprehensions.md", "summary": "Open when checking 5.1.4. Nested List Comprehensions.", "keywords": []},
+    {"topic": "5.4. Sets", "file": "datastructures/sets.md", "summary": "Open when checking 5.4. Sets.", "keywords": []},
+    {"topic": "Sorted unique iteration and filtered copies", "file": "datastructures/sorted-unique-iteration-and-filtered-copies.md", "summary": "Open when checking Sorted unique iteration and filtered copies.", "keywords": []},
+    {"topic": "5.2. The `del` statement", "file": "datastructures/the-del-statement.md", "summary": "Open when checking 5.2. The `del` statement.", "keywords": []},
+    {"topic": "5.3. Tuples and Sequences", "file": "datastructures/tuples-and-sequences.md", "summary": "Open when checking 5.3. Tuples and Sequences.", "keywords": []},
+    {"topic": "5.1.2. Using Lists as Queues", "file": "datastructures/using-lists-as-queues.md", "summary": "Open when checking 5.1.2. Using Lists as Queues.", "keywords": []},
+    {"topic": "5.1.1. Using Lists as Stacks", "file": "datastructures/using-lists-as-stacks.md", "summary": "Open when checking 5.1.1. Using Lists as Stacks.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Porting to Python 3.3 / What's New In Python 3.3 / Porting to Python 3.3", "file": "release-3-3/porting-to-python-3-3.md", "summary": "Open when checking What's New In Python 3.3 / Porting to Python 3.3.", "keywords": []},
+  {"topic": "Porting to Python 3.3 / What's New In Python 3.3 / Porting Python code — datetime, decimal, email.header, email.parser, email.utils, importlib, pkgutil, poplib, smtplib, socket, sys, time", "file": "release-3-3/porting-python-code.md", "summary": "Open when checking What's New In Python 3.3 / Porting Python code — datetime, decimal, email.header, email.parser, email.utils, importlib, pkgutil, poplib, smtplib, socket, sys, time.", "keywords": []},
+  {"topic": "Porting to Python 3.3 / What's New In Python 3.3 / Porting C code", "file": "release-3-3/porting-c-code.md", "summary": "Open when checking What's New In Python 3.3 / Porting C code.", "keywords": []},
+  {"topic": "Porting to Python 3.3 / What's New In Python 3.3 / Building C extensions", "file": "release-3-3/building-c-extensions.md", "summary": "Open when checking What's New In Python 3.3 / Building C extensions.", "keywords": []},
+  {"topic": "Porting to Python 3.3 / What's New In Python 3.3 / Command Line Switch Changes", "file": "release-3-3/command-line-switch-changes.md", "summary": "Open when checking What's New In Python 3.3 / Command Line Switch Changes.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

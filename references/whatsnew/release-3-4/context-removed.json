@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Removed / What's New In Python 3.4 / Operating Systems No Longer Supported", "file": "release-3-4/operating-systems-no-longer-supported.md", "summary": "Open when checking What's New In Python 3.4 / Operating Systems No Longer Supported.", "keywords": []},
+  {"topic": "Removed / What's New In Python 3.4 / API and Feature Removals — difflib, http.client, importlib, inspect, marshal, urllib.request", "file": "release-3-4/api-and-feature-removals.md", "summary": "Open when checking What's New In Python 3.4 / API and Feature Removals — difflib, http.client, importlib, inspect, marshal, urllib.request.", "keywords": []},
+  {"topic": "Removed / What's New In Python 3.4 / Code Cleanups — platform, pydoc, stat, tarfile", "file": "release-3-4/code-cleanups.md", "summary": "Open when checking What's New In Python 3.4 / Code Cleanups — platform, pydoc, stat, tarfile.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

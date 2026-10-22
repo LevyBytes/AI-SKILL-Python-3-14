@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "2.1.1. Argument Passing", "file": "using-the-python-interpreter/argument-passing.md", "summary": "Open when checking 2.1.1. Argument Passing.", "keywords": []},
+    {"topic": "2.1.2. Interactive Mode", "file": "using-the-python-interpreter/interactive-mode.md", "summary": "Open when checking 2.1.2. Interactive Mode.", "keywords": []},
+    {"topic": "2.1. Invoking the Interpreter", "file": "using-the-python-interpreter/invoking-the-interpreter.md", "summary": "Open when checking 2.1. Invoking the Interpreter.", "keywords": []},
+    {"topic": "2.2.1. Source Code Encoding", "file": "using-the-python-interpreter/source-code-encoding.md", "summary": "Open when checking 2.2.1. Source Code Encoding.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

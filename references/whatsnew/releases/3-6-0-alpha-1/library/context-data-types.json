@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Types / Python 3.6.0 alpha 1 / library / keyword arguments passed weakref ref no longer quietly discarded", "file": "releases/3-6-0-alpha-1/library/weak-reference-keyword-argument-rejection.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / keyword arguments passed weakref ref no longer quietly discarded.", "keywords": []},
+  {"topic": "Data Types / Python 3.6.0 alpha 1 / library / year exceeds datetime maxyear cookiejar http2time hands back none", "file": "releases/3-6-0-alpha-1/library/cookie-date-year-overflow.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / year exceeds datetime maxyear cookiejar http2time hands back none.", "keywords": []},
+  {"topic": "Data Types / Python 3.6.0 alpha 1 / library / reduced overhead copy copy copy deepcopy", "file": "releases/3-6-0-alpha-1/library/reduced-overhead-copy-copy-copy-deepcopy.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / reduced overhead copy copy copy deepcopy.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

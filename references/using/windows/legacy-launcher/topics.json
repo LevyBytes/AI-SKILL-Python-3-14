@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "4.12.3. Arguments in shebang lines", "file": "windows/legacy-launcher/arguments-in-shebang-lines.md", "summary": "Open when checking 4.12.3. Arguments in shebang lines.", "keywords": []},
+    {"topic": "4.12.4.1. Customization via INI files", "file": "windows/legacy-launcher/customization-via-ini-files.md", "summary": "Open when checking 4.12.4.1. Customization via INI files.", "keywords": []},
+    {"topic": "4.12.4.2. Customizing default Python versions", "file": "windows/legacy-launcher/customizing-default-python-versions.md", "summary": "Open when checking 4.12.4.2. Customizing default Python versions.", "keywords": []},
+    {"topic": "4.12.5. Diagnostics", "file": "windows/legacy-launcher/diagnostics.md", "summary": "Open when checking 4.12.5. Diagnostics.", "keywords": []},
+    {"topic": "4.12.6. Dry run", "file": "windows/legacy-launcher/dry-run.md", "summary": "Open when checking 4.12.6. Dry run.", "keywords": []},
+    {"topic": "4.12.1.3. From a script", "file": "windows/legacy-launcher/from-a-script.md", "summary": "Open when checking 4.12.1.3. From a script.", "keywords": []},
+    {"topic": "4.12.1.4. From file associations", "file": "windows/legacy-launcher/from-file-associations.md", "summary": "Open when checking 4.12.1.4. From file associations.", "keywords": []},
+    {"topic": "4.12.1.1. From the command-line", "file": "windows/legacy-launcher/from-the-command-line.md", "summary": "Open when checking 4.12.1.1. From the command-line.", "keywords": []},
+    {"topic": "4.12.7. Install on demand", "file": "windows/legacy-launcher/install-on-demand.md", "summary": "Open when checking 4.12.7. Install on demand.", "keywords": []},
+    {"topic": "4.12. Python launcher for Windows (deprecated)", "file": "windows/legacy-launcher/python-launcher-for-windows.md", "summary": "Open when checking 4.12. Python launcher for Windows (deprecated).", "keywords": []},
+    {"topic": "4.12.8. Return codes", "file": "windows/legacy-launcher/return-codes.md", "summary": "Open when checking 4.12.8. Return codes.", "keywords": []},
+    {"topic": "4.12.2. Shebang lines", "file": "windows/legacy-launcher/shebang-lines.md", "summary": "Open when checking 4.12.2. Shebang lines.", "keywords": []},
+    {"topic": "4.12.1.2. Virtual environments", "file": "windows/legacy-launcher/virtual-environments.md", "summary": "Open when checking 4.12.1.2. Virtual environments.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

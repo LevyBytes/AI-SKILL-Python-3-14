@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 4 / windows / build and platforms", "file": "releases/3-13-0-alpha-4/windows/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 4 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / windows / multiprocessing", "file": "releases/3-13-0-alpha-4/windows/multiprocessing.md", "summary": "Open when checking Python 3.13.0 alpha 4 / windows / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / windows / py exe launcher will no longer try invoking microsoft store", "file": "releases/3-13-0-alpha-4/windows/py-exe-launcher-will-no-longer-try-invoking-microsoft-store.md", "summary": "Open when checking Python 3.13.0 alpha 4 / windows / py exe launcher will no longer try invoking microsoft store.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / windows / repairs py exe launcher breaking invoked users lacking user profiles", "file": "windows-launcher-without-user-profile.md", "summary": "Open when checking Python 3.13.0 alpha 4 / windows / repairs py exe launcher breaking invoked users lacking user profiles.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / windows / zlib", "file": "releases/3-13-0-alpha-4/windows/zlib.md", "summary": "Open when checking Python 3.13.0 alpha 4 / windows / zlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

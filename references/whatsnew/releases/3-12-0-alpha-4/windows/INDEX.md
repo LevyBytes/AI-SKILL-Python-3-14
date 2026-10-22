@@ -1,0 +1,12 @@
+# Historical release changes subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking Python 3.12.0 alpha 4 / windows / asyncio protocol: [Python 3.12.0 alpha 4 / windows / asyncio protocol](asyncio-protocol.md).
+- Open when checking Python 3.12.0 alpha 4 / windows / build and platforms: [Python 3.12.0 alpha 4 / windows / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.12.0 alpha 4 / windows / compiler and parser: [Python 3.12.0 alpha 4 / windows / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.12.0 alpha 4 / windows / exceptions: [Python 3.12.0 alpha 4 / windows / exceptions](exceptions.md).
+- Open when checking Python 3.12.0 alpha 4 / windows / tests and documentation: [Python 3.12.0 alpha 4 / windows / tests and documentation](tests-and-documentation.md).
+- Open when checking Python 3.12.0 alpha 4 / windows / winreg: [Python 3.12.0 alpha 4 / windows / winreg](winreg.md).
+
+[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.

@@ -1,0 +1,28 @@
+# Upstream feature guide navigation for Python 3.1
+
+- [What’s New In Python 3.1](https://docs.python.org/3.14/whatsnew/3.1.html)
+  - [PEP 372: Ordered Dictionaries](https://docs.python.org/3.14/whatsnew/3.1.html#pep-372-ordered-dictionaries)
+  - [PEP 378: Format Specifier for Thousands Separator](https://docs.python.org/3.14/whatsnew/3.1.html#pep-378-format-specifier-for-thousands-separator)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/3.1.html#other-language-changes)
+  - [New, Improved, and Deprecated Modules](https://docs.python.org/3.14/whatsnew/3.1.html#new-improved-and-deprecated-modules)
+  - [Optimizations](https://docs.python.org/3.14/whatsnew/3.1.html#optimizations)
+  - [IDLE](https://docs.python.org/3.14/whatsnew/3.1.html#idle)
+  - [Build and C API Changes](https://docs.python.org/3.14/whatsnew/3.1.html#build-and-c-api-changes)
+  - [Porting to Python 3.1](https://docs.python.org/3.14/whatsnew/3.1.html#porting-to-python-3-1)
+
+- [Python 3.1 Features](https://docs.python.org/3.14/whatsnew/2.7.html#python-3-1-features)
+  - [PEP 372: Adding an Ordered Dictionary to collections](https://docs.python.org/3.14/whatsnew/2.7.html#pep-372-adding-an-ordered-dictionary-to-collections)
+  - [PEP 378: Format Specifier for Thousands Separator](https://docs.python.org/3.14/whatsnew/2.7.html#pep-378-format-specifier-for-thousands-separator)
+  - [PEP 389: The argparse Module for Parsing Command Lines](https://docs.python.org/3.14/whatsnew/2.7.html#pep-389-the-argparse-module-for-parsing-command-lines)
+  - [PEP 391: Dictionary-Based Configuration For Logging](https://docs.python.org/3.14/whatsnew/2.7.html#pep-391-dictionary-based-configuration-for-logging)
+  - [PEP 3106: Dictionary Views](https://docs.python.org/3.14/whatsnew/2.7.html#pep-3106-dictionary-views)
+  - [PEP 3137: The memoryview Object](https://docs.python.org/3.14/whatsnew/2.7.html#pep-3137-the-memoryview-object)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/2.7.html#other-language-changes)
+  - [New and Improved Modules](https://docs.python.org/3.14/whatsnew/2.7.html#new-and-improved-modules)
+  - [Build and C API Changes](https://docs.python.org/3.14/whatsnew/2.7.html#build-and-c-api-changes)
+  - [Other Changes and Fixes](https://docs.python.org/3.14/whatsnew/2.7.html#other-changes-and-fixes)
+  - [Porting to Python 2.7](https://docs.python.org/3.14/whatsnew/2.7.html#porting-to-python-2-7)
+  - [New Features Added to Python 2.7 Maintenance Releases](https://docs.python.org/3.14/whatsnew/2.7.html#new-features-added-to-python-2-7-maintenance-releases)
+  - [Acknowledgements](https://docs.python.org/3.14/whatsnew/2.7.html#acknowledgements)
+
+[Subject index](INDEX.md) · [Previous source section](../release-3-2/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md) · [Following release/subject continuation](../release-3-0/release-overview.md) · [Previous source section](../release-2-7/release-overview.md) · [Next source section](../release-2-6/release-overview.md)

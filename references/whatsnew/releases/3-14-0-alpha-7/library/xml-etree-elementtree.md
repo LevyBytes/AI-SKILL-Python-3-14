@@ -1,0 +1,9 @@
+# Python 3.14.0 alpha 7 / library / xml etree elementtree
+
+[gh-131938](https://github.com/python/cpython/issues/131938): For [`xml.etree.ElementTree`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#module-xml.etree.ElementTree): the error message now reads better when an element slated for removal through [`Element.remove`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.remove) cannot be found. Bénédikt Tran supplied the patch.
+
+[gh-126037](https://github.com/python/cpython/issues/126037): For [`xml.etree.ElementTree`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#module-xml.etree.ElementTree): a crash in [`Element.find`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.find), [`Element.findtext`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findtext) and [`Element.findall`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall) was fixed for the situation where the tag being searched implements an [`__eq__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__eq__) method that mutates the very element under query. Bénédikt Tran supplied the patch.
+
+[gh-126033](https://github.com/python/cpython/issues/126033): For [`xml.etree.ElementTree`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#module-xml.etree.ElementTree): a crash in [`Element.remove`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.remove) that arose when the element is mutated concurrently was fixed. Bénédikt Tran supplied the patch.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

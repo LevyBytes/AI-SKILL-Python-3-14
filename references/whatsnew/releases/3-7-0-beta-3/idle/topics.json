@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 3 / idle / files and paths", "file": "releases/3-7-0-beta-3/idle/files-and-paths.md", "summary": "Open when checking Python 3.7.0 beta 3 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 3 / idle / streamline rename stringtranslatepseudomapping inside pyparse", "file": "releases/3-7-0-beta-3/idle/streamline-rename-stringtranslatepseudomapping-inside-pyparse.md", "summary": "Open when checking Python 3.7.0 beta 3 / idle / streamline rename stringtranslatepseudomapping inside pyparse.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

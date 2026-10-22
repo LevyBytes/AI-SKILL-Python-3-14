@@ -1,0 +1,47 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.4 final / library / functions. [Built-in objects and typing / Python 3.14.4 final / library / functions](functions.md).
+- Open when checking Python 3.14.4 final / library / constants. [Built-in objects and typing / Python 3.14.4 final / library / constants](constants.md).
+- Open when checking Python 3.14.4 final / library / exceptions. [Built-in objects and typing / Python 3.14.4 final / library / exceptions](exceptions.md).
+- Open when checking Python 3.14.4 final / library / decimal. [Text Processing Services / Python 3.14.4 final / library / decimal](decimal.md).
+- Open when checking Python 3.14.4 final / library / codecs. [Binary Data Services / Python 3.14.4 final / library / codecs](codecs.md).
+- Open when checking Python 3.14.4 final / library / float. [Binary Data Services / Python 3.14.4 final / library / float](float.md).
+- Open when checking Python 3.14.4 final / library / functools. [Functional Programming Modules / Python 3.14.4 final / library / functools](functools.md).
+- Open when checking Python 3.14.4 final / library / itertools. [Functional Programming Modules / Python 3.14.4 final / library / itertools](itertools.md).
+- Open when checking Python 3.14.4 final / library / glob. [File and Directory Access / Python 3.14.4 final / library / glob](glob.md).
+- Open when checking Python 3.14.4 final / library / tempfile. [File and Directory Access / Python 3.14.4 final / library / tempfile](tempfile.md).
+- Open when checking Python 3.14.4 final / library / tarfile. [Data Compression and Archiving / Python 3.14.4 final / library / tarfile](tarfile.md).
+- Open when checking Python 3.14.4 final / library / hmac. [Cryptographic Services / Python 3.14.4 final / library / hmac](hmac.md).
+- Open when checking Python 3.14.4 final / library / io. [Generic Operating System Services / Python 3.14.4 final / library / io](io.md).
+- Open when checking Python 3.14.4 final / library / ctypes. [Generic Operating System Services / Python 3.14.4 final / library / ctypes](ctypes.md).
+- Open when checking Python 3.14.4 final / library / os. [Generic Operating System Services / Python 3.14.4 final / library / os](os.md).
+- Open when checking Python 3.14.4 final / library / argparse. [Command-line interface libraries / Python 3.14.4 final / library / argparse](argparse.md).
+- Open when checking Python 3.14.4 final / library / asyncio subprocess. [Networking and Interprocess Communication / Python 3.14.4 final / library / asyncio subprocess](asyncio-subprocess.md).
+- Open when checking Python 3.14.4 final / library / asyncio task. [Networking and Interprocess Communication / Python 3.14.4 final / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.14.4 final / library / asyncio stream. [Networking and Interprocess Communication / Python 3.14.4 final / library / asyncio stream](asyncio-stream.md).
+- Open when checking Python 3.14.4 final / library / binascii. [Internet Data Handling / Python 3.14.4 final / library / binascii](binascii.md).
+- Open when checking Python 3.14.4 final / library / pyexpat. [Structured Markup Processing Tools / Python 3.14.4 final / library / pyexpat](pyexpat.md).
+- Open when checking Python 3.14.4 final / library / venv. [Software Packaging and Distribution / Python 3.14.4 final / library / venv](venv.md).
+- Open when checking Python 3.14.4 final / library / annotationlib. [Python Runtime Services / Python 3.14.4 final / library / annotationlib](annotationlib.md).
+- Open when checking Python 3.14.4 final / library / atexit. [Python Runtime Services / Python 3.14.4 final / library / atexit](atexit.md).
+- Open when checking Python 3.14.4 final / library / collections. [Combined library maintenance / Python 3.14.4 final / library / collections](collections.md).
+- Open when checking Python 3.14.4 final / library / ensurepip. [Combined library maintenance / Python 3.14.4 final / library / ensurepip](ensurepip.md).
+- Open when checking Python 3.14.4 final / library / multiprocessing. [Combined library maintenance / Python 3.14.4 final / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.14.4 final / library / sqlite3. [Combined library maintenance / Python 3.14.4 final / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.14.4 final / library / ssl. [Combined library maintenance / Python 3.14.4 final / library / ssl](ssl.md).
+- Open when checking Python 3.14.4 final / library / struct. [Combined library maintenance / Python 3.14.4 final / library / struct](struct.md).
+- Open when checking Python 3.14.4 final / library / zoneinfo. [Combined library maintenance / Python 3.14.4 final / library / zoneinfo](zoneinfo.md).
+- Open when checking Python 3.14.4 final / library / email. [Combined library maintenance / Python 3.14.4 final / library / email](email.md).
+- Open when checking Python 3.14.4 final / library / hashlib. [Combined library maintenance / Python 3.14.4 final / library / hashlib](hashlib.md).
+- Open when checking Python 3.14.4 final / library / unicodedata. [Combined library maintenance / Python 3.14.4 final / library / unicodedata](unicodedata.md).
+- Open when checking Python 3.14.4 final / library / re. [Combined library maintenance / Python 3.14.4 final / library / re](re.md).
+- Open when checking Python 3.14.4 final / library / refreshes bundled libexpat up version. [Library compatibility and maintenance / Python 3.14.4 final / library / refreshes bundled libexpat up version](refreshes-bundled-libexpat-up-version.md).
+- Open when checking Python 3.14.4 final / library / requests signature throughout mock autospec forwardref annotation format use. [Library compatibility and maintenance / Python 3.14.4 final / library / requests signature throughout mock autospec forwardref annotation format use](mock-autospec-forward-reference-annotation-format.md).
+- Open when checking Python 3.14.4 final / library / sysconfig. [Library compatibility and maintenance / Python 3.14.4 final / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.14.4 final / library / corrects inconsistent display long multiline pasted content within repl. [Library compatibility and maintenance / Python 3.14.4 final / library / corrects inconsistent display long multiline pasted content within repl](interactive-long-multiline-paste-display.md).
+- Open when checking Python 3.14.4 final / library / corrects crash inside interpchannels list all following closure channel. [Library compatibility and maintenance / Python 3.14.4 final / library / corrects crash inside interpchannels list all following closure channel](closed-interpreter-channel-listing-crash.md).
+- Open when checking Python 3.14.4 final / library / corrects crash inside remote debugging made test external inspection fail intermittently. [Library compatibility and maintenance / Python 3.14.4 final / library / corrects crash inside remote debugging made test external inspection fail intermittently](remote-debugging-inspection-crash.md).
+- Open when checking Python 3.14.4 final / library / refreshes bundled libexpat up. [Library compatibility and maintenance / Python 3.14.4 final / library / refreshes bundled libexpat up](refreshes-bundled-libexpat-up.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

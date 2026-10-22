@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "posix — Large File Support", "file": "posix/large-file-support.md", "summary": "Open when checking posix — Large File Support.", "keywords": []},
+    {"topic": "posix — Notable Module Contents", "file": "posix/posix-environ.md", "summary": "Open when checking posix — Notable Module Contents.", "keywords": []},
+    {"topic": "posix — `posix` — The most common POSIX system calls", "file": "posix/posix-the-most-common-posix-system-calls.md", "summary": "Open when checking posix — `posix` — The most common POSIX system calls.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

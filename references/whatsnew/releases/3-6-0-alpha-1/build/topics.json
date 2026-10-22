@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 1 / build / add handling textual sdk stub libraries introduced apple xcode", "file": "apple-textual-sdk-stub-library-support.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / add handling textual sdk stub libraries introduced apple xcode.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / audioop", "file": "releases/3-6-0-alpha-1/build/audioop.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / audioop.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / avoid attempting link ctypes against ffi convenience library", "file": "releases/3-6-0-alpha-1/build/avoid-attempting-link-ctypes-against-ffi-convenience-library.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / avoid attempting link ctypes against ffi convenience library.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / build and platforms", "file": "releases/3-6-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / compiler and parser", "file": "releases/3-6-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / concurrent", "file": "releases/3-6-0-alpha-1/build/concurrent.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / concurrent.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / constants", "file": "releases/3-6-0-alpha-1/build/constants.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / constants.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / correct unix installation python under make j9", "file": "releases/3-6-0-alpha-1/build/correct-unix-installation-python-under-make-j9.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / correct unix installation python under make j9.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / files and paths", "file": "releases/3-6-0-alpha-1/build/files-and-paths.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / introduces check ucrtbase d dll version warning whenever version", "file": "windows-debug-crt-version-validation.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / introduces check ucrtbase d dll version warning whenever version.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / modules", "file": "releases/3-6-0-alpha-1/build/modules.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / modules.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / build / warnings", "file": "releases/3-6-0-alpha-1/build/warnings.md", "summary": "Open when checking Python 3.6.0 alpha 1 / build / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

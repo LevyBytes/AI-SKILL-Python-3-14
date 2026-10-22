@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "zipimport — Examples", "file": "zipimport/examples.md", "summary": "Open when checking zipimport — Examples.", "keywords": []},
+  {"topic": "zipimport — Import modules from Zip archives", "file": "zipimport/import-modules-from-zip-archives.md", "summary": "Open when checking zipimport — Import modules from Zip archives.", "keywords": []},
+  {"topic": "zipimport: `zipimport.zipimporter`", "file": "zipimport/zipimport-zipimporter-class.md", "summary": "Open when checking the documented contracts for `zipimport.zipimporter` in zipimport.", "keywords": []},
+  {"topic": "zipimport.zipimporter: `create_module()`, `exec_module()`, `find_spec()`, `get_code()`, `get_data()`, `get_filename()`, `get_source()`, `is_package()`, `load_module()`, `invalidate_caches()`", "file": "zip-importer-module-creation-and-caches.md", "summary": "Open when checking the documented contracts for `create_module()`, `exec_module()`, `find_spec()`, `get_code()`, `get_data()`, `get_filename()`, `get_source()`, `is_package()`, `load_module()`, `invalidate_caches()` in zipimport.zipimporter.", "keywords": []},
+  {"topic": "zipimport — `zipimport` — Import modules from Zip archives", "file": "zipimport/zipimport-zipimporterror.md", "summary": "Open when checking zipimport — `zipimport` — Import modules from Zip archives.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Task lifetime support", "file": "asyncio-extending/asyncio-register-task-to-asyncio-leave-task.md", "summary": "Open when checking Task lifetime support.", "keywords": []},
+    {"topic": "Extending", "file": "asyncio-extending/extending.md", "summary": "Open when checking Extending.", "keywords": []},
+    {"topic": "Future and Task private constructors", "file": "asyncio-extending/future-init-to-task-init.md", "summary": "Open when checking Future and Task private constructors.", "keywords": []},
+    {"topic": "Writing a Custom Event Loop", "file": "asyncio-extending/writing-a-custom-event-loop.md", "summary": "Open when checking Writing a Custom Event Loop.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

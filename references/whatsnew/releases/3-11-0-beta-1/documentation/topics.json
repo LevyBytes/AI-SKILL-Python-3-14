@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 beta 1 / documentation / drop make c doc serve favor make c doc", "file": "releases/3-11-0-beta-1/documentation/drop-make-c-doc-serve-favor-make-c-doc.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / drop make c doc serve favor make c doc.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / importlib resources abc", "file": "releases/3-11-0-beta-1/documentation/importlib-resources-abc.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / importlib resources abc.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / intro", "file": "releases/3-11-0-beta-1/documentation/intro.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / intro.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / modules", "file": "releases/3-11-0-beta-1/documentation/modules.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / os path", "file": "releases/3-11-0-beta-1/documentation/os-path.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / os path.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / runpy", "file": "releases/3-11-0-beta-1/documentation/runpy.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / runpy.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / shutil", "file": "releases/3-11-0-beta-1/documentation/shutil.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / shutil.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / stable", "file": "releases/3-11-0-beta-1/documentation/stable.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / stable.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / documentation / tests and documentation", "file": "releases/3-11-0-beta-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 beta 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "9.3. A First Look at Classes", "file": "classes/a-first-look-at-classes.md", "summary": "Open when checking 9.3. A First Look at Classes.", "keywords": []},
+    {"topic": "9.1. A Word About Names and Objects", "file": "classes/a-word-about-names-and-objects.md", "summary": "Open when checking 9.1. A Word About Names and Objects.", "keywords": []},
+    {"topic": "9.3.5. Class and Instance Variables", "file": "classes/class-and-instance-variables.md", "summary": "Open when checking 9.3.5. Class and Instance Variables.", "keywords": []},
+    {"topic": "9.3.1. Class Definition Syntax", "file": "classes/class-definition-syntax.md", "summary": "Open when checking 9.3.1. Class Definition Syntax.", "keywords": []},
+    {"topic": "9.3.2. Class Objects", "file": "classes/class-objects.md", "summary": "Open when checking 9.3.2. Class Objects.", "keywords": []},
+    {"topic": "9. Classes", "file": "classes/classes.md", "summary": "Open when checking 9. Classes.", "keywords": []},
+    {"topic": "9.10. Generator Expressions", "file": "classes/generator-expressions.md", "summary": "Open when checking 9.10. Generator Expressions.", "keywords": []},
+    {"topic": "9.9. Generators", "file": "classes/generators.md", "summary": "Open when checking 9.9. Generators.", "keywords": []},
+    {"topic": "9.5. Inheritance", "file": "classes/inheritance.md", "summary": "Open when checking 9.5. Inheritance.", "keywords": []},
+    {"topic": "9.3.3. Instance Objects", "file": "classes/instance-objects.md", "summary": "Open when checking 9.3.3. Instance Objects.", "keywords": []},
+    {"topic": "9.8. Iterators", "file": "classes/iterators.md", "summary": "Open when checking 9.8. Iterators.", "keywords": []},
+    {"topic": "9.3.4. Method Objects", "file": "classes/method-objects.md", "summary": "Open when checking 9.3.4. Method Objects.", "keywords": []},
+    {"topic": "9.5.1. Multiple Inheritance", "file": "classes/multiple-inheritance.md", "summary": "Open when checking 9.5.1. Multiple Inheritance.", "keywords": []},
+    {"topic": "9.7. Odds and Ends", "file": "classes/odds-and-ends.md", "summary": "Open when checking 9.7. Odds and Ends.", "keywords": []},
+    {"topic": "9.6. Private Variables", "file": "classes/private-variables.md", "summary": "Open when checking 9.6. Private Variables.", "keywords": []},
+    {"topic": "9.2. Python Scopes and Namespaces", "file": "classes/python-scopes-and-namespaces.md", "summary": "Open when checking 9.2. Python Scopes and Namespaces.", "keywords": []},
+    {"topic": "9.4. Random Remarks", "file": "classes/random-remarks.md", "summary": "Open when checking 9.4. Random Remarks.", "keywords": []},
+    {"topic": "9.2.1. Scopes and Namespaces Example", "file": "classes/scopes-and-namespaces-example.md", "summary": "Open when checking 9.2.1. Scopes and Namespaces Example.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

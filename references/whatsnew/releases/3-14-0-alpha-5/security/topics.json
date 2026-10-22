@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 5 / security / email", "file": "releases/3-14-0-alpha-5/security/email.md", "summary": "Open when checking Python 3.14.0 alpha 5 / security / email.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 5 / security / imaplib", "file": "releases/3-14-0-alpha-5/security/imaplib.md", "summary": "Open when checking Python 3.14.0 alpha 5 / security / imaplib.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 5 / security / possible null pointer dereference pysys addwarnoptionunicode fixed", "file": "unicode-warning-option-null-dereference.md", "summary": "Open when checking Python 3.14.0 alpha 5 / security / possible null pointer dereference pysys addwarnoptionunicode fixed.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 5 / security / urllib parse", "file": "releases/3-14-0-alpha-5/security/urllib-parse.md", "summary": "Open when checking Python 3.14.0 alpha 5 / security / urllib parse.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

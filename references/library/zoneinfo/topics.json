@@ -1,0 +1,17 @@
+{"schema_version": 1, "topics": [
+  {"topic": "zoneinfo — Compile-time configuration", "file": "zoneinfo/compile-time-configuration.md", "summary": "Open when checking zoneinfo — Compile-time configuration.", "keywords": []},
+  {"topic": "zoneinfo — Configuring the data sources", "file": "zoneinfo/configuring-the-data-sources.md", "summary": "Open when checking zoneinfo — Configuring the data sources.", "keywords": []},
+  {"topic": "zoneinfo — Data sources", "file": "zoneinfo/data-sources.md", "summary": "Open when checking zoneinfo — Data sources.", "keywords": []},
+  {"topic": "zoneinfo — Environment configuration", "file": "zoneinfo/environment-configuration.md", "summary": "Open when checking zoneinfo — Environment configuration.", "keywords": []},
+  {"topic": "zoneinfo — Pickle serialization", "file": "zoneinfo/pickle-serialization.md", "summary": "Open when checking zoneinfo — Pickle serialization.", "keywords": []},
+  {"topic": "zoneinfo — Runtime configuration", "file": "zoneinfo/runtime-configuration.md", "summary": "Open when checking zoneinfo — Runtime configuration.", "keywords": []},
+  {"topic": "zoneinfo — String representations", "file": "zoneinfo/string-representations.md", "summary": "Open when checking zoneinfo — String representations.", "keywords": []},
+  {"topic": "zoneinfo — Using `ZoneInfo`", "file": "zoneinfo/using-zoneinfo.md", "summary": "Open when checking zoneinfo — Using `ZoneInfo`.", "keywords": []},
+  {"topic": "zoneinfo — Functions", "file": "zoneinfo/zoneinfo-available-timezones-to-zoneinfo-reset-tzpath.md", "summary": "Open when checking zoneinfo — Functions.", "keywords": []},
+  {"topic": "zoneinfo — `zoneinfo` — IANA time zone support", "file": "zoneinfo/zoneinfo-iana-time-zone-support.md", "summary": "Open when checking zoneinfo — `zoneinfo` — IANA time zone support.", "keywords": []},
+  {"topic": "zoneinfo: ZoneInfo constructor and timezone caching", "file": "zoneinfo/zoneinfo-zoneinfo-class.md", "summary": "Open when checking ZoneInfo constructor and timezone caching in zoneinfo.", "keywords": []},
+  {"topic": "zoneinfo: ZoneInfo alternate constructors, cache invalidation and keys", "file": "zoneinfo/zoneinfo-key.md", "summary": "Open when checking ZoneInfo alternate constructors, cache invalidation and keys in zoneinfo.", "keywords": []},
+  {"topic": "zoneinfo — Globals", "file": "zoneinfo/zoneinfo-tzpath.md", "summary": "Open when checking zoneinfo — Globals.", "keywords": []},
+  {"topic": "zoneinfo — Exceptions and warnings", "file": "timezone-data-errors-and-path-warnings.md", "summary": "Open when checking zoneinfo — Exceptions and warnings.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

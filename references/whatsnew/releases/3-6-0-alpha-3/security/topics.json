@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 3 / security / random", "file": "releases/3-6-0-alpha-3/security/random.md", "summary": "Open when checking Python 3.6.0 alpha 3 / security / random.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 3 / security / sidestep shell injection risks ctypes util find library", "file": "releases/3-6-0-alpha-3/security/sidestep-shell-injection-risks-ctypes-util-find-library.md", "summary": "Open when checking Python 3.6.0 alpha 3 / security / sidestep shell injection risks ctypes util find library.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

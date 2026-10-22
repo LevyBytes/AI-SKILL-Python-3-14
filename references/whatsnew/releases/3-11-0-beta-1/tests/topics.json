@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 beta 1 / tests / ipaddress", "file": "releases/3-11-0-beta-1/tests/ipaddress.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / ipaddress.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / tests / modules", "file": "releases/3-11-0-beta-1/tests/modules.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / tests / multiprocessing", "file": "releases/3-11-0-beta-1/tests/multiprocessing.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / tests / tests and documentation", "file": "releases/3-11-0-beta-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / tests / text and unicode", "file": "releases/3-11-0-beta-1/tests/text-and-unicode.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / text and unicode.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / tests / threads and concurrency", "file": "releases/3-11-0-beta-1/tests/threads-and-concurrency.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / tests / unittest", "file": "releases/3-11-0-beta-1/tests/unittest.md", "summary": "Open when checking Python 3.11.0 beta 1 / tests / unittest.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

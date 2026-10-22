@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Unix-specific services / Python 3.12.0 alpha 1 / library / syslog", "file": "releases/3-12-0-alpha-1/library/syslog.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / syslog.", "keywords": []},
+  {"topic": "Unix-specific services / Python 3.12.0 alpha 1 / library / shlex", "file": "releases/3-12-0-alpha-1/library/shlex.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / shlex.", "keywords": []},
+  {"topic": "Unix-specific services / Python 3.12.0 alpha 1 / library / fcntl", "file": "releases/3-12-0-alpha-1/library/fcntl.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / fcntl.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

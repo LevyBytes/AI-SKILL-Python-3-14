@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 3 / documentation / fix url imap protocol documents", "file": "releases/3-10-0-alpha-3/documentation/fix-url-imap-protocol-documents.md", "summary": "Open when checking Python 3.10.0 alpha 3 / documentation / fix url imap protocol documents.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / documentation / language", "file": "releases/3-10-0-alpha-3/documentation/language.md", "summary": "Open when checking Python 3.10.0 alpha 3 / documentation / language.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / documentation / tests and documentation", "file": "releases/3-10-0-alpha-3/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 3 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

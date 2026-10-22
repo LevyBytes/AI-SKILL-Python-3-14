@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Overview and scope / 1. Command line and environment", "file": "command-line/command-line-and-environment.md", "summary": "Open when checking 1. Command line and environment.", "keywords": []},
+  {"topic": "Interpreter implementation options", "file": "command-line/context-interpreter-implementation-options.md", "summary": "Open when checking interpreter implementation options.", "keywords": []},
+  {"topic": "Command line", "file": "command-line/context-command-line.md", "summary": "Open when checking command line.", "keywords": []},
+  {"topic": "Environment variables", "file": "command-line/context-environment-variables.md", "summary": "Open when checking environment variables.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

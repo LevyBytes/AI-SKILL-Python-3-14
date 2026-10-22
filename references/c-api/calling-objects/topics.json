@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Call Protocol", "file": "calling-objects/call-protocol.md", "summary": "Open when checking Call Protocol.", "keywords": []},
+  {"topic": "int PyCallable_Check(PyObject *o)", "file": "calling-objects/pycallable-check.md", "summary": "Open when checking int PyCallable_Check(PyObject *o).", "keywords": []},
+  {"topic": "calling objects C API: `PyObject_Call()`, `PyObject_CallNoArgs()`, `PyObject_CallOneArg()`, `PyObject_CallObject()`, `PyObject_CallFunction()`", "file": "calling-objects/pyobject-call-to-pyobject-callfunction.md", "summary": "Open when checking the documented contracts for `PyObject_Call()`, `PyObject_CallNoArgs()`, `PyObject_CallOneArg()`, `PyObject_CallObject()`, `PyObject_CallFunction()` in calling objects C API.", "keywords": []},
+  {"topic": "calling objects C API: Object method calls and vectorcall entrypoints", "file": "calling-objects/pyobject-callmethod-to-pyobject-vectorcallmethod.md", "summary": "Open when checking object method calls and vectorcall entrypoints in calling objects C API.", "keywords": []},
+  {"topic": "The Vectorcall Protocol", "file": "calling-objects/pyobject.md", "summary": "Open when checking The Vectorcall Protocol.", "keywords": []},
+  {"topic": "Vectorcall Support API", "file": "calling-objects/pyvectorcall-nargs-to-pyvectorcall-call.md", "summary": "Open when checking Vectorcall Support API.", "keywords": []},
+  {"topic": "Recursion Control", "file": "calling-objects/recursion-control.md", "summary": "Open when checking Recursion Control.", "keywords": []},
+  {"topic": "The tp_call Protocol", "file": "calling-objects/the-tp-call-protocol.md", "summary": "Open when checking The tp_call Protocol.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

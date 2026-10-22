@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 5 / idle / functions and types", "file": "releases/3-10-0-alpha-5/idle/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 5 / idle / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 5 / idle / imports and modules", "file": "releases/3-10-0-alpha-5/idle/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 alpha 5 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 5 / idle / sys", "file": "releases/3-10-0-alpha-5/idle/sys.md", "summary": "Open when checking Python 3.10.0 alpha 5 / idle / sys.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 5 / idle / turn off debug stack viewer whenever user code executing", "file": "releases/3-10-0-alpha-5/idle/turn-off-debug-stack-viewer-whenever-user-code-executing.md", "summary": "Open when checking Python 3.10.0 alpha 5 / idle / turn off debug stack viewer whenever user code executing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

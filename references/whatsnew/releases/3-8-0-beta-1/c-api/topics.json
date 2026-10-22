@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 beta 1 / c api / call", "file": "releases/3-8-0-beta-1/c-api/call.md", "summary": "Open when checking Python 3.8.0 beta 1 / c api / call.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / c api / carries out pep python initialization configuration", "file": "releases/3-8-0-beta-1/c-api/carries-out-pep-python-initialization-configuration.md", "summary": "Open when checking Python 3.8.0 beta 1 / c api / carries out pep python initialization configuration.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / c api / exceptions and tracebacks", "file": "releases/3-8-0-beta-1/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.8.0 beta 1 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / c api / functions and types", "file": "releases/3-8-0-beta-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.8.0 beta 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / c api / realizes pep vectorcall quick calling protocol cpython", "file": "releases/3-8-0-beta-1/c-api/realizes-pep-vectorcall-quick-calling-protocol-cpython.md", "summary": "Open when checking Python 3.8.0 beta 1 / c api / realizes pep vectorcall quick calling protocol cpython.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / c api / sys", "file": "releases/3-8-0-beta-1/c-api/sys.md", "summary": "Open when checking Python 3.8.0 beta 1 / c api / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

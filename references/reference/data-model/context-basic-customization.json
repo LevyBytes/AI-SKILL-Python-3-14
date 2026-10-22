@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/reference", "topics": [
+  {"topic": "Basic customization / object.__bool__(*self*)", "file": "data-model/object-bool.md", "summary": "Open when checking object.__bool__(*self*).", "keywords": []},
+  {"topic": "Basic customization / object.__bytes__(*self*)", "file": "data-model/object-bytes.md", "summary": "Open when checking object.__bytes__(*self*).", "keywords": []},
+  {"topic": "Basic customization / object.__format__(*self*, *format_spec*)", "file": "data-model/object-format.md", "summary": "Open when checking object.__format__(*self*, *format_spec*).", "keywords": []},
+  {"topic": "Basic customization / object.__hash__(*self*)", "file": "data-model/object-hash.md", "summary": "Open when checking object.__hash__(*self*).", "keywords": []},
+  {"topic": "Basic customization / object.__lt__(*self*, *other*) / object.__le__(*self*, *other*) / object.__eq__(*self*, *other*) / object.__ne__(*self*, *other*) / object.__gt__(*self*, *other*) / object.__ge__(*self*, *other*)", "file": "data-model/object-lt-object-le-object-eq-object-ne-object-gt-object-ge.md", "summary": "Open when checking object.__lt__(*self*, *other*) / object.__le__(*self*, *other*) / object.__eq__(*self*, *other*) / object.__ne__(*self*, *other*) / object.__gt__(*self*, *other*) / object.__ge__(*self*, *other*).", "keywords": []},
+  {"topic": "Basic customization / object.__str__(*self*)", "file": "data-model/object-str.md", "summary": "Open when checking object.__str__(*self*).", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

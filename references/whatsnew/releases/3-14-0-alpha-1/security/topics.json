@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 1 / security / build and platforms", "file": "releases/3-14-0-alpha-1/security/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / compiler and parser", "file": "releases/3-14-0-alpha-1/security/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / files and paths", "file": "releases/3-14-0-alpha-1/security/files-and-paths.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / made ipv4 mapped ipaddress ipv6address rely uniformly mapped ipv4 address value", "file": "ipv4-mapped-ipv6-address-consistency.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / made ipv4 mapped ipaddress ipv6address rely uniformly mapped ipv4 address value.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / move libexpat up", "file": "releases/3-14-0-alpha-1/security/move-libexpat-up.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / move libexpat up.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / os", "file": "releases/3-14-0-alpha-1/security/os.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / os.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / platform", "file": "releases/3-14-0-alpha-1/security/platform.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / platform.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / python", "file": "releases/3-14-0-alpha-1/security/python.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / python.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / socket", "file": "releases/3-14-0-alpha-1/security/socket.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / socket.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / tarfile", "file": "releases/3-14-0-alpha-1/security/tarfile.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / tarfile.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 1 / security / warnings", "file": "releases/3-14-0-alpha-1/security/warnings.md", "summary": "Open when checking Python 3.14.0 alpha 1 / security / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

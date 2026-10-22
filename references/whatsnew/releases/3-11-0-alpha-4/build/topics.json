@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 4 / build / build and platforms", "file": "releases/3-11-0-alpha-4/build/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / build / collections and iteration", "file": "releases/3-11-0-alpha-4/build/collections-and-iteration.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / build / importlib", "file": "releases/3-11-0-alpha-4/build/importlib.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / importlib.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / build / modules", "file": "releases/3-11-0-alpha-4/build/modules.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / build / python", "file": "releases/3-11-0-alpha-4/build/python.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / python.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / build / select", "file": "releases/3-11-0-alpha-4/build/select.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / select.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / build / statistics", "file": "releases/3-11-0-alpha-4/build/statistics.md", "summary": "Open when checking Python 3.11.0 alpha 4 / build / statistics.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

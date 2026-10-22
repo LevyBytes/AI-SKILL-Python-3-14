@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 2 / build / rebuild relink os x bit only installer against openssl h", "file": "releases/3-6-0-alpha-2/build/rebuild-relink-os-x-bit-only-installer-against-openssl-h.md", "summary": "Open when checking Python 3.6.0 alpha 2 / build / rebuild relink os x bit only installer against openssl h.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / build / repair cross compiling pgen rule in tree builds work", "file": "releases/3-6-0-alpha-2/build/repair-cross-compiling-pgen-rule-in-tree-builds-work.md", "summary": "Open when checking Python 3.6.0 alpha 2 / build / repair cross compiling pgen rule in tree builds work.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

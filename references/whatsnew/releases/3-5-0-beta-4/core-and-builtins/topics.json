@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 beta 4 / core and builtins / build and platforms", "file": "releases/3-5-0-beta-4/core-and-builtins/build-and-platforms.md", "summary": "Open when checking Python 3.5.0 beta 4 / core and builtins / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / core and builtins / collections and iteration", "file": "releases/3-5-0-beta-4/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.5.0 beta 4 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / core and builtins / functions and types", "file": "releases/3-5-0-beta-4/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.5.0 beta 4 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / core and builtins / memoryview permit any format casting back bytes", "file": "releases/3-5-0-beta-4/core-and-builtins/memoryview-permit-any-format-casting-back-bytes.md", "summary": "Open when checking Python 3.5.0 beta 4 / core and builtins / memoryview permit any format casting back bytes.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 4 / core and builtins / resolve crash struck dict got mutated mid update", "file": "releases/3-5-0-beta-4/core-and-builtins/resolve-crash-struck-dict-got-mutated-mid-update.md", "summary": "Open when checking Python 3.5.0 beta 4 / core and builtins / resolve crash struck dict got mutated mid update.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

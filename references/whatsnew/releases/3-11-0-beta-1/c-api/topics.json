@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 beta 1 / c api / code", "file": "releases/3-11-0-beta-1/c-api/code.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / code.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / compiler and parser", "file": "releases/3-11-0-beta-1/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / exceptions", "file": "releases/3-11-0-beta-1/c-api/exceptions.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / files and paths", "file": "releases/3-11-0-beta-1/c-api/files-and-paths.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / functions and types", "file": "releases/3-11-0-beta-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / refcounting", "file": "releases/3-11-0-beta-1/c-api/refcounting.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / supply pybytes type tp alloc pybytesobject ob shash gets initialized bytes subclasses", "file": "bytes-subclass-hash-field-initialization.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / supply pybytes type tp alloc pybytesobject ob shash gets initialized bytes subclasses.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / sys", "file": "releases/3-11-0-beta-1/c-api/sys.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / sys.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / threads", "file": "releases/3-11-0-beta-1/c-api/threads.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / threads.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / c api / veryhigh", "file": "releases/3-11-0-beta-1/c-api/veryhigh.md", "summary": "Open when checking Python 3.11.0 beta 1 / c api / veryhigh.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

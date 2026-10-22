@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Disabling remote debugging", "file": "remote-debugging/disabling-remote-debugging.md", "summary": "Open when checking Disabling remote debugging.", "keywords": []},
+    {"topic": "Interpreter/thread-state traversal and main-thread lookup", "file": "remote-debugging/interpreter-thread-state-traversal-and-main-thread-lookup.md", "summary": "Open when checking Interpreter/thread-state traversal and main-thread lookup.", "keywords": []},
+    {"topic": "Lookup by native thread ID and injection prerequisite", "file": "remote-debugging/lookup-by-native-thread-id-and-injection-prerequisite.md", "summary": "Open when checking Lookup by native thread ID and injection prerequisite.", "keywords": []},
+    {"topic": "macOS Mach-O discovery, memory APIs and privileges", "file": "remote-debugging/macos-mach-o-discovery-memory-apis-and-privileges.md", "summary": "Open when checking macOS Mach-O discovery, memory APIs and privileges.", "keywords": []},
+    {"topic": "Permission requirements", "file": "remote-debugging/permission-requirements.md", "summary": "Open when checking Permission requirements.", "keywords": []},
+    {"topic": "PyRuntime discovery model and Linux ELF implementation", "file": "remote-debugging/pyruntime-discovery-model-and-linux-elf-implementation.md", "summary": "Open when checking PyRuntime discovery model and Linux ELF implementation.", "keywords": []},
+    {"topic": "Reading _Py_DebugOffsets", "file": "remote-debugging/reading-py-debugoffsets.md", "summary": "Open when checking Reading _Py_DebugOffsets.", "keywords": []},
+    {"topic": "Remote debugging attachment protocol", "file": "remote-debugging/remote-debugging-attachment-protocol.md", "summary": "Open when checking Remote debugging attachment protocol.", "keywords": []},
+    {"topic": "Security and threat model", "file": "remote-debugging/security-and-threat-model.md", "summary": "Open when checking Security and threat model.", "keywords": []},
+    {"topic": "Summary", "file": "remote-debugging/summary.md", "summary": "Open when checking Summary.", "keywords": []},
+    {"topic": "When to use `PYTHON_DISABLE_REMOTE_DEBUG`", "file": "remote-debugging/when-to-use-python-disable-remote-debug.md", "summary": "Open when checking When to use `PYTHON_DISABLE_REMOTE_DEBUG`.", "keywords": []},
+    {"topic": "Windows PE PyRuntim discovery and process permissions", "file": "remote-debugging/windows-pe-pyruntim-discovery-and-process-permissions.md", "summary": "Open when checking Windows PE PyRuntim discovery and process permissions.", "keywords": []},
+    {"topic": "Writing control information continuation", "file": "remote-debugging/writing-control-information-continuation.md", "summary": "Open when checking Writing control information continuation.", "keywords": []},
+    {"topic": "Writing control information", "file": "remote-debugging/writing-control-information.md", "summary": "Open when checking Writing control information.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

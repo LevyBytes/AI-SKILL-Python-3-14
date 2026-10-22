@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "rlcompleter: `rlcompleter.Completer`", "file": "rlcompleter/rlcompleter-completer-class.md", "summary": "Open when checking the documented contracts for `rlcompleter.Completer` in rlcompleter.", "keywords": []},
+  {"topic": "rlcompleter.Completer: `complete()`", "file": "rlcompleter/rlcompleter-completer-complete.md", "summary": "Open when checking the documented contracts for `complete()` in rlcompleter.Completer.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

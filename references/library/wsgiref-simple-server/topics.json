@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "wsgiref.simple_server: `wsgiref.simple_server.make_server()`, `wsgiref.simple_server.demo_app()`", "file": "wsgi-server-factory-and-demo-application.md", "summary": "Open when checking the documented contracts for `wsgiref.simple_server.make_server()`, `wsgiref.simple_server.demo_app()` in wsgiref.simple_server.", "keywords": []},
+  {"topic": "wsgiref.simple_server: `wsgiref.simple_server.WSGIServer`, `set_app()`, `get_app()`", "file": "wsgi-server-application-access.md", "summary": "Open when checking the documented contracts for `wsgiref.simple_server.WSGIServer`, `set_app()`, `get_app()` in wsgiref.simple_server.", "keywords": []},
+  {"topic": "wsgiref.simple_server: `wsgiref.simple_server.WSGIRequestHandler`, `get_environ()`, `get_stderr()`, `handle()`", "file": "wsgi-request-handler-contract.md", "summary": "Open when checking the documented contracts for `wsgiref.simple_server.WSGIRequestHandler`, `get_environ()`, `get_stderr()`, `handle()` in wsgiref.simple_server.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

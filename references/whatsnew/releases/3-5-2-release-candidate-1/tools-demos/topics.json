@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.2 release candidate 1 / tools demos / build and platforms", "file": "releases/3-5-2-release-candidate-1/tools-demos/build-and-platforms.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / tools demos / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / tools demos / compiler and parser", "file": "releases/3-5-2-release-candidate-1/tools-demos/compiler-and-parser.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / tools demos / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / tools demos / functions and types", "file": "releases/3-5-2-release-candidate-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / tools demos / python", "file": "releases/3-5-2-release-candidate-1/tools-demos/python.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / tools demos / python.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

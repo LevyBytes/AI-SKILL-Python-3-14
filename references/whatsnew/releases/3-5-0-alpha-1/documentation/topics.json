@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 1 / documentation / binary", "file": "releases/3-5-0-alpha-1/documentation/binary.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / binary.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / broadened what doc make bat script can do lines up", "file": "releases/3-5-0-alpha-1/documentation/broadened-what-doc-make-bat-script-can-do-lines-up.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / broadened what doc make bat script can do lines up.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / codecs", "file": "releases/3-5-0-alpha-1/documentation/codecs.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / codecs.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / distutils", "file": "releases/3-5-0-alpha-1/documentation/distutils.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / distutils.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / documented situations main spec ends up being none", "file": "releases/3-5-0-alpha-1/documentation/documented-situations-main-spec-ends-up-being-none.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / documented situations main spec ends up being none.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / dropped advice use particular ca organizations noted option loading", "file": "certificate-authority-guidance-and-os-trust-store.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / dropped advice use particular ca organizations noted option loading.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / python", "file": "releases/3-5-0-alpha-1/documentation/python.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / python.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / removed", "file": "releases/3-5-0-alpha-1/documentation/removed.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / removed.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / superseded", "file": "releases/3-5-0-alpha-1/documentation/superseded.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / superseded.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / tests and documentation", "file": "releases/3-5-0-alpha-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / documentation / threading", "file": "releases/3-5-0-alpha-1/documentation/threading.md", "summary": "Open when checking Python 3.5.0 alpha 1 / documentation / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Overview and scope / A Conceptual Overview of `asyncio`", "file": "a-conceptual-overview-of-asyncio/a-conceptual-overview-of-asyncio.md", "summary": "Open when checking A Conceptual Overview of `asyncio`.", "keywords": []},
+  {"topic": "A conceptual overview part 1: the high-level", "file": "a-conceptual-overview-of-asyncio/a-conceptual-overview-part-1-the-high-level.md", "summary": "Open when checking A conceptual overview part 1: the high-level.", "keywords": []},
+  {"topic": "A conceptual overview part 1: the high-level / Event Loop", "file": "a-conceptual-overview-of-asyncio/event-loop.md", "summary": "Open when checking Event Loop.", "keywords": []},
+  {"topic": "A conceptual overview part 1: the high-level / Asynchronous functions and coroutines", "file": "a-conceptual-overview-of-asyncio/asynchronous-functions-and-coroutines.md", "summary": "Open when checking Asynchronous functions and coroutines.", "keywords": []},
+  {"topic": "A conceptual overview part 1: the high-level / Tasks", "file": "a-conceptual-overview-of-asyncio/tasks.md", "summary": "Open when checking Tasks.", "keywords": []},
+  {"topic": "A conceptual overview part 1: the high-level / await", "file": "a-conceptual-overview-of-asyncio/await.md", "summary": "Open when checking await.", "keywords": []},
+  {"topic": "A conceptual overview part 2: the nuts and bolts", "file": "a-conceptual-overview-of-asyncio/a-conceptual-overview-part-2-the-nuts-and-bolts.md", "summary": "Open when checking A conceptual overview part 2: the nuts and bolts.", "keywords": []},
+  {"topic": "A conceptual overview part 2: the nuts and bolts / The inner workings of coroutines", "file": "a-conceptual-overview-of-asyncio/the-inner-workings-of-coroutines.md", "summary": "Open when checking The inner workings of coroutines.", "keywords": []},
+  {"topic": "A conceptual overview part 2: the nuts and bolts / Futures", "file": "a-conceptual-overview-of-asyncio/futures.md", "summary": "Open when checking Futures.", "keywords": []},
+  {"topic": "A conceptual overview part 2: the nuts and bolts / A homemade asyncio.sleep", "file": "a-conceptual-overview-of-asyncio/a-homemade-asyncio-sleep.md", "summary": "Open when checking A homemade asyncio.sleep.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

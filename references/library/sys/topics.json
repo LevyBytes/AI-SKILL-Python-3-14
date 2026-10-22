@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Overview", "file": "sys/overview/INDEX.md", "summary": "Open when checking sys overview contracts.", "keywords": []},
+  {"topic": "Startup and installation", "file": "sys/startup-and-installation/INDEX.md", "summary": "Open when checking sys startup and installation contracts.", "keywords": []},
+  {"topic": "Runtime and platform", "file": "sys/runtime-and-platform/INDEX.md", "summary": "Open when checking sys runtime and platform contracts.", "keywords": []},
+  {"topic": "Imports and bytecode", "file": "sys/imports-and-bytecode/INDEX.md", "summary": "Open when checking sys imports and bytecode contracts.", "keywords": []},
+  {"topic": "Interactive output", "file": "sys/interactive-output/INDEX.md", "summary": "Open when checking sys interactive output contracts.", "keywords": []},
+  {"topic": "Streams and encoding", "file": "sys/streams-and-encoding/INDEX.md", "summary": "Open when checking sys streams and encoding contracts.", "keywords": []},
+  {"topic": "Exceptions and shutdown", "file": "sys/exceptions-and-shutdown/INDEX.md", "summary": "Open when checking sys exceptions and shutdown contracts.", "keywords": []},
+  {"topic": "Numeric representation", "file": "sys/numeric-representation/INDEX.md", "summary": "Open when checking sys numeric representation contracts.", "keywords": []},
+  {"topic": "Objects and memory", "file": "sys/objects-and-memory/INDEX.md", "summary": "Open when checking sys objects and memory contracts.", "keywords": []},
+  {"topic": "Threads and execution", "file": "sys/threads-and-execution/INDEX.md", "summary": "Open when checking sys threads and execution contracts.", "keywords": []},
+  {"topic": "Auditing", "file": "sys/auditing/INDEX.md", "summary": "Open when checking sys auditing contracts.", "keywords": []},
+  {"topic": "Frames and tracing", "file": "sys/frames-and-tracing/INDEX.md", "summary": "Open when checking sys frames and tracing contracts.", "keywords": []},
+  {"topic": "Asynchronous hooks", "file": "sys/asynchronous-hooks/INDEX.md", "summary": "Open when checking sys asynchronous hooks contracts.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

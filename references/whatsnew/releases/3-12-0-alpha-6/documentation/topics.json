@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 6 / documentation / asyncio task", "file": "releases/3-12-0-alpha-6/documentation/asyncio-task.md", "summary": "Open when checking Python 3.12.0 alpha 6 / documentation / asyncio task.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / documentation / cmath", "file": "releases/3-12-0-alpha-6/documentation/cmath.md", "summary": "Open when checking Python 3.12.0 alpha 6 / documentation / cmath.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

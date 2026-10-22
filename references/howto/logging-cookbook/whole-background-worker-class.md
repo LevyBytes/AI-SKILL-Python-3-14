@@ -1,0 +1,5 @@
+# Whole background Worker class
+
+Open the [complete example modules](../../examples/qt-logging/INDEX.md) for the complete definitions, imports and entrypoint.
+
+[Subject index](INDEX.md) · [Coupled example phase](qt-logging-imports-signals-handler-and-thread-names.md) · [Coupled example phase](window-class-metadata-colors-and-complete-initializer.md) · [Coupled example phase](window-thread-lifecycle-and-gui-slot-methods.md) · [Coupled example phase](gui-application-and-logging-entry-point.md) · [Qt binding imports, signal bridge, log handler and thread-name helper](qt-logging-imports-signals-handler-and-thread-names.md) · [Window class metadata, colors and complete initializer](window-class-metadata-colors-and-complete-initializer.md) · [Window thread lifecycle and GUI slot methods](window-thread-lifecycle-and-gui-slot-methods.md) · [GUI application and logging entry point](gui-application-and-logging-entry-point.md) · [Previous source context](qt-logging-imports-signals-handler-and-thread-names.md) · [Following source context](window-class-metadata-colors-and-complete-initializer.md)

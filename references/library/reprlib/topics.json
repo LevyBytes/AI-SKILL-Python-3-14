@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "reprlib: `Repr.fillvalue`, `Repr.maxlevel`, `Repr.maxdict`, `Repr.maxlist`, `Repr.maxtuple`, `Repr.maxset`, `Repr.maxfrozenset`, `Repr.maxdeque`, `Repr.maxarray`, `Repr.maxlong`, `Repr.maxstring`, `Repr.maxother`", "file": "reprlib/repr-fillvalue-to-repr-maxother.md", "summary": "Open when checking the documented contracts for `Repr.fillvalue`, `Repr.maxlevel`, `Repr.maxdict`, `Repr.maxlist`, `Repr.maxtuple`, `Repr.maxset`, `Repr.maxfrozenset`, `Repr.maxdeque`, `Repr.maxarray`, `Repr.maxlong`, `Repr.maxstring`, `Repr.maxother` in reprlib.", "keywords": []},
+  {"topic": "reprlib: `Repr.indent`, `Repr.repr()`, `Repr.repr1()`, `Repr.repr_TYPE()`", "file": "reprlib/repr-indent-to-repr-repr-type.md", "summary": "Open when checking the documented contracts for `Repr.indent`, `Repr.repr()`, `Repr.repr1()`, `Repr.repr_TYPE()` in reprlib.", "keywords": []},
+  {"topic": "reprlib — `reprlib` — Alternate `repr()` implementation", "file": "reprlib/reprlib-repr-class-to-reprlib-repr.md", "summary": "Open when checking reprlib — `reprlib` — Alternate `repr()` implementation.", "keywords": []},
+  {"topic": "reprlib — Subclassing Repr Objects", "file": "reprlib/subclassing-repr-objects.md", "summary": "Open when checking reprlib — Subclassing Repr Objects.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

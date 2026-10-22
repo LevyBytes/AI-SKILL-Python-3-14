@@ -1,0 +1,9 @@
+{"schema_version": 1, "topics": [
+  {"topic": "thread local storage support C API: Thread-specific storage purpose and lifecycle", "file": "thread-local-storage-support/thread-specific-storage-api.md", "summary": "Open when checking thread-specific storage purpose and lifecycle in thread local storage support C API.", "keywords": []},
+  {"topic": "thread local storage support C API: `Py_tss_t`, `Py_tss_NEEDS_INIT`", "file": "thread-local-storage-support/py-tss-t-to-py-tss-needs-init.md", "summary": "Open when checking the documented contracts for `Py_tss_t`, `Py_tss_NEEDS_INIT` in thread local storage support C API.", "keywords": []},
+  {"topic": "Legacy APIs", "file": "thread-local-storage-support/pythread-create-key-to-pythread-reinittls.md", "summary": "Open when checking Legacy APIs.", "keywords": []},
+  {"topic": "Dynamic allocation", "file": "thread-local-storage-support/pythread-tss-alloc-to-pythread-tss-free.md", "summary": "Open when checking Dynamic allocation.", "keywords": []},
+  {"topic": "Methods", "file": "thread-local-storage-support/pythread-tss-is-created-to-pythread-tss-get.md", "summary": "Open when checking Methods.", "keywords": []},
+  {"topic": "Thread-local storage support", "file": "thread-local-storage-support/thread-local-storage-support.md", "summary": "Open when checking Thread-local storage support.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

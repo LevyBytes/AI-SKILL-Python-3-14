@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "16.1.1. Error Handling", "file": "appendix/error-handling.md", "summary": "Open when checking 16.1.1. Error Handling.", "keywords": []},
+    {"topic": "16.1.2. Executable Python Scripts", "file": "appendix/executable-python-scripts.md", "summary": "Open when checking 16.1.2. Executable Python Scripts.", "keywords": []},
+    {"topic": "16.1. Interactive Mode", "file": "appendix/interactive-mode.md", "summary": "Open when checking 16.1. Interactive Mode.", "keywords": []},
+    {"topic": "16.1.4. The Customization Modules", "file": "appendix/the-customization-modules.md", "summary": "Open when checking 16.1.4. The Customization Modules.", "keywords": []},
+    {"topic": "16.1.3. The Interactive Startup File", "file": "appendix/the-interactive-startup-file.md", "summary": "Open when checking 16.1.3. The Interactive Startup File.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

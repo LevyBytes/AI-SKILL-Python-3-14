@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Interpreter implementation options / -X arbitrary values and option history", "file": "command-line/x-arbitrary-values-and-option-history.md", "summary": "Open when checking -X arbitrary values and option history.", "keywords": []},
+  {"topic": "Interpreter implementation options / -X context_aware_warnings=*0,1*", "file": "command-line/x-context-aware-warnings-0-1.md", "summary": "Open when checking -X context_aware_warnings=*0,1*.", "keywords": []},
+  {"topic": "Interpreter implementation options / -X gil=*0,1*", "file": "command-line/x-gil-0-1.md", "summary": "Open when checking -X gil=*0,1*.", "keywords": []},
+  {"topic": "Interpreter implementation options / -X presite=*package.module*", "file": "command-line/x-presite-package-module.md", "summary": "Open when checking -X presite=*package.module*.", "keywords": []},
+  {"topic": "Interpreter implementation options / -X thread_inherit_context=*0,1*", "file": "command-line/x-thread-inherit-context-0-1.md", "summary": "Open when checking -X thread_inherit_context=*0,1*.", "keywords": []},
+  {"topic": "Interpreter implementation options / -X tlbc=*0,1*", "file": "command-line/x-tlbc-0-1.md", "summary": "Open when checking -X tlbc=*0,1*.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

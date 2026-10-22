@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 1 / documentation / asyncio", "file": "releases/3-7-0-alpha-1/documentation/asyncio.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / asyncio.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / compiler and parser", "file": "releases/3-7-0-alpha-1/documentation/compiler-and-parser.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / constants", "file": "releases/3-7-0-alpha-1/documentation/constants.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / constants.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / documented command line interface belonging zipfile", "file": "releases/3-7-0-alpha-1/documentation/documented-command-line-interface-belonging-zipfile.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / documented command line interface belonging zipfile.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / files and paths", "file": "releases/3-7-0-alpha-1/documentation/files-and-paths.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / functions and types", "file": "releases/3-7-0-alpha-1/documentation/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / inspect", "file": "releases/3-7-0-alpha-1/documentation/inspect.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / inspect.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / pydoc", "file": "releases/3-7-0-alpha-1/documentation/pydoc.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / pydoc.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / repaired incomplete code snippet within zeromqsocketlistener zeromqsockethandler examples ported", "file": "zeromq-logging-handler-example-completion.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / repaired incomplete code snippet within zeromqsocketlistener zeromqsockethandler examples ported.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / stdtypes", "file": "releases/3-7-0-alpha-1/documentation/stdtypes.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / stdtypes.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / tests and documentation", "file": "releases/3-7-0-alpha-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / documentation / text and unicode", "file": "releases/3-7-0-alpha-1/documentation/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 alpha 1 / documentation / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

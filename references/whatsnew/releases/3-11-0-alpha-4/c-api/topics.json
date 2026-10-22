@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 4 / c api / buffer", "file": "releases/3-11-0-alpha-4/c-api/buffer.md", "summary": "Open when checking Python 3.11.0 alpha 4 / c api / buffer.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / c api / capsule", "file": "releases/3-11-0-alpha-4/c-api/capsule.md", "summary": "Open when checking Python 3.11.0 alpha 4 / c api / capsule.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / c api / function", "file": "releases/3-11-0-alpha-4/c-api/function.md", "summary": "Open when checking Python 3.11.0 alpha 4 / c api / function.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / c api / functions and types", "file": "releases/3-11-0-alpha-4/c-api/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 4 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / c api / import", "file": "releases/3-11-0-alpha-4/c-api/import.md", "summary": "Open when checking Python 3.11.0 alpha 4 / c api / import.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

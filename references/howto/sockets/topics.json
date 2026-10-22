@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Sockets / Socket Programming HOWTO", "file": "sockets/socket-programming-howto.md", "summary": "Open when checking Socket Programming HOWTO.", "keywords": []},
+  {"topic": "Sockets", "file": "sockets/sockets.md", "summary": "Open when checking Sockets.", "keywords": []},
+  {"topic": "Sockets / History", "file": "sockets/history.md", "summary": "Open when checking History.", "keywords": []},
+  {"topic": "Creating a Socket", "file": "sockets/creating-a-socket.md", "summary": "Open when checking Creating a Socket.", "keywords": []},
+  {"topic": "Creating a Socket / IPC", "file": "sockets/ipc.md", "summary": "Open when checking IPC.", "keywords": []},
+  {"topic": "Using a Socket", "file": "sockets/using-a-socket.md", "summary": "Open when checking Using a Socket.", "keywords": []},
+  {"topic": "Using a Socket / Binary Data", "file": "sockets/binary-data.md", "summary": "Open when checking Binary Data.", "keywords": []},
+  {"topic": "Disconnecting", "file": "sockets/disconnecting.md", "summary": "Open when checking Disconnecting.", "keywords": []},
+  {"topic": "Disconnecting / When Sockets Die", "file": "sockets/when-sockets-die.md", "summary": "Open when checking When Sockets Die.", "keywords": []},
+  {"topic": "Non-blocking Sockets", "file": "sockets/non-blocking-sockets.md", "summary": "Open when checking Non-blocking Sockets.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

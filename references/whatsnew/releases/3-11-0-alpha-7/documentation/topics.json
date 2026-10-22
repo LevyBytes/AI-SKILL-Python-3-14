@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 7 / documentation / asyncio", "file": "releases/3-11-0-alpha-7/documentation/asyncio.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / asyncio.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / documentation / binascii", "file": "releases/3-11-0-alpha-7/documentation/binascii.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / binascii.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / documentation / exceptions and tracebacks", "file": "releases/3-11-0-alpha-7/documentation/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / documentation / exceptions", "file": "releases/3-11-0-alpha-7/documentation/exceptions.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / exceptions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / documentation / functions and types", "file": "releases/3-11-0-alpha-7/documentation/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / documentation / pep urls updated new canonical form mandated pep", "file": "releases/3-11-0-alpha-7/documentation/pep-urls-updated-new-canonical-form-mandated-pep.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / pep urls updated new canonical form mandated pep.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 7 / documentation / tests and documentation", "file": "releases/3-11-0-alpha-7/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 7 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

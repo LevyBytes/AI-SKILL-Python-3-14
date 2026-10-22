@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 1 / documentation / intro", "file": "releases/3-14-0-beta-1/documentation/intro.md", "summary": "Open when checking Python 3.14.0 beta 1 / documentation / intro.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / documentation / threading", "file": "releases/3-14-0-beta-1/documentation/threading.md", "summary": "Open when checking Python 3.14.0 beta 1 / documentation / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

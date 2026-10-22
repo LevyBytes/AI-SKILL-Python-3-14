@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 7 / documentation / http client", "file": "releases/3-12-0-alpha-7/documentation/http-client.md", "summary": "Open when checking Python 3.12.0 alpha 7 / documentation / http client.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

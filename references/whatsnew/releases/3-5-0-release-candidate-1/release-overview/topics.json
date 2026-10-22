@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 release candidate 1 / release overview / overview", "file": "releases/3-5-0-release-candidate-1/release-overview/overview.md", "summary": "Open when checking Python 3.5.0 release candidate 1 / release overview / overview.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

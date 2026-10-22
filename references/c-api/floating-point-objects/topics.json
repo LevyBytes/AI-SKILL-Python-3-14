@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Pack and Unpack functions", "file": "floating-point-objects/pack-and-unpack-functions.md", "summary": "Open when checking Pack and Unpack functions.", "keywords": []},
+  {"topic": "floating point objects C API: Floating-point construction, conversion and special values", "file": "floating-point-objects/pyfloatobject-to-py-nan.md", "summary": "Open when checking floating-point construction, conversion and special values in floating point objects C API.", "keywords": []},
+  {"topic": "floating point objects C API: `Py_HUGE_VAL`, `Py_MATH_E`, `Py_MATH_El`, `Py_MATH_PI`, `Py_MATH_PIl`, `Py_MATH_TAU`, `Py_RETURN_NAN`, `Py_RETURN_INF()`, `Py_IS_FINITE()`, `Py_IS_INFINITY()`, `Py_IS_NAN()`", "file": "floating-point-objects/py-huge-val-to-py-is-nan.md", "summary": "Open when checking the documented contracts for `Py_HUGE_VAL`, `Py_MATH_E`, `Py_MATH_El`, `Py_MATH_PI`, `Py_MATH_PIl`, `Py_MATH_TAU`, `Py_RETURN_NAN`, `Py_RETURN_INF()`, `Py_IS_FINITE()`, `Py_IS_INFINITY()`, `Py_IS_NAN()` in floating point objects C API.", "keywords": []},
+  {"topic": "Pack functions", "file": "floating-point-objects/pyfloat-pack2-to-pyfloat-pack8.md", "summary": "Open when checking Pack functions.", "keywords": []},
+  {"topic": "Unpack functions", "file": "floating-point-objects/pyfloat-unpack2-to-pyfloat-unpack8.md", "summary": "Open when checking Unpack functions.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

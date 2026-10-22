@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python Frequently Asked Questions", "file": "python-frequently-asked-questions/python-frequently-asked-questions.md", "summary": "Open when checking Python Frequently Asked Questions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "trace — Command-Line Usage", "file": "trace/command-line-usage.md", "summary": "Open when checking trace — Command-Line Usage.", "keywords": []},
+  {"topic": "trace — `trace` — Trace or track Python statement execution", "file": "trace/coverage-py.md", "summary": "Open when checking trace — `trace` — Trace or track Python statement execution.", "keywords": []},
+  {"topic": "trace — Filters", "file": "trace/filters.md", "summary": "Open when checking trace — Filters.", "keywords": []},
+  {"topic": "trace — Main options", "file": "trace/main-options.md", "summary": "Open when checking trace — Main options.", "keywords": []},
+  {"topic": "trace — Modifiers", "file": "trace/modifiers.md", "summary": "Open when checking trace — Modifiers.", "keywords": []},
+  {"topic": "trace: `trace.Trace`", "file": "trace/trace-trace-class.md", "summary": "Open when checking the documented contracts for `trace.Trace` in trace.", "keywords": []},
+  {"topic": "trace.Trace: `run()`, `runctx()`, `runfunc()`, `results()`", "file": "trace/trace-trace-run-to-trace-trace-results.md", "summary": "Open when checking the documented contracts for `run()`, `runctx()`, `runfunc()`, `results()` in trace.Trace.", "keywords": []},
+  {"topic": "trace / Programmatic Interface: `trace.CoverageResults`, `update()`, `write_results()`", "file": "trace-coverage-results-and-reporting.md", "summary": "Open when checking the documented contracts for `trace.CoverageResults`, `update()`, `write_results()` in trace / Programmatic Interface.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 1 / build / apply bolt post link optimizer lift performance especially across medium to large", "file": "bolt-post-link-optimization.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / apply bolt post link optimizer lift performance especially across medium to large.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / build and platforms", "file": "releases/3-12-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / compiler and parser", "file": "releases/3-12-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / concurrent futures", "file": "releases/3-12-0-alpha-1/build/concurrent-futures.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / debug", "file": "releases/3-12-0-alpha-1/build/debug.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / debug.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / disable pymalloc increase stack size wasm32 wasi", "file": "releases/3-12-0-alpha-1/build/disable-pymalloc-increase-stack-size-wasm32-wasi.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / disable pymalloc increase stack size wasm32 wasi.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / distutils", "file": "releases/3-12-0-alpha-1/build/distutils.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / distutils.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / errno", "file": "releases/3-12-0-alpha-1/build/errno.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / errno.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / fix building ctypes extension without pkg config", "file": "releases/3-12-0-alpha-1/build/fix-building-ctypes-extension-without-pkg-config.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / fix building ctypes extension without pkg config.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / functions and types", "file": "releases/3-12-0-alpha-1/build/functions-and-types.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / imports and modules", "file": "releases/3-12-0-alpha-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / memory", "file": "releases/3-12-0-alpha-1/build/memory.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / memory.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / platform", "file": "releases/3-12-0-alpha-1/build/platform.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / platform.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / pydoc", "file": "releases/3-12-0-alpha-1/build/pydoc.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / pydoc.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / readline", "file": "releases/3-12-0-alpha-1/build/readline.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / readline.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / removed", "file": "releases/3-12-0-alpha-1/build/removed.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / removed.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / resource", "file": "releases/3-12-0-alpha-1/build/resource.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / resource.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / socket", "file": "releases/3-12-0-alpha-1/build/socket.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / socket.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / build / wasm32 wasi builds no longer lean wasix s pthread stubs", "file": "releases/3-12-0-alpha-1/build/wasm32-wasi-builds-no-longer-lean-wasix-s-pthread-stubs.md", "summary": "Open when checking Python 3.12.0 alpha 1 / build / wasm32 wasi builds no longer lean wasix s pthread stubs.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

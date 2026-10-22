@@ -1,0 +1,9 @@
+# typing: `typing.KeysView`
+
+*class *typing.KeysView(*MappingView, AbstractSet[KT_co]*)
+
+Deprecated alias to [`collections.abc.KeysView`](https://docs.python.org/3.14/library/collections.abc.html#collections.abc.KeysView).
+
+Deprecated since version 3.9: [`collections.abc.KeysView`](https://docs.python.org/3.14/library/collections.abc.html#collections.abc.KeysView) now supports subscripting (`[]`). See [**PEP 585**](https://peps.python.org/pep-0585/) and [Generic Alias Type](https://docs.python.org/3.14/library/stdtypes.html#types-genericalias).
+
+[Subject index](INDEX.md) · [Previous](typing-itemsview-class.md) · [Continue](typing-mapping-class.md) · [Owning module, declaration or section: typing](typing-support-for-type-hints.md) · [Owning module, declaration or section: Aliases to container ABCs in `collections.abc`](typing-abstractset-class.md)

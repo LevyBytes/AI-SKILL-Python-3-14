@@ -1,0 +1,59 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.13.0 alpha 4 / library / functions. [Built-in objects and typing / Python 3.13.0 alpha 4 / library / functions](functions.md).
+- Open when checking Python 3.13.0 alpha 4 / library / array. [Data Types / Python 3.13.0 alpha 4 / library / array](array.md).
+- Open when checking Python 3.13.0 alpha 4 / library / zoneinfo. [Data Types / Python 3.13.0 alpha 4 / library / zoneinfo](zoneinfo.md).
+- Open when checking Python 3.13.0 alpha 4 / library / fractions. [Numeric and Mathematical Modules / Python 3.13.0 alpha 4 / library / fractions](fractions.md).
+- Open when checking Python 3.13.0 alpha 4 / library / decimal. [Numeric and Mathematical Modules / Python 3.13.0 alpha 4 / library / decimal](decimal.md).
+- Open when checking Python 3.13.0 alpha 4 / library / glob. [File and Directory Access / Python 3.13.0 alpha 4 / library / glob](glob.md).
+- Open when checking Python 3.13.0 alpha 4 / library / os path. [File and Directory Access / Python 3.13.0 alpha 4 / library / os path](os-path.md).
+- Open when checking Python 3.13.0 alpha 4 / library / sqlite3. [Data Persistence / Python 3.13.0 alpha 4 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.13.0 alpha 4 / library / fix null pointer dereference within lzma decode filter properties caused mishandling bcj. [Data Compression and Archiving / Python 3.13.0 alpha 4 / library / fix null pointer dereference within lzma decode filter properties caused mishandling bcj](lzma-bcj-filter-null-dereference.md).
+- Open when checking Python 3.13.0 alpha 4 / library / io bufferedrandom read1 drains underlying write buffer. [Generic Operating System Services / Python 3.13.0 alpha 4 / library / io bufferedrandom read1 drains underlying write buffer](io-bufferedrandom-read1-drains-underlying-write-buffer.md).
+- Open when checking Python 3.13.0 alpha 4 / library / threads and concurrency. [Concurrent Execution / Python 3.13.0 alpha 4 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.13.0 alpha 4 / library / queue. [Concurrent Execution / Python 3.13.0 alpha 4 / library / queue](queue.md).
+- Open when checking Python 3.13.0 alpha 4 / library / ssl. [Networking and Interprocess Communication / Python 3.13.0 alpha 4 / library / ssl](ssl.md).
+- Open when checking Python 3.13.0 alpha 4 / library / asyncio sync. [Networking and Interprocess Communication / Python 3.13.0 alpha 4 / library / asyncio sync](asyncio-sync.md).
+- Open when checking Python 3.13.0 alpha 4 / library / memory and lifetimes. [Networking and Interprocess Communication / Python 3.13.0 alpha 4 / library / memory and lifetimes](memory-and-lifetimes.md).
+- Open when checking Python 3.13.0 alpha 4 / library / email policy. [Internet Data Handling / Python 3.13.0 alpha 4 / library / email policy](email-policy.md).
+- Open when checking Python 3.13.0 alpha 4 / library / mailbox. [Internet Data Handling / Python 3.13.0 alpha 4 / library / mailbox](mailbox.md).
+- Open when checking Python 3.13.0 alpha 4 / library / mimetypes. [Internet Data Handling / Python 3.13.0 alpha 4 / library / mimetypes](mimetypes.md).
+- Open when checking Python 3.13.0 alpha 4 / library / display tcl tk patchlevel instead version within tkinter test. [Graphical user interfaces with Tk / Python 3.13.0 alpha 4 / library / display tcl tk patchlevel instead version within tkinter test](display-tcl-tk-patchlevel-instead-version-within-tkinter-test.md).
+- Open when checking Python 3.13.0 alpha 4 / library / removed. [Graphical user interfaces with Tk / Python 3.13.0 alpha 4 / library / removed](removed.md).
+- Open when checking Python 3.13.0 alpha 4 / library / tkinter. [Graphical user interfaces with Tk / Python 3.13.0 alpha 4 / library / tkinter](tkinter.md).
+- Open when checking Python 3.13.0 alpha 4 / library / doctest. [Development Tools / Python 3.13.0 alpha 4 / library / doctest](doctest.md).
+- Open when checking Python 3.13.0 alpha 4 / library / typing. [Development Tools / Python 3.13.0 alpha 4 / library / typing](typing.md).
+- Open when checking Python 3.13.0 alpha 4 / library / pydoc. [Development Tools / Python 3.13.0 alpha 4 / library / pydoc](pydoc.md).
+- Open when checking Python 3.13.0 alpha 4 / library / trace. [Debugging and Profiling / Python 3.13.0 alpha 4 / library / trace](trace.md).
+- Open when checking Python 3.13.0 alpha 4 / library / boost dataclasses asdict much x. [Python Runtime Services / Python 3.13.0 alpha 4 / library / boost dataclasses asdict much x](boost-dataclasses-asdict-much-x.md).
+- Open when checking Python 3.13.0 alpha 4 / library / dataclasses. [Python Runtime Services / Python 3.13.0 alpha 4 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.13.0 alpha 4 / library / inspect. [Python Runtime Services / Python 3.13.0 alpha 4 / library / inspect](inspect.md).
+- Open when checking Python 3.13.0 alpha 4 / library / importlib metadata. [Importing Modules / Python 3.13.0 alpha 4 / library / importlib metadata](importlib-metadata.md).
+- Open when checking Python 3.13.0 alpha 4 / library / fcntl. [Unix-specific services / Python 3.13.0 alpha 4 / library / fcntl](fcntl.md).
+- Open when checking Python 3.13.0 alpha 4 / library / tty. [Unix-specific services / Python 3.13.0 alpha 4 / library / tty](tty.md).
+- Open when checking Python 3.13.0 alpha 4 / library / functions and types. [Combined library maintenance / Python 3.13.0 alpha 4 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.13.0 alpha 4 / library / xml etree elementtree. [Combined library maintenance / Python 3.13.0 alpha 4 / library / xml etree elementtree](xml-etree-elementtree.md).
+- Open when checking Python 3.13.0 alpha 4 / library / datetime. [Combined library maintenance / Python 3.13.0 alpha 4 / library / datetime](datetime.md).
+- Open when checking Python 3.13.0 alpha 4 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.13.0 alpha 4 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.13.0 alpha 4 / library / tarfile. [Combined library maintenance / Python 3.13.0 alpha 4 / library / tarfile](tarfile.md).
+- Open when checking Python 3.13.0 alpha 4 / library / argparse. [Combined library maintenance / Python 3.13.0 alpha 4 / library / argparse](argparse.md).
+- Open when checking Python 3.13.0 alpha 4 / library / collections and iteration. [Combined library maintenance / Python 3.13.0 alpha 4 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.13.0 alpha 4 / library / ctypes. [Combined library maintenance / Python 3.13.0 alpha 4 / library / ctypes](ctypes.md).
+- Open when checking Python 3.13.0 alpha 4 / library / dbm. [Combined library maintenance / Python 3.13.0 alpha 4 / library / dbm](dbm.md).
+- Open when checking Python 3.13.0 alpha 4 / library / exceptions. [Combined library maintenance / Python 3.13.0 alpha 4 / library / exceptions](exceptions.md).
+- Open when checking Python 3.13.0 alpha 4 / library / pathlib. [Combined library maintenance / Python 3.13.0 alpha 4 / library / pathlib](pathlib.md).
+- Open when checking Python 3.13.0 alpha 4 / library / termios. [Combined library maintenance / Python 3.13.0 alpha 4 / library / termios](termios.md).
+- Open when checking Python 3.13.0 alpha 4 / library / threading. [Combined library maintenance / Python 3.13.0 alpha 4 / library / threading](threading.md).
+- Open when checking Python 3.13.0 alpha 4 / library / csv. [Combined library maintenance / Python 3.13.0 alpha 4 / library / csv](csv.md).
+- Open when checking Python 3.13.0 alpha 4 / library / pdb. [Combined library maintenance / Python 3.13.0 alpha 4 / library / pdb](pdb.md).
+- Open when checking Python 3.13.0 alpha 4 / library / os. [Combined library maintenance / Python 3.13.0 alpha 4 / library / os](os.md).
+- Open when checking Python 3.13.0 alpha 4 / library / enum. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / enum](enum.md).
+- Open when checking Python 3.13.0 alpha 4 / library / overview. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / overview](overview.md).
+- Open when checking Python 3.13.0 alpha 4 / library / platform. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / platform](platform.md).
+- Open when checking Python 3.13.0 alpha 4 / library / refresh bundled pip. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / refresh bundled pip](refresh-bundled-pip.md).
+- Open when checking Python 3.13.0 alpha 4 / library / asyncio. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / asyncio](asyncio.md).
+- Open when checking Python 3.13.0 alpha 4 / library / files and paths. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.13.0 alpha 4 / library / imports and modules. [Library compatibility and maintenance / Python 3.13.0 alpha 4 / library / imports and modules](imports-and-modules.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

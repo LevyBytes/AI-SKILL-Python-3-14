@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 1 / windows / build and platforms", "file": "releases/3-7-0-beta-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 beta 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 1 / windows / imports and modules", "file": "releases/3-7-0-beta-1/windows/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 beta 1 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 1 / windows / show distinct modify uninstall buttons", "file": "releases/3-7-0-beta-1/windows/show-distinct-modify-uninstall-buttons.md", "summary": "Open when checking Python 3.7.0 beta 1 / windows / show distinct modify uninstall buttons.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

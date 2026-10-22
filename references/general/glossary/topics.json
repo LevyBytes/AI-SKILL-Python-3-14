@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "references/general", "topics": [
+  {"topic": "Runtime and execution", "file": "glossary/runtime-and-execution.md", "summary": "Open when checking definitions for runtime and execution.", "keywords": []},
+  {"topic": "Syntax and expressions", "file": "glossary/syntax-and-expressions.md", "summary": "Open when checking definitions for syntax and expressions.", "keywords": []},
+  {"topic": "Objects and values", "file": "glossary/objects-and-values.md", "summary": "Open when checking definitions for objects and values.", "keywords": []},
+  {"topic": "Containers and indexing", "file": "glossary/containers-and-indexing.md", "summary": "Open when checking definitions for containers and indexing.", "keywords": []},
+  {"topic": "Iteration and comprehensions", "file": "glossary/iteration-and-comprehensions.md", "summary": "Open when checking definitions for iteration and comprehensions.", "keywords": []},
+  {"topic": "Functions and dispatch", "file": "glossary/functions-and-dispatch.md", "summary": "Open when checking definitions for functions and dispatch.", "keywords": []},
+  {"topic": "Arguments and parameters", "file": "glossary/arguments-and-parameters.md", "summary": "Open when checking definitions for arguments and parameters.", "keywords": []},
+  {"topic": "Classes and protocols", "file": "glossary/classes-and-protocols.md", "summary": "Open when checking definitions for classes and protocols.", "keywords": []},
+  {"topic": "Names and scopes", "file": "glossary/names-and-scopes.md", "summary": "Open when checking definitions for names and scopes.", "keywords": []},
+  {"topic": "Annotation evaluation", "file": "glossary/annotation-evaluation.md", "summary": "Open when checking definitions for annotation evaluation.", "keywords": []},
+  {"topic": "Type hints and aliases", "file": "glossary/type-hints-and-aliases.md", "summary": "Open when checking definitions for type hints and aliases.", "keywords": []},
+  {"topic": "Context management", "file": "glossary/context-management.md", "summary": "Open when checking definitions for context management.", "keywords": []},
+  {"topic": "Asynchronous execution", "file": "glossary/asynchronous-execution.md", "summary": "Open when checking definitions for asynchronous execution.", "keywords": []},
+  {"topic": "Concurrency and synchronization", "file": "glossary/concurrency-and-synchronization.md", "summary": "Open when checking definitions for concurrency and synchronization.", "keywords": []},
+  {"topic": "Threads and interpreter lock", "file": "glossary/threads-and-interpreter-lock.md", "summary": "Open when checking definitions for threads and interpreter lock.", "keywords": []},
+  {"topic": "Memory and references", "file": "glossary/memory-and-references.md", "summary": "Open when checking definitions for memory and references.", "keywords": []},
+  {"topic": "Modules and packages", "file": "glossary/modules-and-packages.md", "summary": "Open when checking definitions for modules and packages.", "keywords": []},
+  {"topic": "Import discovery", "file": "glossary/import-discovery.md", "summary": "Open when checking definitions for import discovery.", "keywords": []},
+  {"topic": "Files and encoding", "file": "glossary/files-and-encoding.md", "summary": "Open when checking definitions for files and encoding.", "keywords": []},
+  {"topic": "Project and compatibility", "file": "glossary/project-and-compatibility.md", "summary": "Open when checking definitions for project and compatibility.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

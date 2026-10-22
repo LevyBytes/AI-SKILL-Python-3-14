@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 4 / security / bump bundled libexpat", "file": "releases/3-13-0-alpha-4/security/bump-bundled-libexpat.md", "summary": "Open when checking Python 3.13.0 alpha 4 / security / bump bundled libexpat.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / security / collections", "file": "releases/3-13-0-alpha-4/security/collections.md", "summary": "Open when checking Python 3.13.0 alpha 4 / security / collections.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

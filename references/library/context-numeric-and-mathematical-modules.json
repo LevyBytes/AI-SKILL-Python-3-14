@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Numeric and Mathematical Modules / numeric", "file": "numeric/INDEX.md", "summary": "Open when checking numeric.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / numbers", "file": "numbers/INDEX.md", "summary": "Open when checking numbers.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / math", "file": "math/INDEX.md", "summary": "Open when checking math.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / cmath", "file": "cmath/INDEX.md", "summary": "Open when checking cmath.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / decimal", "file": "decimal/INDEX.md", "summary": "Open when checking decimal.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / fractions", "file": "fractions/INDEX.md", "summary": "Open when checking fractions.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / random", "file": "random/INDEX.md", "summary": "Open when checking random.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / statistics", "file": "statistics/INDEX.md", "summary": "Open when checking statistics.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "resource — `resource` — Resource usage information", "file": "resource/resource-error.md", "summary": "Open when checking resource — `resource` — Resource usage information.", "keywords": []},
+  {"topic": "resource — Resource Usage", "file": "resource/resource-getrusage-to-resource-rusage-thread.md", "summary": "Open when checking resource — Resource Usage.", "keywords": []},
+  {"topic": "resource: CPU, file, memory and process resource limits", "file": "resource/resource-rlim-infinity-to-resource-rlimit-memlock.md", "summary": "Open when checking CPU, file, memory and process resource limits in resource.", "keywords": []},
+  {"topic": "resource: Address-space, queue, priority and platform resource limits", "file": "resource/resource-rlimit-vmem-to-resource-rlimit-kqueues.md", "summary": "Open when checking address-space, queue, priority and platform resource limits in resource.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

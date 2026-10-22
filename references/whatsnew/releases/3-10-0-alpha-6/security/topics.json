@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 6 / security / close web cache poisoning hole making query args separator", "file": "releases/3-10-0-alpha-6/security/close-web-cache-poisoning-hole-making-query-args-separator.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / close web cache poisoning hole making query args separator.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / security / compiler and parser", "file": "releases/3-10-0-alpha-6/security/compiler-and-parser.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / security / exceptions", "file": "releases/3-10-0-alpha-6/security/exceptions.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / exceptions.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / security / functions and types", "file": "releases/3-10-0-alpha-6/security/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / security / repair systemerror thrown pyarg parse called yet without py ssize t clean defined", "file": "argument-parsing-without-size-clean-macro.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / repair systemerror thrown pyarg parse called yet without py ssize t clean defined.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / security / set", "file": "releases/3-10-0-alpha-6/security/set.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / set.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / security / types", "file": "releases/3-10-0-alpha-6/security/types.md", "summary": "Open when checking Python 3.10.0 alpha 6 / security / types.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

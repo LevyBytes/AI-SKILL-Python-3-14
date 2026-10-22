@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / ctypes", "file": "releases/3-7-0-beta-5/core-and-builtins/ctypes.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / ctypes.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / functions and types", "file": "releases/3-7-0-beta-5/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / gc", "file": "releases/3-7-0-beta-5/core-and-builtins/gc.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / gc.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / memory and lifetimes", "file": "releases/3-7-0-beta-5/core-and-builtins/memory-and-lifetimes.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / removed", "file": "releases/3-7-0-beta-5/core-and-builtins/removed.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / removed.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / repair unaligned accesses occurring siphash24", "file": "releases/3-7-0-beta-5/core-and-builtins/repair-unaligned-accesses-occurring-siphash24.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / repair unaligned accesses occurring siphash24.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 5 / core and builtins / text and unicode", "file": "releases/3-7-0-beta-5/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 beta 5 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

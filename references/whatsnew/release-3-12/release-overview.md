@@ -1,0 +1,28 @@
+# Upstream feature guide navigation for Python 3.12
+
+- [What’s New In Python 3.12](https://docs.python.org/3.14/whatsnew/3.12.html)
+  - [Summary – Release highlights](https://docs.python.org/3.14/whatsnew/3.12.html#summary-release-highlights)
+  - [New Features](https://docs.python.org/3.14/whatsnew/3.12.html#new-features)
+  - [New Features Related to Type Hints](https://docs.python.org/3.14/whatsnew/3.12.html#new-features-related-to-type-hints)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/3.12.html#other-language-changes)
+  - [New Modules](https://docs.python.org/3.14/whatsnew/3.12.html#new-modules)
+  - [Improved Modules](https://docs.python.org/3.14/whatsnew/3.12.html#improved-modules)
+  - [Optimizations](https://docs.python.org/3.14/whatsnew/3.12.html#optimizations)
+  - [CPython bytecode changes](https://docs.python.org/3.14/whatsnew/3.12.html#cpython-bytecode-changes)
+  - [Demos and Tools](https://docs.python.org/3.14/whatsnew/3.12.html#demos-and-tools)
+  - [Deprecated](https://docs.python.org/3.14/whatsnew/3.12.html#deprecated)
+  - [Removed](https://docs.python.org/3.14/whatsnew/3.12.html#removed)
+  - [Porting to Python 3.12](https://docs.python.org/3.14/whatsnew/3.12.html#porting-to-python-3-12)
+  - [Build Changes](https://docs.python.org/3.14/whatsnew/3.12.html#build-changes)
+  - [C API Changes](https://docs.python.org/3.14/whatsnew/3.12.html#c-api-changes)
+
+- [Python 3.12.0 beta 1](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-beta-1)
+  - [Python 3.12.0 alpha 7](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-7)
+  - [Python 3.12.0 alpha 6](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-6)
+  - [Python 3.12.0 alpha 5](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-5)
+  - [Python 3.12.0 alpha 4](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-4)
+  - [Python 3.12.0 alpha 3](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-3)
+  - [Python 3.12.0 alpha 2](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-2)
+  - [Python 3.12.0 alpha 1](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-12-0-alpha-1)
+
+[Subject index](INDEX.md) · [Previous source section](../release-3-13/release-overview.md) · [Next source section](../release-3-11/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md) · [Preceding release/subject continuation](../release-2-0/release-overview.md)

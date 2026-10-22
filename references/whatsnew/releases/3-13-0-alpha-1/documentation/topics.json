@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 1 / documentation / argparse", "file": "releases/3-13-0-alpha-1/documentation/argparse.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / argparse.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / build and platforms", "file": "releases/3-13-0-alpha-1/documentation/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / curses", "file": "releases/3-13-0-alpha-1/documentation/curses.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / curses.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / dis", "file": "releases/3-13-0-alpha-1/documentation/dis.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / dis.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / folded batch standard external names into nitpick ignore", "file": "releases/3-13-0-alpha-1/documentation/folded-batch-standard-external-names-into-nitpick-ignore.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / folded batch standard external names into nitpick ignore.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / functions", "file": "releases/3-13-0-alpha-1/documentation/functions.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / functions.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / functools", "file": "releases/3-13-0-alpha-1/documentation/functools.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / functools.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / subinterpreters", "file": "releases/3-13-0-alpha-1/documentation/subinterpreters.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / subinterpreters.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / tests and documentation", "file": "releases/3-13-0-alpha-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / timeit", "file": "releases/3-13-0-alpha-1/documentation/timeit.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / timeit.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / traceback", "file": "releases/3-13-0-alpha-1/documentation/traceback.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / traceback.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / documentation / typing", "file": "releases/3-13-0-alpha-1/documentation/typing.md", "summary": "Open when checking Python 3.13.0 alpha 1 / documentation / typing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

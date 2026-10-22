@@ -1,0 +1,36 @@
+# Standard library subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking the documented contracts for `inspect.BufferFlags` in inspect. [inspect: `inspect.BufferFlags`](inspect-bufferflags-class.md).
+- Open when checking buffer protocol request flags in inspect. [inspect: Buffer protocol request flags](buffer-flags.md).
+- Open when checking inspect — Command-line interface: [inspect — Command-line interface](command-line-interface.md).
+- Open when checking the documented contracts for `inspect.signature()` in inspect. [inspect: `inspect.signature()`](inspect-signature.md).
+- Open when checking signature annotation resolution and callable limitations in inspect. [inspect: Signature annotation resolution and callable limitations](introspecting-callables-with-the-signature-object.md).
+- Open when checking the documented contracts for `inspect.Signature`, `bind()`, `bind_partial()`, `replace()`, `format()`, `from_callable()` in inspect / Introspecting callables with the Signature object. [inspect / Introspecting callables with the Signature object: `inspect.Signature`, `bind()`, `bind_partial()`, `replace()`, `format()`, `from_callable()`](inspect-signature-class-to-inspect-signature-format.md).
+- Open when checking the documented contracts for `inspect.Parameter`, `kind.description` in inspect. [inspect: `inspect.Parameter`, `kind.description`](inspect-parameter-class-to-kind-description.md).
+- Open when checking the documented contracts for `replace()` in inspect.Parameter. [inspect.Parameter: `replace()`](inspect-parameter-replace.md).
+- Open when checking the documented contracts for `inspect.BoundArguments`, `apply_defaults()` in inspect / Introspecting callables with the Signature object. [inspect / Introspecting callables with the Signature object: `inspect.BoundArguments`, `apply_defaults()`](bound-signature-arguments-and-defaults.md).
+- Open when checking inspect — Code Objects Bit Flags: [inspect — Code Objects Bit Flags](inspect-co-optimized-to-inspect-co-method.md).
+- Open when checking the documented contracts for `inspect.FrameInfo` in inspect. [inspect: `inspect.FrameInfo`](inspect-frameinfo-class.md).
+- Open when checking the documented contracts for `inspect.getinnerframes()`, `inspect.currentframe()`, `inspect.stack()`, `inspect.trace()` in inspect. [inspect: `inspect.getinnerframes()`, `inspect.currentframe()`, `inspect.stack()`, `inspect.trace()`](inspect-getinnerframes-to-inspect-trace.md).
+- Open when checking stack-frame filename, context and position fields in inspect. [inspect: Stack-frame filename, context and position fields](the-interpreter-stack.md).
+- Open when checking the documented contracts for `inspect.Traceback` in inspect. [inspect: `inspect.Traceback`](inspect-traceback-class.md).
+- Open when checking the documented contracts for `inspect.getframeinfo()`, `inspect.getouterframes()` in inspect. [inspect: `inspect.getframeinfo()`, `inspect.getouterframes()`](inspect-getframeinfo-to-inspect-getouterframes.md).
+- Open when checking the documented contracts for `inspect.getclasstree()`, `inspect.getfullargspec()`, `FullArgSpec()`, `inspect.getargvalues()`, `inspect.formatargvalues()`, `inspect.getmro()`, `inspect.getcallargs()`, `inspect.getclosurevars()`, `inspect.unwrap()` in inspect / Classes and functions. [inspect / Classes and functions: `inspect.getclasstree()`, `inspect.getfullargspec()`, `FullArgSpec()`, `inspect.getargvalues()`, `inspect.formatargvalues()`, `inspect.getmro()`, `inspect.getcallargs()`, `inspect.getclosurevars()`, `inspect.unwrap()`](inspect-getclasstree-to-inspect-unwrap.md).
+- Open when checking the documented contracts for `inspect.get_annotations()` in inspect. [inspect: `inspect.get_annotations()`](inspect-get-annotations.md).
+- Open when checking inspect — Fetching attributes statically: [inspect — Fetching attributes statically](inspect-getattr-static.md).
+- Open when checking inspect — Retrieving source code: [inspect — Retrieving source code](inspect-getdoc-to-inspect-cleandoc.md).
+- Open when checking the documented contracts for `inspect.getgeneratorstate()`, `inspect.getcoroutinestate()`, `inspect.getasyncgenstate()` in inspect. [inspect: `inspect.getgeneratorstate()`, `inspect.getcoroutinestate()`, `inspect.getasyncgenstate()`](inspect-getgeneratorstate-to-inspect-getasyncgenstate.md).
+- Open when checking the documented contracts for `inspect.getgeneratorlocals()`, `inspect.getcoroutinelocals()`, `inspect.getasyncgenlocals()` in inspect. [inspect: `inspect.getgeneratorlocals()`, `inspect.getcoroutinelocals()`, `inspect.getasyncgenlocals()`](inspect-getgeneratorlocals-to-inspect-getasyncgenlocals.md).
+- Open when checking the documented contracts for `inspect.getmembers()`, `inspect.getmembers_static()`, `inspect.getmodulename()`, `inspect.ismodule()`, `inspect.isclass()`, `inspect.ismethod()` in inspect. [inspect: `inspect.getmembers()`, `inspect.getmembers_static()`, `inspect.getmodulename()`, `inspect.ismodule()`, `inspect.isclass()`, `inspect.ismethod()`](inspect-getmembers-to-inspect-ismethod.md).
+- Open when checking the documented contracts for `inspect.isfunction()`, `inspect.ispackage()`, `inspect.isgeneratorfunction()`, `inspect.isgenerator()`, `inspect.iscoroutinefunction()`, `inspect.markcoroutinefunction()`, `inspect.iscoroutine()`, `inspect.isawaitable()` in inspect. [inspect: `inspect.isfunction()`, `inspect.ispackage()`, `inspect.isgeneratorfunction()`, `inspect.isgenerator()`, `inspect.iscoroutinefunction()`, `inspect.markcoroutinefunction()`, `inspect.iscoroutine()`, `inspect.isawaitable()`](inspect-isfunction-to-inspect-isawaitable.md).
+- Open when checking async generators, frames, routines and descriptor predicates in inspect. [inspect: Async generators, frames, routines and descriptor predicates](inspect-isasyncgenfunction-to-inspect-isgetsetdescriptor.md).
+- Open when checking the documented contracts for `inspect.ismemberdescriptor()` in inspect. [inspect: `inspect.ismemberdescriptor()`](inspect-ismemberdescriptor.md).
+- Open when checking inspect — inspect.getouterframes: [inspect — inspect.getouterframes](inspect-getouterframes.md).
+- Open when checking inspect — `inspect` — Inspect live objects: [inspect — `inspect` — Inspect live objects](inspect-inspect-live-objects.md).
+- Open when checking inspect — Types and members — Complete Type , Attribute , Description table: [inspect — Types and members — Complete Type , Attribute , Description table](types-and-members-complete-type-attribute-description-table.md).
+- Open when checking inspect — Types and members — Contract: Changed in version 3.5: Add `__qualname__` and `gi_yieldfrom` attributes to generators.: [inspect — Types and members — Contract: Changed in version 3.5: Add `__qualname__` and `gi_yieldfrom` attributes to generators.](generator-qualified-name-and-yieldfrom-inspection.md).
+- Open when checking inspect — Types and members — Section introduction and initial examples: [inspect — Types and members — Section introduction and initial examples](types-and-members-section-introduction-and-initial-examples.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

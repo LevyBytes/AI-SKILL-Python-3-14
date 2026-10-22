@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 final / tools demos / build and platforms", "file": "releases/3-14-0-final/tools-demos/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 final / tools demos / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 final / tools demos / imports and modules", "file": "releases/3-14-0-final/tools-demos/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 final / tools demos / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 final / tools demos / meet apple app store submission rules xcframeworks ship privacy", "file": "apple-xcframework-privacy-manifests.md", "summary": "Open when checking Python 3.14.0 final / tools demos / meet apple app store submission rules xcframeworks ship privacy.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

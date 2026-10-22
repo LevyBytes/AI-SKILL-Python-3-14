@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "release 2 0", "file": "release-2-0/INDEX.md", "summary": "Open when checking release 2 0.", "keywords": []},
+    {"topic": "release 2 1", "file": "release-2-1/INDEX.md", "summary": "Open when checking release 2 1.", "keywords": []},
+    {"topic": "release 2 2", "file": "release-2-2/INDEX.md", "summary": "Open when checking release 2 2.", "keywords": []},
+    {"topic": "release 2 3", "file": "release-2-3/INDEX.md", "summary": "Open when checking release 2 3.", "keywords": []},
+    {"topic": "release 2 4", "file": "release-2-4/INDEX.md", "summary": "Open when checking release 2 4.", "keywords": []},
+    {"topic": "release 2 5", "file": "release-2-5/INDEX.md", "summary": "Open when checking release 2 5.", "keywords": []},
+    {"topic": "release 2 6", "file": "release-2-6/INDEX.md", "summary": "Open when checking release 2 6.", "keywords": []},
+    {"topic": "release 2 7", "file": "release-2-7/INDEX.md", "summary": "Open when checking release 2 7.", "keywords": []},
+    {"topic": "release 3 0", "file": "release-3-0/INDEX.md", "summary": "Open when checking release 3 0.", "keywords": []},
+    {"topic": "release 3 1", "file": "release-3-1/INDEX.md", "summary": "Open when checking release 3 1.", "keywords": []},
+    {"topic": "release 3 2", "file": "release-3-2/INDEX.md", "summary": "Open when checking release 3 2.", "keywords": []},
+    {"topic": "release 3 3", "file": "release-3-3/INDEX.md", "summary": "Open when checking release 3 3.", "keywords": []},
+    {"topic": "release 3 4", "file": "release-3-4/INDEX.md", "summary": "Open when checking release 3 4.", "keywords": []},
+    {"topic": "release 3 5", "file": "release-3-5/INDEX.md", "summary": "Open when checking release 3 5.", "keywords": []},
+    {"topic": "release 3 6", "file": "release-3-6/INDEX.md", "summary": "Open when checking release 3 6.", "keywords": []},
+    {"topic": "release 3 7", "file": "release-3-7/INDEX.md", "summary": "Open when checking release 3 7.", "keywords": []},
+    {"topic": "release 3 8", "file": "release-3-8/INDEX.md", "summary": "Open when checking release 3 8.", "keywords": []},
+    {"topic": "release 3 9", "file": "release-3-9/INDEX.md", "summary": "Open when checking release 3 9.", "keywords": []},
+    {"topic": "release 3 10", "file": "release-3-10/INDEX.md", "summary": "Open when checking release 3 10.", "keywords": []},
+    {"topic": "release 3 11", "file": "release-3-11/INDEX.md", "summary": "Open when checking release 3 11.", "keywords": []},
+    {"topic": "release 3 12", "file": "release-3-12/INDEX.md", "summary": "Open when checking release 3 12.", "keywords": []},
+    {"topic": "release 3 13", "file": "release-3-13/INDEX.md", "summary": "Open when checking release 3 13.", "keywords": []},
+    {"topic": "release 3 14", "file": "release-3-14/INDEX.md", "summary": "Open when checking release 3 14.", "keywords": []},
+    {"topic": "release navigation", "file": "release-navigation/INDEX.md", "summary": "Open when checking release navigation.", "keywords": []},
+    {"topic": "releases", "file": "releases/INDEX.md", "summary": "Open when checking releases.", "keywords": []},
+    {"topic": "Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

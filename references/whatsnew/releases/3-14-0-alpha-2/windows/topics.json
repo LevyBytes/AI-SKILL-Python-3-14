@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 2 / windows / build and platforms", "file": "releases/3-14-0-alpha-2/windows/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / exceptions", "file": "releases/3-14-0-alpha-2/windows/exceptions.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / imports and modules", "file": "releases/3-14-0-alpha-2/windows/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / platform", "file": "releases/3-14-0-alpha-2/windows/platform.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / platform.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / python", "file": "releases/3-14-0-alpha-2/windows/python.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / python.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / refresh what credits command prints", "file": "releases/3-14-0-alpha-2/windows/refresh-what-credits-command-prints.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / refresh what credits command prints.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / text and unicode", "file": "releases/3-14-0-alpha-2/windows/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / windows / venv", "file": "releases/3-14-0-alpha-2/windows/venv.md", "summary": "Open when checking Python 3.14.0 alpha 2 / windows / venv.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

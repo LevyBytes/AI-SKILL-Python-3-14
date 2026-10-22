@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Constructing and catching ExceptionGroup", "file": "errors/constructing-and-catching-exceptiongroup.md", "summary": "Open when checking Constructing and catching ExceptionGroup.", "keywords": []},
+    {"topic": "8.7. Defining Clean-up Actions", "file": "errors/defining-clean-up-actions.md", "summary": "Open when checking 8.7. Defining Clean-up Actions.", "keywords": []},
+    {"topic": "8.10. Enriching Exceptions with Notes", "file": "errors/enriching-exceptions-with-notes.md", "summary": "Open when checking 8.10. Enriching Exceptions with Notes.", "keywords": []},
+    {"topic": "8. Errors and Exceptions", "file": "errors/errors-and-exceptions.md", "summary": "Open when checking 8. Errors and Exceptions.", "keywords": []},
+    {"topic": "Exception arguments, precise handling, reraising and else clauses", "file": "exception-arguments-reraising-and-else.md", "summary": "Open when checking Exception arguments, precise handling, reraising and else clauses.", "keywords": []},
+    {"topic": "8.5. Exception Chaining", "file": "errors/exception-chaining.md", "summary": "Open when checking 8.5. Exception Chaining.", "keywords": []},
+    {"topic": "8.2. Exceptions", "file": "errors/exceptions.md", "summary": "Open when checking 8.2. Exceptions.", "keywords": []},
+    {"topic": "8.8. Predefined Clean-up Actions", "file": "errors/predefined-clean-up-actions.md", "summary": "Open when checking 8.8. Predefined Clean-up Actions.", "keywords": []},
+    {"topic": "8.4. Raising Exceptions", "file": "errors/raising-exceptions.md", "summary": "Open when checking 8.4. Raising Exceptions.", "keywords": []},
+    {"topic": "Selective except-star handling and collecting error instances", "file": "errors/selective-except-star-handling-and-collecting-error-instances.md", "summary": "Open when checking Selective except-star handling and collecting error instances.", "keywords": []},
+    {"topic": "8.1. Syntax Errors", "file": "errors/syntax-errors.md", "summary": "Open when checking 8.1. Syntax Errors.", "keywords": []},
+    {"topic": "Try-except dispatch, multiple handlers and exception inheritance", "file": "exception-handler-dispatch-and-inheritance.md", "summary": "Open when checking Try-except dispatch, multiple handlers and exception inheritance.", "keywords": []},
+    {"topic": "8.6. User-defined Exceptions", "file": "errors/user-defined-exceptions.md", "summary": "Open when checking 8.6. User-defined Exceptions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

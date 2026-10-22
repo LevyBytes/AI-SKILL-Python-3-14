@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "coroutine objects C API: Coroutine object origin and availability", "file": "coroutine-objects/coroutine-objects.md", "summary": "Open when checking coroutine object origin and availability in coroutine objects C API.", "keywords": []},
+  {"topic": "coroutine objects C API: `PyCoroObject`, `PyCoro_Type`, `PyCoro_CheckExact()`, `PyCoro_New()`", "file": "coroutine-objects/pycoroobject-to-pycoro-new.md", "summary": "Open when checking the documented contracts for `PyCoroObject`, `PyCoro_Type`, `PyCoro_CheckExact()`, `PyCoro_New()` in coroutine objects C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "documentation", "file": "documentation/INDEX.md", "summary": "Open when checking documentation.", "keywords": []},
+    {"topic": "glossary", "file": "glossary/INDEX.md", "summary": "Open when checking glossary.", "keywords": []},
+    {"topic": "Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

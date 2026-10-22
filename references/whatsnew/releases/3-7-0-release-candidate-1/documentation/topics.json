@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 release candidate 1 / documentation / asyncio stream", "file": "releases/3-7-0-release-candidate-1/documentation/asyncio-stream.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / documentation / asyncio stream.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / documentation / spell out what cert none cert optional cert required flags mean ssl sslcontext verify mode", "file": "ssl-certificate-verification-mode-documentation.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / documentation / spell out what cert none cert optional cert required flags mean ssl sslcontext verify mode.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / documentation / spelled out how pep s pythoncoerceclocale relates pep s", "file": "releases/3-7-0-release-candidate-1/documentation/spelled-out-how-pep-s-pythoncoerceclocale-relates-pep-s.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / documentation / spelled out how pep s pythoncoerceclocale relates pep s.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "wsgiref.headers: `wsgiref.headers.Headers`", "file": "wsgiref-headers/wsgiref-headers-headers-class.md", "summary": "Open when checking the documented contracts for `wsgiref.headers.Headers` in wsgiref.headers.", "keywords": []},
+  {"topic": "wsgiref.headers.Headers: `get_all()`, `add_header()`", "file": "wsgi-response-header-access-and-addition.md", "summary": "Open when checking the documented contracts for `get_all()`, `add_header()` in wsgiref.headers.Headers.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

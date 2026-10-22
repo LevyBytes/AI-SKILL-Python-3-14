@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 5 / c api / debug", "file": "releases/3-10-0-alpha-5/c-api/debug.md", "summary": "Open when checking Python 3.10.0 alpha 5 / c api / debug.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 5 / c api / unicode", "file": "releases/3-10-0-alpha-5/c-api/unicode.md", "summary": "Open when checking Python 3.10.0 alpha 5 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

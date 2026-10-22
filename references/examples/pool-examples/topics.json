@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "check_errors", "file": "references/examples/pool-examples/check_errors.py", "summary": "Open when checking check_errors.", "keywords": []},
+    {"topic": "check_results", "file": "references/examples/pool-examples/check_results.py", "summary": "Open when checking check_results.", "keywords": []},
+    {"topic": "check_timeouts", "file": "references/examples/pool-examples/check_timeouts.py", "summary": "Open when checking check_timeouts.", "keywords": []},
+    {"topic": "pool_workers", "file": "references/examples/pool-examples/pool_workers.py", "summary": "Open when checking pool_workers.", "keywords": []},
+    {"topic": "run_pool", "file": "references/examples/pool-examples/run_pool.py", "summary": "Open when checking run_pool.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

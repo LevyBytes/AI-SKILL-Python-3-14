@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 5 / tests / debug", "file": "releases/3-11-0-alpha-5/tests/debug.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / debug.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / exceptions and tracebacks", "file": "releases/3-11-0-alpha-5/tests/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / exceptions", "file": "releases/3-11-0-alpha-5/tests/exceptions.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / exceptions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / imports and modules", "file": "releases/3-11-0-alpha-5/tests/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / makes sure test importlib test windows removes registry keys once finishes", "file": "windows-import-test-registry-cleanup.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / makes sure test importlib test windows removes registry keys once finishes.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / os", "file": "releases/3-11-0-alpha-5/tests/os.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / os.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / subprocess", "file": "releases/3-11-0-alpha-5/tests/subprocess.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / subprocess.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / tests and documentation", "file": "releases/3-11-0-alpha-5/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 5 / tests / threading", "file": "releases/3-11-0-alpha-5/tests/threading.md", "summary": "Open when checking Python 3.11.0 alpha 5 / tests / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

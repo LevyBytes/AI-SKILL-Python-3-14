@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 release candidate 1 / idle / files and paths", "file": "releases/3-5-0-release-candidate-1/idle/files-and-paths.md", "summary": "Open when checking Python 3.5.0 release candidate 1 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.0 release candidate 1 / idle / idle menus", "file": "releases/3-5-0-release-candidate-1/idle/idle-menus.md", "summary": "Open when checking Python 3.5.0 release candidate 1 / idle / idle menus.", "keywords": []},
+    {"topic": "Python 3.5.0 release candidate 1 / idle / platform", "file": "releases/3-5-0-release-candidate-1/idle/platform.md", "summary": "Open when checking Python 3.5.0 release candidate 1 / idle / platform.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

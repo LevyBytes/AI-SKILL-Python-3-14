@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 6 / c api / bytes", "file": "releases/3-13-0-alpha-6/c-api/bytes.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / bytes.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / code", "file": "releases/3-13-0-alpha-6/c-api/code.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / code.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / compiler and parser", "file": "releases/3-13-0-alpha-6/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / constants", "file": "releases/3-13-0-alpha-6/c-api/constants.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / constants.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / correct pep implementation t n", "file": "releases/3-13-0-alpha-6/c-api/correct-pep-implementation-t-n.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / correct pep implementation t n.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / hash", "file": "releases/3-13-0-alpha-6/c-api/hash.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / hash.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / long", "file": "releases/3-13-0-alpha-6/c-api/long.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / long.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / object", "file": "releases/3-13-0-alpha-6/c-api/object.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / object.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / removed", "file": "releases/3-13-0-alpha-6/c-api/removed.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / removed.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / stable", "file": "releases/3-13-0-alpha-6/c-api/stable.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / stable.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / type", "file": "releases/3-13-0-alpha-6/c-api/type.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / type.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 6 / c api / unicode", "file": "releases/3-13-0-alpha-6/c-api/unicode.md", "summary": "Open when checking Python 3.13.0 alpha 6 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Debugging and Profiling / Python 3.14.0 alpha 1 / library / bdb", "file": "releases/3-14-0-alpha-1/library/bdb.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / bdb.", "keywords": []},
+  {"topic": "Debugging and Profiling / Python 3.14.0 alpha 1 / library / profile", "file": "releases/3-14-0-alpha-1/library/profile.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / profile.", "keywords": []},
+  {"topic": "Debugging and Profiling / Python 3.14.0 alpha 1 / library / trace", "file": "releases/3-14-0-alpha-1/library/trace.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / trace.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

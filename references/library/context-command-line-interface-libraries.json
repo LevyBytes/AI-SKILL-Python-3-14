@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Command-line interface libraries / cmdlinelibs", "file": "cmdlinelibs/INDEX.md", "summary": "Open when checking cmdlinelibs.", "keywords": []},
+  {"topic": "Command-line interface libraries / argparse", "file": "argparse/INDEX.md", "summary": "Open when checking argparse.", "keywords": []},
+  {"topic": "Command-line interface libraries / optparse", "file": "optparse/INDEX.md", "summary": "Open when checking optparse.", "keywords": []},
+  {"topic": "Command-line interface libraries / getpass", "file": "getpass/INDEX.md", "summary": "Open when checking getpass.", "keywords": []},
+  {"topic": "Command-line interface libraries / fileinput", "file": "fileinput/INDEX.md", "summary": "Open when checking fileinput.", "keywords": []},
+  {"topic": "Command-line interface libraries / curses", "file": "curses/INDEX.md", "summary": "Open when checking curses.", "keywords": []},
+  {"topic": "Command-line interface libraries / curses ascii", "file": "curses-ascii/INDEX.md", "summary": "Open when checking curses ascii.", "keywords": []},
+  {"topic": "Command-line interface libraries / curses panel", "file": "curses-panel/INDEX.md", "summary": "Open when checking curses panel.", "keywords": []},
+  {"topic": "Command-line interface libraries / cmd", "file": "cmd/INDEX.md", "summary": "Open when checking cmd.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

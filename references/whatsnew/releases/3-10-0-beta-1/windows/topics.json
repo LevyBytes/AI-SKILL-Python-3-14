@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 beta 1 / windows / build and platforms", "file": "releases/3-10-0-beta-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.10.0 beta 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / windows / os", "file": "releases/3-10-0-beta-1/windows/os.md", "summary": "Open when checking Python 3.10.0 beta 1 / windows / os.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / windows / pathlib", "file": "releases/3-10-0-beta-1/windows/pathlib.md", "summary": "Open when checking Python 3.10.0 beta 1 / windows / pathlib.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / windows / resolved windowsconsoleio errors surfaced fd redirection effect", "file": "windows-console-redirection-errors.md", "summary": "Open when checking Python 3.10.0 beta 1 / windows / resolved windowsconsoleio errors surfaced fd redirection effect.", "keywords": []},
+    {"topic": "Python 3.10.0 beta 1 / windows / socket", "file": "releases/3-10-0-beta-1/windows/socket.md", "summary": "Open when checking Python 3.10.0 beta 1 / windows / socket.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,72 @@
+# Programming FAQ context index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Is there a source code-level debugger with breakpoints and single-stepping? [General questions / Is there a source code-level debugger with breakpoints and single-stepping?](source-debugger-breakpoints-and-stepping.md).
+- Open when checking Are there tools to help find bugs or perform static analysis? [General questions / Are there tools to help find bugs or perform static analysis?](are-there-tools-to-help-find-bugs-or-perform-static-analysis.md).
+- Open when checking How can I create a stand-alone binary from a Python script? [General questions / How can I create a stand-alone binary from a Python script?](how-can-i-create-a-stand-alone-binary-from-a-python-script.md).
+- Open when checking Are there coding standards or a style guide for Python programs? [General questions / Are there coding standards or a style guide for Python programs?](coding-standards-and-style-guides.md).
+- Open when checking Why am I getting an UnboundLocalError when the variable has a value? [Core language / Why am I getting an UnboundLocalError when the variable has a value?](unboundlocalerror-and-variable-scope.md).
+- Open when checking What are the rules for local and global variables in Python? [Core language / What are the rules for local and global variables in Python?](what-are-the-rules-for-local-and-global-variables-in-python.md).
+- Open when checking Why do lambdas defined in a loop with different values all return the same result? [Core language / Why do lambdas defined in a loop with different values all return the same result?](loop-lambda-late-binding.md).
+- Open when checking How do I share global variables across modules? [Core language / How do I share global variables across modules?](how-do-i-share-global-variables-across-modules.md).
+- Open when checking What are the “best practices” for using import in a module? [Core language / What are the “best practices” for using import in a module?](what-are-the-best-practices-for-using-import-in-a-module.md).
+- Open when checking Why are default values shared between objects? [Core language / Why are default values shared between objects?](why-are-default-values-shared-between-objects.md).
+- Open when checking How can I pass optional or keyword parameters from one function to another? [Core language / How can I pass optional or keyword parameters from one function to another?](forwarding-optional-and-keyword-arguments.md).
+- Open when checking What is the difference between arguments and parameters? [Core language / What is the difference between arguments and parameters?](what-is-the-difference-between-arguments-and-parameters.md).
+- Open when checking Why did changing list ‘y’ also change list ‘x’? [Core language / Why did changing list ‘y’ also change list ‘x’?](why-did-changing-list-y-also-change-list-x.md).
+- Open when checking How do I write a function with output parameters (call by reference)? [Core language / How do I write a function with output parameters (call by reference)?](how-do-i-write-a-function-with-output-parameters.md).
+- Open when checking How do you make a higher order function in Python? [Core language / How do you make a higher order function in Python?](how-do-you-make-a-higher-order-function-in-python.md).
+- Open when checking How do I copy an object in Python? [Core language / How do I copy an object in Python?](how-do-i-copy-an-object-in-python.md).
+- Open when checking How can I find the methods or attributes of an object? [Core language / How can I find the methods or attributes of an object?](how-can-i-find-the-methods-or-attributes-of-an-object.md).
+- Open when checking How can my code discover the name of an object? [Core language / How can my code discover the name of an object?](how-can-my-code-discover-the-name-of-an-object.md).
+- Open when checking What’s up with the comma operator’s precedence? [Core language / What’s up with the comma operator’s precedence?](what-s-up-with-the-comma-operator-s-precedence.md).
+- Open when checking Is there an equivalent of C’s “?:” ternary operator? [Core language / Is there an equivalent of C’s “?:” ternary operator?](is-there-an-equivalent-of-c-s-ternary-operator.md).
+- Open when checking Is it possible to write obfuscated one-liners in Python? [Core language / Is it possible to write obfuscated one-liners in Python?](is-it-possible-to-write-obfuscated-one-liners-in-python.md).
+- Open when checking What does the slash(/) in the parameter list of a function mean? [Core language / What does the slash(/) in the parameter list of a function mean?](what-does-the-slash-in-the-parameter-list-of-a-function-mean.md).
+- Open when checking How do I specify hexadecimal and octal integers? [Numbers and strings / How do I specify hexadecimal and octal integers?](how-do-i-specify-hexadecimal-and-octal-integers.md).
+- Open when checking Why does -22 // 10 return -3? [Numbers and strings / Why does -22 // 10 return -3?](why-does-22-10-return-3.md).
+- Open when checking How do I get int literal attribute instead of SyntaxError? [Numbers and strings / How do I get int literal attribute instead of SyntaxError?](how-do-i-get-int-literal-attribute-instead-of-syntaxerror.md).
+- Open when checking How do I convert a string to a number? [Numbers and strings / How do I convert a string to a number?](how-do-i-convert-a-string-to-a-number.md).
+- Open when checking How do I convert a number to a string? [Numbers and strings / How do I convert a number to a string?](how-do-i-convert-a-number-to-a-string.md).
+- Open when checking How do I modify a string in place? [Numbers and strings / How do I modify a string in place?](how-do-i-modify-a-string-in-place.md).
+- Open when checking How do I use strings to call functions/methods? [Numbers and strings / How do I use strings to call functions/methods?](how-do-i-use-strings-to-call-functions-methods.md).
+- Open when checking Is there an equivalent to Perl’s `chomp()` for removing trailing newlines from strings? [Numbers and strings / Is there an equivalent to Perl’s `chomp()` for removing trailing newlines from strings?](removing-trailing-newlines.md).
+- Open when checking Is there a `scanf()` or `sscanf()` equivalent? [Numbers and strings / Is there a `scanf()` or `sscanf()` equivalent?](is-there-a-scanf-or-sscanf-equivalent.md).
+- Open when checking What does `UnicodeDecodeError` or `UnicodeEncodeError` error mean? [Numbers and strings / What does `UnicodeDecodeError` or `UnicodeEncodeError` error mean?](what-does-unicodedecodeerror-or-unicodeencodeerror-error-mean.md).
+- Open when checking Can I end a raw string with an odd number of backslashes? [Numbers and strings / Can I end a raw string with an odd number of backslashes?](can-i-end-a-raw-string-with-an-odd-number-of-backslashes.md).
+- Open when checking My program is too slow. How do I speed it up? [Performance / My program is too slow. How do I speed it up?](my-program-is-too-slow-how-do-i-speed-it-up.md).
+- Open when checking What is the most efficient way to concatenate many strings together? [Performance / What is the most efficient way to concatenate many strings together?](efficient-string-concatenation.md).
+- Open when checking How do I convert between tuples and lists? [Sequences (tuples/lists) / How do I convert between tuples and lists?](how-do-i-convert-between-tuples-and-lists.md).
+- Open when checking What’s a negative index? [Sequences (tuples/lists) / What’s a negative index?](what-s-a-negative-index.md).
+- Open when checking How do I iterate over a sequence in reverse order? [Sequences (tuples/lists) / How do I iterate over a sequence in reverse order?](how-do-i-iterate-over-a-sequence-in-reverse-order.md).
+- Open when checking How do you remove duplicates from a list? [Sequences (tuples/lists) / How do you remove duplicates from a list?](how-do-you-remove-duplicates-from-a-list.md).
+- Open when checking How do you remove multiple items from a list? [Sequences (tuples/lists) / How do you remove multiple items from a list?](how-do-you-remove-multiple-items-from-a-list.md).
+- Open when checking How do you make an array in Python? [Sequences (tuples/lists) / How do you make an array in Python?](how-do-you-make-an-array-in-python.md).
+- Open when checking How do I create a multidimensional list? [Sequences (tuples/lists) / How do I create a multidimensional list?](how-do-i-create-a-multidimensional-list.md).
+- Open when checking How do I apply a method or function to a sequence of objects? [Sequences (tuples/lists) / How do I apply a method or function to a sequence of objects?](how-do-i-apply-a-method-or-function-to-a-sequence-of-objects.md).
+- Open when checking Why does a_tuple[i] += [‘item’] raise an exception when the addition works? [Sequences (tuples/lists) / Why does a_tuple\[i\] += \[‘item’\] raise an exception when the addition works?](tuple-item-augmented-assignment-error.md).
+- Open when checking I want to do a complicated sort: can you do a Schwartzian Transform in Python? [Sequences (tuples/lists) / I want to do a complicated sort: can you do a Schwartzian Transform in Python?](complex-sorting-and-schwartzian-transform.md).
+- Open when checking How can I sort one list by values from another list? [Sequences (tuples/lists) / How can I sort one list by values from another list?](how-can-i-sort-one-list-by-values-from-another-list.md).
+- Open when checking What is a class? [Objects / What is a class?](what-is-a-class.md).
+- Open when checking What is a method? [Objects / What is a method?](what-is-a-method.md).
+- Open when checking What is self? [Objects / What is self?](what-is-self.md).
+- Open when checking How do I check if an object is an instance of a given class or of a subclass of it? [Objects / How do I check if an object is an instance of a given class or of a subclass of it?](class-and-subclass-instance-checks.md).
+- Open when checking What is delegation? [Objects / What is delegation?](what-is-delegation.md).
+- Open when checking How do I call a method defined in a base class from a derived class that extends it? [Objects / How do I call a method defined in a base class from a derived class that extends it?](calling-extended-base-class-methods.md).
+- Open when checking How can I organize my code to make it easier to change the base class? [Objects / How can I organize my code to make it easier to change the base class?](base-class-change-organization.md).
+- Open when checking How do I create static class data and static class methods? [Objects / How do I create static class data and static class methods?](how-do-i-create-static-class-data-and-static-class-methods.md).
+- Open when checking How can I overload constructors (or methods) in Python? [Objects / How can I overload constructors (or methods) in Python?](how-can-i-overload-constructors-in-python.md).
+- Open when checking I try to use __spam and I get an error about _SomeClassName__spam. [Objects / I try to use __spam and I get an error about _SomeClassName__spam.](i-try-to-use-spam-and-i-get-an-error-about-someclassname-spam.md).
+- Open when checking My class defines __del__ but it is not called when I delete the object. [Objects / My class defines __del__ but it is not called when I delete the object.](object-deletion-and-finalizers.md).
+- Open when checking How do I get a list of all instances of a given class? [Objects / How do I get a list of all instances of a given class?](how-do-i-get-a-list-of-all-instances-of-a-given-class.md).
+- Open when checking Why does the result of `id()` appear to be not unique? [Objects / Why does the result of `id()` appear to be not unique?](why-does-the-result-of-id-appear-to-be-not-unique.md).
+- Open when checking When can I rely on identity tests with the *is* operator? [Objects / When can I rely on identity tests with the *is* operator?](when-can-i-rely-on-identity-tests-with-the-is-operator.md).
+- Open when checking How can a subclass control what data is stored in an immutable instance? [Objects / How can a subclass control what data is stored in an immutable instance?](immutable-subclass-instance-data.md).
+- Open when checking How do I cache method calls? [Objects / How do I cache method calls?](how-do-i-cache-method-calls.md).
+- Open when checking How do I create a .pyc file? [Modules / How do I create a .pyc file?](how-do-i-create-a-pyc-file.md).
+- Open when checking How do I find the current module name? [Modules / How do I find the current module name?](how-do-i-find-the-current-module-name.md).
+- Open when checking How can I have modules that mutually import each other? [Modules / How can I have modules that mutually import each other?](how-can-i-have-modules-that-mutually-import-each-other.md).
+- Open when checking __import__(‘x.y.z’) returns &lt;module ‘x’&gt;; how do I get z? [Modules / __import__(‘x.y.z’) returns &lt;module ‘x’&gt;; how do I get z?](import-returns-module-x-how-do-i-get-z.md).
+- Open when checking When I edit an imported module and reimport it, the changes don’t show up. Why does this happen? [Modules / When I edit an imported module and reimport it, the changes don’t show up. Why does this happen?](imported-module-change-reloading.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

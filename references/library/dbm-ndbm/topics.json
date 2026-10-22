@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "dbm.ndbm — `dbm.ndbm` — New Database Manager", "file": "dbm-ndbm/dbm-ndbm-error-to-dbm-ndbm-open.md", "summary": "Open when checking dbm.ndbm — `dbm.ndbm` — New Database Manager.", "keywords": []},
+    {"topic": "dbm.ndbm — **flag** (*str*) –", "file": "dbm-ndbm/ndbm-close.md", "summary": "Open when checking dbm.ndbm — **flag** (*str*) –.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

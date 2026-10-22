@@ -1,0 +1,77 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Upstream feature guide navigation for Python 3.2. [Overview and scope / Upstream feature guide navigation for Python 3.2](release-overview.md).
+- Open when checking What's New In Python 3.2 / PEP 384: Defining a Stable ABI. [PEP 384: Defining a Stable ABI / What's New In Python 3.2 / PEP 384: Defining a Stable ABI](pep-384-defining-a-stable-abi.md).
+- Open when checking What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module — argparse, optparse. [PEP 389: Argparse Command Line Parsing Module / What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module — argparse, optparse](argparse-command-line-parsing.md).
+- Open when checking What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module — optparse. [PEP 389: Argparse Command Line Parsing Module / What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module — optparse](pep-389-argparse-command-line-parsing-module-see-also.md).
+- Open when checking What's New In Python 3.2 / PEP 391: Dictionary Based Configuration for Logging — configparser, logging, logging.config. [PEP 391:  Dictionary Based Configuration for Logging / What's New In Python 3.2 / PEP 391: Dictionary Based Configuration for Logging — configparser, logging, logging.config](pep-391-dictionary-based-configuration-for-logging.md).
+- Open when checking What's New In Python 3.2 / PEP 3148: The `concurrent.futures` module — concurrent.futures. [PEP 3148:  The concurrent.futures module / What's New In Python 3.2 / PEP 3148: The `concurrent.futures` module — concurrent.futures](pep-3148-the-concurrent-futures-module.md).
+- Open when checking What's New In Python 3.2 / PEP 3147: PYC Repository Directories — compileall, importlib, py_compile. [PEP 3147:  PYC Repository Directories / What's New In Python 3.2 / PEP 3147: PYC Repository Directories — compileall, importlib, py_compile](pep-3147-pyc-repository-directories.md).
+- Open when checking What's New In Python 3.2 / PEP 3149: ABI Version Tagged .so Files — sysconfig. [PEP 3149: ABI Version Tagged .so Files / What's New In Python 3.2 / PEP 3149: ABI Version Tagged .so Files — sysconfig](pep-3149-abi-version-tagged-so-files.md).
+- Open when checking What's New In Python 3.2 / PEP 3333: Python Web Server Gateway Interface v1.0.1 — os, wsgiref. [PEP 3333: Python Web Server Gateway Interface v1.0.1 / What's New In Python 3.2 / PEP 3333: Python Web Server Gateway Interface v1.0.1 — os, wsgiref](pep-3333-python-web-server-gateway-interface-v1-0-1.md).
+- Open when checking What's New In Python 3.2 / Other Language Changes — collections, configparser, dbm, shelve, sys. [Other Language Changes / What's New In Python 3.2 / Other Language Changes — collections, configparser, dbm, shelve, sys](core-language-changes.md).
+- Open when checking What's New In Python 3.2 / Other Language Changes — collections.abc, gc, os, sys, time, warnings. [Other Language Changes / What's New In Python 3.2 / Other Language Changes — collections.abc, gc, os, sys, time, warnings](other-language-changes-f.md).
+- Open when checking numeric string representations and surrounding language changes in Python 3.2 changes. [Python 3.2 changes: Numeric string representations and surrounding language changes](other-language-changes-outer.md).
+- Open when checking restored callable builtin and core language changes in Python 3.2 changes. [Python 3.2 changes: Restored callable builtin and core language changes](callable-builtin-and-language-changes.md).
+- Open when checking What's New In Python 3.2 / New, Improved, and Deprecated Modules — email, mailbox. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / New, Improved, and Deprecated Modules — email, mailbox](new-improved-and-deprecated-modules.md).
+- Open when checking What's New In Python 3.2 / email — email, email.compat32-message, email.generator, email.parser, smtplib. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / email — email, email.compat32-message, email.generator, email.parser, smtplib](email.md).
+- Open when checking What's New In Python 3.2 / elementtree — xml.etree.elementtree. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / elementtree — xml.etree.elementtree](elementtree.md).
+- Open when checking What's New In Python 3.2 / functools — functools. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / functools — functools](functools.md).
+- Open when checking What's New In Python 3.2 / itertools — itertools, random. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / itertools — itertools, random](itertools.md).
+- Open when checking What's New In Python 3.2 / collections — collections. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / collections — collections](collections.md).
+- Open when checking What's New In Python 3.2 / threading — threading. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / threading — threading](threading.md).
+- Open when checking What's New In Python 3.2 / datetime and time — datetime. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / datetime and time — datetime](datetime-and-time.md).
+- Open when checking What's New In Python 3.2 / math — math. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / math — math](math.md).
+- Open when checking What's New In Python 3.2 / abc — abc. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / abc — abc](abc.md).
+- Open when checking What's New In Python 3.2 / io — io. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / io — io](io.md).
+- Open when checking What's New In Python 3.2 / reprlib — reprlib. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / reprlib — reprlib](reprlib.md).
+- Open when checking What's New In Python 3.2 / logging — logging, logging.handlers, string, sys. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / logging — logging, logging.handlers, string, sys](logging.md).
+- Open when checking What's New In Python 3.2 / csv — csv. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / csv — csv](csv.md).
+- Open when checking What's New In Python 3.2 / contextlib — contextlib. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / contextlib — contextlib](contextlib.md).
+- Open when checking What's New In Python 3.2 / decimal and fractions — decimal, fractions, sys. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / decimal and fractions — decimal, fractions, sys](decimal-and-fractions.md).
+- Open when checking What's New In Python 3.2 / ftp — fileinput, ftplib, mmap, socket, ssl. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / ftp — fileinput, ftplib, mmap, socket, ssl](ftp.md).
+- Open when checking What's New In Python 3.2 / popen — os, subprocess. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / popen — os, subprocess](popen.md).
+- Open when checking What's New In Python 3.2 / select — select. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / select — select](select.md).
+- Open when checking What's New In Python 3.2 / gzip and zipfile — gzip, io, zipfile. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / gzip and zipfile — gzip, io, zipfile](gzip-and-zipfile.md).
+- Open when checking What's New In Python 3.2 / tarfile — tarfile. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / tarfile — tarfile](tarfile.md).
+- Open when checking What's New In Python 3.2 / hashlib — hashlib. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / hashlib — hashlib](hashlib.md).
+- Open when checking What's New In Python 3.2 / ast — ast. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / ast — ast](ast.md).
+- Open when checking What's New In Python 3.2 / os — os. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / os — os](os.md).
+- Open when checking What's New In Python 3.2 / shutil — os, shutil. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / shutil — os, shutil](shutil.md).
+- Open when checking What's New In Python 3.2 / sqlite3 — sqlite3. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / sqlite3 — sqlite3](sqlite3.md).
+- Open when checking What's New In Python 3.2 / html — html. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / html — html](html.md).
+- Open when checking What's New In Python 3.2 / socket — socket. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / socket — socket](socket.md).
+- Open when checking What's New In Python 3.2 / ssl — ssl. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / ssl — ssl](ssl.md).
+- Open when checking What's New In Python 3.2 / nntp. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / nntp](nntp.md).
+- Open when checking What's New In Python 3.2 / certificates — http.client, urllib.request. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / certificates — http.client, urllib.request](certificates.md).
+- Open when checking What's New In Python 3.2 / imaplib — imaplib. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / imaplib — imaplib](imaplib.md).
+- Open when checking What's New In Python 3.2 / http.client — http.client, http.server. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / http.client — http.client, http.server](http-client.md).
+- Open when checking What's New In Python 3.2 / unittest — re, unittest. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / unittest — re, unittest](unittest.md).
+- Open when checking What's New In Python 3.2 / random — random. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / random — random](random.md).
+- Open when checking What's New In Python 3.2 / poplib — poplib, ssl. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / poplib — poplib, ssl](poplib.md).
+- Open when checking What's New In Python 3.2 / asyncore. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / asyncore](asyncore.md).
+- Open when checking What's New In Python 3.2 / tempfile — tempfile. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / tempfile — tempfile](tempfile.md).
+- Open when checking What's New In Python 3.2 / inspect — inspect. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / inspect — inspect](inspect.md).
+- Open when checking What's New In Python 3.2 / pydoc — pydoc. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / pydoc — pydoc](pydoc.md).
+- Open when checking What's New In Python 3.2 / dis — dis. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / dis — dis](dis.md).
+- Open when checking What's New In Python 3.2 / dbm. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / dbm](dbm.md).
+- Open when checking What's New In Python 3.2 / ctypes — ctypes. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / ctypes — ctypes](ctypes.md).
+- Open when checking What's New In Python 3.2 / site — site. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / site — site](site.md).
+- Open when checking What's New In Python 3.2 / sysconfig — sysconfig. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / sysconfig — sysconfig](sysconfig.md).
+- Open when checking What's New In Python 3.2 / pdb — pdb. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / pdb — pdb](pdb.md).
+- Open when checking What's New In Python 3.2 / configparser — configparser. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / configparser — configparser](configparser.md).
+- Open when checking What's New In Python 3.2 / urllib.parse — urllib.parse. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / urllib.parse — urllib.parse](urllib-parse.md).
+- Open when checking What's New In Python 3.2 / mailbox — email, io, mailbox. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / mailbox — email, io, mailbox](mailbox.md).
+- Open when checking What's New In Python 3.2 / turtledemo — sys, turtle. [New, Improved, and Deprecated Modules / What's New In Python 3.2 / turtledemo — sys, turtle](turtledemo.md).
+- Open when checking What's New In Python 3.2 / Multi-threading — sys, threading. [Multi-threading / What's New In Python 3.2 / Multi-threading — sys, threading](multi-threading.md).
+- Open when checking What's New In Python 3.2 / Optimizations — configparser, http.server, operator, pickle, threading. [Optimizations / What's New In Python 3.2 / Optimizations — configparser, http.server, operator, pickle, threading](optimizations.md).
+- Open when checking What's New In Python 3.2 / Unicode. [Unicode / What's New In Python 3.2 / Unicode](unicode.md).
+- Open when checking What's New In Python 3.2 / Codecs — tarfile. [Codecs / What's New In Python 3.2 / Codecs — tarfile](codecs.md).
+- Open when checking What's New In Python 3.2 / Documentation — datetime, functools, itertools, re. [Documentation / What's New In Python 3.2 / Documentation — datetime, functools, itertools, re](documentation.md).
+- Open when checking What's New In Python 3.2 / IDLE. [IDLE / What's New In Python 3.2 / IDLE](idle.md).
+- Open when checking What's New In Python 3.2 / Code Repository. [Code Repository / What's New In Python 3.2 / Code Repository](code-repository.md).
+- Open when checking What's New In Python 3.2 / Build and C API Changes — sys, unicodedata. [Build and C API Changes / What's New In Python 3.2 / Build and C API Changes — sys, unicodedata](build-and-c-api-changes.md).
+- Open when checking What's New In Python 3.2 / Porting to Python 3.2 — array, configparser, random, string. [Porting to Python 3.2 / What's New In Python 3.2 / Porting to Python 3.2 — array, configparser, random, string](porting-to-python-3-2.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Main Makefile targets / 3.4.3.1. make", "file": "build-configuration/make.md", "summary": "Open when checking 3.4.3.1. make.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.2. make platform", "file": "build-configuration/make-platform.md", "summary": "Open when checking 3.4.3.2. make platform.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.3. make profile-opt", "file": "build-configuration/make-profile-opt.md", "summary": "Open when checking 3.4.3.3. make profile-opt.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.4. make clean", "file": "build-configuration/make-clean.md", "summary": "Open when checking 3.4.3.4. make clean.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.5. make distclean", "file": "build-configuration/make-distclean.md", "summary": "Open when checking 3.4.3.5. make distclean.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.6. make install", "file": "build-configuration/make-install.md", "summary": "Open when checking 3.4.3.6. make install.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.7. make test", "file": "build-configuration/make-test.md", "summary": "Open when checking 3.4.3.7. make test.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.8. make ci", "file": "build-configuration/make-ci.md", "summary": "Open when checking 3.4.3.8. make ci.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.9. make buildbottest", "file": "build-configuration/make-buildbottest.md", "summary": "Open when checking 3.4.3.9. make buildbottest.", "keywords": []},
+  {"topic": "Main Makefile targets / 3.4.3.10. make regen-all", "file": "build-configuration/make-regen-all.md", "summary": "Open when checking 3.4.3.10. make regen-all.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

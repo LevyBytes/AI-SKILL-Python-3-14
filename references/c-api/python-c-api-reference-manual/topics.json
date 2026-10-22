@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "python c api reference manual C API: C API scope for extensions and embedding", "file": "python-c-api-reference-manual/python-c-api-reference-manual.md", "summary": "Open when checking C API scope for extensions and embedding in python c api reference manual C API.", "keywords": []},
+  {"topic": "python c api reference manual C API: Concrete objects, interpreter services and extension API routes", "file": "python-c-api-reference-manual/concrete-objects-and-extension-api-routes.md", "summary": "Open when checking concrete objects, interpreter services and extension API routes in python c api reference manual C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "tomllib — Conversion Table", "file": "tomllib/conversion-table.md", "summary": "Open when checking tomllib — Conversion Table.", "keywords": []},
+    {"topic": "tomllib — Examples", "file": "tomllib/examples.md", "summary": "Open when checking tomllib — Examples.", "keywords": []},
+    {"topic": "tomllib — `tomllib` — Parse TOML files", "file": "tomllib/tomllib-load-to-tomllib-tomldecodeerror.md", "summary": "Open when checking tomllib — `tomllib` — Parse TOML files.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

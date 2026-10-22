@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Text Processing Services / Python 3.5.0 alpha 1 / library / using re locale flag together str patterns or re ascii deprecated", "file": "releases/3-5-0-alpha-1/library/regex-locale-string-and-ascii-deprecation.md", "summary": "Open when checking Python 3.5.0 alpha 1 / library / using re locale flag together str patterns or re ascii deprecated.", "keywords": []},
+  {"topic": "Text Processing Services / Python 3.5.0 alpha 1 / library / readline append history file added", "file": "releases/3-5-0-alpha-1/library/readline-append-history-file-added.md", "summary": "Open when checking Python 3.5.0 alpha 1 / library / readline append history file added.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

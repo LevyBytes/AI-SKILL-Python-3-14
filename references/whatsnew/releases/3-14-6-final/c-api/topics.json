@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.6 final / c api / correct dynamic annotations h header compiled under c together valgrind wrapping", "file": "cxx-valgrind-dynamic-annotation-header.md", "summary": "Open when checking Python 3.14.6 final / c api / correct dynamic annotations h header compiled under c together valgrind wrapping.", "keywords": []},
+    {"topic": "Python 3.14.6 final / c api / dict", "file": "releases/3-14-6-final/c-api/dict.md", "summary": "Open when checking Python 3.14.6 final / c api / dict.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,9 @@
+# What's New In Python 3.13 / Pending removal in Python 3.19 — ctypes
+
+### Pending removal in Python 3.19
+
+- [`ctypes`](https://docs.python.org/3.14/library/ctypes.html#module-ctypes):
+
+  - On platforms other than Windows, silently falling back to the MSVC-compatible struct layout when [`_pack_`](https://docs.python.org/3.14/library/ctypes.html#ctypes.Structure._pack_) is set but [`_layout_`](https://docs.python.org/3.14/library/ctypes.html#ctypes.Structure._layout_) is not.
+
+[Subject index](INDEX.md) · [Previous source section](pending-removal-in-python-3-18.md) · [Next source section](undated-api-removals.md) · [Release/subject declaration](summary-release-highlights.md)

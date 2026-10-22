@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "12.2. Creating Virtual Environments", "file": "virtual-environments-and-packages/creating-virtual-environments.md", "summary": "Open when checking 12.2. Creating Virtual Environments.", "keywords": []},
+    {"topic": "Inspecting packages and reproducing requirements", "file": "virtual-environments-and-packages/inspecting-packages-and-reproducing-requirements.md", "summary": "Open when checking Inspecting packages and reproducing requirements.", "keywords": []},
+    {"topic": "Installing, selecting, upgrading and removing virtual-environment packages", "file": "virtual-environment-package-lifecycle.md", "summary": "Open when checking Installing, selecting, upgrading and removing virtual-environment packages.", "keywords": []},
+    {"topic": "12.1. Introduction", "file": "virtual-environments-and-packages/introduction.md", "summary": "Open when checking 12.1. Introduction.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

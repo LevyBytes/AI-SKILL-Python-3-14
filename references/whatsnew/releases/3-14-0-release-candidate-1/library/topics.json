@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 release candidate 1 / library / argparse", "file": "releases/3-14-0-release-candidate-1/library/argparse.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / argparse.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / asyncio", "file": "releases/3-14-0-release-candidate-1/library/asyncio.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / asyncio.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / concurrent futures", "file": "releases/3-14-0-release-candidate-1/library/concurrent-futures.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / concurrent interpreters", "file": "releases/3-14-0-release-candidate-1/library/concurrent-interpreters.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / concurrent interpreters.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / datetime", "file": "releases/3-14-0-release-candidate-1/library/datetime.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / datetime.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / exceptions", "file": "releases/3-14-0-release-candidate-1/library/exceptions.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / functions and types", "file": "releases/3-14-0-release-candidate-1/library/functions-and-types.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / grp", "file": "releases/3-14-0-release-candidate-1/library/grp.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / grp.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / pyrepl works emscripten", "file": "releases/3-14-0-release-candidate-1/library/pyrepl-works-emscripten.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / pyrepl works emscripten.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / threading", "file": "releases/3-14-0-release-candidate-1/library/threading.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / threading.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / took out never released zipfile zipfile data offset property had introduced a7 because", "file": "unreleased-zip-data-offset-property-removal.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / took out never released zipfile zipfile data offset property had introduced a7 because.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / urllib request", "file": "releases/3-14-0-release-candidate-1/library/urllib-request.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / urllib request.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / library / wave", "file": "releases/3-14-0-release-candidate-1/library/wave.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / library / wave.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/tutorial", "topics": [
+  {"topic": "Orientation", "file": "orientation/INDEX.md", "summary": "Open when checking orientation.", "keywords": []},
+  {"topic": "Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+  {"topic": "Whetting your appetite", "file": "whetting-your-appetite/INDEX.md", "summary": "Open when checking whetting your appetite.", "keywords": []},
+  {"topic": "Using the python interpreter", "file": "using-the-python-interpreter/INDEX.md", "summary": "Open when checking using the python interpreter.", "keywords": []},
+  {"topic": "Introduction", "file": "introduction/INDEX.md", "summary": "Open when checking introduction.", "keywords": []},
+  {"topic": "Controlflow", "file": "controlflow/INDEX.md", "summary": "Open when checking controlflow.", "keywords": []},
+  {"topic": "Datastructures", "file": "datastructures/INDEX.md", "summary": "Open when checking datastructures.", "keywords": []},
+  {"topic": "Modules", "file": "modules/INDEX.md", "summary": "Open when checking modules.", "keywords": []},
+  {"topic": "Inputoutput", "file": "inputoutput/INDEX.md", "summary": "Open when checking inputoutput.", "keywords": []},
+  {"topic": "Errors", "file": "errors/INDEX.md", "summary": "Open when checking errors.", "keywords": []},
+  {"topic": "Classes", "file": "classes/INDEX.md", "summary": "Open when checking classes.", "keywords": []},
+  {"topic": "Stdlib", "file": "stdlib/INDEX.md", "summary": "Open when checking stdlib.", "keywords": []},
+  {"topic": "Brief tour of the standard library part ii", "file": "brief-tour-of-the-standard-library-part-ii/INDEX.md", "summary": "Open when checking brief tour of the standard library part ii.", "keywords": []},
+  {"topic": "Virtual environments and packages", "file": "virtual-environments-and-packages/INDEX.md", "summary": "Open when checking virtual environments and packages.", "keywords": []},
+  {"topic": "Interactive input editing and history substitution", "file": "interactive-input-editing-and-history-substitution/INDEX.md", "summary": "Open when checking interactive input editing and history substitution.", "keywords": []},
+  {"topic": "Floatingpoint", "file": "floatingpoint/INDEX.md", "summary": "Open when checking floatingpoint.", "keywords": []},
+  {"topic": "Whatnow", "file": "whatnow/INDEX.md", "summary": "Open when checking whatnow.", "keywords": []},
+  {"topic": "Appendix", "file": "appendix/INDEX.md", "summary": "Open when checking appendix.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

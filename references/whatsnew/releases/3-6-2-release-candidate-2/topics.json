@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "release overview", "file": "releases/3-6-2-release-candidate-2/release-overview/INDEX.md", "summary": "Open when checking release overview.", "keywords": []},
+    {"topic": "security", "file": "releases/3-6-2-release-candidate-2/security/INDEX.md", "summary": "Open when checking security.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

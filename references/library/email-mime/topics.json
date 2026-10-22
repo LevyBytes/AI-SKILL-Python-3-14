@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Declared API contracts / email.mime.base.MIMEBase", "file": "email-mime/email-mime-base-mimebase-class.md", "summary": "Open when checking email.mime.base.MIMEBase.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.nonmultipart.MIMENonMultipart", "file": "email-mime/email-mime-nonmultipart-mimenonmultipart-class.md", "summary": "Open when checking email.mime.nonmultipart.MIMENonMultipart.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.multipart.MIMEMultipart", "file": "email-mime/email-mime-multipart-mimemultipart-class.md", "summary": "Open when checking email.mime.multipart.MIMEMultipart.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.application.MIMEApplication", "file": "email-mime/email-mime-application-mimeapplication-class.md", "summary": "Open when checking email.mime.application.MIMEApplication.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.audio.MIMEAudio", "file": "email-mime/email-mime-audio-mimeaudio-class.md", "summary": "Open when checking email.mime.audio.MIMEAudio.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.image.MIMEImage", "file": "email-mime/email-mime-image-mimeimage-class.md", "summary": "Open when checking email.mime.image.MIMEImage.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.message.MIMEMessage", "file": "email-mime/email-mime-message-mimemessage-class.md", "summary": "Open when checking email.mime.message.MIMEMessage.", "keywords": []},
+  {"topic": "`email.mime`: Creating email and MIME objects from scratch / email.mime.text.MIMEText", "file": "email-mime/email-mime-text-mimetext-class.md", "summary": "Open when checking email.mime.text.MIMEText.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

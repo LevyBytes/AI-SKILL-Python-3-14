@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Unix-specific services / unix", "file": "unix/INDEX.md", "summary": "Open when checking unix.", "keywords": []},
+  {"topic": "Unix-specific services / shlex", "file": "shlex/INDEX.md", "summary": "Open when checking shlex.", "keywords": []},
+  {"topic": "Unix-specific services / posix", "file": "posix/INDEX.md", "summary": "Open when checking posix.", "keywords": []},
+  {"topic": "Unix-specific services / pwd", "file": "pwd/INDEX.md", "summary": "Open when checking pwd.", "keywords": []},
+  {"topic": "Unix-specific services / grp", "file": "grp/INDEX.md", "summary": "Open when checking grp.", "keywords": []},
+  {"topic": "Unix-specific services / termios", "file": "termios/INDEX.md", "summary": "Open when checking termios.", "keywords": []},
+  {"topic": "Unix-specific services / tty", "file": "tty/INDEX.md", "summary": "Open when checking tty.", "keywords": []},
+  {"topic": "Unix-specific services / pty", "file": "pty/INDEX.md", "summary": "Open when checking pty.", "keywords": []},
+  {"topic": "Unix-specific services / fcntl", "file": "fcntl/INDEX.md", "summary": "Open when checking fcntl.", "keywords": []},
+  {"topic": "Unix-specific services / resource", "file": "resource/INDEX.md", "summary": "Open when checking resource.", "keywords": []},
+  {"topic": "Unix-specific services / syslog", "file": "syslog/INDEX.md", "summary": "Open when checking syslog.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

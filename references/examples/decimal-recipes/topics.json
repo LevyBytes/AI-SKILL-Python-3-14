@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "decimal_constants", "file": "references/examples/decimal-recipes/decimal_constants.py", "summary": "Open when checking decimal_constants.", "keywords": []},
+    {"topic": "decimal_trigonometry", "file": "references/examples/decimal-recipes/decimal_trigonometry.py", "summary": "Open when checking decimal_trigonometry.", "keywords": []},
+    {"topic": "money_format", "file": "references/examples/decimal-recipes/money_format.py", "summary": "Open when checking money_format.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

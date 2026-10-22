@@ -1,0 +1,16 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Barrier: `asyncio.Barrier`", "file": "asyncio-sync/asyncio-barrier-class.md", "summary": "Open when checking the documented contracts for `asyncio.Barrier` in Barrier.", "keywords": []},
+  {"topic": "Barrier: `wait()`, `reset()`, `abort()`", "file": "asyncio-sync/asyncio-barrier-wait-to-asyncio-barrier-abort.md", "summary": "Open when checking the documented contracts for `wait()`, `reset()`, `abort()` in Barrier.", "keywords": []},
+  {"topic": "Barrier: `asyncio.BrokenBarrierError`", "file": "asyncio-sync/asyncio-brokenbarriererror.md", "summary": "Open when checking the documented contracts for `asyncio.BrokenBarrierError` in Barrier.", "keywords": []},
+  {"topic": "BoundedSemaphore", "file": "asyncio-sync/asyncio-boundedsemaphore-class.md", "summary": "Open when checking BoundedSemaphore.", "keywords": []},
+  {"topic": "Condition: `asyncio.Condition`", "file": "asyncio-sync/asyncio-condition-class.md", "summary": "Open when checking the documented contracts for `asyncio.Condition` in Condition.", "keywords": []},
+  {"topic": "Condition: `acquire()`, `notify()`, `locked()`, `notify_all()`, `release()`, `wait()`, `wait_for()`", "file": "asyncio-sync/asyncio-condition-acquire-to-asyncio-condition-wait-for.md", "summary": "Open when checking the documented contracts for `acquire()`, `notify()`, `locked()`, `notify_all()`, `release()`, `wait()`, `wait_for()` in Condition.", "keywords": []},
+  {"topic": "Event: `asyncio.Event`", "file": "asyncio-sync/asyncio-event-class.md", "summary": "Open when checking the documented contracts for `asyncio.Event` in Event.", "keywords": []},
+  {"topic": "Event: `wait()`, `set()`, `clear()`, `is_set()`", "file": "asyncio-sync/asyncio-event-wait-to-asyncio-event-is-set.md", "summary": "Open when checking the documented contracts for `wait()`, `set()`, `clear()`, `is_set()` in Event.", "keywords": []},
+  {"topic": "Lock: `asyncio.Lock`", "file": "asyncio-sync/asyncio-lock-class.md", "summary": "Open when checking the documented contracts for `asyncio.Lock` in Lock.", "keywords": []},
+  {"topic": "Lock: `acquire()`, `release()`, `locked()`", "file": "asyncio-sync/asyncio-lock-acquire-to-asyncio-lock-locked.md", "summary": "Open when checking the documented contracts for `acquire()`, `release()`, `locked()` in Lock.", "keywords": []},
+  {"topic": "Semaphore: `asyncio.Semaphore`", "file": "asyncio-sync/asyncio-semaphore-class.md", "summary": "Open when checking the documented contracts for `asyncio.Semaphore` in Semaphore.", "keywords": []},
+  {"topic": "Semaphore: `acquire()`, `locked()`, `release()`", "file": "asyncio-sync/asyncio-semaphore-acquire-to-asyncio-semaphore-release.md", "summary": "Open when checking the documented contracts for `acquire()`, `locked()`, `release()` in Semaphore.", "keywords": []},
+  {"topic": "Synchronization Primitives", "file": "asyncio-sync/synchronization-primitives.md", "summary": "Open when checking Synchronization Primitives.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

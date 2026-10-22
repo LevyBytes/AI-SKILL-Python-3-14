@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 1 / tests / build and platforms", "file": "releases/3-7-0-alpha-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / compiler and parser", "file": "releases/3-7-0-alpha-1/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / favored protocol tls client protocol tls server protocols sslcontext", "file": "tls-client-server-context-test-protocols.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / favored protocol tls client protocol tls server protocols sslcontext.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / files and paths", "file": "releases/3-7-0-alpha-1/tests/files-and-paths.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / forbid combining j0 either t or l among regrtest", "file": "releases/3-7-0-alpha-1/tests/forbid-combining-j0-either-t-or-l-among-regrtest.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / forbid combining j0 either t or l among regrtest.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / handled alpn callback changes brought openssl f", "file": "releases/3-7-0-alpha-1/tests/handled-alpn-callback-changes-brought-openssl-f.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / handled alpn callback changes brought openssl f.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / imports and modules", "file": "releases/3-7-0-alpha-1/tests/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / random", "file": "releases/3-7-0-alpha-1/tests/random.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / random.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / socket", "file": "releases/3-7-0-alpha-1/tests/socket.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / socket.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / ssl", "file": "releases/3-7-0-alpha-1/tests/ssl.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / ssl.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / tests and documentation", "file": "releases/3-7-0-alpha-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / tests / traceback", "file": "releases/3-7-0-alpha-1/tests/traceback.md", "summary": "Open when checking Python 3.7.0 alpha 1 / tests / traceback.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

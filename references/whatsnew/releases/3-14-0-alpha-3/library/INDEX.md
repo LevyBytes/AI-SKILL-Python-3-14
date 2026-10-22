@@ -1,0 +1,48 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.0 alpha 3 / library / operator. [Functional Programming Modules / Python 3.14.0 alpha 3 / library / operator](operator.md).
+- Open when checking Python 3.14.0 alpha 3 / library / itertools. [Functional Programming Modules / Python 3.14.0 alpha 3 / library / itertools](itertools.md).
+- Open when checking Python 3.14.0 alpha 3 / library / pathlib. [File and Directory Access / Python 3.14.0 alpha 3 / library / pathlib](pathlib.md).
+- Open when checking Python 3.14.0 alpha 3 / library / shutil. [File and Directory Access / Python 3.14.0 alpha 3 / library / shutil](shutil.md).
+- Open when checking Python 3.14.0 alpha 3 / library / linecache. [File and Directory Access / Python 3.14.0 alpha 3 / library / linecache](linecache.md).
+- Open when checking Python 3.14.0 alpha 3 / library / os path. [File and Directory Access / Python 3.14.0 alpha 3 / library / os path](os-path.md).
+- Open when checking Python 3.14.0 alpha 3 / library / fnmatch. [File and Directory Access / Python 3.14.0 alpha 3 / library / fnmatch](fnmatch.md).
+- Open when checking Python 3.14.0 alpha 3 / library / pickle. [Data Persistence / Python 3.14.0 alpha 3 / library / pickle](pickle.md).
+- Open when checking Python 3.14.0 alpha 3 / library / zipfile. [Data Compression and Archiving / Python 3.14.0 alpha 3 / library / zipfile](zipfile.md).
+- Open when checking Python 3.14.0 alpha 3 / library / platform. [Generic Operating System Services / Python 3.14.0 alpha 3 / library / platform](platform.md).
+- Open when checking Python 3.14.0 alpha 3 / library / sys. [Generic Operating System Services / Python 3.14.0 alpha 3 / library / sys](sys.md).
+- Open when checking Python 3.14.0 alpha 3 / library / errno. [Generic Operating System Services / Python 3.14.0 alpha 3 / library / errno](errno.md).
+- Open when checking Python 3.14.0 alpha 3 / library / os. [Generic Operating System Services / Python 3.14.0 alpha 3 / library / os](os.md).
+- Open when checking Python 3.14.0 alpha 3 / library / threading. [Concurrent Execution / Python 3.14.0 alpha 3 / library / threading](threading.md).
+- Open when checking Python 3.14.0 alpha 3 / library / select. [Networking and Interprocess Communication / Python 3.14.0 alpha 3 / library / select](select.md).
+- Open when checking Python 3.14.0 alpha 3 / library / mimetypes. [Internet Data Handling / Python 3.14.0 alpha 3 / library / mimetypes](mimetypes.md).
+- Open when checking Python 3.14.0 alpha 3 / library / http cookies. [Internet Protocols and Support / Python 3.14.0 alpha 3 / library / http cookies](http-cookies.md).
+- Open when checking Python 3.14.0 alpha 3 / library / locale nl langinfo locale era hands back several era description segments split. [Internationalization / Python 3.14.0 alpha 3 / library / locale nl langinfo locale era hands back several era description segments split](locale-era-multiple-description-segments.md).
+- Open when checking Python 3.14.0 alpha 3 / library / test. [Development Tools / Python 3.14.0 alpha 3 / library / test](test.md).
+- Open when checking Python 3.14.0 alpha 3 / library / unittest. [Development Tools / Python 3.14.0 alpha 3 / library / unittest](unittest.md).
+- Open when checking Python 3.14.0 alpha 3 / library / pdb. [Debugging and Profiling / Python 3.14.0 alpha 3 / library / pdb](pdb.md).
+- Open when checking Python 3.14.0 alpha 3 / library / trace. [Debugging and Profiling / Python 3.14.0 alpha 3 / library / trace](trace.md).
+- Open when checking Python 3.14.0 alpha 3 / library / atexit. [Python Runtime Services / Python 3.14.0 alpha 3 / library / atexit](atexit.md).
+- Open when checking Python 3.14.0 alpha 3 / library / inspect. [Python Runtime Services / Python 3.14.0 alpha 3 / library / inspect](inspect.md).
+- Open when checking Python 3.14.0 alpha 3 / library / site. [Python Runtime Services / Python 3.14.0 alpha 3 / library / site](site.md).
+- Open when checking Python 3.14.0 alpha 3 / library / dis. [Python Language Services / Python 3.14.0 alpha 3 / library / dis](dis.md).
+- Open when checking Python 3.14.0 alpha 3 / library / token. [Python Language Services / Python 3.14.0 alpha 3 / library / token](token.md).
+- Open when checking Python 3.14.0 alpha 3 / library / pickletools. [Python Language Services / Python 3.14.0 alpha 3 / library / pickletools](pickletools.md).
+- Open when checking Python 3.14.0 alpha 3 / library / tests and documentation. [Unix-specific services / Python 3.14.0 alpha 3 / library / tests and documentation](tests-and-documentation.md).
+- Open when checking Python 3.14.0 alpha 3 / library / grp. [Unix-specific services / Python 3.14.0 alpha 3 / library / grp](grp.md).
+- Open when checking Python 3.14.0 alpha 3 / library / getopt. [Superseded Modules / Python 3.14.0 alpha 3 / library / getopt](getopt.md).
+- Open when checking Python 3.14.0 alpha 3 / library / build and platforms. [Combined library maintenance / Python 3.14.0 alpha 3 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.14.0 alpha 3 / library / ctypes. [Combined library maintenance / Python 3.14.0 alpha 3 / library / ctypes](ctypes.md).
+- Open when checking Python 3.14.0 alpha 3 / library / ssl. [Combined library maintenance / Python 3.14.0 alpha 3 / library / ssl](ssl.md).
+- Open when checking Python 3.14.0 alpha 3 / library / sysconfig. [Combined library maintenance / Python 3.14.0 alpha 3 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.14.0 alpha 3 / library / constants. [Combined library maintenance / Python 3.14.0 alpha 3 / library / constants](constants.md).
+- Open when checking Python 3.14.0 alpha 3 / library / exceptions. [Combined library maintenance / Python 3.14.0 alpha 3 / library / exceptions](exceptions.md).
+- Open when checking Python 3.14.0 alpha 3 / library / urllib request. [Combined library maintenance / Python 3.14.0 alpha 3 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.14.0 alpha 3 / library / multiprocessing. [Combined library maintenance / Python 3.14.0 alpha 3 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.14.0 alpha 3 / library / argparse. [Combined library maintenance / Python 3.14.0 alpha 3 / library / argparse](argparse.md).
+- Open when checking Python 3.14.0 alpha 3 / library / faulthandler. [Library compatibility and maintenance / Python 3.14.0 alpha 3 / library / faulthandler](faulthandler.md).
+- Open when checking Python 3.14.0 alpha 3 / library / binary. [Library compatibility and maintenance / Python 3.14.0 alpha 3 / library / binary](binary.md).
+- Open when checking Python 3.14.0 alpha 3 / library / tkinter. [Library compatibility and maintenance / Python 3.14.0 alpha 3 / library / tkinter](tkinter.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

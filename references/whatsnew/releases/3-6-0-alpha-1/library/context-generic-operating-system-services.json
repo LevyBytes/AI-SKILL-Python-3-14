@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Generic Operating System Services / Python 3.6.0 alpha 1 / library / fcntl", "file": "releases/3-6-0-alpha-1/library/fcntl.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / fcntl.", "keywords": []},
+  {"topic": "Generic Operating System Services / Python 3.6.0 alpha 1 / library / os", "file": "releases/3-6-0-alpha-1/library/os.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / os.", "keywords": []},
+  {"topic": "Generic Operating System Services / Python 3.6.0 alpha 1 / library / regexp cache belonging strptime cleared once timezone switched via", "file": "releases/3-6-0-alpha-1/library/timezone-change-date-parser-cache-invalidation.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / regexp cache belonging strptime cleared once timezone switched via.", "keywords": []},
+  {"topic": "Generic Operating System Services / Python 3.6.0 alpha 1 / library / sidestep spurious errors os makedirs exist ok true reported whenever os", "file": "releases/3-6-0-alpha-1/library/makedirs-existing-directory-error-precedence.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / sidestep spurious errors os makedirs exist ok true reported whenever os.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

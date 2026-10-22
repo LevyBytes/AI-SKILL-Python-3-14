@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Protocols and Support / Python 3.10.0 alpha 1 / library / uuid", "file": "releases/3-10-0-alpha-1/library/uuid.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / uuid.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.10.0 alpha 1 / library / webbrowser", "file": "releases/3-10-0-alpha-1/library/webbrowser.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / webbrowser.", "keywords": []},
+  {"topic": "Internet Protocols and Support / Python 3.10.0 alpha 1 / library / debug", "file": "releases/3-10-0-alpha-1/library/debug.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / debug.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

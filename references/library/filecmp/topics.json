@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "filecmp — File and Directory Comparisons", "file": "filecmp/file-and-directory-comparisons.md", "summary": "Open when checking filecmp — File and Directory Comparisons.", "keywords": []},
+  {"topic": "filecmp — `filecmp` — File and Directory Comparisons", "file": "filecmp/filecmp-cmp-to-filecmp-clear-cache.md", "summary": "Open when checking filecmp — `filecmp` — File and Directory Comparisons.", "keywords": []},
+  {"topic": "filecmp: `filecmp.dircmp`", "file": "filecmp/filecmp-dircmp-class.md", "summary": "Open when checking the documented contracts for `filecmp.dircmp` in filecmp.", "keywords": []},
+  {"topic": "filecmp.dircmp: `report()`, `report_partial_closure()`, `report_full_closure()`", "file": "filecmp/filecmp-dircmp-report-to-filecmp-dircmp-report-full-closure.md", "summary": "Open when checking the documented contracts for `report()`, `report_partial_closure()`, `report_full_closure()` in filecmp.dircmp.", "keywords": []},
+  {"topic": "filecmp: `filecmp.DEFAULT_IGNORES`", "file": "filecmp/filecmp-default-ignores.md", "summary": "Open when checking the documented contracts for `filecmp.DEFAULT_IGNORES` in filecmp.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

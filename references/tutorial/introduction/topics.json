@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "3. An Informal Introduction to Python", "file": "introduction/an-informal-introduction-to-python.md", "summary": "Open when checking 3. An Informal Introduction to Python.", "keywords": []},
+    {"topic": "3.2. First Steps Towards Programming", "file": "introduction/first-steps-towards-programming.md", "summary": "Open when checking 3.2. First Steps Towards Programming.", "keywords": []},
+    {"topic": "List aliasing, shallow copies, slice assignment and nesting", "file": "introduction/list-aliasing-shallow-copies-slice-assignment-and-nesting.md", "summary": "Open when checking List aliasing, shallow copies, slice assignment and nesting.", "keywords": []},
+    {"topic": "List indexing, concatenation, mutation and append", "file": "introduction/list-indexing-concatenation-mutation-and-append.md", "summary": "Open when checking List indexing, concatenation, mutation and append.", "keywords": []},
+    {"topic": "3.1.1. Numbers", "file": "introduction/numbers.md", "summary": "Open when checking 3.1.1. Numbers.", "keywords": []},
+    {"topic": "String bounds, immutability, length and further operations", "file": "introduction/string-bounds-immutability-length-and-further-operations.md", "summary": "Open when checking String bounds, immutability, length and further operations.", "keywords": []},
+    {"topic": "String indexing, slicing defaults and slice boundaries", "file": "introduction/string-indexing-slicing-defaults-and-slice-boundaries.md", "summary": "Open when checking String indexing, slicing defaults and slice boundaries.", "keywords": []},
+    {"topic": "String quotation, escapes, raw strings and multiline literals", "file": "introduction/string-quotation-escapes-raw-strings-and-multiline-literals.md", "summary": "Open when checking String quotation, escapes, raw strings and multiline literals.", "keywords": []},
+    {"topic": "String repetition and literal versus variable concatenation", "file": "introduction/string-repetition-and-literal-versus-variable-concatenation.md", "summary": "Open when checking String repetition and literal versus variable concatenation.", "keywords": []},
+    {"topic": "3.1. Using Python as a Calculator", "file": "introduction/using-python-as-a-calculator.md", "summary": "Open when checking 3.1. Using Python as a Calculator.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

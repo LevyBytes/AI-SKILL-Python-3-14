@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Persistence / Python 3.5.0 alpha 1 / library / flag n dbm dump open always builds fresh database", "file": "releases/3-5-0-alpha-1/library/flag-n-dbm-dump-open-always-builds-fresh-database.md", "summary": "Open when checking Python 3.5.0 alpha 1 / library / flag n dbm dump open always builds fresh database.", "keywords": []},
+  {"topic": "Data Persistence / Python 3.5.0 alpha 1 / library / sqlite3 row genuinely honors sequence protocol including reverse negative indices", "file": "releases/3-5-0-alpha-1/library/sqlite-row-sequence-protocol.md", "summary": "Open when checking Python 3.5.0 alpha 1 / library / sqlite3 row genuinely honors sequence protocol including reverse negative indices.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

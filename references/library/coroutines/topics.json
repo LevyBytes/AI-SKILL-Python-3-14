@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Coroutines — Code example: async def main():", "file": "coroutines/code-example-async-def-main.md", "summary": "Open when checking Coroutines — Code example: async def main():.", "keywords": []},
+    {"topic": "Coroutines — Section introduction and initial examples", "file": "coroutines/section-introduction-and-initial-examples.md", "summary": "Open when checking Coroutines — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

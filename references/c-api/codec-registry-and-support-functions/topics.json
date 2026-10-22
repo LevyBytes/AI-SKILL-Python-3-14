@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "const char *Py_hexdigits", "file": "codec-registry-and-support-functions/py-hexdigits.md", "summary": "Open when checking const char *Py_hexdigits.", "keywords": []},
+    {"topic": "Codec lookup API", "file": "codec-registry-and-support-functions/pycodec-encoder-to-pycodec-streamwriter.md", "summary": "Open when checking Codec lookup API.", "keywords": []},
+    {"topic": "Codec registry and support functions", "file": "codec-registry-and-support-functions/pycodec-register-to-pycodec-decode.md", "summary": "Open when checking Codec registry and support functions.", "keywords": []},
+    {"topic": "Registry API for Unicode encoding error handlers", "file": "codec-registry-and-support-functions/pycodec-registererror-to-pycodec-namereplaceerrors.md", "summary": "Open when checking Registry API for Unicode encoding error handlers.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

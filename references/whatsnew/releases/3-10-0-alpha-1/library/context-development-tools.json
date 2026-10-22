@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Development Tools / Python 3.10.0 alpha 1 / library / python", "file": "releases/3-10-0-alpha-1/library/python.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / python.", "keywords": []},
+  {"topic": "Development Tools / Python 3.10.0 alpha 1 / library / evaluate typing forwardref recursively inside get type hints", "file": "releases/3-10-0-alpha-1/library/evaluate-typing-forwardref-recursively-inside-get-type-hints.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / evaluate typing forwardref recursively inside get type hints.", "keywords": []},
+  {"topic": "Development Tools / Python 3.10.0 alpha 1 / library / typing", "file": "releases/3-10-0-alpha-1/library/typing.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / typing.", "keywords": []},
+  {"topic": "Development Tools / Python 3.10.0 alpha 1 / library / unittest", "file": "releases/3-10-0-alpha-1/library/unittest.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / unittest.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

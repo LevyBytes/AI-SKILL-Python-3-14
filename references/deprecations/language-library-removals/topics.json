@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "python 3 13", "file": "language-library-removals/python-3-13/INDEX.md", "summary": "Open when checking python 3 13.", "keywords": []},
+    {"topic": "python 3 14", "file": "language-library-removals/python-3-14/INDEX.md", "summary": "Open when checking python 3 14.", "keywords": []},
+    {"topic": "python 3 15", "file": "language-library-removals/python-3-15/INDEX.md", "summary": "Open when checking python 3 15.", "keywords": []},
+    {"topic": "python 3 16", "file": "language-library-removals/python-3-16/INDEX.md", "summary": "Open when checking python 3 16.", "keywords": []},
+    {"topic": "python 3 17", "file": "language-library-removals/python-3-17/INDEX.md", "summary": "Open when checking python 3 17.", "keywords": []},
+    {"topic": "python 3 18", "file": "language-library-removals/python-3-18/INDEX.md", "summary": "Open when checking python 3 18.", "keywords": []},
+    {"topic": "python 3 19", "file": "language-library-removals/python-3-19/INDEX.md", "summary": "Open when checking python 3 19.", "keywords": []},
+    {"topic": "unscheduled", "file": "language-library-removals/unscheduled/INDEX.md", "summary": "Open when checking unscheduled.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

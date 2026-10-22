@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "colorsys — `colorsys` — Conversions between color systems", "file": "colorsys/colorsys-rgb-to-yiq-to-colorsys-hsv-to-rgb.md", "summary": "Open when checking colorsys — `colorsys` — Conversions between color systems.", "keywords": []},
+    {"topic": "colorsys — Conversions between color systems", "file": "colorsys/conversions-between-color-systems.md", "summary": "Open when checking colorsys — Conversions between color systems.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

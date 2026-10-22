@@ -1,0 +1,19 @@
+{"schema_version": 1, "topics": [
+  {"topic": "random — Command-line example", "file": "random/command-line-example.md", "summary": "Open when checking random — Command-line example.", "keywords": []},
+  {"topic": "random — Command-line usage", "file": "random/command-line-usage.md", "summary": "Open when checking random — Command-line usage.", "keywords": []},
+  {"topic": "random — Examples — Code example: from statistics import fmean as mean", "file": "random/examples-code-example-from-statistics-import-fmean-as-mean.md", "summary": "Open when checking random — Examples — Code example: from statistics import fmean as mean.", "keywords": []},
+  {"topic": "random — Examples — Section introduction and initial examples", "file": "random/examples-section-introduction-and-initial-examples.md", "summary": "Open when checking random — Examples — Section introduction and initial examples.", "keywords": []},
+  {"topic": "random — Notes on Reproducibility", "file": "random/notes-on-reproducibility.md", "summary": "Open when checking random — Notes on Reproducibility.", "keywords": []},
+  {"topic": "random — Discrete distributions", "file": "random/random-binomialvariate.md", "summary": "Open when checking random — Discrete distributions.", "keywords": []},
+  {"topic": "random — Functions for sequences", "file": "random/random-choice-to-random-sample.md", "summary": "Open when checking random — Functions for sequences.", "keywords": []},
+  {"topic": "random — `random` — Generate pseudo-random numbers", "file": "random/random-generate-pseudo-random-numbers.md", "summary": "Open when checking random — `random` — Generate pseudo-random numbers.", "keywords": []},
+  {"topic": "random — Functions for bytes", "file": "random/random-randbytes.md", "summary": "Open when checking random — Functions for bytes.", "keywords": []},
+  {"topic": "random: `random.Random`", "file": "random/random-random-class.md", "summary": "Open when checking the documented contracts for `random.Random` in random.", "keywords": []},
+  {"topic": "random.Random: `seed()`, `getstate()`, `setstate()`, `random()`, `getrandbits()`, `randbytes()`", "file": "random/random-random-seed-to-random-random-randbytes.md", "summary": "Open when checking the documented contracts for `seed()`, `getstate()`, `setstate()`, `random()`, `getrandbits()`, `randbytes()` in random.Random.", "keywords": []},
+  {"topic": "random: `random.SystemRandom`", "file": "random/random-systemrandom-class.md", "summary": "Open when checking the documented contracts for `random.SystemRandom` in random.", "keywords": []},
+  {"topic": "random — Real-valued distributions", "file": "random/random-random-to-random-weibullvariate.md", "summary": "Open when checking random — Real-valued distributions.", "keywords": []},
+  {"topic": "random — Functions for integers", "file": "random/random-randrange-to-random-getrandbits.md", "summary": "Open when checking random — Functions for integers.", "keywords": []},
+  {"topic": "random — Bookkeeping functions", "file": "random/random-seed-to-random-setstate.md", "summary": "Open when checking random — Bookkeeping functions.", "keywords": []},
+  {"topic": "random — Recipes", "file": "random/recipes.md", "summary": "Open when checking random — Recipes.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

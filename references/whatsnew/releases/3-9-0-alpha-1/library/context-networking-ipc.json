@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Networking and Interprocess Communication / Python 3.9.0 alpha 1 / library / signal", "file": "releases/3-9-0-alpha-1/library/signal.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / signal.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / Python 3.9.0 alpha 1 / library / asyncio sync", "file": "releases/3-9-0-alpha-1/library/asyncio-sync.md", "summary": "Open when checking Python 3.9.0 alpha 1 / library / asyncio sync.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

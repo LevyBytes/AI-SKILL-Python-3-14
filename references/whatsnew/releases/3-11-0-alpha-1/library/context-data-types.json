@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Types / Python 3.11.0 alpha 1 / library / collections", "file": "releases/3-11-0-alpha-1/library/collections.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / collections.", "keywords": []},
+  {"topic": "Data Types / Python 3.11.0 alpha 1 / library / weakref proxy objects point non iterators raise typeerror instead dereferencing null", "file": "releases/3-11-0-alpha-1/library/weak-proxy-noniterator-error-handling.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / weakref proxy objects point non iterators raise typeerror instead dereferencing null.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

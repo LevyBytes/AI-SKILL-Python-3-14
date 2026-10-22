@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "asyncio.policy: `asyncio.AbstractEventLoopPolicy`", "file": "asyncio-policy/asyncio-abstracteventlooppolicy-class.md", "summary": "Open when checking the documented contracts for `asyncio.AbstractEventLoopPolicy` in asyncio.policy.", "keywords": []},
+  {"topic": "asyncio.policy: `get_event_loop()`, `set_event_loop()`, `new_event_loop()`", "file": "policy-event-loop-access-and-creation.md", "summary": "Open when checking the documented contracts for `get_event_loop()`, `set_event_loop()`, `new_event_loop()` in asyncio.policy.", "keywords": []},
+  {"topic": "asyncio.policy: `asyncio.DefaultEventLoopPolicy`", "file": "asyncio-policy/asyncio-defaulteventlooppolicy-class.md", "summary": "Open when checking the documented contracts for `asyncio.DefaultEventLoopPolicy` in asyncio.policy.", "keywords": []},
+  {"topic": "asyncio.policy: `asyncio.WindowsSelectorEventLoopPolicy`", "file": "asyncio-policy/asyncio-windowsselectoreventlooppolicy-class.md", "summary": "Open when checking the documented contracts for `asyncio.WindowsSelectorEventLoopPolicy` in asyncio.policy.", "keywords": []},
+  {"topic": "asyncio.policy: `asyncio.WindowsProactorEventLoopPolicy`", "file": "asyncio-policy/asyncio-windowsproactoreventlooppolicy-class.md", "summary": "Open when checking the documented contracts for `asyncio.WindowsProactorEventLoopPolicy` in asyncio.policy.", "keywords": []},
+  {"topic": "Getting and Setting the Policy", "file": "global-event-loop-policy-access.md", "summary": "Open when checking Getting and Setting the Policy.", "keywords": []},
+  {"topic": "Custom Policies", "file": "asyncio-policy/custom-policies.md", "summary": "Open when checking Custom Policies.", "keywords": []},
+  {"topic": "Policies", "file": "asyncio-policy/policies.md", "summary": "Open when checking Policies.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

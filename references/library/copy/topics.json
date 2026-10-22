@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "copy: `copy.copy()`, `copy.deepcopy()`, `copy.replace()`, `copy.Error`, `object.__copy__()`, `object.__deepcopy__()`", "file": "copy/copy-copy-to-object-deepcopy.md", "summary": "Open when checking the documented contracts for `copy.copy()`, `copy.deepcopy()`, `copy.replace()`, `copy.Error`, `object.__copy__()`, `object.__deepcopy__()` in copy.", "keywords": []},
+  {"topic": "copy: `object.__replace__()`", "file": "copy/object-replace.md", "summary": "Open when checking the documented contracts for `object.__replace__()` in copy.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

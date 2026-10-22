@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Can I have Tk events handled while waiting for I/O?", "file": "graphic-user-interface-faq/can-i-have-tk-events-handled-while-waiting-for-i-o.md", "summary": "Open when checking Can I have Tk events handled while waiting for I/O?.", "keywords": []},
+    {"topic": "How do I freeze Tkinter applications?", "file": "graphic-user-interface-faq/how-do-i-freeze-tkinter-applications.md", "summary": "Open when checking How do I freeze Tkinter applications?.", "keywords": []},
+    {"topic": "I can't get key bindings to work in Tkinter: why?", "file": "graphic-user-interface-faq/i-can-t-get-key-bindings-to-work-in-tkinter-why.md", "summary": "Open when checking I can't get key bindings to work in Tkinter: why?.", "keywords": []},
+    {"topic": "What GUI toolkits exist for Python?", "file": "graphic-user-interface-faq/what-gui-toolkits-exist-for-python.md", "summary": "Open when checking What GUI toolkits exist for Python?.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

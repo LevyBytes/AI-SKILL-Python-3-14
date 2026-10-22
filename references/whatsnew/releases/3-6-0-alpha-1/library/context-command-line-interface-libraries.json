@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Command-line interface libraries / Python 3.6.0 alpha 1 / library / curses panel", "file": "releases/3-6-0-alpha-1/library/curses-panel.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / curses panel.", "keywords": []},
+  {"topic": "Command-line interface libraries / Python 3.6.0 alpha 1 / library / repr argparse namespace improved invalid identifiers", "file": "releases/3-6-0-alpha-1/library/repr-argparse-namespace-improved-invalid-identifiers.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / repr argparse namespace improved invalid identifiers.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

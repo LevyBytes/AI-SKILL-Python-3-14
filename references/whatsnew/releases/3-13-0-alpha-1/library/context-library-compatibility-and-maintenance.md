@@ -1,0 +1,50 @@
+# Library compatibility and maintenance
+
+Select by the documented task or API context. [Topic catalog](context-library-compatibility-and-maintenance.json).
+
+- Open when checking Python 3.13.0 alpha 1 / library / micro optimization steer clear invoking min max within baseeventloop run once. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / micro optimization steer clear invoking min max within baseeventloop run once](event-loop-min-max-call-optimization.md).
+- Open when checking Python 3.13.0 alpha 1 / library / corrected error could occur frozen dataclass inherited several parents. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / corrected error could occur frozen dataclass inherited several parents](frozen-dataclass-multiple-inheritance.md).
+- Open when checking Python 3.13.0 alpha 1 / library / functional. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / functional](functional.md).
+- Open when checking Python 3.13.0 alpha 1 / library / socket. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / socket](socket.md).
+- Open when checking Python 3.13.0 alpha 1 / library / gzip. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / gzip](gzip.md).
+- Open when checking Python 3.13.0 alpha 1 / library / handing callable object through option value tkinter image produces. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / handing callable object through option value tkinter image produces](tk-image-callable-option-values.md).
+- Open when checking Python 3.13.0 alpha 1 / library / address possibly absent null check d2i ssl session result inside ssl c. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / address possibly absent null check d2i ssl session result inside ssl c](ssl-session-decoding-null-check.md).
+- Open when checking Python 3.13.0 alpha 1 / library / collections and iteration. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.13.0 alpha 1 / library / compiler and parser. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.13.0 alpha 1 / library / refresh bundled pip copy version. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / refresh bundled pip copy version](refresh-bundled-pip-copy-version.md).
+- Open when checking Python 3.13.0 alpha 1 / library / switch lowercase mail rcpt inside smptlib smtp. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / switch lowercase mail rcpt inside smptlib smtp](switch-lowercase-mail-rcpt-inside-smptlib-smtp.md).
+- Open when checking Python 3.13.0 alpha 1 / library / address crash sre template templates hold invalid group indices. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / address crash sre template templates hold invalid group indices](regex-template-invalid-group-index-crash.md).
+- Open when checking Python 3.13.0 alpha 1 / library / address flag mask inversion unnamed flags present. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / address flag mask inversion unnamed flags present](address-flag-mask-inversion-unnamed-flags-present.md).
+- Open when checking Python 3.13.0 alpha 1 / library / debug. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / debug](debug.md).
+- Open when checking Python 3.13.0 alpha 1 / library / eliminate ref cycle among callers convert to error through dropping result. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / eliminate ref cycle among callers convert to error through dropping result](convert-to-error-result-reference-cycle.md).
+- Open when checking Python 3.13.0 alpha 1 / library / email. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / email](email.md).
+- Open when checking Python 3.13.0 alpha 1 / library / memory and lifetimes. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / memory and lifetimes](memory-and-lifetimes.md).
+- Open when checking Python 3.13.0 alpha 1 / library / tune construct pattern always fails inside regular expressions. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / tune construct pattern always fails inside regular expressions](always-failing-regex-pattern-optimization.md).
+- Open when checking Python 3.13.0 alpha 1 / library / address crash hit repr called against hand built signaldict object. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / address crash hit repr called against hand built signaldict object](manual-signal-dictionary-representation-crash.md).
+- Open when checking Python 3.13.0 alpha 1 / library / concurrency. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / concurrency](concurrency.md).
+- Open when checking Python 3.13.0 alpha 1 / library / zipapp passes over appending any archive onto itself. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / zipapp passes over appending any archive onto itself](zipapp-passes-over-appending-any-archive-onto-itself.md).
+- Open when checking Python 3.13.0 alpha 1 / library / address flag inversion alias mask members present. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / address flag inversion alias mask members present](address-flag-inversion-alias-mask-members-present.md).
+- Open when checking Python 3.13.0 alpha 1 / library / audioop. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / audioop](audioop.md).
+- Open when checking Python 3.13.0 alpha 1 / library / itertools. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / itertools](itertools.md).
+- Open when checking Python 3.13.0 alpha 1 / library / overview. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / overview](overview.md).
+- Open when checking Python 3.13.0 alpha 1 / library / reverted pickling approach relies by value again rather than by name. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / reverted pickling approach relies by value again rather than by name](enum-pickling-by-value-restoration.md).
+- Open when checking Python 3.13.0 alpha 1 / library / aifc. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / aifc](aifc.md).
+- Open when checking Python 3.13.0 alpha 1 / library / chunk. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / chunk](chunk.md).
+- Open when checking Python 3.13.0 alpha 1 / library / crypt. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / crypt](crypt.md).
+- Open when checking Python 3.13.0 alpha 1 / library / mailcap. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / mailcap](mailcap.md).
+- Open when checking Python 3.13.0 alpha 1 / library / msilib. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / msilib](msilib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / nis. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / nis](nis.md).
+- Open when checking Python 3.13.0 alpha 1 / library / nntplib. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / nntplib](nntplib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / ossaudiodev. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / ossaudiodev](ossaudiodev.md).
+- Open when checking Python 3.13.0 alpha 1 / library / pipes. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / pipes](pipes.md).
+- Open when checking Python 3.13.0 alpha 1 / library / python. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / python](python.md).
+- Open when checking Python 3.13.0 alpha 1 / library / sunau. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / sunau](sunau.md).
+- Open when checking Python 3.13.0 alpha 1 / library / uu. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / uu](uu.md).
+- Open when checking Python 3.13.0 alpha 1 / library / xdrlib. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / xdrlib](xdrlib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / imghdr. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / imghdr](imghdr.md).
+- Open when checking Python 3.13.0 alpha 1 / library / modules. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / modules](modules.md).
+- Open when checking Python 3.13.0 alpha 1 / library / sndhdr. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / sndhdr](sndhdr.md).
+- Open when checking Python 3.13.0 alpha 1 / library / telnetlib. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / telnetlib](telnetlib.md).
+- Open when checking Python 3.13.0 alpha 1 / library / logging configuration key characters. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / logging configuration key characters](logging-configuration-key-characters.md).
+- Open when checking Python 3.13.0 alpha 1 / library / repaired defect producing incorrect matches regular expressions use possessive. [Library compatibility and maintenance / Python 3.13.0 alpha 1 / library / repaired defect producing incorrect matches regular expressions use possessive](possessive-regex-matching-correction.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

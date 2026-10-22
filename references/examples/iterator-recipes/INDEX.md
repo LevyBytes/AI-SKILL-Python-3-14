@@ -1,0 +1,46 @@
+# iterator recipes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking consume. [Selecting and consuming values / consume](consume.py).
+- Open when checking first_true. [Selecting and consuming values / first_true](first_true.py).
+- Open when checking iter_except. [Selecting and consuming values / iter_except](iter_except.py).
+- Open when checking iter_index. [Selecting and consuming values / iter_index](iter_index.py).
+- Open when checking nth. [Selecting and consuming values / nth](nth.py).
+- Open when checking tail. [Selecting and consuming values / tail](tail.py).
+- Open when checking take. [Selecting and consuming values / take](take.py).
+- Open when checking flatten. [Combining and reshaping iterables / flatten](flatten.py).
+- Open when checking grouper. [Combining and reshaping iterables / grouper](grouper.py).
+- Open when checking prepend. [Combining and reshaping iterables / prepend](prepend.py).
+- Open when checking reshape. [Combining and reshaping iterables / reshape](reshape.py).
+- Open when checking roundrobin. [Combining and reshaping iterables / roundrobin](roundrobin.py).
+- Open when checking sliding_window. [Combining and reshaping iterables / sliding_window](sliding_window.py).
+- Open when checking subslices. [Combining and reshaping iterables / subslices](subslices.py).
+- Open when checking transpose. [Combining and reshaping iterables / transpose](transpose.py).
+- Open when checking loops. [Repetition and callable iteration / loops](loops.py).
+- Open when checking ncycles. [Repetition and callable iteration / ncycles](ncycles.py).
+- Open when checking repeatfunc. [Repetition and callable iteration / repeatfunc](repeatfunc.py).
+- Open when checking all_equal. [Equality and uniqueness / all_equal](all_equal.py).
+- Open when checking unique. [Equality and uniqueness / unique](unique.py).
+- Open when checking unique_everseen. [Equality and uniqueness / unique_everseen](unique_everseen.py).
+- Open when checking unique_justseen. [Equality and uniqueness / unique_justseen](unique_justseen.py).
+- Open when checking quantify. [Running statistics and aggregation / quantify](quantify.py).
+- Open when checking running_max. [Running statistics and aggregation / running_max](running_max.py).
+- Open when checking running_mean. [Running statistics and aggregation / running_mean](running_mean.py).
+- Open when checking running_median. [Running statistics and aggregation / running_median](running_median.py).
+- Open when checking running_min. [Running statistics and aggregation / running_min](running_min.py).
+- Open when checking running_statistics. [Running statistics and aggregation / running_statistics](running_statistics.py).
+- Open when checking sum_of_squares. [Running statistics and aggregation / sum_of_squares](sum_of_squares.py).
+- Open when checking derangements. [Combinatorics / derangements](derangements.py).
+- Open when checking multinomial. [Combinatorics / multinomial](multinomial.py).
+- Open when checking powerset. [Combinatorics / powerset](powerset.py).
+- Open when checking convolve. [Polynomial and matrix operations / convolve](convolve.py).
+- Open when checking matmul. [Polynomial and matrix operations / matmul](matmul.py).
+- Open when checking polynomial_derivative. [Polynomial and matrix operations / polynomial_derivative](polynomial_derivative.py).
+- Open when checking polynomial_eval. [Polynomial and matrix operations / polynomial_eval](polynomial_eval.py).
+- Open when checking polynomial_from_roots. [Polynomial and matrix operations / polynomial_from_roots](polynomial_from_roots.py).
+- Open when checking factor. [Prime and integer arithmetic / factor](factor.py).
+- Open when checking is_prime. [Prime and integer arithmetic / is_prime](is_prime.py).
+- Open when checking sieve. [Prime and integer arithmetic / sieve](sieve.py).
+- Open when checking totient. [Prime and integer arithmetic / totient](totient.py).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../languages.md).

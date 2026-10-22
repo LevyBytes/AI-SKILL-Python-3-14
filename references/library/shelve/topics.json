@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "shelve — Example", "file": "shelve/example.md", "summary": "Open when checking shelve — Example.", "keywords": []},
+  {"topic": "shelve: `shelve.Shelf`", "file": "shelve/shelve-shelf-class.md", "summary": "Open when checking the documented contracts for `shelve.Shelf` in shelve.", "keywords": []},
+  {"topic": "shelve: `shelve.BsdDbShelf`", "file": "shelve/shelve-bsddbshelf-class.md", "summary": "Open when checking the documented contracts for `shelve.BsdDbShelf` in shelve.", "keywords": []},
+  {"topic": "shelve: `shelve.DbfilenameShelf`", "file": "shelve/shelve-dbfilenameshelf-class.md", "summary": "Open when checking the documented contracts for `shelve.DbfilenameShelf` in shelve.", "keywords": []},
+  {"topic": "shelve — `shelve` — Python object persistence", "file": "shelve/shelve-open-to-shelf-close.md", "summary": "Open when checking shelve — `shelve` — Python object persistence.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

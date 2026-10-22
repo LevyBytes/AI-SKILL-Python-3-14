@@ -1,0 +1,5 @@
+# Python 3.6.2 release candidate 2 / security / os
+
+[bpo-30694](https://bugs.python.org/issue?@action=redirect&bpo=30694): Move the bundled expat from 2.2.0 up to 2.2.1 so as to pick up patches for several security holes. The list covers [**CVE 2017-9233**](https://www.cve.org/CVERecord?id=CVE-2017-9233) (a DoS via an external-entity infinite loop); [**CVE 2016-9063**](https://www.cve.org/CVERecord?id=CVE-2016-9063) (a renewed correction for an integer overflow); [**CVE 2016-0718**](https://www.cve.org/CVERecord?id=CVE-2016-0718) (which patches regressions left by the 2.2.0 remedy applied to [**CVE 2016-0718**](https://www.cve.org/CVERecord?id=CVE-2016-0718)); plus [**CVE 2012-0876**](https://www.cve.org/CVERecord?id=CVE-2012-0876) (hash flooding of a counter, addressed via SipHash). One caveat: [**CVE 2016-5300**](https://www.cve.org/CVERecord?id=CVE-2016-5300) (which calls for os-specific entropy, getrandom for instance) leaves Python unaffected; Python draws its entropy straight from the OS already, seeding the expat secret through `XML_SetHashSalt()`.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

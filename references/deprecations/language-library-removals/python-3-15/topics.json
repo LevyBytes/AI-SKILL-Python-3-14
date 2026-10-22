@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Language and standard library pending removal in 3.15: import system; ctypes; http.server; importlib; pathlib; platform; sysconfig; threading", "file": "language-library-removals/python-3-15/import-system-through-threading.md", "summary": "Open when checking Language and standard library pending removal in 3.15: import system; ctypes; http.server; importlib; pathlib; platform; sysconfig; threading.", "keywords": []},
+    {"topic": "Language and standard library pending removal in 3.15: import system; ctypes; http.server; importlib; pathlib; platform; sysconfig; threading; types", "file": "language-library-removals/python-3-15/import-system-through-types.md", "summary": "Open when checking Language and standard library pending removal in 3.15: import system; ctypes; http.server; importlib; pathlib; platform; sysconfig; threading; types.", "keywords": []},
+    {"topic": "Language and standard library pending removal in 3.15: types; typing; wave; zipimport", "file": "language-library-removals/python-3-15/types-through-zipimport.md", "summary": "Open when checking Language and standard library pending removal in 3.15: types; typing; wave; zipimport.", "keywords": []},
+    {"topic": "Language and standard library pending removal in 3.15: typing; wave; zipimport", "file": "language-library-removals/python-3-15/typing-wave-zipimport.md", "summary": "Open when checking Language and standard library pending removal in 3.15: typing; wave; zipimport.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

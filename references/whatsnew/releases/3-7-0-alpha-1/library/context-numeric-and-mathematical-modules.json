@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Numeric and Mathematical Modules / Python 3.7.0 alpha 1 / library / random seed operates bytes version", "file": "releases/3-7-0-alpha-1/library/random-seed-operates-bytes-version.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / random seed operates bytes version.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.7.0 alpha 1 / library / math remainder operation added computing remainder per ieee specification", "file": "releases/3-7-0-alpha-1/library/ieee-floating-point-remainder.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / math remainder operation added computing remainder per ieee specification.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

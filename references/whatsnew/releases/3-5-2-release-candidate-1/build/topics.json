@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.2 release candidate 1 / build / added support new textual sdk stub libraries shipped apple", "file": "releases/3-5-2-release-candidate-1/build/added-support-new-textual-sdk-stub-libraries-shipped-apple.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / added support new textual sdk stub libraries shipped apple.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / audioop", "file": "releases/3-5-2-release-candidate-1/build/audioop.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / audioop.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / build and platforms", "file": "releases/3-5-2-release-candidate-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / cmath", "file": "releases/3-5-2-release-candidate-1/build/cmath.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / cmath.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / corrected cross compiling pgen rule in tree builds", "file": "releases/3-5-2-release-candidate-1/build/corrected-cross-compiling-pgen-rule-in-tree-builds.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / corrected cross compiling pgen rule in tree builds.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / corrected installation python unix under make j9", "file": "releases/3-5-2-release-candidate-1/build/corrected-installation-python-unix-under-make-j9.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / corrected installation python unix under make j9.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / files and paths", "file": "releases/3-5-2-release-candidate-1/build/files-and-paths.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / modules", "file": "releases/3-5-2-release-candidate-1/build/modules.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / modules.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / os x bit only installer built linked against openssl h", "file": "releases/3-5-2-release-candidate-1/build/os-x-bit-only-installer-built-linked-against-openssl-h.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / os x bit only installer built linked against openssl h.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / validation ucrtbase d dll version added together warning version", "file": "windows-debug-crt-version-validation.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / validation ucrtbase d dll version added together warning version.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / build / warnings", "file": "releases/3-5-2-release-candidate-1/build/warnings.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / build / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

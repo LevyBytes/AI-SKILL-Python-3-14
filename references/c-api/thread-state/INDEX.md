@@ -1,0 +1,23 @@
+# Python/C API subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking Cautions about fork(): [Cautions about fork()](cautions-about-fork.md).
+- Open when checking Detaching the thread state from extension code: [Detaching the thread state from extension code](detaching-the-thread-state-from-extension-code.md).
+- Open when checking GIL-state thread-local storage and subinterpreter limitation in thread state C API. [thread state C API: GIL-state thread-local storage and subinterpreter limitation](gil-state-apis.md).
+- Open when checking the documented contracts for `PyGILState_STATE`, `PyGILState_Ensure()`, `PyGILState_Release()`, `PyGILState_GetThisThreadState()`, `PyThreadState_Get()`, `PyGILState_Check()` in thread state C API. [thread state C API: `PyGILState_STATE`, `PyGILState_Ensure()`, `PyGILState_Release()`, `PyGILState_GetThisThreadState()`, `PyThreadState_Get()`, `PyGILState_Check()`](pygilstate-state-to-pygilstate-check.md).
+- Open when checking high-level thread-state API purpose in thread state C API. [thread state C API: High-level thread-state API purpose](high-level-apis.md).
+- Open when checking the documented contracts for `PyThreadState`, `PyEval_InitThreads()`, `PyEval_SaveThread()`, `PyEval_RestoreThread()`, `PyThreadState_Get()`, `PyThreadState_GetUnchecked()`, `PyThreadState_Swap()`, `PyEval_ReleaseThread()` in thread state C API. [thread state C API: `PyThreadState`, `PyEval_InitThreads()`, `PyEval_SaveThread()`, `PyEval_RestoreThread()`, `PyThreadState_Get()`, `PyThreadState_GetUnchecked()`, `PyThreadState_Swap()`, `PyEval_ReleaseThread()`](pythreadstate-to-pyeval-releasethread.md).
+- Open when checking Legacy API: [Legacy API](legacy-api.md).
+- Open when checking Non-Python created threads: [Non-Python created threads](non-python-created-threads.md).
+- Open when checking Asynchronous notifications: [Asynchronous notifications](py-addpendingcall-to-pythreadstate-setasyncexc.md).
+- Open when checking APIs: [APIs](py-begin-allow-threads-to-py-unblock-threads.md).
+- Open when checking the documented contracts for `PyThread_start_new_thread()`, `PyThread_get_thread_ident()`, `threading.get_ident()`, `PyThread_GetInfo()`, `PyThread_get_thread_native_id()`, `threading.get_native_id()`, `PyThread_exit_thread()`, `PyThread_init_thread()` in thread state C API. [thread state C API: `PyThread_start_new_thread()`, `PyThread_get_thread_ident()`, `threading.get_ident()`, `PyThread_GetInfo()`, `PyThread_get_thread_native_id()`, `threading.get_native_id()`, `PyThread_exit_thread()`, `PyThread_init_thread()`](pythread-start-new-thread-to-pythread-init-thread.md).
+- Open when checking the documented contracts for `PyThread_set_stacksize()`, `PyThread_get_stacksize()` in thread state C API. [thread state C API: `PyThread_set_stacksize()`, `PyThread_get_stacksize()`](pythread-set-stacksize-to-pythread-get-stacksize.md).
+- Open when checking void PyThreadState_LeaveTracing(PyThreadState *tstate): [void PyThreadState_LeaveTracing(PyThreadState *tstate)](pythreadstate-leavetracing.md).
+- Open when checking the documented contracts for `PyThreadState_New()`, `PyThreadState_Clear()`, `PyThreadState_Delete()`, `PyThreadState_DeleteCurrent()`, `PyThreadState_GetFrame()`, `PyThreadState_GetInterpreter()`, `PyThreadState_EnterTracing()` in thread state C API. [thread state C API: `PyThreadState_New()`, `PyThreadState_Clear()`, `PyThreadState_Delete()`, `PyThreadState_DeleteCurrent()`, `PyThreadState_GetFrame()`, `PyThreadState_GetInterpreter()`, `PyThreadState_EnterTracing()`](pythreadstate-new-to-pythreadstate-entertracing.md).
+- Open when checking the documented contracts for `PyUnstable_ThreadState_ResetStackProtection()`, `PyThreadState_GetDict()`, `PyEval_AcquireThread()`, `PyEval_ReleaseThread()` in thread state C API. [thread state C API: `PyUnstable_ThreadState_ResetStackProtection()`, `PyThreadState_GetDict()`, `PyEval_AcquireThread()`, `PyEval_ReleaseThread()`](stack-protection-and-thread-lock-apis.md).
+- Open when checking int PyUnstable_ThreadState_SetStackProtection(PyThreadState *tstate, void *stack_start_addr, size_t stack_size): [int PyUnstable_ThreadState_SetStackProtection(PyThreadState *tstate, void *stack_start_addr, size_t stack_size)](pyunstable-threadstate-setstackprotection.md).
+- Open when checking Thread states and the global interpreter lock: [Thread states and the global interpreter lock](thread-states-and-the-global-interpreter-lock.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

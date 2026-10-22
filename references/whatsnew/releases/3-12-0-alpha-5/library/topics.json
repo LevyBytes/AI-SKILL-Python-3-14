@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 5 / library / asyncio eventloop", "file": "releases/3-12-0-alpha-5/library/asyncio-eventloop.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / asyncio eventloop.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / asyncio stream", "file": "releases/3-12-0-alpha-5/library/asyncio-stream.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / asyncio stream.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / asyncio", "file": "releases/3-12-0-alpha-5/library/asyncio.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / asyncio.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / collections and iteration", "file": "releases/3-12-0-alpha-5/library/collections-and-iteration.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / correct bug under zlib zlibdecompressor failed raise errors met during", "file": "zlib-decompression-error-propagation.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / correct bug under zlib zlibdecompressor failed raise errors met during.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / ctypes", "file": "releases/3-12-0-alpha-5/library/ctypes.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / ctypes.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / ensurepip", "file": "releases/3-12-0-alpha-5/library/ensurepip.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / ensurepip.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / enum fix psuedo flag creation", "file": "releases/3-12-0-alpha-5/library/enum-fix-psuedo-flag-creation.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / enum fix psuedo flag creation.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / every uid gid variable posixsubprocess seeded reserved value rather", "file": "posix-subprocess-user-group-sentinel-initialization.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / every uid gid variable posixsubprocess seeded reserved value rather.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / files and paths", "file": "releases/3-12-0-alpha-5/library/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / fractions", "file": "releases/3-12-0-alpha-5/library/fractions.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / fractions.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / functions and types", "file": "releases/3-12-0-alpha-5/library/functions-and-types.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / imports and modules", "file": "releases/3-12-0-alpha-5/library/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / os path", "file": "releases/3-12-0-alpha-5/library/os-path.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / os path.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / pathlib", "file": "releases/3-12-0-alpha-5/library/pathlib.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / pathlib.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / socket", "file": "releases/3-12-0-alpha-5/library/socket.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / socket.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / subprocess", "file": "releases/3-12-0-alpha-5/library/subprocess.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / subprocess.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / sys", "file": "releases/3-12-0-alpha-5/library/sys.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / sys.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / typing", "file": "releases/3-12-0-alpha-5/library/typing.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / typing.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / uuid", "file": "releases/3-12-0-alpha-5/library/uuid.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / uuid.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / warnings", "file": "releases/3-12-0-alpha-5/library/warnings.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / warnings.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / xml etree elementtree", "file": "releases/3-12-0-alpha-5/library/xml-etree-elementtree.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / xml etree elementtree.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 5 / library / zipfile", "file": "releases/3-12-0-alpha-5/library/zipfile.md", "summary": "Open when checking Python 3.12.0 alpha 5 / library / zipfile.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

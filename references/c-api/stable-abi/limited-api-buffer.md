@@ -1,0 +1,36 @@
+# Limited API: Buffer protocol
+
+Open when checking the bundled Limited API symbols for buffer protocol.
+
+- [`Py_buffer`](https://docs.python.org/3.14/c-api/buffer.html#c.Py_buffer)
+- [`PyBUF_ANY_CONTIGUOUS`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_ANY_CONTIGUOUS)
+- [`PyBUF_CONTIG`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_CONTIG)
+- [`PyBUF_CONTIG_RO`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_CONTIG_RO)
+- [`PyBUF_C_CONTIGUOUS`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_C_CONTIGUOUS)
+- [`PyBUF_FORMAT`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_FORMAT)
+- [`PyBUF_FULL`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_FULL)
+- [`PyBUF_FULL_RO`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_FULL_RO)
+- [`PyBUF_F_CONTIGUOUS`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_F_CONTIGUOUS)
+- [`PyBUF_INDIRECT`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_INDIRECT)
+- [`PyBUF_MAX_NDIM`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_MAX_NDIM)
+- [`PyBUF_ND`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_ND)
+- [`PyBUF_RECORDS`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_RECORDS)
+- [`PyBUF_RECORDS_RO`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_RECORDS_RO)
+- [`PyBUF_SIMPLE`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_SIMPLE)
+- [`PyBUF_STRIDED`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_STRIDED)
+- [`PyBUF_STRIDED_RO`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_STRIDED_RO)
+- [`PyBUF_STRIDES`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_STRIDES)
+- [`PyBUF_WRITABLE`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBUF_WRITABLE)
+- [`PyBuffer_FillContiguousStrides()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_FillContiguousStrides)
+- [`PyBuffer_FillInfo()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_FillInfo)
+- [`PyBuffer_FromContiguous()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_FromContiguous)
+- [`PyBuffer_GetPointer()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_GetPointer)
+- [`PyBuffer_IsContiguous()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_IsContiguous)
+- [`PyBuffer_Release()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_Release)
+- [`PyBuffer_SizeFromFormat()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_SizeFromFormat)
+- [`PyBuffer_ToContiguous()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyBuffer_ToContiguous)
+- [`PyObject_CheckBuffer()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyObject_CheckBuffer)
+- [`PyObject_CopyData()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyObject_CopyData)
+- [`PyObject_GetBuffer()`](https://docs.python.org/3.14/c-api/buffer.html#c.PyObject_GetBuffer)
+
+[ABI contracts and symbol families](INDEX.md).

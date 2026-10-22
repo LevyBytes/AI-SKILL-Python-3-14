@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.3 release candidate 1 / idle / added interrupt execution c onto shell menu", "file": "releases/3-5-3-release-candidate-1/idle/added-interrupt-execution-c-onto-shell-menu.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / added interrupt execution c onto shell menu.", "keywords": []},
+    {"topic": "Python 3.5.3 release candidate 1 / idle / permitted non ascii chars within idle news txt covering contributor names", "file": "idle-news-contributor-name-encoding.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / permitted non ascii chars within idle news txt covering contributor names.", "keywords": []},
+    {"topic": "Python 3.5.3 release candidate 1 / idle / re", "file": "releases/3-5-3-release-candidate-1/idle/re.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / re.", "keywords": []},
+    {"topic": "Python 3.5.3 release candidate 1 / idle / tests and documentation", "file": "releases/3-5-3-release-candidate-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.5.3 release candidate 1 / idle / tkinter", "file": "releases/3-5-3-release-candidate-1/idle/tkinter.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / tkinter.", "keywords": []},
+    {"topic": "Python 3.5.3 release candidate 1 / idle / warnings", "file": "releases/3-5-3-release-candidate-1/idle/warnings.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / warnings.", "keywords": []},
+    {"topic": "Python 3.5.3 release candidate 1 / idle / within section covering idle console differences noted relying exec", "file": "idle-console-exec-builtins-documentation.md", "summary": "Open when checking Python 3.5.3 release candidate 1 / idle / within section covering idle console differences noted relying exec.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

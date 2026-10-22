@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 1 / c api / arg", "file": "releases/3-14-0-beta-1/c-api/arg.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / c api / ctypes", "file": "releases/3-14-0-beta-1/c-api/ctypes.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / ctypes.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / c api / functions and types", "file": "releases/3-14-0-beta-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / c api / object", "file": "releases/3-14-0-beta-1/c-api/object.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / object.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / c api / removed internal c recursion apis", "file": "releases/3-14-0-beta-1/c-api/removed-internal-c-recursion-apis.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / removed internal c recursion apis.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / c api / type", "file": "releases/3-14-0-beta-1/c-api/type.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / type.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 1 / c api / unicode", "file": "releases/3-14-0-beta-1/c-api/unicode.md", "summary": "Open when checking Python 3.14.0 beta 1 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

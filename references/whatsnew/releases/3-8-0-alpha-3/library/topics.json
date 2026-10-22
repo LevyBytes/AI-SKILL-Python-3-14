@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 3 / library / asyncio", "file": "releases/3-8-0-alpha-3/library/asyncio.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / asyncio.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / build and platforms", "file": "releases/3-8-0-alpha-3/library/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / collections and iteration", "file": "releases/3-8-0-alpha-3/library/collections-and-iteration.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / compiler and parser", "file": "releases/3-8-0-alpha-3/library/compiler-and-parser.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / ensurepip", "file": "releases/3-8-0-alpha-3/library/ensurepip.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / ensurepip.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / files and paths", "file": "releases/3-8-0-alpha-3/library/files-and-paths.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / files and paths.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / functions and types", "file": "releases/3-8-0-alpha-3/library/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / imports and modules", "file": "releases/3-8-0-alpha-3/library/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / logging", "file": "releases/3-8-0-alpha-3/library/logging.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / logging.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / memory and lifetimes", "file": "releases/3-8-0-alpha-3/library/memory-and-lifetimes.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / mmap", "file": "releases/3-8-0-alpha-3/library/mmap.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / mmap.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / multiprocessing", "file": "releases/3-8-0-alpha-3/library/multiprocessing.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / pdb", "file": "releases/3-8-0-alpha-3/library/pdb.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / pdb.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / provide getitem namespacepath", "file": "releases/3-8-0-alpha-3/library/provide-getitem-namespacepath.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / provide getitem namespacepath.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / pyclbr", "file": "releases/3-8-0-alpha-3/library/pyclbr.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / pyclbr.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / pydoc", "file": "releases/3-8-0-alpha-3/library/pydoc.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / pydoc.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / removed code verified presence os stat os lstat os chmod always available", "file": "guaranteed-os-file-function-availability.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / removed code verified presence os stat os lstat os chmod always available.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / settle possible name clash against libm s sinpi", "file": "releases/3-8-0-alpha-3/library/settle-possible-name-clash-against-libm-s-sinpi.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / settle possible name clash against libm s sinpi.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / tarfile", "file": "releases/3-8-0-alpha-3/library/tarfile.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / tarfile.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / text and unicode", "file": "releases/3-8-0-alpha-3/library/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / unittest mock", "file": "releases/3-8-0-alpha-3/library/unittest-mock.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / unittest mock.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / venv", "file": "releases/3-8-0-alpha-3/library/venv.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / venv.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / library / warnings", "file": "releases/3-8-0-alpha-3/library/warnings.md", "summary": "Open when checking Python 3.8.0 alpha 3 / library / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

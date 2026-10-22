@@ -1,0 +1,7 @@
+# Python 3.11.0 beta 1 / library / inspect
+
+[gh-92062](https://github.com/python/cpython/issues/92062): [`inspect.Parameter`](https://docs.python.org/3.14/library/inspect.html#inspect.Parameter) will now raise [`ValueError`](https://docs.python.org/3.14/library/exceptions.html#ValueError) when `name` is a keyword, on top of the already-present test that it is an identifier.
+
+[gh-88116](https://github.com/python/cpython/issues/88116): Adjust the frame-related helpers in the [`inspect`](https://docs.python.org/3.14/library/inspect.html#module-inspect) module so they hand back an ordinary object — one that stays backwards compatible with the former tuple-style interface — carrying the richer [**PEP 657**](https://peps.python.org/pep-0657/) position data (end line number, column, and end column). These helpers are involved: [`inspect.getframeinfo()`](https://docs.python.org/3.14/library/inspect.html#inspect.getframeinfo), [`inspect.getouterframes()`](https://docs.python.org/3.14/library/inspect.html#inspect.getouterframes), [`inspect.getinnerframes()`](https://docs.python.org/3.14/library/inspect.html#inspect.getinnerframes), [`inspect.stack()`](https://docs.python.org/3.14/library/inspect.html#inspect.stack), and [`inspect.trace()`](https://docs.python.org/3.14/library/inspect.html#inspect.trace). Pablo Galindo contributed the patch.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

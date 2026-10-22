@@ -1,0 +1,7 @@
+# Python 3.13.0 alpha 3 / library / mmap
+
+[gh-113868](https://github.com/python/cpython/issues/113868): Added [`mmap.MAP_NORESERVE`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_NORESERVE), [`mmap.MAP_NOEXTEND`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_NOEXTEND), [`mmap.MAP_HASSEMAPHORE`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_HASSEMAPHORE), [`mmap.MAP_NOCACHE`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_NOCACHE), [`mmap.MAP_JIT`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_JIT), [`mmap.MAP_RESILIENT_CODESIGN`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_RESILIENT_CODESIGN), [`mmap.MAP_RESILIENT_MEDIA`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_RESILIENT_MEDIA), [`mmap.MAP_32BIT`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_32BIT), [`mmap.MAP_TRANSLATED_ALLOW_EXECUTE`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_TRANSLATED_ALLOW_EXECUTE), [`mmap.MAP_UNIX03`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_UNIX03) and [`mmap.MAP_TPRO`](https://docs.python.org/3.14/library/mmap.html#mmap.MAP_TPRO). Each one is a `mmap(2)` flag under macOS.
+
+[bpo-34321](https://bugs.python.org/issue?@action=redirect&bpo=34321): On Unix, [`mmap.mmap`](https://docs.python.org/3.14/library/mmap.html#mmap.mmap) now carries a *trackfd* parameter; setting it to `False` means the descriptor named by *fileno* will not be duplicated.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.1 final / tests / correct regrtest fast ci verbose stop discarding verbose option", "file": "regrtest-fast-ci-verbose-option.md", "summary": "Open when checking Python 3.14.1 final / tests / correct regrtest fast ci verbose stop discarding verbose option.", "keywords": []},
+    {"topic": "Python 3.14.1 final / tests / tests and documentation", "file": "releases/3-14-1-final/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.14.1 final / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.14.1 final / tests / unittest", "file": "releases/3-14-1-final/tests/unittest.md", "summary": "Open when checking Python 3.14.1 final / tests / unittest.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

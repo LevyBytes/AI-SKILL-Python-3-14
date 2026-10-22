@@ -1,0 +1,57 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.13.0 alpha 5 / library / exceptions. [Built-in objects and typing / Python 3.13.0 alpha 5 / library / exceptions](exceptions.md).
+- Open when checking Python 3.13.0 alpha 5 / library / stdtypes. [Built-in objects and typing / Python 3.13.0 alpha 5 / library / stdtypes](stdtypes.md).
+- Open when checking Python 3.13.0 alpha 5 / library / functools. [Functional Programming Modules / Python 3.13.0 alpha 5 / library / functools](functools.md).
+- Open when checking Python 3.13.0 alpha 5 / library / filecmp. [File and Directory Access / Python 3.13.0 alpha 5 / library / filecmp](filecmp.md).
+- Open when checking Python 3.13.0 alpha 5 / library / pathlib. [File and Directory Access / Python 3.13.0 alpha 5 / library / pathlib](pathlib.md).
+- Open when checking Python 3.13.0 alpha 5 / library / configparser. [File Formats / Python 3.13.0 alpha 5 / library / configparser](configparser.md).
+- Open when checking Python 3.13.0 alpha 5 / library / files and paths. [Generic Operating System Services / Python 3.13.0 alpha 5 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.13.0 alpha 5 / library / platform. [Generic Operating System Services / Python 3.13.0 alpha 5 / library / platform](platform.md).
+- Open when checking Python 3.13.0 alpha 5 / library / time. [Generic Operating System Services / Python 3.13.0 alpha 5 / library / time](time.md).
+- Open when checking Python 3.13.0 alpha 5 / library / datetime. [Generic Operating System Services / Python 3.13.0 alpha 5 / library / datetime](datetime.md).
+- Open when checking Python 3.13.0 alpha 5 / library / buffered stream negative offsets. [Generic Operating System Services / Python 3.13.0 alpha 5 / library / buffered stream negative offsets](buffered-stream-negative-offsets.md).
+- Open when checking Python 3.13.0 alpha 5 / library / logging handlers. [Generic Operating System Services / Python 3.13.0 alpha 5 / library / logging handlers](logging-handlers.md).
+- Open when checking Python 3.13.0 alpha 5 / library / multiprocessing shared memory. [Concurrent Execution / Python 3.13.0 alpha 5 / library / multiprocessing shared memory](multiprocessing-shared-memory.md).
+- Open when checking Python 3.13.0 alpha 5 / library / inactive taskgroup coroutine cleanup. [Networking and Interprocess Communication / Python 3.13.0 alpha 5 / library / inactive taskgroup coroutine cleanup](inactive-taskgroup-coroutine-cleanup.md).
+- Open when checking Python 3.13.0 alpha 5 / library / asyncio. [Networking and Interprocess Communication / Python 3.13.0 alpha 5 / library / asyncio](asyncio.md).
+- Open when checking Python 3.13.0 alpha 5 / library / default executor shutdown timeout. [Networking and Interprocess Communication / Python 3.13.0 alpha 5 / library / default executor shutdown timeout](default-executor-shutdown-timeout.md).
+- Open when checking Python 3.13.0 alpha 5 / library / introduce socket so bindtoifindex constant. [Networking and Interprocess Communication / Python 3.13.0 alpha 5 / library / introduce socket so bindtoifindex constant](introduce-socket-so-bindtoifindex-constant.md).
+- Open when checking Python 3.13.0 alpha 5 / library / ssl. [Networking and Interprocess Communication / Python 3.13.0 alpha 5 / library / ssl](ssl.md).
+- Open when checking Python 3.13.0 alpha 5 / library / webbrowser. [Internet Protocols and Support / Python 3.13.0 alpha 5 / library / webbrowser](webbrowser.md).
+- Open when checking Python 3.13.0 alpha 5 / library / urllib parse. [Internet Protocols and Support / Python 3.13.0 alpha 5 / library / urllib parse](urllib-parse.md).
+- Open when checking Python 3.13.0 alpha 5 / library / urllib request. [Internet Protocols and Support / Python 3.13.0 alpha 5 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.13.0 alpha 5 / library / unittest mock. [Development Tools / Python 3.13.0 alpha 5 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.13.0 alpha 5 / library / sys. [Python Runtime Services / Python 3.13.0 alpha 5 / library / sys](sys.md).
+- Open when checking Python 3.13.0 alpha 5 / library / importlib. [Importing Modules / Python 3.13.0 alpha 5 / library / importlib](importlib.md).
+- Open when checking Python 3.13.0 alpha 5 / library / text. [Importing Modules / Python 3.13.0 alpha 5 / library / text](text.md).
+- Open when checking Python 3.13.0 alpha 5 / library / tokenize. [Python Language Services / Python 3.13.0 alpha 5 / library / tokenize](tokenize.md).
+- Open when checking Python 3.13.0 alpha 5 / library / rework dis argresolver can subclassed interpretation jump args can changed. [Python Language Services / Python 3.13.0 alpha 5 / library / rework dis argresolver can subclassed interpretation jump args can changed](disassembly-argument-resolver-subclassing.md).
+- Open when checking Python 3.13.0 alpha 5 / library / ast. [Combined library maintenance / Python 3.13.0 alpha 5 / library / ast](ast.md).
+- Open when checking Python 3.13.0 alpha 5 / library / functions. [Combined library maintenance / Python 3.13.0 alpha 5 / library / functions](functions.md).
+- Open when checking Python 3.13.0 alpha 5 / library / pdb. [Combined library maintenance / Python 3.13.0 alpha 5 / library / pdb](pdb.md).
+- Open when checking Python 3.13.0 alpha 5 / library / pydoc. [Combined library maintenance / Python 3.13.0 alpha 5 / library / pydoc](pydoc.md).
+- Open when checking Python 3.13.0 alpha 5 / library / typing. [Combined library maintenance / Python 3.13.0 alpha 5 / library / typing](typing.md).
+- Open when checking Python 3.13.0 alpha 5 / library / csv. [Combined library maintenance / Python 3.13.0 alpha 5 / library / csv](csv.md).
+- Open when checking Python 3.13.0 alpha 5 / library / inspect. [Combined library maintenance / Python 3.13.0 alpha 5 / library / inspect](inspect.md).
+- Open when checking Python 3.13.0 alpha 5 / library / argparse. [Combined library maintenance / Python 3.13.0 alpha 5 / library / argparse](argparse.md).
+- Open when checking Python 3.13.0 alpha 5 / library / multiprocessing. [Combined library maintenance / Python 3.13.0 alpha 5 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.13.0 alpha 5 / library / text and unicode. [Combined library maintenance / Python 3.13.0 alpha 5 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.13.0 alpha 5 / library / bring support nested typing special forms such final classvar. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / bring support nested typing special forms such final classvar](bring-support-nested-typing-special-forms-such-final-classvar.md).
+- Open when checking Python 3.13.0 alpha 5 / library / enum repair by value calls second value falsey instance cardinal. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / enum repair by value calls second value falsey instance cardinal](falsey-enum-construction-value.md).
+- Open when checking Python 3.13.0 alpha 5 / library / exceptions and tracebacks. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.13.0 alpha 5 / library / functions and types. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.13.0 alpha 5 / library / statistics. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / statistics](statistics.md).
+- Open when checking Python 3.13.0 alpha 5 / library / isolate lsprof apply pep. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / isolate lsprof apply pep](isolate-lsprof-apply-pep.md).
+- Open when checking Python 3.13.0 alpha 5 / library / repair issue whereby abandoned streamwriter would never garbage collected. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / repair issue whereby abandoned streamwriter would never garbage collected](abandoned-stream-writer-garbage-collection.md).
+- Open when checking Python 3.13.0 alpha 5 / library / collections and iteration. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.13.0 alpha 5 / library / handed empty bytes object datagramtransport sendto will transmit zero length datagrams. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / handed empty bytes object datagramtransport sendto will transmit zero length datagrams](zero-length-datagram-transmission.md).
+- Open when checking Python 3.13.0 alpha 5 / library / profile print stats accepts several sort arguments once. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / profile print stats accepts several sort arguments once](profile-print-stats-accepts-several-sort-arguments-once.md).
+- Open when checking Python 3.13.0 alpha 5 / library / proxy use httpsconnection wraps ipv6 addresses uniformly. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / proxy use httpsconnection wraps ipv6 addresses uniformly](proxy-use-httpsconnection-wraps-ipv6-addresses-uniformly.md).
+- Open when checking Python 3.13.0 alpha 5 / library / reconcile argumentparser behavior inconsistent parse known args. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / reconcile argumentparser behavior inconsistent parse known args](known-argument-parser-consistency.md).
+- Open when checking Python 3.13.0 alpha 5 / library / tarfile. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / tarfile](tarfile.md).
+- Open when checking Python 3.13.0 alpha 5 / library / email. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / email](email.md).
+- Open when checking Python 3.13.0 alpha 5 / library / linecache. [Library compatibility and maintenance / Python 3.13.0 alpha 5 / library / linecache](linecache.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

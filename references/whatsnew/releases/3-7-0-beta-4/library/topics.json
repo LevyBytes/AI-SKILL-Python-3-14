@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 4 / library / build and platforms", "file": "releases/3-7-0-beta-4/library/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / bump bundled pip version", "file": "releases/3-7-0-beta-4/library/bump-bundled-pip-version.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / bump bundled pip version.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / collections and iteration", "file": "releases/3-7-0-beta-4/library/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / compiler and parser", "file": "releases/3-7-0-beta-4/library/compiler-and-parser.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / dataclasses", "file": "releases/3-7-0-beta-4/library/dataclasses.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / dataclasses.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / dbm", "file": "releases/3-7-0-beta-4/library/dbm.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / dbm.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / exceptions", "file": "releases/3-7-0-beta-4/library/exceptions.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / exceptions.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / html", "file": "releases/3-7-0-beta-4/library/html.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / html.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / http cookies", "file": "releases/3-7-0-beta-4/library/http-cookies.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / http cookies.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / importlib resources", "file": "releases/3-7-0-beta-4/library/importlib-resources.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / importlib resources.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / imports and modules", "file": "releases/3-7-0-beta-4/library/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / make sure line endings honored while using lib2to3", "file": "releases/3-7-0-beta-4/library/make-sure-line-endings-honored-while-using-lib2to3.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / make sure line endings honored while using lib2to3.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / multiprocessing", "file": "releases/3-7-0-beta-4/library/multiprocessing.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / os", "file": "releases/3-7-0-beta-4/library/os.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / os.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / pickle", "file": "releases/3-7-0-beta-4/library/pickle.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / pickle.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / raise runtimeerror whenever executor submit runs during interpreter shutdown", "file": "executor-submission-during-shutdown.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / raise runtimeerror whenever executor submit runs during interpreter shutdown.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / random random choice consistently raises indexerror empty sequences including invocations subclasses", "file": "empty-random-choice-subclass-errors.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / random random choice consistently raises indexerror empty sequences including invocations subclasses.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / sys", "file": "releases/3-7-0-beta-4/library/sys.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / sys.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / library / text and unicode", "file": "releases/3-7-0-beta-4/library/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 beta 4 / library / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

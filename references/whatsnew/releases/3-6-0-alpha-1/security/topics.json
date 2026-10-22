@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 1 / security / build and platforms", "file": "releases/3-6-0-alpha-1/security/build-and-platforms.md", "summary": "Open when checking Python 3.6.0 alpha 1 / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / security / http server", "file": "releases/3-6-0-alpha-1/security/http-server.md", "summary": "Open when checking Python 3.6.0 alpha 1 / security / http server.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / security / windows", "file": "releases/3-6-0-alpha-1/security/windows.md", "summary": "Open when checking Python 3.6.0 alpha 1 / security / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

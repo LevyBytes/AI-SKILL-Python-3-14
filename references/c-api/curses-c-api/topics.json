@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "curses c api C API: `import_curses()`, `PyCurses_API_pointers`, `PyCursesWindow_Type`, `PyCursesWindow_Check()`, `PyCursesSetupTermCalled`", "file": "curses-c-api/import-curses-to-pycursessetuptermcalled.md", "summary": "Open when checking the documented contracts for `import_curses()`, `PyCurses_API_pointers`, `PyCursesWindow_Type`, `PyCursesWindow_Check()`, `PyCursesSetupTermCalled` in curses c api C API.", "keywords": []},
+  {"topic": "curses c api C API: `PyCursesInitialised`, `PyCursesInitialisedColor`", "file": "curses-c-api/pycursesinitialised-to-pycursesinitialisedcolor.md", "summary": "Open when checking the documented contracts for `PyCursesInitialised`, `PyCursesInitialisedColor` in curses c api C API.", "keywords": []},
+  {"topic": "Internal data", "file": "curses-c-api/pycurses-capsule-name.md", "summary": "Open when checking Internal data.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Debugging and Profiling / Python 3.10.0 alpha 1 / library / faulthandler", "file": "releases/3-10-0-alpha-1/library/faulthandler.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / faulthandler.", "keywords": []},
+  {"topic": "Debugging and Profiling / Python 3.10.0 alpha 1 / library / timeit", "file": "releases/3-10-0-alpha-1/library/timeit.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / timeit.", "keywords": []},
+  {"topic": "Debugging and Profiling / Python 3.10.0 alpha 1 / library / trace", "file": "releases/3-10-0-alpha-1/library/trace.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / trace.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

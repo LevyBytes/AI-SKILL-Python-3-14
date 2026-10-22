@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/faq", "topics": [
+  {"topic": "Python frequently asked questions", "file": "python-frequently-asked-questions/INDEX.md", "summary": "Open when checking python frequently asked questions.", "keywords": []},
+  {"topic": "General python faq", "file": "general-python-faq/INDEX.md", "summary": "Open when checking general python faq.", "keywords": []},
+  {"topic": "Installed", "file": "installed/INDEX.md", "summary": "Open when checking installed.", "keywords": []},
+  {"topic": "Windows", "file": "windows/INDEX.md", "summary": "Open when checking windows.", "keywords": []},
+  {"topic": "Programming", "file": "programming/INDEX.md", "summary": "Open when checking programming.", "keywords": []},
+  {"topic": "Library", "file": "library/INDEX.md", "summary": "Open when checking library.", "keywords": []},
+  {"topic": "Graphic user interface faq", "file": "graphic-user-interface-faq/INDEX.md", "summary": "Open when checking graphic user interface faq.", "keywords": []},
+  {"topic": "Extending", "file": "extending/INDEX.md", "summary": "Open when checking extending.", "keywords": []},
+  {"topic": "Design", "file": "design/INDEX.md", "summary": "Open when checking design.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

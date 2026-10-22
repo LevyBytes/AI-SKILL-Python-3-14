@@ -1,0 +1,70 @@
+# The standard type hierarchy
+
+Select by the documented task or API context. [Topic catalog](context-the-standard-type-hierarchy.json).
+
+- Open when checking 3.2. The standard type hierarchy. [The standard type hierarchy / 3.2. The standard type hierarchy](the-standard-type-hierarchy.md).
+- Open when checking 3.2.1. None. [The standard type hierarchy / 3.2.1. None](none.md).
+- Open when checking 3.2.2. NotImplemented. [The standard type hierarchy / 3.2.2. NotImplemented](notimplemented.md).
+- Open when checking 3.2.3. Ellipsis. [The standard type hierarchy / 3.2.3. Ellipsis](ellipsis.md).
+- Open when checking 3.2.4. `numbers.Number`. [The standard type hierarchy / 3.2.4. `numbers.Number`](numbers-number.md).
+- Open when checking 3.2.4.1. `numbers.Integral`. [The standard type hierarchy / 3.2.4.1. `numbers.Integral`](numbers-integral.md).
+- Open when checking 3.2.4.2. `numbers.Real` (`float`). [The standard type hierarchy / 3.2.4.2. `numbers.Real` (`float`)](numbers-real.md).
+- Open when checking 3.2.4.3. `numbers.Complex` (`complex`). [The standard type hierarchy / 3.2.4.3. `numbers.Complex` (`complex`)](numbers-complex.md).
+- Open when checking 3.2.5. Sequences. [The standard type hierarchy / 3.2.5. Sequences](sequences.md).
+- Open when checking 3.2.5.1. Immutable sequences. [The standard type hierarchy / 3.2.5.1. Immutable sequences](immutable-sequences.md).
+- Open when checking 3.2.5.2. Mutable sequences. [The standard type hierarchy / 3.2.5.2. Mutable sequences](mutable-sequences.md).
+- Open when checking 3.2.6. Set types. [The standard type hierarchy / 3.2.6. Set types](set-types.md).
+- Open when checking 3.2.7. Mappings. [The standard type hierarchy / 3.2.7. Mappings](mappings.md).
+- Open when checking 3.2.7.1. Dictionaries. [The standard type hierarchy / 3.2.7.1. Dictionaries](dictionaries.md).
+- Open when checking 3.2.8. Callable types. [The standard type hierarchy / 3.2.8. Callable types](callable-types.md).
+- Open when checking 3.2.8.1. User-defined functions. [The standard type hierarchy / 3.2.8.1. User-defined functions](user-defined-functions.md).
+- Open when checking 3.2.8.1.2. Special writable attributes. [The standard type hierarchy / 3.2.8.1.2. Special writable attributes](special-writable-attributes.md).
+- Open when checking 3.2.8.2. Instance methods. [The standard type hierarchy / 3.2.8.2. Instance methods](instance-methods.md).
+- Open when checking 3.2.8.3. Generator functions. [The standard type hierarchy / 3.2.8.3. Generator functions](generator-functions.md).
+- Open when checking 3.2.8.4. Coroutine functions. [The standard type hierarchy / 3.2.8.4. Coroutine functions](coroutine-functions.md).
+- Open when checking 3.2.8.5. Asynchronous generator functions. [The standard type hierarchy / 3.2.8.5. Asynchronous generator functions](asynchronous-generator-functions.md).
+- Open when checking 3.2.8.6. Built-in functions. [The standard type hierarchy / 3.2.8.6. Built-in functions](built-in-functions.md).
+- Open when checking 3.2.8.7. Built-in methods. [The standard type hierarchy / 3.2.8.7. Built-in methods](built-in-methods.md).
+- Open when checking 3.2.8.8. Classes. [The standard type hierarchy / 3.2.8.8. Classes](classes.md).
+- Open when checking 3.2.8.9. Class Instances. [The standard type hierarchy / 3.2.8.9. Class Instances](class-instances.md).
+- Open when checking 3.2.9. Modules. [The standard type hierarchy / 3.2.9. Modules](modules.md).
+- Open when checking 3.2.9.1. Import-related attributes on module objects. [The standard type hierarchy / 3.2.9.1. Import-related attributes on module objects](import-related-attributes-on-module-objects.md).
+- Open when checking module.__name__. [The standard type hierarchy / module.__name__](module-name.md).
+- Open when checking module.__spec__. [The standard type hierarchy / module.__spec__](module-spec.md).
+- Open when checking module.__package__. [The standard type hierarchy / module.__package__](module-package.md).
+- Open when checking module.__loader__. [The standard type hierarchy / module.__loader__](module-loader.md).
+- Open when checking module.__path__. [The standard type hierarchy / module.__path__](module-path.md).
+- Open when checking module.__file__ / module.__cached__. [The standard type hierarchy / module.__file__ / module.__cached__](module-file-module-cached.md).
+- Open when checking 3.2.9.2. Other writable attributes on module objects. [The standard type hierarchy / 3.2.9.2. Other writable attributes on module objects](other-writable-attributes-on-module-objects.md).
+- Open when checking module.__doc__. [The standard type hierarchy / module.__doc__](module-doc.md).
+- Open when checking module.__annotations__. [The standard type hierarchy / module.__annotations__](module-annotations.md).
+- Open when checking module.__annotate__. [The standard type hierarchy / module.__annotate__](module-annotate.md).
+- Open when checking 3.2.9.3. Module dictionaries. [The standard type hierarchy / 3.2.9.3. Module dictionaries](module-dictionaries.md).
+- Open when checking module.__dict__. [The standard type hierarchy / module.__dict__](module-dict.md).
+- Open when checking 3.2.10. Custom classes. [The standard type hierarchy / 3.2.10. Custom classes](custom-classes.md).
+- Open when checking 3.2.10.1. Special attributes. [The standard type hierarchy / 3.2.10.1. Special attributes](special-attributes.md).
+- Open when checking 3.2.10.2. Special methods. [The standard type hierarchy / 3.2.10.2. Special methods](special-methods.md).
+- Open when checking type.mro(). [The standard type hierarchy / type.mro()](type-mro.md).
+- Open when checking type.__subclasses__(). [The standard type hierarchy / type.__subclasses__()](type-subclasses.md).
+- Open when checking object.__class__. [The standard type hierarchy / object.__class__](object-class.md).
+- Open when checking object.__dict__. [The standard type hierarchy / object.__dict__](object-dict.md).
+- Open when checking 3.2.12. I/O objects (also known as file objects). [The standard type hierarchy / 3.2.12. I/O objects (also known as file objects)](i-o-objects.md).
+- Open when checking file.read(*size=-1*, */*). [The standard type hierarchy / file.read(*size=-1*, */*)](file-read.md).
+- Open when checking file.write(*data*, */*). [The standard type hierarchy / file.write(*data*, */*)](file-write.md).
+- Open when checking file.close(). [The standard type hierarchy / file.close()](file-close.md).
+- Open when checking 3.2.13. Internal types. [The standard type hierarchy / 3.2.13. Internal types](internal-types.md).
+- Open when checking 3.2.13.1. Code objects. [The standard type hierarchy / 3.2.13.1. Code objects](code-objects.md).
+- Open when checking codeobject.co_positions(). [The standard type hierarchy / codeobject.co_positions()](codeobject-co-positions.md).
+- Open when checking codeobject.co_lines(). [The standard type hierarchy / codeobject.co_lines()](codeobject-co-lines.md).
+- Open when checking codeobject.replace(***kwargs*). [The standard type hierarchy / codeobject.replace(***kwargs*)](codeobject-replace.md).
+- Open when checking 3.2.13.2. Frame objects. [The standard type hierarchy / 3.2.13.2. Frame objects](frame-objects.md).
+- Open when checking 3.2.8.1.1. Special read-only attributes. [The standard type hierarchy / 3.2.8.1.1. Special read-only attributes](special-read-only-attributes.md).
+- Open when checking 3.2.13.2.3. Frame object methods. [The standard type hierarchy / 3.2.13.2.3. Frame object methods](frame-object-methods.md).
+- Open when checking frame.clear(). [The standard type hierarchy / frame.clear()](frame-clear.md).
+- Open when checking 3.2.13.3. Traceback objects. [The standard type hierarchy / 3.2.13.3. Traceback objects](traceback-objects.md).
+- Open when checking traceback.tb_next. [The standard type hierarchy / traceback.tb_next](traceback-tb-next.md).
+- Open when checking 3.2.13.4. Slice objects. [The standard type hierarchy / 3.2.13.4. Slice objects](slice-objects.md).
+- Open when checking slice.indices(*self*, *length*). [The standard type hierarchy / slice.indices(*self*, *length*)](slice-indices.md).
+- Open when checking 3.2.13.5. Static method objects. [The standard type hierarchy / 3.2.13.5. Static method objects](static-method-objects.md).
+- Open when checking 3.2.13.6. Class method objects. [The standard type hierarchy / 3.2.13.6. Class method objects](class-method-objects.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

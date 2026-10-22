@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 5 / build / build and platforms", "file": "releases/3-13-0-alpha-5/build/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 5 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / build / collections and iteration", "file": "releases/3-13-0-alpha-5/build/collections-and-iteration.md", "summary": "Open when checking Python 3.13.0 alpha 5 / build / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / build / ctypes", "file": "releases/3-13-0-alpha-5/build/ctypes.md", "summary": "Open when checking Python 3.13.0 alpha 5 / build / ctypes.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / build / make wasi builds run wasmtime using wasi preview2 primitives", "file": "releases/3-13-0-alpha-5/build/make-wasi-builds-run-wasmtime-using-wasi-preview2-primitives.md", "summary": "Open when checking Python 3.13.0 alpha 5 / build / make wasi builds run wasmtime using wasi preview2 primitives.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / build / modules", "file": "releases/3-13-0-alpha-5/build/modules.md", "summary": "Open when checking Python 3.13.0 alpha 5 / build / modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / build / sys", "file": "releases/3-13-0-alpha-5/build/sys.md", "summary": "Open when checking Python 3.13.0 alpha 5 / build / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

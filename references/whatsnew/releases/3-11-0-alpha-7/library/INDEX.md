@@ -1,0 +1,61 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.11.0 alpha 7 / library / exceptions. [Built-in objects and typing / Python 3.11.0 alpha 7 / library / exceptions](exceptions.md).
+- Open when checking Python 3.11.0 alpha 7 / library / overview. [Built-in objects and typing / Python 3.11.0 alpha 7 / library / overview](overview.md).
+- Open when checking Python 3.11.0 alpha 7 / library / math. [Numeric and Mathematical Modules / Python 3.11.0 alpha 7 / library / math](math.md).
+- Open when checking Python 3.11.0 alpha 7 / library / shutil. [File and Directory Access / Python 3.11.0 alpha 7 / library / shutil](shutil.md).
+- Open when checking Python 3.11.0 alpha 7 / library / zipfile. [Data Compression and Archiving / Python 3.11.0 alpha 7 / library / zipfile](zipfile.md).
+- Open when checking Python 3.11.0 alpha 7 / library / threads and concurrency. [Data Compression and Archiving / Python 3.11.0 alpha 7 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.11.0 alpha 7 / library / tomllib. [File Formats / Python 3.11.0 alpha 7 / library / tomllib](tomllib.md).
+- Open when checking Python 3.11.0 alpha 7 / library / io. [Generic Operating System Services / Python 3.11.0 alpha 7 / library / io](io.md).
+- Open when checking Python 3.11.0 alpha 7 / library / add os sysconf names sc minsigstksz. [Generic Operating System Services / Python 3.11.0 alpha 7 / library / add os sysconf names sc minsigstksz](add-os-sysconf-names-sc-minsigstksz.md).
+- Open when checking Python 3.11.0 alpha 7 / library / logging. [Generic Operating System Services / Python 3.11.0 alpha 7 / library / logging](logging.md).
+- Open when checking Python 3.11.0 alpha 7 / library / ctypes. [Generic Operating System Services / Python 3.11.0 alpha 7 / library / ctypes](ctypes.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asyncio future. [Networking and Interprocess Communication / Python 3.11.0 alpha 7 / library / asyncio future](asyncio-future.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asyncio runner. [Networking and Interprocess Communication / Python 3.11.0 alpha 7 / library / asyncio runner](asyncio-runner.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asyncio sync. [Networking and Interprocess Communication / Python 3.11.0 alpha 7 / library / asyncio sync](asyncio-sync.md).
+- Open when checking Python 3.11.0 alpha 7 / library / select. [Networking and Interprocess Communication / Python 3.11.0 alpha 7 / library / select](select.md).
+- Open when checking Python 3.11.0 alpha 7 / library / signal. [Networking and Interprocess Communication / Python 3.11.0 alpha 7 / library / signal](signal.md).
+- Open when checking Python 3.11.0 alpha 7 / library / binascii. [Internet Data Handling / Python 3.11.0 alpha 7 / library / binascii](binascii.md).
+- Open when checking Python 3.11.0 alpha 7 / library / exceptions and tracebacks. [Internet Protocols and Support / Python 3.11.0 alpha 7 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.11.0 alpha 7 / library / functions and types. [Development Tools / Python 3.11.0 alpha 7 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.11.0 alpha 7 / library / pep support implemented inside typing py. [Development Tools / Python 3.11.0 alpha 7 / library / pep support implemented inside typing py](pep-support-implemented-inside-typing-py.md).
+- Open when checking Python 3.11.0 alpha 7 / library / faulthandler. [Debugging and Profiling / Python 3.11.0 alpha 7 / library / faulthandler](faulthandler.md).
+- Open when checking Python 3.11.0 alpha 7 / library / sys. [Python Runtime Services / Python 3.11.0 alpha 7 / library / sys](sys.md).
+- Open when checking Python 3.11.0 alpha 7 / library / dataclasses. [Python Runtime Services / Python 3.11.0 alpha 7 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.11.0 alpha 7 / library / sysconfig. [Python Runtime Services / Python 3.11.0 alpha 7 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.11.0 alpha 7 / library / pwd. [Unix-specific services / Python 3.11.0 alpha 7 / library / pwd](pwd.md).
+- Open when checking Python 3.11.0 alpha 7 / library / add zipfile mkdir. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / add zipfile mkdir](add-zipfile-mkdir.md).
+- Open when checking Python 3.11.0 alpha 7 / library / aifc. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / aifc](aifc.md).
+- Open when checking Python 3.11.0 alpha 7 / library / make calls genericalias objects faster adopting pep vectorcall trading. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / make calls genericalias objects faster adopting pep vectorcall trading](generic-alias-vectorcall-optimization.md).
+- Open when checking Python 3.11.0 alpha 7 / library / subprocess. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / subprocess](subprocess.md).
+- Open when checking Python 3.11.0 alpha 7 / library / adopt fastcall convention futureiter throw. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / adopt fastcall convention futureiter throw](adopt-fastcall-convention-futureiter-throw.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asynchat. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / asynchat](asynchat.md).
+- Open when checking Python 3.11.0 alpha 7 / library / cumtime default sort key cprofile. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / cumtime default sort key cprofile](cumtime-default-sort-key-cprofile.md).
+- Open when checking Python 3.11.0 alpha 7 / library / global inline flags such i valid only very beginning. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / global inline flags such i valid only very beginning](global-inline-flags-such-i-valid-only-very-beginning.md).
+- Open when checking Python 3.11.0 alpha 7 / library / ossaudiodev. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / ossaudiodev](ossaudiodev.md).
+- Open when checking Python 3.11.0 alpha 7 / library / socket. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / socket](socket.md).
+- Open when checking Python 3.11.0 alpha 7 / library / squash bug made doctests relying globals fail across repeated. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / squash bug made doctests relying globals fail across repeated](squash-bug-made-doctests-relying-globals-fail-across-repeated.md).
+- Open when checking Python 3.11.0 alpha 7 / library / warning issued inline flag sits somewhere other than start. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / warning issued inline flag sits somewhere other than start](warning-issued-inline-flag-sits-somewhere-other-than-start.md).
+- Open when checking Python 3.11.0 alpha 7 / library / aligns paramspec propagation genericalias how concatenate among others behaves. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / aligns paramspec propagation genericalias how concatenate among others behaves](generic-alias-paramspec-propagation.md).
+- Open when checking Python 3.11.0 alpha 7 / library / ensurepip. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / ensurepip](ensurepip.md).
+- Open when checking Python 3.11.0 alpha 7 / library / refresh bundled libexpat. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / refresh bundled libexpat](refresh-bundled-libexpat.md).
+- Open when checking Python 3.11.0 alpha 7 / library / text and unicode. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.11.0 alpha 7 / library / constants. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / constants](constants.md).
+- Open when checking Python 3.11.0 alpha 7 / library / warnings. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / warnings](warnings.md).
+- Open when checking Python 3.11.0 alpha 7 / library / multiprocessing. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.11.0 alpha 7 / library / supply missing terminating nul within length sockaddr un effect potentially. [Library compatibility and maintenance / Python 3.11.0 alpha 7 / library / supply missing terminating nul within length sockaddr un effect potentially](unix-socket-address-nul-termination.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asyncio eventloop. [Combined library maintenance / Python 3.11.0 alpha 7 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asyncio task. [Combined library maintenance / Python 3.11.0 alpha 7 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.11.0 alpha 7 / library / asyncio. [Combined library maintenance / Python 3.11.0 alpha 7 / library / asyncio](asyncio.md).
+- Open when checking Python 3.11.0 alpha 7 / library / hashlib. [Combined library maintenance / Python 3.11.0 alpha 7 / library / hashlib](hashlib.md).
+- Open when checking Python 3.11.0 alpha 7 / library / re. [Combined library maintenance / Python 3.11.0 alpha 7 / library / re](re.md).
+- Open when checking Python 3.11.0 alpha 7 / library / collections and iteration. [Combined library maintenance / Python 3.11.0 alpha 7 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.11.0 alpha 7 / library / files and paths. [Combined library maintenance / Python 3.11.0 alpha 7 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.11.0 alpha 7 / library / pydoc. [Combined library maintenance / Python 3.11.0 alpha 7 / library / pydoc](pydoc.md).
+- Open when checking Python 3.11.0 alpha 7 / library / sqlite3. [Combined library maintenance / Python 3.11.0 alpha 7 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.11.0 alpha 7 / library / typing. [Combined library maintenance / Python 3.11.0 alpha 7 / library / typing](typing.md).
+- Open when checking Python 3.11.0 alpha 7 / library / unittest. [Combined library maintenance / Python 3.11.0 alpha 7 / library / unittest](unittest.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

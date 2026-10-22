@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Install, version-pin, upgrade, and use virtual environments", "file": "orientation/install-version-pin-upgrade-and-use-virtual-environments.md", "summary": "Open when checking Install, version-pin, upgrade, and use virtual environments.", "keywords": []},
+    {"topic": "Installation scope, institutional policies, pip, venv, PyPI, and PyPA", "file": "installation-policy-pip-venv-and-package-indexes.md", "summary": "Open when checking Installation scope, institutional policies, pip, venv, PyPI, and PyPA.", "keywords": []},
+    {"topic": "Per-user, scientific, and multiple-interpreter installation", "file": "orientation/per-user-scientific-and-multiple-interpreter-installation.md", "summary": "Open when checking Per-user, scientific, and multiple-interpreter installation.", "keywords": []},
+    {"topic": "System Python safety, missing pip, and binary extensions", "file": "orientation/system-python-safety-missing-pip-and-binary-extensions.md", "summary": "Open when checking System Python safety, missing pip, and binary extensions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,47 @@
+# Language reference subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking 2. Lexical analysis. [Overview and scope / 2. Lexical analysis](lexical-analysis.md).
+- Open when checking 2.1. Line structure. [Line structure / 2.1. Line structure](line-structure.md).
+- Open when checking 2.1.1. Logical lines. [Line structure / 2.1.1. Logical lines](logical-lines.md).
+- Open when checking 2.1.2. Physical lines. [Line structure / 2.1.2. Physical lines](physical-lines.md).
+- Open when checking 2.1.3. Comments. [Line structure / 2.1.3. Comments](comments.md).
+- Open when checking 2.1.4. Encoding declarations. [Line structure / 2.1.4. Encoding declarations](encoding-declarations.md).
+- Open when checking 2.1.5. Explicit line joining. [Line structure / 2.1.5. Explicit line joining](explicit-line-joining.md).
+- Open when checking 2.1.6. Implicit line joining. [Line structure / 2.1.6. Implicit line joining](implicit-line-joining.md).
+- Open when checking 2.1.7. Blank lines. [Line structure / 2.1.7. Blank lines](blank-lines.md).
+- Open when checking 2.1.8. Indentation. [Line structure / 2.1.8. Indentation](indentation.md).
+- Open when checking 2.1.9. Whitespace between tokens. [Line structure / 2.1.9. Whitespace between tokens](whitespace-between-tokens.md).
+- Open when checking 2.1.10. End marker. [Line structure / 2.1.10. End marker](end-marker.md).
+- Open when checking 2.2. Other tokens. [Other tokens / 2.2. Other tokens](other-tokens.md).
+- Open when checking 2.3. Names (identifiers and keywords). [Names (identifiers and keywords) / 2.3. Names (identifiers and keywords)](names.md).
+- Open when checking 2.3.1. Keywords. [Names (identifiers and keywords) / 2.3.1. Keywords](keywords.md).
+- Open when checking 2.3.2. Soft Keywords. [Names (identifiers and keywords) / 2.3.2. Soft Keywords](soft-keywords.md).
+- Open when checking 2.3.3. Reserved classes of identifiers. [Names (identifiers and keywords) / 2.3.3. Reserved classes of identifiers](reserved-classes-of-identifiers.md).
+- Open when checking 2.3.4. Non-ASCII characters in names. [Names (identifiers and keywords) / 2.3.4. Non-ASCII characters in names](non-ascii-characters-in-names.md).
+- Open when checking 2.4. Literals. [Literals / 2.4. Literals](literals.md).
+- Open when checking 2.5. String and Bytes literals. [String and Bytes literals / 2.5. String and Bytes literals](string-and-bytes-literals.md).
+- Open when checking 2.5.1. Triple-quoted strings. [String and Bytes literals / 2.5.1. Triple-quoted strings](triple-quoted-strings.md).
+- Open when checking 2.5.2. String prefixes. [String and Bytes literals / 2.5.2. String prefixes](string-prefixes.md).
+- Open when checking 2.5.3. Formal grammar. [String and Bytes literals / 2.5.3. Formal grammar](formal-grammar.md).
+- Open when checking 2.5.4. Escape sequences. [String and Bytes literals / 2.5.4. Escape sequences](escape-sequences.md).
+- Open when checking 2.5.4.1. Ignored end of line. [String and Bytes literals / 2.5.4.1. Ignored end of line](ignored-end-of-line.md).
+- Open when checking 2.5.4.2. Escaped characters. [String and Bytes literals / 2.5.4.2. Escaped characters](escaped-characters.md).
+- Open when checking 2.5.4.3. Octal character. [String and Bytes literals / 2.5.4.3. Octal character](octal-character.md).
+- Open when checking 2.5.4.4. Hexadecimal character. [String and Bytes literals / 2.5.4.4. Hexadecimal character](hexadecimal-character.md).
+- Open when checking 2.5.4.5. Named Unicode character. [String and Bytes literals / 2.5.4.5. Named Unicode character](named-unicode-character.md).
+- Open when checking 2.5.4.6. Hexadecimal Unicode characters. [String and Bytes literals / 2.5.4.6. Hexadecimal Unicode characters](hexadecimal-unicode-characters.md).
+- Open when checking 2.5.4.7. Unrecognized escape sequences. [String and Bytes literals / 2.5.4.7. Unrecognized escape sequences](unrecognized-escape-sequences.md).
+- Open when checking 2.5.5. Bytes literals. [String and Bytes literals / 2.5.5. Bytes literals](bytes-literals.md).
+- Open when checking 2.5.6. Raw string literals. [String and Bytes literals / 2.5.6. Raw string literals](raw-string-literals.md).
+- Open when checking f-string syntax and replacement fields in lexical analysis. [lexical analysis: F-string syntax and replacement fields](f-strings-a-to-c.md).
+- Open when checking f-string nesting, comments and format specifications in lexical analysis. [lexical analysis: F-string nesting, comments and format specifications](fstring-nesting-implementation-limit.md).
+- Open when checking 2.5.8. t-strings. [String and Bytes literals / 2.5.8. t-strings](t-strings.md).
+- Open when checking 2.5.9. Formal grammar for f-strings. [String and Bytes literals / 2.5.9. Formal grammar for f-strings](formal-grammar-for-f-strings.md).
+- Open when checking 2.6. Numeric literals. [Numeric literals / 2.6. Numeric literals](numeric-literals.md).
+- Open when checking 2.6.1. Integer literals. [Numeric literals / 2.6.1. Integer literals](integer-literals.md).
+- Open when checking 2.6.2. Floating-point literals. [Numeric literals / 2.6.2. Floating-point literals](floating-point-literals.md).
+- Open when checking 2.6.3. Imaginary literals. [Numeric literals / 2.6.3. Imaginary literals](imaginary-literals.md).
+- Open when checking 2.7. Operators and delimiters. [Operators and delimiters / 2.7. Operators and delimiters](operators-and-delimiters.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

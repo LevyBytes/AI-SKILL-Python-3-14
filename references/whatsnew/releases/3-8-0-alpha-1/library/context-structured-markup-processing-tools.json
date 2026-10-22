@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Structured Markup Processing Tools / Python 3.8.0 alpha 1 / library / xml sax", "file": "releases/3-8-0-alpha-1/library/xml-sax.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / xml sax.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / Python 3.8.0 alpha 1 / library / xml dom pulldom", "file": "releases/3-8-0-alpha-1/library/xml-dom-pulldom.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / xml dom pulldom.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

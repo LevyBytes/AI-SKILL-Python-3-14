@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "All Platforms", "file": "asyncio-platforms/all-platforms.md", "summary": "Open when checking All Platforms.", "keywords": []},
+    {"topic": "macOS", "file": "asyncio-platforms/macos.md", "summary": "Open when checking macOS.", "keywords": []},
+    {"topic": "Platform Support", "file": "asyncio-platforms/platform-support.md", "summary": "Open when checking Platform Support.", "keywords": []},
+    {"topic": "Subprocess Support on Windows", "file": "asyncio-platforms/subprocess-support-on-windows.md", "summary": "Open when checking Subprocess Support on Windows.", "keywords": []},
+    {"topic": "Windows", "file": "asyncio-platforms/windows.md", "summary": "Open when checking Windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

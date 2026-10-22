@@ -1,0 +1,17 @@
+# Python/C API subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking the documented contracts for `Py_GetConstant()`, `Py_GetConstantBorrowed()`, `Py_NotImplemented`, `Py_RETURN_NOTIMPLEMENTED`, `Py_PRINT_RAW`, `PyObject_Print()`, `PyObject_HasAttrWithError()`, `PyObject_HasAttrStringWithError()` in object protocol C API. [object protocol C API: `Py_GetConstant()`, `Py_GetConstantBorrowed()`, `Py_NotImplemented`, `Py_RETURN_NOTIMPLEMENTED`, `Py_PRINT_RAW`, `PyObject_Print()`, `PyObject_HasAttrWithError()`, `PyObject_HasAttrStringWithError()`](py-getconstant-to-pyobject-hasattrstringwitherror.md).
+- Open when checking required and optional attribute access and assignment in object protocol C API. [object protocol C API: Required and optional attribute access and assignment](pyobject-hasattr-to-pyobject-genericsetattr.md).
+- Open when checking object dictionaries, attribute deletion and representation in object protocol C API. [object protocol C API: Object dictionaries, attribute deletion and representation](pyobject-delattr-to-pyobject-ascii.md).
+- Open when checking truth tests, size, item access and iterator entrypoints in object protocol C API. [object protocol C API: Truth tests, size, item access and iterator entrypoints](pyobject-istrue-to-pyobject-selfiter.md).
+- Open when checking the documented contracts for `PyObject_GetAIter()`, `PyObject_GetTypeData()`, `PyType_GetTypeDataSize()`, `PyObject_GetItemData()`, `PyObject_VisitManagedDict()`, `PyObject_ClearManagedDict()`, `PyUnstable_Object_EnableDeferredRefcount()` in object protocol C API. [object protocol C API: `PyObject_GetAIter()`, `PyObject_GetTypeData()`, `PyType_GetTypeDataSize()`, `PyObject_GetItemData()`, `PyObject_VisitManagedDict()`, `PyObject_ClearManagedDict()`, `PyUnstable_Object_EnableDeferredRefcount()`](pyobject-getaiter-to-pyunstable-object-enabledeferredrefcount.md).
+- Open when checking the documented contracts for `PyObject_Str()`, `PyObject_Bytes()`, `PyObject_IsSubclass()`, `PyObject_IsInstance()` in object protocol C API. [object protocol C API: `PyObject_Str()`, `PyObject_Bytes()`, `PyObject_IsSubclass()`, `PyObject_IsInstance()`](pyobject-str-to-pyobject-isinstance.md).
+- Open when checking the documented contracts for `PyUnstable_Object_IsUniqueReferencedTemporary()`, `PyUnstable_IsImmortal()` in object protocol C API. [object protocol C API: `PyUnstable_Object_IsUniqueReferencedTemporary()`, `PyUnstable_IsImmortal()`](object-unique-reference-and-immortality-checks.md).
+- Open when checking the documented contracts for `PyUnstable_TryIncRef()`, `PyUnstable_EnableTryIncRef()` in object protocol C API. [object protocol C API: `PyUnstable_TryIncRef()`, `PyUnstable_EnableTryIncRef()`](pyunstable-tryincref-to-pyunstable-enabletryincref.md).
+- Open when checking Py_hash_t PyObject_Hash(PyObject *o): [Py_hash_t PyObject_Hash(PyObject *o)](pyobject-hash.md).
+- Open when checking Py_hash_t PyObject_HashNotImplemented(PyObject *o): [Py_hash_t PyObject_HashNotImplemented(PyObject *o)](pyobject-hashnotimplemented.md).
+- Open when checking int PyUnstable_Object_IsUniquelyReferenced(PyObject *op): [int PyUnstable_Object_IsUniquelyReferenced(PyObject *op)](pyunstable-object-isuniquelyreferenced.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

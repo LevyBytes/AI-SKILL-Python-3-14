@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 beta 1 / build / build and platforms", "file": "releases/3-6-0-beta-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / files and paths", "file": "releases/3-6-0-beta-1/build/files-and-paths.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / fix lto builds os x", "file": "releases/3-6-0-beta-1/build/fix-lto-builds-os-x.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / fix lto builds os x.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / imports and modules", "file": "releases/3-6-0-beta-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / modules", "file": "releases/3-6-0-beta-1/build/modules.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / modules.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / non osx unix platforms deprecate building ctypes against bundled libffi", "file": "unix-bundled-libffi-build-deprecation.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / non osx unix platforms deprecate building ctypes against bundled libffi.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / platform", "file": "releases/3-6-0-beta-1/build/platform.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / platform.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / refresh message validate ucrtbase py", "file": "releases/3-6-0-beta-1/build/refresh-message-validate-ucrtbase-py.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / refresh message validate ucrtbase py.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / repair clean target within freeze makefile lisa roach s", "file": "releases/3-6-0-beta-1/build/repair-clean-target-within-freeze-makefile-lisa-roach-s.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / repair clean target within freeze makefile lisa roach s.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 1 / build / support dtrace systemtap probes", "file": "releases/3-6-0-beta-1/build/support-dtrace-systemtap-probes.md", "summary": "Open when checking Python 3.6.0 beta 1 / build / support dtrace systemtap probes.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

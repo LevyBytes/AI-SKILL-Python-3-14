@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 3 / core and builtins / collections and iteration", "file": "releases/3-5-0-alpha-3/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.5.0 alpha 3 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 3 / core and builtins / comparisons bytes against int influenced b option", "file": "releases/3-5-0-alpha-3/core-and-builtins/comparisons-bytes-against-int-influenced-b-option.md", "summary": "Open when checking Python 3.5.0 alpha 3 / core and builtins / comparisons bytes against int influenced b option.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 3 / core and builtins / functions and types", "file": "releases/3-5-0-alpha-3/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.5.0 alpha 3 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 3 / core and builtins / repair default sizeof implementation used variable sized objects", "file": "variable-sized-object-size-calculation.md", "summary": "Open when checking Python 3.5.0 alpha 3 / core and builtins / repair default sizeof implementation used variable sized objects.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 3 / core and builtins / text and unicode", "file": "releases/3-5-0-alpha-3/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.5.0 alpha 3 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

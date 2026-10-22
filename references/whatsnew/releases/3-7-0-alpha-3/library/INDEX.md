@@ -1,0 +1,62 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.7.0 alpha 3 / library / exceptions. [Built-in objects and typing / Python 3.7.0 alpha 3 / library / exceptions](exceptions.md).
+- Open when checking Python 3.7.0 alpha 3 / library / collections. [Data Types / Python 3.7.0 alpha 3 / library / collections](collections.md).
+- Open when checking Python 3.7.0 alpha 3 / library / broader handling reading utc offsets. [Data Types / Python 3.7.0 alpha 3 / library / broader handling reading utc offsets](broader-handling-reading-utc-offsets.md).
+- Open when checking Python 3.7.0 alpha 3 / library / collections abc. [Data Types / Python 3.7.0 alpha 3 / library / collections abc](collections-abc.md).
+- Open when checking Python 3.7.0 alpha 3 / library / updates to3 operator iscallable obj converted into callable obj. [Functional Programming Modules / Python 3.7.0 alpha 3 / library / updates to3 operator iscallable obj converted into callable obj](lib2to3-callable-operator-migration.md).
+- Open when checking Python 3.7.0 alpha 3 / library / avoid crash inside sqlite3 cursor close whenever cursor object not initialized. [Data Persistence / Python 3.7.0 alpha 3 / library / avoid crash inside sqlite3 cursor close whenever cursor object not initialized](uninitialized-sqlite-cursor-close.md).
+- Open when checking Python 3.7.0 alpha 3 / library / netrc. [File Formats / Python 3.7.0 alpha 3 / library / netrc](netrc.md).
+- Open when checking Python 3.7.0 alpha 3 / library / configparser. [File Formats / Python 3.7.0 alpha 3 / library / configparser](configparser.md).
+- Open when checking Python 3.7.0 alpha 3 / library / add time thread time time thread time ns. [Generic Operating System Services / Python 3.7.0 alpha 3 / library / add time thread time time thread time ns](thread-cpu-time-functions.md).
+- Open when checking Python 3.7.0 alpha 3 / library / deprecationwarning warning raised time clock time get clock info clock. [Generic Operating System Services / Python 3.7.0 alpha 3 / library / deprecationwarning warning raised time clock time get clock info clock](legacy-time-clock-deprecation.md).
+- Open when checking Python 3.7.0 alpha 3 / library / fix multiprocessing process stdout or stderr closed or none. [Concurrent Execution / Python 3.7.0 alpha 3 / library / fix multiprocessing process stdout or stderr closed or none](fix-multiprocessing-process-stdout-or-stderr-closed-or-none.md).
+- Open when checking Python 3.7.0 alpha 3 / library / asyncio eventloop. [Networking and Interprocess Communication / Python 3.7.0 alpha 3 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.7.0 alpha 3 / library / make asyncio incompletereaderror limitoverrunerror pickleable. [Networking and Interprocess Communication / Python 3.7.0 alpha 3 / library / make asyncio incompletereaderror limitoverrunerror pickleable](make-asyncio-incompletereaderror-limitoverrunerror-pickleable.md).
+- Open when checking Python 3.7.0 alpha 3 / library / add mmap access default constant. [Networking and Interprocess Communication / Python 3.7.0 alpha 3 / library / add mmap access default constant](add-mmap-access-default-constant.md).
+- Open when checking Python 3.7.0 alpha 3 / library / fix potential missed signal signal signal. [Networking and Interprocess Communication / Python 3.7.0 alpha 3 / library / fix potential missed signal signal signal](fix-potential-missed-signal-signal-signal.md).
+- Open when checking Python 3.7.0 alpha 3 / library / memory and lifetimes. [Networking and Interprocess Communication / Python 3.7.0 alpha 3 / library / memory and lifetimes](memory-and-lifetimes.md).
+- Open when checking Python 3.7.0 alpha 3 / library / can uuid getnode favours returning universally administered mac addresses ahead. [Internet Protocols and Support / Python 3.7.0 alpha 3 / library / can uuid getnode favours returning universally administered mac addresses ahead](uuid-universally-administered-mac-preference.md).
+- Open when checking Python 3.7.0 alpha 3 / library / ipaddress. [Internet Protocols and Support / Python 3.7.0 alpha 3 / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.7.0 alpha 3 / library / http. [Internet Protocols and Support / Python 3.7.0 alpha 3 / library / http](http.md).
+- Open when checking Python 3.7.0 alpha 3 / library / modules. [Multimedia Services / Python 3.7.0 alpha 3 / library / modules](modules.md).
+- Open when checking Python 3.7.0 alpha 3 / library / platform. [Development Tools / Python 3.7.0 alpha 3 / library / platform](platform.md).
+- Open when checking Python 3.7.0 alpha 3 / library / sys. [Python Runtime Services / Python 3.7.0 alpha 3 / library / sys](sys.md).
+- Open when checking Python 3.7.0 alpha 3 / library / inspect. [Python Runtime Services / Python 3.7.0 alpha 3 / library / inspect](inspect.md).
+- Open when checking Python 3.7.0 alpha 3 / library / development. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / development](development.md).
+- Open when checking Python 3.7.0 alpha 3 / library / msilib summaryinformation getproperty hand back none whenever property s value vt empty. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / msilib summaryinformation getproperty hand back none whenever property s value vt empty](empty-msi-summary-property-value.md).
+- Open when checking Python 3.7.0 alpha 3 / library / nullcontext no op context manager joins contextlib. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / nullcontext no op context manager joins contextlib](nullcontext-no-op-context-manager-joins-contextlib.md).
+- Open when checking Python 3.7.0 alpha 3 / library / unittest. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / unittest](unittest.md).
+- Open when checking Python 3.7.0 alpha 3 / library / warnings. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / warnings](warnings.md).
+- Open when checking Python 3.7.0 alpha 3 / library / adds configurable blocksize httpconnection httpsconnection lift upload throughput. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / adds configurable blocksize httpconnection httpsconnection lift upload throughput](http-connection-upload-block-size.md).
+- Open when checking Python 3.7.0 alpha 3 / library / binary. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / binary](binary.md).
+- Open when checking Python 3.7.0 alpha 3 / library / compiler and parser. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.7.0 alpha 3 / library / marshal. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / marshal](marshal.md).
+- Open when checking Python 3.7.0 alpha 3 / library / build and platforms. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.7.0 alpha 3 / library / corrects layout kqueue event structure across openbsd netbsd corrects comparison. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / corrects layout kqueue event structure across openbsd netbsd corrects comparison](bsd-kqueue-event-layout-and-comparison.md).
+- Open when checking Python 3.7.0 alpha 3 / library / crypt mksalt you can state how many rounds use sha 256. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / crypt mksalt you can state how many rounds use sha 256](crypt-mksalt-you-can-state-how-many-rounds-use-sha-256.md).
+- Open when checking Python 3.7.0 alpha 3 / library / interrupted lock wait timeouts. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / interrupted lock wait timeouts](interrupted-lock-wait-timeouts.md).
+- Open when checking Python 3.7.0 alpha 3 / library / plistlib. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / plistlib](plistlib.md).
+- Open when checking Python 3.7.0 alpha 3 / library / repairs blake2 params leaf size node offset big endian platforms. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / repairs blake2 params leaf size node offset big endian platforms](big-endian-blake2-parameter-encoding.md).
+- Open when checking Python 3.7.0 alpha 3 / library / uuid. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / uuid](uuid.md).
+- Open when checking Python 3.7.0 alpha 3 / library / add abstracteventloop sock recv into. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / add abstracteventloop sock recv into](add-abstracteventloop-sock-recv-into.md).
+- Open when checking Python 3.7.0 alpha 3 / library / collections and iteration. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.7.0 alpha 3 / library / crypt. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / crypt](crypt.md).
+- Open when checking Python 3.7.0 alpha 3 / library / resolve potential crash timedelta constructor receives custom integers. [Library compatibility and maintenance / Python 3.7.0 alpha 3 / library / resolve potential crash timedelta constructor receives custom integers](custom-integer-timedelta-construction-crash.md).
+- Open when checking Python 3.7.0 alpha 3 / library / email. [Combined library maintenance / Python 3.7.0 alpha 3 / library / email](email.md).
+- Open when checking Python 3.7.0 alpha 3 / library / exceptions and tracebacks. [Combined library maintenance / Python 3.7.0 alpha 3 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.7.0 alpha 3 / library / files and paths. [Combined library maintenance / Python 3.7.0 alpha 3 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.7.0 alpha 3 / library / socket. [Combined library maintenance / Python 3.7.0 alpha 3 / library / socket](socket.md).
+- Open when checking Python 3.7.0 alpha 3 / library / subprocess. [Combined library maintenance / Python 3.7.0 alpha 3 / library / subprocess](subprocess.md).
+- Open when checking Python 3.7.0 alpha 3 / library / asyncio. [Combined library maintenance / Python 3.7.0 alpha 3 / library / asyncio](asyncio.md).
+- Open when checking Python 3.7.0 alpha 3 / library / curses. [Combined library maintenance / Python 3.7.0 alpha 3 / library / curses](curses.md).
+- Open when checking Python 3.7.0 alpha 3 / library / functions and types. [Combined library maintenance / Python 3.7.0 alpha 3 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.7.0 alpha 3 / library / imports and modules. [Combined library maintenance / Python 3.7.0 alpha 3 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.7.0 alpha 3 / library / text and unicode. [Combined library maintenance / Python 3.7.0 alpha 3 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.7.0 alpha 3 / library / threads and concurrency. [Combined library maintenance / Python 3.7.0 alpha 3 / library / threads and concurrency](threads-and-concurrency.md).
+- Open when checking Python 3.7.0 alpha 3 / library / time. [Combined library maintenance / Python 3.7.0 alpha 3 / library / time](time.md).
+- Open when checking Python 3.7.0 alpha 3 / library / traceback. [Combined library maintenance / Python 3.7.0 alpha 3 / library / traceback](traceback.md).
+- Open when checking Python 3.7.0 alpha 3 / library / multiprocessing. [Combined library maintenance / Python 3.7.0 alpha 3 / library / multiprocessing](multiprocessing.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

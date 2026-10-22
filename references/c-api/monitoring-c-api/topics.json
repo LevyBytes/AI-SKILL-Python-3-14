@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "monitoring c api C API: Monitoring event arguments and execution-emulation contract", "file": "monitoring-c-api/generating-execution-events.md", "summary": "Open when checking monitoring event arguments and execution-emulation contract in monitoring c api C API.", "keywords": []},
+  {"topic": "monitoring c api C API: Monitoring state and event-emission functions", "file": "monitoring-c-api/pymonitoringstate-to-pymonitoring-firestopiterationevent.md", "summary": "Open when checking monitoring state and event-emission functions in monitoring c api C API.", "keywords": []},
+  {"topic": "Monitoring C API", "file": "monitoring-c-api/monitoring-c-api.md", "summary": "Open when checking Monitoring C API.", "keywords": []},
+  {"topic": "Managing the Monitoring State", "file": "monitoring-c-api/pymonitoring-enterscope-to-pymonitoring-exitscope.md", "summary": "Open when checking Managing the Monitoring State.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

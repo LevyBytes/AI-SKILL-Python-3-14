@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 4 / windows / asyncio protocol", "file": "releases/3-12-0-alpha-4/windows/asyncio-protocol.md", "summary": "Open when checking Python 3.12.0 alpha 4 / windows / asyncio protocol.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / windows / build and platforms", "file": "releases/3-12-0-alpha-4/windows/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 4 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / windows / compiler and parser", "file": "releases/3-12-0-alpha-4/windows/compiler-and-parser.md", "summary": "Open when checking Python 3.12.0 alpha 4 / windows / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / windows / exceptions", "file": "releases/3-12-0-alpha-4/windows/exceptions.md", "summary": "Open when checking Python 3.12.0 alpha 4 / windows / exceptions.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / windows / tests and documentation", "file": "releases/3-12-0-alpha-4/windows/tests-and-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 4 / windows / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / windows / winreg", "file": "releases/3-12-0-alpha-4/windows/winreg.md", "summary": "Open when checking Python 3.12.0 alpha 4 / windows / winreg.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/howto", "topics": [
+  {"topic": "Overview and scope / Sorting Techniques", "file": "sorting/sorting-techniques.md", "summary": "Open when checking Sorting Techniques.", "keywords": []},
+  {"topic": "Sorting Basics", "file": "sorting/sorting-basics.md", "summary": "Open when checking Sorting Basics.", "keywords": []},
+  {"topic": "Key Functions", "file": "sorting/key-functions.md", "summary": "Open when checking Key Functions.", "keywords": []},
+  {"topic": "Operator Module Functions and Partial Function Evaluation", "file": "sorting/operator-module-functions-and-partial-function-evaluation.md", "summary": "Open when checking Operator Module Functions and Partial Function Evaluation.", "keywords": []},
+  {"topic": "Ascending and Descending", "file": "sorting/ascending-and-descending.md", "summary": "Open when checking Ascending and Descending.", "keywords": []},
+  {"topic": "Sort Stability and Complex Sorts", "file": "sorting/sort-stability-and-complex-sorts.md", "summary": "Open when checking Sort Stability and Complex Sorts.", "keywords": []},
+  {"topic": "Decorate-Sort-Undecorate", "file": "sorting/decorate-sort-undecorate.md", "summary": "Open when checking Decorate-Sort-Undecorate.", "keywords": []},
+  {"topic": "Comparison Functions", "file": "sorting/comparison-functions.md", "summary": "Open when checking Comparison Functions.", "keywords": []},
+  {"topic": "Strategies For Unorderable Types and Values", "file": "sorting/strategies-for-unorderable-types-and-values.md", "summary": "Open when checking Strategies For Unorderable Types and Values.", "keywords": []},
+  {"topic": "Odds and Ends", "file": "sorting/odds-and-ends.md", "summary": "Open when checking Odds and Ends.", "keywords": []},
+  {"topic": "Partial Sorts", "file": "sorting/partial-sorts.md", "summary": "Open when checking Partial Sorts.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

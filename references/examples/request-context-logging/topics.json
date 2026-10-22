@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "request_state", "file": "references/examples/request-context-logging/request_state.py", "summary": "Open when checking request_state.", "keywords": []},
+    {"topic": "run_requests", "file": "references/examples/request-context-logging/run_requests.py", "summary": "Open when checking run_requests.", "keywords": []},
+    {"topic": "web_application", "file": "references/examples/request-context-logging/web_application.py", "summary": "Open when checking web_application.", "keywords": []},
+    {"topic": "webapplib", "file": "references/examples/request-context-logging/webapplib.py", "summary": "Open when checking webapplib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

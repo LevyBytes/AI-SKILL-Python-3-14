@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.4 release candidate 1 / security / move expat copy gain fixes cve cve", "file": "releases/3-5-4-release-candidate-1/security/move-expat-copy-gain-fixes-cve-cve.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / security / move expat copy gain fixes cve cve.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / security / re", "file": "releases/3-5-4-release-candidate-1/security/re.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / security / re.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / security / subprocess", "file": "releases/3-5-4-release-candidate-1/security/subprocess.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / security / subprocess.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / security / tests and documentation", "file": "releases/3-5-4-release-candidate-1/security/tests-and-documentation.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / security / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

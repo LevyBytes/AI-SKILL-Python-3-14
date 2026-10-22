@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 1 / c api / collections and iteration", "file": "releases/3-7-0-alpha-1/c-api/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / compiler and parser", "file": "releases/3-7-0-alpha-1/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / every stable api extension introduced after python reachable only", "file": "stable-api-version-availability.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / every stable api extension introduced after python reachable only.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / exceptions and tracebacks", "file": "releases/3-7-0-alpha-1/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / files and paths", "file": "releases/3-7-0-alpha-1/c-api/files-and-paths.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / functions and types", "file": "releases/3-7-0-alpha-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / platform", "file": "releases/3-7-0-alpha-1/c-api/platform.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / platform.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / py packagecontext private variable typed const char instead char", "file": "package-context-const-pointer-type.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / py packagecontext private variable typed const char instead char.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / pyos afterfork deprecated pyos beforefork pyos afterfork parent pyos afterfork child added", "file": "before-and-after-fork-c-api.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / pyos afterfork deprecated pyos beforefork pyos afterfork parent pyos afterfork child added.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / pyunicode findchar s start end index parameters corrected they act", "file": "unicode-character-search-index-bounds.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / pyunicode findchar s start end index parameters corrected they act.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / text and unicode", "file": "releases/3-7-0-alpha-1/c-api/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 1 / c api / what pyunicode asutf8andsize pyunicode asutf8 return typed const char instead char", "file": "utf8-accessor-const-return-types.md", "summary": "Open when checking Python 3.7.0 alpha 1 / c api / what pyunicode asutf8andsize pyunicode asutf8 return typed const char instead char.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

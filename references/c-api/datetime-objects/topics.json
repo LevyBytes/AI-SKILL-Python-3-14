@@ -1,0 +1,12 @@
+{"schema_version": 1, "topics": [
+  {"topic": "datetime objects C API: Date/time object types, checks and date construction", "file": "datetime-objects/pydatetime-delta-to-pydate-fromdate.md", "summary": "Open when checking date/time object types, checks and date construction in datetime objects C API.", "keywords": []},
+  {"topic": "datetime objects C API: Date/time and timezone constructors with field access", "file": "datetime-objects/pydatetime-fromdateandtime-to-pydatetime-date-get-microsecond.md", "summary": "Open when checking date/time and timezone constructors with field access in datetime objects C API.", "keywords": []},
+  {"topic": "datetime objects C API: Time/fold fields, durations and timestamp constructors", "file": "datetime-objects/pydatetime-date-get-fold-to-pydate-fromtimestamp.md", "summary": "Open when checking time/fold fields, durations and timestamp constructors in datetime objects C API.", "keywords": []},
+  {"topic": "datetime objects C API: `PyDateTime_IMPORT()`", "file": "datetime-objects/pydatetime-import.md", "summary": "Open when checking the documented contracts for `PyDateTime_IMPORT()` in datetime objects C API.", "keywords": []},
+  {"topic": "datetime objects C API: `PyDateTime_CAPI`, `PyDateTimeAPI`", "file": "datetime-objects/pydatetime-capi-to-pydatetimeapi.md", "summary": "Open when checking the documented contracts for `PyDateTime_CAPI`, `PyDateTimeAPI` in datetime objects C API.", "keywords": []},
+  {"topic": "Internal data", "file": "datetime-objects/pydatetime-capsule-name.md", "summary": "Open when checking Internal data.", "keywords": []},
+  {"topic": "type PyDateTime_Date", "file": "datetime-objects/pydatetime-date.md", "summary": "Open when checking type PyDateTime_Date.", "keywords": []},
+  {"topic": "type PyDateTime_DateTime", "file": "datetime-objects/pydatetime-datetime.md", "summary": "Open when checking type PyDateTime_DateTime.", "keywords": []},
+  {"topic": "type PyDateTime_Time", "file": "datetime-objects/pydatetime-time.md", "summary": "Open when checking type PyDateTime_Time.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

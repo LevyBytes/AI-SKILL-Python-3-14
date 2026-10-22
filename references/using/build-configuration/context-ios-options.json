@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "iOS Options / 3.3.14. iOS Options", "file": "build-configuration/ios-options.md", "summary": "Open when checking 3.3.14. iOS Options.", "keywords": []},
+  {"topic": "iOS Options / --enable-framework=INSTALLDIR", "file": "build-configuration/enable-framework-installdir.md", "summary": "Open when checking --enable-framework=INSTALLDIR.", "keywords": []},
+  {"topic": "iOS Options / --with-framework-name=FRAMEWORK", "file": "build-configuration/with-framework-name-framework.md", "summary": "Open when checking --with-framework-name=FRAMEWORK.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / build and platforms", "file": "releases/3-14-0-beta-4/core-and-builtins/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / dict", "file": "releases/3-14-0-beta-4/core-and-builtins/dict.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / dict.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / exceptions and tracebacks", "file": "releases/3-14-0-beta-4/core-and-builtins/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / imports and modules", "file": "releases/3-14-0-beta-4/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / sys", "file": "releases/3-14-0-beta-4/core-and-builtins/sys.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / sys.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / text and unicode", "file": "releases/3-14-0-beta-4/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / threading", "file": "releases/3-14-0-beta-4/core-and-builtins/threading.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / threading.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / trashcan mechanism confined gc ed objects untracked while sitting", "file": "trashcan-gc-object-tracking.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / trashcan mechanism confined gc ed objects untracked while sitting.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 4 / core and builtins / weakref", "file": "releases/3-14-0-beta-4/core-and-builtins/weakref.md", "summary": "Open when checking Python 3.14.0 beta 4 / core and builtins / weakref.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

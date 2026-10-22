@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 beta 1 / build / build and platforms", "file": "releases/3-12-0-beta-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 beta 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / build / declare phony virtual make targets uniform correct fashion", "file": "releases/3-12-0-beta-1/build/declare-phony-virtual-make-targets-uniform-correct-fashion.md", "summary": "Open when checking Python 3.12.0 beta 1 / build / declare phony virtual make targets uniform correct fashion.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / build / files and paths", "file": "releases/3-12-0-beta-1/build/files-and-paths.md", "summary": "Open when checking Python 3.12.0 beta 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / build / imports and modules", "file": "releases/3-12-0-beta-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 beta 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / build / platform", "file": "releases/3-12-0-beta-1/build/platform.md", "summary": "Open when checking Python 3.12.0 beta 1 / build / platform.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / build / python for regen henceforth demands python or later", "file": "releases/3-12-0-beta-1/build/python-for-regen-henceforth-demands-python-or-later.md", "summary": "Open when checking Python 3.12.0 beta 1 / build / python for regen henceforth demands python or later.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

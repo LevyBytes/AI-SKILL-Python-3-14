@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 2 / build / asyncio", "file": "releases/3-9-0-alpha-2/build/asyncio.md", "summary": "Open when checking Python 3.9.0 alpha 2 / build / asyncio.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 2 / build / compiler and parser", "file": "releases/3-9-0-alpha-2/build/compiler-and-parser.md", "summary": "Open when checking Python 3.9.0 alpha 2 / build / compiler and parser.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

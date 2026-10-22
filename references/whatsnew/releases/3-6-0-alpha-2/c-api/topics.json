@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 2 / c api / functions and types", "file": "releases/3-6-0-alpha-2/c-api/functions-and-types.md", "summary": "Open when checking Python 3.6.0 alpha 2 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 2 / c api / positional only parameters accepted pyarg parsetupleandkeywords", "file": "c-api-positional-only-argument-parsing.md", "summary": "Open when checking Python 3.6.0 alpha 2 / c api / positional only parameters accepted pyarg parsetupleandkeywords.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

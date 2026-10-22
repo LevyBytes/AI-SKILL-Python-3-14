@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Overview and scope / Upstream feature guide navigation for Python 3.13", "file": "release-3-13/release-overview.md", "summary": "Open when checking Upstream feature guide navigation for Python 3.13.", "keywords": []},
+  {"topic": "Summary – Release Highlights", "file": "release-3-13/context-release-highlights.md", "summary": "Open when checking summary – release highlights.", "keywords": []},
+  {"topic": "New Features", "file": "release-3-13/context-new-features.md", "summary": "Open when checking new features.", "keywords": []},
+  {"topic": "Other Language Changes / What's New In Python 3.13 / Other Language Changes — __future__, _thread, os", "file": "release-3-13/other-language-changes.md", "summary": "Open when checking What's New In Python 3.13 / Other Language Changes — __future__, _thread, os.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.13 / New Modules — dbm", "file": "release-3-13/new-modules.md", "summary": "Open when checking What's New In Python 3.13 / New Modules — dbm.", "keywords": []},
+  {"topic": "Improved Modules", "file": "release-3-13/context-improved-modules.md", "summary": "Open when checking improved modules.", "keywords": []},
+  {"topic": "Optimizations / What's New In Python 3.13 / Optimizations — contextlib, email.utils, enum, functools, importlib.metadata, os, re, subprocess, textwrap, threading, typing", "file": "release-3-13/optimizations.md", "summary": "Open when checking What's New In Python 3.13 / Optimizations — contextlib, email.utils, enum, functools, importlib.metadata, os, re, subprocess, textwrap, threading, typing.", "keywords": []},
+  {"topic": "Removed Modules And APIs", "file": "release-3-13/context-removed-modules-and-apis.md", "summary": "Open when checking removed modules and apis.", "keywords": []},
+  {"topic": "New Deprecations", "file": "release-3-13/context-new-deprecations.md", "summary": "Open when checking new deprecations.", "keywords": []},
+  {"topic": "CPython Bytecode Changes / What's New In Python 3.13 / CPython Bytecode Changes — dis", "file": "release-3-13/cpython-bytecode-changes.md", "summary": "Open when checking What's New In Python 3.13 / CPython Bytecode Changes — dis.", "keywords": []},
+  {"topic": "C API Changes", "file": "release-3-13/context-c-api-changes.md", "summary": "Open when checking c api changes.", "keywords": []},
+  {"topic": "Build Changes / What's New In Python 3.13 / Build Changes — sqlite3", "file": "release-3-13/build-changes.md", "summary": "Open when checking What's New In Python 3.13 / Build Changes — sqlite3.", "keywords": []},
+  {"topic": "Porting to Python 3.13", "file": "release-3-13/context-porting-to-python-3-13.md", "summary": "Open when checking porting to python 3.13.", "keywords": []},
+  {"topic": "Regression Test Changes / What's New In Python 3.13 / Regression Test Changes", "file": "release-3-13/regression-test-changes.md", "summary": "Open when checking What's New In Python 3.13 / Regression Test Changes.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

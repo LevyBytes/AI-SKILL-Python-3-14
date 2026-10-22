@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "fnmatch — `fnmatch` — Unix filename pattern matching", "file": "fnmatch/fnmatch-fnmatch-to-fnmatch-translate.md", "summary": "Open when checking fnmatch — `fnmatch` — Unix filename pattern matching.", "keywords": []},
+    {"topic": "fnmatch — Unix filename pattern matching", "file": "fnmatch/unix-filename-pattern-matching.md", "summary": "Open when checking fnmatch — Unix filename pattern matching.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

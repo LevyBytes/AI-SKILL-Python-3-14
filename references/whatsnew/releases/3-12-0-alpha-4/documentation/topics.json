@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 4 / documentation / compileall", "file": "releases/3-12-0-alpha-4/documentation/compileall.md", "summary": "Open when checking Python 3.12.0 alpha 4 / documentation / compileall.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / documentation / curses", "file": "releases/3-12-0-alpha-4/documentation/curses.md", "summary": "Open when checking Python 3.12.0 alpha 4 / documentation / curses.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 4 / documentation / functions and types", "file": "releases/3-12-0-alpha-4/documentation/functions-and-types.md", "summary": "Open when checking Python 3.12.0 alpha 4 / documentation / functions and types.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

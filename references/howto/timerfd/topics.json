@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Complete timerfd select example", "file": "timerfd/complete-timerfd-select-example.md", "summary": "Open when checking Complete timerfd select example.", "keywords": []},
+    {"topic": "Imports, epoll, socket and timer setup", "file": "timerfd/imports-epoll-socket-and-timer-setup.md", "summary": "Open when checking Imports, epoll, socket and timer setup.", "keywords": []},
+    {"topic": "Periodic timerfd example and nanosecond/epoll setup", "file": "timerfd/periodic-timerfd-example-and-nanosecond-epoll-setup.md", "summary": "Open when checking Periodic timerfd example and nanosecond/epoll setup.", "keywords": []},
+    {"topic": "timer file descriptor HOWTO", "file": "timerfd/timer-file-descriptor-howto.md", "summary": "Open when checking timer file descriptor HOWTO.", "keywords": []},
+    {"topic": "Whole polling try/finally and timer cleanup", "file": "timerfd/whole-polling-try-finally-and-timer-cleanup.md", "summary": "Open when checking Whole polling try/finally and timer cleanup.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

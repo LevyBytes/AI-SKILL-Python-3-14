@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 4 / build / build and platforms", "file": "releases/3-13-0-alpha-4/build/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 4 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / build / grp", "file": "releases/3-13-0-alpha-4/build/grp.md", "summary": "Open when checking Python 3.13.0 alpha 4 / build / grp.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / build / platform", "file": "releases/3-13-0-alpha-4/build/platform.md", "summary": "Open when checking Python 3.13.0 alpha 4 / build / platform.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / build / skip vendoring vcruntime140 threads dll while building under visual studio version", "file": "visual-studio-runtime-thread-dll-vendoring.md", "summary": "Open when checking Python 3.13.0 alpha 4 / build / skip vendoring vcruntime140 threads dll while building under visual studio version.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

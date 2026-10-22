@@ -1,0 +1,13 @@
+{"schema_version": 1, "topics": [
+  {"topic": "http.client — Examples", "file": "http-client/examples.md", "summary": "Open when checking http.client — Examples.", "keywords": []},
+  {"topic": "http.client: `http.client.HTTPConnection`", "file": "http-client/http-client-httpconnection-class.md", "summary": "Open when checking the documented contracts for `http.client.HTTPConnection` in http.client.", "keywords": []},
+  {"topic": "http.client: `http.client.HTTPSConnection`", "file": "http-client/http-client-httpsconnection-class.md", "summary": "Open when checking the documented contracts for `http.client.HTTPSConnection` in http.client.", "keywords": []},
+  {"topic": "http.client: `http.client.HTTPResponse`", "file": "http-client/http-client-httpresponse-class.md", "summary": "Open when checking the documented contracts for `http.client.HTTPResponse` in http.client.", "keywords": []},
+  {"topic": "http.client: HTTP header parsing, exception types and port constants", "file": "http-client/http-client-parse-headers-to-http-client-https-port.md", "summary": "Open when checking HTTP header parsing, exception types and port constants in http.client.", "keywords": []},
+  {"topic": "http.client: `http.client.responses`", "file": "http-client/http-client-responses.md", "summary": "Open when checking the documented contracts for `http.client.responses` in http.client.", "keywords": []},
+  {"topic": "http.client — HTTPMessage Objects", "file": "http-client/http-client-httpmessage-class.md", "summary": "Open when checking http.client — HTTPMessage Objects.", "keywords": []},
+  {"topic": "http.client: `HTTPConnection.request()`, `HTTPConnection.getresponse()`, `HTTPConnection.set_debuglevel()`, `HTTPConnection.set_tunnel()`", "file": "http-client/httpconnection-request-to-httpconnection-set-tunnel.md", "summary": "Open when checking the documented contracts for `HTTPConnection.request()`, `HTTPConnection.getresponse()`, `HTTPConnection.set_debuglevel()`, `HTTPConnection.set_tunnel()` in http.client.", "keywords": []},
+  {"topic": "http.client: Proxy response inspection and low-level request output", "file": "http-proxy-response-and-connection-output.md", "summary": "Open when checking proxy response inspection and low-level request output in http.client.", "keywords": []},
+  {"topic": "http.client — HTTPResponse Objects", "file": "http-client/httpresponse-read-to-httpresponse-getcode.md", "summary": "Open when checking http.client — HTTPResponse Objects.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "wsgiref.util: `wsgiref.util.guess_scheme()`, `wsgiref.util.request_uri()`, `wsgiref.util.application_uri()`, `wsgiref.util.shift_path_info()`, `wsgiref.util.setup_testing_defaults()`, `wsgiref.util.is_hop_by_hop()`", "file": "wsgiref-util/wsgiref-util-guess-scheme-to-wsgiref-util-is-hop-by-hop.md", "summary": "Open when checking the documented contracts for `wsgiref.util.guess_scheme()`, `wsgiref.util.request_uri()`, `wsgiref.util.application_uri()`, `wsgiref.util.shift_path_info()`, `wsgiref.util.setup_testing_defaults()`, `wsgiref.util.is_hop_by_hop()` in wsgiref.util.", "keywords": []},
+  {"topic": "wsgiref.util: `wsgiref.util.FileWrapper`", "file": "wsgiref-util/wsgiref-util-filewrapper-class.md", "summary": "Open when checking the documented contracts for `wsgiref.util.FileWrapper` in wsgiref.util.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

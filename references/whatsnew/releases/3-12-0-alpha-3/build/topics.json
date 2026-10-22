@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 3 / build / compileall", "file": "releases/3-12-0-alpha-3/build/compileall.md", "summary": "Open when checking Python 3.12.0 alpha 3 / build / compileall.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / build / compiler and parser", "file": "releases/3-12-0-alpha-3/build/compiler-and-parser.md", "summary": "Open when checking Python 3.12.0 alpha 3 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / build / memory and lifetimes", "file": "releases/3-12-0-alpha-3/build/memory-and-lifetimes.md", "summary": "Open when checking Python 3.12.0 alpha 3 / build / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / build / tests and documentation", "file": "releases/3-12-0-alpha-3/build/tests-and-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 3 / build / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / build / warnings", "file": "releases/3-12-0-alpha-3/build/warnings.md", "summary": "Open when checking Python 3.12.0 alpha 3 / build / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

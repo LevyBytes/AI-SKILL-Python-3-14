@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / collections and iteration", "file": "releases/3-7-0-alpha-3/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / compiler and parser", "file": "releases/3-7-0-alpha-3/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / computing repr heavily nested dict surfaces recursionerror rather than", "file": "deep-dictionary-representation-recursion-error.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / computing repr heavily nested dict surfaces recursionerror rather than.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / debug", "file": "releases/3-7-0-alpha-3/core-and-builtins/debug.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / debug.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / exceptions and tracebacks", "file": "releases/3-7-0-alpha-3/core-and-builtins/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / functions and types", "file": "releases/3-7-0-alpha-3/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / imports and modules", "file": "releases/3-7-0-alpha-3/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / interpreter startup environment variables again being read correctly", "file": "startup-environment-variable-reading.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / interpreter startup environment variables again being read correctly.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / locale", "file": "releases/3-7-0-alpha-3/core-and-builtins/locale.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / locale.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / memory and lifetimes", "file": "releases/3-7-0-alpha-3/core-and-builtins/memory-and-lifetimes.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / numbers", "file": "releases/3-7-0-alpha-3/core-and-builtins/numbers.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / numbers.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / numeric behavior", "file": "releases/3-7-0-alpha-3/core-and-builtins/numeric-behavior.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / text and unicode", "file": "releases/3-7-0-alpha-3/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / core and builtins / traceback", "file": "releases/3-7-0-alpha-3/core-and-builtins/traceback.md", "summary": "Open when checking Python 3.7.0 alpha 3 / core and builtins / traceback.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/reference", "topics": [
+  {"topic": "Objects, values and types / 3.1. Objects, values and types", "file": "data-model/objects-values-and-types.md", "summary": "Open when checking 3.1. Objects, values and types.", "keywords": []},
+  {"topic": "The standard type hierarchy", "file": "data-model/context-the-standard-type-hierarchy.md", "summary": "Open when checking the standard type hierarchy.", "keywords": []},
+  {"topic": "Special method names", "file": "data-model/context-special-method-names.md", "summary": "Open when checking special method names.", "keywords": []},
+  {"topic": "Basic customization", "file": "data-model/context-basic-customization.md", "summary": "Open when checking basic customization.", "keywords": []},
+  {"topic": "Emulating container types", "file": "data-model/context-emulating-container-types.md", "summary": "Open when checking emulating container types.", "keywords": []},
+  {"topic": "Coroutines", "file": "data-model/context-coroutines.md", "summary": "Open when checking coroutines.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

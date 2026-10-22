@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 1 / windows / asyncio", "file": "releases/3-12-0-alpha-1/windows/asyncio.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / asyncio.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / build and platforms", "file": "releases/3-12-0-alpha-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / explicitly disable incremental linking non debug builds", "file": "releases/3-12-0-alpha-1/windows/explicitly-disable-incremental-linking-non-debug-builds.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / explicitly disable incremental linking non debug builds.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / files and paths", "file": "releases/3-12-0-alpha-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / fix incorrect handling shebang lines py exe launcher", "file": "releases/3-12-0-alpha-1/windows/fix-incorrect-handling-shebang-lines-py-exe-launcher.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / fix incorrect handling shebang lines py exe launcher.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / fixes potential buffer overrun msilib", "file": "releases/3-12-0-alpha-1/windows/fixes-potential-buffer-overrun-msilib.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / fixes potential buffer overrun msilib.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / functions and types", "file": "releases/3-12-0-alpha-1/windows/functions-and-types.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / functions and types.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / imports and modules", "file": "releases/3-12-0-alpha-1/windows/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / multiprocessing", "file": "releases/3-12-0-alpha-1/windows/multiprocessing.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / os", "file": "releases/3-12-0-alpha-1/windows/os.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / os.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / platform", "file": "releases/3-12-0-alpha-1/windows/platform.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / platform.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / sqlite3", "file": "releases/3-12-0-alpha-1/windows/sqlite3.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / sqlite3.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / stdtypes", "file": "releases/3-12-0-alpha-1/windows/stdtypes.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / stdtypes.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / update libffi", "file": "releases/3-12-0-alpha-1/windows/update-libffi.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / update libffi.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / windows / zipfile", "file": "releases/3-12-0-alpha-1/windows/zipfile.md", "summary": "Open when checking Python 3.12.0 alpha 1 / windows / zipfile.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

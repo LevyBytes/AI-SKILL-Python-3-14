@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 3 / c api / exceptions and tracebacks", "file": "releases/3-7-0-alpha-3/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.7.0 alpha 3 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / c api / functions and types", "file": "releases/3-7-0-alpha-3/c-api/functions-and-types.md", "summary": "Open when checking Python 3.7.0 alpha 3 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / c api / py useclassexceptionsflag flag gone", "file": "releases/3-7-0-alpha-3/c-api/py-useclassexceptionsflag-flag-gone.md", "summary": "Open when checking Python 3.7.0 alpha 3 / c api / py useclassexceptionsflag flag gone.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / c api / removed", "file": "releases/3-7-0-alpha-3/c-api/removed.md", "summary": "Open when checking Python 3.7.0 alpha 3 / c api / removed.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 3 / c api / threads and concurrency", "file": "releases/3-7-0-alpha-3/c-api/threads-and-concurrency.md", "summary": "Open when checking Python 3.7.0 alpha 3 / c api / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

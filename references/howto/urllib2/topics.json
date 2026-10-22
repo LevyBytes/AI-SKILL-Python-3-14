@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Basic Authentication", "file": "urllib2/basic-authentication.md", "summary": "Open when checking Basic Authentication.", "keywords": []},
+    {"topic": "Data", "file": "urllib2/data.md", "summary": "Open when checking Data.", "keywords": []},
+    {"topic": "Error Codes", "file": "urllib2/error-codes.md", "summary": "Open when checking Error Codes.", "keywords": []},
+    {"topic": "Fetching URLs", "file": "urllib2/fetching-urls.md", "summary": "Open when checking Fetching URLs.", "keywords": []},
+    {"topic": "Footnotes", "file": "urllib2/footnotes.md", "summary": "Open when checking Footnotes.", "keywords": []},
+    {"topic": "Handling Exceptions", "file": "urllib2/handling-exceptions.md", "summary": "Open when checking Handling Exceptions.", "keywords": []},
+    {"topic": "Headers", "file": "urllib2/headers.md", "summary": "Open when checking Headers.", "keywords": []},
+    {"topic": "HOWTO Fetch Internet Resources Using The urllib Package", "file": "urllib2/howto-fetch-internet-resources-using-the-urllib-package.md", "summary": "Open when checking HOWTO Fetch Internet Resources Using The urllib Package.", "keywords": []},
+    {"topic": "HTTPError", "file": "urllib2/httperror.md", "summary": "Open when checking HTTPError.", "keywords": []},
+    {"topic": "info and geturl", "file": "urllib2/info-and-geturl.md", "summary": "Open when checking info and geturl.", "keywords": []},
+    {"topic": "Introduction", "file": "urllib2/introduction.md", "summary": "Open when checking Introduction.", "keywords": []},
+    {"topic": "Separate HTTP and transport error handlers", "file": "urllib2/separate-http-transport-handlers.md", "summary": "Open when working with Separate HTTP and transport error handlers.", "keywords": []},
+    {"topic": "Combined HTTP and transport error handler", "file": "urllib2/combined-http-transport-handler.md", "summary": "Open when working with Combined HTTP and transport error handler.", "keywords": []},
+    {"topic": "Openers and Handlers", "file": "urllib2/openers-and-handlers.md", "summary": "Open when checking Openers and Handlers.", "keywords": []},
+    {"topic": "Proxies", "file": "urllib2/proxies.md", "summary": "Open when checking Proxies.", "keywords": []},
+    {"topic": "Sockets and Layers", "file": "urllib2/sockets-and-layers.md", "summary": "Open when checking Sockets and Layers.", "keywords": []},
+    {"topic": "URLError", "file": "urllib2/urlerror.md", "summary": "Open when checking URLError.", "keywords": []},
+    {"topic": "Wrapping it Up", "file": "urllib2/wrapping-it-up.md", "summary": "Open when checking Wrapping it Up.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

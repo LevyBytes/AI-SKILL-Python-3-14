@@ -1,0 +1,56 @@
+# Language reference subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking 6. Expressions. [Overview and scope / 6. Expressions](expressions.md).
+- Open when checking 6.1. Arithmetic conversions. [Arithmetic conversions / 6.1. Arithmetic conversions](arithmetic-conversions.md).
+- Open when checking 6.2. Atoms. [Atoms / 6.2. Atoms](atoms.md).
+- Open when checking 6.2.1. Built-in constants. [Atoms / 6.2.1. Built-in constants](built-in-constants.md).
+- Open when checking 6.2.2. Identifiers (Names). [Atoms / 6.2.2. Identifiers (Names)](identifiers.md).
+- Open when checking 6.2.2.1. Private name mangling. [Atoms / 6.2.2.1. Private name mangling](private-name-mangling.md).
+- Open when checking 6.2.3. Literals. [Atoms / 6.2.3. Literals](literals.md).
+- Open when checking 6.2.3.1. Literals and object identity. [Atoms / 6.2.3.1. Literals and object identity](literals-and-object-identity.md).
+- Open when checking 6.2.3.2. String literal concatenation. [Atoms / 6.2.3.2. String literal concatenation](string-literal-concatenation.md).
+- Open when checking 6.2.4. Parenthesized forms. [Atoms / 6.2.4. Parenthesized forms](parenthesized-forms.md).
+- Open when checking 6.2.5. Displays for lists, sets and dictionaries. [Atoms / 6.2.5. Displays for lists, sets and dictionaries](displays-for-lists-sets-and-dictionaries.md).
+- Open when checking 6.2.6. List displays. [Atoms / 6.2.6. List displays](list-displays.md).
+- Open when checking 6.2.7. Set displays. [Atoms / 6.2.7. Set displays](set-displays.md).
+- Open when checking 6.2.8. Dictionary displays. [Atoms / 6.2.8. Dictionary displays](dictionary-displays.md).
+- Open when checking generator expression syntax and iteration in expressions. [expressions: Generator expression syntax and iteration](generator-expressions.md).
+- Open when checking generator expression restrictions and asynchronous evaluation in expressions. [expressions: Generator expression restrictions and asynchronous evaluation](generator-expression-errors-and-yield-restrictions.md).
+- Open when checking 6.2.10. Yield expressions. [Atoms / 6.2.10. Yield expressions](yield-expressions.md).
+- Open when checking 6.2.10.1. Generator-iterator methods. [Atoms / 6.2.10.1. Generator-iterator methods](generator-iterator-methods.md).
+- Open when checking generator.__next__(). [Atoms / generator.__next__()](generator-next.md).
+- Open when checking generator.send(*value*). [Atoms / generator.send(*value*)](generator-send.md).
+- Open when checking generator.throw(*value*) / generator.throw(*type*[, *value*[, *traceback*]]). [Atoms / generator.throw(*value*) / generator.throw(*type*\[, *value*\[, *traceback*\]\])](generator-exception-injection.md).
+- Open when checking generator.close(). [Atoms / generator.close()](generator-close.md).
+- Open when checking 6.2.10.2. Examples. [Atoms / 6.2.10.2. Examples](examples.md).
+- Open when checking 6.2.10.3. Asynchronous generator functions. [Atoms / 6.2.10.3. Asynchronous generator functions](asynchronous-generator-functions.md).
+- Open when checking 6.2.10.4. Asynchronous generator-iterator methods. [Atoms / 6.2.10.4. Asynchronous generator-iterator methods](asynchronous-generator-iterator-methods.md).
+- Open when checking 6.3. Primaries. [Primaries / 6.3. Primaries](primaries.md).
+- Open when checking 6.3.1. Attribute references. [Primaries / 6.3.1. Attribute references](attribute-references.md).
+- Open when checking 6.3.2. Subscriptions and slicings. [Primaries / 6.3.2. Subscriptions and slicings](subscriptions-and-slicings.md).
+- Open when checking 6.3.2.1. Slicings. [Primaries / 6.3.2.1. Slicings](slicings.md).
+- Open when checking 6.3.2.2. Comma-separated subscripts. [Primaries / 6.3.2.2. Comma-separated subscripts](comma-separated-subscripts.md).
+- Open when checking 6.3.2.3. ?Starred? subscriptions. [Primaries / 6.3.2.3. ?Starred? subscriptions](starred-subscriptions.md).
+- Open when checking 6.3.2.4. Formal subscription grammar. [Primaries / 6.3.2.4. Formal subscription grammar](formal-subscription-grammar.md).
+- Open when checking 6.3.3. Calls. [Primaries / 6.3.3. Calls](calls.md).
+- Open when checking 6.4. Await expression. [Await expression / 6.4. Await expression](await-expression.md).
+- Open when checking 6.5. The power operator. [The power operator / 6.5. The power operator](the-power-operator.md).
+- Open when checking 6.6. Unary arithmetic and bitwise operations. [Unary arithmetic and bitwise operations / 6.6. Unary arithmetic and bitwise operations](unary-arithmetic-and-bitwise-operations.md).
+- Open when checking 6.7. Binary arithmetic operations. [Binary arithmetic operations / 6.7. Binary arithmetic operations](binary-arithmetic-operations.md).
+- Open when checking 6.8. Shifting operations. [Shifting operations / 6.8. Shifting operations](shifting-operations.md).
+- Open when checking 6.9. Binary bitwise operations. [Binary bitwise operations / 6.9. Binary bitwise operations](binary-bitwise-operations.md).
+- Open when checking 6.10. Comparisons. [Comparisons / 6.10. Comparisons](comparisons.md).
+- Open when checking numeric, string, collection and sequence comparisons in expressions. [expressions: Numeric, string, collection and sequence comparisons](numeric-and-sequence-value-comparisons.md).
+- Open when checking value-comparison operators and object semantics in expressions. [expressions: Value-comparison operators and object semantics](value-comparisons.md).
+- Open when checking 6.10.2. Membership test operations. [Comparisons / 6.10.2. Membership test operations](membership-test-operations.md).
+- Open when checking 6.10.3. Identity comparisons. [Comparisons / 6.10.3. Identity comparisons](identity-comparisons.md).
+- Open when checking 6.11. Boolean operations. [Boolean operations / 6.11. Boolean operations](boolean-operations.md).
+- Open when checking 6.12. Assignment expressions. [Assignment expressions / 6.12. Assignment expressions](assignment-expressions.md).
+- Open when checking 6.13. Conditional expressions. [Conditional expressions / 6.13. Conditional expressions](conditional-expressions.md).
+- Open when checking 6.14. Lambdas. [Lambdas / 6.14. Lambdas](lambdas.md).
+- Open when checking 6.15. Expression lists. [Expression lists / 6.15. Expression lists](expression-lists.md).
+- Open when checking 6.16. Evaluation order. [Evaluation order / 6.16. Evaluation order](evaluation-order.md).
+- Open when checking 6.17. Operator precedence. [Operator precedence / 6.17. Operator precedence](operator-precedence.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

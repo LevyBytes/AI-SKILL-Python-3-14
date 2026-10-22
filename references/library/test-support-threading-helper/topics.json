@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "test.support.threading_helper — `test.support.threading_helper` — Utilities for threading tests", "file": "thread-test-joining-and-concurrent-execution.md", "summary": "Open when checking test.support.threading_helper — `test.support.threading_helper` — Utilities for threading tests.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

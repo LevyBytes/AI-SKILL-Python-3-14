@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 5 / c api / descriptor", "file": "releases/3-9-0-alpha-5/c-api/descriptor.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / descriptor.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / exceptions and tracebacks", "file": "releases/3-9-0-alpha-5/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / functions and types", "file": "releases/3-9-0-alpha-5/c-api/functions-and-types.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / intro", "file": "releases/3-9-0-alpha-5/c-api/intro.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / intro.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / module", "file": "releases/3-9-0-alpha-5/c-api/module.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / module.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / number", "file": "releases/3-9-0-alpha-5/c-api/number.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / number.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / removed", "file": "releases/3-9-0-alpha-5/c-api/removed.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / removed.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / subinterpreters", "file": "releases/3-9-0-alpha-5/c-api/subinterpreters.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / subinterpreters.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / sys", "file": "releases/3-9-0-alpha-5/c-api/sys.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / sys.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / c api / threads", "file": "releases/3-9-0-alpha-5/c-api/threads.md", "summary": "Open when checking Python 3.9.0 alpha 5 / c api / threads.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

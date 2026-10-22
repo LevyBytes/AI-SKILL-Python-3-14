@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 5 / windows / build and platforms", "file": "releases/3-13-0-alpha-5/windows/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 5 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / windows / collections and iteration", "file": "releases/3-13-0-alpha-5/windows/collections-and-iteration.md", "summary": "Open when checking Python 3.13.0 alpha 5 / windows / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / windows / threads and concurrency", "file": "releases/3-13-0-alpha-5/windows/threads-and-concurrency.md", "summary": "Open when checking Python 3.13.0 alpha 5 / windows / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

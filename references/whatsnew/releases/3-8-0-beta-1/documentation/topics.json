@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 beta 1 / documentation / brought context variable into glossary", "file": "releases/3-8-0-beta-1/documentation/brought-context-variable-into-glossary.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / brought context variable into glossary.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / collections and iteration", "file": "releases/3-8-0-beta-1/documentation/collections-and-iteration.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / distutils", "file": "releases/3-8-0-beta-1/documentation/distutils.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / distutils.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / drops deprecation writes up urllib parse unwrap", "file": "releases/3-8-0-beta-1/documentation/drops-deprecation-writes-up-urllib-parse-unwrap.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / drops deprecation writes up urllib parse unwrap.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / functions and types", "file": "releases/3-8-0-beta-1/documentation/functions-and-types.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / imports and modules", "file": "releases/3-8-0-beta-1/documentation/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / makes plain copy falls outside mutablesequence abc", "file": "releases/3-8-0-beta-1/documentation/makes-plain-copy-falls-outside-mutablesequence-abc.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / makes plain copy falls outside mutablesequence abc.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / numeric behavior", "file": "releases/3-8-0-beta-1/documentation/numeric-behavior.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / tests and documentation", "file": "releases/3-8-0-beta-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / text and unicode", "file": "releases/3-8-0-beta-1/documentation/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / text and unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / text", "file": "releases/3-8-0-beta-1/documentation/text.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / text.", "keywords": []},
+    {"topic": "Python 3.8.0 beta 1 / documentation / what s new cites sslcontext hostname checks common name rather than sslcontext host flags", "file": "ssl-common-name-check-documentation.md", "summary": "Open when checking Python 3.8.0 beta 1 / documentation / what s new cites sslcontext hostname checks common name rather than sslcontext host flags.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

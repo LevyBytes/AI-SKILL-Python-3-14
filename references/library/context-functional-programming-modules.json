@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Functional Programming Modules / functional", "file": "functional/INDEX.md", "summary": "Open when checking functional.", "keywords": []},
+  {"topic": "Functional Programming Modules / itertools", "file": "itertools/INDEX.md", "summary": "Open when checking itertools.", "keywords": []},
+  {"topic": "Functional Programming Modules / functools", "file": "functools/INDEX.md", "summary": "Open when checking functools.", "keywords": []},
+  {"topic": "Functional Programming Modules / operator", "file": "operator/INDEX.md", "summary": "Open when checking operator.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

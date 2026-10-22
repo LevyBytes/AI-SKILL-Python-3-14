@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "stringprep: Stringprep character-table membership predicates", "file": "stringprep/stringprep-in-table-a1-to-stringprep-in-table-c9.md", "summary": "Open when checking stringprep character-table membership predicates in stringprep.", "keywords": []},
+  {"topic": "stringprep: `stringprep.in_table_d1()`, `stringprep.in_table_d2()`", "file": "stringprep/stringprep-in-table-d1-to-stringprep-in-table-d2.md", "summary": "Open when checking the documented contracts for `stringprep.in_table_d1()`, `stringprep.in_table_d2()` in stringprep.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

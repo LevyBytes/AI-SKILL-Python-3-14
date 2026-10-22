@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "5.4.6. Cached bytecode invalidation", "file": "import/cached-bytecode-invalidation.md", "summary": "Open when checking 5.4.6. Cached bytecode invalidation.", "keywords": []},
+    {"topic": "5.3.2. Finders and loaders", "file": "import/finders-and-loaders.md", "summary": "Open when checking 5.3.2. Finders and loaders.", "keywords": []},
+    {"topic": "5.3.3. Import hooks", "file": "import/import-hooks.md", "summary": "Open when checking 5.3.3. Import hooks.", "keywords": []},
+    {"topic": "5.1. `importlib`", "file": "import/importlib.md", "summary": "Open when checking 5.1. `importlib`.", "keywords": []},
+    {"topic": "5.4.1. Loaders", "file": "import/loaders.md", "summary": "Open when checking 5.4.1. Loaders.", "keywords": []},
+    {"topic": "5.4. Loading", "file": "import/loading.md", "summary": "Open when checking 5.4. Loading.", "keywords": []},
+    {"topic": "5.8.1. __main__.__spec__", "file": "import/main-spec.md", "summary": "Open when checking 5.8.1. __main__.__spec__.", "keywords": []},
+    {"topic": "5.4.5. Module reprs", "file": "import/module-reprs.md", "summary": "Open when checking 5.4.5. Module reprs.", "keywords": []},
+    {"topic": "5.4.3. Module specs", "file": "import/module-specs.md", "summary": "Open when checking 5.4.3. Module specs.", "keywords": []},
+    {"topic": "5.2.2. Namespace packages", "file": "import/namespace-packages.md", "summary": "Open when checking 5.2.2. Namespace packages.", "keywords": []},
+    {"topic": "5.7. Package Relative Imports", "file": "import/package-relative-imports.md", "summary": "Open when checking 5.7. Package Relative Imports.", "keywords": []},
+    {"topic": "5.2. Packages", "file": "import/packages.md", "summary": "Open when checking 5.2. Packages.", "keywords": []},
+    {"topic": "5.4.4. __path__ attributes on modules", "file": "import/path-attributes-on-modules.md", "summary": "Open when checking 5.4.4. __path__ attributes on modules.", "keywords": []},
+    {"topic": "5.5.2. Path entry finder protocol", "file": "import/path-entry-finder-protocol.md", "summary": "Open when checking 5.5.2. Path entry finder protocol.", "keywords": []},
+    {"topic": "5.5.1. Path entry finders", "file": "import/path-entry-finders.md", "summary": "Open when checking 5.5.1. Path entry finders.", "keywords": []},
+    {"topic": "5.9. References", "file": "import/references.md", "summary": "Open when checking 5.9. References.", "keywords": []},
+    {"topic": "5.2.1. Regular packages", "file": "import/regular-packages.md", "summary": "Open when checking 5.2.1. Regular packages.", "keywords": []},
+    {"topic": "5.6. Replacing the standard import system", "file": "import/replacing-the-standard-import-system.md", "summary": "Open when checking 5.6. Replacing the standard import system.", "keywords": []},
+    {"topic": "5.3. Searching", "file": "import/searching.md", "summary": "Open when checking 5.3. Searching.", "keywords": []},
+    {"topic": "5.8. Special considerations for __main__", "file": "import/special-considerations-for-main.md", "summary": "Open when checking 5.8. Special considerations for __main__.", "keywords": []},
+    {"topic": "5.4.2. Submodules", "file": "import/submodules.md", "summary": "Open when checking 5.4.2. Submodules.", "keywords": []},
+    {"topic": "5. The import system", "file": "import/the-import-system.md", "summary": "Open when checking 5. The import system.", "keywords": []},
+    {"topic": "5.3.4. The meta path", "file": "import/the-meta-path.md", "summary": "Open when checking 5.3.4. The meta path.", "keywords": []},
+    {"topic": "5.3.1. The module cache", "file": "import/the-module-cache.md", "summary": "Open when checking 5.3.1. The module cache.", "keywords": []},
+    {"topic": "5.5. The Path Based Finder", "file": "import/the-path-based-finder.md", "summary": "Open when checking 5.5. The Path Based Finder.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

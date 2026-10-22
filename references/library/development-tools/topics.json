@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Development Tools — Section introduction and initial examples", "file": "development-tools/development-tools-section-introduction-and-initial-examples.md", "summary": "Open when checking Development Tools — Section introduction and initial examples.", "keywords": []},
+  {"topic": "development.tools: `patch.object`, `patch.dict`, `patch.multiple`", "file": "development-tools/development-tools.md", "summary": "Open when checking the documented contracts for `patch.object`, `patch.dict`, `patch.multiple` in development.tools.", "keywords": []},
+  {"topic": "development.tools: Mocking, patching and mock-example routes", "file": "development-tools/mocking-and-patching-routes.md", "summary": "Open when checking mocking, patching and mock-example routes in development.tools.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

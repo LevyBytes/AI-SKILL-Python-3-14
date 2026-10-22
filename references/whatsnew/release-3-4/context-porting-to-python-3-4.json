@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Porting to Python 3.4 / What's New In Python 3.4 / Porting to Python 3.4", "file": "release-3-4/porting-to-python-3-4.md", "summary": "Open when checking What's New In Python 3.4 / Porting to Python 3.4.", "keywords": []},
+  {"topic": "Porting to Python 3.4 / What's New In Python 3.4 / Changes in 'python' Command Behavior — argparse", "file": "release-3-4/changes-in-python-command-behavior.md", "summary": "Open when checking What's New In Python 3.4 / Changes in 'python' Command Behavior — argparse.", "keywords": []},
+  {"topic": "Porting to Python 3.4 / What's New In Python 3.4 / Changes in the Python API — base64, binascii, cmath, functools, http.client, importlib, inspect, py_compile, ssl, sys", "file": "release-3-4/changes-in-the-python-api.md", "summary": "Open when checking What's New In Python 3.4 / Changes in the Python API — base64, binascii, cmath, functools, http.client, importlib, inspect, py_compile, ssl, sys.", "keywords": []},
+  {"topic": "Porting to Python 3.4 / What's New In Python 3.4 / Porting to Python 3.4 / Changes in the C API", "file": "release-3-4/porting-to-python-3-4-changes-in-the-c-api.md", "summary": "Open when checking What's New In Python 3.4 / Porting to Python 3.4 / Changes in the C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

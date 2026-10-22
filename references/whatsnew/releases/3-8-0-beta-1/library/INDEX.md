@@ -1,0 +1,78 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.8.0 beta 1 / library / exceptions. [Built-in objects and typing / Python 3.8.0 beta 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.8.0 beta 1 / library / functions. [Built-in objects and typing / Python 3.8.0 beta 1 / library / functions](functions.md).
+- Open when checking Python 3.8.0 beta 1 / library / codecs. [Binary Data Services / Python 3.8.0 beta 1 / library / codecs](codecs.md).
+- Open when checking Python 3.8.0 beta 1 / library / collections. [Data Types / Python 3.8.0 beta 1 / library / collections](collections.md).
+- Open when checking Python 3.8.0 beta 1 / library / gave collections userlist collections userdict copy shallow copying these objects works. [Data Types / Python 3.8.0 beta 1 / library / gave collections userlist collections userdict copy shallow copying these objects works](userlist-and-userdict-shallow-copy.md).
+- Open when checking Python 3.8.0 beta 1 / library / functools. [Functional Programming Modules / Python 3.8.0 beta 1 / library / functools](functools.md).
+- Open when checking Python 3.8.0 beta 1 / library / shutil. [File and Directory Access / Python 3.8.0 beta 1 / library / shutil](shutil.md).
+- Open when checking Python 3.8.0 beta 1 / library / tempfile. [File and Directory Access / Python 3.8.0 beta 1 / library / tempfile](tempfile.md).
+- Open when checking Python 3.8.0 beta 1 / library / sqlite3. [Data Persistence / Python 3.8.0 beta 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.8.0 beta 1 / library / gzip. [Data Compression and Archiving / Python 3.8.0 beta 1 / library / gzip](gzip.md).
+- Open when checking Python 3.8.0 beta 1 / library / csv. [File Formats / Python 3.8.0 beta 1 / library / csv](csv.md).
+- Open when checking Python 3.8.0 beta 1 / library / corrects case where os posix spawnp wrongly threw typeerror whenever file actions. [Generic Operating System Services / Python 3.8.0 beta 1 / library / corrects case where os posix spawnp wrongly threw typeerror whenever file actions](posix-spawn-file-action-type-error.md).
+- Open when checking Python 3.8.0 beta 1 / library / logging handlers. [Generic Operating System Services / Python 3.8.0 beta 1 / library / logging handlers](logging-handlers.md).
+- Open when checking Python 3.8.0 beta 1 / library / fileinput. [Command-line interface libraries / Python 3.8.0 beta 1 / library / fileinput](fileinput.md).
+- Open when checking Python 3.8.0 beta 1 / library / multiprocessing. [Concurrent Execution / Python 3.8.0 beta 1 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.8.0 beta 1 / library / thread. [Concurrent Execution / Python 3.8.0 beta 1 / library / thread](thread.md).
+- Open when checking Python 3.8.0 beta 1 / library / python child process can henceforth read state parent through. [Concurrent Execution / Python 3.8.0 beta 1 / library / python child process can henceforth read state parent through](python-child-process-can-henceforth-read-state-parent-through.md).
+- Open when checking Python 3.8.0 beta 1 / library / threading. [Concurrent Execution / Python 3.8.0 beta 1 / library / threading](threading.md).
+- Open when checking Python 3.8.0 beta 1 / library / concurrent futures. [Concurrent Execution / Python 3.8.0 beta 1 / library / concurrent futures](concurrent-futures.md).
+- Open when checking Python 3.8.0 beta 1 / library / subprocess. [Concurrent Execution / Python 3.8.0 beta 1 / library / subprocess](subprocess.md).
+- Open when checking Python 3.8.0 beta 1 / library / asyncio subprocess. [Networking and Interprocess Communication / Python 3.8.0 beta 1 / library / asyncio subprocess](asyncio-subprocess.md).
+- Open when checking Python 3.8.0 beta 1 / library / asyncio stream. [Networking and Interprocess Communication / Python 3.8.0 beta 1 / library / asyncio stream](asyncio-stream.md).
+- Open when checking Python 3.8.0 beta 1 / library / email header. [Internet Data Handling / Python 3.8.0 beta 1 / library / email header](email-header.md).
+- Open when checking Python 3.8.0 beta 1 / library / single threaded wsgi server description. [Internet Protocols and Support / Python 3.8.0 beta 1 / library / single threaded wsgi server description](single-threaded-wsgi-server-description.md).
+- Open when checking Python 3.8.0 beta 1 / library / wsgiref. [Internet Protocols and Support / Python 3.8.0 beta 1 / library / wsgiref](wsgiref.md).
+- Open when checking Python 3.8.0 beta 1 / library / rounds out typing all absent names chainmap forwardref ordereddict anthony. [Development Tools / Python 3.8.0 beta 1 / library / rounds out typing all absent names chainmap forwardref ordereddict anthony](typing-public-export-completeness.md).
+- Open when checking Python 3.8.0 beta 1 / library / modules. [Debugging and Profiling / Python 3.8.0 beta 1 / library / modules](modules.md).
+- Open when checking Python 3.8.0 beta 1 / library / sys. [Python Runtime Services / Python 3.8.0 beta 1 / library / sys](sys.md).
+- Open when checking Python 3.8.0 beta 1 / library / build and platforms. [Python Runtime Services / Python 3.8.0 beta 1 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.8.0 beta 1 / library / importlib metadata. [Importing Modules / Python 3.8.0 beta 1 / library / importlib metadata](importlib-metadata.md).
+- Open when checking Python 3.8.0 beta 1 / library / symtable. [Python Language Services / Python 3.8.0 beta 1 / library / symtable](symtable.md).
+- Open when checking Python 3.8.0 beta 1 / library / py compile. [Python Language Services / Python 3.8.0 beta 1 / library / py compile](py-compile.md).
+- Open when checking Python 3.8.0 beta 1 / library / shlex. [Unix-specific services / Python 3.8.0 beta 1 / library / shlex](shlex.md).
+- Open when checking Python 3.8.0 beta 1 / library / constants. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / constants](constants.md).
+- Open when checking Python 3.8.0 beta 1 / library / introduces sslcontext num tickets governing how many tlsv1 3 session tickets exist. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / introduces sslcontext num tickets governing how many tlsv1 3 session tickets exist](tls-session-ticket-count-control.md).
+- Open when checking Python 3.8.0 beta 1 / library / mends error handling within msilib summaryinformation getproperty. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / mends error handling within msilib summaryinformation getproperty](msi-summary-property-error-handling.md).
+- Open when checking Python 3.8.0 beta 1 / library / switches default max workers threadpoolexecutor away cpu count over min cpu count. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / switches default max workers threadpoolexecutor away cpu count over min cpu count](thread-pool-default-worker-limit.md).
+- Open when checking Python 3.8.0 beta 1 / library / deprecates coroutine favor async def. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / deprecates coroutine favor async def](deprecates-coroutine-favor-async-def.md).
+- Open when checking Python 3.8.0 beta 1 / library / email. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / email](email.md).
+- Open when checking Python 3.8.0 beta 1 / library / pdb command args shows keyword only arguments. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / pdb command args shows keyword only arguments](pdb-command-args-shows-keyword-only-arguments.md).
+- Open when checking Python 3.8.0 beta 1 / library / pdb command args shows positional only arguments. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / pdb command args shows positional only arguments](pdb-command-args-shows-positional-only-arguments.md).
+- Open when checking Python 3.8.0 beta 1 / library / supplies repr weakset objects. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / supplies repr weakset objects](supplies-repr-weakset-objects.md).
+- Open when checking Python 3.8.0 beta 1 / library / adds extend action onto argparser. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / adds extend action onto argparser](adds-extend-action-onto-argparser.md).
+- Open when checking Python 3.8.0 beta 1 / library / exceptions and tracebacks. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.8.0 beta 1 / library / ipaddress. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.8.0 beta 1 / library / squashes bug left sharedmemorymanager instance parent process running two. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / squashes bug left sharedmemorymanager instance parent process running two](shared-memory-manager-parent-process-state.md).
+- Open when checking Python 3.8.0 beta 1 / library / squashes bug within rmod userstring batuhan taskaya did work. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / squashes bug within rmod userstring batuhan taskaya did work](squashes-bug-within-rmod-userstring-batuhan-taskaya-did-work.md).
+- Open when checking Python 3.8.0 beta 1 / library / caps max workers inside processpoolexecutor workaround waitformultipleobjects limitation. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / caps max workers inside processpoolexecutor workaround waitformultipleobjects limitation](windows-process-pool-worker-limit.md).
+- Open when checking Python 3.8.0 beta 1 / library / delivers pep pickle protocol carrying out of band buffers. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / delivers pep pickle protocol carrying out of band buffers](delivers-pep-pickle-protocol-carrying-out-of-band-buffers.md).
+- Open when checking Python 3.8.0 beta 1 / library / offers synchronous together asynchronous variants streamwriter write streamwriter close. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / offers synchronous together asynchronous variants streamwriter write streamwriter close](stream-writer-sync-and-async-operation-variants.md).
+- Open when checking Python 3.8.0 beta 1 / library / asyncio drop inner callback once outer cancellation occurs inside. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / asyncio drop inner callback once outer cancellation occurs inside](async-outer-cancellation-inner-callback-removal.md).
+- Open when checking Python 3.8.0 beta 1 / library / compiler and parser. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.8.0 beta 1 / library / plistlib. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / plistlib](plistlib.md).
+- Open when checking Python 3.8.0 beta 1 / library / polished how regular expression flags render their repr. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / polished how regular expression flags render their repr](polished-how-regular-expression-flags-render-their-repr.md).
+- Open when checking Python 3.8.0 beta 1 / library / posix. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / posix](posix.md).
+- Open when checking Python 3.8.0 beta 1 / library / repairs crash hitting sharedmemorymanager instances within interactive sessions once. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / repairs crash hitting sharedmemorymanager instances within interactive sessions once](interactive-shared-memory-manager-crash.md).
+- Open when checking Python 3.8.0 beta 1 / library / idle. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / idle](idle.md).
+- Open when checking Python 3.8.0 beta 1 / library / ssl. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / ssl](ssl.md).
+- Open when checking Python 3.8.0 beta 1 / library / thread interrupt main refrains setting python error status sigint signal either. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / thread interrupt main refrains setting python error status sigint signal either](main-thread-interrupt-signal-error-state.md).
+- Open when checking Python 3.8.0 beta 1 / library / unittest. [Library compatibility and maintenance / Python 3.8.0 beta 1 / library / unittest](unittest.md).
+- Open when checking Python 3.8.0 beta 1 / library / socket. [Combined library maintenance / Python 3.8.0 beta 1 / library / socket](socket.md).
+- Open when checking Python 3.8.0 beta 1 / library / asyncio. [Combined library maintenance / Python 3.8.0 beta 1 / library / asyncio](asyncio.md).
+- Open when checking Python 3.8.0 beta 1 / library / files and paths. [Combined library maintenance / Python 3.8.0 beta 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.8.0 beta 1 / library / functions and types. [Combined library maintenance / Python 3.8.0 beta 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.8.0 beta 1 / library / imports and modules. [Combined library maintenance / Python 3.8.0 beta 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.8.0 beta 1 / library / math. [Combined library maintenance / Python 3.8.0 beta 1 / library / math](math.md).
+- Open when checking Python 3.8.0 beta 1 / library / pathlib. [Combined library maintenance / Python 3.8.0 beta 1 / library / pathlib](pathlib.md).
+- Open when checking Python 3.8.0 beta 1 / library / text and unicode. [Combined library maintenance / Python 3.8.0 beta 1 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.8.0 beta 1 / library / text. [Combined library maintenance / Python 3.8.0 beta 1 / library / text](text.md).
+- Open when checking Python 3.8.0 beta 1 / library / collections and iteration. [Combined library maintenance / Python 3.8.0 beta 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.8.0 beta 1 / library / logging. [Combined library maintenance / Python 3.8.0 beta 1 / library / logging](logging.md).
+- Open when checking Python 3.8.0 beta 1 / library / mmap. [Combined library maintenance / Python 3.8.0 beta 1 / library / mmap](mmap.md).
+- Open when checking Python 3.8.0 beta 1 / library / unittest mock. [Combined library maintenance / Python 3.8.0 beta 1 / library / unittest mock](unittest-mock.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

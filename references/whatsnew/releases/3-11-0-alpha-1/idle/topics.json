@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / idle / apply highlighting fresh match statement s soft keywords match", "file": "idle-pattern-matching-keyword-highlighting.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / apply highlighting fresh match statement s soft keywords match.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / idle / build and platforms", "file": "releases/3-11-0-alpha-1/idle/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / idle / dialog", "file": "releases/3-11-0-alpha-1/idle/dialog.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / dialog.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / idle / exceptions and tracebacks", "file": "releases/3-11-0-alpha-1/idle/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / idle / get completion boxes show up once more ubuntu", "file": "releases/3-11-0-alpha-1/idle/get-completion-boxes-show-up-once-more-ubuntu.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / get completion boxes show up once more ubuntu.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / idle / surface interpreter s typo fix suggestions message line nameerrors", "file": "idle-nameerror-typo-suggestions.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / surface interpreter s typo fix suggestions message line nameerrors.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / idle / tk", "file": "releases/3-11-0-alpha-1/idle/tk.md", "summary": "Open when checking Python 3.11.0 alpha 1 / idle / tk.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 6 / c api / allocation", "file": "releases/3-9-0-alpha-6/c-api/allocation.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / allocation.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / buffer", "file": "releases/3-9-0-alpha-6/c-api/buffer.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / buffer.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / gcsupport", "file": "releases/3-9-0-alpha-6/c-api/gcsupport.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / gcsupport.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / number", "file": "releases/3-9-0-alpha-6/c-api/number.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / number.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / relocate pygc head structure into internal c api", "file": "releases/3-9-0-alpha-6/c-api/relocate-pygc-head-structure-into-internal-c-api.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / relocate pygc head structure into internal c api.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / threads", "file": "releases/3-9-0-alpha-6/c-api/threads.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / threads.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / type", "file": "releases/3-9-0-alpha-6/c-api/type.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / type.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / c api / typeobj", "file": "releases/3-9-0-alpha-6/c-api/typeobj.md", "summary": "Open when checking Python 3.9.0 alpha 6 / c api / typeobj.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

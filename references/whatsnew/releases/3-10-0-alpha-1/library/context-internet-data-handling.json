@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Data Handling / Python 3.10.0 alpha 1 / library / mimetypes", "file": "releases/3-10-0-alpha-1/library/mimetypes.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / mimetypes.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.10.0 alpha 1 / library / base64", "file": "releases/3-10-0-alpha-1/library/base64.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / base64.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.10.0 alpha 1 / library / email contentmanager", "file": "releases/3-10-0-alpha-1/library/email-contentmanager.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / email contentmanager.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

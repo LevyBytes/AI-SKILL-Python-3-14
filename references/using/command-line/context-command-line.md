@@ -1,0 +1,52 @@
+# Command line
+
+Select by the documented task or API context. [Topic catalog](context-command-line.json).
+
+- Open when checking 1.1. Command line. [Command line / 1.1. Command line](command-line.md).
+- Open when checking 1.1.1. Interface options. [Command line / 1.1.1. Interface options](interface-options.md).
+- Open when checking -c &lt;command&gt;. [Command line / -c &lt;command&gt;](c-command.md).
+- Open when checking -m &lt;module-name&gt;. [Command line / -m &lt;module-name&gt;](m-module-name.md).
+- Open when checking Read Python source from standard input. [Command line / Read Python source from standard input](read-python-source-from-standard-input.md).
+- Open when checking Run a Python file, directory or zip archive. [Command line / Run a Python file, directory or zip archive](run-a-python-file-directory-or-zip-archive.md).
+- Open when checking Interactive defaults without an interface option. [Command line / Interactive defaults without an interface option](interactive-defaults-without-an-interface-option.md).
+- Open when checking -? / -h / --help. [Command line / -? / -h / --help](h-help.md).
+- Open when checking --help-env. [Command line / --help-env](help-env.md).
+- Open when checking --help-xoptions. [Command line / --help-xoptions](help-xoptions.md).
+- Open when checking --help-all. [Command line / --help-all](help-all.md).
+- Open when checking -V / --version. [Command line / -V / --version](v-version.md).
+- Open when checking -b. [Command line / -b](bytes-comparison-warnings.md).
+- Open when checking -B. [Command line / -B](disable-bytecode-files.md).
+- Open when checking --check-hash-based-pycs default/always/never. [Command line / --check-hash-based-pycs default/always/never](check-hash-based-pycs-default-always-never.md).
+- Open when checking -d. [Command line / -d](parser-debugging.md).
+- Open when checking -E. [Command line / -E](ignore-environment.md).
+- Open when checking -i. [Command line / -i](interactive-after-script.md).
+- Open when checking -I. [Command line / -I](isolated-mode.md).
+- Open when checking -O. [Command line / -O](optimize-assertions.md).
+- Open when checking -OO. [Command line / -OO](remove-docstrings.md).
+- Open when checking -P. [Command line / -P](safe-import-path.md).
+- Open when checking -q. [Command line / -q](quiet-startup.md).
+- Open when checking -R. [Command line / -R](hash-randomization.md).
+- Open when checking -s. [Command line / -s](disable-user-site.md).
+- Open when checking -S. [Command line / -S](disable-site-import.md).
+- Open when checking -u. [Command line / -u](unbuffered-streams.md).
+- Open when checking -v. [Command line / -v](verbose-imports.md).
+- Open when checking -W arg. [Command line / -W arg](warning-filter.md).
+- Open when checking -x. [Command line / -x](skip-script-first-line.md).
+- Open when checking -X. [Command line / -X](implementation-options.md).
+- Open when checking -X faulthandler. [Command line / -X faulthandler](x-faulthandler.md).
+- Open when checking -X showrefcount. [Command line / -X showrefcount](x-showrefcount.md).
+- Open when checking -X tracemalloc. [Command line / -X tracemalloc](x-tracemalloc.md).
+- Open when checking -X int_max_str_digits. [Command line / -X int_max_str_digits](x-int-max-str-digits.md).
+- Open when checking -X importtime. [Command line / -X importtime](x-importtime.md).
+- Open when checking -X dev. [Command line / -X dev](x-dev.md).
+- Open when checking -X utf8. [Command line / -X utf8](x-utf8.md).
+- Open when checking -X pycache_prefix=PATH. [Command line / -X pycache_prefix=PATH](x-pycache-prefix-path.md).
+- Open when checking -X warn_default_encoding. [Command line / -X warn_default_encoding](x-warn-default-encoding.md).
+- Open when checking -X no_debug_ranges. [Command line / -X no_debug_ranges](x-no-debug-ranges.md).
+- Open when checking -X frozen_modules. [Command line / -X frozen_modules](x-frozen-modules.md).
+- Open when checking -X perf. [Command line / -X perf](x-perf.md).
+- Open when checking -X perf_jit. [Command line / -X perf_jit](x-perf-jit.md).
+- Open when checking -X disable_remote_debug. [Command line / -X disable_remote_debug](x-disable-remote-debug.md).
+- Open when checking -X cpu_count=*n*. [Command line / -X cpu_count=*n*](x-cpu-count-n.md).
+- Open when checking 1.1.4. Controlling color. [Command line / 1.1.4. Controlling color](controlling-color.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

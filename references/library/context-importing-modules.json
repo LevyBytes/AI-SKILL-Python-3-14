@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Importing Modules / modules", "file": "modules/INDEX.md", "summary": "Open when checking modules.", "keywords": []},
+  {"topic": "Importing Modules / zipimport", "file": "zipimport/INDEX.md", "summary": "Open when checking zipimport.", "keywords": []},
+  {"topic": "Importing Modules / pkgutil", "file": "pkgutil/INDEX.md", "summary": "Open when checking pkgutil.", "keywords": []},
+  {"topic": "Importing Modules / modulefinder", "file": "modulefinder/INDEX.md", "summary": "Open when checking modulefinder.", "keywords": []},
+  {"topic": "Importing Modules / runpy", "file": "runpy/INDEX.md", "summary": "Open when checking runpy.", "keywords": []},
+  {"topic": "Importing Modules / importlib", "file": "importlib/INDEX.md", "summary": "Open when checking importlib.", "keywords": []},
+  {"topic": "Importing Modules / importlib resources", "file": "importlib-resources/INDEX.md", "summary": "Open when checking importlib resources.", "keywords": []},
+  {"topic": "Importing Modules / importlib resources abc", "file": "importlib-resources-abc/INDEX.md", "summary": "Open when checking importlib resources abc.", "keywords": []},
+  {"topic": "Importing Modules / importlib metadata", "file": "importlib-metadata/INDEX.md", "summary": "Open when checking importlib metadata.", "keywords": []},
+  {"topic": "Importing Modules / sys path init", "file": "sys-path-init/INDEX.md", "summary": "Open when checking sys path init.", "keywords": []},
+  {"topic": "Importing Modules / importlib machinery", "file": "importlib-machinery/INDEX.md", "summary": "Open when checking importlib machinery.", "keywords": []},
+  {"topic": "Importing Modules / importlib util", "file": "importlib-util/INDEX.md", "summary": "Open when checking importlib util.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

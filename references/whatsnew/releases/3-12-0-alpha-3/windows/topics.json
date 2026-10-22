@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 3 / windows / files and paths", "file": "releases/3-12-0-alpha-3/windows/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 3 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / windows / imports and modules", "file": "releases/3-12-0-alpha-3/windows/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 3 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / windows / multiprocessing shared memory", "file": "releases/3-12-0-alpha-3/windows/multiprocessing-shared-memory.md", "summary": "Open when checking Python 3.12.0 alpha 3 / windows / multiprocessing shared memory.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 3 / windows / sys", "file": "releases/3-12-0-alpha-3/windows/sys.md", "summary": "Open when checking Python 3.12.0 alpha 3 / windows / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

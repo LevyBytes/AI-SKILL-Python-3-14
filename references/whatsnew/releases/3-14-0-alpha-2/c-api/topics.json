@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 2 / c api / ctypes", "file": "releases/3-14-0-alpha-2/c-api/ctypes.md", "summary": "Open when checking Python 3.14.0 alpha 2 / c api / ctypes.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / c api / dict", "file": "releases/3-14-0-alpha-2/c-api/dict.md", "summary": "Open when checking Python 3.14.0 alpha 2 / c api / dict.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / c api / long", "file": "releases/3-14-0-alpha-2/c-api/long.md", "summary": "Open when checking Python 3.14.0 alpha 2 / c api / long.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / c api / object", "file": "releases/3-14-0-alpha-2/c-api/object.md", "summary": "Open when checking Python 3.14.0 alpha 2 / c api / object.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / c api / py huge val macro carries soft deprecated status", "file": "releases/3-14-0-alpha-2/c-api/py-huge-val-macro-carries-soft-deprecated-status.md", "summary": "Open when checking Python 3.14.0 alpha 2 / c api / py huge val macro carries soft deprecated status.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 2 / c api / type", "file": "releases/3-14-0-alpha-2/c-api/type.md", "summary": "Open when checking Python 3.14.0 alpha 2 / c api / type.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

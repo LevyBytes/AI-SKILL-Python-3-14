@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 5 / documentation / record cve affecting expat within xml vulnerabilities section", "file": "releases/3-13-0-alpha-5/documentation/record-cve-affecting-expat-within-xml-vulnerabilities-section.md", "summary": "Open when checking Python 3.13.0 alpha 5 / documentation / record cve affecting expat within xml vulnerabilities section.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / documentation / uuid", "file": "releases/3-13-0-alpha-5/documentation/uuid.md", "summary": "Open when checking Python 3.13.0 alpha 5 / documentation / uuid.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

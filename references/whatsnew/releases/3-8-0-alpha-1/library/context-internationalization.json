@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internationalization / Python 3.8.0 alpha 1 / library / gettext", "file": "releases/3-8-0-alpha-1/library/gettext.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / gettext.", "keywords": []},
+  {"topic": "Internationalization / Python 3.8.0 alpha 1 / library / locale", "file": "releases/3-8-0-alpha-1/library/locale.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / locale.", "keywords": []},
+  {"topic": "Internationalization / Python 3.8.0 alpha 1 / library / added gettext pgettext variants", "file": "releases/3-8-0-alpha-1/library/added-gettext-pgettext-variants.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / added gettext pgettext variants.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

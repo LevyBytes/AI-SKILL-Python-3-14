@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 beta 1 / macos / frameworks", "file": "releases/3-9-0-beta-1/macos/frameworks.md", "summary": "Open when checking Python 3.9.0 beta 1 / macos / frameworks.", "keywords": []},
+    {"topic": "Python 3.9.0 beta 1 / macos / socket", "file": "releases/3-9-0-beta-1/macos/socket.md", "summary": "Open when checking Python 3.9.0 beta 1 / macos / socket.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

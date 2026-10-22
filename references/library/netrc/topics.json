@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "netrc — netrc Objects", "file": "netrc/netrc-authenticators-to-netrc-macros.md", "summary": "Open when checking netrc — netrc Objects.", "keywords": []},
+    {"topic": "netrc — netrc file processing", "file": "netrc/netrc-file-processing.md", "summary": "Open when checking netrc — netrc file processing.", "keywords": []},
+    {"topic": "netrc — `netrc` — netrc file processing", "file": "netrc/netrc-netrc-class-to-netrc-netrcparseerror.md", "summary": "Open when checking netrc — `netrc` — netrc file processing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

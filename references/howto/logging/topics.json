@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "A simple example", "file": "logging/a-simple-example.md", "summary": "Open when checking A simple example.", "keywords": []},
+    {"topic": "Advanced Logging Tutorial", "file": "logging/advanced-logging-tutorial.md", "summary": "Open when checking Advanced Logging Tutorial.", "keywords": []},
+    {"topic": "Basic Logging Tutorial", "file": "logging/basic-logging-tutorial.md", "summary": "Open when checking Basic Logging Tutorial.", "keywords": []},
+    {"topic": "Changing the format of displayed messages", "file": "logging/changing-the-format-of-displayed-messages.md", "summary": "Open when checking Changing the format of displayed messages.", "keywords": []},
+    {"topic": "Configuring Logging for a Library", "file": "logging/configuring-logging-for-a-library.md", "summary": "Open when checking Configuring Logging for a Library.", "keywords": []},
+    {"topic": "Custom Levels", "file": "logging/custom-levels.md", "summary": "Open when checking Custom Levels.", "keywords": []},
+    {"topic": "Direct logger, handler and formatter configuration", "file": "logging/direct-logger-handler-and-formatter-configuration.md", "summary": "Open when checking Direct logger, handler and formatter configuration.", "keywords": []},
+    {"topic": "Displaying the date/time in messages", "file": "logging/displaying-the-date-time-in-messages.md", "summary": "Open when checking Displaying the date/time in messages.", "keywords": []},
+    {"topic": "Exceptions raised during logging", "file": "logging/exceptions-raised-during-logging.md", "summary": "Open when checking Exceptions raised during logging.", "keywords": []},
+    {"topic": "Existing-logger caveats and dictConfig YAML schema", "file": "logging/existing-logger-caveats-and-dictconfig-yaml-schema.md", "summary": "Open when checking Existing-logger caveats and dictConfig YAML schema.", "keywords": []},
+    {"topic": "fileConfig module, INI schema and resulting output", "file": "logging/fileconfig-module-ini-schema-and-resulting-output.md", "summary": "Open when checking fileConfig module, INI schema and resulting output.", "keywords": []},
+    {"topic": "Formatters", "file": "logging/formatters.md", "summary": "Open when checking Formatters.", "keywords": []},
+    {"topic": "Handlers", "file": "logging/handlers.md", "summary": "Open when checking Handlers.", "keywords": []},
+    {"topic": "Loggers", "file": "logging/loggers.md", "summary": "Open when checking Loggers.", "keywords": []},
+    {"topic": "Logging arbitrary objects as messages", "file": "logging/logging-arbitrary-objects-as-messages.md", "summary": "Open when checking Logging arbitrary objects as messages.", "keywords": []},
+    {"topic": "Logging Flow", "file": "logging/logging-flow.md", "summary": "Open when checking Logging Flow.", "keywords": []},
+    {"topic": "logging.Formatter.__init__: defaults, styles, versions and time conversion", "file": "logging-formatter-defaults-styles-and-time-conversion.md", "summary": "Open when checking logging.Formatter.__init__: defaults, styles, versions and time conversion.", "keywords": []},
+    {"topic": "Logging HOWTO", "file": "logging/logging-howto.md", "summary": "Open when checking Logging HOWTO.", "keywords": []},
+    {"topic": "Logging Levels", "file": "logging/logging-levels.md", "summary": "Open when checking Logging Levels.", "keywords": []},
+    {"topic": "Logging to a file", "file": "logging/logging-to-a-file.md", "summary": "Open when checking Logging to a file.", "keywords": []},
+    {"topic": "Logging variable data", "file": "logging/logging-variable-data.md", "summary": "Open when checking Logging variable data.", "keywords": []},
+    {"topic": "Next Steps", "file": "logging/next-steps.md", "summary": "Open when checking Next Steps.", "keywords": []},
+    {"topic": "Optimization", "file": "logging/optimization.md", "summary": "Open when checking Optimization.", "keywords": []},
+    {"topic": "Other resources", "file": "logging/other-resources.md", "summary": "Open when checking Other resources.", "keywords": []},
+    {"topic": "Useful Handlers", "file": "logging/useful-handlers.md", "summary": "Open when checking Useful Handlers.", "keywords": []},
+    {"topic": "What happens if no configuration is provided", "file": "logging/what-happens-if-no-configuration-is-provided.md", "summary": "Open when checking What happens if no configuration is provided.", "keywords": []},
+    {"topic": "When to use logging", "file": "logging/when-to-use-logging.md", "summary": "Open when checking When to use logging.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

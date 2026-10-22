@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "nis — `nis` — Interface to Sun’s NIS (Yellow Pages)", "file": "nis/nis-interface-to-sun-s-nis-yellow-pages.md", "summary": "Open when checking nis — `nis` — Interface to Sun’s NIS (Yellow Pages).", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

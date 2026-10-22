@@ -1,0 +1,13 @@
+# Standard library subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking the documented contracts for `email.message.Message` in email.message.Message. [email.message.Message: `email.message.Message`](email-message-message-class.md).
+- Open when checking the documented contracts for `as_string()`, `__str__()`, `as_bytes()`, `__bytes__()`, `is_multipart()`, `set_unixfrom()`, `get_unixfrom()`, `attach()`, `get_payload()` in email.message.Message. [email.message.Message: `as_string()`, `__str__()`, `as_bytes()`, `__bytes__()`, `is_multipart()`, `set_unixfrom()`, `get_unixfrom()`, `attach()`, `get_payload()`](legacy-message-serialization-and-payload-access.md).
+- Open when checking the documented contracts for `del_param()`, `set_type()`, `get_filename()`, `get_boundary()`, `set_boundary()`, `get_content_charset()`, `get_charsets()`, `get_content_disposition()` in email.message.Message. [email.message.Message: `del_param()`, `set_type()`, `get_filename()`, `get_boundary()`, `set_boundary()`, `get_content_charset()`, `get_charsets()`, `get_content_disposition()`](legacy-message-parameters-and-content-disposition.md).
+- Open when checking the documented contracts for `set_payload()`, `set_charset()`, `get_charset()`, `__len__()`, `__contains__()`, `__getitem__()`, `__setitem__()`, `__delitem__()`, `keys()`, `values()`, `items()`, `get()` in email.message.Message. [email.message.Message: `set_payload()`, `set_charset()`, `get_charset()`, `__len__()`, `__contains__()`, `__getitem__()`, `__setitem__()`, `__delitem__()`, `keys()`, `values()`, `items()`, `get()`](legacy-message-payload-and-header-mutation.md).
+- Open when checking the documented contracts for `get_all()`, `add_header()`, `replace_header()`, `get_content_type()`, `get_content_maintype()`, `get_content_subtype()`, `get_default_type()`, `set_default_type()`, `get_params()` in email.message.Message. [email.message.Message: `get_all()`, `add_header()`, `replace_header()`, `get_content_type()`, `get_content_maintype()`, `get_content_subtype()`, `get_default_type()`, `set_default_type()`, `get_params()`](legacy-message-headers-and-content-parameters.md).
+- Open when checking the documented contracts for `get_param()`, `set_param()` in email.message.Message. [email.message.Message: `get_param()`, `set_param()`](legacy-message-parameter-access-and-mutation.md).
+- Open when checking the documented contracts for `walk()` in email.message.Message. [email.message.Message: `walk()`](email-message-message-walk.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

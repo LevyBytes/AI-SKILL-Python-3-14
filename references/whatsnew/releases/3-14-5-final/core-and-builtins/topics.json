@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.5 final / core and builtins / correct sequential consistency defect inside structmember c", "file": "releases/3-14-5-final/core-and-builtins/correct-sequential-consistency-defect-inside-structmember-c.md", "summary": "Open when checking Python 3.14.5 final / core and builtins / correct sequential consistency defect inside structmember c.", "keywords": []},
+    {"topic": "Python 3.14.5 final / core and builtins / exceptions", "file": "releases/3-14-5-final/core-and-builtins/exceptions.md", "summary": "Open when checking Python 3.14.5 final / core and builtins / exceptions.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

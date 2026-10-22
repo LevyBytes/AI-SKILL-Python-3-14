@@ -1,0 +1,48 @@
+# Standard library subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Event loop. [Event-loop retrieval and creation / Event loop](asyncio-get-running-loop-to-asyncio-new-event-loop.md).
+- Open when checking Event loop methods. [Event loop methods](event-loop-methods.md).
+- Open when checking Running and stopping the loop. [Event loop methods / Running and stopping the loop](loop-run-until-complete-to-loop-shutdown-default-executor.md).
+- Open when checking Scheduling callbacks. [Event loop methods / Scheduling callbacks](loop-call-soon-to-loop-call-soon-threadsafe.md).
+- Open when checking Scheduling delayed callbacks. [Event loop methods / Scheduling delayed callbacks](loop-call-later-to-loop-time.md).
+- Open when checking Creating futures and tasks. [Event loop methods / Creating futures and tasks](loop-create-future-to-loop-get-task-factory.md).
+- Open when checking the documented contracts for `loop.create_unix_connection()` in asyncio.eventloop. [asyncio.eventloop: `loop.create_unix_connection()`](loop-create-unix-connection.md).
+- Open when checking the documented contracts for `loop.create_datagram_endpoint()` in asyncio.eventloop. [asyncio.eventloop: `loop.create_datagram_endpoint()`](loop-create-datagram-endpoint.md).
+- Open when checking Opening network connections — Section introduction and initial examples. [Event loop methods / Opening network connections — Section introduction and initial examples](network-connection-overview.md).
+- Open when checking Opening network connections — Contract: *all_errors* dictates which exceptions surface when a connection cannot be established. [Event loop methods / Opening network connections — Contract: *all_errors* dictates which exceptions surface when a connection cannot be established.](connection-error-aggregation.md).
+- Open when checking the documented contracts for `loop.create_server()` in asyncio.eventloop. [asyncio.eventloop: `loop.create_server()`](loop-create-server.md).
+- Open when checking the documented contracts for `loop.create_unix_server()`, `loop.connect_accepted_socket()` in asyncio.eventloop. [asyncio.eventloop: `loop.create_unix_server()`, `loop.connect_accepted_socket()`](loop-create-unix-server-to-loop-connect-accepted-socket.md).
+- Open when checking Transferring files. [Event loop methods / Transferring files](loop-sendfile.md).
+- Open when checking TLS upgrade. [Event loop methods / TLS upgrade](loop-start-tls.md).
+- Open when checking Watching file descriptors. [Event loop methods / Watching file descriptors](loop-add-reader-to-loop-remove-writer.md).
+- Open when checking the documented contracts for `loop.sock_recv()`, `loop.sock_recv_into()`, `loop.sock_recvfrom()`, `loop.sock_recvfrom_into()`, `loop.sock_sendall()`, `loop.sock_sendto()`, `loop.sock_connect()` in asyncio.eventloop. [asyncio.eventloop: `loop.sock_recv()`, `loop.sock_recv_into()`, `loop.sock_recvfrom()`, `loop.sock_recvfrom_into()`, `loop.sock_sendall()`, `loop.sock_sendto()`, `loop.sock_connect()`](loop-sock-recv-to-loop-sock-connect.md).
+- Open when checking the documented contracts for `loop.sock_accept()`, `loop.sock_sendfile()` in asyncio.eventloop. [asyncio.eventloop: `loop.sock_accept()`, `loop.sock_sendfile()`](loop-sock-accept-to-loop-sock-sendfile.md).
+- Open when checking DNS. [Event loop methods / DNS](loop-getaddrinfo-to-loop-getnameinfo.md).
+- Open when checking Working with pipes. [Event loop methods / Working with pipes](loop-connect-read-pipe-to-loop-connect-write-pipe.md).
+- Open when checking the documented contracts for `loop.remove_signal_handler()` in asyncio.eventloop. [asyncio.eventloop: `loop.remove_signal_handler()`](loop-remove-signal-handler.md).
+- Open when checking the documented contracts for `loop.add_signal_handler()` in asyncio.eventloop. [asyncio.eventloop: `loop.add_signal_handler()`](loop-add-signal-handler.md).
+- Open when checking Executing code in thread or process pools. [Event loop methods / Executing code in thread or process pools](loop-set-default-executor.md).
+- Open when checking Error handling API. [Event loop methods / Error handling API](loop-set-exception-handler-to-loop-call-exception-handler.md).
+- Open when checking Enabling debug mode. [Event loop methods / Enabling debug mode](loop-get-debug-to-loop-slow-callback-duration.md).
+- Open when checking low-level subprocess transport prerequisites in asyncio.eventloop. [asyncio.eventloop: Low-level subprocess transport prerequisites](running-subprocesses.md).
+- Open when checking the documented contracts for `loop.subprocess_shell()` in asyncio.eventloop. [asyncio.eventloop: `loop.subprocess_shell()`](loop-subprocess-shell.md).
+- Open when checking Running subprocesses — Signature and initial contract. [Event loop methods / Running subprocesses — Signature and initial contract](loop-subprocess-exec.md).
+- Open when checking Running subprocesses — Contract: the `subprocess.DEVNULL` constant, marking that the dedicated `os.devnull` file is used. [Event loop methods / Running subprocesses — Contract: the `subprocess.DEVNULL` constant, marking that the dedicated `os.devnull` file is used](subprocess-devnull-stream-contract.md).
+- Open when checking the documented contracts for `asyncio.Handle` in asyncio.eventloop. [asyncio.eventloop: `asyncio.Handle`](asyncio-handle-class.md).
+- Open when checking the documented contracts for `get_context()`, `cancel()`, `cancelled()` in asyncio.eventloop. [asyncio.eventloop: `get_context()`, `cancel()`, `cancelled()`](asyncio-handle-get-context-to-asyncio-handle-cancelled.md).
+- Open when checking the documented contracts for `asyncio.TimerHandle`, `when()` in asyncio.eventloop. [asyncio.eventloop: `asyncio.TimerHandle`, `when()`](asyncio-timerhandle-class-to-asyncio-timerhandle-when.md).
+- Open when checking the documented contracts for `asyncio.Server` in asyncio.eventloop. [asyncio.eventloop: `asyncio.Server`](asyncio-server-class.md).
+- Open when checking the documented contracts for `close()`, `close_clients()`, `abort_clients()`, `get_loop()`, `start_serving()`, `serve_forever()`, `is_serving()`, `wait_closed()` in asyncio.eventloop. [asyncio.eventloop: `close()`, `close_clients()`, `abort_clients()`, `get_loop()`, `start_serving()`, `serve_forever()`, `is_serving()`, `wait_closed()`](asyncio-server-close-to-asyncio-server-wait-closed.md).
+- Open when checking async server listening sockets in asyncio.eventloop. [asyncio.eventloop: Async server listening sockets](server-objects.md).
+- Open when checking the documented contracts for `asyncio.SelectorEventLoop` in asyncio.eventloop. [asyncio.eventloop: `asyncio.SelectorEventLoop`](asyncio-selectoreventloop-class.md).
+- Open when checking the documented contracts for `asyncio.ProactorEventLoop` in asyncio.eventloop. [asyncio.eventloop: `asyncio.ProactorEventLoop`](asyncio-proactoreventloop-class.md).
+- Open when checking the documented contracts for `asyncio.EventLoop` in asyncio.eventloop. [asyncio.eventloop: `asyncio.EventLoop`](asyncio-eventloop-class.md).
+- Open when checking the documented contracts for `asyncio.AbstractEventLoop` in asyncio.eventloop. [asyncio.eventloop: `asyncio.AbstractEventLoop`](asyncio-abstracteventloop-class.md).
+- Open when checking Examples. [Examples](examples.md).
+- Open when checking Hello World with call_soon(). [Examples / Hello World with call_soon()](hello-world-with-call-soon.md).
+- Open when checking Display the current date with call_later(). [Examples / Display the current date with call_later()](display-the-current-date-with-call-later.md).
+- Open when checking Watch a file descriptor for read events. [Examples / Watch a file descriptor for read events](watch-a-file-descriptor-for-read-events.md).
+- Open when checking Event-loop descriptor readers and signal handlers. [Examples / Event-loop descriptor readers and signal handlers](descriptor-readers-and-signal-handlers.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

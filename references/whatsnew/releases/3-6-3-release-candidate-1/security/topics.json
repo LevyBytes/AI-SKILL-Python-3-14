@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.3 release candidate 1 / security / bump bundled libexpat copy up pick up security fixes", "file": "releases/3-6-3-release-candidate-1/security/bump-bundled-libexpat-copy-up-pick-up-security-fixes.md", "summary": "Open when checking Python 3.6.3 release candidate 1 / security / bump bundled libexpat copy up pick up security fixes.", "keywords": []},
+    {"topic": "Python 3.6.3 release candidate 1 / security / sslobject version properly hands back none whenever handshake over bio", "file": "ssl-bio-version-before-handshake.md", "summary": "Open when checking Python 3.6.3 release candidate 1 / security / sslobject version properly hands back none whenever handshake over bio.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

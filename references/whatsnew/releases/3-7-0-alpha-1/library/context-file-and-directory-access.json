@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "File and Directory Access / Python 3.7.0 alpha 1 / library / pathlike handling shutil unpack archive corrected", "file": "releases/3-7-0-alpha-1/library/pathlike-handling-shutil-unpack-archive-corrected.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / pathlike handling shutil unpack archive corrected.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.7.0 alpha 1 / library / zipapp", "file": "releases/3-7-0-alpha-1/library/zipapp.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / zipapp.", "keywords": []},
+  {"topic": "File and Directory Access / Python 3.7.0 alpha 1 / library / shutil make archive stopped inserting entry into zip archive", "file": "releases/3-7-0-alpha-1/library/shutil-make-archive-stopped-inserting-entry-into-zip-archive.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / shutil make archive stopped inserting entry into zip archive.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

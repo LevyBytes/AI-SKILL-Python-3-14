@@ -1,0 +1,4 @@
+def transpose(matrix):
+    "Swap the rows and columns of a 2-D matrix."
+    # transpose([(1, 2, 3), (11, 22, 33)]) → (1, 11) (2, 22) (3, 33)
+    return zip(*matrix, strict=True)

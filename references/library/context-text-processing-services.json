@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Text Processing Services / text", "file": "text/INDEX.md", "summary": "Open when checking text.", "keywords": []},
+  {"topic": "Text Processing Services / string", "file": "string/INDEX.md", "summary": "Open when checking string.", "keywords": []},
+  {"topic": "Text Processing Services / string templatelib", "file": "string-templatelib/INDEX.md", "summary": "Open when checking string templatelib.", "keywords": []},
+  {"topic": "Text Processing Services / re", "file": "re/INDEX.md", "summary": "Open when checking re.", "keywords": []},
+  {"topic": "Text Processing Services / difflib", "file": "difflib/INDEX.md", "summary": "Open when checking difflib.", "keywords": []},
+  {"topic": "Text Processing Services / textwrap", "file": "textwrap/INDEX.md", "summary": "Open when checking textwrap.", "keywords": []},
+  {"topic": "Text Processing Services / unicodedata", "file": "unicodedata/INDEX.md", "summary": "Open when checking unicodedata.", "keywords": []},
+  {"topic": "Text Processing Services / stringprep", "file": "stringprep/INDEX.md", "summary": "Open when checking stringprep.", "keywords": []},
+  {"topic": "Text Processing Services / readline", "file": "readline/INDEX.md", "summary": "Open when checking readline.", "keywords": []},
+  {"topic": "Text Processing Services / rlcompleter", "file": "rlcompleter/INDEX.md", "summary": "Open when checking rlcompleter.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

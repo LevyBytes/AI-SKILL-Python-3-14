@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 2 / c api / arg", "file": "releases/3-13-0-alpha-2/c-api/arg.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / binascii", "file": "releases/3-13-0-alpha-2/c-api/binascii.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / binascii.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / build and platforms", "file": "releases/3-13-0-alpha-2/c-api/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / dict", "file": "releases/3-13-0-alpha-2/c-api/dict.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / dict.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / exceptions", "file": "releases/3-13-0-alpha-2/c-api/exceptions.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / functions and types", "file": "releases/3-13-0-alpha-2/c-api/functions-and-types.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / list", "file": "releases/3-13-0-alpha-2/c-api/list.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / list.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / memory", "file": "releases/3-13-0-alpha-2/c-api/memory.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / memory.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / modules", "file": "releases/3-13-0-alpha-2/c-api/modules.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / overview", "file": "releases/3-13-0-alpha-2/c-api/overview.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / overview.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / provide internal only one time initialization api pyonceflag pyonceflag callonce", "file": "internal-once-flag-initialization-api.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / provide internal only one time initialization api pyonceflag pyonceflag callonce.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / py nogil macro renamed py gil disabled", "file": "releases/3-13-0-alpha-2/c-api/py-nogil-macro-renamed-py-gil-disabled.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / py nogil macro renamed py gil disabled.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / refcounting", "file": "releases/3-13-0-alpha-2/c-api/refcounting.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / removed", "file": "releases/3-13-0-alpha-2/c-api/removed.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / removed.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / restore ctype h unistd h includes within python h while keeping them", "file": "public-header-ctype-and-unistd-includes.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / restore ctype h unistd h includes within python h while keeping them.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / sys", "file": "releases/3-13-0-alpha-2/c-api/sys.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / sys.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / threads and concurrency", "file": "releases/3-13-0-alpha-2/c-api/threads-and-concurrency.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / c api / threads", "file": "releases/3-13-0-alpha-2/c-api/threads.md", "summary": "Open when checking Python 3.13.0 alpha 2 / c api / threads.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

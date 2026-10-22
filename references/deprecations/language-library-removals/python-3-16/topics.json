@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Language and standard library pending removal in 3.16: functools; logging; mimetypes; shutil; symtable; sys; sysconfig; tarfile", "file": "language-library-removals/python-3-16/functools-through-tarfile.md", "summary": "Open when checking Language and standard library pending removal in 3.16: functools; logging; mimetypes; shutil; symtable; sys; sysconfig; tarfile.", "keywords": []},
+    {"topic": "Language and standard library pending removal in 3.16: import system; array; asyncio; builtins", "file": "language-library-removals/python-3-16/import-system-through-builtins.md", "summary": "Open when checking Language and standard library pending removal in 3.16: import system; array; asyncio; builtins.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.2 release candidate 1 / windows / binaries produced bdist wininst fail launch locate bit python", "file": "releases/3-5-2-release-candidate-1/windows/binaries-produced-bdist-wininst-fail-launch-locate-bit-python.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / windows / binaries produced bdist wininst fail launch locate bit python.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / windows / files and paths", "file": "releases/3-5-2-release-candidate-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / windows / numbers", "file": "releases/3-5-2-release-candidate-1/windows/numbers.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / windows / numbers.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / windows / python", "file": "releases/3-5-2-release-candidate-1/windows/python.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / windows / python.", "keywords": []},
+    {"topic": "Python 3.5.2 release candidate 1 / windows / venv", "file": "releases/3-5-2-release-candidate-1/windows/venv.md", "summary": "Open when checking Python 3.5.2 release candidate 1 / windows / venv.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

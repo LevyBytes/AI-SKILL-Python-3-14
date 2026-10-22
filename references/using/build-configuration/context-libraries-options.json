@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Libraries options / --with-libs='lib1 ...'", "file": "build-configuration/with-libs-lib1.md", "summary": "Open when checking --with-libs='lib1 ...'.", "keywords": []},
+  {"topic": "Libraries options / --with-system-expat", "file": "build-configuration/with-system-expat.md", "summary": "Open when checking --with-system-expat.", "keywords": []},
+  {"topic": "Libraries options / --with-system-libmpdec", "file": "build-configuration/with-system-libmpdec.md", "summary": "Open when checking --with-system-libmpdec.", "keywords": []},
+  {"topic": "Libraries options / --with-readline=readline/editline", "file": "build-configuration/with-readline-readline-editline.md", "summary": "Open when checking --with-readline=readline/editline.", "keywords": []},
+  {"topic": "Libraries options / --without-readline", "file": "build-configuration/without-readline.md", "summary": "Open when checking --without-readline.", "keywords": []},
+  {"topic": "Libraries options / --with-libm=STRING", "file": "build-configuration/with-libm-string.md", "summary": "Open when checking --with-libm=STRING.", "keywords": []},
+  {"topic": "Libraries options / --with-libc=STRING", "file": "build-configuration/with-libc-string.md", "summary": "Open when checking --with-libc=STRING.", "keywords": []},
+  {"topic": "Libraries options / --with-openssl=DIR", "file": "build-configuration/with-openssl-dir.md", "summary": "Open when checking --with-openssl=DIR.", "keywords": []},
+  {"topic": "Libraries options / --with-openssl-rpath=[no/auto/DIR]", "file": "build-configuration/with-openssl-rpath-no-auto-dir.md", "summary": "Open when checking --with-openssl-rpath=[no/auto/DIR].", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

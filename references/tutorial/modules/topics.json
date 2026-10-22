@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "6.1.3. \"Compiled\" Python files", "file": "modules/compiled-python-files.md", "summary": "Open when checking 6.1.3. \"Compiled\" Python files.", "keywords": []},
+    {"topic": "6.1.1. Executing modules as scripts", "file": "modules/executing-modules-as-scripts.md", "summary": "Open when checking 6.1.1. Executing modules as scripts.", "keywords": []},
+    {"topic": "6.4.1. Importing * From a Package", "file": "modules/importing-from-a-package.md", "summary": "Open when checking 6.4.1. Importing * From a Package.", "keywords": []},
+    {"topic": "6.4.2. Intra-package References", "file": "modules/intra-package-references.md", "summary": "Open when checking 6.4.2. Intra-package References.", "keywords": []},
+    {"topic": "6. Modules", "file": "modules/modules.md", "summary": "Open when checking 6. Modules.", "keywords": []},
+    {"topic": "6.1. More on Modules", "file": "modules/more-on-modules.md", "summary": "Open when checking 6.1. More on Modules.", "keywords": []},
+    {"topic": "6.4.3. Packages in Multiple Directories", "file": "modules/packages-in-multiple-directories.md", "summary": "Open when checking 6.4.3. Packages in Multiple Directories.", "keywords": []},
+    {"topic": "6.4. Packages", "file": "modules/packages.md", "summary": "Open when checking 6.4. Packages.", "keywords": []},
+    {"topic": "6.2. Standard Modules", "file": "modules/standard-modules.md", "summary": "Open when checking 6.2. Standard Modules.", "keywords": []},
+    {"topic": "6.3. The `dir()` Function", "file": "modules/the-dir-function.md", "summary": "Open when checking 6.3. The `dir()` Function.", "keywords": []},
+    {"topic": "6.1.2. The Module Search Path", "file": "modules/the-module-search-path.md", "summary": "Open when checking 6.1.2. The Module Search Path.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

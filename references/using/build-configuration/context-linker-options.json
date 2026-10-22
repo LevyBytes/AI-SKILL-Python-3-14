@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Linker options / LDFLAGS", "file": "build-configuration/ldflags.md", "summary": "Open when checking LDFLAGS.", "keywords": []},
+  {"topic": "Linker options / LIBS", "file": "build-configuration/libs.md", "summary": "Open when checking LIBS.", "keywords": []},
+  {"topic": "Linker options / MACHDEP", "file": "build-configuration/machdep.md", "summary": "Open when checking MACHDEP.", "keywords": []},
+  {"topic": "Linker options / --enable-shared", "file": "build-configuration/enable-shared.md", "summary": "Open when checking --enable-shared.", "keywords": []},
+  {"topic": "Linker options / --without-static-libpython", "file": "build-configuration/without-static-libpython.md", "summary": "Open when checking --without-static-libpython.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

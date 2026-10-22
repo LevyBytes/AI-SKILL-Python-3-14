@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Numeric and Mathematical Modules / Python 3.6.0 alpha 1 / library / bisect", "file": "releases/3-6-0-alpha-1/library/bisect.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / bisect.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.6.0 alpha 1 / library / dropped superfluous ignored invocation sum of squares helper within statistics pvariance", "file": "releases/3-6-0-alpha-1/library/variance-unused-helper-call-removal.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / dropped superfluous ignored invocation sum of squares helper within statistics pvariance.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules / Python 3.6.0 alpha 1 / library / corrected issue affecting mean computed across both very small", "file": "releases/3-6-0-alpha-1/library/extreme-value-mean-accuracy.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / corrected issue affecting mean computed across both very small.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

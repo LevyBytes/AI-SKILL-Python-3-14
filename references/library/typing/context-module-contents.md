@@ -1,0 +1,97 @@
+# Module contents
+
+Select by the documented task or API context. [Topic catalog](context-module-contents.json).
+
+- Open when checking typing — Module contents. [Module contents / typing — Module contents](module-contents.md).
+- Open when checking the documented contracts for `typing.Any`, `typing.AnyStr` in typing. [typing: `typing.Any`, `typing.AnyStr`](typing-any-to-typing-anystr.md).
+- Open when checking the documented contracts for `typing.LiteralString`, `typing.Never`, `typing.NoReturn` in typing. [typing: `typing.LiteralString`, `typing.Never`, `typing.NoReturn`](typing-literalstring-to-typing-noreturn.md).
+- Open when checking the documented contracts for `typing.Self` in typing. [typing: `typing.Self`](typing-self.md).
+- Open when checking the documented contracts for `typing.TypeAlias` in typing. [typing: `typing.TypeAlias`](typing-typealias.md).
+- Open when checking the documented contracts for `typing.TypeIs` in typing. [typing: `typing.TypeIs`](typing-typeis.md).
+- Open when checking the documented contracts for `typing.TypeGuard` in typing. [typing: `typing.TypeGuard`](typing-typeguard.md).
+- Open when checking the documented contracts for `typing.Unpack` in typing. [typing: `typing.Unpack`](typing-unpack.md).
+- Open when checking the documented contracts for `typing.Union` in typing. [typing: `typing.Union`](typing-union-class.md).
+- Open when checking the documented contracts for `typing.Optional`, `typing.Concatenate` in typing. [typing: `typing.Optional`, `typing.Concatenate`](typing-optional-to-typing-concatenate.md).
+- Open when checking the documented contracts for `typing.Literal` in typing. [typing: `typing.Literal`](typing-literal.md).
+- Open when checking the documented contracts for `typing.ClassVar`, `typing.Final`, `typing.Required`, `typing.NotRequired` in typing. [typing: `typing.ClassVar`, `typing.Final`, `typing.Required`, `typing.NotRequired`](typing-classvar-to-typing-notrequired.md).
+- Open when checking the documented contracts for `typing.ReadOnly`, `typing.Annotated` in typing. [typing: `typing.ReadOnly`, `typing.Annotated`](typing-readonly-to-typing-annotated.md).
+- Open when checking annotated metadata and validation example in typing. [typing: Annotated metadata and validation example](special-forms.md).
+- Open when checking ParamSpec default evaluation and availability in typing.ParamSpec. [typing.ParamSpec: ParamSpec default evaluation and availability](parameter-specification-default-evaluation.md).
+- Open when checking the documented contracts for `typing.ParamSpecArgs`, `typing.ParamSpecKwargs` in typing. [typing: `typing.ParamSpecArgs`, `typing.ParamSpecKwargs`](typing-paramspecargs-class-to-typing-paramspeckwargs-class.md).
+- Open when checking the documented contracts for `typing.TypeAliasType` in typing. [typing: `typing.TypeAliasType`](typing-typealiastype-class.md).
+- Open when checking the documented contracts for `evaluate_value()` in typing.TypeAliasType. [typing.TypeAliasType: `evaluate_value()`](typing-typealiastype-evaluate-value.md).
+- Open when checking the documented contracts for `typing.Generic` in typing. [typing: `typing.Generic`](typing-generic-class.md).
+- Open when checking TypeVar bound, constraint and default evaluation in typing.TypeVar. [typing.TypeVar: TypeVar bound, constraint and default evaluation](typing-typevar-evaluate-bound-to-typing-typevar-has-default.md).
+- Open when checking TypeVarTuple default evaluation and availability in typing.TypeVarTuple. [typing.TypeVarTuple: TypeVarTuple default evaluation and availability](type-variable-tuple-default-evaluation.md).
+- Open when checking the documented contracts for `typing.ParamSpec` in typing. [typing: `typing.ParamSpec`](typing-paramspec-class.md).
+- Open when checking the documented contracts for `typing.TypeVar` in typing. [typing: `typing.TypeVar`](typing-typevar-class.md).
+- Open when checking the documented contracts for `typing.TypeVarTuple` in typing. [typing: `typing.TypeVarTuple`](typing-typevartuple-class.md).
+- Open when checking typing — Building generic types and type aliases — Code example: a = concatenate('one', 'two'). [Module contents / typing — Building generic types and type aliases — Code example: a = concatenate('one', 'two')](generic-concatenation-type-example.md).
+- Open when checking typing — Building generic types and type aliases — Contract: Be aware, though, that no more than a single type variable tuple is allowed within one list of type arguments or type parameters:. [Module contents / typing — Building generic types and type aliases — Contract: Be aware, though, that no more than a single type variable tuple is allowed within one list of type arguments or type parameters:](typevartuple-variadic-constraints.md).
+- Open when checking type-construction directives and annotation restrictions in typing. [typing: Type-construction directives and annotation restrictions](type-construction-directives.md).
+- Open when checking the documented contracts for `typing.NamedTuple` in typing. [typing: `typing.NamedTuple`](typing-namedtuple-class.md).
+- Open when checking the documented contracts for `typing.NewType` in typing. [typing: `typing.NewType`](typing-newtype-class.md).
+- Open when checking the documented contracts for `typing.Protocol` in typing. [typing: `typing.Protocol`](typing-protocol-class.md).
+- Open when checking the documented contracts for `typing.runtime_checkable` in typing. [typing: `typing.runtime_checkable`](other-special-directives-closable-and-named.md).
+- Open when checking TypedDict totality and required-key introspection in typing. [typing: TypedDict totality and required-key introspection](other-special-directives-typing-typeddict.md).
+- Open when checking typing — Other special directives — Signature and initial contract. [Module contents / typing — Other special directives — Signature and initial contract](typing-typeddict-class.md).
+- Open when checking typing — Other special directives — Code example: class Point2D(TypedDict, total=False):. [Module contents / typing — Other special directives — Code example: class Point2D(TypedDict, total=False):](typed-dictionary-optional-fields-example.md).
+- Open when checking the documented contracts for `typing.SupportsAbs` in typing. [typing: `typing.SupportsAbs`](typing-supportsabs-class.md).
+- Open when checking the documented contracts for `typing.SupportsBytes` in typing. [typing: `typing.SupportsBytes`](typing-supportsbytes-class.md).
+- Open when checking the documented contracts for `typing.SupportsComplex` in typing. [typing: `typing.SupportsComplex`](typing-supportscomplex-class.md).
+- Open when checking the documented contracts for `typing.SupportsFloat` in typing. [typing: `typing.SupportsFloat`](typing-supportsfloat-class.md).
+- Open when checking the documented contracts for `typing.SupportsIndex` in typing. [typing: `typing.SupportsIndex`](typing-supportsindex-class.md).
+- Open when checking the documented contracts for `typing.SupportsInt` in typing. [typing: `typing.SupportsInt`](typing-supportsint-class.md).
+- Open when checking the documented contracts for `typing.SupportsRound` in typing. [typing: `typing.SupportsRound`](typing-supportsround-class.md).
+- Open when checking typing — ABCs and Protocols for working with I/O. [Module contents / typing — ABCs and Protocols for working with I/O](typing-textio-class-to-typing-binaryio-class.md).
+- Open when checking the documented contracts for `typing.cast()`, `typing.assert_type()`, `typing.assert_never()` in typing. [typing: `typing.cast()`, `typing.assert_type()`, `typing.assert_never()`](typing-cast-to-typing-assert-never.md).
+- Open when checking the documented contracts for `typing.reveal_type()` in typing. [typing: `typing.reveal_type()`](typing-reveal-type.md).
+- Open when checking the documented contracts for `typing.overload`, `typing.get_overloads()`, `typing.clear_overloads()`, `typing.final` in typing. [typing: `typing.overload`, `typing.get_overloads()`, `typing.clear_overloads()`, `typing.final`](typing-get-overloads-to-typing-clear-overloads.md).
+- Open when checking the documented contracts for `typing.no_type_check`, `typing.no_type_check_decorator`, `typing.override`, `typing.type_check_only` in typing. [typing: `typing.no_type_check`, `typing.no_type_check_decorator`, `typing.override`, `typing.type_check_only`](functions-and-decorators.md).
+- Open when checking typing — Functions and decorators — Signature and initial contract. [Module contents / typing — Functions and decorators — Signature and initial contract](functions-and-decorators-signature-and-initial-contract.md).
+- Open when checking typing — Functions and decorators — Contract: Type checkers recognize the following optional parameters on field specifiers:. [Module contents / typing — Functions and decorators — Contract: Type checkers recognize the following optional parameters on field specifiers:](dataclass-field-specifier-options.md).
+- Open when checking the documented contracts for `typing.get_type_hints()`, `typing.get_origin()` in typing. [typing: `typing.get_type_hints()`, `typing.get_origin()`](typing-get-type-hints-to-typing-get-origin.md).
+- Open when checking the documented contracts for `typing.get_args()`, `typing.get_protocol_members()`, `typing.is_protocol()` in typing. [typing: `typing.get_args()`, `typing.get_protocol_members()`, `typing.is_protocol()`](typing-get-args-to-typing-is-protocol.md).
+- Open when checking the documented contracts for `typing.is_typeddict()` in typing. [typing: `typing.is_typeddict()`](typing-is-typeddict.md).
+- Open when checking the documented contracts for `typing.ForwardRef` in typing. [typing: `typing.ForwardRef`](typing-forwardref-class.md).
+- Open when checking the documented contracts for `typing.evaluate_forward_ref()`, `typing.NoDefault` in typing. [typing: `typing.evaluate_forward_ref()`, `typing.NoDefault`](typing-evaluate-forward-ref-to-typing-nodefault.md).
+- Open when checking TYPE_CHECKING imports and deferred annotation inspection in typing. [typing: TYPE_CHECKING imports and deferred annotation inspection](constant.md).
+- Open when checking the documented contracts for `typing.TYPE_CHECKING` in typing. [typing: `typing.TYPE_CHECKING`](typing-type-checking.md).
+- Open when checking typing — Deprecated aliases. [Module contents / typing — Deprecated aliases](deprecated-aliases.md).
+- Open when checking the documented contracts for `typing.Dict` in typing. [typing: `typing.Dict`](typing-dict-class.md).
+- Open when checking the documented contracts for `typing.List` in typing. [typing: `typing.List`](typing-list-class.md).
+- Open when checking the documented contracts for `typing.Set` in typing. [typing: `typing.Set`](typing-set-class.md).
+- Open when checking the documented contracts for `typing.FrozenSet` in typing. [typing: `typing.FrozenSet`](typing-frozenset-class.md).
+- Open when checking the documented contracts for `typing.Tuple` in typing. [typing: `typing.Tuple`](typing-tuple.md).
+- Open when checking the documented contracts for `typing.Type` in typing. [typing: `typing.Type`](typing-type-class.md).
+- Open when checking the documented contracts for `typing.DefaultDict` in typing. [typing: `typing.DefaultDict`](typing-defaultdict-class.md).
+- Open when checking the documented contracts for `typing.OrderedDict` in typing. [typing: `typing.OrderedDict`](typing-ordereddict-class.md).
+- Open when checking the documented contracts for `typing.ChainMap` in typing. [typing: `typing.ChainMap`](typing-chainmap-class.md).
+- Open when checking the documented contracts for `typing.Counter` in typing. [typing: `typing.Counter`](typing-counter-class.md).
+- Open when checking the documented contracts for `typing.Deque` in typing. [typing: `typing.Deque`](typing-deque-class.md).
+- Open when checking the documented contracts for `typing.Pattern`, `typing.Match` in typing. [typing: `typing.Pattern`, `typing.Match`](typing-pattern-class-to-typing-match-class.md).
+- Open when checking the documented contracts for `typing.Text` in typing. [typing: `typing.Text`](typing-text-class.md).
+- Open when checking the documented contracts for `typing.AbstractSet` in typing. [typing: `typing.AbstractSet`](typing-abstractset-class.md).
+- Open when checking the documented contracts for `typing.ByteString` in typing. [typing: `typing.ByteString`](typing-bytestring-class.md).
+- Open when checking the documented contracts for `typing.Collection` in typing. [typing: `typing.Collection`](typing-collection-class.md).
+- Open when checking the documented contracts for `typing.Container` in typing. [typing: `typing.Container`](typing-container-class.md).
+- Open when checking the documented contracts for `typing.ItemsView` in typing. [typing: `typing.ItemsView`](typing-itemsview-class.md).
+- Open when checking the documented contracts for `typing.KeysView` in typing. [typing: `typing.KeysView`](typing-keysview-class.md).
+- Open when checking the documented contracts for `typing.Mapping` in typing. [typing: `typing.Mapping`](typing-mapping-class.md).
+- Open when checking the documented contracts for `typing.MappingView` in typing. [typing: `typing.MappingView`](typing-mappingview-class.md).
+- Open when checking the documented contracts for `typing.MutableMapping` in typing. [typing: `typing.MutableMapping`](typing-mutablemapping-class.md).
+- Open when checking the documented contracts for `typing.MutableSequence` in typing. [typing: `typing.MutableSequence`](typing-mutablesequence-class.md).
+- Open when checking the documented contracts for `typing.MutableSet` in typing. [typing: `typing.MutableSet`](typing-mutableset-class.md).
+- Open when checking the documented contracts for `typing.Sequence` in typing. [typing: `typing.Sequence`](typing-sequence-class.md).
+- Open when checking the documented contracts for `typing.ValuesView` in typing. [typing: `typing.ValuesView`](typing-valuesview-class.md).
+- Open when checking the documented contracts for `typing.Coroutine` in typing. [typing: `typing.Coroutine`](typing-coroutine-class.md).
+- Open when checking the documented contracts for `typing.AsyncGenerator` in typing. [typing: `typing.AsyncGenerator`](typing-asyncgenerator-class.md).
+- Open when checking the documented contracts for `typing.AsyncIterable` in typing. [typing: `typing.AsyncIterable`](typing-asynciterable-class.md).
+- Open when checking the documented contracts for `typing.AsyncIterator` in typing. [typing: `typing.AsyncIterator`](typing-asynciterator-class.md).
+- Open when checking the documented contracts for `typing.Awaitable` in typing. [typing: `typing.Awaitable`](typing-awaitable-class.md).
+- Open when checking the documented contracts for `typing.Iterable` in typing. [typing: `typing.Iterable`](typing-iterable-class.md).
+- Open when checking the documented contracts for `typing.Iterator` in typing. [typing: `typing.Iterator`](typing-iterator-class.md).
+- Open when checking the documented contracts for `typing.Callable` in typing. [typing: `typing.Callable`](typing-callable.md).
+- Open when checking the documented contracts for `typing.Generator` in typing. [typing: `typing.Generator`](typing-generator-class.md).
+- Open when checking Deprecated typing aliases and migration timeline. [Module contents / Deprecated typing aliases and migration timeline](deprecated-typing-aliases-and-timeline.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

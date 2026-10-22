@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 7 / c api / ast", "file": "releases/3-10-0-alpha-7/c-api/ast.md", "summary": "Open when checking Python 3.10.0 alpha 7 / c api / ast.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / c api / compiler and parser", "file": "releases/3-10-0-alpha-7/c-api/compiler-and-parser.md", "summary": "Open when checking Python 3.10.0 alpha 7 / c api / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / c api / refcounting", "file": "releases/3-10-0-alpha-7/c-api/refcounting.md", "summary": "Open when checking Python 3.10.0 alpha 7 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / c api / repair pyeval evalcodeex regression correct reference counting builtins", "file": "evalcodeex-builtins-reference-counting.md", "summary": "Open when checking Python 3.10.0 alpha 7 / c api / repair pyeval evalcodeex regression correct reference counting builtins.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / c api / symtable", "file": "releases/3-10-0-alpha-7/c-api/symtable.md", "summary": "Open when checking Python 3.10.0 alpha 7 / c api / symtable.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

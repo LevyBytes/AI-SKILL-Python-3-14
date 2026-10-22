@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 1 / build / adjust clean makefile target also wipes program guided optimization", "file": "build-clean-profile-guided-artifacts.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / adjust clean makefile target also wipes program guided optimization.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / binary", "file": "releases/3-9-0-alpha-1/build/binary.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / binary.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / build and platforms", "file": "releases/3-9-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / compiler and parser", "file": "releases/3-9-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / distutils", "file": "releases/3-9-0-alpha-1/build/distutils.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / distutils.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / files and paths", "file": "releases/3-9-0-alpha-1/build/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / find llvm profdata llvm ar binaries through ac path tool place ac path target tool", "file": "llvm-profile-and-archive-tool-discovery.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / find llvm profdata llvm ar binaries through ac path tool place ac path target tool.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / ossaudiodev", "file": "releases/3-9-0-alpha-1/build/ossaudiodev.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / ossaudiodev.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / python", "file": "releases/3-9-0-alpha-1/build/python.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / python.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / stdtypes", "file": "releases/3-9-0-alpha-1/build/stdtypes.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / stdtypes.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / tests and documentation", "file": "releases/3-9-0-alpha-1/build/tests-and-documentation.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 1 / build / veryhigh", "file": "releases/3-9-0-alpha-1/build/veryhigh.md", "summary": "Open when checking Python 3.9.0 alpha 1 / build / veryhigh.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

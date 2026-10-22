@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / anthony sottile corrected constant folding optimization applied positional only", "file": "positional-only-argument-constant-folding.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / anthony sottile corrected constant folding optimization applied positional only.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / collections and iteration", "file": "releases/3-9-0-alpha-3/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / compiler and parser", "file": "releases/3-9-0-alpha-3/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / exceptions and tracebacks", "file": "releases/3-9-0-alpha-3/core-and-builtins/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / files and paths", "file": "releases/3-9-0-alpha-3/core-and-builtins/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / functions and types", "file": "releases/3-9-0-alpha-3/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / functions", "file": "releases/3-9-0-alpha-3/core-and-builtins/functions.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / functions.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / functools", "file": "releases/3-9-0-alpha-3/core-and-builtins/functools.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / functools.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / gc", "file": "releases/3-9-0-alpha-3/core-and-builtins/gc.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / gc.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / heapq", "file": "releases/3-9-0-alpha-3/core-and-builtins/heapq.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / heapq.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / imports and modules", "file": "releases/3-9-0-alpha-3/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / mimetypes", "file": "releases/3-9-0-alpha-3/core-and-builtins/mimetypes.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / mimetypes.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / object", "file": "releases/3-9-0-alpha-3/core-and-builtins/object.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / object.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / removed", "file": "releases/3-9-0-alpha-3/core-and-builtins/removed.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / removed.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / stdtypes", "file": "releases/3-9-0-alpha-3/core-and-builtins/stdtypes.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / stdtypes.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / tests and documentation", "file": "releases/3-9-0-alpha-3/core-and-builtins/tests-and-documentation.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 3 / core and builtins / tokens spanning several lines handled properly under interactive mode", "file": "interactive-multiline-token-handling.md", "summary": "Open when checking Python 3.9.0 alpha 3 / core and builtins / tokens spanning several lines handled properly under interactive mode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

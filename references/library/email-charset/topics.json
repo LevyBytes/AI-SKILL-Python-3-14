@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "email.charset: `email.charset.Charset`", "file": "email-charset/email-charset-charset-class.md", "summary": "Open when checking the documented contracts for `email.charset.Charset` in email.charset.", "keywords": []},
+  {"topic": "email.charset.Charset: `get_body_encoding()`, `get_output_charset()`, `header_encode()`, `header_encode_lines()`, `body_encode()`, `__str__()`, `__eq__()`, `__ne__()`", "file": "charset-body-encoding-and-comparison.md", "summary": "Open when checking the documented contracts for `get_body_encoding()`, `get_output_charset()`, `header_encode()`, `header_encode_lines()`, `body_encode()`, `__str__()`, `__eq__()`, `__ne__()` in email.charset.Charset.", "keywords": []},
+  {"topic": "email.charset: `email.charset.add_charset()`, `email.charset.add_alias()`, `email.charset.add_codec()`", "file": "email-charset/email-charset-add-charset-to-email-charset-add-codec.md", "summary": "Open when checking the documented contracts for `email.charset.add_charset()`, `email.charset.add_alias()`, `email.charset.add_codec()` in email.charset.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

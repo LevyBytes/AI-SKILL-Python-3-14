@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "textwrap: `textwrap.wrap()`, `textwrap.fill()`, `textwrap.shorten()`, `textwrap.dedent()`", "file": "textwrap/textwrap-wrap-to-textwrap-dedent.md", "summary": "Open when checking the documented contracts for `textwrap.wrap()`, `textwrap.fill()`, `textwrap.shorten()`, `textwrap.dedent()` in textwrap.", "keywords": []},
+  {"topic": "textwrap: `textwrap.indent()`", "file": "textwrap/textwrap-indent.md", "summary": "Open when checking the documented contracts for `textwrap.indent()` in textwrap.", "keywords": []},
+  {"topic": "textwrap: `textwrap.TextWrapper`", "file": "textwrap/textwrap-textwrapper-class.md", "summary": "Open when checking the documented contracts for `textwrap.TextWrapper` in textwrap.", "keywords": []},
+  {"topic": "textwrap.TextWrapper: `wrap()`, `fill()`", "file": "textwrap/textwrap-textwrapper-wrap-to-textwrap-textwrapper-fill.md", "summary": "Open when checking the documented contracts for `wrap()`, `fill()` in textwrap.TextWrapper.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

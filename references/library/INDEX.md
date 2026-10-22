@@ -1,0 +1,43 @@
+# Standard library subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json). [Area overview](README.md).
+
+- Open when checking intro. [Introduction / intro](intro/INDEX.md).
+- Open when checking version scope and availability. [Version scope and availability](context-version-scope-and-availability.md).
+- Open when checking security warnings. [Security Considerations / security warnings](security-warnings/INDEX.md).
+- Open when checking built-in objects and typing. [Built-in objects and typing](context-built-in-objects-and-typing.md).
+- Open when checking text processing services. [Text Processing Services](context-text-processing-services.md).
+- Open when checking binary data services. [Binary Data Services](context-binary-data-services.md).
+- Open when checking data types. [Data Types](context-data-types.md).
+- Open when checking numeric and mathematical modules. [Numeric and Mathematical Modules](context-numeric-and-mathematical-modules.md).
+- Open when checking functional programming modules. [Functional Programming Modules](context-functional-programming-modules.md).
+- Open when checking file and directory access. [File and Directory Access](context-file-and-directory-access.md).
+- Open when checking data persistence. [Data Persistence](context-data-persistence.md).
+- Open when checking data compression and archiving. [Data Compression and Archiving](context-data-compression-and-archiving.md).
+- Open when checking file formats. [File Formats](context-file-formats.md).
+- Open when checking cryptographic services. [Cryptographic Services](context-cryptographic-services.md).
+- Open when checking generic operating system services. [Generic Operating System Services](context-generic-operating-system-services.md).
+- Open when checking command-line interface libraries. [Command-line interface libraries](context-command-line-interface-libraries.md).
+- Open when checking concurrent execution. [Concurrent Execution](context-concurrent-execution.md).
+- Open when checking networking and interprocess communication. [Networking and Interprocess Communication](context-networking-ipc.md).
+- Open when checking internet data handling. [Internet Data Handling](context-internet-data-handling.md).
+- Open when checking structured markup processing tools. [Structured Markup Processing Tools](context-structured-markup-processing-tools.md).
+- Open when checking internet protocols and support. [Internet Protocols and Support](context-internet-protocols-and-support.md).
+- Open when checking multimedia services. [Multimedia Services](context-multimedia-services.md).
+- Open when checking internationalization. [Internationalization](context-internationalization.md).
+- Open when checking graphical user interfaces with tk. [Graphical user interfaces with Tk](context-graphical-user-interfaces-with-tk.md).
+- Open when checking development tools. [Development Tools](context-development-tools.md).
+- Open when checking debugging and profiling. [Debugging and Profiling](context-debugging-and-profiling.md).
+- Open when checking software packaging and distribution. [Software Packaging and Distribution](context-software-packaging-and-distribution.md).
+- Open when checking python runtime services. [Python Runtime Services](context-python-runtime-services.md).
+- Open when checking custom python interpreters. [Custom Python Interpreters](context-custom-python-interpreters.md).
+- Open when checking importing modules. [Importing Modules](context-importing-modules.md).
+- Open when checking python language services. [Python Language Services](context-python-language-services.md).
+- Open when checking ms windows specific services. [MS Windows Specific Services](context-ms-windows-specific-services.md).
+- Open when checking unix-specific services. [Unix-specific services](context-unix-specific-services.md).
+- Open when checking cmdline. [Modules command-line interface (CLI) / cmdline](cmdline/INDEX.md).
+- Open when checking superseded modules. [Superseded Modules](context-superseded-modules.md).
+- Open when checking removed. [Removed Modules / removed](removed/INDEX.md).
+- Open when checking graphical and interactive applications. [Graphical and interactive applications](context-graphical-and-interactive-applications.md).
+- Open when checking removed modules and historical interfaces. [Removed modules and historical interfaces](context-removed-modules-and-historical-interfaces.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

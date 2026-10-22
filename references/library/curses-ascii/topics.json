@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "curses.ascii: `curses.ascii.isalnum()`, `curses.ascii.isalpha()`, `curses.ascii.isascii()`, `curses.ascii.isblank()`, `curses.ascii.iscntrl()`, `curses.ascii.isdigit()`, `curses.ascii.isgraph()`", "file": "curses-ascii/curses-ascii-isalnum-to-curses-ascii-isgraph.md", "summary": "Open when checking the documented contracts for `curses.ascii.isalnum()`, `curses.ascii.isalpha()`, `curses.ascii.isascii()`, `curses.ascii.isblank()`, `curses.ascii.iscntrl()`, `curses.ascii.isdigit()`, `curses.ascii.isgraph()` in curses.ascii.", "keywords": []},
+  {"topic": "curses.ascii: ASCII classification, control conversions and names", "file": "curses-ascii/curses-ascii-islower-to-curses-ascii-controlnames.md", "summary": "Open when checking ASCII classification, control conversions and names in curses.ascii.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,20 @@
+# Upstream feature guide navigation for Python 2.1
+
+- [What’s New in Python 2.1](https://docs.python.org/3.14/whatsnew/2.1.html)
+  - [Introduction](https://docs.python.org/3.14/whatsnew/2.1.html#introduction)
+  - [PEP 227: Nested Scopes](https://docs.python.org/3.14/whatsnew/2.1.html#pep-227-nested-scopes)
+  - [PEP 236: __future__ Directives](https://docs.python.org/3.14/whatsnew/2.1.html#pep-236-future-directives)
+  - [PEP 207: Rich Comparisons](https://docs.python.org/3.14/whatsnew/2.1.html#pep-207-rich-comparisons)
+  - [PEP 230: Warning Framework](https://docs.python.org/3.14/whatsnew/2.1.html#pep-230-warning-framework)
+  - [PEP 229: New Build System](https://docs.python.org/3.14/whatsnew/2.1.html#pep-229-new-build-system)
+  - [PEP 205: Weak References](https://docs.python.org/3.14/whatsnew/2.1.html#pep-205-weak-references)
+  - [PEP 232: Function Attributes](https://docs.python.org/3.14/whatsnew/2.1.html#pep-232-function-attributes)
+  - [PEP 235: Importing Modules on Case-Insensitive Platforms](https://docs.python.org/3.14/whatsnew/2.1.html#pep-235-importing-modules-on-case-insensitive-platforms)
+  - [PEP 217: Interactive Display Hook](https://docs.python.org/3.14/whatsnew/2.1.html#pep-217-interactive-display-hook)
+  - [PEP 208: New Coercion Model](https://docs.python.org/3.14/whatsnew/2.1.html#pep-208-new-coercion-model)
+  - [PEP 241: Metadata in Python Packages](https://docs.python.org/3.14/whatsnew/2.1.html#pep-241-metadata-in-python-packages)
+  - [New and Improved Modules](https://docs.python.org/3.14/whatsnew/2.1.html#new-and-improved-modules)
+  - [Other Changes and Fixes](https://docs.python.org/3.14/whatsnew/2.1.html#other-changes-and-fixes)
+  - [Acknowledgements](https://docs.python.org/3.14/whatsnew/2.1.html#acknowledgements)
+
+[Subject index](INDEX.md) · [Previous source section](../release-2-2/release-overview.md) · [Next source section](../release-2-0/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md) · [Preceding release/subject continuation](../release-3-1/release-overview.md)

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Version scope and availability / library orientation", "file": "library-orientation/INDEX.md", "summary": "Open when checking library orientation.", "keywords": []},
+  {"topic": "Version scope and availability / Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

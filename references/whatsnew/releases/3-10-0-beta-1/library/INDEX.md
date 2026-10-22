@@ -1,0 +1,59 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.10.0 beta 1 / library / exceptions. [Built-in objects and typing / Python 3.10.0 beta 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.10.0 beta 1 / library / stdtypes. [Built-in objects and typing / Python 3.10.0 beta 1 / library / stdtypes](stdtypes.md).
+- Open when checking Python 3.10.0 beta 1 / library / re. [Text Processing Services / Python 3.10.0 beta 1 / library / re](re.md).
+- Open when checking Python 3.10.0 beta 1 / library / array. [Data Types / Python 3.10.0 beta 1 / library / array](array.md).
+- Open when checking Python 3.10.0 beta 1 / library / collections and iteration. [Data Types / Python 3.10.0 beta 1 / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.10.0 beta 1 / library / modules. [Data Types / Python 3.10.0 beta 1 / library / modules](modules.md).
+- Open when checking Python 3.10.0 beta 1 / library / pprint. [Data Types / Python 3.10.0 beta 1 / library / pprint](pprint.md).
+- Open when checking Python 3.10.0 beta 1 / library / files and paths. [File and Directory Access / Python 3.10.0 beta 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.10.0 beta 1 / library / gzip. [Data Compression and Archiving / Python 3.10.0 beta 1 / library / gzip](gzip.md).
+- Open when checking Python 3.10.0 beta 1 / library / tarfile. [Data Compression and Archiving / Python 3.10.0 beta 1 / library / tarfile](tarfile.md).
+- Open when checking Python 3.10.0 beta 1 / library / netrc. [File Formats / Python 3.10.0 beta 1 / library / netrc](netrc.md).
+- Open when checking Python 3.10.0 beta 1 / library / platform. [Generic Operating System Services / Python 3.10.0 beta 1 / library / platform](platform.md).
+- Open when checking Python 3.10.0 beta 1 / library / io. [Generic Operating System Services / Python 3.10.0 beta 1 / library / io](io.md).
+- Open when checking Python 3.10.0 beta 1 / library / text and unicode. [Generic Operating System Services / Python 3.10.0 beta 1 / library / text and unicode](text-and-unicode.md).
+- Open when checking Python 3.10.0 beta 1 / library / os. [Generic Operating System Services / Python 3.10.0 beta 1 / library / os](os.md).
+- Open when checking Python 3.10.0 beta 1 / library / ctypes. [Generic Operating System Services / Python 3.10.0 beta 1 / library / ctypes](ctypes.md).
+- Open when checking Python 3.10.0 beta 1 / library / fileinput. [Command-line interface libraries / Python 3.10.0 beta 1 / library / fileinput](fileinput.md).
+- Open when checking Python 3.10.0 beta 1 / library / multiprocessing. [Concurrent Execution / Python 3.10.0 beta 1 / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.10.0 beta 1 / library / subprocess. [Concurrent Execution / Python 3.10.0 beta 1 / library / subprocess](subprocess.md).
+- Open when checking Python 3.10.0 beta 1 / library / threading. [Concurrent Execution / Python 3.10.0 beta 1 / library / threading](threading.md).
+- Open when checking Python 3.10.0 beta 1 / library / asyncio eventloop. [Networking and Interprocess Communication / Python 3.10.0 beta 1 / library / asyncio eventloop](asyncio-eventloop.md).
+- Open when checking Python 3.10.0 beta 1 / library / urllib parse. [Internet Protocols and Support / Python 3.10.0 beta 1 / library / urllib parse](urllib-parse.md).
+- Open when checking Python 3.10.0 beta 1 / library / urllib. [Internet Protocols and Support / Python 3.10.0 beta 1 / library / urllib](urllib.md).
+- Open when checking Python 3.10.0 beta 1 / library / locale. [Internationalization / Python 3.10.0 beta 1 / library / locale](locale.md).
+- Open when checking Python 3.10.0 beta 1 / library / tkinter. [Graphical user interfaces with Tk / Python 3.10.0 beta 1 / library / tkinter](tkinter.md).
+- Open when checking Python 3.10.0 beta 1 / library / inspect. [Python Runtime Services / Python 3.10.0 beta 1 / library / inspect](inspect.md).
+- Open when checking Python 3.10.0 beta 1 / library / drop superfluous copy namespace handed dataclasses make dataclass. [Python Runtime Services / Python 3.10.0 beta 1 / library / drop superfluous copy namespace handed dataclasses make dataclass](make-dataclass-namespace-copy-removal.md).
+- Open when checking Python 3.10.0 beta 1 / library / bump bundled pip alongside setuptools. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / bump bundled pip alongside setuptools](bump-bundled-pip-alongside-setuptools.md).
+- Open when checking Python 3.10.0 beta 1 / library / refresh bundled pip up. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / refresh bundled pip up](refresh-bundled-pip-up.md).
+- Open when checking Python 3.10.0 beta 1 / library / resolved defect pure python pickle code surfaced protocol where bytearray. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / resolved defect pure python pickle code surfaced protocol where bytearray](pure-python-pickle-bytearray-protocol.md).
+- Open when checking Python 3.10.0 beta 1 / library / undocumented cgi log api deprecated. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / undocumented cgi log api deprecated](undocumented-cgi-log-api-deprecated.md).
+- Open when checking Python 3.10.0 beta 1 / library / within dataclass typeerror raised whenever kw only appears more than. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / within dataclass typeerror raised whenever kw only appears more than](duplicate-keyword-only-dataclass-marker.md).
+- Open when checking Python 3.10.0 beta 1 / library / corrected what typevar ror returns. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / corrected what typevar ror returns](corrected-what-typevar-ror-returns.md).
+- Open when checking Python 3.10.0 beta 1 / library / exceptions and tracebacks. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / exceptions and tracebacks](exceptions-and-tracebacks.md).
+- Open when checking Python 3.10.0 beta 1 / library / functions. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / functions](functions.md).
+- Open when checking Python 3.10.0 beta 1 / library / pyclbr. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / pyclbr](pyclbr.md).
+- Open when checking Python 3.10.0 beta 1 / library / warnings. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / warnings](warnings.md).
+- Open when checking Python 3.10.0 beta 1 / library / importlib. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / importlib](importlib.md).
+- Open when checking Python 3.10.0 beta 1 / library / make possible mark dataclass fields keyword only. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / make possible mark dataclass fields keyword only](make-possible-mark-dataclass-fields-keyword-only.md).
+- Open when checking Python 3.10.0 beta 1 / library / corrected handling dataclass deriving frozen field less dataclass. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / corrected handling dataclass deriving frozen field less dataclass](frozen-fieldless-dataclass-inheritance.md).
+- Open when checking Python 3.10.0 beta 1 / library / zlib. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / zlib](zlib.md).
+- Open when checking Python 3.10.0 beta 1 / library / statistics. [Library compatibility and maintenance / Python 3.10.0 beta 1 / library / statistics](statistics.md).
+- Open when checking Python 3.10.0 beta 1 / library / enum. [Combined library maintenance / Python 3.10.0 beta 1 / library / enum](enum.md).
+- Open when checking Python 3.10.0 beta 1 / library / functions and types. [Combined library maintenance / Python 3.10.0 beta 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.10.0 beta 1 / library / importlib metadata. [Combined library maintenance / Python 3.10.0 beta 1 / library / importlib metadata](importlib-metadata.md).
+- Open when checking Python 3.10.0 beta 1 / library / imports and modules. [Combined library maintenance / Python 3.10.0 beta 1 / library / imports and modules](imports-and-modules.md).
+- Open when checking Python 3.10.0 beta 1 / library / turtle. [Combined library maintenance / Python 3.10.0 beta 1 / library / turtle](turtle.md).
+- Open when checking Python 3.10.0 beta 1 / library / typing. [Combined library maintenance / Python 3.10.0 beta 1 / library / typing](typing.md).
+- Open when checking Python 3.10.0 beta 1 / library / bz2. [Combined library maintenance / Python 3.10.0 beta 1 / library / bz2](bz2.md).
+- Open when checking Python 3.10.0 beta 1 / library / os path. [Combined library maintenance / Python 3.10.0 beta 1 / library / os path](os-path.md).
+- Open when checking Python 3.10.0 beta 1 / library / dataclasses. [Combined library maintenance / Python 3.10.0 beta 1 / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.10.0 beta 1 / library / sqlite3. [Combined library maintenance / Python 3.10.0 beta 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.10.0 beta 1 / library / ssl. [Combined library maintenance / Python 3.10.0 beta 1 / library / ssl](ssl.md).
+- Open when checking Python 3.10.0 beta 1 / library / sysconfig. [Combined library maintenance / Python 3.10.0 beta 1 / library / sysconfig](sysconfig.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

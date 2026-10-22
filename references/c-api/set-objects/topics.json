@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "set objects C API: Set and frozenset C API purpose", "file": "set-objects/set-objects.md", "summary": "Open when checking set and frozenset C API purpose in set objects C API.", "keywords": []},
+  {"topic": "set objects C API: Set types, construction and size queries", "file": "set-objects/pysetobject-to-pyset-get-size.md", "summary": "Open when checking set types, construction and size queries in set objects C API.", "keywords": []},
+  {"topic": "set objects C API: `PySet_Contains()`, `PySet_Add()`, `PySet_Discard()`, `PySet_Pop()`, `PySet_Clear()`", "file": "set-objects/pyset-contains-to-pyset-clear.md", "summary": "Open when checking the documented contracts for `PySet_Contains()`, `PySet_Add()`, `PySet_Discard()`, `PySet_Pop()`, `PySet_Clear()` in set objects C API.", "keywords": []},
+  {"topic": "PySet_MINSIZE", "file": "set-objects/pyset-minsize.md", "summary": "Open when checking PySet_MINSIZE.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

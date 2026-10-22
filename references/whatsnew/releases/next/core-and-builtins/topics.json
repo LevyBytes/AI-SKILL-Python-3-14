@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python next / core and builtins / build and platforms", "file": "releases/next/core-and-builtins/build-and-platforms.md", "summary": "Open when checking Python next / core and builtins / build and platforms.", "keywords": []},
+    {"topic": "Python next / core and builtins / exceptions", "file": "releases/next/core-and-builtins/exceptions.md", "summary": "Open when checking Python next / core and builtins / exceptions.", "keywords": []},
+    {"topic": "Python next / core and builtins / imports and modules", "file": "releases/next/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python next / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python next / core and builtins / init config", "file": "releases/next/core-and-builtins/init-config.md", "summary": "Open when checking Python next / core and builtins / init config.", "keywords": []},
+    {"topic": "Python next / core and builtins / memory", "file": "releases/next/core-and-builtins/memory.md", "summary": "Open when checking Python next / core and builtins / memory.", "keywords": []},
+    {"topic": "Python next / core and builtins / text and unicode", "file": "releases/next/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python next / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

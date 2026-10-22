@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/reference", "topics": [
+  {"topic": "Emulating container types / object.__contains__(*self*, *item*)", "file": "data-model/object-contains.md", "summary": "Open when checking object.__contains__(*self*, *item*).", "keywords": []},
+  {"topic": "Emulating container types / object.__delitem__(*self*, *key*)", "file": "data-model/object-delitem.md", "summary": "Open when checking object.__delitem__(*self*, *key*).", "keywords": []},
+  {"topic": "Emulating container types / object.__getitem__(*self*, *subscript*)", "file": "data-model/object-getitem.md", "summary": "Open when checking object.__getitem__(*self*, *subscript*).", "keywords": []},
+  {"topic": "Emulating container types / object.__iter__(*self*)", "file": "data-model/object-iter.md", "summary": "Open when checking object.__iter__(*self*).", "keywords": []},
+  {"topic": "Emulating container types / object.__length_hint__(*self*)", "file": "data-model/object-length-hint.md", "summary": "Open when checking object.__length_hint__(*self*).", "keywords": []},
+  {"topic": "Emulating container types / object.__missing__(*self*, *key*)", "file": "data-model/object-missing.md", "summary": "Open when checking object.__missing__(*self*, *key*).", "keywords": []},
+  {"topic": "Emulating container types / object.__reversed__(*self*)", "file": "data-model/object-reversed.md", "summary": "Open when checking object.__reversed__(*self*).", "keywords": []},
+  {"topic": "Emulating container types / object.__setitem__(*self*, *key*, *value*)", "file": "data-model/object-setitem.md", "summary": "Open when checking object.__setitem__(*self*, *key*, *value*).", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

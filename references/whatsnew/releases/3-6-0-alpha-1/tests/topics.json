@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 1 / tests / build and platforms", "file": "releases/3-6-0-alpha-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / compiler and parser", "file": "releases/3-6-0-alpha-1/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / files and paths", "file": "releases/3-6-0-alpha-1/tests/files-and-paths.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / imports and modules", "file": "releases/3-6-0-alpha-1/tests/imports-and-modules.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / multiprocessing", "file": "releases/3-6-0-alpha-1/tests/multiprocessing.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / python", "file": "releases/3-6-0-alpha-1/tests/python.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / python.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / reworked test ssl leans more heavily internal local server", "file": "releases/3-6-0-alpha-1/tests/reworked-test-ssl-leans-more-heavily-internal-local-server.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / reworked test ssl leans more heavily internal local server.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / tests and documentation", "file": "releases/3-6-0-alpha-1/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 1 / tests / turtle", "file": "releases/3-6-0-alpha-1/tests/turtle.md", "summary": "Open when checking Python 3.6.0 alpha 1 / tests / turtle.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

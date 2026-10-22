@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 6 / library / codeop", "file": "releases/3-10-0-alpha-6/library/codeop.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / codeop.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / collections and iteration", "file": "releases/3-10-0-alpha-6/library/collections-and-iteration.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / concurrent futures", "file": "releases/3-10-0-alpha-6/library/concurrent-futures.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / concurrent futures.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / ctypes", "file": "releases/3-10-0-alpha-6/library/ctypes.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / ctypes.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / enum", "file": "releases/3-10-0-alpha-6/library/enum.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / enum.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / gzip", "file": "releases/3-10-0-alpha-6/library/gzip.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / gzip.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / os", "file": "releases/3-10-0-alpha-6/library/os.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / os.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / python", "file": "releases/3-10-0-alpha-6/library/python.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / python.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / readline", "file": "releases/3-10-0-alpha-6/library/readline.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / readline.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / resource", "file": "releases/3-10-0-alpha-6/library/resource.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / resource.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / sqlite3", "file": "releases/3-10-0-alpha-6/library/sqlite3.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / sqlite3.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / text", "file": "releases/3-10-0-alpha-6/library/text.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / text.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / traceback", "file": "releases/3-10-0-alpha-6/library/traceback.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / traceback.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 6 / library / xml etree elementtree", "file": "releases/3-10-0-alpha-6/library/xml-etree-elementtree.md", "summary": "Open when checking Python 3.10.0 alpha 6 / library / xml etree elementtree.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

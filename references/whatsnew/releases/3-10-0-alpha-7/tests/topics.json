@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 7 / tests / provide workaround addressing ubuntu s custom openssl security level", "file": "ubuntu-openssl-security-level-test-workaround.md", "summary": "Open when checking Python 3.10.0 alpha 7 / tests / provide workaround addressing ubuntu s custom openssl security level.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / tests / tests and documentation", "file": "releases/3-10-0-alpha-7/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 7 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

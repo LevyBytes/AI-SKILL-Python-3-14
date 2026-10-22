@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 2 / build / build and platforms", "file": "releases/3-7-0-alpha-2/build/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 alpha 2 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / build / nothing actually changed full rebuild after make regen all skipped", "file": "unchanged-regeneration-rebuild-avoidance.md", "summary": "Open when checking Python 3.7.0 alpha 2 / build / nothing actually changed full rebuild after make regen all skipped.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / build / overview", "file": "releases/3-7-0-alpha-2/build/overview.md", "summary": "Open when checking Python 3.7.0 alpha 2 / build / overview.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / build / python", "file": "releases/3-7-0-alpha-2/build/python.md", "summary": "Open when checking Python 3.7.0 alpha 2 / build / python.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / build / support bsd os dropped", "file": "releases/3-7-0-alpha-2/build/support-bsd-os-dropped.md", "summary": "Open when checking Python 3.7.0 alpha 2 / build / support bsd os dropped.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 2 / build / sys", "file": "releases/3-7-0-alpha-2/build/sys.md", "summary": "Open when checking Python 3.7.0 alpha 2 / build / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "File Formats / Python 3.8.0 alpha 1 / library / csv", "file": "releases/3-8-0-alpha-1/library/csv.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / csv.", "keywords": []},
+  {"topic": "File Formats / Python 3.8.0 alpha 1 / library / csv dictreader builds dicts place ordereddicts", "file": "releases/3-8-0-alpha-1/library/csv-dictreader-builds-dicts-place-ordereddicts.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / csv dictreader builds dicts place ordereddicts.", "keywords": []},
+  {"topic": "File Formats / Python 3.8.0 alpha 1 / library / corrected inference quote delimiter inside csv sniffer sniff case where only", "file": "releases/3-8-0-alpha-1/library/csv-final-field-quote-detection.md", "summary": "Open when checking Python 3.8.0 alpha 1 / library / corrected inference quote delimiter inside csv sniffer sniff case where only.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

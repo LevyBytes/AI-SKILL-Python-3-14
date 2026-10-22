@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "pkgutil: `pkgutil.ModuleInfo`, `pkgutil.extend_path()`, `pkgutil.get_importer()`, `pkgutil.iter_importers()`, `pkgutil.iter_modules()`", "file": "pkgutil/pkgutil-moduleinfo-class-to-pkgutil-iter-modules.md", "summary": "Open when checking the documented contracts for `pkgutil.ModuleInfo`, `pkgutil.extend_path()`, `pkgutil.get_importer()`, `pkgutil.iter_importers()`, `pkgutil.iter_modules()` in pkgutil.", "keywords": []},
+  {"topic": "pkgutil: `pkgutil.walk_packages()`, `pkgutil.get_data()`, `pkgutil.resolve_name()`", "file": "pkgutil/pkgutil-walk-packages-to-pkgutil-resolve-name.md", "summary": "Open when checking the documented contracts for `pkgutil.walk_packages()`, `pkgutil.get_data()`, `pkgutil.resolve_name()` in pkgutil.", "keywords": []},
+  {"topic": "pkgutil / Package extension utility: Dotted and colon-separated resolve_name syntax", "file": "pkgutil/w.md", "summary": "Open when checking dotted and colon-separated resolve_name syntax in pkgutil / Package extension utility.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

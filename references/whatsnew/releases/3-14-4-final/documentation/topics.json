@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.4 final / documentation / argparse", "file": "releases/3-14-4-final/documentation/argparse.md", "summary": "Open when checking Python 3.14.4 final / documentation / argparse.", "keywords": []},
+    {"topic": "Python 3.14.4 final / documentation / python", "file": "releases/3-14-4-final/documentation/python.md", "summary": "Open when checking Python 3.14.4 final / documentation / python.", "keywords": []},
+    {"topic": "Python 3.14.4 final / documentation / tests and documentation", "file": "releases/3-14-4-final/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.14.4 final / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.14.4 final / documentation / wave", "file": "releases/3-14-4-final/documentation/wave.md", "summary": "Open when checking Python 3.14.4 final / documentation / wave.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

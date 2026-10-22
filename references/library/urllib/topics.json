@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "urllib — `urllib` — URL handling modules", "file": "urllib/urllib-url-handling-modules.md", "summary": "Open when checking urllib — `urllib` — URL handling modules.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

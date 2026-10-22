@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "aifc — `aifc` — Read and write AIFF and AIFC files", "file": "aifc/aifc-read-and-write-aiff-and-aifc-files.md", "summary": "Open when checking aifc — `aifc` — Read and write AIFF and AIFC files.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

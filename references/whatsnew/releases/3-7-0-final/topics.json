@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "c api", "file": "releases/3-7-0-final/c-api/INDEX.md", "summary": "Open when checking c api.", "keywords": []},
+    {"topic": "library", "file": "releases/3-7-0-final/library/INDEX.md", "summary": "Open when checking library.", "keywords": []},
+    {"topic": "release overview", "file": "releases/3-7-0-final/release-overview/INDEX.md", "summary": "Open when checking release overview.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

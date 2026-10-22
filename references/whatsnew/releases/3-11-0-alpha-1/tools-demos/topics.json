@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / tools demos / address regular expression warning within c analyzer script", "file": "releases/3-11-0-alpha-1/tools-demos/address-regular-expression-warning-within-c-analyzer-script.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tools demos / address regular expression warning within c analyzer script.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tools demos / distutils", "file": "releases/3-11-0-alpha-1/tools-demos/distutils.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tools demos / distutils.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tools demos / functions and types", "file": "releases/3-11-0-alpha-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tools demos / patchcheck work out proper base branch name own had", "file": "releases/3-11-0-alpha-1/tools-demos/patchcheck-work-out-proper-base-branch-name-own-had.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tools demos / patchcheck work out proper base branch name own had.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / tools demos / pydoc", "file": "releases/3-11-0-alpha-1/tools-demos/pydoc.md", "summary": "Open when checking Python 3.11.0 alpha 1 / tools demos / pydoc.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

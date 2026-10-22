@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "references/reference", "topics": [
+  {"topic": "The python language reference", "file": "the-python-language-reference/INDEX.md", "summary": "Open when checking the python language reference.", "keywords": []},
+  {"topic": "Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+  {"topic": "Introduction", "file": "introduction/INDEX.md", "summary": "Open when checking introduction.", "keywords": []},
+  {"topic": "Lexical analysis", "file": "lexical-analysis/INDEX.md", "summary": "Open when checking lexical analysis.", "keywords": []},
+  {"topic": "Data model", "file": "data-model/INDEX.md", "summary": "Open when checking data model.", "keywords": []},
+  {"topic": "Execution model", "file": "execution-model/INDEX.md", "summary": "Open when checking execution model.", "keywords": []},
+  {"topic": "Import", "file": "import/INDEX.md", "summary": "Open when checking import.", "keywords": []},
+  {"topic": "Expressions", "file": "expressions/INDEX.md", "summary": "Open when checking expressions.", "keywords": []},
+  {"topic": "Simple statements", "file": "simple-statements/INDEX.md", "summary": "Open when checking simple statements.", "keywords": []},
+  {"topic": "Compound statements", "file": "compound-statements/INDEX.md", "summary": "Open when checking compound statements.", "keywords": []},
+  {"topic": "Top level components", "file": "top-level-components/INDEX.md", "summary": "Open when checking top level components.", "keywords": []},
+  {"topic": "Grammar", "file": "grammar/INDEX.md", "summary": "Open when checking grammar.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

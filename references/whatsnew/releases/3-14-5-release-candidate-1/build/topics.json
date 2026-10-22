@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.5 release candidate 1 / build / build and platforms", "file": "releases/3-14-5-release-candidate-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / build / imports and modules", "file": "releases/3-14-5-release-candidate-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / build / keep apple clang out jit builds since arrives without", "file": "releases/3-14-5-release-candidate-1/build/keep-apple-clang-out-jit-builds-since-arrives-without.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / build / keep apple clang out jit builds since arrives without.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / build / random", "file": "releases/3-14-5-release-candidate-1/build/random.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / build / random.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

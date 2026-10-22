@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 3 / build / build and platforms", "file": "releases/3-11-0-alpha-3/build/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / building python visual studio msvc v143 vs version possible", "file": "releases/3-11-0-alpha-3/build/building-python-visual-studio-msvc-v143-vs-version-possible.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / building python visual studio msvc v143 vs version possible.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / bump config guess config sub", "file": "releases/3-11-0-alpha-3/build/bump-config-guess-config-sub.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / bump config guess config sub.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / compiler and parser", "file": "releases/3-11-0-alpha-3/build/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / dbm", "file": "releases/3-11-0-alpha-3/build/dbm.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / dbm.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / decimal", "file": "releases/3-11-0-alpha-3/build/decimal.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / decimal.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / execute smelly py tool srcdir", "file": "releases/3-11-0-alpha-3/build/execute-smelly-py-tool-srcdir.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / execute smelly py tool srcdir.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / files and paths", "file": "releases/3-11-0-alpha-3/build/files-and-paths.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / hashlib", "file": "releases/3-11-0-alpha-3/build/hashlib.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / hashlib.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / imports and modules", "file": "releases/3-11-0-alpha-3/build/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / marshal", "file": "releases/3-11-0-alpha-3/build/marshal.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / marshal.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / modules", "file": "releases/3-11-0-alpha-3/build/modules.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / platform", "file": "releases/3-11-0-alpha-3/build/platform.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / platform.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / provide autoconf helpers covering saving restoring environment variables save env", "file": "autoconf-environment-save-restore-helpers.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / provide autoconf helpers covering saving restoring environment variables save env.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / pyexpat", "file": "releases/3-11-0-alpha-3/build/pyexpat.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / pyexpat.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / python", "file": "releases/3-11-0-alpha-3/build/python.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / python.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / signal", "file": "releases/3-11-0-alpha-3/build/signal.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / signal.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / socket", "file": "releases/3-11-0-alpha-3/build/socket.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / socket.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / sqlite3", "file": "releases/3-11-0-alpha-3/build/sqlite3.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / sqlite3.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / build / zlib", "file": "releases/3-11-0-alpha-3/build/zlib.md", "summary": "Open when checking Python 3.11.0 alpha 3 / build / zlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

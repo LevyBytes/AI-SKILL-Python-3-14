@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "listener", "file": "references/examples/queue-logging/listener.py", "summary": "Open when checking listener.", "keywords": []},
+    {"topic": "run_queue", "file": "references/examples/queue-logging/run_queue.py", "summary": "Open when checking run_queue.", "keywords": []},
+    {"topic": "worker", "file": "references/examples/queue-logging/worker.py", "summary": "Open when checking worker.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

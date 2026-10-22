@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Deprecated / What's New In Python 3.3 / Unsupported Operating Systems", "file": "release-3-3/unsupported-operating-systems.md", "summary": "Open when checking What's New In Python 3.3 / Unsupported Operating Systems.", "keywords": []},
+  {"topic": "Deprecated / What's New In Python 3.3 / Deprecated Python modules, functions and methods — abc, ftplib, importlib, os, subprocess, time", "file": "release-3-3/deprecated-python-modules-functions-and-methods.md", "summary": "Open when checking What's New In Python 3.3 / Deprecated Python modules, functions and methods — abc, ftplib, importlib, os, subprocess, time.", "keywords": []},
+  {"topic": "Deprecated / What's New In Python 3.3 / Deprecated functions and types of the C API", "file": "release-3-3/deprecated-functions-and-types-of-the-c-api.md", "summary": "Open when checking What's New In Python 3.3 / Deprecated functions and types of the C API.", "keywords": []},
+  {"topic": "Deprecated / What's New In Python 3.3 / Deprecated features — array", "file": "release-3-3/deprecated-features.md", "summary": "Open when checking What's New In Python 3.3 / Deprecated features — array.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

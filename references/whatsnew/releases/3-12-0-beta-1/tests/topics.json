@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 beta 1 / tests / added regression coverage how unittest mock propertymock behaves", "file": "property-mock-regression-tests.md", "summary": "Open when checking Python 3.12.0 beta 1 / tests / added regression coverage how unittest mock propertymock behaves.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / tests / os", "file": "releases/3-12-0-beta-1/tests/os.md", "summary": "Open when checking Python 3.12.0 beta 1 / tests / os.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / tests / repair use poll inside test epoll s test control and wait", "file": "releases/3-12-0-beta-1/tests/repair-use-poll-inside-test-epoll-s-test-control-and-wait.md", "summary": "Open when checking Python 3.12.0 beta 1 / tests / repair use poll inside test epoll s test control and wait.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / tests / restrict test configure screen x11 given neither display environment variable nor", "file": "tk-screen-tests-without-x11-display.md", "summary": "Open when checking Python 3.12.0 beta 1 / tests / restrict test configure screen x11 given neither display environment variable nor.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / tests / revise test pack configure in test place configure in match how tk formats error messages", "file": "tk-pack-place-error-message-tests.md", "summary": "Open when checking Python 3.12.0 beta 1 / tests / revise test pack configure in test place configure in match how tk formats error messages.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / tests / zoneinfo", "file": "releases/3-12-0-beta-1/tests/zoneinfo.md", "summary": "Open when checking Python 3.12.0 beta 1 / tests / zoneinfo.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

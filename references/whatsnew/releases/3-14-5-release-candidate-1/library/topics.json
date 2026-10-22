@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.5 release candidate 1 / library / asyncio", "file": "releases/3-14-5-release-candidate-1/library/asyncio.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / asyncio.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / binascii", "file": "releases/3-14-5-release-candidate-1/library/binascii.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / binascii.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / build and platforms", "file": "releases/3-14-5-release-candidate-1/library/build-and-platforms.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / compression zstd", "file": "releases/3-14-5-release-candidate-1/library/compression-zstd.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / compression zstd.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / configparser", "file": "releases/3-14-5-release-candidate-1/library/configparser.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / configparser.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / csv", "file": "releases/3-14-5-release-candidate-1/library/csv.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / csv.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / ctypes", "file": "releases/3-14-5-release-candidate-1/library/ctypes.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / ctypes.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / dataclasses", "file": "releases/3-14-5-release-candidate-1/library/dataclasses.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / dataclasses.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / email", "file": "releases/3-14-5-release-candidate-1/library/email.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / email.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / ensurepip", "file": "releases/3-14-5-release-candidate-1/library/ensurepip.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / ensurepip.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / json", "file": "releases/3-14-5-release-candidate-1/library/json.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / json.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / mailbox", "file": "releases/3-14-5-release-candidate-1/library/mailbox.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / mailbox.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / multiprocessing", "file": "releases/3-14-5-release-candidate-1/library/multiprocessing.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / pickle", "file": "releases/3-14-5-release-candidate-1/library/pickle.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / pickle.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / random", "file": "releases/3-14-5-release-candidate-1/library/random.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / random.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / runpy", "file": "releases/3-14-5-release-candidate-1/library/runpy.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / runpy.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / smtplib", "file": "releases/3-14-5-release-candidate-1/library/smtplib.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / smtplib.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / text and unicode", "file": "releases/3-14-5-release-candidate-1/library/text-and-unicode.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / timeit", "file": "releases/3-14-5-release-candidate-1/library/timeit.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / timeit.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / typing", "file": "releases/3-14-5-release-candidate-1/library/typing.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / typing.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / uuid", "file": "releases/3-14-5-release-candidate-1/library/uuid.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / uuid.", "keywords": []},
+    {"topic": "Python 3.14.5 release candidate 1 / library / xml etree elementtree", "file": "releases/3-14-5-release-candidate-1/library/xml-etree-elementtree.md", "summary": "Open when checking Python 3.14.5 release candidate 1 / library / xml etree elementtree.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

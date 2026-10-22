@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.5 release candidate 1 / windows / corrected windowsconsoleio write given empty data", "file": "releases/3-6-5-release-candidate-1/windows/corrected-windowsconsoleio-write-given-empty-data.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / corrected windowsconsoleio write given empty data.", "keywords": []},
+    {"topic": "Python 3.6.5 release candidate 1 / windows / files and paths", "file": "releases/3-6-5-release-candidate-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.5 release candidate 1 / windows / imports and modules", "file": "releases/3-6-5-release-candidate-1/windows/imports-and-modules.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.5 release candidate 1 / windows / memory and lifetimes", "file": "releases/3-6-5-release-candidate-1/windows/memory-and-lifetimes.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.6.5 release candidate 1 / windows / os", "file": "releases/3-6-5-release-candidate-1/windows/os.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / os.", "keywords": []},
+    {"topic": "Python 3.6.5 release candidate 1 / windows / text and unicode", "file": "releases/3-6-5-release-candidate-1/windows/text-and-unicode.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / text and unicode.", "keywords": []},
+    {"topic": "Python 3.6.5 release candidate 1 / windows / uuid", "file": "releases/3-6-5-release-candidate-1/windows/uuid.md", "summary": "Open when checking Python 3.6.5 release candidate 1 / windows / uuid.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

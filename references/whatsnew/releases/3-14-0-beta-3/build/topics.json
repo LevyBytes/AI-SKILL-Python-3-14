@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 beta 3 / build / build and platforms", "file": "releases/3-14-0-beta-3/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 beta 3 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / build / files and paths", "file": "releases/3-14-0-beta-3/build/files-and-paths.md", "summary": "Open when checking Python 3.14.0 beta 3 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / build / intro", "file": "releases/3-14-0-beta-3/build/intro.md", "summary": "Open when checking Python 3.14.0 beta 3 / build / intro.", "keywords": []},
+    {"topic": "Python 3.14.0 beta 3 / build / threading", "file": "releases/3-14-0-beta-3/build/threading.md", "summary": "Open when checking Python 3.14.0 beta 3 / build / threading.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "topics": [
+  {"topic": "timeit — Basic Examples", "file": "timeit/basic-examples.md", "summary": "Open when checking timeit — Basic Examples.", "keywords": []},
+  {"topic": "timeit — Command-Line Interface", "file": "timeit/command-line-interface.md", "summary": "Open when checking timeit — Command-Line Interface.", "keywords": []},
+  {"topic": "timeit — Examples — Code example: def test():", "file": "timeit/examples-code-example-def-test.md", "summary": "Open when checking timeit — Examples — Code example: def test():.", "keywords": []},
+  {"topic": "timeit — Examples — Section introduction and initial examples", "file": "timeit/examples-section-introduction-and-initial-examples.md", "summary": "Open when checking timeit — Examples — Section introduction and initial examples.", "keywords": []},
+  {"topic": "timeit — `timeit` — Measure execution time of small code snippets", "file": "timeit/timeit-measure-execution-time-of-small-code-snippets.md", "summary": "Open when checking timeit — `timeit` — Measure execution time of small code snippets.", "keywords": []},
+  {"topic": "timeit: `timeit.timeit()`, `timeit.repeat()`, `timeit.default_timer()`", "file": "timeit/timeit-timeit-to-timeit-default-timer.md", "summary": "Open when checking the documented contracts for `timeit.timeit()`, `timeit.repeat()`, `timeit.default_timer()` in timeit.", "keywords": []},
+  {"topic": "timeit / Python Interface: `timeit.Timer`, `timeit()`, `autorange()`, `repeat()`, `print_exc()`", "file": "timeit/timeit-timer-class-to-timeit-timer-print-exc.md", "summary": "Open when checking the documented contracts for `timeit.Timer`, `timeit()`, `autorange()`, `repeat()`, `print_exc()` in timeit / Python Interface.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

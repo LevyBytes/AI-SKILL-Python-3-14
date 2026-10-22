@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Language and standard library pending removal in 3.13: aifc; audioop; cgi; cgitb; chunk; crypt; imghdr; mailcap; msilib; nis; nntplib; ossaudiodev; pipes; sndhdr; spwd; sunau; telnetlib", "file": "language-library-removals/python-3-13/aifc-through-telnetlib.md", "summary": "Open when checking Language and standard library pending removal in 3.13: aifc; audioop; cgi; cgitb; chunk; crypt; imghdr; mailcap; msilib; nis; nntplib; ossaudiodev; pipes; sndhdr; spwd; sunau; telnetlib.", "keywords": []},
+    {"topic": "Language and standard library pending removal in 3.13: uu; xdrlib; lib2to3; configparser.LegacyInterpolation; locale.resetlocale(); turtle.RawTurtle.settiltangle(); unittest.findTestCases(); unittest.getTestCaseNames(); unittest.makeSuite(); unittest.TestProgram.usageExit(); webbrowser.MacOSX; classmethod", "file": "language-library-removals/python-3-13/uu-through-classmethod.md", "summary": "Open when checking Language and standard library pending removal in 3.13: uu; xdrlib; lib2to3; configparser.LegacyInterpolation; locale.resetlocale(); turtle.RawTurtle.settiltangle(); unittest.findTestCases(); unittest.getTestCaseNames(); unittest.makeSuite(); unittest.TestProgram.usageExit(); webbrowser.MacOSX; classmethod.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

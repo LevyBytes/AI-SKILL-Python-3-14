@@ -1,0 +1,17 @@
+{"schema_version": 1, "topics": [
+  {"topic": "exceptions: Assertion, attribute, import and lookup exceptions", "file": "exceptions/assertionerror-to-nameerror.md", "summary": "Open when checking assertion, attribute, import and lookup exceptions in exceptions.", "keywords": []},
+  {"topic": "exceptions: `OSError`, `PythonFinalizationError`", "file": "exceptions/notimplementederror-to-pythonfinalizationerror.md", "summary": "Open when checking the documented contracts for `OSError`, `PythonFinalizationError` in exceptions.", "keywords": []},
+  {"topic": "exceptions: `SyntaxError`", "file": "exceptions/recursionerror-to-taberror.md", "summary": "Open when checking the documented contracts for `SyntaxError` in exceptions.", "keywords": []},
+  {"topic": "exceptions: Interpreter, exit and type-error exceptions", "file": "exceptions/systemerror-to-typeerror.md", "summary": "Open when checking interpreter, exit and type-error exceptions in exceptions.", "keywords": []},
+  {"topic": "exceptions: Type-error guidance and Unicode/local-name exceptions", "file": "exceptions/unboundlocalerror-to-windowserror.md", "summary": "Open when checking type-error guidance and Unicode/local-name exceptions in exceptions.", "keywords": []},
+  {"topic": "Exception context", "file": "exceptions/baseexception-context-to-baseexception-suppress-context.md", "summary": "Open when checking Exception context.", "keywords": []},
+  {"topic": "Base classes", "file": "exceptions/baseexception-to-lookuperror.md", "summary": "Open when checking Base classes.", "keywords": []},
+  {"topic": "OS exceptions", "file": "exceptions/blockingioerror-to-timeouterror.md", "summary": "Open when checking OS exceptions.", "keywords": []},
+  {"topic": "Built-in Exceptions", "file": "exceptions/built-in-exceptions.md", "summary": "Open when checking Built-in Exceptions.", "keywords": []},
+  {"topic": "exceptions: `ExceptionGroup`, `BaseExceptionGroup`, `subgroup()`, `split()`", "file": "exceptions/exceptiongroup-to-split.md", "summary": "Open when checking the documented contracts for `ExceptionGroup`, `BaseExceptionGroup`, `subgroup()`, `split()` in exceptions.", "keywords": []},
+  {"topic": "exceptions: `derive()`", "file": "exceptions/derive.md", "summary": "Open when checking the documented contracts for `derive()` in exceptions.", "keywords": []},
+  {"topic": "Exception hierarchy", "file": "exceptions/exception-hierarchy.md", "summary": "Open when checking Exception hierarchy.", "keywords": []},
+  {"topic": "Inheriting from built-in exceptions", "file": "exceptions/inheriting-from-built-in-exceptions.md", "summary": "Open when checking Inheriting from built-in exceptions.", "keywords": []},
+  {"topic": "Warnings", "file": "exceptions/warning-to-resourcewarning.md", "summary": "Open when checking Warnings.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

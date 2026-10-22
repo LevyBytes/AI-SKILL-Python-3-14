@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "msvcrt — Other Functions", "file": "msvcrt/msvcrt-heapmin-to-msvcrt-libraries-assembly-name-prefix.md", "summary": "Open when checking msvcrt — Other Functions.", "keywords": []},
+    {"topic": "msvcrt — Console I/O", "file": "msvcrt/msvcrt-kbhit-to-msvcrt-ungetwch.md", "summary": "Open when checking msvcrt — Console I/O.", "keywords": []},
+    {"topic": "msvcrt — File Operations", "file": "msvcrt/msvcrt-locking-to-msvcrt-get-osfhandle.md", "summary": "Open when checking msvcrt — File Operations.", "keywords": []},
+    {"topic": "msvcrt — `msvcrt` — Useful routines from the MS VC++ runtime", "file": "msvcrt/msvcrt-useful-routines-from-the-ms-vc-runtime.md", "summary": "Open when checking msvcrt — `msvcrt` — Useful routines from the MS VC++ runtime.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

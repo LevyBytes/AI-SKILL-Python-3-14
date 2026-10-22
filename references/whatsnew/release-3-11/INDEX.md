@@ -1,0 +1,92 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Upstream feature guide navigation for Python 3.11. [Overview and scope / Upstream feature guide navigation for Python 3.11](release-overview.md).
+- Open when checking What's New In Python 3.11 / Summary — Release highlights — sys, tomllib. [Summary – Release highlights / What's New In Python 3.11 / Summary — Release highlights — sys, tomllib](summary-release-highlights.md).
+- Open when checking What's New In Python 3.11 / PEP 657: Fine-grained error locations in tracebacks — dis. [New Features / What's New In Python 3.11 / PEP 657: Fine-grained error locations in tracebacks — dis](pep-657-fine-grained-error-locations-in-tracebacks.md).
+- Open when checking What's New In Python 3.11 / PEP 654: Exception Groups and `except*`. [New Features / What's New In Python 3.11 / PEP 654: Exception Groups and `except*`](pep-654-exception-groups-and-except.md).
+- Open when checking What's New In Python 3.11 / PEP 678: Exceptions can be enriched with notes. [New Features / What's New In Python 3.11 / PEP 678: Exceptions can be enriched with notes](pep-678-exceptions-can-be-enriched-with-notes.md).
+- Open when checking What's New In Python 3.11 / Windows `py.exe` launcher improvements. [New Features / What's New In Python 3.11 / Windows `py.exe` launcher improvements](windows-py-exe-launcher-improvements.md).
+- Open when checking What's New In Python 3.11 / New Features Related to Type Hints — typing. [New Features Related to Type Hints / What's New In Python 3.11 / New Features Related to Type Hints — typing](new-features-related-to-type-hints.md).
+- Open when checking What's New In Python 3.11 / PEP 646: Variadic generics — typing. [New Features Related to Type Hints / What's New In Python 3.11 / PEP 646: Variadic generics — typing](pep-646-variadic-generics.md).
+- Open when checking What's New In Python 3.11 / PEP 655: Marking individual `TypedDict` items as required or not-required — typing. [New Features Related to Type Hints / What's New In Python 3.11 / PEP 655: Marking individual `TypedDict` items as required or not-required — typing](pep655-required-and-optional-typeddict-items.md).
+- Open when checking What's New In Python 3.11 / PEP 673: `Self` type — typing. [New Features Related to Type Hints / What's New In Python 3.11 / PEP 673: `Self` type — typing](pep-673-self-type.md).
+- Open when checking What's New In Python 3.11 / PEP 675: Arbitrary literal string type — typing. [New Features Related to Type Hints / What's New In Python 3.11 / PEP 675: Arbitrary literal string type — typing](pep-675-arbitrary-literal-string-type.md).
+- Open when checking What's New In Python 3.11 / PEP 681: Data class transforms — dataclasses, typing. [New Features Related to Type Hints / What's New In Python 3.11 / PEP 681: Data class transforms — dataclasses, typing](pep-681-data-class-transforms.md).
+- Open when checking What's New In Python 3.11 / PEP 563 may not be the future. [New Features Related to Type Hints / What's New In Python 3.11 / PEP 563 may not be the future](pep-563-may-not-be-the-future.md).
+- Open when checking What's New In Python 3.11 / Other Language Changes — collections, contextlib, copy, datetime, pickle, string, sys, weakref. [Other Language Changes / What's New In Python 3.11 / Other Language Changes — collections, contextlib, copy, datetime, pickle, string, sys, weakref](other-language-changes.md).
+- Open when checking What's New In Python 3.11 / Other CPython Implementation Changes — sys. [Other CPython Implementation Changes / What's New In Python 3.11 / Other CPython Implementation Changes — sys](other-cpython-implementation-changes.md).
+- Open when checking What's New In Python 3.11 / New Modules — tomllib, wsgiref. [New Modules / What's New In Python 3.11 / New Modules — tomllib, wsgiref](new-modules.md).
+- Open when checking What's New In Python 3.11 / asyncio — asyncio-eventloop, asyncio-runner, asyncio-stream, asyncio-sync, asyncio-task. [Improved Modules / What's New In Python 3.11 / asyncio — asyncio-eventloop, asyncio-runner, asyncio-stream, asyncio-sync, asyncio-task](asyncio.md).
+- Open when checking What's New In Python 3.11 / contextlib — contextlib, os. [Improved Modules / What's New In Python 3.11 / contextlib — contextlib, os](contextlib.md).
+- Open when checking What's New In Python 3.11 / dataclasses. [Improved Modules / What's New In Python 3.11 / dataclasses](dataclasses.md).
+- Open when checking What's New In Python 3.11 / datetime — datetime. [Improved Modules / What's New In Python 3.11 / datetime — datetime](datetime.md).
+- Open when checking What's New In Python 3.11 / enum — enum, re, types. [Improved Modules / What's New In Python 3.11 / enum — enum, re, types](enum.md).
+- Open when checking What's New In Python 3.11 / fcntl. [Improved Modules / What's New In Python 3.11 / fcntl](fcntl.md).
+- Open when checking What's New In Python 3.11 / fractions — fractions. [Improved Modules / What's New In Python 3.11 / fractions — fractions](fractions.md).
+- Open when checking What's New In Python 3.11 / functools — functools, types, typing. [Improved Modules / What's New In Python 3.11 / functools — functools, types, typing](functools.md).
+- Open when checking What's New In Python 3.11 / gzip — gzip, zlib. [Improved Modules / What's New In Python 3.11 / gzip — gzip, zlib](gzip.md).
+- Open when checking What's New In Python 3.11 / hashlib — hashlib. [Improved Modules / What's New In Python 3.11 / hashlib — hashlib](hashlib.md).
+- Open when checking What's New In Python 3.11 / IDLE and idlelib. [Improved Modules / What's New In Python 3.11 / IDLE and idlelib](idle-and-idlelib.md).
+- Open when checking What's New In Python 3.11 / inspect — inspect, types. [Improved Modules / What's New In Python 3.11 / inspect — inspect, types](inspect.md).
+- Open when checking What's New In Python 3.11 / locale — locale, os. [Improved Modules / What's New In Python 3.11 / locale — locale, os](locale.md).
+- Open when checking What's New In Python 3.11 / logging — logging, logging.handlers. [Improved Modules / What's New In Python 3.11 / logging — logging, logging.handlers](logging.md).
+- Open when checking What's New In Python 3.11 / math — math. [Improved Modules / What's New In Python 3.11 / math — math](math.md).
+- Open when checking What's New In Python 3.11 / operator. [Improved Modules / What's New In Python 3.11 / operator](operator.md).
+- Open when checking What's New In Python 3.11 / os — os. [Improved Modules / What's New In Python 3.11 / os — os](os.md).
+- Open when checking What's New In Python 3.11 / pathlib — os, pathlib. [Improved Modules / What's New In Python 3.11 / pathlib — os, pathlib](pathlib.md).
+- Open when checking What's New In Python 3.11 / re. [Improved Modules / What's New In Python 3.11 / re](re.md).
+- Open when checking What's New In Python 3.11 / shutil — shutil. [Improved Modules / What's New In Python 3.11 / shutil — shutil](shutil.md).
+- Open when checking What's New In Python 3.11 / socket — socket. [Improved Modules / What's New In Python 3.11 / socket — socket](socket.md).
+- Open when checking What's New In Python 3.11 / sqlite3 — sqlite3. [Improved Modules / What's New In Python 3.11 / sqlite3 — sqlite3](sqlite3.md).
+- Open when checking What's New In Python 3.11 / string — string. [Improved Modules / What's New In Python 3.11 / string — string](string.md).
+- Open when checking What's New In Python 3.11 / sys — sys. [Improved Modules / What's New In Python 3.11 / sys — sys](sys.md).
+- Open when checking What's New In Python 3.11 / sysconfig — sysconfig, venv. [Improved Modules / What's New In Python 3.11 / sysconfig — sysconfig, venv](sysconfig.md).
+- Open when checking What's New In Python 3.11 / tempfile — io, tempfile. [Improved Modules / What's New In Python 3.11 / tempfile — io, tempfile](tempfile.md).
+- Open when checking What's New In Python 3.11 / threading — threading, time. [Improved Modules / What's New In Python 3.11 / threading — threading, time](threading.md).
+- Open when checking What's New In Python 3.11 / time — time. [Improved Modules / What's New In Python 3.11 / time — time](time.md).
+- Open when checking What's New In Python 3.11 / tkinter — sys. [Improved Modules / What's New In Python 3.11 / tkinter — sys](tkinter.md).
+- Open when checking What's New In Python 3.11 / traceback — traceback. [Improved Modules / What's New In Python 3.11 / traceback — traceback](traceback.md).
+- Open when checking What's New In Python 3.11 / typing — typing. [Improved Modules / What's New In Python 3.11 / typing — typing](typing.md).
+- Open when checking What's New In Python 3.11 / unicodedata. [Improved Modules / What's New In Python 3.11 / unicodedata](unicodedata.md).
+- Open when checking What's New In Python 3.11 / unittest — unittest. [Improved Modules / What's New In Python 3.11 / unittest — unittest](unittest.md).
+- Open when checking What's New In Python 3.11 / venv — sysconfig. [Improved Modules / What's New In Python 3.11 / venv — sysconfig](venv.md).
+- Open when checking What's New In Python 3.11 / warnings — warnings. [Improved Modules / What's New In Python 3.11 / warnings — warnings](warnings.md).
+- Open when checking What's New In Python 3.11 / zipfile — zipfile. [Improved Modules / What's New In Python 3.11 / zipfile — zipfile](zipfile.md).
+- Open when checking What's New In Python 3.11 / Optimizations — asyncio-protocol, math, statistics, unicodedata. [Optimizations / What's New In Python 3.11 / Optimizations — asyncio-protocol, math, statistics, unicodedata](optimizations.md).
+- Open when checking What's New In Python 3.11 / Faster CPython. [Faster CPython / What's New In Python 3.11 / Faster CPython](faster-cpython.md).
+- Open when checking What's New In Python 3.11 / Faster Startup / Frozen imports / Static code objects. [Faster CPython / What's New In Python 3.11 / Faster Startup / Frozen imports / Static code objects](faster-startup-frozen-imports-static-code-objects.md).
+- Open when checking What's New In Python 3.11 / Faster Runtime / Cheaper, lazy Python frames — inspect, sys. [Faster CPython / What's New In Python 3.11 / Faster Runtime / Cheaper, lazy Python frames — inspect, sys](faster-runtime-cheaper-lazy-python-frames.md).
+- Open when checking What's New In Python 3.11 / Faster Runtime / Inlined Python function calls — sys. [Faster CPython / What's New In Python 3.11 / Faster Runtime / Inlined Python function calls — sys](faster-runtime-inlined-python-function-calls.md).
+- Open when checking What's New In Python 3.11 / Faster Runtime / PEP 659: Specializing Adaptive Interpreter. [Faster CPython / What's New In Python 3.11 / Faster Runtime / PEP 659: Specializing Adaptive Interpreter](faster-runtime-pep-659-specializing-adaptive-interpreter.md).
+- Open when checking What's New In Python 3.11 / Misc — re. [Faster CPython / What's New In Python 3.11 / Misc — re](misc.md).
+- Open when checking What's New In Python 3.11 / FAQ / How should I write my code to utilize these speedups? [Faster CPython / What's New In Python 3.11 / FAQ / How should I write my code to utilize these speedups?](faq-how-should-i-write-my-code-to-utilize-these-speedups.md).
+- Open when checking What's New In Python 3.11 / FAQ / Will CPython 3.11 use more memory? [Faster CPython / What's New In Python 3.11 / FAQ / Will CPython 3.11 use more memory?](faq-will-cpython-3-11-use-more-memory.md).
+- Open when checking What's New In Python 3.11 / FAQ / I don’t see any speedups in my workload. Why? [Faster CPython / What's New In Python 3.11 / FAQ / I don’t see any speedups in my workload. Why?](faq-i-don-t-see-any-speedups-in-my-workload-why.md).
+- Open when checking What's New In Python 3.11 / FAQ / Is there a JIT compiler? [Faster CPython / What's New In Python 3.11 / FAQ / Is there a JIT compiler?](faq-is-there-a-jit-compiler.md).
+- Open when checking What's New In Python 3.11 / About. [Faster CPython / What's New In Python 3.11 / About](about.md).
+- Open when checking What's New In Python 3.11 / CPython bytecode changes — dis. [CPython bytecode changes / What's New In Python 3.11 / CPython bytecode changes — dis](cpython-bytecode-changes.md).
+- Open when checking What's New In Python 3.11 / New opcodes — dis. [CPython bytecode changes / What's New In Python 3.11 / New opcodes — dis](new-opcodes.md).
+- Open when checking What's New In Python 3.11 / Replaced opcodes. [CPython bytecode changes / What's New In Python 3.11 / Replaced opcodes](replaced-opcodes.md).
+- Open when checking What's New In Python 3.11 / Changed/removed opcodes — dis. [CPython bytecode changes / What's New In Python 3.11 / Changed/removed opcodes — dis](changed-removed-opcodes.md).
+- Open when checking What's New In Python 3.11 / Language/Builtins. [Deprecated / What's New In Python 3.11 / Language/Builtins](language-builtins.md).
+- Open when checking What's New In Python 3.11 / Modules. [Deprecated / What's New In Python 3.11 / Modules](modules.md).
+- Open when checking What's New In Python 3.11 / Standard Library — configparser, importlib.resources, locale, re, turtle, typing. [Deprecated / What's New In Python 3.11 / Standard Library — configparser, importlib.resources, locale, re, turtle, typing](standard-library.md).
+- Open when checking What's New In Python 3.11 / Build Changes — tkinter. [Build Changes / What's New In Python 3.11 / Build Changes — tkinter](build-changes.md).
+- Open when checking trashcan lifecycle and extension porting in Python 3.11 changes. [Python 3.11 changes: Trashcan lifecycle and extension porting](c-api-trashcan-lifecycle-migration.md).
+- Open when checking immutable heap types and vectorcall migration in Python 3.11 changes. [Python 3.11 changes: Immutable heap types and vectorcall migration](immutable-heap-types-and-vectorcall.md).
+- Open when checking limited API header dependencies and frame accessors in Python 3.11 changes. [Python 3.11 changes: Limited API header dependencies and frame accessors](limited-api-header-dependencies.md).
+- Open when checking frame member accessor migration in Python 3.11 changes. [Python 3.11 changes: Frame member accessor migration](c-api-frame-accessor-migration.md).
+- Open when checking What's New In Python 3.11 / C API Changes / Porting to Python 3.11 — sys. [C API Changes / What's New In Python 3.11 / C API Changes / Porting to Python 3.11 — sys](thread-state-frame-access-migration.md).
+- Open when checking What's New In Python 3.11 / C API Changes / New Features. [C API Changes / What's New In Python 3.11 / C API Changes / New Features](c-api-changes-new-features.md).
+- Open when checking What's New In Python 3.11 / Porting to Python 3.11 — ast, asyncio-eventloop, calendar, codecs, concurrent.futures, fileinput, io, locale, pdb, random, re. [C API Changes / What's New In Python 3.11 / Porting to Python 3.11 — ast, asyncio-eventloop, calendar, codecs, concurrent.futures, fileinput, io, locale, pdb, random, re](porting-to-python-3-11.md).
+- Open when checking What's New In Python 3.11 / Deprecated. [C API Changes / What's New In Python 3.11 / Deprecated](deprecated.md).
+- Open when checking What's New In Python 3.11 / C API Changes / Deprecated. [C API Changes / What's New In Python 3.11 / C API Changes / Deprecated](c-api-changes-deprecated.md).
+- Open when checking What's New In Python 3.11 / C API Changes / Pending Removal in Python 3.12. [C API Changes / What's New In Python 3.11 / C API Changes / Pending Removal in Python 3.12](c-api-changes-pending-removal-in-python-3-12.md).
+- Open when checking What's New In Python 3.11 / Pending Removal in Python 3.12 — typing. [C API Changes / What's New In Python 3.11 / Pending Removal in Python 3.12 — typing](pending-removal-in-python-3-12.md).
+- Open when checking What's New In Python 3.11 / Removed — asyncio-eventloop, binascii, fileinput, gettext, inspect, wsgiref, xml.dom.pulldom. [C API Changes / What's New In Python 3.11 / Removed — asyncio-eventloop, binascii, fileinput, gettext, inspect, wsgiref, xml.dom.pulldom](removed.md).
+- Open when checking What's New In Python 3.11 / C API Changes / Removed. [C API Changes / What's New In Python 3.11 / C API Changes / Removed](c-api-changes-removed.md).
+- Open when checking What's New In Python 3.11 / tarfile — shutil, tarfile. [Notable changes in 3.11.4 / What's New In Python 3.11 / tarfile — shutil, tarfile](tarfile.md).
+- Open when checking What's New In Python 3.11 / OpenSSL. [Notable changes in 3.11.5 / What's New In Python 3.11 / OpenSSL](openssl.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

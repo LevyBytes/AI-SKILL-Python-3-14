@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / contextvars", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/contextvars.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / contextvars.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / exceptions and tracebacks", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / exceptions", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/exceptions.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / files and paths", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/files-and-paths.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / files and paths.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / functions and types", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/functions-and-types.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / imports and modules", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / repair how jit copes large count local variables", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/repair-how-jit-copes-large-count-local-variables.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / repair how jit copes large count local variables.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / stdtypes", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/stdtypes.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / stdtypes.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 3 / core and builtins / warnings", "file": "releases/3-14-0-release-candidate-3/core-and-builtins/warnings.md", "summary": "Open when checking Python 3.14.0 release candidate 3 / core and builtins / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

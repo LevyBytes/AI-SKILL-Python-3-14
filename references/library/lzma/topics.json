@@ -1,0 +1,13 @@
+{"schema_version": 1, "topics": [
+  {"topic": "lzma — Examples", "file": "lzma/examples.md", "summary": "Open when checking lzma — Examples.", "keywords": []},
+  {"topic": "lzma: `lzma.LZMACompressor`", "file": "lzma/lzma-lzmacompressor-class.md", "summary": "Open when checking the documented contracts for `lzma.LZMACompressor` in lzma.", "keywords": []},
+  {"topic": "lzma.LZMACompressor: `compress()`, `flush()`", "file": "lzma/lzma-lzmacompressor-compress-to-lzma-lzmacompressor-flush.md", "summary": "Open when checking the documented contracts for `compress()`, `flush()` in lzma.LZMACompressor.", "keywords": []},
+  {"topic": "lzma / Compressing and decompressing data in memory: `lzma.LZMADecompressor`, `decompress()`", "file": "lzma-decompressor-contract.md", "summary": "Open when checking the documented contracts for `lzma.LZMADecompressor`, `decompress()` in lzma / Compressing and decompressing data in memory.", "keywords": []},
+  {"topic": "lzma: `lzma.compress()`, `lzma.decompress()`", "file": "lzma/lzma-compress-to-lzma-decompress.md", "summary": "Open when checking the documented contracts for `lzma.compress()`, `lzma.decompress()` in lzma.", "keywords": []},
+  {"topic": "lzma — Miscellaneous", "file": "lzma/lzma-is-check-supported.md", "summary": "Open when checking lzma — Miscellaneous.", "keywords": []},
+  {"topic": "lzma — `lzma` — Compression using the LZMA algorithm", "file": "lzma/lzma-lzmaerror.md", "summary": "Open when checking lzma — `lzma` — Compression using the LZMA algorithm.", "keywords": []},
+  {"topic": "lzma: `lzma.open()`", "file": "lzma/lzma-open.md", "summary": "Open when checking the documented contracts for `lzma.open()` in lzma.", "keywords": []},
+  {"topic": "lzma / Reading and writing compressed files: `lzma.LZMAFile`, `peek()`", "file": "lzma/lzma-lzmafile-class-to-lzma-lzmafile-peek.md", "summary": "Open when checking the documented contracts for `lzma.LZMAFile`, `peek()` in lzma / Reading and writing compressed files.", "keywords": []},
+  {"topic": "lzma — Specifying custom filter chains", "file": "lzma/specifying-custom-filter-chains.md", "summary": "Open when checking lzma — Specifying custom filter chains.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

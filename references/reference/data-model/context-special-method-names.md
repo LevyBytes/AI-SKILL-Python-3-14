@@ -1,0 +1,64 @@
+# Special method names
+
+Select by the documented task or API context. [Topic catalog](context-special-method-names.json).
+
+- Open when checking 3.3. Special method names. [Special method names / 3.3. Special method names](special-method-names.md).
+- Open when checking object.__new__(*cls*[, *..*]). [Special method names / object.__new__(*cls*\[, *...*\])](object-new.md).
+- Open when checking object.__init__(*self*[, *..*]). [Special method names / object.__init__(*self*\[, *...*\])](object-init.md).
+- Open when checking object.__del__(*self*). [Special method names / object.__del__(*self*)](object-del.md).
+- Open when checking object.__repr__(*self*). [Special method names / object.__repr__(*self*)](object-repr.md).
+- Open when checking 3.3.2. Customizing attribute access. [Special method names / 3.3.2. Customizing attribute access](customizing-attribute-access.md).
+- Open when checking object.__getattr__(*self*, *name*). [Special method names / object.__getattr__(*self*, *name*)](object-getattr.md).
+- Open when checking object.__getattribute__(*self*, *name*). [Special method names / object.__getattribute__(*self*, *name*)](object-getattribute.md).
+- Open when checking object.__setattr__(*self*, *name*, *value*). [Special method names / object.__setattr__(*self*, *name*, *value*)](object-setattr.md).
+- Open when checking object.__delattr__(*self*, *name*). [Special method names / object.__delattr__(*self*, *name*)](object-delattr.md).
+- Open when checking object.__dir__(*self*). [Special method names / object.__dir__(*self*)](object-dir.md).
+- Open when checking module.__getattr__() / module.__dir__(). [Special method names / module.__getattr__() / module.__dir__()](module-getattr-module-dir.md).
+- Open when checking module.__class__. [Special method names / module.__class__](module-class.md).
+- Open when checking 3.3.2.2. Implementing Descriptors. [Special method names / 3.3.2.2. Implementing Descriptors](implementing-descriptors.md).
+- Open when checking object.__get__(*self*, *instance*, *owner=None*). [Special method names / object.__get__(*self*, *instance*, *owner=None*)](object-get.md).
+- Open when checking object.__set__(*self*, *instance*, *value*). [Special method names / object.__set__(*self*, *instance*, *value*)](object-set.md).
+- Open when checking object.__delete__(*self*, *instance*). [Special method names / object.__delete__(*self*, *instance*)](object-delete.md).
+- Open when checking object.__objclass__. [Special method names / object.__objclass__](object-objclass.md).
+- Open when checking 3.3.2.3. Invoking Descriptors. [Special method names / 3.3.2.3. Invoking Descriptors](invoking-descriptors.md).
+- Open when checking 3.3.2.4. __slots__. [Special method names / 3.3.2.4. __slots__](slots.md).
+- Open when checking object.__slots__. [Special method names / object.__slots__](object-slots.md).
+- Open when checking 3.3.3. Customizing class creation. [Special method names / 3.3.3. Customizing class creation](customizing-class-creation.md).
+- Open when checking object.__set_name__(*self*, *owner*, *name*). [Special method names / object.__set_name__(*self*, *owner*, *name*)](object-set-name.md).
+- Open when checking 3.3.3.1. Metaclasses. [Special method names / 3.3.3.1. Metaclasses](metaclasses.md).
+- Open when checking object.__mro_entries__(*self*, *bases*). [Special method names / object.__mro_entries__(*self*, *bases*)](object-mro-entries.md).
+- Open when checking 3.3.3.3. Determining the appropriate metaclass. [Special method names / 3.3.3.3. Determining the appropriate metaclass](determining-the-appropriate-metaclass.md).
+- Open when checking 3.3.3.4. Preparing the class namespace. [Special method names / 3.3.3.4. Preparing the class namespace](preparing-the-class-namespace.md).
+- Open when checking 3.3.3.5. Executing the class body. [Special method names / 3.3.3.5. Executing the class body](executing-the-class-body.md).
+- Open when checking 3.3.3.6. Creating the class object. [Special method names / 3.3.3.6. Creating the class object](creating-the-class-object.md).
+- Open when checking 3.3.3.7. Uses for metaclasses. [Special method names / 3.3.3.7. Uses for metaclasses](uses-for-metaclasses.md).
+- Open when checking 3.3.4. Customizing instance and subclass checks. [Special method names / 3.3.4. Customizing instance and subclass checks](customizing-instance-and-subclass-checks.md).
+- Open when checking type.__instancecheck__(*self*, *instance*). [Special method names / type.__instancecheck__(*self*, *instance*)](type-instancecheck.md).
+- Open when checking type.__subclasscheck__(*self*, *subclass*). [Special method names / type.__subclasscheck__(*self*, *subclass*)](type-subclasscheck.md).
+- Open when checking 3.3.5. Emulating generic types. [Special method names / 3.3.5. Emulating generic types](emulating-generic-types.md).
+- Open when checking 3.3.5.1. The purpose of *__class_getitem__*. [Special method names / 3.3.5.1. The purpose of *__class_getitem__*](the-purpose-of-class-getitem.md).
+- Open when checking 3.3.5.2. *__class_getitem__* versus *__getitem__*. [Special method names / 3.3.5.2. *__class_getitem__* versus *__getitem__*](class-getitem-versus-getitem.md).
+- Open when checking object.__call__(*self*[, *args..*]). [Special method names / object.__call__(*self*\[, *args...*\])](object-call.md).
+- Open when checking 3.3.7. Emulating container types. [Special method names / 3.3.7. Emulating container types](emulating-container-types.md).
+- Open when checking object.__len__(*self*). [Special method names / object.__len__(*self*)](object-len.md).
+- Open when checking 3.3.8. Emulating numeric types. [Special method names / 3.3.8. Emulating numeric types](emulating-numeric-types.md).
+- Open when checking object.__add__(*self*, *other*) / object.__sub__(*self*, *other*) / object.__mul__(*self*, *other*) / object.__matmul__(*self*, *other*) / object.__truediv__(*self*, *other*) / object.__floordiv__(*self*, *other*) / object.__mod__(*self*, *other*) / object.__divmod__(*self*, *other*) / object.__pow__(*self*, *other*[, *modulo*]) / object.__lshift__(*self*, *other*) / object.__rshift__(*self*, *other*) / object.__and__(*self*, *other*) / object.__xor__(*self*, *other*) / object.__or__(*self*, *other*). [Special method names / object.__add__(*self*, *other*) / object.__sub__(*self*, *other*) / object.__mul__(*self*, *other*) / object.__matmul__(*self*, *other*) / object.__truediv__(*self*, *other*) / object.__floordiv__(*self*, *other*) / object.__mod__(*self*, *other*) / object.__divmod__(*self*, *other*) / object.__pow__(*self*, *other*\[, *modulo*\]) / object.__lshift__(*self*, *other*) / object.__rshift__(*self*, *other*) / object.__and__(*self*, *other*) / object.__xor__(*self*, *other*) / object.__or__(*self*, *other*)](object-add-self-and-other.md).
+- Open when checking object.__radd__(*self*, *other*) / object.__rsub__(*self*, *other*) / object.__rmul__(*self*, *other*) / object.__rmatmul__(*self*, *other*) / object.__rtruediv__(*self*, *other*) / object.__rfloordiv__(*self*, *other*) / object.__rmod__(*self*, *other*) / object.__rdivmod__(*self*, *other*) / object.__rpow__(*self*, *other*[, *modulo*]) / object.__rlshift__(*self*, *other*) / object.__rrshift__(*self*, *other*) / object.__rand__(*self*, *other*) / object.__rxor__(*self*, *other*) / object.__ror__(*self*, *other*). [Special method names / object.__radd__(*self*, *other*) / object.__rsub__(*self*, *other*) / object.__rmul__(*self*, *other*) / object.__rmatmul__(*self*, *other*) / object.__rtruediv__(*self*, *other*) / object.__rfloordiv__(*self*, *other*) / object.__rmod__(*self*, *other*) / object.__rdivmod__(*self*, *other*) / object.__rpow__(*self*, *other*\[, *modulo*\]) / object.__rlshift__(*self*, *other*) / object.__rrshift__(*self*, *other*) / object.__rand__(*self*, *other*) / object.__rxor__(*self*, *other*) / object.__ror__(*self*, *other*)](object-radd-self-and-other.md).
+- Open when checking object.__iadd__(*self*, *other*) / object.__isub__(*self*, *other*) / object.__imul__(*self*, *other*) / object.__imatmul__(*self*, *other*) / object.__itruediv__(*self*, *other*) / object.__ifloordiv__(*self*, *other*) / object.__imod__(*self*, *other*) / object.__ipow__(*self*, *other*[, *modulo*]) / object.__ilshift__(*self*, *other*) / object.__irshift__(*self*, *other*) / object.__iand__(*self*, *other*) / object.__ixor__(*self*, *other*) / object.__ior__(*self*, *other*). [Special method names / object.__iadd__(*self*, *other*) / object.__isub__(*self*, *other*) / object.__imul__(*self*, *other*) / object.__imatmul__(*self*, *other*) / object.__itruediv__(*self*, *other*) / object.__ifloordiv__(*self*, *other*) / object.__imod__(*self*, *other*) / object.__ipow__(*self*, *other*\[, *modulo*\]) / object.__ilshift__(*self*, *other*) / object.__irshift__(*self*, *other*) / object.__iand__(*self*, *other*) / object.__ixor__(*self*, *other*) / object.__ior__(*self*, *other*)](object-iadd-self-and-other.md).
+- Open when checking object.__neg__(*self*) / object.__pos__(*self*) / object.__abs__(*self*) / object.__invert__(*self*). [Special method names / object.__neg__(*self*) / object.__pos__(*self*) / object.__abs__(*self*) / object.__invert__(*self*)](object-neg-object-pos-object-abs-object-invert.md).
+- Open when checking object.__complex__(*self*) / object.__int__(*self*) / object.__float__(*self*). [Special method names / object.__complex__(*self*) / object.__int__(*self*) / object.__float__(*self*)](object-complex-object-int-object-float.md).
+- Open when checking object.__index__(*self*). [Special method names / object.__index__(*self*)](object-index.md).
+- Open when checking object.__round__(*self*[, *ndigits*]) / object.__trunc__(*self*) / object.__floor__(*self*) / object.__ceil__(*self*). [Special method names / object.__round__(*self*\[, *ndigits*\]) / object.__trunc__(*self*) / object.__floor__(*self*) / object.__ceil__(*self*)](object-round-object-trunc-object-floor-object-ceil.md).
+- Open when checking 3.3.9. With Statement Context Managers. [Special method names / 3.3.9. With Statement Context Managers](with-statement-context-managers.md).
+- Open when checking object.__enter__(*self*). [Special method names / object.__enter__(*self*)](object-enter.md).
+- Open when checking object.__exit__(*self*, *exc_type*, *exc_value*, *traceback*). [Special method names / object.__exit__(*self*, *exc_type*, *exc_value*, *traceback*)](object-exit.md).
+- Open when checking 3.3.10. Customizing positional arguments in class pattern matching. [Special method names / 3.3.10. Customizing positional arguments in class pattern matching](customizing-positional-arguments-in-class-pattern-matching.md).
+- Open when checking object.__match_args__. [Special method names / object.__match_args__](object-match-args.md).
+- Open when checking 3.3.11. Emulating buffer types. [Special method names / 3.3.11. Emulating buffer types](emulating-buffer-types.md).
+- Open when checking object.__buffer__(*self*, *flags*). [Special method names / object.__buffer__(*self*, *flags*)](object-buffer.md).
+- Open when checking object.__release_buffer__(*self*, *buffer*). [Special method names / object.__release_buffer__(*self*, *buffer*)](object-release-buffer.md).
+- Open when checking 3.3.12. Annotations. [Special method names / 3.3.12. Annotations](annotations.md).
+- Open when checking object.__annotations__. [Special method names / object.__annotations__](object-annotations.md).
+- Open when checking object.__annotate__(*format*). [Special method names / object.__annotate__(*format*)](object-annotate.md).
+- Open when checking 3.3.13. Special method lookup. [Special method names / 3.3.13. Special method lookup](special-method-lookup.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

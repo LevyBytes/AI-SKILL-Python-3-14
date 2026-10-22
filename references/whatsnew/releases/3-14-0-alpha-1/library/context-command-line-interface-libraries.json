@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Command-line interface libraries / Python 3.14.0 alpha 1 / library / fixed cases where argparse argumentparser parse args ignored exit on error false", "file": "releases/3-14-0-alpha-1/library/argparse-exit-on-error-false-handling.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / fixed cases where argparse argumentparser parse args ignored exit on error false.", "keywords": []},
+  {"topic": "Command-line interface libraries / Python 3.14.0 alpha 1 / library / removed", "file": "releases/3-14-0-alpha-1/library/removed.md", "summary": "Open when checking Python 3.14.0 alpha 1 / library / removed.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

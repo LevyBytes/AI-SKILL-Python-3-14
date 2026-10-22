@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 4 / c api / buffer", "file": "releases/3-13-0-alpha-4/c-api/buffer.md", "summary": "Open when checking Python 3.13.0 alpha 4 / c api / buffer.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / c api / dict", "file": "releases/3-13-0-alpha-4/c-api/dict.md", "summary": "Open when checking Python 3.13.0 alpha 4 / c api / dict.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / c api / list", "file": "releases/3-13-0-alpha-4/c-api/list.md", "summary": "Open when checking Python 3.13.0 alpha 4 / c api / list.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / c api / long", "file": "releases/3-13-0-alpha-4/c-api/long.md", "summary": "Open when checking Python 3.13.0 alpha 4 / c api / long.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / c api / public fast call function types", "file": "releases/3-13-0-alpha-4/c-api/public-fast-call-function-types.md", "summary": "Open when checking Python 3.13.0 alpha 4 / c api / public fast call function types.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 4 / c api / time", "file": "releases/3-13-0-alpha-4/c-api/time.md", "summary": "Open when checking Python 3.13.0 alpha 4 / c api / time.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

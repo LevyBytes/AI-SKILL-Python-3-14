@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Compression and Archiving / Python 3.6.0 alpha 1 / library / added zipfile zipinfo from file zipinfo zipinfo is dir", "file": "releases/3-6-0-alpha-1/library/added-zipfile-zipinfo-from-file-zipinfo-zipinfo-is-dir.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / added zipfile zipinfo from file zipinfo zipinfo is dir.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.6.0 alpha 1 / library / zlib compress accepts keyword arguments", "file": "releases/3-6-0-alpha-1/library/zlib-compress-accepts-keyword-arguments.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / zlib compress accepts keyword arguments.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.6.0 alpha 1 / library / zlib", "file": "releases/3-6-0-alpha-1/library/zlib.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / zlib.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

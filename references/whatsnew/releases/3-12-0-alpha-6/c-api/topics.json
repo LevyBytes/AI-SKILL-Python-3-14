@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 6 / c api / added unstable c api tier labels api permitted shift", "file": "releases/3-12-0-alpha-6/c-api/added-unstable-c-api-tier-labels-api-permitted-shift.md", "summary": "Open when checking Python 3.12.0 alpha 6 / c api / added unstable c api tier labels api permitted shift.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / c api / exceptions", "file": "releases/3-12-0-alpha-6/c-api/exceptions.md", "summary": "Open when checking Python 3.12.0 alpha 6 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / c api / files and paths", "file": "releases/3-12-0-alpha-6/c-api/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 6 / c api / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 6 / c api / note py tpflags valid version tag counts internal feature ought not relied upon", "file": "internal-type-version-tag-flag-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 6 / c api / note py tpflags valid version tag counts internal feature ought not relied upon.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

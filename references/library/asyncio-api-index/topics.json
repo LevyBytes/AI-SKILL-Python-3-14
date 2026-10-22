@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "asyncio — Exceptions", "file": "asyncio-api-index/exceptions.md", "summary": "Open when checking asyncio — Exceptions.", "keywords": []},
+    {"topic": "asyncio — High-level API Index", "file": "asyncio-api-index/high-level-api-index.md", "summary": "Open when checking asyncio — High-level API Index.", "keywords": []},
+    {"topic": "asyncio — Queues", "file": "asyncio-api-index/queues.md", "summary": "Open when checking asyncio — Queues.", "keywords": []},
+    {"topic": "asyncio — Streams", "file": "asyncio-api-index/streams.md", "summary": "Open when checking asyncio — Streams.", "keywords": []},
+    {"topic": "asyncio — Subprocesses", "file": "asyncio-api-index/subprocesses.md", "summary": "Open when checking asyncio — Subprocesses.", "keywords": []},
+    {"topic": "asyncio — Synchronization", "file": "asyncio-api-index/synchronization.md", "summary": "Open when checking asyncio — Synchronization.", "keywords": []},
+    {"topic": "asyncio — Tasks", "file": "asyncio-api-index/tasks.md", "summary": "Open when checking asyncio — Tasks.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

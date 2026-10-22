@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.1 release candidate 1 / tests / build and platforms", "file": "releases/3-6-1-release-candidate-1/tests/build-and-platforms.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / tests / locale", "file": "releases/3-6-1-release-candidate-1/tests/locale.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / tests / locale.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / tests / platform", "file": "releases/3-6-1-release-candidate-1/tests/platform.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / tests / platform.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / tests / regrtest command line j0 may no longer paired t", "file": "releases/3-6-1-release-candidate-1/tests/regrtest-command-line-j0-may-no-longer-paired-t.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / tests / regrtest command line j0 may no longer paired t.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / tests / socket", "file": "releases/3-6-1-release-candidate-1/tests/socket.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / tests / socket.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Ellipsis Object", "file": "slice-objects/pyellipsis-type-to-py-ellipsis.md", "summary": "Open when checking Ellipsis Object.", "keywords": []},
+    {"topic": "Py_ssize_t PySlice_AdjustIndices(Py_ssize_t length, Py_ssize_t *start, Py_ssize_t *stop, Py_ssize_t step)", "file": "slice-objects/pyslice-adjustindices.md", "summary": "Open when checking Py_ssize_t PySlice_AdjustIndices(Py_ssize_t length, Py_ssize_t *start, Py_ssize_t *stop, Py_ssize_t step).", "keywords": []},
+    {"topic": "Slice Objects", "file": "slice-objects/pyslice-type-to-pyslice-unpack.md", "summary": "Open when checking Slice Objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

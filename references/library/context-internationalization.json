@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Internationalization / i18n", "file": "i18n/INDEX.md", "summary": "Open when checking i18n.", "keywords": []},
+  {"topic": "Internationalization / gettext", "file": "gettext/INDEX.md", "summary": "Open when checking gettext.", "keywords": []},
+  {"topic": "Internationalization / locale", "file": "locale/INDEX.md", "summary": "Open when checking locale.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

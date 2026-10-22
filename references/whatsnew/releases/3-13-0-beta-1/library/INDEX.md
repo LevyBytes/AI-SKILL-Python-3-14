@@ -1,0 +1,56 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.13.0 beta 1 / library / overview. [Built-in objects and typing / Python 3.13.0 beta 1 / library / overview](overview.md).
+- Open when checking Python 3.13.0 beta 1 / library / enum. [Data Types / Python 3.13.0 beta 1 / library / enum](enum.md).
+- Open when checking Python 3.13.0 beta 1 / library / decimal. [Numeric and Mathematical Modules / Python 3.13.0 beta 1 / library / decimal](decimal.md).
+- Open when checking Python 3.13.0 beta 1 / library / random. [Numeric and Mathematical Modules / Python 3.13.0 beta 1 / library / random](random.md).
+- Open when checking Python 3.13.0 beta 1 / library / itertools. [Functional Programming Modules / Python 3.13.0 beta 1 / library / itertools](itertools.md).
+- Open when checking Python 3.13.0 beta 1 / library / operator. [Functional Programming Modules / Python 3.13.0 beta 1 / library / operator](operator.md).
+- Open when checking Python 3.13.0 beta 1 / library / shutil. [File and Directory Access / Python 3.13.0 beta 1 / library / shutil](shutil.md).
+- Open when checking Python 3.13.0 beta 1 / library / bz2. [Data Compression and Archiving / Python 3.13.0 beta 1 / library / bz2](bz2.md).
+- Open when checking Python 3.13.0 beta 1 / library / updates logging logrecord rely time time ns corrects small bug involving floating point. [Generic Operating System Services / Python 3.13.0 beta 1 / library / updates logging logrecord rely time time ns corrects small bug involving floating point](logging-record-nanosecond-timestamps.md).
+- Open when checking Python 3.13.0 beta 1 / library / argparse. [Command-line interface libraries / Python 3.13.0 beta 1 / library / argparse](argparse.md).
+- Open when checking Python 3.13.0 beta 1 / library / asyncio stream. [Networking and Interprocess Communication / Python 3.13.0 beta 1 / library / asyncio stream](asyncio-stream.md).
+- Open when checking Python 3.13.0 beta 1 / library / asyncio task. [Networking and Interprocess Communication / Python 3.13.0 beta 1 / library / asyncio task](asyncio-task.md).
+- Open when checking Python 3.13.0 beta 1 / library / json. [Internet Data Handling / Python 3.13.0 beta 1 / library / json](json.md).
+- Open when checking Python 3.13.0 beta 1 / library / binascii. [Internet Data Handling / Python 3.13.0 beta 1 / library / binascii](binascii.md).
+- Open when checking Python 3.13.0 beta 1 / library / email compat32 message. [Internet Data Handling / Python 3.13.0 beta 1 / library / email compat32 message](email-compat32-message.md).
+- Open when checking Python 3.13.0 beta 1 / library / email. [Internet Data Handling / Python 3.13.0 beta 1 / library / email](email.md).
+- Open when checking Python 3.13.0 beta 1 / library / constants. [Internet Protocols and Support / Python 3.13.0 beta 1 / library / constants](constants.md).
+- Open when checking Python 3.13.0 beta 1 / library / ipaddress. [Internet Protocols and Support / Python 3.13.0 beta 1 / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.13.0 beta 1 / library / tkinter. [Graphical user interfaces with Tk / Python 3.13.0 beta 1 / library / tkinter](tkinter.md).
+- Open when checking Python 3.13.0 beta 1 / library / unittest mock. [Development Tools / Python 3.13.0 beta 1 / library / unittest mock](unittest-mock.md).
+- Open when checking Python 3.13.0 beta 1 / library / doctest. [Development Tools / Python 3.13.0 beta 1 / library / doctest](doctest.md).
+- Open when checking Python 3.13.0 beta 1 / library / bdb. [Debugging and Profiling / Python 3.13.0 beta 1 / library / bdb](bdb.md).
+- Open when checking Python 3.13.0 beta 1 / library / sysconfig. [Python Runtime Services / Python 3.13.0 beta 1 / library / sysconfig](sysconfig.md).
+- Open when checking Python 3.13.0 beta 1 / library / warnings. [Python Runtime Services / Python 3.13.0 beta 1 / library / warnings](warnings.md).
+- Open when checking Python 3.13.0 beta 1 / library / site. [Python Runtime Services / Python 3.13.0 beta 1 / library / site](site.md).
+- Open when checking Python 3.13.0 beta 1 / library / atexit. [Python Runtime Services / Python 3.13.0 beta 1 / library / atexit](atexit.md).
+- Open when checking Python 3.13.0 beta 1 / library / zipimport. [Importing Modules / Python 3.13.0 beta 1 / library / zipimport](zipimport.md).
+- Open when checking Python 3.13.0 beta 1 / library / files and paths. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.13.0 beta 1 / library / addresses potential segfault arose during garbage collection asyncio futureiter objects. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / addresses potential segfault arose during garbage collection asyncio futureiter objects](async-future-iterator-gc-crash.md).
+- Open when checking Python 3.13.0 beta 1 / library / configparser. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / configparser](configparser.md).
+- Open when checking Python 3.13.0 beta 1 / library / doctest output carries colour. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / doctest output carries colour](doctest-output-carries-colour.md).
+- Open when checking Python 3.13.0 beta 1 / library / repairs simple enum recognizes aliases whenever several arguments appear yet. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / repairs simple enum recognizes aliases whenever several arguments appear yet](simple-enum-multiargument-alias-detection.md).
+- Open when checking Python 3.13.0 beta 1 / library / thread. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / thread](thread.md).
+- Open when checking Python 3.13.0 beta 1 / library / build and platforms. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.13.0 beta 1 / library / migrates ctypes over multi phase initialisation pep. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / migrates ctypes over multi phase initialisation pep](migrates-ctypes-over-multi-phase-initialisation-pep.md).
+- Open when checking Python 3.13.0 beta 1 / library / webbrowser. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / webbrowser](webbrowser.md).
+- Open when checking Python 3.13.0 beta 1 / library / text. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / text](text.md).
+- Open when checking Python 3.13.0 beta 1 / library / urllib. [Library compatibility and maintenance / Python 3.13.0 beta 1 / library / urllib](urllib.md).
+- Open when checking Python 3.13.0 beta 1 / library / compiler and parser. [Combined library maintenance / Python 3.13.0 beta 1 / library / compiler and parser](compiler-and-parser.md).
+- Open when checking Python 3.13.0 beta 1 / library / functions and types. [Combined library maintenance / Python 3.13.0 beta 1 / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.13.0 beta 1 / library / sqlite3. [Combined library maintenance / Python 3.13.0 beta 1 / library / sqlite3](sqlite3.md).
+- Open when checking Python 3.13.0 beta 1 / library / tarfile. [Combined library maintenance / Python 3.13.0 beta 1 / library / tarfile](tarfile.md).
+- Open when checking Python 3.13.0 beta 1 / library / ast. [Combined library maintenance / Python 3.13.0 beta 1 / library / ast](ast.md).
+- Open when checking Python 3.13.0 beta 1 / library / exceptions. [Combined library maintenance / Python 3.13.0 beta 1 / library / exceptions](exceptions.md).
+- Open when checking Python 3.13.0 beta 1 / library / inspect. [Combined library maintenance / Python 3.13.0 beta 1 / library / inspect](inspect.md).
+- Open when checking Python 3.13.0 beta 1 / library / mimetypes. [Combined library maintenance / Python 3.13.0 beta 1 / library / mimetypes](mimetypes.md).
+- Open when checking Python 3.13.0 beta 1 / library / os path. [Combined library maintenance / Python 3.13.0 beta 1 / library / os path](os-path.md).
+- Open when checking Python 3.13.0 beta 1 / library / pathlib. [Combined library maintenance / Python 3.13.0 beta 1 / library / pathlib](pathlib.md).
+- Open when checking Python 3.13.0 beta 1 / library / pdb. [Combined library maintenance / Python 3.13.0 beta 1 / library / pdb](pdb.md).
+- Open when checking Python 3.13.0 beta 1 / library / types. [Combined library maintenance / Python 3.13.0 beta 1 / library / types](types.md).
+- Open when checking Python 3.13.0 beta 1 / library / typing. [Combined library maintenance / Python 3.13.0 beta 1 / library / typing](typing.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

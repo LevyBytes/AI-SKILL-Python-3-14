@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 beta 4 / library / ctypes", "file": "releases/3-6-0-beta-4/library/ctypes.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / ctypes.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / datetime", "file": "releases/3-6-0-beta-4/library/datetime.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / datetime.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / files and paths", "file": "releases/3-6-0-beta-4/library/files-and-paths.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / functions and types", "file": "releases/3-6-0-beta-4/library/functions-and-types.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / gettext", "file": "releases/3-6-0-beta-4/library/gettext.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / gettext.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / introduce collections abc asyncgenerator", "file": "releases/3-6-0-beta-4/library/introduce-collections-abc-asyncgenerator.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / introduce collections abc asyncgenerator.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / make asyncio iscoroutinefunction cope mock objects", "file": "releases/3-6-0-beta-4/library/make-asyncio-iscoroutinefunction-cope-mock-objects.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / make asyncio iscoroutinefunction cope mock objects.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / make asyncio isfuture cope unittest mock", "file": "releases/3-6-0-beta-4/library/make-asyncio-isfuture-cope-unittest-mock.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / make asyncio isfuture cope unittest mock.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / make get event loop hand back current loop invoked coroutines callbacks", "file": "running-coroutine-and-callback-loop-lookup.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / make get event loop hand back current loop invoked coroutines callbacks.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / make inspect isawaitable consistently hand back bool justin mayfield wrote", "file": "awaitability-check-boolean-result.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / make inspect isawaitable consistently hand back bool justin mayfield wrote.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / make loop call soon faster", "file": "releases/3-6-0-beta-4/library/make-loop-call-soon-faster.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / make loop call soon faster.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / repair refleak asyncio future iter throw", "file": "releases/3-6-0-beta-4/library/repair-refleak-asyncio-future-iter-throw.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / repair refleak asyncio future iter throw.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / repair refleak within functools lru cache", "file": "releases/3-6-0-beta-4/library/repair-refleak-within-functools-lru-cache.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / repair refleak within functools lru cache.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / socket", "file": "releases/3-6-0-beta-4/library/socket.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / socket.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / threads and concurrency", "file": "releases/3-6-0-beta-4/library/threads-and-concurrency.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.6.0 beta 4 / library / warnings", "file": "releases/3-6-0-beta-4/library/warnings.md", "summary": "Open when checking Python 3.6.0 beta 4 / library / warnings.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

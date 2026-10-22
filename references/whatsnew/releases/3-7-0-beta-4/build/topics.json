@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 4 / build / add new triplets covering mips r6 riscv variants used", "file": "releases/3-7-0-beta-4/build/add-new-triplets-covering-mips-r6-riscv-variants-used.md", "summary": "Open when checking Python 3.7.0 beta 4 / build / add new triplets covering mips r6 riscv variants used.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / build / files and paths", "file": "releases/3-7-0-beta-4/build/files-and-paths.md", "summary": "Open when checking Python 3.7.0 beta 4 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / build / modules", "file": "releases/3-7-0-beta-4/build/modules.md", "summary": "Open when checking Python 3.7.0 beta 4 / build / modules.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 4 / build / tests and documentation", "file": "releases/3-7-0-beta-4/build/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 beta 4 / build / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.1 final / documentation / multiprocessing", "file": "releases/3-14-1-final/documentation/multiprocessing.md", "summary": "Open when checking Python 3.14.1 final / documentation / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.14.1 final / documentation / xml sax handler", "file": "releases/3-14-1-final/documentation/xml-sax-handler.md", "summary": "Open when checking Python 3.14.1 final / documentation / xml sax handler.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

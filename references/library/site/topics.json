@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "site — Command-line interface", "file": "site/command-line-interface.md", "summary": "Open when checking site — Command-line interface.", "keywords": []},
+    {"topic": "site — Readline configuration", "file": "site/readline-configuration.md", "summary": "Open when checking site — Readline configuration.", "keywords": []},
+    {"topic": "site — Module contents", "file": "site/site-prefixes-to-site-getusersitepackages.md", "summary": "Open when checking site — Module contents.", "keywords": []},
+    {"topic": "site — `site` — Site-specific configuration hook", "file": "site/site-site-specific-configuration-hook.md", "summary": "Open when checking site — `site` — Site-specific configuration hook.", "keywords": []},
+    {"topic": "site — `sitecustomize`", "file": "site/sitecustomize.md", "summary": "Open when checking site — `sitecustomize`.", "keywords": []},
+    {"topic": "site — `usercustomize`", "file": "site/usercustomize.md", "summary": "Open when checking site — `usercustomize`.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

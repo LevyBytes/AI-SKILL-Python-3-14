@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Importing Modules / Python 3.10.0 alpha 1 / library / importlib metadata", "file": "releases/3-10-0-alpha-1/library/importlib-metadata.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / importlib metadata.", "keywords": []},
+  {"topic": "Importing Modules / Python 3.10.0 alpha 1 / library / resource", "file": "releases/3-10-0-alpha-1/library/resource.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / resource.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

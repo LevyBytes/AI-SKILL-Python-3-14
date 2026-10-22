@@ -1,0 +1,5 @@
+# Python 3.5.5 release candidate 1 / security / main
+
+[bpo-32551](https://bugs.python.org/issue?@action=redirect&bpo=32551): The `sys.path[0]` initialization adjustment from [bpo-29139](https://bugs.python.org/issue?@action=redirect&bpo=29139) introduced a regression: it surfaced an inconsistency in the way sys.path gets initialized while `__main__` runs out of a zipfile, a directory, or another import location. This counts as a possible security concern, because privileged processes might unexpectedly pick up code from user-controlled directories in scenarios where they would not have before. From now on the interpreter consistently refuses to ever append the parent directory of the import location to `sys.path`, and it makes sure no further `sys.path` entries get changed by accident while it inserts the import location supplied on the command line. (This was first filed as [bpo-29723](https://bugs.python.org/issue?@action=redirect&bpo=29723) against Python 3.6rc1, yet nobody noticed back then that the soon-to-arrive Python 3.5.4 release would be affected too.)
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

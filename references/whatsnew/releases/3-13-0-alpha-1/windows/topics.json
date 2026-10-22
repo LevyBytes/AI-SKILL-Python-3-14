@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 1 / windows / build and platforms", "file": "releases/3-13-0-alpha-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / collections and iteration", "file": "releases/3-13-0-alpha-1/windows/collections-and-iteration.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / os path", "file": "releases/3-13-0-alpha-1/windows/os-path.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / os path.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / os", "file": "releases/3-13-0-alpha-1/windows/os.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / os.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / permits overriding where vc redistributables come ensuring releases can", "file": "windows-vc-redistributable-source-override.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / permits overriding where vc redistributables come ensuring releases can.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / repointed links sitting bottom installer toward discourse instead mailing", "file": "installer-discussion-forum-links.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / repointed links sitting bottom installer toward discourse instead mailing.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / shutil", "file": "releases/3-13-0-alpha-1/windows/shutil.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / shutil.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / windows / text and unicode", "file": "releases/3-13-0-alpha-1/windows/text-and-unicode.md", "summary": "Open when checking Python 3.13.0 alpha 1 / windows / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

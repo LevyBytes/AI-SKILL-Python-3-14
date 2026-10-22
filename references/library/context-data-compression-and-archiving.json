@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Data Compression and Archiving / archiving", "file": "archiving/INDEX.md", "summary": "Open when checking archiving.", "keywords": []},
+  {"topic": "Data Compression and Archiving / compression", "file": "compression/INDEX.md", "summary": "Open when checking compression.", "keywords": []},
+  {"topic": "Data Compression and Archiving / compression zstd", "file": "compression-zstd/INDEX.md", "summary": "Open when checking compression zstd.", "keywords": []},
+  {"topic": "Data Compression and Archiving / zlib", "file": "zlib/INDEX.md", "summary": "Open when checking zlib.", "keywords": []},
+  {"topic": "Data Compression and Archiving / gzip", "file": "gzip/INDEX.md", "summary": "Open when checking gzip.", "keywords": []},
+  {"topic": "Data Compression and Archiving / bz2", "file": "bz2/INDEX.md", "summary": "Open when checking bz2.", "keywords": []},
+  {"topic": "Data Compression and Archiving / lzma", "file": "lzma/INDEX.md", "summary": "Open when checking lzma.", "keywords": []},
+  {"topic": "Data Compression and Archiving / zipfile", "file": "zipfile/INDEX.md", "summary": "Open when checking zipfile.", "keywords": []},
+  {"topic": "Data Compression and Archiving / tarfile", "file": "tarfile/INDEX.md", "summary": "Open when checking tarfile.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,88 @@
+# Node classes
+
+Select by the documented task or API context. [Topic catalog](context-node-classes.json).
+
+- Open when checking the documented contracts for `ast.AST` in ast. [ast: `ast.AST`](ast-ast-class.md).
+- Open when checking AST child-field and source-location attributes in ast. [ast: AST child-field and source-location attributes](node-classes.md).
+- Open when checking the documented contracts for `ast.Module` in ast. [ast: `ast.Module`](ast-module-class.md).
+- Open when checking the documented contracts for `ast.Expression` in ast. [ast: `ast.Expression`](ast-expression-class.md).
+- Open when checking the documented contracts for `ast.Interactive` in ast. [ast: `ast.Interactive`](ast-interactive-class.md).
+- Open when checking the documented contracts for `ast.FunctionType` in ast. [ast: `ast.FunctionType`](ast-functiontype-class.md).
+- Open when checking the documented contracts for `ast.Constant` in ast. [ast: `ast.Constant`](ast-constant-class.md).
+- Open when checking the documented contracts for `ast.FormattedValue` in ast. [ast: `ast.FormattedValue`](ast-formattedvalue-class.md).
+- Open when checking the documented contracts for `ast.JoinedStr` in ast. [ast: `ast.JoinedStr`](ast-joinedstr-class.md).
+- Open when checking the documented contracts for `ast.TemplateStr` in ast. [ast: `ast.TemplateStr`](ast-templatestr-class.md).
+- Open when checking the documented contracts for `ast.Interpolation` in ast. [ast: `ast.Interpolation`](ast-interpolation-class.md).
+- Open when checking the documented contracts for `ast.List`, `ast.Tuple` in ast. [ast: `ast.List`, `ast.Tuple`](ast-list-class-to-ast-tuple-class.md).
+- Open when checking the documented contracts for `ast.Set` in ast. [ast: `ast.Set`](ast-set-class.md).
+- Open when checking the documented contracts for `ast.Dict` in ast. [ast: `ast.Dict`](ast-dict-class.md).
+- Open when checking the documented contracts for `ast.Name` in ast. [ast: `ast.Name`](ast-name-class.md).
+- Open when checking the documented contracts for `ast.Load`, `ast.Store`, `ast.Del` in ast. [ast: `ast.Load`, `ast.Store`, `ast.Del`](ast-load-class-to-ast-del-class.md).
+- Open when checking the documented contracts for `ast.Starred` in ast. [ast: `ast.Starred`](ast-starred-class.md).
+- Open when checking the documented contracts for `ast.UnaryOp` in ast. [ast: `ast.UnaryOp`](ast-unaryop-class.md).
+- Open when checking the documented contracts for `ast.UAdd`, `ast.USub`, `ast.Not`, `ast.Invert` in ast. [ast: `ast.UAdd`, `ast.USub`, `ast.Not`, `ast.Invert`](ast-uadd-class-to-ast-invert-class.md).
+- Open when checking the documented contracts for `ast.BinOp` in ast. [ast: `ast.BinOp`](ast-binop-class.md).
+- Open when checking the documented contracts for `ast.Add`, `ast.Sub`, `ast.Mult`, `ast.Div`, `ast.FloorDiv`, `ast.Mod`, `ast.Pow`, `ast.LShift`, `ast.RShift`, `ast.BitOr`, `ast.BitXor`, `ast.BitAnd`, `ast.MatMult` in ast. [ast: `ast.Add`, `ast.Sub`, `ast.Mult`, `ast.Div`, `ast.FloorDiv`, `ast.Mod`, `ast.Pow`, `ast.LShift`, `ast.RShift`, `ast.BitOr`, `ast.BitXor`, `ast.BitAnd`, `ast.MatMult`](ast-add-class-to-ast-matmult-class.md).
+- Open when checking the documented contracts for `ast.BoolOp` in ast. [ast: `ast.BoolOp`](ast-boolop-class.md).
+- Open when checking the documented contracts for `ast.And`, `ast.Or` in ast. [ast: `ast.And`, `ast.Or`](ast-and-class-to-ast-or-class.md).
+- Open when checking the documented contracts for `ast.Compare` in ast. [ast: `ast.Compare`](ast-compare-class.md).
+- Open when checking the documented contracts for `ast.Eq`, `ast.NotEq`, `ast.Lt`, `ast.LtE`, `ast.Gt`, `ast.GtE`, `ast.Is`, `ast.IsNot`, `ast.In`, `ast.NotIn` in ast. [ast: `ast.Eq`, `ast.NotEq`, `ast.Lt`, `ast.LtE`, `ast.Gt`, `ast.GtE`, `ast.Is`, `ast.IsNot`, `ast.In`, `ast.NotIn`](ast-eq-class-to-ast-notin-class.md).
+- Open when checking the documented contracts for `ast.Call` in ast. [ast: `ast.Call`](ast-call-class.md).
+- Open when checking the documented contracts for `ast.keyword` in ast. [ast: `ast.keyword`](ast-keyword-class.md).
+- Open when checking the documented contracts for `ast.IfExp` in ast. [ast: `ast.IfExp`](ast-ifexp-class.md).
+- Open when checking the documented contracts for `ast.Attribute` in ast. [ast: `ast.Attribute`](ast-attribute-class.md).
+- Open when checking the documented contracts for `ast.NamedExpr` in ast. [ast: `ast.NamedExpr`](ast-namedexpr-class.md).
+- Open when checking the documented contracts for `ast.Expr` in ast. [ast: `ast.Expr`](ast-expr-class.md).
+- Open when checking the documented contracts for `ast.Subscript` in ast. [ast: `ast.Subscript`](ast-subscript-class.md).
+- Open when checking the documented contracts for `ast.Slice` in ast. [ast: `ast.Slice`](ast-slice-class.md).
+- Open when checking the documented contracts for `ast.ListComp`, `ast.SetComp`, `ast.GeneratorExp`, `ast.DictComp` in ast. [ast: `ast.ListComp`, `ast.SetComp`, `ast.GeneratorExp`, `ast.DictComp`](ast-listcomp-class-to-ast-dictcomp-class.md).
+- Open when checking the documented contracts for `ast.comprehension` in ast. [ast: `ast.comprehension`](ast-comprehension-class.md).
+- Open when checking the documented contracts for `ast.Assign` in ast. [ast: `ast.Assign`](ast-assign-class.md).
+- Open when checking assignment type-comment fields in ast. [ast: Assignment type-comment fields](statements.md).
+- Open when checking the documented contracts for `ast.AnnAssign` in ast. [ast: `ast.AnnAssign`](ast-annassign-class.md).
+- Open when checking the documented contracts for `ast.AugAssign` in ast. [ast: `ast.AugAssign`](ast-augassign-class.md).
+- Open when checking the documented contracts for `ast.Raise` in ast. [ast: `ast.Raise`](ast-raise-class.md).
+- Open when checking the documented contracts for `ast.Assert` in ast. [ast: `ast.Assert`](ast-assert-class.md).
+- Open when checking the documented contracts for `ast.Delete` in ast. [ast: `ast.Delete`](ast-delete-class.md).
+- Open when checking the documented contracts for `ast.Pass` in ast. [ast: `ast.Pass`](ast-pass-class.md).
+- Open when checking the documented contracts for `ast.TypeAlias` in ast. [ast: `ast.TypeAlias`](ast-typealias-class.md).
+- Open when checking the documented contracts for `ast.Import` in ast. [ast: `ast.Import`](ast-import-class.md).
+- Open when checking the documented contracts for `ast.ImportFrom` in ast. [ast: `ast.ImportFrom`](ast-importfrom-class.md).
+- Open when checking the documented contracts for `ast.alias` in ast. [ast: `ast.alias`](ast-alias-class.md).
+- Open when checking the documented contracts for `ast.If` in ast. [ast: `ast.If`](ast-if-class.md).
+- Open when checking the documented contracts for `ast.For` in ast. [ast: `ast.For`](ast-for-class.md).
+- Open when checking the documented contracts for `ast.While` in ast. [ast: `ast.While`](ast-while-class.md).
+- Open when checking the documented contracts for `ast.Break`, `ast.Continue` in ast. [ast: `ast.Break`, `ast.Continue`](ast-break-class-to-ast-continue-class.md).
+- Open when checking the documented contracts for `ast.Try` in ast. [ast: `ast.Try`](ast-try-class.md).
+- Open when checking the documented contracts for `ast.TryStar` in ast. [ast: `ast.TryStar`](ast-trystar-class.md).
+- Open when checking the documented contracts for `ast.ExceptHandler` in ast. [ast: `ast.ExceptHandler`](ast-excepthandler-class.md).
+- Open when checking the documented contracts for `ast.With` in ast. [ast: `ast.With`](ast-with-class.md).
+- Open when checking the documented contracts for `ast.withitem` in ast. [ast: `ast.withitem`](ast-withitem-class.md).
+- Open when checking match-case pattern, guard and body fields in ast. [ast: Match-case pattern, guard and body fields](pattern-matching.md).
+- Open when checking the documented contracts for `ast.MatchValue` in ast. [ast: `ast.MatchValue`](ast-matchvalue-class.md).
+- Open when checking the documented contracts for `ast.MatchSingleton` in ast. [ast: `ast.MatchSingleton`](ast-matchsingleton-class.md).
+- Open when checking the documented contracts for `ast.MatchSequence` in ast. [ast: `ast.MatchSequence`](ast-matchsequence-class.md).
+- Open when checking the documented contracts for `ast.MatchStar` in ast. [ast: `ast.MatchStar`](ast-matchstar-class.md).
+- Open when checking the documented contracts for `ast.MatchMapping` in ast. [ast: `ast.MatchMapping`](ast-matchmapping-class.md).
+- Open when checking the documented contracts for `ast.MatchClass` in ast. [ast: `ast.MatchClass`](ast-matchclass-class.md).
+- Open when checking the documented contracts for `ast.MatchAs` in ast. [ast: `ast.MatchAs`](ast-matchas-class.md).
+- Open when checking the documented contracts for `ast.MatchOr` in ast. [ast: `ast.MatchOr`](ast-matchor-class.md).
+- Open when checking the documented contracts for `ast.Match` in ast. [ast: `ast.Match`](ast-match-class.md).
+- Open when checking the documented contracts for `ast.match_case` in ast. [ast: `ast.match_case`](ast-match-case-class.md).
+- Open when checking ast — Type annotations. [Node classes / ast — Type annotations](ast-typeignore-class.md).
+- Open when checking the documented contracts for `ast.TypeVar` in ast. [ast: `ast.TypeVar`](ast-typevar-class.md).
+- Open when checking the documented contracts for `ast.ParamSpec` in ast. [ast: `ast.ParamSpec`](ast-paramspec-class.md).
+- Open when checking the documented contracts for `ast.TypeVarTuple` in ast. [ast: `ast.TypeVarTuple`](ast-typevartuple-class.md).
+- Open when checking the documented contracts for `ast.FunctionDef` in ast. [ast: `ast.FunctionDef`](ast-functiondef-class.md).
+- Open when checking function definition type-comment fields in ast. [ast: Function definition type-comment fields](function-and-class-definitions.md).
+- Open when checking the documented contracts for `ast.Lambda` in ast. [ast: `ast.Lambda`](ast-lambda-class.md).
+- Open when checking the documented contracts for `ast.arguments` in ast. [ast: `ast.arguments`](ast-arguments-class.md).
+- Open when checking the documented contracts for `ast.arg` in ast. [ast: `ast.arg`](ast-arg-class.md).
+- Open when checking the documented contracts for `ast.Return` in ast. [ast: `ast.Return`](ast-return-class.md).
+- Open when checking the documented contracts for `ast.Yield`, `ast.YieldFrom` in ast. [ast: `ast.Yield`, `ast.YieldFrom`](ast-yield-class-to-ast-yieldfrom-class.md).
+- Open when checking the documented contracts for `ast.Global`, `ast.Nonlocal` in ast. [ast: `ast.Global`, `ast.Nonlocal`](ast-global-class-to-ast-nonlocal-class.md).
+- Open when checking the documented contracts for `ast.ClassDef` in ast. [ast: `ast.ClassDef`](ast-classdef-class.md).
+- Open when checking the documented contracts for `ast.AsyncFunctionDef` in ast. [ast: `ast.AsyncFunctionDef`](ast-asyncfunctiondef-class.md).
+- Open when checking the documented contracts for `ast.Await` in ast. [ast: `ast.Await`](ast-await-class.md).
+- Open when checking the documented contracts for `ast.AsyncFor`, `ast.AsyncWith` in ast. [ast: `ast.AsyncFor`, `ast.AsyncWith`](ast-asyncfor-class-to-ast-asyncwith-class.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "C compiler options / 3.3.2. C compiler options", "file": "build-configuration/c-compiler-options.md", "summary": "Open when checking 3.3.2. C compiler options.", "keywords": []},
+  {"topic": "C compiler options / CFLAGS", "file": "build-configuration/cflags.md", "summary": "Open when checking CFLAGS.", "keywords": []},
+  {"topic": "C compiler options / CPP", "file": "build-configuration/cpp.md", "summary": "Open when checking CPP.", "keywords": []},
+  {"topic": "C compiler options / CPPFLAGS", "file": "build-configuration/cppflags.md", "summary": "Open when checking CPPFLAGS.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

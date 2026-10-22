@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 alpha 4 / c api / memory and lifetimes", "file": "releases/3-7-0-alpha-4/c-api/memory-and-lifetimes.md", "summary": "Open when checking Python 3.7.0 alpha 4 / c api / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / c api / pair py setprogramname py setpythonhome switched receive const wchar arguments place", "file": "program-name-and-python-home-const-arguments.md", "summary": "Open when checking Python 3.7.0 alpha 4 / c api / pair py setprogramname py setpythonhome switched receive const wchar arguments place.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / c api / relocated pygetopt h header beneath internal given exposes no public", "file": "private-getopt-header-relocation.md", "summary": "Open when checking Python 3.7.0 alpha 4 / c api / relocated pygetopt h header beneath internal given exposes no public.", "keywords": []},
+    {"topic": "Python 3.7.0 alpha 4 / c api / undocumented c api covering ordereddict pulled out limited c", "file": "releases/3-7-0-alpha-4/c-api/undocumented-c-api-covering-ordereddict-pulled-out-limited-c.md", "summary": "Open when checking Python 3.7.0 alpha 4 / c api / undocumented c api covering ordereddict pulled out limited c.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

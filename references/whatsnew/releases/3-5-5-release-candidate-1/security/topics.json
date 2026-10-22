@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.5 release candidate 1 / security / bump bundled libexpat copy up pick up security fixes", "file": "releases/3-5-5-release-candidate-1/security/bump-bundled-libexpat-copy-up-pick-up-security-fixes.md", "summary": "Open when checking Python 3.5.5 release candidate 1 / security / bump bundled libexpat copy up pick up security fixes.", "keywords": []},
+    {"topic": "Python 3.5.5 release candidate 1 / security / main", "file": "releases/3-5-5-release-candidate-1/security/main.md", "summary": "Open when checking Python 3.5.5 release candidate 1 / security / main.", "keywords": []},
+    {"topic": "Python 3.5.5 release candidate 1 / security / numeric behavior", "file": "releases/3-5-5-release-candidate-1/security/numeric-behavior.md", "summary": "Open when checking Python 3.5.5 release candidate 1 / security / numeric behavior.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

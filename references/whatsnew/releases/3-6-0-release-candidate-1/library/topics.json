@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 release candidate 1 / library / aid people moving up formerly documented deprecation inspect getfullargspec undone", "file": "full-argument-spec-deprecation-reversal.md", "summary": "Open when checking Python 3.6.0 release candidate 1 / library / aid people moving up formerly documented deprecation inspect getfullargspec undone.", "keywords": []},
+    {"topic": "Python 3.6.0 release candidate 1 / library / asyncio", "file": "releases/3-6-0-release-candidate-1/library/asyncio.md", "summary": "Open when checking Python 3.6.0 release candidate 1 / library / asyncio.", "keywords": []},
+    {"topic": "Python 3.6.0 release candidate 1 / library / build and platforms", "file": "releases/3-6-0-release-candidate-1/library/build-and-platforms.md", "summary": "Open when checking Python 3.6.0 release candidate 1 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.0 release candidate 1 / library / configparser", "file": "releases/3-6-0-release-candidate-1/library/configparser.md", "summary": "Open when checking Python 3.6.0 release candidate 1 / library / configparser.", "keywords": []},
+    {"topic": "Python 3.6.0 release candidate 1 / library / custom warning handler restoration", "file": "releases/3-6-0-release-candidate-1/library/custom-warning-handler-restoration.md", "summary": "Open when checking Python 3.6.0 release candidate 1 / library / custom warning handler restoration.", "keywords": []},
+    {"topic": "Python 3.6.0 release candidate 1 / library / removed", "file": "releases/3-6-0-release-candidate-1/library/removed.md", "summary": "Open when checking Python 3.6.0 release candidate 1 / library / removed.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

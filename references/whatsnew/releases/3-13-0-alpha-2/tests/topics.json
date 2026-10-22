@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 2 / tests / collections and iteration", "file": "releases/3-13-0-alpha-2/tests/collections-and-iteration.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / debug", "file": "releases/3-13-0-alpha-2/tests/debug.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / debug.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / python", "file": "releases/3-13-0-alpha-2/tests/python.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / python.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / random", "file": "releases/3-13-0-alpha-2/tests/random.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / random.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / site", "file": "releases/3-13-0-alpha-2/tests/site.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / site.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / test gdb correct how gdb compiled without python scripting support", "file": "gdb-tests-without-python-scripting.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / test gdb correct how gdb compiled without python scripting support.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / test", "file": "releases/3-13-0-alpha-2/tests/test.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / test.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 2 / tests / tests and documentation", "file": "releases/3-13-0-alpha-2/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.13.0 alpha 2 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

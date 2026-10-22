@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 7 / build / avoids possible keyerror while object sections get handled throughout", "file": "jit-object-section-key-error.md", "summary": "Open when checking Python 3.14.0 alpha 7 / build / avoids possible keyerror while object sections get handled throughout.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 7 / build / build and platforms", "file": "releases/3-14-0-alpha-7/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 7 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 7 / build / compiler and parser", "file": "releases/3-14-0-alpha-7/build/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 alpha 7 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 7 / build / exceptions and tracebacks", "file": "releases/3-14-0-alpha-7/build/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.14.0 alpha 7 / build / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 7 / build / repairs mimalloc library builds aimed bit arm targets", "file": "releases/3-14-0-alpha-7/build/repairs-mimalloc-library-builds-aimed-bit-arm-targets.md", "summary": "Open when checking Python 3.14.0 alpha 7 / build / repairs mimalloc library builds aimed bit arm targets.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

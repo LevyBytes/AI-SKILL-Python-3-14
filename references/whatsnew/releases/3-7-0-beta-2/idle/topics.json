@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 2 / idle / collections and iteration", "file": "releases/3-7-0-beta-2/idle/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 beta 2 / idle / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / idle / imports and modules", "file": "releases/3-7-0-beta-2/idle/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 beta 2 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / idle / locale", "file": "releases/3-7-0-beta-2/idle/locale.md", "summary": "Open when checking Python 3.7.0 beta 2 / idle / locale.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / idle / switch str code within pyparse", "file": "releases/3-7-0-beta-2/idle/switch-str-code-within-pyparse.md", "summary": "Open when checking Python 3.7.0 beta 2 / idle / switch str code within pyparse.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / idle / tests and documentation", "file": "releases/3-7-0-beta-2/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.7.0 beta 2 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / idle / text and unicode", "file": "releases/3-7-0-beta-2/idle/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 beta 2 / idle / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

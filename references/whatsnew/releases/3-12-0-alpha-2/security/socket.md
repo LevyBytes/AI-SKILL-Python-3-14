@@ -1,0 +1,7 @@
+# Python 3.12.0 alpha 2 / security / socket
+
+[gh-98433](https://github.com/python/cpython/issues/98433): The IDNA codec decoder applied to DNS hostnames by [`socket`](https://docs.python.org/3.14/library/socket.html#module-socket) or by [`asyncio`](https://docs.python.org/3.14/library/asyncio.html#module-asyncio) related name resolution functions no longer relies on a quadratic algorithm. That guards against a possible CPU denial of service should an out-of-spec, excessively long hostname carrying bidirectional characters be decoded. Certain protocols, for example [`urllib`](https://docs.python.org/3.14/library/urllib.html#module-urllib) http `3*xx*` redirects, might let an attacker furnish such a name.
+
+During IDNA decoding, individual labels inside an IDNA encoded DNS name now raise an error early once they exceed 1024 unicode characters, given that every decoded DNS label must run to 63 characters or fewer and the whole decoded DNS name caps at 255. Only an application that presents a hostname or label made up chiefly of [**RFC 3454**](https://datatracker.ietf.org/doc/html/rfc3454.html) section 3.1 "Nothing" characters slated for removal would encounter this new limit. Consult as well [**RFC 5894**](https://datatracker.ietf.org/doc/html/rfc5894.html) section 6 and [**RFC 3491**](https://datatracker.ietf.org/doc/html/rfc3491.html).
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

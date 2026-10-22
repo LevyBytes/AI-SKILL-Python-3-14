@@ -1,0 +1,13 @@
+# What's New In Python 3.4 / urllib — urllib.error, urllib.request
+
+### urllib
+
+[`urllib.request`](https://docs.python.org/3.14/library/urllib.request.html#module-urllib.request) now handles `data:` URLs through the [`DataHandler`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.DataHandler) class. (Contributed by Mathias Panzenböck in [bpo-16423](https://bugs.python.org/issue?@action=redirect&bpo=16423).)
+
+You can now pick the http method a [`Request`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.Request) class will employ by defining a [`method`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.Request.method) class attribute on the subclass. (Contributed by Jason R Coombs in [bpo-18978](https://bugs.python.org/issue?@action=redirect&bpo=18978).)
+
+[`Request`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.Request) objects can now be reused: whenever the [`full_url`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.Request.full_url) or [`data`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.Request.data) attributes change, every related internal property gets refreshed. So, for instance, the very same `Request` object may be fed to more than one [`OpenerDirector.open()`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.OpenerDirector.open) call carrying different *data* arguments, or a `Request`'s `url` may be altered in place rather than rebuilt from the ground up. A new [`remove_header()`](https://docs.python.org/3.14/library/urllib.request.html#urllib.request.Request.remove_header) method also exists for stripping headers off a `Request`. (Contributed by Alexey Kachayev — see [bpo-16464](https://bugs.python.org/issue?@action=redirect&bpo=16464); plus Daniel Wozniak, see [bpo-17485](https://bugs.python.org/issue?@action=redirect&bpo=17485); together with Damien Brecht alongside Senthil Kumaran, see [bpo-17272](https://bugs.python.org/issue?@action=redirect&bpo=17272).)
+
+[`HTTPError`](https://docs.python.org/3.14/library/urllib.error.html#urllib.error.HTTPError) objects now carry a [`headers`](https://docs.python.org/3.14/library/urllib.error.html#urllib.error.HTTPError.headers) attribute granting access to the HTTP response headers tied to the error. (Contributed by Berker Peksag in [bpo-15701](https://bugs.python.org/issue?@action=redirect&bpo=15701).)
+
+[Subject index](INDEX.md) · [Previous source section](types.md) · [Next source section](unittest.md) · [Release/subject declaration](release-highlights.md)

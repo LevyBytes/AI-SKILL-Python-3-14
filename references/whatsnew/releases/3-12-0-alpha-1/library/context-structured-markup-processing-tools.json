@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Structured Markup Processing Tools / Python 3.12.0 alpha 1 / library / xml dom minidom", "file": "releases/3-12-0-alpha-1/library/xml-dom-minidom.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / xml dom minidom.", "keywords": []},
+  {"topic": "Structured Markup Processing Tools / Python 3.12.0 alpha 1 / library / xml etree elementtree", "file": "releases/3-12-0-alpha-1/library/xml-etree-elementtree.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / xml etree elementtree.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

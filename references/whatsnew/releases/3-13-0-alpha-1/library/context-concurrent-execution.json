@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Concurrent Execution / Python 3.13.0 alpha 1 / library / concurrent futures", "file": "releases/3-13-0-alpha-1/library/concurrent-futures.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / concurrent futures.", "keywords": []},
+  {"topic": "Concurrent Execution / Python 3.13.0 alpha 1 / library / queue", "file": "releases/3-13-0-alpha-1/library/queue.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / queue.", "keywords": []},
+  {"topic": "Concurrent Execution / Python 3.13.0 alpha 1 / library / thread", "file": "releases/3-13-0-alpha-1/library/thread.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / thread.", "keywords": []},
+  {"topic": "Concurrent Execution / Python 3.13.0 alpha 1 / library / subprocess", "file": "releases/3-13-0-alpha-1/library/subprocess.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / subprocess.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

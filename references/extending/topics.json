@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "building c and c extensions", "file": "building-c-and-c-extensions/INDEX.md", "summary": "Open when checking building c and c extensions.", "keywords": []},
+    {"topic": "embedding python in another application", "file": "embedding-python-in-another-application/INDEX.md", "summary": "Open when checking embedding python in another application.", "keywords": []},
+    {"topic": "extension type tutorial", "file": "extension-type-tutorial/INDEX.md", "summary": "Open when checking extension type tutorial.", "keywords": []},
+    {"topic": "extension types", "file": "extension-types/INDEX.md", "summary": "Open when checking extension types.", "keywords": []},
+    {"topic": "orientation", "file": "orientation/INDEX.md", "summary": "Open when checking orientation.", "keywords": []},
+    {"topic": "Version and contract conditions", "file": "version-and-contract-conditions.md", "summary": "Open when checking Version and contract conditions.", "keywords": []},
+    {"topic": "windows", "file": "windows/INDEX.md", "summary": "Open when checking windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

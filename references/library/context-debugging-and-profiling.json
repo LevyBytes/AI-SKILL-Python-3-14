@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Debugging and Profiling / debug", "file": "debug/INDEX.md", "summary": "Open when checking debug.", "keywords": []},
+  {"topic": "Debugging and Profiling / audit events", "file": "audit-events/INDEX.md", "summary": "Open when checking audit events.", "keywords": []},
+  {"topic": "Debugging and Profiling / bdb", "file": "bdb/INDEX.md", "summary": "Open when checking bdb.", "keywords": []},
+  {"topic": "Debugging and Profiling / faulthandler", "file": "faulthandler/INDEX.md", "summary": "Open when checking faulthandler.", "keywords": []},
+  {"topic": "Debugging and Profiling / pdb", "file": "pdb/INDEX.md", "summary": "Open when checking pdb.", "keywords": []},
+  {"topic": "Debugging and Profiling / profile", "file": "profile/INDEX.md", "summary": "Open when checking profile.", "keywords": []},
+  {"topic": "Debugging and Profiling / timeit", "file": "timeit/INDEX.md", "summary": "Open when checking timeit.", "keywords": []},
+  {"topic": "Debugging and Profiling / trace", "file": "trace/INDEX.md", "summary": "Open when checking trace.", "keywords": []},
+  {"topic": "Debugging and Profiling / tracemalloc", "file": "tracemalloc/INDEX.md", "summary": "Open when checking tracemalloc.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

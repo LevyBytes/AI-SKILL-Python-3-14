@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Unreleased changes / next", "file": "releases/next/INDEX.md", "summary": "Open when checking next.", "keywords": []},
+  {"topic": "Python 3.14 release history", "file": "releases/context-python-3-14-release-history.md", "summary": "Open when checking python 3.14 release history.", "keywords": []},
+  {"topic": "Python 3.13 release history", "file": "releases/context-python-3-13-release-history.md", "summary": "Open when checking python 3.13 release history.", "keywords": []},
+  {"topic": "Python 3.12 release history", "file": "releases/context-python-3-12-release-history.md", "summary": "Open when checking python 3.12 release history.", "keywords": []},
+  {"topic": "Python 3.11 release history", "file": "releases/context-python-3-11-release-history.md", "summary": "Open when checking python 3.11 release history.", "keywords": []},
+  {"topic": "Python 3.10 release history", "file": "releases/context-python-3-10-release-history.md", "summary": "Open when checking python 3.10 release history.", "keywords": []},
+  {"topic": "Python 3.9 release history", "file": "releases/context-python-3-9-release-history.md", "summary": "Open when checking python 3.9 release history.", "keywords": []},
+  {"topic": "Python 3.8 release history", "file": "releases/context-python-3-8-release-history.md", "summary": "Open when checking python 3.8 release history.", "keywords": []},
+  {"topic": "Python 3.7 release history", "file": "releases/context-python-3-7-release-history.md", "summary": "Open when checking python 3.7 release history.", "keywords": []},
+  {"topic": "Python 3.6 release history", "file": "releases/context-python-3-6-release-history.md", "summary": "Open when checking python 3.6 release history.", "keywords": []},
+  {"topic": "Python 3.5 release history", "file": "releases/context-python-3-5-release-history.md", "summary": "Open when checking python 3.5 release history.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

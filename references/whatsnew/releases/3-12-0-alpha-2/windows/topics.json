@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 2 / windows / adjust py exe launcher installs default pulls only asked", "file": "releases/3-12-0-alpha-2/windows/adjust-py-exe-launcher-installs-default-pulls-only-asked.md", "summary": "Open when checking Python 3.12.0 alpha 2 / windows / adjust py exe launcher installs default pulls only asked.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / windows / build and platforms", "file": "releases/3-12-0-alpha-2/windows/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 alpha 2 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / windows / files and paths", "file": "releases/3-12-0-alpha-2/windows/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 2 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / windows / modules", "file": "releases/3-12-0-alpha-2/windows/modules.md", "summary": "Open when checking Python 3.12.0 alpha 2 / windows / modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 2 / windows / zlib", "file": "releases/3-12-0-alpha-2/windows/zlib.md", "summary": "Open when checking Python 3.12.0 alpha 2 / windows / zlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

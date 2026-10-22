@@ -1,0 +1,63 @@
+# Standard library subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking argparse — `argparse` — Parser for command-line options, arguments and subcommands. [Overview and scope / argparse — `argparse` — Parser for command-line options, arguments and subcommands](argument-parser-overview.md).
+- Open when checking argparse — ArgumentParser objects. [ArgumentParser objects / argparse — ArgumentParser objects](argumentparser-objects.md).
+- Open when checking argparse — prog. [ArgumentParser objects / argparse — prog](prog.md).
+- Open when checking argparse — usage. [ArgumentParser objects / argparse — usage](usage.md).
+- Open when checking argparse — description. [ArgumentParser objects / argparse — description](description.md).
+- Open when checking argparse — epilog. [ArgumentParser objects / argparse — epilog](epilog.md).
+- Open when checking argparse — parents. [ArgumentParser objects / argparse — parents](parents.md).
+- Open when checking argparse — formatter_class. [ArgumentParser objects / argparse — formatter_class](formatter-class.md).
+- Open when checking argparse — formatter_class — Signature and initial contract. [ArgumentParser objects / argparse — formatter_class — Signature and initial contract](help-formatter-classes.md).
+- Open when checking argparse — formatter_class — Code example: &gt;&gt;&gt; parser = argparse.ArgumentParser(. [ArgumentParser objects / argparse — formatter_class — Code example: &gt;&gt;&gt; parser = argparse.ArgumentParser(](formatter-class-code-example-parser-argparse-argumentparser.md).
+- Open when checking argparse — prefix_chars. [ArgumentParser objects / argparse — prefix_chars](prefix-chars.md).
+- Open when checking argparse — fromfile_prefix_chars. [ArgumentParser objects / argparse — fromfile_prefix_chars](fromfile-prefix-chars.md).
+- Open when checking argparse — argument_default. [ArgumentParser objects / argparse — argument_default](argument-default.md).
+- Open when checking argparse — allow_abbrev. [ArgumentParser objects / argparse — allow_abbrev](allow-abbrev.md).
+- Open when checking argparse — conflict_handler. [ArgumentParser objects / argparse — conflict_handler](conflict-handler.md).
+- Open when checking argparse — add_help. [ArgumentParser objects / argparse — add_help](add-help.md).
+- Open when checking argparse — exit_on_error. [ArgumentParser objects / argparse — exit_on_error](exit-on-error.md).
+- Open when checking argparse — suggest_on_error. [ArgumentParser objects / argparse — suggest_on_error](suggest-on-error.md).
+- Open when checking argparse — color. [ArgumentParser objects / argparse — color](color.md).
+- Open when checking argparse — The add_argument() method. [The add_argument() method / argparse — The add_argument() method](the-add-argument-method.md).
+- Open when checking argparse — name or flags. [The add_argument() method / argparse — name or flags](name-or-flags.md).
+- Open when checking argparse — action — Section introduction and initial examples. [The add_argument() method / argparse — action — Section introduction and initial examples](action-section-introduction-and-initial-examples.md).
+- Open when checking argparse — action — Code example: &gt;&gt;&gt; parser = argparse.ArgumentParser(). [The add_argument() method / argparse — action — Code example: &gt;&gt;&gt; parser = argparse.ArgumentParser()](action-code-example-parser-argparse-argumentparser.md).
+- Open when checking argparse — nargs. [The add_argument() method / argparse — nargs](nargs.md).
+- Open when checking argparse — const. [The add_argument() method / argparse — const](const.md).
+- Open when checking argparse — default. [The add_argument() method / argparse — default](default.md).
+- Open when checking argparse — type. [The add_argument() method / argparse — type](type.md).
+- Open when checking argparse — choices. [The add_argument() method / argparse — choices](choices.md).
+- Open when checking argparse — required. [The add_argument() method / argparse — required](required.md).
+- Open when checking argparse — help. [The add_argument() method / argparse — help](help.md).
+- Open when checking argparse — metavar. [The add_argument() method / argparse — metavar](metavar.md).
+- Open when checking argparse — dest. [The add_argument() method / argparse — dest](dest.md).
+- Open when checking argparse — deprecated. [The add_argument() method / argparse — deprecated](deprecated.md).
+- Open when checking the documented contracts for `argparse.Action` in argparse. [argparse: `argparse.Action`](argparse-action-class.md).
+- Open when checking the documented contracts for `__call__()`, `format_usage()` in argparse.Action. [argparse.Action: `__call__()`, `format_usage()`](argparse-action-call-to-argparse-action-format-usage.md).
+- Open when checking the documented contracts for `argparse.BooleanOptionalAction` in argparse. [argparse: `argparse.BooleanOptionalAction`](argparse-booleanoptionalaction-class.md).
+- Open when checking argparse — The parse_args() method. [The parse_args() method / argparse — The parse_args() method](argumentparser-parse-args.md).
+- Open when checking argparse — Option value syntax. [The parse_args() method / argparse — Option value syntax](option-value-syntax.md).
+- Open when checking argparse — Invalid arguments. [The parse_args() method / argparse — Invalid arguments](invalid-arguments.md).
+- Open when checking argparse — Arguments containing `-`. [The parse_args() method / argparse — Arguments containing `-`](arguments-containing.md).
+- Open when checking argparse — Argument abbreviations (prefix matching). [The parse_args() method / argparse — Argument abbreviations (prefix matching)](argument-abbreviations-prefix-matching.md).
+- Open when checking argparse — Beyond `sys.argv`. [The parse_args() method / argparse — Beyond `sys.argv`](beyond-sys-argv.md).
+- Open when checking argparse — The Namespace object. [The parse_args() method / argparse — The Namespace object](argparse-namespace-class.md).
+- Open when checking argparse — Subcommands — Signature and initial contract. [Other utilities / argparse — Subcommands — Signature and initial contract](argumentparser-add-subparsers.md).
+- Open when checking argparse — Subcommands — Code example: &gt;&gt;&gt; parser.parse_args(['--help']). [Other utilities / argparse — Subcommands — Code example: &gt;&gt;&gt; parser.parse_args(\['--help'\])](subcommands-code-example-parser-parse-args-help.md).
+- Open when checking argparse — Subcommands — Code example: &gt;&gt;&gt; # subcommand functions. [Other utilities / argparse — Subcommands — Code example: &gt;&gt;&gt; # subcommand functions](subcommands-code-example-subcommand-functions.md).
+- Open when checking argparse — FileType objects. [Other utilities / argparse — FileType objects](argparse-filetype-class.md).
+- Open when checking argparse — Argument groups. [Other utilities / argparse — Argument groups](argumentparser-add-argument-group.md).
+- Open when checking required mutually exclusive groups and nesting limits in argparse. [argparse: Required mutually exclusive groups and nesting limits](mutual-exclusion.md).
+- Open when checking the documented contracts for `ArgumentParser.add_mutually_exclusive_group()` in argparse. [argparse: `ArgumentParser.add_mutually_exclusive_group()`](argumentparser-add-mutually-exclusive-group.md).
+- Open when checking argparse — Parser defaults. [Other utilities / argparse — Parser defaults](argumentparser-set-defaults-to-argumentparser-get-default.md).
+- Open when checking argparse — Printing help. [Other utilities / argparse — Printing help](argumentparser-print-usage-to-argumentparser-format-help.md).
+- Open when checking argparse — Partial parsing. [Other utilities / argparse — Partial parsing](argumentparser-parse-known-args.md).
+- Open when checking argparse — Customizing file parsing. [Other utilities / argparse — Customizing file parsing](argumentparser-convert-arg-line-to-args.md).
+- Open when checking argparse — Exiting methods. [Other utilities / argparse — Exiting methods](argumentparser-exit-to-argumentparser-error.md).
+- Open when checking argparse — Intermixed parsing. [Other utilities / argparse — Intermixed parsing](intermixed-argument-parsing.md).
+- Open when checking argparse — Registering custom types or actions. [Other utilities / argparse — Registering custom types or actions](argumentparser-register.md).
+- Open when checking argparse — Exceptions. [Exceptions / argparse — Exceptions](argparse-argumenterror-to-argparse-argumenttypeerror.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

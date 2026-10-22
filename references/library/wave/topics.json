@@ -1,0 +1,8 @@
+{"schema_version": 1, "topics": [
+  {"topic": "wave — `wave` — Read and write WAV files", "file": "wave/wave-open-to-wave-error.md", "summary": "Open when checking wave — `wave` — Read and write WAV files.", "keywords": []},
+  {"topic": "wave: `wave.Wave_read`", "file": "wave/wave-wave-read-class.md", "summary": "Open when checking the documented contracts for `wave.Wave_read` in wave.", "keywords": []},
+  {"topic": "wave.Wave_read: `close()`, `getnchannels()`, `getsampwidth()`, `getframerate()`, `getnframes()`, `getcomptype()`, `getcompname()`, `getparams()`, `readframes()`, `rewind()`, `getmarkers()`, `getmark()`, `setpos()`, `tell()`", "file": "wave/wave-wave-read-close-to-wave-wave-read-tell.md", "summary": "Open when checking the documented contracts for `close()`, `getnchannels()`, `getsampwidth()`, `getframerate()`, `getnframes()`, `getcomptype()`, `getcompname()`, `getparams()`, `readframes()`, `rewind()`, `getmarkers()`, `getmark()`, `setpos()`, `tell()` in wave.Wave_read.", "keywords": []},
+  {"topic": "wave: `wave.Wave_write`", "file": "wave/wave-wave-write-class.md", "summary": "Open when checking the documented contracts for `wave.Wave_write` in wave.", "keywords": []},
+  {"topic": "wave.Wave_write: WAVE output parameters, frame writing and closure", "file": "wave/wave-wave-write-close-to-wave-wave-write-writeframes.md", "summary": "Open when checking WAVE output parameters, frame writing and closure in wave.Wave_write.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

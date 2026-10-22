@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Python Language Services / Python 3.13.0 alpha 1 / library / symtable", "file": "releases/3-13-0-alpha-1/library/symtable.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / symtable.", "keywords": []},
+  {"topic": "Python Language Services / Python 3.13.0 alpha 1 / library / deprecate dis have argument field preferring dis hasarg instead", "file": "releases/3-13-0-alpha-1/library/dis-have-argument-deprecation.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / deprecate dis have argument field preferring dis hasarg instead.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

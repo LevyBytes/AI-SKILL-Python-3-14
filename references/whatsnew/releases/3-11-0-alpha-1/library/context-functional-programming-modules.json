@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Functional Programming Modules / Python 3.11.0 alpha 1 / library / functools total ordering decorator cooperates metaclasses", "file": "releases/3-11-0-alpha-1/library/functools-total-ordering-decorator-cooperates-metaclasses.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / functools total ordering decorator cooperates metaclasses.", "keywords": []},
+  {"topic": "Functional Programming Modules / Python 3.11.0 alpha 1 / library / operator", "file": "releases/3-11-0-alpha-1/library/operator.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / operator.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

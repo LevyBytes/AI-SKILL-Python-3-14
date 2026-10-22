@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 4 / documentation / cmd", "file": "releases/3-11-0-alpha-4/documentation/cmd.md", "summary": "Open when checking Python 3.11.0 alpha 4 / documentation / cmd.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / documentation / functions", "file": "releases/3-11-0-alpha-4/documentation/functions.md", "summary": "Open when checking Python 3.11.0 alpha 4 / documentation / functions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / documentation / importlib resources abc", "file": "releases/3-11-0-alpha-4/documentation/importlib-resources-abc.md", "summary": "Open when checking Python 3.11.0 alpha 4 / documentation / importlib resources abc.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 4 / documentation / typing", "file": "releases/3-11-0-alpha-4/documentation/typing.md", "summary": "Open when checking Python 3.11.0 alpha 4 / documentation / typing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

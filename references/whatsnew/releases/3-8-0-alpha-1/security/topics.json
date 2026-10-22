@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 1 / security / build and platforms", "file": "releases/3-8-0-alpha-1/security/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / difflib", "file": "releases/3-8-0-alpha-1/security/difflib.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / difflib.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / distribution", "file": "releases/3-8-0-alpha-1/security/distribution.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / distribution.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / imports and modules", "file": "releases/3-8-0-alpha-1/security/imports-and-modules.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / imports and modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / multiprocessing", "file": "releases/3-8-0-alpha-1/security/multiprocessing.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / multiprocessing.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / os", "file": "releases/3-8-0-alpha-1/security/os.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / os.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / ssl", "file": "releases/3-8-0-alpha-1/security/ssl.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / ssl.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / threads and concurrency", "file": "releases/3-8-0-alpha-1/security/threads-and-concurrency.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / xml dom minidom", "file": "releases/3-8-0-alpha-1/security/xml-dom-minidom.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / xml dom minidom.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / security / xml sax", "file": "releases/3-8-0-alpha-1/security/xml-sax.md", "summary": "Open when checking Python 3.8.0 alpha 1 / security / xml sax.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

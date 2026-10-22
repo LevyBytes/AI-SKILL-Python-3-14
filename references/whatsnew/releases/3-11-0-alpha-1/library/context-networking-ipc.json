@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Networking and Interprocess Communication / Python 3.11.0 alpha 1 / library / asyncio eventloop", "file": "releases/3-11-0-alpha-1/library/asyncio-eventloop.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / asyncio eventloop.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / Python 3.11.0 alpha 1 / library / removed", "file": "releases/3-11-0-alpha-1/library/removed.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / removed.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication / Python 3.11.0 alpha 1 / library / operations asyncio trsock transportsocket already deprecated could disruptive disallowed", "file": "releases/3-11-0-alpha-1/library/asyncio-transport-socket-operation-restrictions.md", "summary": "Open when checking Python 3.11.0 alpha 1 / library / operations asyncio trsock transportsocket already deprecated could disruptive disallowed.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

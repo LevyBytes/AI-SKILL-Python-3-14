@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.4 release candidate 1 / build / build and platforms", "file": "releases/3-6-4-release-candidate-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / build / compiler and parser", "file": "releases/3-6-4-release-candidate-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / build / corrects quoting inside pcbuild clean bat", "file": "releases/3-6-4-release-candidate-1/build/corrects-quoting-inside-pcbuild-clean-bat.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / build / corrects quoting inside pcbuild clean bat.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / build / move os x installer onto sqlite", "file": "releases/3-6-4-release-candidate-1/build/move-os-x-installer-onto-sqlite.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / build / move os x installer onto sqlite.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / build / python", "file": "releases/3-6-4-release-candidate-1/build/python.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / build / python.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / build / skip full rebuild following make regen all whenever nothing changed", "file": "unchanged-regeneration-rebuild-avoidance.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / build / skip full rebuild following make regen all whenever nothing changed.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

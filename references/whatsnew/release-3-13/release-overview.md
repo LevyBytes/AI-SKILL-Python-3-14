@@ -1,0 +1,26 @@
+# Upstream feature guide navigation for Python 3.13
+
+- [What’s New In Python 3.13](https://docs.python.org/3.14/whatsnew/3.13.html)
+  - [Summary – Release Highlights](https://docs.python.org/3.14/whatsnew/3.13.html#summary-release-highlights)
+  - [New Features](https://docs.python.org/3.14/whatsnew/3.13.html#new-features)
+  - [Other Language Changes](https://docs.python.org/3.14/whatsnew/3.13.html#other-language-changes)
+  - [New Modules](https://docs.python.org/3.14/whatsnew/3.13.html#new-modules)
+  - [Improved Modules](https://docs.python.org/3.14/whatsnew/3.13.html#improved-modules)
+  - [Optimizations](https://docs.python.org/3.14/whatsnew/3.13.html#optimizations)
+  - [Removed Modules And APIs](https://docs.python.org/3.14/whatsnew/3.13.html#removed-modules-and-apis)
+  - [New Deprecations](https://docs.python.org/3.14/whatsnew/3.13.html#new-deprecations)
+  - [CPython Bytecode Changes](https://docs.python.org/3.14/whatsnew/3.13.html#cpython-bytecode-changes)
+  - [C API Changes](https://docs.python.org/3.14/whatsnew/3.13.html#c-api-changes)
+  - [Build Changes](https://docs.python.org/3.14/whatsnew/3.13.html#build-changes)
+  - [Porting to Python 3.13](https://docs.python.org/3.14/whatsnew/3.13.html#porting-to-python-3-13)
+  - [Regression Test Changes](https://docs.python.org/3.14/whatsnew/3.13.html#regression-test-changes)
+
+- [Python 3.13.0 beta 1](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-beta-1)
+  - [Python 3.13.0 alpha 6](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-alpha-6)
+  - [Python 3.13.0 alpha 5](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-alpha-5)
+  - [Python 3.13.0 alpha 4](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-alpha-4)
+  - [Python 3.13.0 alpha 3](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-alpha-3)
+  - [Python 3.13.0 alpha 2](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-alpha-2)
+  - [Python 3.13.0 alpha 1](https://docs.python.org/3.14/whatsnew/changelog.html#python-3-13-0-alpha-1)
+
+[Subject index](INDEX.md) · [Previous source section](../release-3-14/release-overview.md) · [Next source section](../release-3-12/release-overview.md) · [Release/subject declaration](../release-navigation/release-overview.md) · [Preceding release/subject continuation](../release-2-0/release-overview.md)

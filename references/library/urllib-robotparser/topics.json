@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "urllib.robotparser —  Parser for robots.txt", "file": "urllib-robotparser/parser-for-robots-txt.md", "summary": "Open when checking urllib.robotparser —  Parser for robots.txt.", "keywords": []},
+  {"topic": "urllib.robotparser: `urllib.robotparser.RobotFileParser`", "file": "urllib-robotparser/urllib-robotparser-robotfileparser-class.md", "summary": "Open when checking the documented contracts for `urllib.robotparser.RobotFileParser` in urllib.robotparser.", "keywords": []},
+  {"topic": "urllib.robotparser.RobotFileParser: `set_url()`, `read()`, `parse()`, `can_fetch()`, `mtime()`, `modified()`, `crawl_delay()`, `request_rate()`, `site_maps()`", "file": "robots-parser-access-rules-and-sitemaps.md", "summary": "Open when checking the documented contracts for `set_url()`, `read()`, `parse()`, `can_fetch()`, `mtime()`, `modified()`, `crawl_delay()`, `request_rate()`, `site_maps()` in urllib.robotparser.RobotFileParser.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

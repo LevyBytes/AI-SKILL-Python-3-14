@@ -1,0 +1,10 @@
+{"schema_version": 1, "topics": [
+  {"topic": "LIFO Queue", "file": "asyncio-queue/asyncio-lifoqueue-class.md", "summary": "Open when checking LIFO Queue.", "keywords": []},
+  {"topic": "Priority Queue", "file": "asyncio-queue/asyncio-priorityqueue-class.md", "summary": "Open when checking Priority Queue.", "keywords": []},
+  {"topic": "Queue: `asyncio.Queue`", "file": "asyncio-queue/asyncio-queue-class.md", "summary": "Open when checking the documented contracts for `asyncio.Queue` in Queue.", "keywords": []},
+  {"topic": "Queue: `empty()`, `full()`, `get()`, `get_nowait()`, `join()`, `put()`, `put_nowait()`, `qsize()`, `shutdown()`, `task_done()`", "file": "asyncio-queue/asyncio-queue-empty-to-asyncio-queue-task-done.md", "summary": "Open when checking the documented contracts for `empty()`, `full()`, `get()`, `get_nowait()`, `join()`, `put()`, `put_nowait()`, `qsize()`, `shutdown()`, `task_done()` in Queue.", "keywords": []},
+  {"topic": "Exceptions", "file": "asyncio-queue/asyncio-queueempty-to-asyncio-queueshutdown.md", "summary": "Open when checking Exceptions.", "keywords": []},
+  {"topic": "Examples", "file": "asyncio-queue/examples.md", "summary": "Open when checking Examples.", "keywords": []},
+  {"topic": "Queues", "file": "asyncio-queue/queues.md", "summary": "Open when checking Queues.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

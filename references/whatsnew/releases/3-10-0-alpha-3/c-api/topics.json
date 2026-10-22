@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 3 / c api / functions and types", "file": "releases/3-10-0-alpha-3/c-api/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / gc", "file": "releases/3-10-0-alpha-3/c-api/gc.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / gc.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / grp", "file": "releases/3-10-0-alpha-3/c-api/grp.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / grp.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / imports and modules", "file": "releases/3-10-0-alpha-3/c-api/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / init config", "file": "releases/3-10-0-alpha-3/c-api/init-config.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / init config.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / interp lifecycle", "file": "releases/3-10-0-alpha-3/c-api/interp-lifecycle.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / interp lifecycle.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / list", "file": "releases/3-10-0-alpha-3/c-api/list.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / list.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / module", "file": "releases/3-10-0-alpha-3/c-api/module.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / module.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / provide separate pyasyncmethods entry dispatching sent values", "file": "releases/3-10-0-alpha-3/c-api/provide-separate-pyasyncmethods-entry-dispatching-sent-values.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / provide separate pyasyncmethods entry dispatching sent values.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / refcounting", "file": "releases/3-10-0-alpha-3/c-api/refcounting.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / select", "file": "releases/3-10-0-alpha-3/c-api/select.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / select.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / spwd", "file": "releases/3-10-0-alpha-3/c-api/spwd.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / spwd.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / structures", "file": "releases/3-10-0-alpha-3/c-api/structures.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / structures.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / symtable", "file": "releases/3-10-0-alpha-3/c-api/symtable.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / symtable.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 3 / c api / type", "file": "releases/3-10-0-alpha-3/c-api/type.md", "summary": "Open when checking Python 3.10.0 alpha 3 / c api / type.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

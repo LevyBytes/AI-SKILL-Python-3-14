@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Overview and scope / Upstream feature guide navigation for Python 3.4", "file": "release-3-4/release-overview.md", "summary": "Open when checking Upstream feature guide navigation for Python 3.4.", "keywords": []},
+  {"topic": "Summary – Release Highlights", "file": "release-3-4/context-release-highlights.md", "summary": "Open when checking summary – release highlights.", "keywords": []},
+  {"topic": "New Features", "file": "release-3-4/context-new-features.md", "summary": "Open when checking new features.", "keywords": []},
+  {"topic": "New Modules", "file": "release-3-4/context-new-modules.md", "summary": "Open when checking new modules.", "keywords": []},
+  {"topic": "Improved Modules", "file": "release-3-4/context-improved-modules.md", "summary": "Open when checking improved modules.", "keywords": []},
+  {"topic": "CPython Implementation Changes", "file": "release-3-4/context-cpython-implementation-changes.md", "summary": "Open when checking cpython implementation changes.", "keywords": []},
+  {"topic": "Deprecated", "file": "release-3-4/context-deprecated.md", "summary": "Open when checking deprecated.", "keywords": []},
+  {"topic": "Removed", "file": "release-3-4/context-removed.md", "summary": "Open when checking removed.", "keywords": []},
+  {"topic": "Porting to Python 3.4", "file": "release-3-4/context-porting-to-python-3-4.md", "summary": "Open when checking porting to python 3.4.", "keywords": []},
+  {"topic": "Changed in 3.4.3 / What's New In Python 3.4 / Porting to Python 3.4 / Changes in the C API / PEP 476: Enabling certificate verification by default for stdlib http clients", "file": "release-3-4/http-certificate-verification-defaults.md", "summary": "Open when checking What's New In Python 3.4 / Porting to Python 3.4 / Changes in the C API / PEP 476: Enabling certificate verification by default for stdlib http clients.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

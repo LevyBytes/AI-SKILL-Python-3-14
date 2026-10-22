@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Debug options / --with-pydebug", "file": "build-configuration/with-pydebug.md", "summary": "Open when checking --with-pydebug.", "keywords": []},
+  {"topic": "Debug options / --with-trace-refs", "file": "build-configuration/with-trace-refs.md", "summary": "Open when checking --with-trace-refs.", "keywords": []},
+  {"topic": "Debug options / --with-assertions", "file": "build-configuration/with-assertions.md", "summary": "Open when checking --with-assertions.", "keywords": []},
+  {"topic": "Debug options / --with-valgrind", "file": "build-configuration/with-valgrind.md", "summary": "Open when checking --with-valgrind.", "keywords": []},
+  {"topic": "Debug options / --with-dtrace", "file": "build-configuration/with-dtrace.md", "summary": "Open when checking --with-dtrace.", "keywords": []},
+  {"topic": "Debug options / --with-address-sanitizer", "file": "build-configuration/with-address-sanitizer.md", "summary": "Open when checking --with-address-sanitizer.", "keywords": []},
+  {"topic": "Debug options / --with-memory-sanitizer", "file": "build-configuration/with-memory-sanitizer.md", "summary": "Open when checking --with-memory-sanitizer.", "keywords": []},
+  {"topic": "Debug options / --with-undefined-behavior-sanitizer", "file": "build-configuration/with-undefined-behavior-sanitizer.md", "summary": "Open when checking --with-undefined-behavior-sanitizer.", "keywords": []},
+  {"topic": "Debug options / --with-thread-sanitizer", "file": "build-configuration/with-thread-sanitizer.md", "summary": "Open when checking --with-thread-sanitizer.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 beta 1 / tools demos / compiler and parser", "file": "releases/3-9-0-beta-1/tools-demos/compiler-and-parser.md", "summary": "Open when checking Python 3.9.0 beta 1 / tools demos / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.9.0 beta 1 / tools demos / refresh multissltest helper exercise newest openssl plus alpha", "file": "multissl-test-openssl-version-refresh.md", "summary": "Open when checking Python 3.9.0 beta 1 / tools demos / refresh multissltest helper exercise newest openssl plus alpha.", "keywords": []},
+    {"topic": "Python 3.9.0 beta 1 / tools demos / repair multissltest tool", "file": "releases/3-9-0-beta-1/tools-demos/repair-multissltest-tool.md", "summary": "Open when checking Python 3.9.0 beta 1 / tools demos / repair multissltest tool.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

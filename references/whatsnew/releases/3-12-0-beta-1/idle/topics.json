@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 beta 1 / idle / build and platforms", "file": "releases/3-12-0-beta-1/idle/build-and-platforms.md", "summary": "Open when checking Python 3.12.0 beta 1 / idle / build and platforms.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / idle / repair completions under tk aqua blank present", "file": "releases/3-12-0-beta-1/idle/repair-completions-under-tk-aqua-blank-present.md", "summary": "Open when checking Python 3.12.0 beta 1 / idle / repair completions under tk aqua blank present.", "keywords": []},
+    {"topic": "Python 3.12.0 beta 1 / idle / tk", "file": "releases/3-12-0-beta-1/idle/tk.md", "summary": "Open when checking Python 3.12.0 beta 1 / idle / tk.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

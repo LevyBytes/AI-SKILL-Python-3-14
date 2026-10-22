@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Concurrent Execution / Python 3.10.0 alpha 1 / library / threading", "file": "releases/3-10-0-alpha-1/library/threading.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / threading.", "keywords": []},
+  {"topic": "Concurrent Execution / Python 3.10.0 alpha 1 / library / subprocess", "file": "releases/3-10-0-alpha-1/library/subprocess.md", "summary": "Open when checking Python 3.10.0 alpha 1 / library / subprocess.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+# Python/C API subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking The None Object: [The None Object](py-none-to-py-return-none.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

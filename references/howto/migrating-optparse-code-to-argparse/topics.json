@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Migrating `optparse` code to `argparse`", "file": "migrating-optparse-code-to-argparse/migrating-optparse-code-to-argparse.md", "summary": "Open when checking Migrating `optparse` code to `argparse`.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

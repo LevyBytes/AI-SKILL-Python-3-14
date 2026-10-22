@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Types / Python 3.13.0 alpha 1 / library / datetime", "file": "releases/3-13-0-alpha-1/library/datetime.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / datetime.", "keywords": []},
+  {"topic": "Data Types / Python 3.13.0 alpha 1 / library / collections", "file": "releases/3-13-0-alpha-1/library/collections.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / collections.", "keywords": []},
+  {"topic": "Data Types / Python 3.13.0 alpha 1 / library / pprint", "file": "releases/3-13-0-alpha-1/library/pprint.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / pprint.", "keywords": []},
+  {"topic": "Data Types / Python 3.13.0 alpha 1 / library / zoneinfo", "file": "releases/3-13-0-alpha-1/library/zoneinfo.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / zoneinfo.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

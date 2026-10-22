@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 6 / build / compiler and parser", "file": "releases/3-11-0-alpha-6/build/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / build / files and paths", "file": "releases/3-11-0-alpha-6/build/files-and-paths.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / build / functions and types", "file": "releases/3-11-0-alpha-6/build/functions-and-types.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / build / import", "file": "releases/3-11-0-alpha-6/build/import.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / import.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / build / numeric behavior", "file": "releases/3-11-0-alpha-6/build/numeric-behavior.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / build / subprocess", "file": "releases/3-11-0-alpha-6/build/subprocess.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / subprocess.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 6 / build / text and unicode", "file": "releases/3-11-0-alpha-6/build/text-and-unicode.md", "summary": "Open when checking Python 3.11.0 alpha 6 / build / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

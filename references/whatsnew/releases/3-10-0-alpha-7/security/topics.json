@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 7 / security / ftplib", "file": "releases/3-10-0-alpha-7/security/ftplib.md", "summary": "Open when checking Python 3.10.0 alpha 7 / security / ftplib.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / security / gc", "file": "releases/3-10-0-alpha-7/security/gc.md", "summary": "Open when checking Python 3.10.0 alpha 7 / security / gc.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 7 / security / pydoc", "file": "releases/3-10-0-alpha-7/security/pydoc.md", "summary": "Open when checking Python 3.10.0 alpha 7 / security / pydoc.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

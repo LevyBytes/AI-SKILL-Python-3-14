@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.4 final / windows / bundled openssl refreshed", "file": "releases/3-14-4-final/windows/bundled-openssl-refreshed.md", "summary": "Open when checking Python 3.14.4 final / windows / bundled openssl refreshed.", "keywords": []},
+    {"topic": "Python 3.14.4 final / windows / ctypes", "file": "releases/3-14-4-final/windows/ctypes.md", "summary": "Open when checking Python 3.14.4 final / windows / ctypes.", "keywords": []},
+    {"topic": "Python 3.14.4 final / windows / imports and modules", "file": "releases/3-14-4-final/windows/imports-and-modules.md", "summary": "Open when checking Python 3.14.4 final / windows / imports and modules.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

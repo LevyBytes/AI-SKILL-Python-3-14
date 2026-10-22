@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "xml.sax — SAXException Objects", "file": "xml-sax/saxexception-getmessage-to-saxexception-getexception.md", "summary": "Open when checking xml.sax — SAXException Objects.", "keywords": []},
+    {"topic": "xml.sax — `xml.sax` — Support for SAX2 parsers", "file": "xml-sax/xml-sax-make-parser-to-xml-sax-saxnotsupportedexception.md", "summary": "Open when checking xml.sax — `xml.sax` — Support for SAX2 parsers.", "keywords": []},
+    {"topic": "xml.sax — Support for SAX2 parsers??", "file": "xml-sax/xml-sax-support-for-sax2-parsers.md", "summary": "Open when checking xml.sax — Support for SAX2 parsers??.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

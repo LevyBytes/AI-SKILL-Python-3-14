@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 4 / tools demos / compiler and parser", "file": "releases/3-5-0-alpha-4/tools-demos/compiler-and-parser.md", "summary": "Open when checking Python 3.5.0 alpha 4 / tools demos / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 4 / tools demos / functions and types", "file": "releases/3-5-0-alpha-4/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.5.0 alpha 4 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 4 / tools demos / tests and documentation", "file": "releases/3-5-0-alpha-4/tools-demos/tests-and-documentation.md", "summary": "Open when checking Python 3.5.0 alpha 4 / tools demos / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 4 / tools demos / within pot creation date header pygettext writes standard nnnn format", "file": "gettext-pot-creation-date-timezone-format.md", "summary": "Open when checking Python 3.5.0 alpha 4 / tools demos / within pot creation date header pygettext writes standard nnnn format.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

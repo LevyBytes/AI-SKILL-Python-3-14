@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Text Processing Services / Python 3.13.0 alpha 1 / library / unicodedata", "file": "releases/3-13-0-alpha-1/library/unicodedata.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / unicodedata.", "keywords": []},
+  {"topic": "Text Processing Services / Python 3.13.0 alpha 1 / library / textwrap", "file": "releases/3-13-0-alpha-1/library/textwrap.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / textwrap.", "keywords": []},
+  {"topic": "Text Processing Services / Python 3.13.0 alpha 1 / library / drop deprecated re template re t re template sre constans sre flag template", "file": "releases/3-13-0-alpha-1/library/regex-template-mode-removal.md", "summary": "Open when checking Python 3.13.0 alpha 1 / library / drop deprecated re template re t re template sre constans sre flag template.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

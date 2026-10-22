@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "crypt — `crypt` — Function to check Unix passwords", "file": "crypt/crypt-function-to-check-unix-passwords.md", "summary": "Open when checking crypt — `crypt` — Function to check Unix passwords.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

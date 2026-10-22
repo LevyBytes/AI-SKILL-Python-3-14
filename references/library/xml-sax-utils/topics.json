@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "xml.sax.saxutils: `xml.sax.saxutils.escape()`, `xml.sax.saxutils.unescape()`, `xml.sax.saxutils.quoteattr()`", "file": "xml-sax-utils/xml-sax-saxutils-escape-to-xml-sax-saxutils-quoteattr.md", "summary": "Open when checking the documented contracts for `xml.sax.saxutils.escape()`, `xml.sax.saxutils.unescape()`, `xml.sax.saxutils.quoteattr()` in xml.sax.saxutils.", "keywords": []},
+  {"topic": "xml.sax.saxutils: `xml.sax.saxutils.XMLGenerator`", "file": "xml-sax-utils/xml-sax-saxutils-xmlgenerator-class.md", "summary": "Open when checking the documented contracts for `xml.sax.saxutils.XMLGenerator` in xml.sax.saxutils.", "keywords": []},
+  {"topic": "xml.sax.saxutils: `xml.sax.saxutils.XMLFilterBase`", "file": "xml-sax-utils/xml-sax-saxutils-xmlfilterbase-class.md", "summary": "Open when checking the documented contracts for `xml.sax.saxutils.XMLFilterBase` in xml.sax.saxutils.", "keywords": []},
+  {"topic": "xml.sax.saxutils: `xml.sax.saxutils.prepare_input_source()`", "file": "xml-sax-utils/xml-sax-saxutils-prepare-input-source.md", "summary": "Open when checking the documented contracts for `xml.sax.saxutils.prepare_input_source()` in xml.sax.saxutils.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

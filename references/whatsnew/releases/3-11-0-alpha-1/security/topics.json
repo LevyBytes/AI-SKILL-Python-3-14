@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 1 / security / build and platforms", "file": "releases/3-11-0-alpha-1/security/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 alpha 1 / security / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / security / http client", "file": "releases/3-11-0-alpha-1/security/http-client.md", "summary": "Open when checking Python 3.11.0 alpha 1 / security / http client.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / security / marshal", "file": "releases/3-11-0-alpha-1/security/marshal.md", "summary": "Open when checking Python 3.11.0 alpha 1 / security / marshal.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / security / numbers", "file": "releases/3-11-0-alpha-1/security/numbers.md", "summary": "Open when checking Python 3.11.0 alpha 1 / security / numbers.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / security / smtplib", "file": "releases/3-11-0-alpha-1/security/smtplib.md", "summary": "Open when checking Python 3.11.0 alpha 1 / security / smtplib.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 1 / security / tempfile", "file": "releases/3-11-0-alpha-1/security/tempfile.md", "summary": "Open when checking Python 3.11.0 alpha 1 / security / tempfile.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

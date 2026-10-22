@@ -1,0 +1,44 @@
+# Standard library subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking unittest — Basic example: [unittest — Basic example](basic-example.md).
+- Open when checking Class and Module Fixtures: [Class and Module Fixtures](class-and-module-fixtures.md).
+- Open when checking unittest — Classes and functions: [unittest — Classes and functions](classes-and-functions.md).
+- Open when checking unittest — Command-Line Interface: [unittest — Command-Line Interface](command-line-interface.md).
+- Open when checking unittest — Command-line options: [unittest — Command-line options](command-line-options.md).
+- Open when checking unittest — Distinguishing test iterations using subtests: [unittest — Distinguishing test iterations using subtests](distinguishing-test-iterations-using-subtests.md).
+- Open when checking load_tests Protocol: [load_tests Protocol](load-tests-protocol.md).
+- Open when checking unittest — Organizing test code — Contract: You can run the test module on its own from the command line.: [unittest — Organizing test code — Contract: You can run the test module on its own from the command line.](standalone-test-module-execution.md).
+- Open when checking unittest — Organizing test code — Section introduction and initial examples: [unittest — Organizing test code — Section introduction and initial examples](test-code-organization-overview.md).
+- Open when checking unittest — Re-using old test code: [unittest — Re-using old test code](re-using-old-test-code.md).
+- Open when checking setUpClass and tearDownClass: [setUpClass and tearDownClass](setupclass-and-teardownclass.md).
+- Open when checking skipping tests and declaring expected failures in unittest. [unittest: Skipping tests and declaring expected failures](skipping-tests-and-expected-failures.md).
+- Open when checking the documented contracts for `unittest.skip()`, `unittest.skipIf()`, `unittest.skipUnless()`, `unittest.expectedFailure`, `unittest.SkipTest` in unittest. [unittest: `unittest.skip()`, `unittest.skipIf()`, `unittest.skipUnless()`, `unittest.expectedFailure`, `unittest.SkipTest`](unittest-skiptest.md).
+- Open when checking unittest — Test Discovery: [unittest — Test Discovery](test-discovery.md).
+- Open when checking setUpModule and tearDownModule: [setUpModule and tearDownModule](unittest-addmodulecleanup-to-unittest-domodulecleanups.md).
+- Open when checking the documented contracts for `unittest.TestCase` in unittest. [unittest: `unittest.TestCase`](unittest-testcase-class.md).
+- Open when checking the documented contracts for `countTestCases()`, `defaultTestResult()`, `id()`, `shortDescription()`, `addCleanup()`, `enterContext()`, `doCleanups()`, `addClassCleanup()`, `enterClassContext()`, `doClassCleanups()` in unittest. [unittest: `countTestCases()`, `defaultTestResult()`, `id()`, `shortDescription()`, `addCleanup()`, `enterContext()`, `doCleanups()`, `addClassCleanup()`, `enterClassContext()`, `doClassCleanups()`](test-case-counting-and-cleanup.md).
+- Open when checking the documented contracts for `unittest.IsolatedAsyncioTestCase`, `asyncSetUp()`, `asyncTearDown()`, `addAsyncCleanup()`, `enterAsyncContext()`, `run()` in unittest. [unittest: `unittest.IsolatedAsyncioTestCase`, `asyncSetUp()`, `asyncTearDown()`, `addAsyncCleanup()`, `enterAsyncContext()`, `run()`](isolated-async-test-case-lifecycle.md).
+- Open when checking the documented contracts for `unittest.FunctionTestCase` in unittest. [unittest: `unittest.FunctionTestCase`](unittest-functiontestcase-class.md).
+- Open when checking the documented contracts for `setUp()`, `tearDown()`, `setUpClass()`, `tearDownClass()`, `run()`, `skipTest()`, `subTest()` in unittest. [unittest: `setUp()`, `tearDown()`, `setUpClass()`, `tearDownClass()`, `run()`, `skipTest()`, `subTest()`](unittest-testcase-setup-to-unittest-testcase-subtest.md).
+- Open when checking the documented contracts for `debug()`, `assertEqual()`, `assertNotEqual()`, `assertTrue()`, `assertFalse()`, `assertIs()`, `assertIsNot()`, `assertIsNone()`, `assertIsNotNone()`, `assertIn()`, `assertNotIn()`, `assertIsInstance()`, `assertNotIsInstance()` in unittest. [unittest: `debug()`, `assertEqual()`, `assertNotEqual()`, `assertTrue()`, `assertFalse()`, `assertIs()`, `assertIsNot()`, `assertIsNone()`, `assertIsNotNone()`, `assertIn()`, `assertNotIn()`, `assertIsInstance()`, `assertNotIsInstance()`](test-debugging-equality-and-instance-assertions.md).
+- Open when checking the documented contracts for `assertIsSubclass()`, `assertNotIsSubclass()`, `assertRaises()`, `assertRaisesRegex()` in unittest. [unittest: `assertIsSubclass()`, `assertNotIsSubclass()`, `assertRaises()`, `assertRaisesRegex()`](subclass-and-exception-assertions.md).
+- Open when checking the documented contracts for `assertWarns()`, `assertWarnsRegex()`, `assertLogs()` in unittest. [unittest: `assertWarns()`, `assertWarnsRegex()`, `assertLogs()`](unittest-testcase-assertwarns-to-unittest-testcase-assertlogs.md).
+- Open when checking the documented contracts for `assertNoLogs()`, `assertAlmostEqual()`, `assertNotAlmostEqual()`, `assertGreater()`, `assertGreaterEqual()`, `assertLess()`, `assertLessEqual()` in unittest. [unittest: `assertNoLogs()`, `assertAlmostEqual()`, `assertNotAlmostEqual()`, `assertGreater()`, `assertGreaterEqual()`, `assertLess()`, `assertLessEqual()`](log-absence-and-ordering-assertions.md).
+- Open when checking regex, prefix, attribute and sequence assertions in unittest. [unittest: Regex, prefix, attribute and sequence assertions](regex-and-sequence-assertions.md).
+- Open when checking the documented contracts for `assertListEqual()`, `assertTupleEqual()`, `assertSetEqual()`, `assertDictEqual()`, `fail()` in unittest. [unittest: `assertListEqual()`, `assertTupleEqual()`, `assertSetEqual()`, `assertDictEqual()`, `fail()`](unittest-testcase-assertlistequal-to-unittest-testcase-fail.md).
+- Open when checking Signal Handling: [Signal Handling](unittest-installhandler-to-unittest-removehandler.md).
+- Open when checking the documented contracts for `unittest.TestLoader` in unittest. [unittest: `unittest.TestLoader`](unittest-testloader-class.md).
+- Open when checking the documented contracts for `loadTestsFromTestCase()`, `loadTestsFromModule()`, `loadTestsFromName()`, `loadTestsFromNames()`, `getTestCaseNames()` in unittest. [unittest: `loadTestsFromTestCase()`, `loadTestsFromModule()`, `loadTestsFromName()`, `loadTestsFromNames()`, `getTestCaseNames()`](test-loader-case-and-method-discovery.md).
+- Open when checking the documented contracts for `discover()` in unittest. [unittest: `discover()`](unittest-testloader-discover.md).
+- Open when checking the documented contracts for `addUnexpectedSuccess()`, `addSubTest()`, `addDuration()` in unittest. [unittest: `addUnexpectedSuccess()`, `addSubTest()`, `addDuration()`](test-result-unexpected-success-and-duration.md).
+- Open when checking the documented contracts for `unittest.TestResult`, `wasSuccessful()`, `stop()`, `startTest()` in unittest. [unittest: `unittest.TestResult`, `wasSuccessful()`, `stop()`, `startTest()`](unittest-testresult-class-to-unittest-testresult-starttest.md).
+- Open when checking the documented contracts for `stopTest()`, `startTestRun()`, `stopTestRun()`, `addError()`, `addFailure()`, `addSuccess()`, `addSkip()`, `addExpectedFailure()` in unittest. [unittest: `stopTest()`, `startTestRun()`, `stopTestRun()`, `addError()`, `addFailure()`, `addSuccess()`, `addSkip()`, `addExpectedFailure()`](test-result-completion-error-and-expected-failure.md).
+- Open when checking the documented contracts for `unittest.TextTestResult`, `unittest.defaultTestLoader` in unittest. [unittest: `unittest.TextTestResult`, `unittest.defaultTestLoader`](unittest-texttestresult-class-to-unittest-defaulttestloader.md).
+- Open when checking the documented contracts for `unittest.TextTestRunner`, `_makeResult()`, `run()`, `unittest.main()` in unittest. [unittest: `unittest.TextTestRunner`, `_makeResult()`, `run()`, `unittest.main()`](unittest-texttestrunner-class-to-unittest-main.md).
+- Open when checking the documented contracts for `unittest.TestSuite` in unittest. [unittest: `unittest.TestSuite`](unittest-testsuite-class.md).
+- Open when checking the documented contracts for `addTest()`, `addTests()`, `run()`, `debug()`, `countTestCases()`, `__iter__()` in unittest. [unittest: `addTest()`, `addTests()`, `run()`, `debug()`, `countTestCases()`, `__iter__()`](unittest-testsuite-addtest-to-unittest-testsuite-iter.md).
+- Open when checking unittest — `unittest` — Unit testing framework: [unittest — `unittest` — Unit testing framework](unittest-unit-testing-framework.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

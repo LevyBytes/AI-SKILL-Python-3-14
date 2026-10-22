@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Data Compression and Archiving / Python 3.12.0 alpha 1 / library / gzip gzipfile read reads faster", "file": "releases/3-12-0-alpha-1/library/gzip-gzipfile-read-reads-faster.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / gzip gzipfile read reads faster.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.12.0 alpha 1 / library / gzip", "file": "releases/3-12-0-alpha-1/library/gzip.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / gzip.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.12.0 alpha 1 / library / allow quick seeking inside uncompressed unencrypted zipfile zipextfile", "file": "releases/3-12-0-alpha-1/library/uncompressed-zip-entry-seeking.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / allow quick seeking inside uncompressed unencrypted zipfile zipextfile.", "keywords": []},
+  {"topic": "Data Compression and Archiving / Python 3.12.0 alpha 1 / library / zipfile", "file": "releases/3-12-0-alpha-1/library/zipfile.md", "summary": "Open when checking Python 3.12.0 alpha 1 / library / zipfile.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

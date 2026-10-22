@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "run_server", "file": "references/examples/timerfd-server/run_server.py", "summary": "Open when checking run_server.", "keywords": []},
+    {"topic": "timer_resources", "file": "references/examples/timerfd-server/timer_resources.py", "summary": "Open when checking timer_resources.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/c-api", "topics": [
+  {"topic": "Overview and scope / Concrete Objects Layer", "file": "concrete-objects-layer/concrete-objects-layer.md", "summary": "Open when checking Concrete Objects Layer.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / Fundamental Objects", "file": "concrete-objects-layer/fundamental-objects.md", "summary": "Open when checking Fundamental Objects.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / Numeric Objects", "file": "concrete-objects-layer/numeric-objects.md", "summary": "Open when checking Numeric Objects.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / Sequence Objects", "file": "concrete-objects-layer/sequence-objects.md", "summary": "Open when checking Sequence Objects.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / Container Objects", "file": "concrete-objects-layer/container-objects.md", "summary": "Open when checking Container Objects.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / Function Objects", "file": "concrete-objects-layer/function-objects.md", "summary": "Open when checking Function Objects.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / Other Objects", "file": "concrete-objects-layer/other-objects.md", "summary": "Open when checking Other Objects.", "keywords": []},
+  {"topic": "Concrete Objects Layer¶ / C API for extension modules", "file": "concrete-objects-layer/c-api-for-extension-modules.md", "summary": "Open when checking C API for extension modules.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

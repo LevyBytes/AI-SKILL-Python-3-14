@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.4 release candidate 1 / documentation / asyncio", "file": "releases/3-5-4-release-candidate-1/documentation/asyncio.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / documentation / asyncio.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / documentation / compiler and parser", "file": "releases/3-5-4-release-candidate-1/documentation/compiler-and-parser.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / documentation / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / documentation / constants", "file": "releases/3-5-4-release-candidate-1/documentation/constants.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / documentation / constants.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / documentation / files and paths", "file": "releases/3-5-4-release-candidate-1/documentation/files-and-paths.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / documentation / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / documentation / inspect", "file": "releases/3-5-4-release-candidate-1/documentation/inspect.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / documentation / inspect.", "keywords": []},
+    {"topic": "Python 3.5.4 release candidate 1 / documentation / tests and documentation", "file": "releases/3-5-4-release-candidate-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.5.4 release candidate 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

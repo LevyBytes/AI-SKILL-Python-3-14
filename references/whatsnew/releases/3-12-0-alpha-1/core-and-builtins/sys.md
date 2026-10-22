@@ -1,0 +1,7 @@
+# Python 3.12.0 alpha 1 / core and builtins / sys
+
+[gh-94526](https://github.com/python/cpython/issues/94526): Repair the Python path configuration that seeds [`sys.path`](https://docs.python.org/3.14/library/sys.html#sys.path) during Python startup. To dodge encoding errors when a path holds surrogate characters, paths are no longer encoded to UTF-8/strict (bytes paths get decoded under the surrogateescape error handler). Victor Stinner wrote the patch.
+
+[gh-96143](https://github.com/python/cpython/issues/96143): Introduce a fresh `-X perf` Python command line option together with the [`sys.activate_stack_trampoline()`](https://docs.python.org/3.14/library/sys.html#sys.activate_stack_trampoline) and [`sys.deactivate_stack_trampoline()`](https://docs.python.org/3.14/library/sys.html#sys.deactivate_stack_trampoline) functions in the [`sys`](https://docs.python.org/3.14/library/sys.html#module-sys) module, which let you toggle the interpreter into a mode where the Linux `perf` profiler can spot Python calls. The fresh [`sys.is_stack_trampoline_active()`](https://docs.python.org/3.14/library/sys.html#sys.is_stack_trampoline_active) function lets you query whether the perf trampoline is on. Pablo Galindo designed it. The patch came from Pablo Galindo and Christian Heimes, with help from Gregory P. Smith [Google] and Mark Shannon.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

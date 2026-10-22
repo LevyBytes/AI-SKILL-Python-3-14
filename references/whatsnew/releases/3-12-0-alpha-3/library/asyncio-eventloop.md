@@ -1,0 +1,7 @@
+# Python 3.12.0 alpha 3 / library / asyncio eventloop
+
+[gh-93453](https://github.com/python/cpython/issues/93453): [`asyncio.get_event_loop()`](https://docs.python.org/3.14/library/asyncio-eventloop.html#asyncio.get_event_loop) plus numerous other [`asyncio`](https://docs.python.org/3.14/library/asyncio.html#module-asyncio) functions such as [`asyncio.ensure_future()`](https://docs.python.org/3.14/library/asyncio-future.html#asyncio.ensure_future), [`asyncio.shield()`](https://docs.python.org/3.14/library/asyncio-task.html#asyncio.shield) or [`asyncio.gather()`](https://docs.python.org/3.14/library/asyncio-task.html#asyncio.gather), as well as the `get_event_loop()` method on `asyncio.BaseDefaultEventLoopPolicy`, now raise a [`RuntimeError`](https://docs.python.org/3.14/library/exceptions.html#RuntimeError) when invoked while no event loop is running and no current event loop was set. Formerly they would quietly create and install a new current event loop. A [`DeprecationWarning`](https://docs.python.org/3.14/library/exceptions.html#DeprecationWarning) is no longer raised when nothing is running yet a current event loop had been set.
+
+[gh-79033](https://github.com/python/cpython/issues/79033): Make [`asyncio.Server.wait_closed()`](https://docs.python.org/3.14/library/asyncio-eventloop.html#asyncio.Server.wait_closed) honor its documented behavior — once the server closes, wait until every existing connection finishes.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

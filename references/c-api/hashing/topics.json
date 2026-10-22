@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "type Py_hash_t", "file": "hashing/py-hash-t.md", "summary": "Open when checking type Py_hash_t.", "keywords": []},
+  {"topic": "hashing C API: `Py_uhash_t`, `Py_HASH_ALGORITHM`, `Py_HASH_FNV`, `Py_HASH_SIPHASH24`, `Py_HASH_SIPHASH13`, `Py_HASH_CUTOFF`, `PyHASH_MODULUS`, `PyHASH_BITS`, `PyHASH_MULTIPLIER`, `PyHASH_INF`, `PyHASH_IMAG`", "file": "hashing/py-uhash-t-to-pyhash-imag.md", "summary": "Open when checking the documented contracts for `Py_uhash_t`, `Py_HASH_ALGORITHM`, `Py_HASH_FNV`, `Py_HASH_SIPHASH24`, `Py_HASH_SIPHASH13`, `Py_HASH_CUTOFF`, `PyHASH_MODULUS`, `PyHASH_BITS`, `PyHASH_MULTIPLIER`, `PyHASH_INF`, `PyHASH_IMAG` in hashing C API.", "keywords": []},
+  {"topic": "hashing C API: Object hash contract and numeric hashing", "file": "hashing/pyhash-api.md", "summary": "Open when checking object hash contract and numeric hashing in hashing C API.", "keywords": []},
+  {"topic": "hashing C API: Hash function definition, pointer and buffer hashing", "file": "hashing/pyhash-funcdef-to-pyobject-generichash.md", "summary": "Open when checking hash function definition, pointer and buffer hashing in hashing C API.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

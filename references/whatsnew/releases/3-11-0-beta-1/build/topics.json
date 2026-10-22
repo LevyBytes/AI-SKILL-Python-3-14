@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 beta 1 / build / build and platforms", "file": "releases/3-11-0-beta-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.11.0 beta 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / build / compiler and parser", "file": "releases/3-11-0-beta-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.11.0 beta 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / build / files and paths", "file": "releases/3-11-0-beta-1/build/files-and-paths.md", "summary": "Open when checking Python 3.11.0 beta 1 / build / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / build / refrain using posix semaphores netbsd", "file": "releases/3-11-0-beta-1/build/refrain-using-posix-semaphores-netbsd.md", "summary": "Open when checking Python 3.11.0 beta 1 / build / refrain using posix semaphores netbsd.", "keywords": []},
+    {"topic": "Python 3.11.0 beta 1 / build / supply script plus make target generate sre constants h", "file": "releases/3-11-0-beta-1/build/supply-script-plus-make-target-generate-sre-constants-h.md", "summary": "Open when checking Python 3.11.0 beta 1 / build / supply script plus make target generate sre constants h.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

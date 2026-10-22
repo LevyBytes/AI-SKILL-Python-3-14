@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "Options for third-party dependencies / BZIP2_CFLAGS / BZIP2_LIBS", "file": "build-configuration/bzip2-cflags-bzip2-libs.md", "summary": "Open when working with BZIP2_CFLAGS / BZIP2_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / CURSES_CFLAGS / CURSES_LIBS", "file": "build-configuration/curses-cflags-curses-libs.md", "summary": "Open when checking CURSES_CFLAGS / CURSES_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / GDBM_CFLAGS / GDBM_LIBS", "file": "build-configuration/gdbm-cflags-gdbm-libs.md", "summary": "Open when checking GDBM_CFLAGS / GDBM_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBEDIT_CFLAGS / LIBEDIT_LIBS", "file": "build-configuration/libedit-cflags-libedit-libs.md", "summary": "Open when checking LIBEDIT_CFLAGS / LIBEDIT_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBFFI_CFLAGS / LIBFFI_LIBS", "file": "build-configuration/libffi-cflags-libffi-libs.md", "summary": "Open when checking LIBFFI_CFLAGS / LIBFFI_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBMPDEC_CFLAGS / LIBMPDEC_LIBS", "file": "build-configuration/libmpdec-cflags-libmpdec-libs.md", "summary": "Open when checking LIBMPDEC_CFLAGS / LIBMPDEC_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBLZMA_CFLAGS / LIBLZMA_LIBS", "file": "build-configuration/liblzma-cflags-liblzma-libs.md", "summary": "Open when checking LIBLZMA_CFLAGS / LIBLZMA_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBREADLINE_CFLAGS / LIBREADLINE_LIBS", "file": "build-configuration/libreadline-cflags-libreadline-libs.md", "summary": "Open when checking LIBREADLINE_CFLAGS / LIBREADLINE_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBSQLITE3_CFLAGS / LIBSQLITE3_LIBS", "file": "build-configuration/libsqlite3-cflags-libsqlite3-libs.md", "summary": "Open when checking LIBSQLITE3_CFLAGS / LIBSQLITE3_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBUUID_CFLAGS / LIBUUID_LIBS", "file": "build-configuration/libuuid-cflags-libuuid-libs.md", "summary": "Open when checking LIBUUID_CFLAGS / LIBUUID_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / LIBZSTD_CFLAGS / LIBZSTD_LIBS", "file": "build-configuration/libzstd-cflags-libzstd-libs.md", "summary": "Open when checking LIBZSTD_CFLAGS / LIBZSTD_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / PANEL_CFLAGS / PANEL_LIBS", "file": "build-configuration/panel-cflags-panel-libs.md", "summary": "Open when checking PANEL_CFLAGS / PANEL_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / TCLTK_CFLAGS / TCLTK_LIBS", "file": "build-configuration/tcltk-cflags-tcltk-libs.md", "summary": "Open when checking TCLTK_CFLAGS / TCLTK_LIBS.", "keywords": []},
+  {"topic": "Options for third-party dependencies / ZLIB_CFLAGS / ZLIB_LIBS", "file": "build-configuration/zlib-cflags-zlib-libs.md", "summary": "Open when checking ZLIB_CFLAGS / ZLIB_LIBS.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

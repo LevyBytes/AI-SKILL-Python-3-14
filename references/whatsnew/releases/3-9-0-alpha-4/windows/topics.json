@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 4 / windows / build and platforms", "file": "releases/3-9-0-alpha-4/windows/build-and-platforms.md", "summary": "Open when checking Python 3.9.0 alpha 4 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / windows / exceptions and tracebacks", "file": "releases/3-9-0-alpha-4/windows/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.9.0 alpha 4 / windows / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / windows / files and paths", "file": "releases/3-9-0-alpha-4/windows/files-and-paths.md", "summary": "Open when checking Python 3.9.0 alpha 4 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / windows / pathlib", "file": "releases/3-9-0-alpha-4/windows/pathlib.md", "summary": "Open when checking Python 3.9.0 alpha 4 / windows / pathlib.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / windows / remove dead code tied sxs manifests", "file": "releases/3-9-0-alpha-4/windows/remove-dead-code-tied-sxs-manifests.md", "summary": "Open when checking Python 3.9.0 alpha 4 / windows / remove dead code tied sxs manifests.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

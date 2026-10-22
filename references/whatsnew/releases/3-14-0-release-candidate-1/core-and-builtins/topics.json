@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / compiler and parser", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/compiler-and-parser.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / gc", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/gc.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / gc.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / removed", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/removed.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / removed.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / repair several problems affecting perf trampolines x86 64 aarch64", "file": "x86-and-aarch64-perf-trampolines.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / repair several problems affecting perf trampolines x86 64 aarch64.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / stdtypes", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/stdtypes.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / stdtypes.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / text and unicode", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / threading", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/threading.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / threading.", "keywords": []},
+    {"topic": "Python 3.14.0 release candidate 1 / core and builtins / threads and concurrency", "file": "releases/3-14-0-release-candidate-1/core-and-builtins/threads-and-concurrency.md", "summary": "Open when checking Python 3.14.0 release candidate 1 / core and builtins / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 3 / documentation / dataclasses", "file": "releases/3-11-0-alpha-3/documentation/dataclasses.md", "summary": "Open when checking Python 3.11.0 alpha 3 / documentation / dataclasses.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / documentation / exceptions and tracebacks", "file": "releases/3-11-0-alpha-3/documentation/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.11.0 alpha 3 / documentation / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / documentation / functions", "file": "releases/3-11-0-alpha-3/documentation/functions.md", "summary": "Open when checking Python 3.11.0 alpha 3 / documentation / functions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / documentation / since make c doc suspicious will shortly dropped favor", "file": "releases/3-11-0-alpha-3/documentation/since-make-c-doc-suspicious-will-shortly-dropped-favor.md", "summary": "Open when checking Python 3.11.0 alpha 3 / documentation / since make c doc suspicious will shortly dropped favor.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / documentation / sysconfig", "file": "releases/3-11-0-alpha-3/documentation/sysconfig.md", "summary": "Open when checking Python 3.11.0 alpha 3 / documentation / sysconfig.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 3 / documentation / tests and documentation", "file": "releases/3-11-0-alpha-3/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 3 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 beta 2 / library / functions and types", "file": "releases/3-5-0-beta-2/library/functions-and-types.md", "summary": "Open when checking Python 3.5.0 beta 2 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 2 / library / provide c implementation ordereddict", "file": "releases/3-5-0-beta-2/library/provide-c-implementation-ordereddict.md", "summary": "Open when checking Python 3.5.0 beta 2 / library / provide c implementation ordereddict.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 2 / library / repair crash within streamwriter reset cjk codecs", "file": "releases/3-5-0-beta-2/library/repair-crash-within-streamwriter-reset-cjk-codecs.md", "summary": "Open when checking Python 3.5.0 beta 2 / library / repair crash within streamwriter reset cjk codecs.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 2 / library / timeit", "file": "releases/3-5-0-beta-2/library/timeit.md", "summary": "Open when checking Python 3.5.0 beta 2 / library / timeit.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

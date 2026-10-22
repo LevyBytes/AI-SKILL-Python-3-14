@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "C API pending removal in 3.16: Bundled libmpdec", "file": "c-api-removals/python-3-16/bundled-libmpdec.md", "summary": "Open when checking C API pending removal in 3.16: Bundled libmpdec.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

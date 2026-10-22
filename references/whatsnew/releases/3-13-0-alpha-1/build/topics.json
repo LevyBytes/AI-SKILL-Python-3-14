@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 1 / build / build and platforms", "file": "releases/3-13-0-alpha-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / calling find python bat together q failed properly mute output nuget", "file": "quiet-windows-python-discovery-and-nuget.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / calling find python bat together q failed properly mute output nuget.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / compiler and parser", "file": "releases/3-13-0-alpha-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / debug", "file": "releases/3-13-0-alpha-1/build/debug.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / debug.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / imports and modules", "file": "releases/3-13-0-alpha-1/build/imports-and-modules.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / imports and modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / platform", "file": "releases/3-13-0-alpha-1/build/platform.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / platform.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / python", "file": "releases/3-13-0-alpha-1/build/python.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / python.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / sqlite3", "file": "releases/3-13-0-alpha-1/build/sqlite3.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / sqlite3.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / stable", "file": "releases/3-13-0-alpha-1/build/stable.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / stable.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / stop silently swallowing profile task failure command profile guided optimization", "file": "profile-guided-build-task-failure-propagation.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / stop silently swallowing profile task failure command profile guided optimization.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / threads and concurrency", "file": "releases/3-13-0-alpha-1/build/threads-and-concurrency.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / threads and concurrency.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / build / took out make testall target lean make buildbottest stead", "file": "releases/3-13-0-alpha-1/build/took-out-make-testall-target-lean-make-buildbottest-stead.md", "summary": "Open when checking Python 3.13.0 alpha 1 / build / took out make testall target lean make buildbottest stead.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

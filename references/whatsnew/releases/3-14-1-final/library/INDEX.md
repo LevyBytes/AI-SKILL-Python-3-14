@@ -1,0 +1,77 @@
+# Historical release changes subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json).
+
+- Open when checking Python 3.14.1 final / library / constants. [Built-in objects and typing / Python 3.14.1 final / library / constants](constants.md).
+- Open when checking Python 3.14.1 final / library / textwrap. [Text Processing Services / Python 3.14.1 final / library / textwrap](textwrap.md).
+- Open when checking Python 3.14.1 final / library / re. [Text Processing Services / Python 3.14.1 final / library / re](re.md).
+- Open when checking Python 3.14.1 final / library / readline. [Text Processing Services / Python 3.14.1 final / library / readline](readline.md).
+- Open when checking Python 3.14.1 final / library / struct. [Binary Data Services / Python 3.14.1 final / library / struct](struct.md).
+- Open when checking Python 3.14.1 final / library / array. [Data Types / Python 3.14.1 final / library / array](array.md).
+- Open when checking Python 3.14.1 final / library / zoneinfo. [Data Types / Python 3.14.1 final / library / zoneinfo](zoneinfo.md).
+- Open when checking Python 3.14.1 final / library / heapq. [Data Types / Python 3.14.1 final / library / heapq](heapq.md).
+- Open when checking Python 3.14.1 final / library / decimal. [Numeric and Mathematical Modules / Python 3.14.1 final / library / decimal](decimal.md).
+- Open when checking Python 3.14.1 final / library / linecache. [File and Directory Access / Python 3.14.1 final / library / linecache](linecache.md).
+- Open when checking Python 3.14.1 final / library / logging. [Generic Operating System Services / Python 3.14.1 final / library / logging](logging.md).
+- Open when checking Python 3.14.1 final / library / reference counting defect os sched param reduce corrected. [Generic Operating System Services / Python 3.14.1 final / library / reference counting defect os sched param reduce corrected](reference-counting-defect-os-sched-param-reduce-corrected.md).
+- Open when checking Python 3.14.1 final / library / errno. [Generic Operating System Services / Python 3.14.1 final / library / errno](errno.md).
+- Open when checking Python 3.14.1 final / library / collections and iteration. [Concurrent Execution / Python 3.14.1 final / library / collections and iteration](collections-and-iteration.md).
+- Open when checking Python 3.14.1 final / library / threading. [Concurrent Execution / Python 3.14.1 final / library / threading](threading.md).
+- Open when checking Python 3.14.1 final / library / resolve possible hang within multiprocessing popen spawn posix arising child proc exits. [Concurrent Execution / Python 3.14.1 final / library / resolve possible hang within multiprocessing popen spawn posix arising child proc exits](posix-spawn-child-exit-hang.md).
+- Open when checking Python 3.14.1 final / library / socket. [Networking and Interprocess Communication / Python 3.14.1 final / library / socket](socket.md).
+- Open when checking Python 3.14.1 final / library / asyncio subprocess. [Networking and Interprocess Communication / Python 3.14.1 final / library / asyncio subprocess](asyncio-subprocess.md).
+- Open when checking Python 3.14.1 final / library / ssl. [Networking and Interprocess Communication / Python 3.14.1 final / library / ssl](ssl.md).
+- Open when checking Python 3.14.1 final / library / email. [Internet Data Handling / Python 3.14.1 final / library / email](email.md).
+- Open when checking Python 3.14.1 final / library / html parser. [Structured Markup Processing Tools / Python 3.14.1 final / library / html parser](html-parser.md).
+- Open when checking Python 3.14.1 final / library / xml etree elementtree. [Structured Markup Processing Tools / Python 3.14.1 final / library / xml etree elementtree](xml-etree-elementtree.md).
+- Open when checking Python 3.14.1 final / library / ipaddress. [Internet Protocols and Support / Python 3.14.1 final / library / ipaddress](ipaddress.md).
+- Open when checking Python 3.14.1 final / library / urllib request. [Internet Protocols and Support / Python 3.14.1 final / library / urllib request](urllib-request.md).
+- Open when checking Python 3.14.1 final / library / http server. [Internet Protocols and Support / Python 3.14.1 final / library / http server](http-server.md).
+- Open when checking Python 3.14.1 final / library / tkinter. [Graphical user interfaces with Tk / Python 3.14.1 final / library / tkinter](tkinter.md).
+- Open when checking Python 3.14.1 final / library / pydoc. [Development Tools / Python 3.14.1 final / library / pydoc](pydoc.md).
+- Open when checking Python 3.14.1 final / library / corrects partial evaluation annotations written typing annotated t x t. [Development Tools / Python 3.14.1 final / library / corrects partial evaluation annotations written typing annotated t x t](annotated-type-partial-evaluation.md).
+- Open when checking Python 3.14.1 final / library / doctest. [Development Tools / Python 3.14.1 final / library / doctest](doctest.md).
+- Open when checking Python 3.14.1 final / library / profile. [Debugging and Profiling / Python 3.14.1 final / library / profile](profile.md).
+- Open when checking Python 3.14.1 final / library / dataclasses. [Python Runtime Services / Python 3.14.1 final / library / dataclasses](dataclasses.md).
+- Open when checking Python 3.14.1 final / library / warnings. [Python Runtime Services / Python 3.14.1 final / library / warnings](warnings.md).
+- Open when checking Python 3.14.1 final / library / unix. [Python Runtime Services / Python 3.14.1 final / library / unix](unix.md).
+- Open when checking Python 3.14.1 final / library / ast. [Python Language Services / Python 3.14.1 final / library / ast](ast.md).
+- Open when checking Python 3.14.1 final / library / tokenize. [Python Language Services / Python 3.14.1 final / library / tokenize](tokenize.md).
+- Open when checking Python 3.14.1 final / library / resource. [Unix-specific services / Python 3.14.1 final / library / resource](resource.md).
+- Open when checking Python 3.14.1 final / library / collections. [Combined library maintenance / Python 3.14.1 final / library / collections](collections.md).
+- Open when checking Python 3.14.1 final / library / pdb. [Combined library maintenance / Python 3.14.1 final / library / pdb](pdb.md).
+- Open when checking Python 3.14.1 final / library / subprocess. [Combined library maintenance / Python 3.14.1 final / library / subprocess](subprocess.md).
+- Open when checking Python 3.14.1 final / library / faulthandler. [Combined library maintenance / Python 3.14.1 final / library / faulthandler](faulthandler.md).
+- Open when checking Python 3.14.1 final / library / hmac. [Combined library maintenance / Python 3.14.1 final / library / hmac](hmac.md).
+- Open when checking Python 3.14.1 final / library / typing. [Combined library maintenance / Python 3.14.1 final / library / typing](typing.md).
+- Open when checking Python 3.14.1 final / library / argparse. [Combined library maintenance / Python 3.14.1 final / library / argparse](argparse.md).
+- Open when checking Python 3.14.1 final / library / asyncio. [Combined library maintenance / Python 3.14.1 final / library / asyncio](asyncio.md).
+- Open when checking Python 3.14.1 final / library / concurrent interpreters. [Combined library maintenance / Python 3.14.1 final / library / concurrent interpreters](concurrent-interpreters.md).
+- Open when checking Python 3.14.1 final / library / pathlib. [Combined library maintenance / Python 3.14.1 final / library / pathlib](pathlib.md).
+- Open when checking Python 3.14.1 final / library / pyexpat. [Combined library maintenance / Python 3.14.1 final / library / pyexpat](pyexpat.md).
+- Open when checking Python 3.14.1 final / library / rlcompleter. [Combined library maintenance / Python 3.14.1 final / library / rlcompleter](rlcompleter.md).
+- Open when checking Python 3.14.1 final / library / annotationlib. [Combined library maintenance / Python 3.14.1 final / library / annotationlib](annotationlib.md).
+- Open when checking Python 3.14.1 final / library / base64. [Combined library maintenance / Python 3.14.1 final / library / base64](base64.md).
+- Open when checking Python 3.14.1 final / library / ctypes. [Combined library maintenance / Python 3.14.1 final / library / ctypes](ctypes.md).
+- Open when checking Python 3.14.1 final / library / exceptions. [Combined library maintenance / Python 3.14.1 final / library / exceptions](exceptions.md).
+- Open when checking Python 3.14.1 final / library / functions and types. [Combined library maintenance / Python 3.14.1 final / library / functions and types](functions-and-types.md).
+- Open when checking Python 3.14.1 final / library / inspect. [Combined library maintenance / Python 3.14.1 final / library / inspect](inspect.md).
+- Open when checking Python 3.14.1 final / library / locale. [Combined library maintenance / Python 3.14.1 final / library / locale](locale.md).
+- Open when checking Python 3.14.1 final / library / mmap. [Combined library maintenance / Python 3.14.1 final / library / mmap](mmap.md).
+- Open when checking Python 3.14.1 final / library / multiprocessing. [Combined library maintenance / Python 3.14.1 final / library / multiprocessing](multiprocessing.md).
+- Open when checking Python 3.14.1 final / library / os. [Combined library maintenance / Python 3.14.1 final / library / os](os.md).
+- Open when checking Python 3.14.1 final / library / urllib robotparser. [Combined library maintenance / Python 3.14.1 final / library / urllib robotparser](urllib-robotparser.md).
+- Open when checking Python 3.14.1 final / library / asyncio protocol. [Combined library maintenance / Python 3.14.1 final / library / asyncio protocol](asyncio-protocol.md).
+- Open when checking Python 3.14.1 final / library / tarfile. [Combined library maintenance / Python 3.14.1 final / library / tarfile](tarfile.md).
+- Open when checking Python 3.14.1 final / library / dbm. [Combined library maintenance / Python 3.14.1 final / library / dbm](dbm.md).
+- Open when checking Python 3.14.1 final / library / io. [Combined library maintenance / Python 3.14.1 final / library / io](io.md).
+- Open when checking Python 3.14.1 final / library / build and platforms. [Library compatibility and maintenance / Python 3.14.1 final / library / build and platforms](build-and-platforms.md).
+- Open when checking Python 3.14.1 final / library / files and paths. [Library compatibility and maintenance / Python 3.14.1 final / library / files and paths](files-and-paths.md).
+- Open when checking Python 3.14.1 final / library / ensurepip. [Library compatibility and maintenance / Python 3.14.1 final / library / ensurepip](ensurepip.md).
+- Open when checking Python 3.14.1 final / library / codecs. [Library compatibility and maintenance / Python 3.14.1 final / library / codecs](codecs.md).
+- Open when checking Python 3.14.1 final / library / fix pasting zero width content default repl width gives wrong. [Library compatibility and maintenance / Python 3.14.1 final / library / fix pasting zero width content default repl width gives wrong](fix-pasting-zero-width-content-default-repl-width-gives-wrong.md).
+- Open when checking Python 3.14.1 final / library / mimetypes. [Library compatibility and maintenance / Python 3.14.1 final / library / mimetypes](mimetypes.md).
+- Open when checking Python 3.14.1 final / library / imap append command s utf8 support rfc compliant. [Library compatibility and maintenance / Python 3.14.1 final / library / imap append command s utf8 support rfc compliant](imap-append-command-s-utf8-support-rfc-compliant.md).
+- Open when checking Python 3.14.1 final / library / csv. [Library compatibility and maintenance / Python 3.14.1 final / library / csv](csv.md).
+- Open when checking Python 3.14.1 final / library / threads and concurrency. [Library compatibility and maintenance / Python 3.14.1 final / library / threads and concurrency](threads-and-concurrency.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

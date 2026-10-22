@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.1 final / c api / float", "file": "releases/3-14-1-final/c-api/float.md", "summary": "Open when checking Python 3.14.1 final / c api / float.", "keywords": []},
+    {"topic": "Python 3.14.1 final / c api / functions and types", "file": "releases/3-14-1-final/c-api/functions-and-types.md", "summary": "Open when checking Python 3.14.1 final / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.14.1 final / c api / import", "file": "releases/3-14-1-final/c-api/import.md", "summary": "Open when checking Python 3.14.1 final / c api / import.", "keywords": []},
+    {"topic": "Python 3.14.1 final / c api / object", "file": "releases/3-14-1-final/c-api/object.md", "summary": "Open when checking Python 3.14.1 final / c api / object.", "keywords": []},
+    {"topic": "Python 3.14.1 final / c api / refcounting", "file": "releases/3-14-1-final/c-api/refcounting.md", "summary": "Open when checking Python 3.14.1 final / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.14.1 final / c api / threads", "file": "releases/3-14-1-final/c-api/threads.md", "summary": "Open when checking Python 3.14.1 final / c api / threads.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

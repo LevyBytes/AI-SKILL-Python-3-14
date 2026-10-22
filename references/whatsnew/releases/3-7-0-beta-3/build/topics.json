@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 3 / build / bump pip up along setuptools moving v39 0 1", "file": "releases/3-7-0-beta-3/build/bump-pip-up-along-setuptools-moving-v39-0-1.md", "summary": "Open when checking Python 3.7.0 beta 3 / build / bump pip up along setuptools moving v39 0 1.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 3 / build / overview", "file": "releases/3-7-0-beta-3/build/overview.md", "summary": "Open when checking Python 3.7.0 beta 3 / build / overview.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

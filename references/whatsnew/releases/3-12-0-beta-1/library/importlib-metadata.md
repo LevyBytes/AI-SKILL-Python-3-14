@@ -1,0 +1,5 @@
+# Python 3.12.0 beta 1 / library / importlib metadata
+
+[gh-103584](https://github.com/python/cpython/issues/103584): Brought `importlib.metadata` up to date with the changes spanning `importlib_metadata` 5.2 through 6.5.0, which include: honouring `installed-files.txt` for `Distribution.files` where it exists. `PackageMetadata` now mandates one extra `get` method that makes querying possibly-absent metadata keys straightforward. `packages_distributions` now respects packages and modules whose Python modules are not `.py` sources (for instance `.pyc`, `.so`). The protocol for `PackageMetadata.get_all` was broadened to align with the upstream `email.message.Message.get_all` in python/typeshed#9620. Employing `Distribution` without supplying abstract methods is now deprecated. Relying on `PackageMetadata.__getitem__` to hand back `None` for absent keys is now deprecated; going forward it will raise a `KeyError`.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

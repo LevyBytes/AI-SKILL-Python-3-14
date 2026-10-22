@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "asyncio and free-threaded Python", "file": "asyncio-threading/asyncio-and-free-threaded-python.md", "summary": "Open when checking asyncio and free-threaded Python.", "keywords": []},
+    {"topic": "Producer/consumer across threads", "file": "asyncio-threading/producer-consumer-across-threads.md", "summary": "Open when checking Producer/consumer across threads.", "keywords": []},
+    {"topic": "Thread safety considerations", "file": "asyncio-threading/thread-safety-considerations.md", "summary": "Open when checking Thread safety considerations.", "keywords": []},
+    {"topic": "Using asyncio with threads", "file": "asyncio-threading/using-asyncio-with-threads.md", "summary": "Open when checking Using asyncio with threads.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

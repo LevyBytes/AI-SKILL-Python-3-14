@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / argparse", "file": "releases/3-5-0-alpha-1/tools-demos/argparse.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / argparse.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / compiler and parser", "file": "releases/3-5-0-alpha-1/tools-demos/compiler-and-parser.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / files and paths", "file": "releases/3-5-0-alpha-1/tools-demos/files-and-paths.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / functions and types", "file": "releases/3-5-0-alpha-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / get tools scripts md5sum py running under python", "file": "releases/3-5-0-alpha-1/tools-demos/get-tools-scripts-md5sum-py-running-under-python.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / get tools scripts md5sum py running under python.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / imports and modules", "file": "releases/3-5-0-alpha-1/tools-demos/imports-and-modules.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / imports and modules.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / pydoc", "file": "releases/3-5-0-alpha-1/tools-demos/pydoc.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / pydoc.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / pythonwarning stopped having any effect run tests py script", "file": "releases/3-5-0-alpha-1/tools-demos/pythonwarning-stopped-having-any-effect-run-tests-py-script.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / pythonwarning stopped having any effect run tests py script.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / take abi tags into account freeze", "file": "releases/3-5-0-alpha-1/tools-demos/take-abi-tags-into-account-freeze.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / take abi tags into account freeze.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / text and unicode", "file": "releases/3-5-0-alpha-1/tools-demos/text-and-unicode.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / text and unicode.", "keywords": []},
+    {"topic": "Python 3.5.0 alpha 1 / tools demos / zipfile", "file": "releases/3-5-0-alpha-1/tools-demos/zipfile.md", "summary": "Open when checking Python 3.5.0 alpha 1 / tools demos / zipfile.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

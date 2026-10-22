@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "PEP 393: Flexible String Representation / What's New In Python 3.3 / PEP 393: Flexible String Representation", "file": "release-3-3/pep-393-flexible-string-representation.md", "summary": "Open when checking What's New In Python 3.3 / PEP 393: Flexible String Representation.", "keywords": []},
+  {"topic": "PEP 393: Flexible String Representation / What's New In Python 3.3 / Functionality — sys", "file": "release-3-3/functionality.md", "summary": "Open when checking What's New In Python 3.3 / Functionality — sys.", "keywords": []},
+  {"topic": "PEP 393: Flexible String Representation / What's New In Python 3.3 / Performance and resource usage", "file": "release-3-3/performance-and-resource-usage.md", "summary": "Open when checking What's New In Python 3.3 / Performance and resource usage.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

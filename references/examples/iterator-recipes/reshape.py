@@ -1,0 +1,6 @@
+from itertools import batched, chain
+
+def reshape(matrix, columns):
+    "Reshape a 2-D matrix to have a given number of columns."
+    # reshape([(0, 1), (2, 3), (4, 5)], 3) →  (0, 1, 2) (3, 4, 5)
+    return batched(chain.from_iterable(matrix), columns, strict=True)

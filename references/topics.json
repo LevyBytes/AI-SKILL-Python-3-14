@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python tutorial", "file": "references/tutorial/SKILL.md", "summary": "Open when learning Python syntax, data structures, functions, classes and modules.", "keywords": ["Python tutorial"]},
+    {"topic": "Language reference", "file": "references/reference/SKILL.md", "summary": "Open when checking Python syntax, object protocols, execution or grammar.", "keywords": ["Language reference"]},
+    {"topic": "Standard library", "file": "references/library/SKILL.md", "summary": "Open when looking up built-ins or a standard-library module and its API contracts.", "keywords": ["Standard library"]},
+    {"topic": "Python HOWTOs", "file": "references/howto/SKILL.md", "summary": "Open when following focused Python recipes, language techniques or tooling guides.", "keywords": ["Python HOWTOs"]},
+    {"topic": "Python FAQs", "file": "references/faq/SKILL.md", "summary": "Open when answering Python design, programming, platform or extension FAQs.", "keywords": ["Python FAQs"]},
+    {"topic": "Interpreter setup and usage", "file": "references/using/SKILL.md", "summary": "Open when configuring or launching Python, building it or installing it on a platform.", "keywords": ["Interpreter setup and usage"]},
+    {"topic": "Installing modules", "file": "references/installing/SKILL.md", "summary": "Open when installing packages into the intended interpreter or virtual environment.", "keywords": ["Installing modules"]},
+    {"topic": "Distributing modules", "file": "references/distributing/SKILL.md", "summary": "Open when finding the official module-distribution overview and packaging guide.", "keywords": ["Distributing modules"]},
+    {"topic": "Extending and embedding Python", "file": "references/extending/SKILL.md", "summary": "Open when building C/C++ extensions, custom types or an embedded interpreter.", "keywords": ["Extending and embedding Python"]},
+    {"topic": "Python/C API", "file": "references/c-api/SKILL.md", "summary": "Open when implementing extension objects, calling the C API or embedding CPython.", "keywords": ["Python/C API"]},
+    {"topic": "Historical release changes", "file": "references/whatsnew/SKILL.md", "summary": "Open when checking version-specific features, migrations, deprecations or release history.", "keywords": ["Historical release changes"]},
+    {"topic": "Deprecations and removal schedules", "file": "references/deprecations/SKILL.md", "summary": "Open when checking deprecated APIs, replacements and scheduled removal versions.", "keywords": ["Deprecations and removal schedules"]},
+    {"topic": "Glossary and documentation", "file": "references/general/SKILL.md", "summary": "Open when checking Python terminology, documentation origins or bug-reporting guidance.", "keywords": ["Glossary and documentation"]},
+    {"topic": "Native extension and embedding examples", "file": "references/examples/INDEX.md", "summary": "Open when adapting bundled C extension or embedding modules.", "keywords": ["C extensions", "embedding"]},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

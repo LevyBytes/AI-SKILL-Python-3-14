@@ -1,0 +1,5 @@
+# Python 3.12.0 alpha 7 / library / functions
+
+[gh-102433](https://github.com/python/cpython/issues/102433): [`isinstance()`](https://docs.python.org/3.14/library/functions.html#isinstance) tests against [`runtime-checkable protocols`](https://docs.python.org/3.14/library/typing.html#typing.runtime_checkable) now rely on [`inspect.getattr_static()`](https://docs.python.org/3.14/library/inspect.html#inspect.getattr_static) instead of [`hasattr()`](https://docs.python.org/3.14/library/functions.html#hasattr) when checking whether attributes are present. Consequently, descriptors and [`__getattr__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__getattr__) methods stop being evaluated unexpectedly while `isinstance()` runs against runtime-checkable protocols. The flip side is that certain objects formerly seen as instances of such a protocol may cease to count as instances on Python 3.12+, and the reverse can happen too. The change is unlikely to touch most users. Alex Waygood wrote the patch.
+
+[Subject index](INDEX.md) · [Release version, date and status](../release-overview/overview.md)

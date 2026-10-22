@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Descriptor Objects", "file": "descriptor-objects/pyproperty-type-to-pywrapper-new.md", "summary": "Open when checking Descriptor Objects.", "keywords": []},
+    {"topic": "Built-in descriptors", "file": "descriptor-objects/pysuper-type-to-pystaticmethod-new.md", "summary": "Open when checking Built-in descriptors.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

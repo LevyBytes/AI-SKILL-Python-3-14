@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 3 / windows / repair name collisions stemming define timezone timezone pc pyconfig h", "file": "windows-timezone-macro-name-collisions.md", "summary": "Open when checking Python 3.8.0 alpha 3 / windows / repair name collisions stemming define timezone timezone pc pyconfig h.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / windows / repaired decoders covering these code pages through", "file": "releases/3-8-0-alpha-3/windows/repaired-decoders-covering-these-code-pages-through.md", "summary": "Open when checking Python 3.8.0 alpha 3 / windows / repaired decoders covering these code pages through.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 3 / windows / windows", "file": "releases/3-8-0-alpha-3/windows/windows.md", "summary": "Open when checking Python 3.8.0 alpha 3 / windows / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

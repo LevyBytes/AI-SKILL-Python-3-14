@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "ast: `ast.unparse()`, `ast.literal_eval()`, `ast.get_docstring()`, `ast.get_source_segment()`, `ast.fix_missing_locations()`, `ast.increment_lineno()`, `ast.copy_location()`", "file": "ast/ast-unparse-to-ast-copy-location.md", "summary": "Open when checking the documented contracts for `ast.unparse()`, `ast.literal_eval()`, `ast.get_docstring()`, `ast.get_source_segment()`, `ast.fix_missing_locations()`, `ast.increment_lineno()`, `ast.copy_location()` in ast.", "keywords": []},
+  {"topic": "ast: `ast.iter_fields()`, `ast.iter_child_nodes()`, `ast.walk()`", "file": "ast/ast-iter-fields-to-ast-walk.md", "summary": "Open when checking the documented contracts for `ast.iter_fields()`, `ast.iter_child_nodes()`, `ast.walk()` in ast.", "keywords": []},
+  {"topic": "ast: `ast.NodeVisitor`, `visit()`, `generic_visit()`, `visit_Constant()`", "file": "ast/ast-nodevisitor-class-to-ast-nodevisitor-visit-constant.md", "summary": "Open when checking the documented contracts for `ast.NodeVisitor`, `visit()`, `generic_visit()`, `visit_Constant()` in ast.", "keywords": []},
+  {"topic": "ast: `ast.NodeTransformer`", "file": "ast/ast-nodetransformer-class.md", "summary": "Open when checking the documented contracts for `ast.NodeTransformer` in ast.", "keywords": []},
+  {"topic": "ast: `ast.dump()`, `ast.compare()`", "file": "ast/ast-dump-to-ast-compare.md", "summary": "Open when checking the documented contracts for `ast.dump()`, `ast.compare()` in ast.", "keywords": []},
+  {"topic": "ast: `ast.parse()`", "file": "ast/ast-parse.md", "summary": "Open when checking the documented contracts for `ast.parse()` in ast.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

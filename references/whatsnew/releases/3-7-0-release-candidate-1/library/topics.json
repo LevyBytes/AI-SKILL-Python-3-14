@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 release candidate 1 / library / asyncio", "file": "releases/3-7-0-release-candidate-1/library/asyncio.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / asyncio.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / base64", "file": "releases/3-7-0-release-candidate-1/library/base64.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / base64.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / build and platforms", "file": "releases/3-7-0-release-candidate-1/library/build-and-platforms.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / build and platforms.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / collections and iteration", "file": "releases/3-7-0-release-candidate-1/library/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / datetime", "file": "releases/3-7-0-release-candidate-1/library/datetime.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / datetime.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / exceptions", "file": "releases/3-7-0-release-candidate-1/library/exceptions.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / exceptions.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / introduce asyncio windowsselectoreventlooppolicy plus asyncio windowsproactoreventlooppolicy", "file": "windows-selector-and-proactor-loop-policies.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / introduce asyncio windowsselectoreventlooppolicy plus asyncio windowsproactoreventlooppolicy.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / logging", "file": "releases/3-7-0-release-candidate-1/library/logging.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / logging.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / raise deprecation warning covering inspect formatargspec", "file": "releases/3-7-0-release-candidate-1/library/raise-deprecation-warning-covering-inspect-formatargspec.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / raise deprecation warning covering inspect formatargspec.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / text and unicode", "file": "releases/3-7-0-release-candidate-1/library/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / library / unicodedata", "file": "releases/3-7-0-release-candidate-1/library/unicodedata.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / library / unicodedata.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

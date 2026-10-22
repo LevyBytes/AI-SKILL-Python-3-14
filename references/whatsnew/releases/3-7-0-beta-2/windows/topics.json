@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 2 / windows / bring tcl tk versions up", "file": "releases/3-7-0-beta-2/windows/bring-tcl-tk-versions-up.md", "summary": "Open when checking Python 3.7.0 beta 2 / windows / bring tcl tk versions up.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / windows / corrected windowsconsoleio write case writing empty data", "file": "releases/3-7-0-beta-2/windows/corrected-windowsconsoleio-write-case-writing-empty-data.md", "summary": "Open when checking Python 3.7.0 beta 2 / windows / corrected windowsconsoleio write case writing empty data.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / windows / files and paths", "file": "releases/3-7-0-beta-2/windows/files-and-paths.md", "summary": "Open when checking Python 3.7.0 beta 2 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / windows / os", "file": "releases/3-7-0-beta-2/windows/os.md", "summary": "Open when checking Python 3.7.0 beta 2 / windows / os.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / windows / text and unicode", "file": "releases/3-7-0-beta-2/windows/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 beta 2 / windows / text and unicode.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / windows / uuid", "file": "releases/3-7-0-beta-2/windows/uuid.md", "summary": "Open when checking Python 3.7.0 beta 2 / windows / uuid.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

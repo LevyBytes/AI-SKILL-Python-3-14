@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 3 / tests / build and platforms", "file": "releases/3-13-0-alpha-3/tests/build-and-platforms.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / files and paths", "file": "releases/3-13-0-alpha-3/tests/files-and-paths.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / imports and modules", "file": "releases/3-13-0-alpha-3/tests/imports-and-modules.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / numeric behavior", "file": "releases/3-13-0-alpha-3/tests/numeric-behavior.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / os path", "file": "releases/3-13-0-alpha-3/tests/os-path.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / os path.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / shutil", "file": "releases/3-13-0-alpha-3/tests/shutil.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / shutil.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / subprocess", "file": "releases/3-13-0-alpha-3/tests/subprocess.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / subprocess.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / turn off test super deep within test call pydebug builds running wasi", "file": "wasi-debug-deep-call-test-skip.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / turn off test super deep within test call pydebug builds running wasi.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 3 / tests / zlib", "file": "releases/3-13-0-alpha-3/tests/zlib.md", "summary": "Open when checking Python 3.13.0 alpha 3 / tests / zlib.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

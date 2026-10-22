@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 5 / c api / hash", "file": "releases/3-13-0-alpha-5/c-api/hash.md", "summary": "Open when checking Python 3.13.0 alpha 5 / c api / hash.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 5 / c api / public fast call function types", "file": "releases/3-13-0-alpha-5/c-api/public-fast-call-function-types.md", "summary": "Open when checking Python 3.13.0 alpha 5 / c api / public fast call function types.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "9.1. Complete Python programs", "file": "top-level-components/complete-python-programs.md", "summary": "Open when checking 9.1. Complete Python programs.", "keywords": []},
+    {"topic": "9.4. Expression input", "file": "top-level-components/expression-input.md", "summary": "Open when checking 9.4. Expression input.", "keywords": []},
+    {"topic": "9.2. File input", "file": "top-level-components/file-input.md", "summary": "Open when checking 9.2. File input.", "keywords": []},
+    {"topic": "9.3. Interactive input", "file": "top-level-components/interactive-input.md", "summary": "Open when checking 9.3. Interactive input.", "keywords": []},
+    {"topic": "9. Top-level components", "file": "top-level-components/top-level-components.md", "summary": "Open when checking 9. Top-level components.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

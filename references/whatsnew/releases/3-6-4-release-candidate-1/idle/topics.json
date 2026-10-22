@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.4 release candidate 1 / idle / dialog", "file": "releases/3-6-4-release-candidate-1/idle/dialog.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / dialog.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / files and paths", "file": "releases/3-6-4-release-candidate-1/idle/files-and-paths.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / hidpi displays default fonts scaled", "file": "releases/3-6-4-release-candidate-1/idle/hidpi-displays-default-fonts-scaled.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / hidpi displays default fonts scaled.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / idle turn htest utest parameters into keyword only ones", "file": "releases/3-6-4-release-candidate-1/idle/idle-turn-htest-utest-parameters-into-keyword-only-ones.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / idle turn htest utest parameters into keyword only ones.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / imports and modules", "file": "releases/3-6-4-release-candidate-1/idle/imports-and-modules.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / python", "file": "releases/3-6-4-release-candidate-1/idle/python.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / python.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / re", "file": "releases/3-6-4-release-candidate-1/idle/re.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / re.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / tests and documentation", "file": "releases/3-6-4-release-candidate-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / traceback", "file": "releases/3-6-4-release-candidate-1/idle/traceback.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / traceback.", "keywords": []},
+    {"topic": "Python 3.6.4 release candidate 1 / idle / windows", "file": "releases/3-6-4-release-candidate-1/idle/windows.md", "summary": "Open when checking Python 3.6.4 release candidate 1 / idle / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

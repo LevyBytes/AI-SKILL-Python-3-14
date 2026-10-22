@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.0 alpha 4 / tests / inside test pyexpat stop checking specific error message detail altered expat", "file": "expat-error-message-test-compatibility.md", "summary": "Open when checking Python 3.6.0 alpha 4 / tests / inside test pyexpat stop checking specific error message detail altered expat.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / tests / numeric behavior", "file": "releases/3-6-0-alpha-4/tests/numeric-behavior.md", "summary": "Open when checking Python 3.6.0 alpha 4 / tests / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / tests / platform", "file": "releases/3-6-0-alpha-4/tests/platform.md", "summary": "Open when checking Python 3.6.0 alpha 4 / tests / platform.", "keywords": []},
+    {"topic": "Python 3.6.0 alpha 4 / tests / tests and documentation", "file": "releases/3-6-0-alpha-4/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.6.0 alpha 4 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

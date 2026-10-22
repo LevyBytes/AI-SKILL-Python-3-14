@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 5 / documentation / dis", "file": "releases/3-9-0-alpha-5/documentation/dis.md", "summary": "Open when checking Python 3.9.0 alpha 5 / documentation / dis.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / documentation / language", "file": "releases/3-9-0-alpha-5/documentation/language.md", "summary": "Open when checking Python 3.9.0 alpha 5 / documentation / language.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / documentation / numeric", "file": "releases/3-9-0-alpha-5/documentation/numeric.md", "summary": "Open when checking Python 3.9.0 alpha 5 / documentation / numeric.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / documentation / refreshed language reference cover pep", "file": "releases/3-9-0-alpha-5/documentation/refreshed-language-reference-cover-pep.md", "summary": "Open when checking Python 3.9.0 alpha 5 / documentation / refreshed language reference cover pep.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / documentation / text and unicode", "file": "releases/3-9-0-alpha-5/documentation/text-and-unicode.md", "summary": "Open when checking Python 3.9.0 alpha 5 / documentation / text and unicode.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 5 / documentation / token", "file": "releases/3-9-0-alpha-5/documentation/token.md", "summary": "Open when checking Python 3.9.0 alpha 5 / documentation / token.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

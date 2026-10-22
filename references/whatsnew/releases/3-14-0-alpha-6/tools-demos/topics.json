@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / brings translator comment handling pygettext py", "file": "releases/3-14-0-alpha-6/tools-demos/brings-translator-comment-handling-pygettext-py.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / brings translator comment handling pygettext py.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / broadens how custom keywords may specified inside pygettext", "file": "releases/3-14-0-alpha-6/tools-demos/broadens-how-custom-keywords-may-specified-inside-pygettext.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / broadens how custom keywords may specified inside pygettext.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / build and platforms", "file": "releases/3-14-0-alpha-6/tools-demos/build-and-platforms.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / lets you replace default keywords inside pygettext", "file": "releases/3-14-0-alpha-6/tools-demos/lets-you-replace-default-keywords-inside-pygettext.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / lets you replace default keywords inside pygettext.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / repairs keyword entry shown help output pygettext", "file": "releases/3-14-0-alpha-6/tools-demos/repairs-keyword-entry-shown-help-output-pygettext.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / repairs keyword entry shown help output pygettext.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / resets msgctxt properly while messages get compiled msgfmt", "file": "releases/3-14-0-alpha-6/tools-demos/resets-msgctxt-properly-while-messages-get-compiled-msgfmt.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / resets msgctxt properly while messages get compiled msgfmt.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / tools demos / text", "file": "releases/3-14-0-alpha-6/tools-demos/text.md", "summary": "Open when checking Python 3.14.0 alpha 6 / tools demos / text.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

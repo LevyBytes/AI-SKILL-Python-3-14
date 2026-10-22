@@ -1,0 +1,84 @@
+# Python/C API subject index
+
+Select by the documented task or API context. [Topic catalog](topics.json). [Area overview](README.md).
+
+- Open when checking api and abi versioning. [API scope and compatibility / api and abi versioning](api-and-abi-versioning/INDEX.md).
+- Open when checking introduction. [API scope and compatibility / introduction](introduction/INDEX.md).
+- Open when checking orientation. [API scope and compatibility / orientation](orientation/INDEX.md).
+- Open when checking python c api reference manual. [API scope and compatibility / python c api reference manual](python-c-api-reference-manual/INDEX.md).
+- Open when checking stable abi. [API scope and compatibility / stable abi](stable-abi/INDEX.md).
+- Open when checking Version and contract conditions. [API scope and compatibility / Version and contract conditions](version-and-contract-conditions.md).
+- Open when checking initialization config. [Interpreter setup and execution / initialization config](initialization-config/INDEX.md).
+- Open when checking initialization finalization and threads. [Interpreter setup and execution / initialization finalization and threads](initialization-finalization-and-threads/INDEX.md).
+- Open when checking interpreter lifecycle. [Interpreter setup and execution / interpreter lifecycle](interpreter-lifecycle/INDEX.md).
+- Open when checking subinterpreters. [Interpreter setup and execution / subinterpreters](subinterpreters/INDEX.md).
+- Open when checking system interface. [Interpreter setup and execution / system interface](system-interface/INDEX.md).
+- Open when checking the very high level layer. [Interpreter setup and execution / the very high level layer](the-very-high-level-layer/INDEX.md).
+- Open when checking allocating objects on the heap. [Reference ownership and memory / allocating objects on the heap](allocating-objects-on-the-heap/INDEX.md).
+- Open when checking memory management. [Reference ownership and memory / memory management](memory-management/INDEX.md).
+- Open when checking object life cycle. [Reference ownership and memory / object life cycle](object-life-cycle/INDEX.md).
+- Open when checking reference counting. [Reference ownership and memory / reference counting](reference-counting/INDEX.md).
+- Open when checking supporting cyclic garbage collection. [Reference ownership and memory / supporting cyclic garbage collection](supporting-cyclic-garbage-collection/INDEX.md).
+- Open when checking weak references. [Reference ownership and memory / weak references](weak-references/INDEX.md).
+- Open when checking descriptor objects. [Object implementation and type contracts / descriptor objects](descriptor-objects/INDEX.md).
+- Open when checking object implementation support. [Object implementation and type contracts / object implementation support](object-implementation-support/INDEX.md).
+- Open when checking object structures. [Object implementation and type contracts / object structures](object-structures/INDEX.md).
+- Open when checking type hints. [Object implementation and type contracts / type hints](type-hints/INDEX.md).
+- Open when checking type objects. [Object implementation and type contracts / type objects](type-objects/INDEX.md).
+- Open when checking type slots. [Object implementation and type contracts / type slots](type-slots/INDEX.md).
+- Open when checking abstract objects layer. [Abstract object protocols / abstract objects layer](abstract-objects-layer/INDEX.md).
+- Open when checking argument parsing. [Abstract object protocols / argument parsing](argument-parsing/INDEX.md).
+- Open when checking calling objects. [Abstract object protocols / calling objects](calling-objects/INDEX.md).
+- Open when checking hashing. [Abstract object protocols / hashing](hashing/INDEX.md).
+- Open when checking iterator protocol. [Abstract object protocols / iterator protocol](iterator-protocol/INDEX.md).
+- Open when checking mapping protocol. [Abstract object protocols / mapping protocol](mapping-protocol/INDEX.md).
+- Open when checking numeric protocol. [Abstract object protocols / numeric protocol](numeric-protocol/INDEX.md).
+- Open when checking object protocol. [Abstract object protocols / object protocol](object-protocol/INDEX.md).
+- Open when checking sequence protocol. [Abstract object protocols / sequence protocol](sequence-protocol/INDEX.md).
+- Open when checking booleans. [Scalar and text objects / booleans](booleans/INDEX.md).
+- Open when checking byte array objects. [Scalar and text objects / byte array objects](byte-array-objects/INDEX.md).
+- Open when checking bytes objects. [Scalar and text objects / bytes objects](bytes-objects/INDEX.md).
+- Open when checking codec registry and support functions. [Scalar and text objects / codec registry and support functions](codec-registry-and-support-functions/INDEX.md).
+- Open when checking complex number objects. [Scalar and text objects / complex number objects](complex-number-objects/INDEX.md).
+- Open when checking concrete objects layer. [Scalar and text objects / concrete objects layer](concrete-objects-layer/INDEX.md).
+- Open when checking floating point objects. [Scalar and text objects / floating point objects](floating-point-objects/INDEX.md).
+- Open when checking integers. [Scalar and text objects / integers](integers/INDEX.md).
+- Open when checking string conversion and formatting. [Scalar and text objects / string conversion and formatting](string-conversion-and-formatting/INDEX.md).
+- Open when checking the none object. [Scalar and text objects / the none object](the-none-object/INDEX.md).
+- Open when checking unicode. [Scalar and text objects / unicode](unicode/INDEX.md).
+- Open when checking buffers. [Containers and shared buffers / buffers](buffers/INDEX.md).
+- Open when checking dictionaries. [Containers and shared buffers / dictionaries](dictionaries/INDEX.md).
+- Open when checking iterator objects. [Containers and shared buffers / iterator objects](iterator-objects/INDEX.md).
+- Open when checking lists. [Containers and shared buffers / lists](lists/INDEX.md).
+- Open when checking memoryview objects. [Containers and shared buffers / memoryview objects](memoryview-objects/INDEX.md).
+- Open when checking pickle buffer objects. [Containers and shared buffers / pickle buffer objects](pickle-buffer-objects/INDEX.md).
+- Open when checking set objects. [Containers and shared buffers / set objects](set-objects/INDEX.md).
+- Open when checking slice objects. [Containers and shared buffers / slice objects](slice-objects/INDEX.md).
+- Open when checking tuple objects. [Containers and shared buffers / tuple objects](tuple-objects/INDEX.md).
+- Open when checking cell objects. [Callable and execution objects / cell objects](cell-objects/INDEX.md).
+- Open when checking code objects. [Callable and execution objects / code objects](code-objects/INDEX.md).
+- Open when checking context variables objects. [Callable and execution objects / context variables objects](context-variables-objects/INDEX.md).
+- Open when checking coroutine objects. [Callable and execution objects / coroutine objects](coroutine-objects/INDEX.md).
+- Open when checking frame objects. [Callable and execution objects / frame objects](frame-objects/INDEX.md).
+- Open when checking function objects. [Callable and execution objects / function objects](function-objects/INDEX.md).
+- Open when checking generator objects. [Callable and execution objects / generator objects](generator-objects/INDEX.md).
+- Open when checking instance method objects. [Callable and execution objects / instance method objects](instance-method-objects/INDEX.md).
+- Open when checking capsules. [Extensions and data interchange / capsules](capsules/INDEX.md).
+- Open when checking curses c api. [Extensions and data interchange / curses c api](curses-c-api/INDEX.md).
+- Open when checking data marshalling support. [Extensions and data interchange / data marshalling support](data-marshalling-support/INDEX.md).
+- Open when checking datetime objects. [Extensions and data interchange / datetime objects](datetime-objects/INDEX.md).
+- Open when checking defining extension modules. [Extensions and data interchange / defining extension modules](defining-extension-modules/INDEX.md).
+- Open when checking file objects. [Extensions and data interchange / file objects](file-objects/INDEX.md).
+- Open when checking imports. [Extensions and data interchange / imports](imports/INDEX.md).
+- Open when checking modules. [Extensions and data interchange / modules](modules/INDEX.md).
+- Open when checking pytime c api. [Extensions and data interchange / pytime c api](pytime-c-api/INDEX.md).
+- Open when checking exceptions. [Exceptions and runtime inspection / exceptions](exceptions/INDEX.md).
+- Open when checking monitoring c api. [Exceptions and runtime inspection / monitoring c api](monitoring-c-api/INDEX.md).
+- Open when checking profiling and tracing. [Exceptions and runtime inspection / profiling and tracing](profiling-and-tracing/INDEX.md).
+- Open when checking reflection. [Exceptions and runtime inspection / reflection](reflection/INDEX.md).
+- Open when checking support for perf maps. [Exceptions and runtime inspection / support for perf maps](support-for-perf-maps/INDEX.md).
+- Open when checking utilities. [Exceptions and runtime inspection / utilities](utilities/INDEX.md).
+- Open when checking synchronization. [Thread state and synchronization / synchronization](synchronization/INDEX.md).
+- Open when checking thread local storage support. [Thread state and synchronization / thread local storage support](thread-local-storage-support/INDEX.md).
+- Open when checking thread state. [Thread state and synchronization / thread state](thread-state/INDEX.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](languages.md).

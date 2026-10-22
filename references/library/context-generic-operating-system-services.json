@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Generic Operating System Services / allos", "file": "allos/INDEX.md", "summary": "Open when checking allos.", "keywords": []},
+  {"topic": "Generic Operating System Services / os", "file": "os/INDEX.md", "summary": "Open when checking os.", "keywords": []},
+  {"topic": "Generic Operating System Services / io", "file": "io/INDEX.md", "summary": "Open when checking io.", "keywords": []},
+  {"topic": "Generic Operating System Services / time", "file": "time/INDEX.md", "summary": "Open when checking time.", "keywords": []},
+  {"topic": "Generic Operating System Services / logging", "file": "logging/INDEX.md", "summary": "Open when checking logging.", "keywords": []},
+  {"topic": "Generic Operating System Services / logging config", "file": "logging-config/INDEX.md", "summary": "Open when checking logging config.", "keywords": []},
+  {"topic": "Generic Operating System Services / logging handlers", "file": "logging-handlers/INDEX.md", "summary": "Open when checking logging handlers.", "keywords": []},
+  {"topic": "Generic Operating System Services / platform", "file": "platform/INDEX.md", "summary": "Open when checking platform.", "keywords": []},
+  {"topic": "Generic Operating System Services / errno", "file": "errno/INDEX.md", "summary": "Open when checking errno.", "keywords": []},
+  {"topic": "Generic Operating System Services / ctypes", "file": "ctypes/INDEX.md", "summary": "Open when checking ctypes.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

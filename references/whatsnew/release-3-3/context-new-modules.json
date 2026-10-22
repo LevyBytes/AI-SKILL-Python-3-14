@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "New Modules / What's New In Python 3.3 / faulthandler — faulthandler, signal", "file": "release-3-3/faulthandler.md", "summary": "Open when checking What's New In Python 3.3 / faulthandler — faulthandler, signal.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.3 / ipaddress — ipaddress", "file": "release-3-3/ipaddress.md", "summary": "Open when checking What's New In Python 3.3 / ipaddress — ipaddress.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.3 / lzma — lzma", "file": "release-3-3/lzma.md", "summary": "Open when checking What's New In Python 3.3 / lzma — lzma.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "topics": [
+  {"topic": "importlib.resources.abc – Abstract base classes for resources", "file": "importlib-resources-abc/importlib-resources-abc-abstract-base-classes-for-resources.md", "summary": "Open when checking importlib.resources.abc – Abstract base classes for resources.", "keywords": []},
+  {"topic": "importlib.resources.abc: `importlib.resources.abc.ResourceReader`", "file": "importlib-resources-abc/importlib-resources-abc-resourcereader-class.md", "summary": "Open when checking the documented contracts for `importlib.resources.abc.ResourceReader` in importlib.resources.abc.", "keywords": []},
+  {"topic": "importlib.resources.abc: `importlib.resources.abc.Traversable`, `read_bytes()`, `read_text()`", "file": "traversable-resource-interface.md", "summary": "Open when checking the documented contracts for `importlib.resources.abc.Traversable`, `read_bytes()`, `read_text()` in importlib.resources.abc.", "keywords": []},
+  {"topic": "importlib.resources.abc: `importlib.resources.abc.TraversableResources`", "file": "importlib-resources-abc/importlib-resources-abc-traversableresources-class.md", "summary": "Open when checking the documented contracts for `importlib.resources.abc.TraversableResources` in importlib.resources.abc.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,16 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Buffer Protocol", "file": "buffers/buffer-protocol.md", "summary": "Open when checking Buffer Protocol.", "keywords": []},
+  {"topic": "Buffer request types", "file": "buffers/buffer-request-types.md", "summary": "Open when checking Buffer request types.", "keywords": []},
+  {"topic": "buffers C API: Buffer memory representation and lifetime overview", "file": "buffers/buffer-structure.md", "summary": "Open when checking buffer memory representation and lifetime overview in buffers C API.", "keywords": []},
+  {"topic": "buffers C API: `Py_buffer`, `PyBUF_MAX_NDIM`", "file": "buffers/py-buffer-to-pybuf-max-ndim.md", "summary": "Open when checking the documented contracts for `Py_buffer`, `PyBUF_MAX_NDIM` in buffers C API.", "keywords": []},
+  {"topic": "compound requests", "file": "buffers/compound-requests.md", "summary": "Open when checking compound requests.", "keywords": []},
+  {"topic": "contiguity requests", "file": "buffers/contiguity-requests.md", "summary": "Open when checking contiguity requests.", "keywords": []},
+  {"topic": "NumPy-style: shape and strides", "file": "buffers/numpy-style-shape-and-strides.md", "summary": "Open when checking NumPy-style: shape and strides.", "keywords": []},
+  {"topic": "PIL-style: shape, strides and suboffsets", "file": "buffers/pil-style-shape-strides-and-suboffsets.md", "summary": "Open when checking PIL-style: shape, strides and suboffsets.", "keywords": []},
+  {"topic": "readonly, format", "file": "buffers/pybuf-writable-to-pybuf-format.md", "summary": "Open when checking readonly, format.", "keywords": []},
+  {"topic": "int PyBuffer_FillInfo(Py_buffer *view, PyObject *exporter, void *buf, Py_ssize_t len, int readonly, int flags)", "file": "buffers/pybuffer-fillinfo.md", "summary": "Open when checking int PyBuffer_FillInfo(Py_buffer *view, PyObject *exporter, void *buf, Py_ssize_t len, int readonly, int flags).", "keywords": []},
+  {"topic": "Buffer-related functions", "file": "buffers/pyobject-checkbuffer-to-pybuffer-fillcontiguousstrides.md", "summary": "Open when checking Buffer-related functions.", "keywords": []},
+  {"topic": "request-independent fields", "file": "buffers/request-independent-fields.md", "summary": "Open when checking request-independent fields.", "keywords": []},
+  {"topic": "shape, strides, suboffsets", "file": "buffers/shape-strides-suboffsets.md", "summary": "Open when checking shape, strides, suboffsets.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

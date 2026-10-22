@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.0 beta 3 / library / audioop", "file": "releases/3-5-0-beta-3/library/audioop.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / audioop.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / collections and iteration", "file": "releases/3-5-0-beta-3/library/collections-and-iteration.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / compiler and parser", "file": "releases/3-5-0-beta-3/library/compiler-and-parser.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / each instance can once again read mock open read data just possible", "file": "mock-open-per-instance-read-state.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / each instance can once again read mock open read data just possible.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / errno", "file": "releases/3-5-0-beta-3/library/errno.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / errno.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / functions and types", "file": "releases/3-5-0-beta-3/library/functions-and-types.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / functions and types.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / guard against keys changing while iterating", "file": "releases/3-5-0-beta-3/library/guard-against-keys-changing-while-iterating.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / guard against keys changing while iterating.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / json", "file": "releases/3-5-0-beta-3/library/json.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / json.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / memory and lifetimes", "file": "releases/3-5-0-beta-3/library/memory-and-lifetimes.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / numeric behavior", "file": "releases/3-5-0-beta-3/library/numeric-behavior.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / numeric behavior.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / raise keyerror whenever pydict getitemwitherror hands back null", "file": "dictionary-lookup-null-result-key-error.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / raise keyerror whenever pydict getitemwitherror hands back null.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / remove unnecessary incref decref pair", "file": "releases/3-5-0-beta-3/library/remove-unnecessary-incref-decref-pair.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / remove unnecessary incref decref pair.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / streamline resize logic fast nodes c ordereddict", "file": "releases/3-5-0-beta-3/library/streamline-resize-logic-fast-nodes-c-ordereddict.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / streamline resize logic fast nodes c ordereddict.", "keywords": []},
+    {"topic": "Python 3.5.0 beta 3 / library / tokenize", "file": "releases/3-5-0-beta-3/library/tokenize.md", "summary": "Open when checking Python 3.5.0 beta 3 / library / tokenize.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

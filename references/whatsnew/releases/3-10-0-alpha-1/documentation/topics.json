@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 1 / documentation / collections and iteration", "file": "releases/3-10-0-alpha-1/documentation/collections-and-iteration.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / corrected tutorial section", "file": "releases/3-10-0-alpha-1/documentation/corrected-tutorial-section.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / corrected tutorial section.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / debug", "file": "releases/3-10-0-alpha-1/documentation/debug.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / debug.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / functions and types", "file": "releases/3-10-0-alpha-1/documentation/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / future", "file": "releases/3-10-0-alpha-1/documentation/future.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / future.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / refresh refcounts data pytype frommoduleandspec", "file": "releases/3-10-0-alpha-1/documentation/refresh-refcounts-data-pytype-frommoduleandspec.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / refresh refcounts data pytype frommoduleandspec.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / tests and documentation", "file": "releases/3-10-0-alpha-1/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / tkinter", "file": "releases/3-10-0-alpha-1/documentation/tkinter.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / tkinter.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / documentation / typing", "file": "releases/3-10-0-alpha-1/documentation/typing.md", "summary": "Open when checking Python 3.10.0 alpha 1 / documentation / typing.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

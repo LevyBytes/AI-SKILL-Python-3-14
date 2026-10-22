@@ -1,0 +1,51 @@
+# pprint — Example — Code example: >>> pprint.pp(project_info, depth=1)
+
+```python
+>>> pprint.pp(project_info, depth=1)
+{'author': 'The Python Packaging Authority',
+ 'author_email': 'pypa-dev@googlegroups.com',
+ 'bugtrack_url': None,
+ 'classifiers': [...],
+ 'description': 'A sample Python project\n'
+                '=======================\n'
+                '\n'
+                'This is the description file for the project.\n'
+                '\n'
+                'The file should use UTF-8 encoding and be written using '
+                'ReStructured Text. It\n'
+                'will be used to generate the project webpage on PyPI, and '
+                'should be written for\n'
+                'that purpose.\n'
+                '\n'
+                'Typical contents for this file would include an overview of '
+                'the project, basic\n'
+                'usage examples, etc. Generally, including the project '
+                'changelog in here is not\n'
+                'a good idea, although a simple "What\'s New" section for the '
+                'most recent version\n'
+                'may be appropriate.',
+ 'description_content_type': None,
+ 'docs_url': None,
+ 'download_url': 'UNKNOWN',
+ 'downloads': {...},
+ 'home_page': 'https://github.com/pypa/sampleproject',
+ 'keywords': 'sample setuptools development',
+ 'license': 'MIT',
+ 'maintainer': None,
+ 'maintainer_email': None,
+ 'name': 'sampleproject',
+ 'package_url': 'https://pypi.org/project/sampleproject/',
+ 'platform': 'UNKNOWN',
+ 'project_url': 'https://pypi.org/project/sampleproject/',
+ 'project_urls': {...},
+ 'release_url': 'https://pypi.org/project/sampleproject/1.2.0/',
+ 'requires_dist': None,
+ 'requires_python': None,
+ 'summary': 'A sample Python project',
+ 'version': '1.2.0'}
+
+```
+
+On top of that, you may propose a maximum character *width*. Should a lengthy object resist splitting, the width you named gets overrun:
+
+[Subject index](INDEX.md) · [Previous](example-section-introduction-and-initial-examples.md) · [Continue](example-code-example-pprint-pp-project-info-depth-1-width-60.md) · [Owning module, declaration or section: pprint](pprint-data-pretty-printer.md) · [Owning module, declaration or section: Example](example-section-introduction-and-initial-examples.md)

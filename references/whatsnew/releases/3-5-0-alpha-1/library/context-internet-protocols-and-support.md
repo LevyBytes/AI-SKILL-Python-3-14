@@ -1,0 +1,15 @@
+# Internet Protocols and Support
+
+Select by the documented task or API context. [Topic catalog](context-internet-protocols-and-support.json).
+
+- Open when checking Python 3.5.0 alpha 1 / library / much faster ipaddress collapse addresses implementation cases many non consecutive addresses. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / much faster ipaddress collapse addresses implementation cases many non consecutive addresses](ip-address-collapse-performance.md).
+- Open when checking Python 3.5.0 alpha 1 / library / urllib request httpbasicpriorauthhandler added. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / urllib request httpbasicpriorauthhandler added](urllib-request-httpbasicpriorauthhandler-added.md).
+- Open when checking Python 3.5.0 alpha 1 / library / aix uuid getnode reads mac address through netstat. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / aix uuid getnode reads mac address through netstat](aix-uuid-getnode-reads-mac-address-through-netstat.md).
+- Open when checking Python 3.5.0 alpha 1 / library / unpickling http cookies simplecookie protocol or higher fixed. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / unpickling http cookies simplecookie protocol or higher fixed](unpickling-http-cookies-simplecookie-protocol-or-higher-fixed.md).
+- Open when checking Python 3.5.0 alpha 1 / library / imaplib imap4 honors context management protocol. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / imaplib imap4 honors context management protocol](imaplib-imap4-honors-context-management-protocol.md).
+- Open when checking Python 3.5.0 alpha 1 / library / both ipaddress summarize address range ipaddress ipv4network ipv6network subnets optimized. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / both ipaddress summarize address range ipaddress ipv4network ipv6network subnets optimized](ip-range-summary-and-subnet-optimization.md).
+- Open when checking Python 3.5.0 alpha 1 / library / ipaddress collapse addresses optimized. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / ipaddress collapse addresses optimized](ipaddress-collapse-addresses-optimized.md).
+- Open when checking Python 3.5.0 alpha 1 / library / urllib request. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / urllib request](urllib-request.md).
+- Open when checking Python 3.5.0 alpha 1 / library / corrected host header along reconnection during use http client httpconnection set tunnel. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / corrected host header along reconnection during use http client httpconnection set tunnel](http-tunnel-host-header-and-reconnection.md).
+- Open when checking Python 3.5.0 alpha 1 / library / context manager what xmlrpc client serverproxy become. [Internet Protocols and Support / Python 3.5.0 alpha 1 / library / context manager what xmlrpc client serverproxy become](context-manager-what-xmlrpc-client-serverproxy-become.md).
+- Open when you need a language version of references other than English. [Reference Language Selection](../../../languages.md).

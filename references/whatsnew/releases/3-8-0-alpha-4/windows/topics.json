@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / windows / build and platforms", "file": "releases/3-8-0-alpha-4/windows/build-and-platforms.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / compiler and parser", "file": "releases/3-8-0-alpha-4/windows/compiler-and-parser.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / constants", "file": "releases/3-8-0-alpha-4/windows/constants.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / constants.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / corrected activate bat codepage updates properly whenever chcp com emits dots", "file": "windows-activation-code-page-output-parsing.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / corrected activate bat codepage updates properly whenever chcp com emits dots.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / debug", "file": "releases/3-8-0-alpha-4/windows/debug.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / debug.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / installed through store registry keys no longer keep their", "file": "releases/3-8-0-alpha-4/windows/installed-through-store-registry-keys-no-longer-keep-their.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / installed through store registry keys no longer keep their.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / os", "file": "releases/3-8-0-alpha-4/windows/os.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / os.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / tkinter", "file": "releases/3-8-0-alpha-4/windows/tkinter.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / tkinter.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / venv", "file": "releases/3-8-0-alpha-4/windows/venv.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / venv.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / windows / windows", "file": "releases/3-8-0-alpha-4/windows/windows.md", "summary": "Open when checking Python 3.8.0 alpha 4 / windows / windows.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

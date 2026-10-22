@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.4 final / build / binary", "file": "releases/3-14-4-final/build/binary.md", "summary": "Open when checking Python 3.14.4 final / build / binary.", "keywords": []},
+    {"topic": "Python 3.14.4 final / build / build and platforms", "file": "releases/3-14-4-final/build/build-and-platforms.md", "summary": "Open when checking Python 3.14.4 final / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.4 final / build / random", "file": "releases/3-14-4-final/build/random.md", "summary": "Open when checking Python 3.14.4 final / build / random.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

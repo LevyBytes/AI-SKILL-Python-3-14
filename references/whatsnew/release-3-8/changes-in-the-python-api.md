@@ -1,0 +1,73 @@
+# What’s New In Python 3.8 / Changes in the Python API
+
+### Changes in the Python API
+
+- Rather than the ANSI code page, the [`os.getcwdb()`](https://docs.python.org/3.14/library/os.html#os.getcwdb) function now encodes with UTF-8 on Windows; consult [**PEP 529**](https://peps.python.org/pep-0529/) for why. That function carries no deprecation marker on Windows any longer. (Contributed by Victor Stinner in [bpo-37412](https://bugs.python.org/issue?@action=redirect&bpo=37412).)
+
+- For improved speed in certain situations, [`subprocess.Popen`](https://docs.python.org/3.14/library/subprocess.html#subprocess.Popen) may now invoke [`os.posix_spawn()`](https://docs.python.org/3.14/library/os.html#os.posix_spawn). Under Windows Subsystem for Linux as well as QEMU User Emulation, a `Popen` constructor going through `os.posix_spawn()` will no longer throw for faults such as a "missing program". The child process instead exits carrying a non-zero [`returncode`](https://docs.python.org/3.14/library/subprocess.html#subprocess.Popen.returncode). (Contributed by Joannah Nanjekye and Victor Stinner in [bpo-35537](https://bugs.python.org/issue?@action=redirect&bpo=35537).)
+
+- Subinterpreters can no longer work with the *preexec_fn* argument of * [`subprocess.Popen`](https://docs.python.org/3.14/library/subprocess.html#subprocess.Popen). Supplying that parameter from within a subinterpreter now triggers [`RuntimeError`](https://docs.python.org/3.14/library/exceptions.html#RuntimeError). (Contributed by Eric Snow in [bpo-34651](https://bugs.python.org/issue?@action=redirect&bpo=34651), modified by Christian Heimes in [bpo-37951](https://bugs.python.org/issue?@action=redirect&bpo=37951).)
+
+- Arbitrary exceptions are no longer quietly swallowed by the [`imaplib.IMAP4.logout()`](https://docs.python.org/3.14/library/imaplib.html#imaplib.IMAP4.logout) method. (Contributed by Victor Stinner in [bpo-36348](https://bugs.python.org/issue?@action=redirect&bpo=36348).)
+
+- Deprecated all the way back in Python 3.3, the function `platform.popen()` has now been deleted: reach for [`os.popen()`](https://docs.python.org/3.14/library/os.html#os.popen) in its place. (Contributed by Victor Stinner in [bpo-35345](https://bugs.python.org/issue?@action=redirect&bpo=35345).)
+
+- When handed multimodal data, the [`statistics.mode()`](https://docs.python.org/3.14/library/statistics.html#statistics.mode) function no longer throws. It now hands back whichever mode appears first across the input data. (Contributed by Raymond Hettinger in [bpo-35892](https://bugs.python.org/issue?@action=redirect&bpo=35892).)
+
+- Arguments are no longer accepted by the [`selection()`](https://docs.python.org/3.14/library/tkinter.ttk.html#tkinter.ttk.Treeview.selection) method of the [`tkinter.ttk.Treeview`](https://docs.python.org/3.14/library/tkinter.ttk.html#tkinter.ttk.Treeview) class. Passing arguments to it so as to alter the selection had been deprecated back in Python 3.6. To modify the selection, turn to dedicated methods such as [`selection_set()`](https://docs.python.org/3.14/library/tkinter.ttk.html#tkinter.ttk.Treeview.selection_set). (Contributed by Serhiy Storchaka in [bpo-31508](https://bugs.python.org/issue?@action=redirect&bpo=31508).)
+
+- The user-given attribute ordering is now retained by the [`writexml()`](https://docs.python.org/3.14/library/xml.dom.minidom.html#xml.dom.minidom.Node.writexml), [`toxml()`](https://docs.python.org/3.14/library/xml.dom.minidom.html#xml.dom.minidom.Node.toxml) and [`toprettyxml()`](https://docs.python.org/3.14/library/xml.dom.minidom.html#xml.dom.minidom.Node.toprettyxml) methods of [`xml.dom.minidom`](https://docs.python.org/3.14/library/xml.dom.minidom.html#module-xml.dom.minidom) along with the [`write()`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.ElementTree.write) method of [`xml.etree.ElementTree`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#module-xml.etree.ElementTree). (Contributed by Diego Rojas and Raymond Hettinger in [bpo-34160](https://bugs.python.org/issue?@action=redirect&bpo=34160).)
+
+- Opening a [`dbm.dumb`](https://docs.python.org/3.14/library/dbm.html#module-dbm.dumb) database under flags `'r'` now yields a read-only handle. A [`dbm.dumb.open()`](https://docs.python.org/3.14/library/dbm.html#dbm.dumb.open) call using flags `'r'` and `'w'` will no longer build a database when none already exists. (Contributed by Serhiy Storchaka in [bpo-32749](https://bugs.python.org/issue?@action=redirect&bpo=32749).)
+
+- Defining a `doctype()` method within a subclass of [`XMLParser`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.XMLParser) will now go uncalled and will raise a [`RuntimeWarning`](https://docs.python.org/3.14/library/exceptions.html#RuntimeWarning) in place of a [`DeprecationWarning`](https://docs.python.org/3.14/library/exceptions.html#DeprecationWarning). For coping with an XML doctype declaration, put the [`doctype()`](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml.etree.ElementTree.TreeBuilder.doctype) method onto a target instead. (Contributed by Serhiy Storchaka in [bpo-29209](https://bugs.python.org/issue?@action=redirect&bpo=29209).)
+
+- Should a custom metaclass fail to supply the `__classcell__` entry inside the namespace handed to `type.__new__`, a [`RuntimeError`](https://docs.python.org/3.14/library/exceptions.html#RuntimeError) is now thrown. Across Python 3.6–3.7 the same situation only produced a [`DeprecationWarning`](https://docs.python.org/3.14/library/exceptions.html#DeprecationWarning). (Contributed by Serhiy Storchaka in [bpo-23722](https://bugs.python.org/issue?@action=redirect&bpo=23722).)
+
+- You may now treat the [`cProfile.Profile`](https://docs.python.org/3.14/library/profile.html#profile.Profile) class as a context manager. (Contributed by Scott Sanderson in [bpo-29235](https://bugs.python.org/issue?@action=redirect&bpo=29235).)
+
+- The functions [`shutil.copyfile()`](https://docs.python.org/3.14/library/shutil.html#shutil.copyfile), [`shutil.copy()`](https://docs.python.org/3.14/library/shutil.html#shutil.copy), [`shutil.copy2()`](https://docs.python.org/3.14/library/shutil.html#shutil.copy2), [`shutil.copytree()`](https://docs.python.org/3.14/library/shutil.html#shutil.copytree) and [`shutil.move()`](https://docs.python.org/3.14/library/shutil.html#shutil.move) lean on platform-tailored "fast-copy" syscalls (refer to the [Platform-dependent efficient copy operations](https://docs.python.org/3.14/library/shutil.html#shutil-platform-dependent-efficient-copy-operations) section).
+
+- On Windows the default buffer size for [`shutil.copyfile()`](https://docs.python.org/3.14/library/shutil.html#shutil.copyfile) went from 16 KiB up to 1 MiB.
+
+- A wholesale change has come to the `PyGC_Head` struct. Any code that reached into the struct member needs rewriting. (See [bpo-33597](https://bugs.python.org/issue?@action=redirect&bpo=33597).)
+
+- Relocated into the "internal" header files (namely Include/internal/pycore_pystate.h) is the [`PyInterpreterState`](https://docs.python.org/3.14/c-api/subinterpreters.html#c.PyInterpreterState) struct. The public API (and the stable ABI) still exposes an opaque `PyInterpreterState`. Per the docs none of that struct's fields count as public, so the expectation is that nobody has been touching them. That said, if you happen to depend on one or more of those private fields with no other option, please file a BPO issue. We will help you adapt (which might involve adding accessor functions onto the public API). (See [bpo-35886](https://bugs.python.org/issue?@action=redirect&bpo=35886).)
+
+- Across every platform the [`mmap.flush()`](https://docs.python.org/3.14/library/mmap.html#mmap.mmap.flush) method now hands back `None` when it succeeds and throws an exception on failure. Earlier, the outcome varied by platform: under Windows a nonzero result signalled success while zero meant error, whereas under Unix a zero result signalled success while an exception was thrown for an error. (Contributed by Berker Peksag in [bpo-2122](https://bugs.python.org/issue?@action=redirect&bpo=2122).)
+
+- By default the [`xml.dom.minidom`](https://docs.python.org/3.14/library/xml.dom.minidom.html#module-xml.dom.minidom) and [`xml.sax`](https://docs.python.org/3.14/library/xml.sax.html#module-xml.sax) modules no longer pull in external entities. (Contributed by Christian Heimes in [bpo-17239](https://bugs.python.org/issue?@action=redirect&bpo=17239).)
+
+- Removing a key out of a read-only [`dbm`](https://docs.python.org/3.14/library/dbm.html#module-dbm) database ([`dbm.dumb`](https://docs.python.org/3.14/library/dbm.html#module-dbm.dumb), [`dbm.gnu`](https://docs.python.org/3.14/library/dbm.html#module-dbm.gnu) or [`dbm.ndbm`](https://docs.python.org/3.14/library/dbm.html#module-dbm.ndbm)) now raises `error` ([`dbm.dumb.error`](https://docs.python.org/3.14/library/dbm.html#dbm.dumb.error), [`dbm.gnu.error`](https://docs.python.org/3.14/library/dbm.html#dbm.gnu.error) or [`dbm.ndbm.error`](https://docs.python.org/3.14/library/dbm.html#dbm.ndbm.error)) rather than [`KeyError`](https://docs.python.org/3.14/library/exceptions.html#KeyError). (Contributed by Xiang Zhang in [bpo-33106](https://bugs.python.org/issue?@action=redirect&bpo=33106).)
+
+- The AST for literals has been streamlined. Every constant is now carried as an [`ast.Constant`](https://docs.python.org/3.14/library/ast.html#ast.Constant) instance. Constructing the former classes `Num`, `Str`, `Bytes`, `NameConstant` and `Ellipsis` will produce a `Constant` instance. (Contributed by Serhiy Storchaka in [bpo-32892](https://bugs.python.org/issue?@action=redirect&bpo=32892).)
+
+-
+
+When run on Windows, [`expanduser()`](https://docs.python.org/3.14/library/os.path.html#os.path.expanduser) now leans on the `USERPROFILE` environment variable and steers clear of `HOME`, which ordinary user accounts typically leave unset. (Contributed by Anthony Sottile in [bpo-36264](https://bugs.python.org/issue?@action=redirect&bpo=36264).)
+
+- Now the [`asyncio.CancelledError`](https://docs.python.org/3.14/library/asyncio-exceptions.html#asyncio.CancelledError) exception derives from [`BaseException`](https://docs.python.org/3.14/library/exceptions.html#BaseException) instead of [`Exception`](https://docs.python.org/3.14/library/exceptions.html#Exception) and has dropped its inheritance from [`concurrent.futures.CancelledError`](https://docs.python.org/3.14/library/concurrent.futures.html#concurrent.futures.CancelledError). (Contributed by Yury Selivanov in [bpo-32528](https://bugs.python.org/issue?@action=redirect&bpo=32528).)
+
+- Where an [`asyncio.Task`](https://docs.python.org/3.14/library/asyncio-task.html#asyncio.Task) instance is in play, the [`asyncio.wait_for()`](https://docs.python.org/3.14/library/asyncio-task.html#asyncio.wait_for) function now properly holds on for the cancellation to finish. Formerly, once *timeout* arrived, it got cancelled and returned right away. (Contributed by Elvis Pranskevichus in [bpo-32751](https://bugs.python.org/issue?@action=redirect&bpo=32751).)
+
+- Passing "socket" to the *name* parameter now makes the [`asyncio.BaseTransport.get_extra_info()`](https://docs.python.org/3.14/library/asyncio-protocol.html#asyncio.BaseTransport.get_extra_info) function return a socket object that is safe to use. (Contributed by Yury Selivanov in [bpo-37027](https://bugs.python.org/issue?@action=redirect&bpo=37027).)
+
+- Now part of the stable API is [`asyncio.BufferedProtocol`](https://docs.python.org/3.14/library/asyncio-protocol.html#asyncio.BufferedProtocol).
+
+- Under Windows, DLL dependencies of extension modules together with DLLs brought in through [`ctypes`](https://docs.python.org/3.14/library/ctypes.html#module-ctypes) now resolve in a tighter, more secure way. Load-time dependencies get looked up only across the system paths, the folder holding the DLL or PYD file, and any directories registered via [`add_dll_directory()`](https://docs.python.org/3.14/library/os.html#os.add_dll_directory). In particular, `PATH` and the current working directory no longer participate, so altering them has no bearing on standard DLL resolution. Where your application leans on these mechanisms, check whether `add_dll_directory()` is present and, if so, employ it to register your DLLs directory as your library loads. Be aware that those on Windows 7 must make sure Windows Update KB2533623 is installed (the installer also confirms this). (Contributed by Steve Dower in [bpo-36085](https://bugs.python.org/issue?@action=redirect&bpo=36085).)
+
+- After a pure Python implementation took its place, the header files and functions tied to pgen have been stripped out. (Contributed by Pablo Galindo in [bpo-36623](https://bugs.python.org/issue?@action=redirect&bpo=36623).)
+
+- To back the positional-only arguments laid out in [**PEP 570**](https://peps.python.org/pep-0570/), [`types.CodeType`](https://docs.python.org/3.14/library/types.html#types.CodeType) gained a fresh parameter sitting in the constructor's second slot (*posonlyargcount*). The leading argument (*argcount*) now stands for the full count of positional arguments (positional-only ones included). To keep code future-proof, you can lean on the new `replace()` method of `types.CodeType`.
+
+- For [`hmac.new()`](https://docs.python.org/3.14/library/hmac.html#hmac.new), the `digestmod` parameter no longer defaults to the MD5 digest.
+
+### Notable changes in Python 3.8.12
+
+### Changes in the Python API
+
+From Python 3.8.12 forward, the [`ipaddress`](https://docs.python.org/3.14/library/ipaddress.html#module-ipaddress) module rejects IPv4 address strings that carry any leading zeros. Such leading zeros are ambiguous, and a number of libraries read them as octal. The legacy [`socket.inet_aton()`](https://docs.python.org/3.14/library/socket.html#socket.inet_aton) function, for one, takes leading zeros to mean octal notation. The glibc version of the modern [`inet_pton()`](https://docs.python.org/3.14/library/socket.html#socket.inet_pton) turns away any leading zeros.
+
+(The original work here came from Christian Heimes under [bpo-36384](https://bugs.python.org/issue?@action=redirect&bpo=36384), then carried back to 3.8 by Achraf Merzouki.)
+
+[Subject index](INDEX.md) · [Previous source section](changes-in-python-behavior.md) · [Release/subject declaration](assignment-expressions.md) · [Next source section](porting-to-python-3-8-changes-in-the-c-api.md) · [Previous source section](urllib-parse.md) · [Next source section](notable-security-feature-in-3-8-14.md)

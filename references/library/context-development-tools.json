@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Development Tools / typing", "file": "typing/INDEX.md", "summary": "Open when checking typing.", "keywords": []},
+  {"topic": "Development Tools / pydoc", "file": "pydoc/INDEX.md", "summary": "Open when checking pydoc.", "keywords": []},
+  {"topic": "Development Tools / devmode", "file": "devmode/INDEX.md", "summary": "Open when checking devmode.", "keywords": []},
+  {"topic": "Development Tools / doctest", "file": "doctest/INDEX.md", "summary": "Open when checking doctest.", "keywords": []},
+  {"topic": "Development Tools / unittest", "file": "unittest/INDEX.md", "summary": "Open when checking unittest.", "keywords": []},
+  {"topic": "Development Tools / unittest mock", "file": "unittest-mock/INDEX.md", "summary": "Open when checking unittest mock.", "keywords": []},
+  {"topic": "Development Tools / unittest mock examples", "file": "unittest-mock-examples/INDEX.md", "summary": "Open when checking unittest mock examples.", "keywords": []},
+  {"topic": "Development Tools / test", "file": "test/INDEX.md", "summary": "Open when checking test.", "keywords": []},
+  {"topic": "development tools", "file": "development-tools/INDEX.md", "summary": "Open when checking development tools.", "keywords": []},
+  {"topic": "Development Tools / idlelib", "file": "idlelib/INDEX.md", "summary": "Open when checking idlelib.", "keywords": []},
+  {"topic": "Development Tools / test support bytecode helper", "file": "test-support-bytecode-helper/INDEX.md", "summary": "Open when checking test support bytecode helper.", "keywords": []},
+  {"topic": "Development Tools / test support import helper", "file": "test-support-import-helper/INDEX.md", "summary": "Open when checking test support import helper.", "keywords": []},
+  {"topic": "Development Tools / test support os helper", "file": "test-support-os-helper/INDEX.md", "summary": "Open when checking test support os helper.", "keywords": []},
+  {"topic": "Development Tools / test support script helper", "file": "test-support-script-helper/INDEX.md", "summary": "Open when checking test support script helper.", "keywords": []},
+  {"topic": "Development Tools / test support socket helper", "file": "test-support-socket-helper/INDEX.md", "summary": "Open when checking test support socket helper.", "keywords": []},
+  {"topic": "Development Tools / test support threading helper", "file": "test-support-threading-helper/INDEX.md", "summary": "Open when checking test support threading helper.", "keywords": []},
+  {"topic": "Development Tools / test support warnings helper", "file": "test-support-warnings-helper/INDEX.md", "summary": "Open when checking test support warnings helper.", "keywords": []},
+  {"topic": "Development Tools / test support", "file": "test-support/INDEX.md", "summary": "Open when checking test support.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

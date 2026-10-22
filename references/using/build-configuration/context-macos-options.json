@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "references/using", "topics": [
+  {"topic": "macOS Options / 3.3.13. macOS Options", "file": "build-configuration/macos-options.md", "summary": "Open when checking 3.3.13. macOS Options.", "keywords": []},
+  {"topic": "macOS Options / --enable-universalsdk / --enable-universalsdk=SDKDIR", "file": "build-configuration/macos-universal-sdk.md", "summary": "Open when checking --enable-universalsdk / --enable-universalsdk=SDKDIR.", "keywords": []},
+  {"topic": "macOS Options / --enable-framework / --enable-framework=INSTALLDIR", "file": "build-configuration/macos-framework-installation.md", "summary": "Open when checking --enable-framework / --enable-framework=INSTALLDIR.", "keywords": []},
+  {"topic": "macOS Options / --with-universal-archs=ARCH", "file": "build-configuration/with-universal-archs-arch.md", "summary": "Open when checking --with-universal-archs=ARCH.", "keywords": []},
+  {"topic": "macOS Options / --with-app-store-compliance / --with-app-store-compliance=PATCH-FILE", "file": "build-configuration/app-store-compliance-patches.md", "summary": "Open when checking --with-app-store-compliance / --with-app-store-compliance=PATCH-FILE.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.5.1 release candidate 1 / windows / better installer messages platforms unsupported", "file": "releases/3-5-1-release-candidate-1/windows/better-installer-messages-platforms-unsupported.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / better installer messages platforms unsupported.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / build and platforms", "file": "releases/3-5-1-release-candidate-1/windows/build-and-platforms.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / build and platforms.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / bump up installer s font size", "file": "releases/3-5-1-release-candidate-1/windows/bump-up-installer-s-font-size.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / bump up installer s font size.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / during upgrade installer s back button returns upgrade page", "file": "releases/3-5-1-release-candidate-1/windows/during-upgrade-installer-s-back-button-returns-upgrade-page.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / during upgrade installer s back button returns upgrade page.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / files and paths", "file": "releases/3-5-1-release-candidate-1/windows/files-and-paths.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / files and paths.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / logging", "file": "releases/3-5-1-release-candidate-1/windows/logging.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / logging.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / make clear non web installer pulls down certain components", "file": "releases/3-5-1-release-candidate-1/windows/make-clear-non-web-installer-pulls-down-certain-components.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / make clear non web installer pulls down certain components.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / put requestedexecutionlevel back manifest switch off uac virtualization", "file": "windows-execution-manifest-and-uac-virtualization.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / put requestedexecutionlevel back manifest switch off uac virtualization.", "keywords": []},
+    {"topic": "Python 3.5.1 release candidate 1 / windows / py exe launcher lacks icons", "file": "releases/3-5-1-release-candidate-1/windows/py-exe-launcher-lacks-icons.md", "summary": "Open when checking Python 3.5.1 release candidate 1 / windows / py exe launcher lacks icons.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

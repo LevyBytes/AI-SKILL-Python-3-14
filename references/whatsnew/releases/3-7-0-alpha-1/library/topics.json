@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Text Processing Services", "file": "releases/3-7-0-alpha-1/library/context-text-processing-services.md", "summary": "Open when checking text processing services.", "keywords": []},
+  {"topic": "Binary Data Services", "file": "releases/3-7-0-alpha-1/library/context-binary-data-services.md", "summary": "Open when checking binary data services.", "keywords": []},
+  {"topic": "Data Types", "file": "releases/3-7-0-alpha-1/library/context-data-types.md", "summary": "Open when checking data types.", "keywords": []},
+  {"topic": "Numeric and Mathematical Modules", "file": "releases/3-7-0-alpha-1/library/context-numeric-and-mathematical-modules.md", "summary": "Open when checking numeric and mathematical modules.", "keywords": []},
+  {"topic": "Functional Programming Modules / Python 3.7.0 alpha 1 / library / crash hit itertools chain from iterable encountering long stretches empty iterables corrected", "file": "releases/3-7-0-alpha-1/library/chained-empty-iterable-crash.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / crash hit itertools chain from iterable encountering long stretches empty iterables corrected.", "keywords": []},
+  {"topic": "File and Directory Access", "file": "releases/3-7-0-alpha-1/library/context-file-and-directory-access.md", "summary": "Open when checking file and directory access.", "keywords": []},
+  {"topic": "Data Compression and Archiving", "file": "releases/3-7-0-alpha-1/library/context-data-compression-and-archiving.md", "summary": "Open when checking data compression and archiving.", "keywords": []},
+  {"topic": "Generic Operating System Services", "file": "releases/3-7-0-alpha-1/library/context-generic-operating-system-services.md", "summary": "Open when checking generic operating system services.", "keywords": []},
+  {"topic": "Command-line interface libraries", "file": "releases/3-7-0-alpha-1/library/context-command-line-interface-libraries.md", "summary": "Open when checking command-line interface libraries.", "keywords": []},
+  {"topic": "Concurrent Execution", "file": "releases/3-7-0-alpha-1/library/context-concurrent-execution.md", "summary": "Open when checking concurrent execution.", "keywords": []},
+  {"topic": "Networking and Interprocess Communication", "file": "releases/3-7-0-alpha-1/library/context-networking-ipc.md", "summary": "Open when checking networking and interprocess communication.", "keywords": []},
+  {"topic": "Internet Data Handling", "file": "releases/3-7-0-alpha-1/library/context-internet-data-handling.md", "summary": "Open when checking internet data handling.", "keywords": []},
+  {"topic": "Internet Protocols and Support", "file": "releases/3-7-0-alpha-1/library/context-internet-protocols-and-support.md", "summary": "Open when checking internet protocols and support.", "keywords": []},
+  {"topic": "Development Tools", "file": "releases/3-7-0-alpha-1/library/context-development-tools.md", "summary": "Open when checking development tools.", "keywords": []},
+  {"topic": "Python Runtime Services", "file": "releases/3-7-0-alpha-1/library/context-python-runtime-services.md", "summary": "Open when checking python runtime services.", "keywords": []},
+  {"topic": "Python Language Services / Python 3.7.0 alpha 1 / library / dis", "file": "releases/3-7-0-alpha-1/library/dis.md", "summary": "Open when checking Python 3.7.0 alpha 1 / library / dis.", "keywords": []},
+  {"topic": "Release category overview / functions and types", "file": "releases/3-7-0-alpha-1/library/functions-and-types/INDEX.md", "summary": "Open when checking functions and types.", "keywords": []},
+  {"topic": "Library compatibility and maintenance", "file": "releases/3-7-0-alpha-1/library/context-library-compatibility-and-maintenance.md", "summary": "Open when checking library compatibility and maintenance.", "keywords": []},
+  {"topic": "Combined library maintenance", "file": "releases/3-7-0-alpha-1/library/context-combined-library-maintenance.md", "summary": "Open when checking combined library maintenance.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

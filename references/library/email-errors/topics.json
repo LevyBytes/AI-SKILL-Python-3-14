@@ -1,0 +1,5 @@
+{"schema_version": 1, "topics": [
+  {"topic": "email.errors: Email parse errors and header-separator defects", "file": "email-parse-errors-and-header-separator-defects.md", "summary": "Open when checking email parse errors and header-separator defects in email.errors.", "keywords": []},
+  {"topic": "email.errors: Malformed headers, multipart structure and base64 defects", "file": "malformed-email-header-defects.md", "summary": "Open when checking malformed headers, multipart structure and base64 defects in email.errors.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

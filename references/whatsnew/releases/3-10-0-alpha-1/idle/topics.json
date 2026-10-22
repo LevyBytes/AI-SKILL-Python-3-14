@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 1 / idle / adopt idle shell shell title", "file": "releases/3-10-0-alpha-1/idle/adopt-idle-shell-shell-title.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / adopt idle shell shell title.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / calltips no longer remind you flags where positional only arguments", "file": "idle-positional-only-calltips.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / calltips no longer remind you flags where positional only arguments.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / exceptions and tracebacks", "file": "releases/3-10-0-alpha-1/idle/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / files and paths", "file": "releases/3-10-0-alpha-1/idle/files-and-paths.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / imports and modules", "file": "releases/3-10-0-alpha-1/idle/imports-and-modules.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / restore context menu cut copy actions you right click inside", "file": "releases/3-10-0-alpha-1/idle/restore-context-menu-cut-copy-actions-you-right-click-inside.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / restore context menu cut copy actions you right click inside.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / tests and documentation", "file": "releases/3-10-0-alpha-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 1 / idle / text and unicode", "file": "releases/3-10-0-alpha-1/idle/text-and-unicode.md", "summary": "Open when checking Python 3.10.0 alpha 1 / idle / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

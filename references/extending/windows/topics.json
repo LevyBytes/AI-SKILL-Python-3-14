@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "A Cookbook Approach", "file": "windows/a-cookbook-approach.md", "summary": "Open when checking A Cookbook Approach.", "keywords": []},
+    {"topic": "Building C and C++ Extensions on Windows", "file": "windows/building-c-and-c-extensions-on-windows.md", "summary": "Open when checking Building C and C++ Extensions on Windows.", "keywords": []},
+    {"topic": "Differences Between Unix and Windows — Py_NO_LINK_LIB", "file": "windows/differences-between-unix-and-windows-py-no-link-lib.md", "summary": "Open when checking Differences Between Unix and Windows — Py_NO_LINK_LIB.", "keywords": []},
+    {"topic": "Using DLLs in Practice — PyArg_ParseTuple, Py_NO_LINK_LIB, PyObject", "file": "windows-dll-use-and-link-options.md", "summary": "Open when checking Using DLLs in Practice — PyArg_ParseTuple, Py_NO_LINK_LIB, PyObject.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

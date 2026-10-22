@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / compiler and parser", "file": "releases/3-13-0-alpha-1/tools-demos/compiler-and-parser.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / freeze step pulls config args straight original cpython instance makefile", "file": "freeze-tool-original-build-configuration.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / freeze step pulls config args straight original cpython instance makefile.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / functions and types", "file": "releases/3-13-0-alpha-1/tools-demos/functions-and-types.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / functions and types.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / imports and modules", "file": "releases/3-13-0-alpha-1/tools-demos/imports-and-modules.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / imports and modules.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / move github ci workflows onto openssl switch multissltests over", "file": "ci-openssl-and-multissl-test-updates.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / move github ci workflows onto openssl switch multissltests over.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / stable", "file": "releases/3-13-0-alpha-1/tools-demos/stable.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / stable.", "keywords": []},
+    {"topic": "Python 3.13.0 alpha 1 / tools demos / tests and documentation", "file": "releases/3-13-0-alpha-1/tools-demos/tests-and-documentation.md", "summary": "Open when checking Python 3.13.0 alpha 1 / tools demos / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

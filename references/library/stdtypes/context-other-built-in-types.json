@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Other Built-in Types", "file": "stdtypes/other-built-in-types.md", "summary": "Open when checking Other Built-in Types.", "keywords": []},
+  {"topic": "Other Built-in Types / Modules", "file": "stdtypes/modules.md", "summary": "Open when checking Modules.", "keywords": []},
+  {"topic": "Other Built-in Types / Classes and Class Instances", "file": "stdtypes/classes-and-class-instances.md", "summary": "Open when checking Classes and Class Instances.", "keywords": []},
+  {"topic": "Other Built-in Types / Functions", "file": "stdtypes/functions.md", "summary": "Open when checking Functions.", "keywords": []},
+  {"topic": "Other Built-in Types / Methods", "file": "stdtypes/methods.md", "summary": "Open when checking Methods.", "keywords": []},
+  {"topic": "Other Built-in Types / Code Objects", "file": "stdtypes/code-objects.md", "summary": "Open when checking Code Objects.", "keywords": []},
+  {"topic": "Other Built-in Types / Type Objects", "file": "stdtypes/type-objects.md", "summary": "Open when checking Type Objects.", "keywords": []},
+  {"topic": "Other Built-in Types / The Null Object", "file": "stdtypes/the-null-object.md", "summary": "Open when checking The Null Object.", "keywords": []},
+  {"topic": "Other Built-in Types / The Ellipsis Object", "file": "stdtypes/the-ellipsis-object.md", "summary": "Open when checking The Ellipsis Object.", "keywords": []},
+  {"topic": "Other Built-in Types / The NotImplemented Object", "file": "stdtypes/the-notimplemented-object.md", "summary": "Open when checking The NotImplemented Object.", "keywords": []},
+  {"topic": "Other Built-in Types / Internal Objects", "file": "stdtypes/internal-objects.md", "summary": "Open when checking Internal Objects.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

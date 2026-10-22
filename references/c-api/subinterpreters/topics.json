@@ -1,0 +1,11 @@
+{"schema_version": 1, "topics": [
+  {"topic": "Bugs and caveats", "file": "subinterpreters/bugs-and-caveats.md", "summary": "Open when checking Bugs and caveats.", "keywords": []},
+  {"topic": "subinterpreters C API: Subinterpreters and main-interpreter relationships", "file": "subinterpreters/multiple-interpreters-in-a-python-process.md", "summary": "Open when checking subinterpreters and main-interpreter relationships in subinterpreters C API.", "keywords": []},
+  {"topic": "subinterpreters C API: `PyInterpreterConfig`, `PyInterpreterConfig_DEFAULT_GIL`, `PyInterpreterConfig_SHARED_GIL`, `PyInterpreterConfig_OWN_GIL`", "file": "subinterpreters/pyinterpreterconfig-to-pyinterpreterconfig-own-gil.md", "summary": "Open when checking the documented contracts for `PyInterpreterConfig`, `PyInterpreterConfig_DEFAULT_GIL`, `PyInterpreterConfig_SHARED_GIL`, `PyInterpreterConfig_OWN_GIL` in subinterpreters C API.", "keywords": []},
+  {"topic": "subinterpreters C API: `Py_NewInterpreterFromConfig()`, `Py_NewInterpreter()`, `Py_EndInterpreter()`", "file": "subinterpreters/py-newinterpreterfromconfig-to-py-endinterpreter.md", "summary": "Open when checking the documented contracts for `Py_NewInterpreterFromConfig()`, `Py_NewInterpreter()`, `Py_EndInterpreter()` in subinterpreters C API.", "keywords": []},
+  {"topic": "A per-interpreter GIL", "file": "subinterpreters/py-newinterpreterfromconfig.md", "summary": "Open when checking A per-interpreter GIL.", "keywords": []},
+  {"topic": "Advanced debugger support", "file": "subinterpreters/pyinterpreterstate-head-to-pythreadstate-next.md", "summary": "Open when checking Advanced debugger support.", "keywords": []},
+  {"topic": "Low-level APIs", "file": "subinterpreters/pyinterpreterstate-new-to-pyinterpreterstate-delete.md", "summary": "Open when checking Low-level APIs.", "keywords": []},
+  {"topic": "High-level APIs", "file": "subinterpreters/pyinterpreterstate-to-pyinterpreterstate-setevalframefunc.md", "summary": "Open when checking High-level APIs.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

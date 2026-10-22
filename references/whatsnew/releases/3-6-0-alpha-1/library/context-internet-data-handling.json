@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Internet Data Handling / Python 3.6.0 alpha 1 / library / entry csv added mimetypes types map", "file": "releases/3-6-0-alpha-1/library/entry-csv-added-mimetypes-types-map.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / entry csv added mimetypes types map.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.6.0 alpha 1 / library / entry webm added mimetypes types map", "file": "releases/3-6-0-alpha-1/library/entry-webm-added-mimetypes-types-map.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / entry webm added mimetypes types map.", "keywords": []},
+  {"topic": "Internet Data Handling / Python 3.6.0 alpha 1 / library / leading optional base64 a85decode adobe true", "file": "releases/3-6-0-alpha-1/library/leading-optional-base64-a85decode-adobe-true.md", "summary": "Open when checking Python 3.6.0 alpha 1 / library / leading optional base64 a85decode adobe true.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

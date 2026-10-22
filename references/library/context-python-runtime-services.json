@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Python Runtime Services / python", "file": "python/INDEX.md", "summary": "Open when checking python.", "keywords": []},
+  {"topic": "Python Runtime Services / sys", "file": "sys/INDEX.md", "summary": "Open when checking sys.", "keywords": []},
+  {"topic": "Python Runtime Services / sys monitoring", "file": "sys-monitoring/INDEX.md", "summary": "Open when checking sys monitoring.", "keywords": []},
+  {"topic": "Python Runtime Services / sysconfig", "file": "sysconfig/INDEX.md", "summary": "Open when checking sysconfig.", "keywords": []},
+  {"topic": "Python Runtime Services / builtins", "file": "builtins/INDEX.md", "summary": "Open when checking builtins.", "keywords": []},
+  {"topic": "Python Runtime Services / main", "file": "main/INDEX.md", "summary": "Open when checking main.", "keywords": []},
+  {"topic": "Python Runtime Services / warnings", "file": "warnings/INDEX.md", "summary": "Open when checking warnings.", "keywords": []},
+  {"topic": "Python Runtime Services / dataclasses", "file": "dataclasses/INDEX.md", "summary": "Open when checking dataclasses.", "keywords": []},
+  {"topic": "Python Runtime Services / contextlib", "file": "contextlib/INDEX.md", "summary": "Open when checking contextlib.", "keywords": []},
+  {"topic": "Python Runtime Services / abc", "file": "abc/INDEX.md", "summary": "Open when checking abc.", "keywords": []},
+  {"topic": "Python Runtime Services / atexit", "file": "atexit/INDEX.md", "summary": "Open when checking atexit.", "keywords": []},
+  {"topic": "Python Runtime Services / traceback", "file": "traceback/INDEX.md", "summary": "Open when checking traceback.", "keywords": []},
+  {"topic": "Python Runtime Services / future", "file": "future/INDEX.md", "summary": "Open when checking future.", "keywords": []},
+  {"topic": "Python Runtime Services / gc", "file": "gc/INDEX.md", "summary": "Open when checking gc.", "keywords": []},
+  {"topic": "Python Runtime Services / inspect", "file": "inspect/INDEX.md", "summary": "Open when checking inspect.", "keywords": []},
+  {"topic": "Python Runtime Services / annotationlib", "file": "annotationlib/INDEX.md", "summary": "Open when checking annotationlib.", "keywords": []},
+  {"topic": "Python Runtime Services / site", "file": "site/INDEX.md", "summary": "Open when checking site.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.11.0 alpha 2 / tests / correct test frozen pickle inside test dataclasses exercises all pickle versions", "file": "frozen-dataclass-pickle-protocol-tests.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / correct test frozen pickle inside test dataclasses exercises all pickle versions.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / dis", "file": "releases/3-11-0-alpha-2/tests/dis.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / dis.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / files and paths", "file": "releases/3-11-0-alpha-2/tests/files-and-paths.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / files and paths.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / functools", "file": "releases/3-11-0-alpha-2/tests/functools.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / functools.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / imports and modules", "file": "releases/3-11-0-alpha-2/tests/imports-and-modules.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / imports and modules.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / libregrtest launches worker stderr flows into stdout message ordering", "file": "test-worker-stderr-stdout-ordering.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / libregrtest launches worker stderr flows into stdout message ordering.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / provide subtests covering every pickle protocol within test zoneinfo", "file": "timezone-pickle-protocol-subtests.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / provide subtests covering every pickle protocol within test zoneinfo.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / repair test tools test sundry out of tree python builds correcting how freeze modules py tool", "file": "out-of-tree-module-freezing-tests.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / repair test tools test sundry out of tree python builds correcting how freeze modules py tool.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / resource", "file": "releases/3-11-0-alpha-2/tests/resource.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / resource.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / sqlite3", "file": "releases/3-11-0-alpha-2/tests/sqlite3.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / sqlite3.", "keywords": []},
+    {"topic": "Python 3.11.0 alpha 2 / tests / tests and documentation", "file": "releases/3-11-0-alpha-2/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.11.0 alpha 2 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "references/whatsnew", "topics": [
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 1", "file": "releases/3-10-0-alpha-1/INDEX.md", "summary": "Open when checking 3 10 0 alpha 1.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 2", "file": "releases/3-10-0-alpha-2/INDEX.md", "summary": "Open when checking 3 10 0 alpha 2.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 3", "file": "releases/3-10-0-alpha-3/INDEX.md", "summary": "Open when checking 3 10 0 alpha 3.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 4", "file": "releases/3-10-0-alpha-4/INDEX.md", "summary": "Open when checking 3 10 0 alpha 4.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 5", "file": "releases/3-10-0-alpha-5/INDEX.md", "summary": "Open when checking 3 10 0 alpha 5.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 6", "file": "releases/3-10-0-alpha-6/INDEX.md", "summary": "Open when checking 3 10 0 alpha 6.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 alpha 7", "file": "releases/3-10-0-alpha-7/INDEX.md", "summary": "Open when checking 3 10 0 alpha 7.", "keywords": []},
+  {"topic": "Python 3.10 release history / 3 10 0 beta 1", "file": "releases/3-10-0-beta-1/INDEX.md", "summary": "Open when checking 3 10 0 beta 1.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

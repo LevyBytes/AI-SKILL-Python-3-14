@@ -1,0 +1,41 @@
+# Standard library subject index
+
+Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
+
+- Open when checking logging.handlers — `logging.handlers` — Logging handlers: [logging.handlers — `logging.handlers` — Logging handlers](handler-types-overview.md).
+- Open when checking the documented contracts for `logging.FileHandler` in logging.handlers. [logging.handlers: `logging.FileHandler`](logging-filehandler-class.md).
+- Open when checking the documented contracts for `close()`, `emit()` in logging.handlers / FileHandler. [logging.handlers / FileHandler: `close()`, `emit()`](logging-filehandler-close-to-logging-filehandler-emit.md).
+- Open when checking the documented contracts for `logging.handlers.BaseRotatingHandler` in logging.handlers. [logging.handlers: `logging.handlers.BaseRotatingHandler`](logging-handlers-baserotatinghandler-class.md).
+- Open when checking the documented contracts for `rotation_filename()`, `rotate()` in logging.handlers.BaseRotatingHandler. [logging.handlers.BaseRotatingHandler: `rotation_filename()`, `rotate()`](base-handler-rotation-name-and-operation.md).
+- Open when checking the documented contracts for `logging.handlers.BufferingHandler` in logging.handlers. [logging.handlers: `logging.handlers.BufferingHandler`](logging-handlers-bufferinghandler-class.md).
+- Open when checking the documented contracts for `emit()`, `flush()`, `shouldFlush()` in logging.handlers.BufferingHandler. [logging.handlers.BufferingHandler: `emit()`, `flush()`, `shouldFlush()`](buffering-handler-emission-and-flush.md).
+- Open when checking the documented contracts for `logging.handlers.MemoryHandler`, `close()`, `flush()`, `setTarget()`, `shouldFlush()` in logging.handlers / MemoryHandler. [logging.handlers / MemoryHandler: `logging.handlers.MemoryHandler`, `close()`, `flush()`, `setTarget()`, `shouldFlush()`](memory-handler-class-and-flush-policy.md).
+- Open when checking the documented contracts for `logging.handlers.DatagramHandler` in logging.handlers. [logging.handlers: `logging.handlers.DatagramHandler`](logging-handlers-datagramhandler-class.md).
+- Open when checking the documented contracts for `emit()`, `makeSocket()`, `send()` in logging.handlers.DatagramHandler. [logging.handlers.DatagramHandler: `emit()`, `makeSocket()`, `send()`](datagram-handler-emission-and-send.md).
+- Open when checking the documented contracts for `logging.handlers.HTTPHandler` in logging.handlers. [logging.handlers: `logging.handlers.HTTPHandler`](logging-handlers-httphandler-class.md).
+- Open when checking the documented contracts for `mapLogRecord()`, `emit()` in logging.handlers.HTTPHandler. [logging.handlers.HTTPHandler: `mapLogRecord()`, `emit()`](http-handler-record-mapping-and-emission.md).
+- Open when checking the documented contracts for `logging.handlers.NTEventLogHandler` in logging.handlers. [logging.handlers: `logging.handlers.NTEventLogHandler`](logging-handlers-nteventloghandler-class.md).
+- Open when checking the documented contracts for `close()`, `emit()`, `getEventCategory()`, `getEventType()`, `getMessageID()` in logging.handlers.NTEventLogHandler. [logging.handlers.NTEventLogHandler: `close()`, `emit()`, `getEventCategory()`, `getEventType()`, `getMessageID()`](windows-event-log-handler-lifecycle-and-message-id.md).
+- Open when checking the documented contracts for `logging.handlers.QueueHandler` in logging.handlers. [logging.handlers: `logging.handlers.QueueHandler`](logging-handlers-queuehandler-class.md).
+- Open when checking the documented contracts for `emit()`, `prepare()`, `enqueue()` in logging.handlers.QueueHandler. [logging.handlers.QueueHandler: `emit()`, `prepare()`, `enqueue()`](queue-handler-emission-and-enqueue.md).
+- Open when checking the documented contracts for `logging.handlers.QueueListener` in logging.handlers. [logging.handlers: `logging.handlers.QueueListener`](logging-handlers-queuelistener-class.md).
+- Open when checking the documented contracts for `dequeue()`, `prepare()`, `handle()`, `start()`, `stop()`, `enqueue_sentinel()` in logging.handlers.QueueListener. [logging.handlers.QueueListener: `dequeue()`, `prepare()`, `handle()`, `start()`, `stop()`, `enqueue_sentinel()`](queue-listener-dequeue-and-sentinel.md).
+- Open when checking the documented contracts for `logging.handlers.RotatingFileHandler` in logging.handlers. [logging.handlers: `logging.handlers.RotatingFileHandler`](logging-handlers-rotatingfilehandler-class.md).
+- Open when checking the documented contracts for `doRollover()`, `emit()`, `shouldRollover()` in logging.handlers.RotatingFileHandler. [logging.handlers.RotatingFileHandler: `doRollover()`, `emit()`, `shouldRollover()`](rotating-file-rollover-policy.md).
+- Open when checking the documented contracts for `logging.handlers.SMTPHandler` in logging.handlers. [logging.handlers: `logging.handlers.SMTPHandler`](logging-handlers-smtphandler-class.md).
+- Open when checking the documented contracts for `emit()`, `getSubject()` in logging.handlers.SMTPHandler. [logging.handlers.SMTPHandler: `emit()`, `getSubject()`](smtp-handler-emission-and-subject.md).
+- Open when checking the documented contracts for `logging.handlers.SocketHandler` in logging.handlers. [logging.handlers: `logging.handlers.SocketHandler`](logging-handlers-sockethandler-class.md).
+- Open when checking the documented contracts for `close()`, `emit()`, `handleError()`, `makeSocket()`, `makePickle()`, `send()`, `createSocket()` in logging.handlers.SocketHandler. [logging.handlers.SocketHandler: `close()`, `emit()`, `handleError()`, `makeSocket()`, `makePickle()`, `send()`, `createSocket()`](socket-handler-lifecycle-and-connection.md).
+- Open when checking the documented contracts for `logging.handlers.SysLogHandler` in logging.handlers. [logging.handlers: `logging.handlers.SysLogHandler`](logging-handlers-sysloghandler-class.md).
+- Open when checking the documented contracts for `close()`, `createSocket()`, `emit()` in logging.handlers.SysLogHandler. [logging.handlers.SysLogHandler: `close()`, `createSocket()`, `emit()`](syslog-handler-lifecycle-and-emission.md).
+- Open when checking the documented contracts for `encodePriority()`, `mapPriority()` in logging.handlers.SysLogHandler. [logging.handlers.SysLogHandler: `encodePriority()`, `mapPriority()`](syslog-priority-encoding-and-mapping.md).
+- Open when checking the documented contracts for `logging.handlers.TimedRotatingFileHandler` in logging.handlers. [logging.handlers: `logging.handlers.TimedRotatingFileHandler`](logging-handlers-timedrotatingfilehandler-class.md).
+- Open when checking the documented contracts for `doRollover()`, `emit()`, `getFilesToDelete()`, `shouldRollover()` in logging.handlers.TimedRotatingFileHandler. [logging.handlers.TimedRotatingFileHandler: `doRollover()`, `emit()`, `getFilesToDelete()`, `shouldRollover()`](timed-rotation-rollover-methods.md).
+- Open when checking the documented contracts for `logging.handlers.WatchedFileHandler` in logging.handlers. [logging.handlers: `logging.handlers.WatchedFileHandler`](logging-handlers-watchedfilehandler-class.md).
+- Open when checking the documented contracts for `reopenIfNeeded()`, `emit()` in logging.handlers.WatchedFileHandler. [logging.handlers.WatchedFileHandler: `reopenIfNeeded()`, `emit()`](watched-file-reopen-and-emission.md).
+- Open when checking the documented contracts for `logging.NullHandler` in logging.handlers. [logging.handlers: `logging.NullHandler`](logging-nullhandler-class.md).
+- Open when checking the documented contracts for `emit()`, `handle()`, `createLock()` in logging.handlers / NullHandler. [logging.handlers / NullHandler: `emit()`, `handle()`, `createLock()`](logging-nullhandler-emit-to-logging-nullhandler-createlock.md).
+- Open when checking the documented contracts for `logging.StreamHandler` in logging.handlers. [logging.handlers: `logging.StreamHandler`](logging-streamhandler-class.md).
+- Open when checking the documented contracts for `emit()`, `flush()`, `setStream()` in logging.handlers / StreamHandler. [logging.handlers / StreamHandler: `emit()`, `flush()`, `setStream()`](logging-streamhandler-emit-to-logging-streamhandler-setstream.md).
+
+[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.

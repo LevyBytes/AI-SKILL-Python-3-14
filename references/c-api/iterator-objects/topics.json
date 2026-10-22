@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Builtin Iterator Types", "file": "iterator-objects/builtin-iterator-types.md", "summary": "Open when checking Builtin Iterator Types.", "keywords": []},
+    {"topic": "Other Iterator Objects", "file": "iterator-objects/pybytearrayiter-type-to-pyodictiter-type.md", "summary": "Open when checking Other Iterator Objects.", "keywords": []},
+    {"topic": "Range Objects", "file": "iterator-objects/pyrange-type-to-pyrange-check.md", "summary": "Open when checking Range Objects.", "keywords": []},
+    {"topic": "Iterator Objects", "file": "iterator-objects/pyseqiter-type-to-pycalliter-new.md", "summary": "Open when checking Iterator Objects.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

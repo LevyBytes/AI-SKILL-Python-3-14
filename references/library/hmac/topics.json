@@ -1,0 +1,6 @@
+{"schema_version": 1, "topics": [
+  {"topic": "hmac: `hmac.new()`, `hmac.digest()`", "file": "hmac/hmac-new-to-hmac-digest.md", "summary": "Open when checking the documented contracts for `hmac.new()`, `hmac.digest()` in hmac.", "keywords": []},
+  {"topic": "hmac: `hmac.HMAC`, `HMAC.update()`, `HMAC.digest()`, `HMAC.hexdigest()`, `HMAC.copy()`, `HMAC.digest_size`, `HMAC.block_size`, `HMAC.name`", "file": "hmac/hmac-hmac-class-to-hmac-name.md", "summary": "Open when checking the documented contracts for `hmac.HMAC`, `HMAC.update()`, `HMAC.digest()`, `HMAC.hexdigest()`, `HMAC.copy()`, `HMAC.digest_size`, `HMAC.block_size`, `HMAC.name` in hmac.", "keywords": []},
+  {"topic": "hmac: `hmac.compare_digest()`", "file": "hmac/hmac-compare-digest.md", "summary": "Open when checking the documented contracts for `hmac.compare_digest()` in hmac.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 4 / c api / datetime", "file": "releases/3-8-0-alpha-4/c-api/datetime.md", "summary": "Open when checking Python 3.8.0 alpha 4 / c api / datetime.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / c api / intro", "file": "releases/3-8-0-alpha-4/c-api/intro.md", "summary": "Open when checking Python 3.8.0 alpha 4 / c api / intro.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / c api / memory and lifetimes", "file": "releases/3-8-0-alpha-4/c-api/memory-and-lifetimes.md", "summary": "Open when checking Python 3.8.0 alpha 4 / c api / memory and lifetimes.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / c api / memory", "file": "releases/3-8-0-alpha-4/c-api/memory.md", "summary": "Open when checking Python 3.8.0 alpha 4 / c api / memory.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 4 / c api / sys", "file": "releases/3-8-0-alpha-4/c-api/sys.md", "summary": "Open when checking Python 3.8.0 alpha 4 / c api / sys.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

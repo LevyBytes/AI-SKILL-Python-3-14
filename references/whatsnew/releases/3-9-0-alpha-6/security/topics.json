@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 6 / security / reject cr or lf within email headerregistry address arguments header injection", "file": "email-address-header-injection-prevention.md", "summary": "Open when checking Python 3.9.0 alpha 6 / security / reject cr or lf within email headerregistry address arguments header injection.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / security / socket", "file": "releases/3-9-0-alpha-6/security/socket.md", "summary": "Open when checking Python 3.9.0 alpha 6 / security / socket.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 6 / security / urllib request", "file": "releases/3-9-0-alpha-6/security/urllib-request.md", "summary": "Open when checking Python 3.9.0 alpha 6 / security / urllib request.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

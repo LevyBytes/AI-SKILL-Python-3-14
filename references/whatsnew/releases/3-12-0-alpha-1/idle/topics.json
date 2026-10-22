@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.12.0 alpha 1 / idle / corrects shell context menu copy with prompts defect pulled one extra line", "file": "idle-copy-with-prompts-line-boundary.md", "summary": "Open when checking Python 3.12.0 alpha 1 / idle / corrects shell context menu copy with prompts defect pulled one extra line.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / idle / edit menu move select all add new separator", "file": "releases/3-12-0-alpha-1/idle/edit-menu-move-select-all-add-new-separator.md", "summary": "Open when checking Python 3.12.0 alpha 1 / idle / edit menu move select all add new separator.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / idle / files and paths", "file": "releases/3-12-0-alpha-1/idle/files-and-paths.md", "summary": "Open when checking Python 3.12.0 alpha 1 / idle / files and paths.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / idle / imports and modules", "file": "releases/3-12-0-alpha-1/idle/imports-and-modules.md", "summary": "Open when checking Python 3.12.0 alpha 1 / idle / imports and modules.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / idle / include prompts saving shell interactive input output", "file": "releases/3-12-0-alpha-1/idle/include-prompts-saving-shell-interactive-input-output.md", "summary": "Open when checking Python 3.12.0 alpha 1 / idle / include prompts saving shell interactive input output.", "keywords": []},
+    {"topic": "Python 3.12.0 alpha 1 / idle / tests and documentation", "file": "releases/3-12-0-alpha-1/idle/tests-and-documentation.md", "summary": "Open when checking Python 3.12.0 alpha 1 / idle / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.8.0 alpha 1 / c api / both pyobject gc track pyobject gc untrack macros gone public c api", "file": "public-gc-tracking-macro-removal.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / both pyobject gc track pyobject gc untrack macros gone public c api.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / bytes", "file": "releases/3-8-0-alpha-1/c-api/bytes.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / bytes.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / exceptions and tracebacks", "file": "releases/3-8-0-alpha-1/c-api/exceptions-and-tracebacks.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / exceptions and tracebacks.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / exceptions", "file": "releases/3-8-0-alpha-1/c-api/exceptions.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / files and paths", "file": "releases/3-8-0-alpha-1/c-api/files-and-paths.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / files and paths.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / functions and types", "file": "releases/3-8-0-alpha-1/c-api/functions-and-types.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / functions and types.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / interp lifecycle", "file": "releases/3-8-0-alpha-1/c-api/interp-lifecycle.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / interp lifecycle.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / introduces py setprogramfullpath letting embedders replace sys executable", "file": "embedded-program-full-path-override.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / introduces py setprogramfullpath letting embedders replace sys executable.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / modules", "file": "releases/3-8-0-alpha-1/c-api/modules.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / modules.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / new include cpython subdirectory gets created", "file": "releases/3-8-0-alpha-1/c-api/new-include-cpython-subdirectory-gets-created.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / new include cpython subdirectory gets created.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / object", "file": "releases/3-8-0-alpha-1/c-api/object.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / object.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / python py main may once more run following py initialize", "file": "releases/3-8-0-alpha-1/c-api/python-py-main-may-once-more-run-following-py-initialize.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / python py main may once more run following py initialize.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / refcounting", "file": "releases/3-8-0-alpha-1/c-api/refcounting.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / refcounting.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / sequence", "file": "releases/3-8-0-alpha-1/c-api/sequence.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / sequence.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / tests and documentation", "file": "releases/3-8-0-alpha-1/c-api/tests-and-documentation.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / text and unicode", "file": "releases/3-8-0-alpha-1/c-api/text-and-unicode.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / text and unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / unicode", "file": "releases/3-8-0-alpha-1/c-api/unicode.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / unicode.", "keywords": []},
+    {"topic": "Python 3.8.0 alpha 1 / c api / veryhigh", "file": "releases/3-8-0-alpha-1/c-api/veryhigh.md", "summary": "Open when checking Python 3.8.0 alpha 1 / c api / veryhigh.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

@@ -1,0 +1,17 @@
+# Can't we get rid of the Global Interpreter Lock?
+
+### Can't we get rid of the Global Interpreter Lock?
+
+Many regard the [global interpreter lock](https://docs.python.org/3.14/glossary.html#term-global-interpreter-lock) (GIL) as an obstacle to running Python on high-end multiprocessor server machines, since a multi-threaded Python program effectively taps only one CPU, owing to the requirement that (almost) every piece of Python code runs only while holding the GIL.
+
+Following the acceptance of [**PEP 703**](https://peps.python.org/pep-0703/), effort is now in progress to strip the GIL out of the CPython implementation of Python. At first it will arrive as an optional compiler flag set when building the interpreter, so distinct builds will exist both with and without the GIL. The long-term aspiration is to converge on one build, once removing the GIL's effect on performance is thoroughly understood. The first release to carry this work is likely Python 3.13, though it may not be fully operational in that release.
+
+Today’s GIL-removal effort builds on a [fork of Python 3.9 with the GIL removed](https://github.com/colesbury/nogil) by Sam Gross. Earlier, back in the era of Python 1.5, Greg Stein went so far as to build a complete patch set (the ?free threading? patches) that pulled the GIL out and substituted fine-grained locking. A comparable experiment was carried out by Adam Olsen in his [python-safethread](https://code.google.com/archive/p/python-safethread) project. Regrettably, both of these earlier experiments showed a steep fall in single-thread performance (no less than 30% slower), stemming from how much fine-grained locking was required to make up for taking out the GIL. That Python 3.9 fork marks the first try at removing the GIL while keeping the performance hit tolerable.
+
+That current Python releases include the GIL doesn't mean you can't put Python to good use on multi-CPU machines! It just calls for some creativity in splitting the work across multiple *processes* in place of multiple *threads*. An easy way to do that is offered by the [`ProcessPoolExecutor`](https://docs.python.org/3.14/library/concurrent.futures.html#concurrent.futures.ProcessPoolExecutor) class in the new [`concurrent.futures`](https://docs.python.org/3.14/library/concurrent.futures.html#module-concurrent.futures) module; for finer control over how tasks get dispatched, the [`multiprocessing`](https://docs.python.org/3.14/library/multiprocessing.html#module-multiprocessing) module supplies a lower-level API.
+
+Careful use of C extensions can help too; when you call on a C extension for a time-consuming task, that extension may release the GIL while execution stays inside the C code, letting other threads make some progress. Certain standard library modules, such as [`zlib`](https://docs.python.org/3.14/library/zlib.html#module-zlib) and [`hashlib`](https://docs.python.org/3.14/library/hashlib.html#module-hashlib), already behave this way.
+
+Another way to lessen the GIL's impact is to turn the GIL into a per-interpreter-state lock instead of one that is truly global. This was [first implemented in Python 3.12](https://docs.python.org/3.14/whatsnew/3.12.html#whatsnew312-pep684) and can be reached through the C API. A Python-level interface to it is anticipated in Python 3.13. For now the chief constraint is likely 3rd party extension modules, because to be usable they must be authored with multiple interpreters in mind, leaving many older extension modules unusable.
+
+[Subject index](INDEX.md)

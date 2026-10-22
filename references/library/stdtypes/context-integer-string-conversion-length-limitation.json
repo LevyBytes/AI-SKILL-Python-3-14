@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Integer string conversion length limitation", "file": "stdtypes/integer-string-conversion-length-limitation.md", "summary": "Open when checking Integer string conversion length limitation.", "keywords": []},
+  {"topic": "Integer string conversion length limitation / Affected APIs", "file": "stdtypes/affected-apis.md", "summary": "Open when checking Affected APIs.", "keywords": []},
+  {"topic": "Integer string conversion length limitation / Configuring the limit", "file": "stdtypes/configuring-the-limit.md", "summary": "Open when checking Configuring the limit.", "keywords": []},
+  {"topic": "Integer string conversion length limitation / Configuring integer string conversion limits", "file": "stdtypes/integer-string-limit-configuration.md", "summary": "Open when checking Configuring integer string conversion limits.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 3 / c api / exceptions", "file": "releases/3-14-0-alpha-3/c-api/exceptions.md", "summary": "Open when checking Python 3.14.0 alpha 3 / c api / exceptions.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / c api / functions", "file": "releases/3-14-0-alpha-3/c-api/functions.md", "summary": "Open when checking Python 3.14.0 alpha 3 / c api / functions.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / c api / interp lifecycle", "file": "releases/3-14-0-alpha-3/c-api/interp-lifecycle.md", "summary": "Open when checking Python 3.14.0 alpha 3 / c api / interp lifecycle.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / c api / sequence", "file": "releases/3-14-0-alpha-3/c-api/sequence.md", "summary": "Open when checking Python 3.14.0 alpha 3 / c api / sequence.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / c api / text", "file": "releases/3-14-0-alpha-3/c-api/text.md", "summary": "Open when checking Python 3.14.0 alpha 3 / c api / text.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 3 / c api / threads and concurrency", "file": "releases/3-14-0-alpha-3/c-api/threads-and-concurrency.md", "summary": "Open when checking Python 3.14.0 alpha 3 / c api / threads and concurrency.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

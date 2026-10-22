@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.9.0 alpha 4 / documentation / build and platforms", "file": "releases/3-9-0-alpha-4/documentation/build-and-platforms.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / build and platforms.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / documentation / functions and types", "file": "releases/3-9-0-alpha-4/documentation/functions-and-types.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / functions and types.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / documentation / language", "file": "releases/3-9-0-alpha-4/documentation/language.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / language.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / documentation / mmap", "file": "releases/3-9-0-alpha-4/documentation/mmap.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / mmap.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / documentation / pyclbr", "file": "releases/3-9-0-alpha-4/documentation/pyclbr.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / pyclbr.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / documentation / tests and documentation", "file": "releases/3-9-0-alpha-4/documentation/tests-and-documentation.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / tests and documentation.", "keywords": []},
+    {"topic": "Python 3.9.0 alpha 4 / documentation / turtle", "file": "releases/3-9-0-alpha-4/documentation/turtle.md", "summary": "Open when checking Python 3.9.0 alpha 4 / documentation / turtle.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

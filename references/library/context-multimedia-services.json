@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "references/library", "topics": [
+  {"topic": "Multimedia Services / mm", "file": "mm/INDEX.md", "summary": "Open when checking mm.", "keywords": []},
+  {"topic": "Multimedia Services / wave", "file": "wave/INDEX.md", "summary": "Open when checking wave.", "keywords": []},
+  {"topic": "Multimedia Services / colorsys", "file": "colorsys/INDEX.md", "summary": "Open when checking colorsys.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

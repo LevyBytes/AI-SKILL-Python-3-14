@@ -1,0 +1,9 @@
+{"schema_version": 1, "topics": [
+  {"topic": "gzip — Command-line interface", "file": "gzip/command-line-interface.md", "summary": "Open when checking gzip — Command-line interface.", "keywords": []},
+  {"topic": "gzip — Command-line options", "file": "gzip/command-line-options.md", "summary": "Open when checking gzip — Command-line options.", "keywords": []},
+  {"topic": "gzip — Examples of usage", "file": "gzip/examples-of-usage.md", "summary": "Open when checking gzip — Examples of usage.", "keywords": []},
+  {"topic": "gzip: `gzip.open()`, `gzip.BadGzipFile`", "file": "gzip/gzip-open-to-gzip-badgzipfile.md", "summary": "Open when checking the documented contracts for `gzip.open()`, `gzip.BadGzipFile` in gzip.", "keywords": []},
+  {"topic": "gzip: `gzip.GzipFile`, `peek()`", "file": "gzip/gzip-gzipfile-class-to-gzip-gzipfile-peek.md", "summary": "Open when checking the documented contracts for `gzip.GzipFile`, `peek()` in gzip.", "keywords": []},
+  {"topic": "gzip: `gzip.compress()`, `gzip.decompress()`", "file": "gzip/gzip-compress-to-gzip-decompress.md", "summary": "Open when checking the documented contracts for `gzip.compress()`, `gzip.decompress()` in gzip.", "keywords": []},
+  {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

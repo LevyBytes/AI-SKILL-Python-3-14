@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.6.1 release candidate 1 / build / build and platforms", "file": "releases/3-6-1-release-candidate-1/build/build-and-platforms.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / build / build and platforms.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / build / compiler and parser", "file": "releases/3-6-1-release-candidate-1/build/compiler-and-parser.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / build / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / build / functions and types", "file": "releases/3-6-1-release-candidate-1/build/functions-and-types.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / build / functions and types.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / build / platform", "file": "releases/3-6-1-release-candidate-1/build/platform.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / build / platform.", "keywords": []},
+    {"topic": "Python 3.6.1 release candidate 1 / build / restored omitted names pc python3 def", "file": "releases/3-6-1-release-candidate-1/build/restored-omitted-names-pc-python3-def.md", "summary": "Open when checking Python 3.6.1 release candidate 1 / build / restored omitted names pc python3 def.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

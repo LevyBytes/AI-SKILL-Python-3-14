@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.0 alpha 6 / c api / arg", "file": "releases/3-14-0-alpha-6/c-api/arg.md", "summary": "Open when checking Python 3.14.0 alpha 6 / c api / arg.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / c api / sequence", "file": "releases/3-14-0-alpha-6/c-api/sequence.md", "summary": "Open when checking Python 3.14.0 alpha 6 / c api / sequence.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / c api / structures", "file": "releases/3-14-0-alpha-6/c-api/structures.md", "summary": "Open when checking Python 3.14.0 alpha 6 / c api / structures.", "keywords": []},
+    {"topic": "Python 3.14.0 alpha 6 / c api / unicode", "file": "releases/3-14-0-alpha-6/c-api/unicode.md", "summary": "Open when checking Python 3.14.0 alpha 6 / c api / unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

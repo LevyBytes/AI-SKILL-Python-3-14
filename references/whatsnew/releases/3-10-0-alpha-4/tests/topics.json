@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.10.0 alpha 4 / tests / asyncio", "file": "releases/3-10-0-alpha-4/tests/asyncio.md", "summary": "Open when checking Python 3.10.0 alpha 4 / tests / asyncio.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / tests / brought test ssl test uuid over vxworks rtos", "file": "releases/3-10-0-alpha-4/tests/brought-test-ssl-test-uuid-over-vxworks-rtos.md", "summary": "Open when checking Python 3.10.0 alpha 4 / tests / brought test ssl test uuid over vxworks rtos.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / tests / compiler and parser", "file": "releases/3-10-0-alpha-4/tests/compiler-and-parser.md", "summary": "Open when checking Python 3.10.0 alpha 4 / tests / compiler and parser.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / tests / functions and types", "file": "releases/3-10-0-alpha-4/tests/functions-and-types.md", "summary": "Open when checking Python 3.10.0 alpha 4 / tests / functions and types.", "keywords": []},
+    {"topic": "Python 3.10.0 alpha 4 / tests / tests and documentation", "file": "releases/3-10-0-alpha-4/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.10.0 alpha 4 / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

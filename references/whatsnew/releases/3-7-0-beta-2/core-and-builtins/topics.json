@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 beta 2 / core and builtins / collections and iteration", "file": "releases/3-7-0-beta-2/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 beta 2 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / core and builtins / correct warning messages emitted python ast unparse c", "file": "releases/3-7-0-beta-2/core-and-builtins/correct-warning-messages-emitted-python-ast-unparse-c.md", "summary": "Open when checking Python 3.7.0 beta 2 / core and builtins / correct warning messages emitted python ast unparse c.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / core and builtins / drop new api introduced under bpo 31356 gc ensure disabled context manager", "file": "gc-disabled-context-api-removal.md", "summary": "Open when checking Python 3.7.0 beta 2 / core and builtins / drop new api introduced under bpo 31356 gc ensure disabled context manager.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / core and builtins / imports and modules", "file": "releases/3-7-0-beta-2/core-and-builtins/imports-and-modules.md", "summary": "Open when checking Python 3.7.0 beta 2 / core and builtins / imports and modules.", "keywords": []},
+    {"topic": "Python 3.7.0 beta 2 / core and builtins / text and unicode", "file": "releases/3-7-0-beta-2/core-and-builtins/text-and-unicode.md", "summary": "Open when checking Python 3.7.0 beta 2 / core and builtins / text and unicode.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

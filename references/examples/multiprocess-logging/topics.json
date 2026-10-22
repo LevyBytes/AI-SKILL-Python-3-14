@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "config_initial", "file": "references/examples/multiprocess-logging/config_initial.py", "summary": "Open when checking config_initial.", "keywords": []},
+    {"topic": "config_listener", "file": "references/examples/multiprocess-logging/config_listener.py", "summary": "Open when checking config_listener.", "keywords": []},
+    {"topic": "config_worker", "file": "references/examples/multiprocess-logging/config_worker.py", "summary": "Open when checking config_worker.", "keywords": []},
+    {"topic": "listener", "file": "references/examples/multiprocess-logging/listener.py", "summary": "Open when checking listener.", "keywords": []},
+    {"topic": "run_logging", "file": "references/examples/multiprocess-logging/run_logging.py", "summary": "Open when checking run_logging.", "keywords": []},
+    {"topic": "worker", "file": "references/examples/multiprocess-logging/worker.py", "summary": "Open when checking worker.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

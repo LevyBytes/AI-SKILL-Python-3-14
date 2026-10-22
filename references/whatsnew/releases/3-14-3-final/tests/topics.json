@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.14.3 final / tests / build and platforms", "file": "releases/3-14-3-final/tests/build-and-platforms.md", "summary": "Open when checking Python 3.14.3 final / tests / build and platforms.", "keywords": []},
+    {"topic": "Python 3.14.3 final / tests / parametrized resources instance u xpickle supported", "file": "releases/3-14-3-final/tests/parametrized-resources-instance-u-xpickle-supported.md", "summary": "Open when checking Python 3.14.3 final / tests / parametrized resources instance u xpickle supported.", "keywords": []},
+    {"topic": "Python 3.14.3 final / tests / resource", "file": "releases/3-14-3-final/tests/resource.md", "summary": "Open when checking Python 3.14.3 final / tests / resource.", "keywords": []},
+    {"topic": "Python 3.14.3 final / tests / tests and documentation", "file": "releases/3-14-3-final/tests/tests-and-documentation.md", "summary": "Open when checking Python 3.14.3 final / tests / tests and documentation.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

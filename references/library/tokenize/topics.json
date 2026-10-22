@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "tokenize — Command-Line Usage", "file": "tokenize/command-line-usage.md", "summary": "Open when checking tokenize — Command-Line Usage.", "keywords": []},
+    {"topic": "tokenize — Examples — Contract: The exact token type names can be displayed using the `-e` option:", "file": "exact-token-type-display-option.md", "summary": "Open when checking tokenize — Examples — Contract: The exact token type names can be displayed using the `-e` option:.", "keywords": []},
+    {"topic": "tokenize — Examples — Section introduction and initial examples", "file": "tokenize/examples-section-introduction-and-initial-examples.md", "summary": "Open when checking tokenize — Examples — Section introduction and initial examples.", "keywords": []},
+    {"topic": "tokenize — Tokenizing Input", "file": "tokenize/tokenize-tokenize-to-tokenize-tokenerror.md", "summary": "Open when checking tokenize — Tokenizing Input.", "keywords": []},
+    {"topic": "tokenize — `tokenize` — Tokenizer for Python source", "file": "tokenize/tokenize-tokenizer-for-python-source.md", "summary": "Open when checking tokenize — `tokenize` — Tokenizer for Python source.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

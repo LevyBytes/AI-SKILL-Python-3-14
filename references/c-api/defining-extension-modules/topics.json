@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Defining extension modules", "file": "defining-extension-modules/defining-extension-modules.md", "summary": "Open when checking Defining extension modules.", "keywords": []},
+    {"topic": "Legacy single-phase initialization", "file": "defining-extension-modules/legacy-single-phase-initialization.md", "summary": "Open when checking Legacy single-phase initialization.", "keywords": []},
+    {"topic": "Multiple module instances", "file": "defining-extension-modules/multiple-module-instances.md", "summary": "Open when checking Multiple module instances.", "keywords": []},
+    {"topic": "Initialization function", "file": "defining-extension-modules/pyinit-modulename-to-pymodinit-func.md", "summary": "Open when checking Initialization function.", "keywords": []},
+    {"topic": "Multi-phase initialization", "file": "defining-extension-modules/pymoduledef-init.md", "summary": "Open when checking Multi-phase initialization.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

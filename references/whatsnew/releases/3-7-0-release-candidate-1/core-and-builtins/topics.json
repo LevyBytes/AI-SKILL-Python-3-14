@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {"topic": "Python 3.7.0 release candidate 1 / core and builtins / collections and iteration", "file": "releases/3-7-0-release-candidate-1/core-and-builtins/collections-and-iteration.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / core and builtins / collections and iteration.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / core and builtins / repair crash during python startup while parses command line", "file": "releases/3-7-0-release-candidate-1/core-and-builtins/repair-crash-during-python-startup-while-parses-command-line.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / core and builtins / repair crash during python startup while parses command line.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / core and builtins / repair signed unsigned comparison warning emitted pyhash c", "file": "releases/3-7-0-release-candidate-1/core-and-builtins/repair-signed-unsigned-comparison-warning-emitted-pyhash-c.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / core and builtins / repair signed unsigned comparison warning emitted pyhash c.", "keywords": []},
+    {"topic": "Python 3.7.0 release candidate 1 / core and builtins / repaired sigint handler being reset sig dfl interpreter shutdown even", "file": "shutdown-sigint-handler-preservation.md", "summary": "Open when checking Python 3.7.0 release candidate 1 / core and builtins / repaired sigint handler being reset sig dfl interpreter shutdown even.", "keywords": []},
+    {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+  ]
+}

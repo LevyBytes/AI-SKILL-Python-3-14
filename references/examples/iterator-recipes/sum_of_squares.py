@@ -1,0 +1,7 @@
+from itertools import tee
+from math import sumprod
+
+def sum_of_squares(iterable):
+    "Add up the squares of the input values."
+    # sum_of_squares([10, 20, 30]) → 1400
+    return sumprod(*tee(iterable))
