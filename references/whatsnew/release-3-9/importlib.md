@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / importlib — importlib, importlib.resources
+# What's New In Python 3.9 / importlib - importlib, importlib.resources
 
 ### importlib
 

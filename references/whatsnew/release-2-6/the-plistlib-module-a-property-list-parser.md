@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / The `plistlib` module: A Property-List Parser — plistlib
+# What’s New in Python 2.6 / The `plistlib` module: A Property-List Parser - plistlib
 
 ### The [`plistlib`](https://docs.python.org/3.14/library/plistlib.html#module-plistlib) module: A Property-List Parser
 

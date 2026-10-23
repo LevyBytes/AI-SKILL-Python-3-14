@@ -1,4 +1,4 @@
-# unittest.mock — Creating a mock from an existing object
+# unittest.mock - Creating a mock from an existing object
 
 ### Creating a mock from an existing object
 

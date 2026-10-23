@@ -34,4 +34,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 alpha 2 / library / visual sorting algorithm demo ships turtledemo: [Python 3.5.0 alpha 2 / library / visual sorting algorithm demo ships turtledemo](visual-sorting-algorithm-demo-ships-turtledemo.md).
 - Open when checking Python 3.5.0 alpha 2 / library / x exclusive creation mode accepted tarfile open: [Python 3.5.0 alpha 2 / library / x exclusive creation mode accepted tarfile open](x-exclusive-creation-mode-accepted-tarfile-open.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "sys.monitoring — Embedded Python", "file": "sys-path-init/embedded-python.md", "summary": "Open when checking sys.monitoring — Embedded Python.", "keywords": []},
-    {"topic": "sys.monitoring — _pth files", "file": "sys-path-init/pth-files.md", "summary": "Open when checking sys.monitoring — _pth files.", "keywords": []},
-    {"topic": "sys.monitoring — The initialization of the `sys.path` module search path", "file": "sys-path-init/the-initialization-of-the-sys-path-module-search-path.md", "summary": "Open when checking sys.monitoring — The initialization of the `sys.path` module search path.", "keywords": []},
-    {"topic": "sys.monitoring — Virtual Environments", "file": "sys-path-init/virtual-environments.md", "summary": "Open when checking sys.monitoring — Virtual Environments.", "keywords": []},
+    {"topic": "sys.monitoring - Embedded Python", "file": "sys-path-init/embedded-python.md", "summary": "Open when checking sys.monitoring - Embedded Python.", "keywords": []},
+    {"topic": "sys.monitoring - _pth files", "file": "sys-path-init/pth-files.md", "summary": "Open when checking sys.monitoring - _pth files.", "keywords": []},
+    {"topic": "sys.monitoring - The initialization of the `sys.path` module search path", "file": "sys-path-init/the-initialization-of-the-sys-path-module-search-path.md", "summary": "Open when checking sys.monitoring - The initialization of the `sys.path` module search path.", "keywords": []},
+    {"topic": "sys.monitoring - Virtual Environments", "file": "sys-path-init/virtual-environments.md", "summary": "Open when checking sys.monitoring - Virtual Environments.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

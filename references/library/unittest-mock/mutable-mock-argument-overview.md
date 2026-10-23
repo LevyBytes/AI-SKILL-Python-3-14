@@ -1,4 +1,4 @@
-# unittest.mock — Coping with mutable arguments — Section introduction and initial examples
+# unittest.mock - Coping with mutable arguments - Section introduction and initial examples
 
 ### Coping with mutable arguments
 

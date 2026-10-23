@@ -1,4 +1,4 @@
-# datetime — Examples of usage: `datetime` — Section introduction and initial examples
+# datetime - Examples of usage: `datetime` - Section introduction and initial examples
 
 ### Examples of usage: `datetime`
 

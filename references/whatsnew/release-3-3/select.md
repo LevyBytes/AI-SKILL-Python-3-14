@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / select — select
+# What's New In Python 3.3 / select - select
 
 ### select
 

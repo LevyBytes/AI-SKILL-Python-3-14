@@ -1,4 +1,4 @@
-# What’s New in Python 2.2 / New and Improved Modules — hmac, os, pydoc, re, socket, struct, time, xmlrpc.client, xmlrpc.server
+# What’s New in Python 2.2 / New and Improved Modules - hmac, os, pydoc, re, socket, struct, time, xmlrpc.client, xmlrpc.server
 
 ### New and Improved Modules
 

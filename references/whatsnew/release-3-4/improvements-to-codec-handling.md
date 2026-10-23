@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Improvements to Codec Handling — codecs
+# What's New In Python 3.4 / Improvements to Codec Handling - codecs
 
 ### Improvements to Codec Handling
 

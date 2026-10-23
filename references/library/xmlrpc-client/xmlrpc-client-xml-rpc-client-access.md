@@ -1,6 +1,6 @@
-# xmlrpc.client — `xmlrpc.client` — XML-RPC client access
+# xmlrpc.client`xmlrpc.client` - XML-RPC client access
 
-### `xmlrpc.client` — XML-RPC client access
+### `xmlrpc.client` - XML-RPC client access
 
 **Source code:** [Lib/xmlrpc/client.py](https://github.com/python/cpython/tree/3.14/Lib/xmlrpc/client.py)
 

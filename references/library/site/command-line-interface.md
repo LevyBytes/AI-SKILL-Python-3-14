@@ -1,4 +1,4 @@
-# site — Command-line interface
+# site - Command-line interface
 
 ### Command-line interface
 

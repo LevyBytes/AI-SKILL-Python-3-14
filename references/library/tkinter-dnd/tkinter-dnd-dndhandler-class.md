@@ -1,8 +1,8 @@
 # tkinter.dnd: `tkinter.dnd.DndHandler`
 
-## tkinter.dnd — Drag and drop support
+## tkinter.dnd - Drag and drop support
 
-### `tkinter.dnd` — Drag and drop support
+### `tkinter.dnd` - Drag and drop support
 
 **Source code:** [Lib/tkinter/dnd.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/dnd.py)
 

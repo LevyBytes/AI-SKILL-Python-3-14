@@ -1,4 +1,4 @@
-# sys.monitoring — Tool identifiers
+# sys.monitoring - Tool identifiers
 
 ### Tool identifiers
 

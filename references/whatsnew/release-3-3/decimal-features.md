@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / decimal / Features — decimal
+# What's New In Python 3.3 / decimal / Features - decimal
 
 #### Features
 

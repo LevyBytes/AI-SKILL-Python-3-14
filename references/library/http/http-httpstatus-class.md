@@ -1,8 +1,8 @@
-# http — `http` — HTTP modules
+# http`http` - HTTP modules
 
-## http — HTTP modules
+## http - HTTP modules
 
-### `http` — HTTP modules
+### `http` - HTTP modules
 
 **Source code:** [Lib/http/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/http/__init__.py)
 

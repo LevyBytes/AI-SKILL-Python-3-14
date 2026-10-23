@@ -41,4 +41,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 1 / library / textwrap textwrapper class respects non breaking spaces: [Python 3.7.0 alpha 1 / library / textwrap textwrapper class respects non breaking spaces](textwrap-textwrapper-class-respects-non-breaking-spaces.md).
 - Open when checking Python 3.7.0 alpha 1 / library / ttk repair destroy method labeledscale optionmenu classes: [Python 3.7.0 alpha 1 / library / ttk repair destroy method labeledscale optionmenu classes](ttk-repair-destroy-method-labeledscale-optionmenu-classes.md).
 
-[Reference Language Selection](../../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Multi-threading — sys, threading
+# What's New In Python 3.2 / Multi-threading - sys, threading
 
 ### Multi-threading
 

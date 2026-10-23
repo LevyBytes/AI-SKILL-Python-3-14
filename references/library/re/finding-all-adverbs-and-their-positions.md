@@ -1,4 +1,4 @@
-# re — Finding all Adverbs and their Positions
+# re - Finding all Adverbs and their Positions
 
 ### Finding all Adverbs and their Positions
 

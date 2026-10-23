@@ -1,4 +1,4 @@
-# warnings — Overriding the default filter
+# warnings - Overriding the default filter
 
 ### Overriding the default filter
 

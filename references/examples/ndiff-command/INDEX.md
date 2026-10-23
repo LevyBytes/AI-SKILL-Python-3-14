@@ -5,4 +5,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking comparison_helpers: [comparison_helpers](comparison_helpers.py).
 - Open when checking run_ndiff: [run_ndiff](run_ndiff.py).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

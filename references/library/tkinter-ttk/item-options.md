@@ -1,4 +1,4 @@
-# tkinter.ttk — Item Options
+# tkinter.ttk - Item Options
 
 ### Item Options
 

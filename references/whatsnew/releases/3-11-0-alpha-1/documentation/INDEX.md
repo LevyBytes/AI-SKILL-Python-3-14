@@ -37,4 +37,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 1 / documentation / within design faq address why don t generators support: [Python 3.11.0 alpha 1 / documentation / within design faq address why don t generators support](within-design-faq-address-why-don-t-generators-support.md).
 - Open when checking Python 3.11.0 alpha 1 / documentation / zipfile: [Python 3.11.0 alpha 1 / documentation / zipfile](zipfile.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

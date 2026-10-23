@@ -1,4 +1,4 @@
-# Audit events table — urllib
+# Audit events table - urllib
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

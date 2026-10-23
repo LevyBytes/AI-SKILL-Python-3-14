@@ -1,4 +1,4 @@
-# xmlrpc.server — SimpleXMLRPCServer example — Code example: server = ServerProxy("http://localhost:8000")
+# xmlrpc.server - SimpleXMLRPCServer example - Code example: server = ServerProxy("http://localhost:8000")
 
 ```python
 server = ServerProxy("http://localhost:8000")

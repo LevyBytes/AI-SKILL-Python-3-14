@@ -6,6 +6,6 @@ When this is present, Python won't append the [`user site-packages directory`](h
 
 See also
 
-[**PEP 370**](https://peps.python.org/pep-0370/) — Per user site-packages directory
+[**PEP 370**](https://peps.python.org/pep-0370/): Per user site-packages directory
 
 [Subject index](INDEX.md) · [Previous source section](pythonioencoding.md) · [Following source section](pythonuserbase.md)

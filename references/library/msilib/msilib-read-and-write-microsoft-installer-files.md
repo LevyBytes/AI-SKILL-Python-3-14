@@ -1,8 +1,8 @@
-# msilib — `msilib` — Read and write Microsoft Installer files
+# msilib`msilib` - Read and write Microsoft Installer files
 
-## msilib — Read and write Microsoft Installer files
+## msilib - Read and write Microsoft Installer files
 
-### `msilib` — Read and write Microsoft Installer files
+### `msilib` - Read and write Microsoft Installer files
 
 Deprecated since version 3.11, removed in version 3.13.
 

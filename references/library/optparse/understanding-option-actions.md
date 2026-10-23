@@ -1,4 +1,4 @@
-# optparse — Understanding option actions
+# optparse - Understanding option actions
 
 ### Understanding option actions
 

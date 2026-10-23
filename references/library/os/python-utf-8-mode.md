@@ -1,4 +1,4 @@
-# os — Python UTF-8 Mode
+# os - Python UTF-8 Mode
 
 ### Python UTF-8 Mode
 

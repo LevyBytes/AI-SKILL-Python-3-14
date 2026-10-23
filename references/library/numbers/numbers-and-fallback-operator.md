@@ -1,4 +1,4 @@
-# numbers — Implementing the arithmetic operations — Code example: def _operator_fallbacks(monomorphic_operator, fallback_operator):
+# numbers - Implementing the arithmetic operations - Code example: def _operator_fallbacks(monomorphic_operator, fallback_operator):
 
 ```python
 def _operator_fallbacks(monomorphic_operator, fallback_operator):

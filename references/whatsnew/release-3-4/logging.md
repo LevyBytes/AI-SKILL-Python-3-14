@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / logging — configparser, logging.config, logging.handlers
+# What's New In Python 3.4 / logging - configparser, logging.config, logging.handlers
 
 ### logging
 

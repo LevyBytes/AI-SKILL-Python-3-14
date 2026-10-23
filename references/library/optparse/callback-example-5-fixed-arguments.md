@@ -1,4 +1,4 @@
-# optparse — Callback example 5: fixed arguments
+# optparse - Callback example 5: fixed arguments
 
 ### Callback example 5: fixed arguments
 

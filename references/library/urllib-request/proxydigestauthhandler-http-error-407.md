@@ -1,4 +1,4 @@
-# urllib.request — ProxyDigestAuthHandler Objects
+# urllib.request - ProxyDigestAuthHandler Objects
 
 ### ProxyDigestAuthHandler Objects
 

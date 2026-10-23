@@ -1,4 +1,4 @@
-# gettext — Deferred translations
+# gettext - Deferred translations
 
 ### Deferred translations
 
@@ -60,4 +60,4 @@ for a in animals:
 
 In this case, you are flagging translatable strings with the function `N_()`, which won't collide with any definition of `_()`. You will, though, have to instruct your message extraction program so it hunts for translatable strings flagged with `N_()`. **xgettext**, **pygettext**, `pybabel extract`, and **xpot** each enable this via the `-k` command-line switch. Picking `N_()` here is entirely arbitrary; it could equally well have been `MarkThisStringForTranslation()`.
 
-[Subject index](INDEX.md) · [Previous](changing-languages-on-the-fly.md) · [Continue](acknowledgements.md) · [Owning module, declaration or section: gettext](gettext-multilingual-internationalization-services.md)
+[Subject index](INDEX.md) · [Previous](changing-languages-on-the-fly.md) · [Owning module, declaration or section: gettext](gettext-multilingual-internationalization-services.md)

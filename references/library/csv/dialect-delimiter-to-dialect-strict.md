@@ -1,4 +1,4 @@
-# csv — Dialects and Formatting Parameters
+# csv - Dialects and Formatting Parameters
 
 ### Dialects and Formatting Parameters
 

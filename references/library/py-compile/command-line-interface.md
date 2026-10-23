@@ -1,4 +1,4 @@
-# py_compile — Command-Line Interface
+# py_compile - Command-Line Interface
 
 ### Command-Line Interface
 

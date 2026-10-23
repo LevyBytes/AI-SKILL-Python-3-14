@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / PEP 612: Parameter Specification Variables — typing
+# What's New In Python 3.10 / PEP 612: Parameter Specification Variables - typing
 
 To start with, there is the parameter specification variable. Its job is to relay the parameter types from one callable onto another callable – something you run into often with higher order functions plus decorators. Worked examples live at [`typing.ParamSpec`](https://docs.python.org/3.14/library/typing.html#typing.ParamSpec). Up to this point, expressing that dependency between parameter types at this level of precision lacked any convenient mechanism.
 

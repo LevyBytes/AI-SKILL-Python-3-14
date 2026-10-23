@@ -1,4 +1,4 @@
-# Defining Extension Types: Assorted Topics — tp_name, Py_ssize_t, tp_basicsize, tp_itemsize, PyTypeObject, tp_doc
+# Defining Extension Types: Assorted Topics - tp_name, Py_ssize_t, tp_basicsize, tp_itemsize, PyTypeObject, tp_doc
 
 That really is a *lot* of methods. Still, there's no need for alarm – whenever you have a type you'd like to define, it's overwhelmingly likely that only a small subset of these will require an implementation.
 

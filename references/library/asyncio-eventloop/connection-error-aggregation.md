@@ -1,4 +1,4 @@
-# Opening network connections — Contract: *all_errors* dictates which exceptions surface when a connection cannot be established.
+# Opening network connections - Contract: *all_errors* dictates which exceptions surface when a connection cannot be established.
 
 *all_errors* dictates which exceptions surface when a connection cannot be established. By default a lone `Exception` is raised: the first exception when there is only one or when every error shares the same message, or one `OSError` whose error messages have been merged. With `all_errors` set to `True`, an `ExceptionGroup` carrying every exception is raised (even where just one exists).
 

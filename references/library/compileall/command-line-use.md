@@ -1,4 +1,4 @@
-# compileall — Command-line use
+# compileall - Command-line use
 
 ### Command-line use
 
@@ -12,7 +12,7 @@ The positional arguments name either files to compile or directories holding sou
 
  -l
 
-Stay at the top level — compile only the source files sitting directly in the named (or implied) directories, without descending into subdirectories.
+Stay at the top level: compile only the source files sitting directly in the named (or implied) directories, without descending into subdirectories.
 
  -f
 

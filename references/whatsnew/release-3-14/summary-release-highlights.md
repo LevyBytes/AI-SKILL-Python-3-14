@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Summary — Release highlights — compression.zstd
+# What's new in Python 3.14 / Summary - Release highlights - compression.zstd
 
 ### What's new in Python 3.14
 
@@ -10,9 +10,9 @@ This document walks through what Python 3.14 adds relative to 3.13. The 3.14 rel
 
 See also
 
-[**PEP 745**](https://peps.python.org/pep-0745/) — Python 3.14 release schedule
+[**PEP 745**](https://peps.python.org/pep-0745/): Python 3.14 release schedule
 
-### Summary — Release highlights
+### Summary - Release highlights
 
 The newest stable build of the Python language is 3.14, bundling a blend of adjustments across the language itself, its runtime, and the standard library. Among the headline additions are template string literals, lazily computed annotations, and standard-library support for subinterpreters.
 

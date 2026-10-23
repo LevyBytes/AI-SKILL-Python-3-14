@@ -1,4 +1,4 @@
-# Back to the Example — PyArg_ParseTuple, PyLong_FromLong, Py_RETURN_NONE, Py_INCREF, Py_None
+# Back to the Example - PyArg_ParseTuple, PyLong_FromLong, Py_RETURN_NONE, Py_INCREF, Py_None
 
 ### 1.3. Back to the Example
 

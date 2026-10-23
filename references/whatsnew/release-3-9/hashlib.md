@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / hashlib — hashlib
+# What's New In Python 3.9 / hashlib - hashlib
 
 ### hashlib
 

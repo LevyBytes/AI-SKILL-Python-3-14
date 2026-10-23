@@ -1,4 +1,4 @@
-# subprocess — Disable use of `posix_spawn()`
+# subprocess - Disable use of `posix_spawn()`
 
 ### Disable use of `posix_spawn()`
 

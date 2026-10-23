@@ -1,4 +1,4 @@
-# modulefinder — Importing Modules
+# modulefinder - Importing Modules
 
 ## Importing Modules
 
@@ -8,16 +8,16 @@ The modules covered in this chapter add fresh means of importing other Python mo
 
 The full list of modules described in this chapter is:
 
-- [`zipimport` — Import modules from Zip archives](https://docs.python.org/3.14/library/zipimport.html)
+- [`zipimport` - Import modules from Zip archives](https://docs.python.org/3.14/library/zipimport.html)
   - [zipimporter Objects](https://docs.python.org/3.14/library/zipimport.html#zipimporter-objects)
   - [Examples](https://docs.python.org/3.14/library/zipimport.html#examples)
 
-- [`pkgutil` — Package extension utility](https://docs.python.org/3.14/library/pkgutil.html)
-- [`modulefinder` — Find modules used by a script](https://docs.python.org/3.14/library/modulefinder.html)
+- [`pkgutil` - Package extension utility](https://docs.python.org/3.14/library/pkgutil.html)
+- [`modulefinder` - Find modules used by a script](https://docs.python.org/3.14/library/modulefinder.html)
   - [Example usage of `ModuleFinder`](https://docs.python.org/3.14/library/modulefinder.html#example-usage-of-modulefinder)
 
-- [`runpy` — Locating and executing Python modules](https://docs.python.org/3.14/library/runpy.html)
-- [`importlib` — The implementation of `import`](https://docs.python.org/3.14/library/importlib.html)
+- [`runpy` - Locating and executing Python modules](https://docs.python.org/3.14/library/runpy.html)
+- [`importlib` - The implementation of `import`](https://docs.python.org/3.14/library/importlib.html)
   - [Introduction](https://docs.python.org/3.14/library/importlib.html#introduction)
   - [Functions](https://docs.python.org/3.14/library/importlib.html#functions)
   - [`importlib.abc` – Abstract base classes related to import](https://docs.python.org/3.14/library/importlib.html#module-importlib.abc)

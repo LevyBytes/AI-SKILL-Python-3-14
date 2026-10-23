@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / unittest.mock — unittest.mock
+# What’s New In Python 3.5 / unittest.mock - unittest.mock
 
 ### unittest.mock
 

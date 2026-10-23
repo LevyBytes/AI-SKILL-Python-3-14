@@ -1,4 +1,4 @@
-# mailbox — `Message` objects
+# mailbox`Message` objects
 
 ### `Message` objects
 

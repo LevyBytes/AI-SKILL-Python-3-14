@@ -1,6 +1,6 @@
 # calendar: `calendar.Calendar`
 
-### `calendar` — General calendar-related functions
+### `calendar` - General calendar-related functions
 
 **Source code:** [Lib/calendar.py](https://github.com/python/cpython/tree/3.14/Lib/calendar.py)
 

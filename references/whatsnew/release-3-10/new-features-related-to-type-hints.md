@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / New Features Related to Type Hints — typing
+# What's New In Python 3.10 / New Features Related to Type Hints - typing
 
 ### New Features Related to Type Hints
 

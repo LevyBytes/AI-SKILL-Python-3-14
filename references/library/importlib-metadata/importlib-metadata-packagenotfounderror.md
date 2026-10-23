@@ -1,4 +1,4 @@
-# importlib.metadata — `importlib.metadata` – Accessing package metadata
+# importlib.metadata`importlib.metadata` – Accessing package metadata
 
 # Importlib.Metadata
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / C API Changes / Porting to Python 3.9 — sys
+# What's New In Python 3.9 / C API Changes / Porting to Python 3.9 - sys
 
 ### Porting to Python 3.9
 

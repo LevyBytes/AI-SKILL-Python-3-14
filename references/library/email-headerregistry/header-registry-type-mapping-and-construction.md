@@ -1,4 +1,4 @@
-# email.headerregistry — `email.headerregistry`: Custom Header Objects
+# email.headerregistry`email.headerregistry`: Custom Header Objects
 
 map_to_type(*self*, *name*, *cls*)
 

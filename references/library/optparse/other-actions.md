@@ -1,4 +1,4 @@
-# optparse — Other actions
+# optparse - Other actions
 
 ### Other actions
 

@@ -1,4 +1,4 @@
-# hashlib — Personalization
+# hashlib - Personalization
 
 #### Personalization
 

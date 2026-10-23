@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / CPython Bytecode Changes — dis
+# What's New In Python 3.13 / CPython Bytecode Changes - dis
 
 ### CPython Bytecode Changes
 

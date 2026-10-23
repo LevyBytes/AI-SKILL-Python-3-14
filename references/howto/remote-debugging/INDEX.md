@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Writing control information continuation: [Writing control information continuation](writing-control-information-continuation.md).
 - Open when checking Writing control information: [Writing control information](writing-control-information.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

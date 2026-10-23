@@ -1,4 +1,4 @@
-# A Simple Example — PyObject, PyArg_ParseTuple, PyLong_FromLong
+# A Simple Example - PyObject, PyArg_ParseTuple, PyLong_FromLong
 
 `<stdio.h>`
 

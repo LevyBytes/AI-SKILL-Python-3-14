@@ -1,4 +1,4 @@
-# xml.parsers.expat — Example
+# xml.parsers.expat - Example
 
 ### Example
 

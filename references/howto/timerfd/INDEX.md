@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking timer file descriptor HOWTO: [timer file descriptor HOWTO](timer-file-descriptor-howto.md).
 - Open when checking Whole polling try/finally and timer cleanup: [Whole polling try/finally and timer cleanup](whole-polling-try-finally-and-timer-cleanup.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

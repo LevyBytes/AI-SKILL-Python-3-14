@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / math — math
+# What’s New In Python 3.12 / math - math
 
 ### math
 

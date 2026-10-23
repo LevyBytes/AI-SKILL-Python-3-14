@@ -1,4 +1,4 @@
-# sqlite3 — How to register adapter callables
+# sqlite3 - How to register adapter callables
 
 #### How to register adapter callables
 

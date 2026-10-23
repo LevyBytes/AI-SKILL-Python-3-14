@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / New modules — atexit, codecs, filecmp, gettext, gzip, mmap, re, tabnanny, unicodedata, urllib, urllib.robotparser, webbrowser, winreg, zipfile
+# What’s New in Python 2.0 / New modules - atexit, codecs, filecmp, gettext, gzip, mmap, re, tabnanny, unicodedata, urllib, urllib.robotparser, webbrowser, winreg, zipfile
 
 ### New modules
 

@@ -1,4 +1,4 @@
-# random — Real-valued distributions
+# random - Real-valued distributions
 
 ### Real-valued distributions
 

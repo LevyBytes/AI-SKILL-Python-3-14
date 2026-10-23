@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 560: Core Support for `typing` module and Generic Types — typing
+# What's New In Python 3.7 / PEP 560: Core Support for `typing` module and Generic Types - typing
 
 ### PEP 560: Core Support for `typing` module and Generic Types
 
@@ -6,7 +6,7 @@ At the outset [**PEP 484**](https://peps.python.org/pep-0484/) was crafted so th
 
 See also
 
-[**PEP 560**](https://peps.python.org/pep-0560/) — Core support for typing module and generic types
+[**PEP 560**](https://peps.python.org/pep-0560/): Core support for typing module and generic types
 
 PEP written and implemented by Ivan Levkivskyi
 

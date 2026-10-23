@@ -1,4 +1,4 @@
-# asyncio — Asynchronous generators best practices
+# asyncio - Asynchronous generators best practices
 
 ### Asynchronous generators best practices
 

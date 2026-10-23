@@ -1,8 +1,8 @@
-# errno — `errno` — Standard errno system symbols
+# errno`errno` - Standard errno system symbols
 
 # Errno
 
-### `errno` — Standard errno system symbols
+### `errno` - Standard errno system symbols
 
 ---
 

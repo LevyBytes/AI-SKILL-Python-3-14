@@ -1,4 +1,4 @@
-# xml.dom — Type Mapping
+# xml.dom - Type Mapping
 
 ### Type Mapping
 

@@ -1,4 +1,4 @@
-# mailcap — Structured Markup Processing Tools — Section introduction and initial examples
+# mailcap - Structured Markup Processing Tools - Section introduction and initial examples
 
 ## Structured Markup Processing Tools
 

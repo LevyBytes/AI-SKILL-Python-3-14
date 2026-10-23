@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / PEP 362: Function Signature Object — functools, inspect
+# What's New In Python 3.3 / PEP 362: Function Signature Object - functools, inspect
 
 ### PEP 362: Function Signature Object
 

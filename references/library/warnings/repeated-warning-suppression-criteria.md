@@ -1,4 +1,4 @@
-# warnings — Repeated Warning Suppression Criteria
+# warnings - Repeated Warning Suppression Criteria
 
 ### Repeated Warning Suppression Criteria
 

@@ -1,4 +1,4 @@
-# Supporting cyclic garbage collection — headers and object structure, Custom_traverse, Custom_clear, Custom_dealloc, Custom_new, Custom_init
+# Supporting cyclic garbage collection - headers and object structure, Custom_traverse, Custom_clear, Custom_dealloc, Custom_new, Custom_init
 
 Open the [complete example modules](../../examples/extension-gc/INDEX.md) for the complete definitions, imports and entrypoint.
 

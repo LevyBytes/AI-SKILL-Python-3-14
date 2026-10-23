@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Code Cleanups — platform, pydoc, stat, tarfile
+# What's New In Python 3.4 / Code Cleanups - platform, pydoc, stat, tarfile
 
 ### Code Cleanups
 

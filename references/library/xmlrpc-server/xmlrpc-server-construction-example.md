@@ -1,4 +1,4 @@
-# xmlrpc.server — SimpleXMLRPCServer example — Code example: from xmlrpc.server import SimpleXMLRPCServer
+# xmlrpc.server - SimpleXMLRPCServer example - Code example: from xmlrpc.server import SimpleXMLRPCServer
 
 ```python
 from xmlrpc.server import SimpleXMLRPCServer

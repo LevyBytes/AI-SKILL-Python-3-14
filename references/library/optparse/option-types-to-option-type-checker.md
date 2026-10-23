@@ -1,4 +1,4 @@
-# optparse — Adding new types
+# optparse - Adding new types
 
 ### Adding new types
 

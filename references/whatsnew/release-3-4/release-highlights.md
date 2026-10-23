@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Summary — Release Highlights — asyncio, ensurepip, enum, marshal, pathlib, select, selectors, statistics, tracemalloc
+# What's New In Python 3.4 / Summary - Release Highlights - asyncio, ensurepip, enum, marshal, pathlib, select, selectors, statistics, tracemalloc
 
 ### What's New In Python 3.4
 
@@ -10,9 +10,9 @@ This document covers the additions that distinguish Python 3.4 from its predeces
 
 See also
 
-[**PEP 429**](https://peps.python.org/pep-0429/) — Python 3.4 Release Schedule
+[**PEP 429**](https://peps.python.org/pep-0429/): Python 3.4 Release Schedule
 
-### Summary — Release Highlights
+### Summary - Release Highlights
 
 New syntax features:
 

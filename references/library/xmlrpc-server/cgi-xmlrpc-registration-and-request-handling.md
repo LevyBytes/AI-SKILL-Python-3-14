@@ -1,4 +1,4 @@
-# xmlrpc.server — CGIXMLRPCRequestHandler
+# xmlrpc.server - CGIXMLRPCRequestHandler
 
 ### CGIXMLRPCRequestHandler
 

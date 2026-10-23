@@ -1,4 +1,4 @@
-# bdb — Binary Data Services
+# bdb - Binary Data Services
 
 ## Binary Data Services??
 
@@ -8,9 +8,9 @@ This chapter's modules supply some basic services operations for working with bi
 
 Certain libraries covered under [Text Processing Services](https://docs.python.org/3.14/library/text.html#textservices) operate as well on either ASCII-compatible binary formats (for instance, [`re`](https://docs.python.org/3.14/library/re.html#module-re)) or all binary data (for instance, [`difflib`](https://docs.python.org/3.14/library/difflib.html#module-difflib)).
 
-Beyond that, consult the documentation for Python's built-in binary data types in [Binary Sequence Types — bytes, bytearray, memoryview](https://docs.python.org/3.14/library/stdtypes.html#binaryseq).
+Beyond that, consult the documentation for Python's built-in binary data types in [Binary Sequence Types - bytes, bytearray, memoryview](https://docs.python.org/3.14/library/stdtypes.html#binaryseq).
 
-- [`struct` — Interpret bytes as packed binary data](https://docs.python.org/3.14/library/struct.html)
+- [`struct` - Interpret bytes as packed binary data](https://docs.python.org/3.14/library/struct.html)
   - [Functions and Exceptions](https://docs.python.org/3.14/library/struct.html#functions-and-exceptions)
   - [Format Strings](https://docs.python.org/3.14/library/struct.html#format-strings)
     - [Byte Order, Size, and Alignment](https://docs.python.org/3.14/library/struct.html#byte-order-size-and-alignment)
@@ -23,7 +23,7 @@ Beyond that, consult the documentation for Python's built-in binary data types i
 
   - [Classes](https://docs.python.org/3.14/library/struct.html#classes)
 
-- [`codecs` — Codec registry and base classes](https://docs.python.org/3.14/library/codecs.html)
+- [`codecs` - Codec registry and base classes](https://docs.python.org/3.14/library/codecs.html)
   - [Codec Base Classes](https://docs.python.org/3.14/library/codecs.html#codec-base-classes)
     - [Error Handlers](https://docs.python.org/3.14/library/codecs.html#error-handlers)
     - [Stateless Encoding and Decoding](https://docs.python.org/3.14/library/codecs.html#stateless-encoding-and-decoding)
@@ -45,9 +45,9 @@ Beyond that, consult the documentation for Python's built-in binary data types i
     - [Standalone Codec Functions](https://docs.python.org/3.14/library/codecs.html#standalone-codec-functions)
     - [Text Transforms](https://docs.python.org/3.14/library/codecs.html#text-transforms)
 
-  - [`encodings` — Encodings package](https://docs.python.org/3.14/library/codecs.html#module-encodings)
-  - [`encodings.idna` — Internationalized Domain Names in Applications](https://docs.python.org/3.14/library/codecs.html#module-encodings.idna)
-  - [`encodings.mbcs` — Windows ANSI codepage](https://docs.python.org/3.14/library/codecs.html#module-encodings.mbcs)
-  - [`encodings.utf_8_sig` — UTF-8 codec with BOM signature](https://docs.python.org/3.14/library/codecs.html#module-encodings.utf_8_sig)
+  - [`encodings` - Encodings package](https://docs.python.org/3.14/library/codecs.html#module-encodings)
+  - [`encodings.idna` - Internationalized Domain Names in Applications](https://docs.python.org/3.14/library/codecs.html#module-encodings.idna)
+  - [`encodings.mbcs` - Windows ANSI codepage](https://docs.python.org/3.14/library/codecs.html#module-encodings.mbcs)
+  - [`encodings.utf_8_sig` - UTF-8 codec with BOM signature](https://docs.python.org/3.14/library/codecs.html#module-encodings.utf_8_sig)
 
 [Subject index](INDEX.md)

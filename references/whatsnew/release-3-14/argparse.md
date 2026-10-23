@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / argparse — argparse
+# What's new in Python 3.14 / argparse - argparse
 
 > (Contributed by Jim Baker, Guido van Rossum, Paul Everitt, Koudai Aono, Lysandros Nikolaou, Dave Peck, Adam Turner, Jelle Zijlstra, Bénédikt Tran, and Pablo Galindo Salgado in [gh-132661](https://github.com/python/cpython/issues/132661).)
 

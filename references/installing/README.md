@@ -25,7 +25,7 @@ flowchart LR
 
 A concise Python package-installation overview for choosing the intended interpreter and environment. It covers the bundled pip and virtual-environment orientation and points to the detailed packaging guides when more depth is needed.
 
-Use when installing Python packages - the official overview of pip, virtual environments, and where the detailed packaging guides live. A short pointer-level section, not the full packaging workflow.
+Use when installing Python packages: the official overview of pip, virtual environments and the detailed packaging guides, not the full packaging workflow.
 
 ## What this skill helps with
 

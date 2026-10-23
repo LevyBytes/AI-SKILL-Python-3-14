@@ -1,4 +1,4 @@
-# Audit events table — tempfile
+# Audit events table - tempfile
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

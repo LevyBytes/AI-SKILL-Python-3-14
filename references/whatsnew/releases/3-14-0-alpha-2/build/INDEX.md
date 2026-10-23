@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 2 / build / turn off simd support hacl building under wasi: [Python 3.14.0 alpha 2 / build / turn off simd support hacl building under wasi](turn-off-simd-support-hacl-building-under-wasi.md).
 - Open when checking Python 3.14.0 alpha 2 / build / wasi target triple wasm32 wasip1 rather than wasm32 wasi: [Python 3.14.0 alpha 2 / build / wasi target triple wasm32 wasip1 rather than wasm32 wasi](wasi-target-triple-wasm32-wasip1-rather-than-wasm32-wasi.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

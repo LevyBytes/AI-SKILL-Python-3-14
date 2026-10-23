@@ -43,4 +43,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PyUnicodeWriter_WriteRepr()`, `PyUnicodeWriter_WriteSubstring()`, `PyUnicodeWriter_Format()`, `PyUnicodeWriter_DecodeUTF8Stateful()` in unicode C API. [unicode C API: `PyUnicodeWriter_WriteRepr()`, `PyUnicodeWriter_WriteSubstring()`, `PyUnicodeWriter_Format()`, `PyUnicodeWriter_DecodeUTF8Stateful()`](unicode-writer-repr-and-utf8-decoding.md).
 - Open when checking Unicode Objects: [Unicode Objects](unicode-objects.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# hashlib — BLAKE2
+# hashlib - BLAKE2
 
 ### BLAKE2
 

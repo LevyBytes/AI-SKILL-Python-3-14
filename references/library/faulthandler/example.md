@@ -1,4 +1,4 @@
-# faulthandler — Example
+# faulthandler - Example
 
 ### Example
 

@@ -1,4 +1,4 @@
-# zipapp — Python API
+# zipapp - Python API
 
 ### Python API
 

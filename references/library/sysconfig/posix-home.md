@@ -1,4 +1,4 @@
-# sysconfig — `posix_home`
+# sysconfig`posix_home`
 
 ### `posix_home`
 

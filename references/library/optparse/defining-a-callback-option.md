@@ -1,4 +1,4 @@
-# optparse — Defining a callback option
+# optparse - Defining a callback option
 
 ### Defining a callback option
 

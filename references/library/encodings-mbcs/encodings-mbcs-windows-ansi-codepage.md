@@ -1,6 +1,6 @@
-# encodings.mbcs — `encodings.mbcs` — Windows ANSI codepage
+# encodings.mbcs`encodings.mbcs` - Windows ANSI codepage
 
-### `encodings.mbcs` — Windows ANSI codepage
+### `encodings.mbcs` - Windows ANSI codepage
 
 What this module provides is the ANSI codepage (CP_ACP).
 

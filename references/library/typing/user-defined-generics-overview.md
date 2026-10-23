@@ -1,4 +1,4 @@
-# typing — User-defined generic types — Section introduction and initial examples
+# typing - User-defined generic types - Section introduction and initial examples
 
 ### User-defined generic types
 

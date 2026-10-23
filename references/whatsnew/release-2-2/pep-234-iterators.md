@@ -1,4 +1,4 @@
-# What’s New in Python 2.2 / PEP 234: Iterators — readline
+# What’s New in Python 2.2 / PEP 234: Iterators - readline
 
 ### PEP 234: Iterators
 

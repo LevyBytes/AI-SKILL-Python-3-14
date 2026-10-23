@@ -1,4 +1,4 @@
-# urllib.request — `urllib.request` Restrictions
+# urllib.request`urllib.request` Restrictions
 
 ### `urllib.request` Restrictions
 

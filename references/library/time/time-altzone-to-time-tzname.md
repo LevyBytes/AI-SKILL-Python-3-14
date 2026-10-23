@@ -1,4 +1,4 @@
-# time — Timezone Constants
+# time - Timezone Constants
 
 ### Timezone Constants
 

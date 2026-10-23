@@ -1,4 +1,4 @@
-# Audit events table — os
+# Audit events table - os
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

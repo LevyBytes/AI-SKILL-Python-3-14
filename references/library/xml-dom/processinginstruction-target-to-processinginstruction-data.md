@@ -1,4 +1,4 @@
-# xml.dom — ProcessingInstruction Objects
+# xml.dom - ProcessingInstruction Objects
 
 ### ProcessingInstruction Objects
 

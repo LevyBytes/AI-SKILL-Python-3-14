@@ -25,7 +25,6 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Passing values into a generator: [Passing values into a generator](passing-values-into-a-generator.md).
 - Open when checking Python documentation: [Python documentation](python-documentation.md).
 - Open when checking Python-specific: [Python-specific](python-specific.md).
-- Open when checking Revision History and Acknowledgements: [Revision History and Acknowledgements](revision-history-and-acknowledgements.md).
 - Open when checking Selecting elements: [Selecting elements](selecting-elements.md).
 - Open when checking Small functions and the lambda expression continuation: [Small functions and the lambda expression continuation](small-functions-and-the-lambda-expression-continuation.md).
 - Open when checking Small functions and the lambda expression: [Small functions and the lambda expression](small-functions-and-the-lambda-expression.md).
@@ -33,4 +32,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking The itertools module: [The itertools module](the-itertools-module.md).
 - Open when checking The operator module: [The operator module](the-operator-module.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

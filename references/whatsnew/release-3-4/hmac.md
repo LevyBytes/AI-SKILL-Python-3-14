@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / hmac — hashlib, hmac
+# What's New In Python 3.4 / hmac - hashlib, hmac
 
 ### hmac
 

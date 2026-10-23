@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Notable changes in Python 3.8.3 — __future__
+# What’s New In Python 3.8 / Notable changes in Python 3.8.3 - __future__
 
 ### Notable changes in Python 3.8.3
 

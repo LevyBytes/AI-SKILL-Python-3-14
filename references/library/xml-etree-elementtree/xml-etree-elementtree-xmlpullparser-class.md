@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — XMLPullParser Objects
+# xml.etree.ElementTree - XMLPullParser Objects
 
 ### XMLPullParser Objects
 

@@ -1,4 +1,4 @@
-# threading — `Semaphore` example
+# threading`Semaphore` example
 
 ### `Semaphore` example
 

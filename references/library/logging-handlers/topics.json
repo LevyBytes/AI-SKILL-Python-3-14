@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "logging.handlers — `logging.handlers` — Logging handlers", "file": "logging-handlers/handler-types-overview.md", "summary": "Open when checking logging.handlers — `logging.handlers` — Logging handlers.", "keywords": []},
+  {"topic": "logging.handlers - `logging.handlers` - Logging handlers", "file": "logging-handlers/handler-types-overview.md", "summary": "Open when checking logging.handlers - `logging.handlers` - Logging handlers.", "keywords": []},
   {"topic": "logging.handlers: `logging.FileHandler`", "file": "logging-handlers/logging-filehandler-class.md", "summary": "Open when checking the documented contracts for `logging.FileHandler` in logging.handlers.", "keywords": []},
   {"topic": "logging.handlers / FileHandler: `close()`, `emit()`", "file": "logging-handlers/logging-filehandler-close-to-logging-filehandler-emit.md", "summary": "Open when checking the documented contracts for `close()`, `emit()` in logging.handlers / FileHandler.", "keywords": []},
   {"topic": "logging.handlers: `logging.handlers.BaseRotatingHandler`", "file": "logging-handlers/logging-handlers-baserotatinghandler-class.md", "summary": "Open when checking the documented contracts for `logging.handlers.BaseRotatingHandler` in logging.handlers.", "keywords": []},

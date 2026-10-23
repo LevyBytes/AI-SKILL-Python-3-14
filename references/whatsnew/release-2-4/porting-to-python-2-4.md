@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / Porting to Python 2.4 — datetime, fcntl, tarfile
+# What’s New in Python 2.4 / Porting to Python 2.4 - datetime, fcntl, tarfile
 
 ### Porting to Python 2.4
 
@@ -26,4 +26,4 @@ Gathered here are changes already covered above that could oblige you to adjust 
 
 - For some invalid values the `signals.signal()` function now throws a [`RuntimeError`](https://docs.python.org/3.14/library/exceptions.html#RuntimeError) exception, whereas before those errors slipped by quietly. As one case, attaching a handler to the `SIGKILL` signal is no longer permitted.
 
-[Subject index](INDEX.md) · [Previous source section](port-specific-changes.md) · [Next source section](acknowledgements.md) · [Release/subject declaration](pep-218-built-in-set-objects.md)
+[Subject index](INDEX.md) · [Previous source section](port-specific-changes.md) · [Release/subject declaration](pep-218-built-in-set-objects.md)

@@ -1,4 +1,4 @@
-# html.parser — Example HTML Parser Application
+# html.parser - Example HTML Parser Application
 
 ### Example HTML Parser Application
 

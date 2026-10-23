@@ -1,6 +1,6 @@
-# faulthandler — `faulthandler` — Dump the Python traceback
+# faulthandler`faulthandler` - Dump the Python traceback
 
-### `faulthandler` — Dump the Python traceback
+### `faulthandler` - Dump the Python traceback
 
 Added in version 3.3.
 

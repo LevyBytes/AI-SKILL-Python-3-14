@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 alpha 1 / idle / tweak editor window title drop python shift version end: [Python 3.5.0 alpha 1 / idle / tweak editor window title drop python shift version end](tweak-editor-window-title-drop-python-shift-version-end.md).
 - Open when checking Python 3.5.0 alpha 1 / idle / unittest: [Python 3.5.0 alpha 1 / idle / unittest](unittest.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

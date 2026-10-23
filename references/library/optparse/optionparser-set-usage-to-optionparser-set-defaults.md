@@ -1,4 +1,4 @@
-# optparse — Other methods
+# optparse - Other methods
 
 ### Other methods
 

@@ -1,4 +1,4 @@
-# venv — An example of extending `EnvBuilder`
+# venv - An example of extending `EnvBuilder`
 
 ### An example of extending `EnvBuilder`
 

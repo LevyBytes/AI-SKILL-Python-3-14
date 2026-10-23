@@ -65,7 +65,7 @@ You may likewise merge policy objects with the addition operator, yielding a pol
 
 ```
 
-That operation is not commutative — in other words, the sequence in which you add the objects is significant. By way of demonstration:
+That operation is not commutative: in other words, the sequence in which you add the objects is significant. By way of demonstration:
 
 ```python
 >>> policy100 = policy.compat32.clone(max_line_length=100)

@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Other Language Changes — types
+# What's New In Python 3.7 / Other Language Changes - types
 
 ### Other Language Changes
 

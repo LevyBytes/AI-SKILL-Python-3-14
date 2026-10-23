@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / calendar — calendar
+# What's new in Python 3.14 / calendar - calendar
 
 ### calendar
 

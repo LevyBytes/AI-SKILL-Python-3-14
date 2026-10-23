@@ -1,4 +1,4 @@
-# importlib.util — Checking if a module can be imported
+# importlib.util - Checking if a module can be imported
 
 ### Checking if a module can be imported
 

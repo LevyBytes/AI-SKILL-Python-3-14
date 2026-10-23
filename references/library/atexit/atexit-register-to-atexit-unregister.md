@@ -1,8 +1,8 @@
-# atexit — `atexit` — Exit handlers
+# atexit`atexit` - Exit handlers
 
-## atexit — Exit handlers
+## atexit - Exit handlers
 
-### `atexit` — Exit handlers
+### `atexit` - Exit handlers
 
 ---
 

@@ -1,4 +1,4 @@
-# re — Regular Expression Syntax — Contract: A range of characters is given by naming two characters and putting a `'-'` between them, so `[a-z]` matches any lowercase ASCII letter, `[0-5][0-9]` matches every two-digit number from `00` through `59`, and `[0-9A-Fa-f]` matches any hexadecimal digit.
+# re - Regular Expression Syntax - Contract: A range of characters is given by naming two characters and putting a `'-'` between them, so `[a-z]` matches any lowercase ASCII letter, `[0-5][0-9]` matches every two-digit number from `00` through `59`, and `[0-9A-Fa-f]` matches any hexadecimal digit.
 
 A range of characters is given by naming two characters and putting a `'-'` between them, so `[a-z]` matches any lowercase ASCII letter, `[0-5][0-9]` matches every two-digit number from `00` through `59`, and `[0-9A-Fa-f]` matches any hexadecimal digit. When `-` is escaped (for instance `[a\-z]`), or when it sits as the first or last character (for instance `[-a]` or `[a-]`), it matches a literal `'-'`.
 

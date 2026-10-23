@@ -1,4 +1,4 @@
-# select — `/dev/poll` polling objects
+# select`/dev/poll` polling objects
 
 ### `/dev/poll` polling objects
 

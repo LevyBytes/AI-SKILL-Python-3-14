@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Optimizations — bz2, lzma, runpy, zlib
+# What's New In Python 3.10 / Optimizations - bz2, lzma, runpy, zlib
 
 ### Optimizations
 

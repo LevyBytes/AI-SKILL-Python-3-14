@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / PEP 453: Explicit Bootstrapping of PIP in Python Installations / Bootstrapping pip By Default — ensurepip, venv
+# What's New In Python 3.4 / PEP 453: Explicit Bootstrapping of PIP in Python Installations / Bootstrapping pip By Default - ensurepip, venv
 
 ### New Features
 

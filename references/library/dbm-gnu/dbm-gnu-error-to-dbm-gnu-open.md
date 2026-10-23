@@ -1,6 +1,6 @@
-# dbm.gnu — `dbm.gnu` — GNU database manager
+# dbm.gnu`dbm.gnu` - GNU database manager
 
-### `dbm.gnu` — GNU database manager
+### `dbm.gnu` - GNU database manager
 
 **Source code:** [Lib/dbm/gnu.py](https://github.com/python/cpython/tree/3.14/Lib/dbm/gnu.py)
 

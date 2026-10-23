@@ -1,6 +1,6 @@
-# decimal — `decimal` — Decimal fixed-point and floating-point arithmetic
+# decimal`decimal` - Decimal fixed-point and floating-point arithmetic
 
-### `decimal` — Decimal fixed-point and floating-point arithmetic
+### `decimal` - Decimal fixed-point and floating-point arithmetic
 
 **Source code:** [Lib/decimal.py](https://github.com/python/cpython/tree/3.14/Lib/decimal.py)
 

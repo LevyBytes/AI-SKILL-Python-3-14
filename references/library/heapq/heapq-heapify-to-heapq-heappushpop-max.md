@@ -1,6 +1,6 @@
 # heapq: `heapq.heapify()`, `heapq.heappush()`, `heapq.heappop()`, `heapq.heappushpop()`, `heapq.heapreplace()`, `heapq.heapify_max()`, `heapq.heappush_max()`, `heapq.heappop_max()`, `heapq.heappushpop_max()`
 
-### `heapq` — Heap queue algorithm
+### `heapq` - Heap queue algorithm
 
 **Source code:** [Lib/heapq.py](https://github.com/python/cpython/tree/3.14/Lib/heapq.py)
 

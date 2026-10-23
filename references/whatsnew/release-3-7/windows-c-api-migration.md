@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Porting to Python 3.7 / Changes in the C API / Windows-only Changes — sys
+# What's New In Python 3.7 / Porting to Python 3.7 / Changes in the C API / Windows-only Changes - sys
 
 ### Windows-only Changes
 

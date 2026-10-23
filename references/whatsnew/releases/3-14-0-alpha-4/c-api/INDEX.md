@@ -6,4 +6,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 4 / c api / sys: [Python 3.14.0 alpha 4 / c api / sys](sys.md).
 - Open when checking Python 3.14.0 alpha 4 / c api / weakref: [Python 3.14.0 alpha 4 / c api / weakref](weakref.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.6 release candidate 1 / build / turned ci builds via visual studio team services https: [Python 3.6.6 release candidate 1 / build / turned ci builds via visual studio team services https](turned-ci-builds-via-visual-studio-team-services-https.md).
 - Open when checking Python 3.6.6 release candidate 1 / build / warnings: [Python 3.6.6 release candidate 1 / build / warnings](warnings.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

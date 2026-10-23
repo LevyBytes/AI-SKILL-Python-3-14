@@ -1,4 +1,4 @@
-# pathlib — Parsing and generating URIs
+# pathlib - Parsing and generating URIs
 
 Certain concrete path methods may raise an [`OSError`](https://docs.python.org/3.14/library/exceptions.html#OSError) when a system call fails (say, because the path is absent).
 

@@ -1,4 +1,4 @@
-# numbers — Notes for type implementers
+# numbers - Notes for type implementers
 
 ### Notes for type implementers
 

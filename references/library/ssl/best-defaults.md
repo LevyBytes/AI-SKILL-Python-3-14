@@ -1,4 +1,4 @@
-# ssl — Best defaults
+# ssl - Best defaults
 
 ### Security considerations
 

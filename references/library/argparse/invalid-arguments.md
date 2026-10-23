@@ -1,4 +1,4 @@
-# argparse — Invalid arguments
+# argparse - Invalid arguments
 
 ### Invalid arguments
 

@@ -1,4 +1,4 @@
-# xml.dom.minidom — minidom and the DOM standard
+# xml.dom.minidom - minidom and the DOM standard
 
 ### minidom and the DOM standard
 

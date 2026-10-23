@@ -1,4 +1,4 @@
-# Audit events table — open
+# Audit events table - open
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

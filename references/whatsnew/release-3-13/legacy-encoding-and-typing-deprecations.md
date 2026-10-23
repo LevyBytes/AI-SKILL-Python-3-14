@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / New Deprecations — sys, tarfile, traceback, typing, wave
+# What's New In Python 3.13 / New Deprecations - sys, tarfile, traceback, typing, wave
 
 [`sys`](https://docs.python.org/3.14/library/sys.html#module-sys):
 

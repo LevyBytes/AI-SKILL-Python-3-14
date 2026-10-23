@@ -1,4 +1,4 @@
-# Providing a C API for an Extension Module — PyCapsule_New, PyCapsule_Import, PySpam_System, PyObject, PyArg_ParseTuple, PyLong_FromLong, Py_mod_exec
+# Providing a C API for an Extension Module - PyCapsule_New, PyCapsule_Import, PySpam_System, PyObject, PyArg_ParseTuple, PyLong_FromLong, Py_mod_exec
 
 ### 1.12. Providing a C API for an Extension Module
 

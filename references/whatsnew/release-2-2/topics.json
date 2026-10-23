@@ -1,25 +1,24 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "What’s New in Python 2.2 / Acknowledgements", "file": "release-2-2/acknowledgements.md", "summary": "Open when checking What’s New in Python 2.2 / Acknowledgements.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / Attribute Access", "file": "release-2-2/attribute-access.md", "summary": "Open when checking What’s New in Python 2.2 / Attribute Access.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / Descriptors", "file": "release-2-2/descriptors.md", "summary": "Open when checking What’s New in Python 2.2 / Descriptors.", "keywords": []},
-    {"topic": "What’s New in Python 2.2 / Interpreter Changes and Fixes — sys", "file": "release-2-2/interpreter-changes-and-fixes.md", "summary": "Open when checking What’s New in Python 2.2 / Interpreter Changes and Fixes — sys.", "keywords": []},
+    {"topic": "What’s New in Python 2.2 / Interpreter Changes and Fixes - sys", "file": "release-2-2/interpreter-changes-and-fixes.md", "summary": "Open when checking What’s New in Python 2.2 / Interpreter Changes and Fixes - sys.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / Introduction", "file": "release-2-2/introduction.md", "summary": "Open when checking What’s New in Python 2.2 / Introduction.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / PEP 234: Iterators", "file": "release-2-2/iterator-direction-and-container-implementations.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 234: Iterators.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / Multiple Inheritance: The Diamond Rule", "file": "release-2-2/multiple-inheritance-the-diamond-rule.md", "summary": "Open when checking What’s New in Python 2.2 / Multiple Inheritance: The Diamond Rule.", "keywords": []},
-    {"topic": "What’s New in Python 2.2 / New and Improved Modules — hmac, os, pydoc, re, socket, struct, time, xmlrpc.client, xmlrpc.server", "file": "release-2-2/new-and-improved-modules.md", "summary": "Open when checking What’s New in Python 2.2 / New and Improved Modules — hmac, os, pydoc, re, socket, struct, time, xmlrpc.client, xmlrpc.server.", "keywords": []},
+    {"topic": "What’s New in Python 2.2 / New and Improved Modules - hmac, os, pydoc, re, socket, struct, time, xmlrpc.client, xmlrpc.server", "file": "release-2-2/new-and-improved-modules.md", "summary": "Open when checking What’s New in Python 2.2 / New and Improved Modules - hmac, os, pydoc, re, socket, struct, time, xmlrpc.client, xmlrpc.server.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / Old and New Classes", "file": "release-2-2/old-and-new-classes.md", "summary": "Open when checking What’s New in Python 2.2 / Old and New Classes.", "keywords": []},
-    {"topic": "What’s New in Python 2.2 / Other Changes and Fixes — sys, weakref", "file": "release-2-2/other-changes-and-fixes.md", "summary": "Open when checking What’s New in Python 2.2 / Other Changes and Fixes — sys, weakref.", "keywords": []},
+    {"topic": "What’s New in Python 2.2 / Other Changes and Fixes - sys, weakref", "file": "release-2-2/other-changes-and-fixes.md", "summary": "Open when checking What’s New in Python 2.2 / Other Changes and Fixes - sys, weakref.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / PEP 227: Nested Scopes", "file": "release-2-2/pep-227-nested-scopes.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 227: Nested Scopes.", "keywords": []},
-    {"topic": "What’s New in Python 2.2 / PEP 234: Iterators — readline", "file": "release-2-2/pep-234-iterators.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 234: Iterators — readline.", "keywords": []},
+    {"topic": "What’s New in Python 2.2 / PEP 234: Iterators - readline", "file": "release-2-2/pep-234-iterators.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 234: Iterators - readline.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / PEP 237: Unifying Long Integers and Integers", "file": "release-2-2/pep-237-unifying-long-integers-and-integers.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 237: Unifying Long Integers and Integers.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / PEP 238: Changing the Division Operator", "file": "release-2-2/pep-238-changing-the-division-operator.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 238: Changing the Division Operator.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / PEP 255: Simple Generators", "file": "release-2-2/pep-255-simple-generators.md", "summary": "Open when checking What’s New in Python 2.2 / PEP 255: Simple Generators.", "keywords": []},
-    {"topic": "What’s New in Python 2.2 / PEPs 252 and 253: Type and Class Changes — collections", "file": "release-2-2/peps-252-and-253-type-and-class-changes.md", "summary": "Open when checking What’s New in Python 2.2 / PEPs 252 and 253: Type and Class Changes — collections.", "keywords": []},
+    {"topic": "What’s New in Python 2.2 / PEPs 252 and 253: Type and Class Changes - collections", "file": "release-2-2/peps-252-and-253-type-and-class-changes.md", "summary": "Open when checking What’s New in Python 2.2 / PEPs 252 and 253: Type and Class Changes - collections.", "keywords": []},
     {"topic": "What’s New in Python 2.2 / Related Links", "file": "release-2-2/related-links.md", "summary": "Open when checking What’s New in Python 2.2 / Related Links.", "keywords": []},
     {"topic": "Upstream feature guide navigation for Python 2.2", "file": "release-2-2/release-overview.md", "summary": "Open when checking Upstream feature guide navigation for Python 2.2.", "keywords": []},
-    {"topic": "What’s New in Python 2.2 / Unicode Changes — zlib", "file": "release-2-2/unicode-changes.md", "summary": "Open when checking What’s New in Python 2.2 / Unicode Changes — zlib.", "keywords": []},
+    {"topic": "What’s New in Python 2.2 / Unicode Changes - zlib", "file": "release-2-2/unicode-changes.md", "summary": "Open when checking What’s New in Python 2.2 / Unicode Changes - zlib.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

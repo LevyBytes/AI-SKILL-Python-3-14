@@ -1,4 +1,4 @@
-# doctest — Which Docstrings Are Examined?
+# doctest - Which Docstrings Are Examined?
 
 ### Which Docstrings Are Examined?
 

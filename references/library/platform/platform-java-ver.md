@@ -1,4 +1,4 @@
-# platform — Java platform
+# platform - Java platform
 
 ### Java platform
 

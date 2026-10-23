@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / email — email.utils
+# What's new in Python 3.14 / email - email.utils
 
 ### email
 

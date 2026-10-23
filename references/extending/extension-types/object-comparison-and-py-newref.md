@@ -1,4 +1,4 @@
-# Object Comparison — tp_richcompare, PyTypeObject, PyObject_RichCompare, PyObject_RichCompareBool, Py_EQ, Py_NE, Py_LE, Py_GE, Py_LT, Py_GT, Py_True, Py_False, Py_NotImplemented, PyObject, Py_NewRef
+# Object Comparison - tp_richcompare, PyTypeObject, PyObject_RichCompare, PyObject_RichCompareBool, Py_EQ, Py_NE, Py_LE, Py_GE, Py_LT, Py_GT, Py_True, Py_False, Py_NotImplemented, PyObject, Py_NewRef
 
 ### 3.4. Object Comparison
 

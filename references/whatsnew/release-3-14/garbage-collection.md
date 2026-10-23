@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Garbage collection — gc
+# What's new in Python 3.14 / Garbage collection - gc
 
 ### Garbage collection
 

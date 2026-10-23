@@ -2,7 +2,7 @@
 
 # Xdrlib
 
-### `xdrlib` — Encode and decode XDR data
+### `xdrlib` - Encode and decode XDR data
 
 Deprecated since version 3.11, removed in version 3.13.
 

@@ -1,4 +1,4 @@
-# readline — History file
+# readline - History file
 
 ### History file
 

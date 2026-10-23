@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Combinatorics, sum of squares and matrix recipes
+# itertools - Itertools Recipes - Combinatorics, sum of squares and matrix recipes
 
 [Required complete example component](prime-sieve-factorization-and-totient-recipes.md) / [Required complete example component](running-statistics-recipes.md)
 

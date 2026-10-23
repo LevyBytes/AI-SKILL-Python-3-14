@@ -1,4 +1,4 @@
-# ssl — Self-signed certificates
+# ssl - Self-signed certificates
 
 ### Self-signed certificates
 

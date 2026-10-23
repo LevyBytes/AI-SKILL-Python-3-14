@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / sys — sys
+# What's New In Python 3.3 / sys - sys
 
 ### sys
 

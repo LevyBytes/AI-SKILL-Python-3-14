@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / PEP 647: User-Defined Type Guards — typing
+# What's New In Python 3.10 / PEP 647: User-Defined Type Guards - typing
 
 ### PEP 647: User-Defined Type Guards
 

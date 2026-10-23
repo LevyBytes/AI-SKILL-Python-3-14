@@ -1,4 +1,4 @@
-# decimal — Mitigating round-off error with increased precision
+# decimal - Mitigating round-off error with increased precision
 
 ### Floating-point notes
 

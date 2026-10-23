@@ -1,4 +1,4 @@
-# decimal — Constants
+# decimal - Constants
 
 ### Constants
 

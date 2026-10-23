@@ -1,4 +1,4 @@
-# hashlib — Hash Objects
+# hashlib - Hash Objects
 
 ### Hash Objects
 

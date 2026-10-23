@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 5.6. Other Resources: [5.6. Other Resources](other-resources.md).
 - Open when checking 5. Using Python on macOS: [5. Using Python on macOS](using-python-on-macos.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking development and testing module routes in library.orientation. [library.orientation: Development and testing module routes](development-module-routes.md).
 - Open when checking standard-library scope and organization in library.orientation. [library.orientation: Standard-library scope and organization](standard-library-overview.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

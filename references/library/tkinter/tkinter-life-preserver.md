@@ -1,4 +1,4 @@
-# tkinter — Tkinter Life Preserver
+# tkinter - Tkinter Life Preserver
 
 ### Tkinter Life Preserver
 

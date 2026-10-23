@@ -1,4 +1,4 @@
-# urllib.request — UnknownHandler Objects
+# urllib.request - UnknownHandler Objects
 
 ### UnknownHandler Objects
 

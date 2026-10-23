@@ -1,8 +1,8 @@
-# cgi — `cgi` — Common Gateway Interface support
+# cgi`cgi` - Common Gateway Interface support
 
-## cgi — Common Gateway Interface support??
+## cgi - Common Gateway Interface support??
 
-### `cgi` — Common Gateway Interface support
+### `cgi` - Common Gateway Interface support
 
 Deprecated since version 3.11, removed in version 3.13.
 

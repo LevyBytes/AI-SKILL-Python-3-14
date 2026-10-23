@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PyModule_GetFilenameObject()`, `PyModule_GetFilename()` in modules C API. [modules C API: `PyModule_GetFilenameObject()`, `PyModule_GetFilename()`](pymodule-getfilenameobject-to-pymodule-getfilename.md).
 - Open when checking Module lookup (single-phase initialization): [Module lookup (single-phase initialization)](pystate-findmodule-to-pystate-removemodule.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

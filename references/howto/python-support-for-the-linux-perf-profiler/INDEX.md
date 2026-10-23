@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Native-only perf report without Python support: [Native-only perf report without Python support](native-only-perf-report-without-python-support.md).
 - Open when checking Python-function perf report with profiling support: [Python-function perf report with profiling support](python-function-perf-report-with-profiling-support.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

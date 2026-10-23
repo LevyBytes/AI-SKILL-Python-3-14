@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / functools — functools, types, typing
+# What's New In Python 3.11 / functools - functools, types, typing
 
 ### functools
 

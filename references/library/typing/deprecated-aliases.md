@@ -1,4 +1,4 @@
-# typing — Deprecated aliases
+# typing - Deprecated aliases
 
 ### Deprecated aliases
 

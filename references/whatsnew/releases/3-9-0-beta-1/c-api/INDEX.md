@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 beta 1 / c api / threads: [Python 3.9.0 beta 1 / c api / threads](threads.md).
 - Open when checking Python 3.9.0 beta 1 / c api / type: [Python 3.9.0 beta 1 / c api / type](type.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

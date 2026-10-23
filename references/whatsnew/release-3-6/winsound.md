@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / winsound — winsound
+# What's New In Python 3.6 / winsound - winsound
 
 ### winsound
 

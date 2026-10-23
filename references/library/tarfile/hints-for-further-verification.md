@@ -1,4 +1,4 @@
-# tarfile — Hints for further verification
+# tarfile - Hints for further verification
 
 ### Hints for further verification
 

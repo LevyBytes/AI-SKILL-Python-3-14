@@ -2,7 +2,7 @@
 
 # Http.Server
 
-### `http.server` — HTTP servers
+### `http.server` - HTTP servers
 
 **Source code:** [Lib/http/server.py](https://github.com/python/cpython/tree/3.14/Lib/http/server.py)
 

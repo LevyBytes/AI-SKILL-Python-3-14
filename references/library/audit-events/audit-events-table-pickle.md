@@ -1,4 +1,4 @@
-# Audit events table — pickle
+# Audit events table - pickle
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

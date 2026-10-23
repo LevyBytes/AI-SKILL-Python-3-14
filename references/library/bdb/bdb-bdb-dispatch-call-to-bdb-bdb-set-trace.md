@@ -1,4 +1,4 @@
-# bdb — `bdb` — Debugger framework
+# bdb`bdb` - Debugger framework
 
 dispatch_call(*frame*, *arg*)
 

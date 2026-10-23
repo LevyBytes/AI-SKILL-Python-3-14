@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / mmap — mmap
+# What's New In Python 3.3 / mmap - mmap
 
 ### mmap
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / PEP 695: Type Parameter Syntax — typing
+# What’s New In Python 3.12 / PEP 695: Type Parameter Syntax - typing
 
 ### New Features
 

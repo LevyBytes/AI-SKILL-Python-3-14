@@ -1,4 +1,4 @@
-# subprocess — Replacing `os.popen()`
+# subprocess - Replacing `os.popen()`
 
 ### Replacing [`os.popen()`](https://docs.python.org/3.14/library/os.html#os.popen)
 

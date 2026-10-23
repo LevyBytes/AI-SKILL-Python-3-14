@@ -1,4 +1,4 @@
-# shlex — Improved Compatibility with Shells
+# shlex - Improved Compatibility with Shells
 
 ### Improved Compatibility with Shells
 

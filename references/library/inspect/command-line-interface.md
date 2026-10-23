@@ -1,4 +1,4 @@
-# inspect — Command-line interface
+# inspect - Command-line interface
 
 ### Command-line interface
 

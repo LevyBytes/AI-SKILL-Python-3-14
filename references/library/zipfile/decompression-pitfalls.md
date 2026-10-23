@@ -1,4 +1,4 @@
-# zipfile — Decompression pitfalls
+# zipfile - Decompression pitfalls
 
 ### Decompression pitfalls
 

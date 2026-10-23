@@ -1,4 +1,4 @@
-# asyncio — Detect never-retrieved exceptions
+# asyncio - Detect never-retrieved exceptions
 
 ### Detect never-retrieved exceptions
 

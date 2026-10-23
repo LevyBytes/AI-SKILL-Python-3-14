@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / xml.etree.ElementTree — xml.etree.elementtree
+# What's New In Python 3.3 / xml.etree.ElementTree - xml.etree.elementtree
 
 ### xml.etree.ElementTree
 

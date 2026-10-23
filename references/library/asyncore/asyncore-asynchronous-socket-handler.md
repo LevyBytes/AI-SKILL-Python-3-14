@@ -1,8 +1,8 @@
-# asyncore — `asyncore` — Asynchronous socket handler
+# asyncore`asyncore` - Asynchronous socket handler
 
-## asyncore — Asynchronous socket handler
+## asyncore - Asynchronous socket handler
 
-### `asyncore` — Asynchronous socket handler
+### `asyncore` - Asynchronous socket handler
 
 Deprecated since version 3.6, removed in version 3.12.
 

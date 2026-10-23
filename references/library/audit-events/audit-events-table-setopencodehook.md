@@ -1,4 +1,4 @@
-# Audit events table — setopencodehook
+# Audit events table - setopencodehook
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

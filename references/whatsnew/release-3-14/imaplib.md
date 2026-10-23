@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / imaplib — imaplib
+# What's new in Python 3.14 / imaplib - imaplib
 
 ### imaplib
 

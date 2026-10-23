@@ -1,4 +1,4 @@
-# bisect — Searching Sorted Lists
+# bisect - Searching Sorted Lists
 
 ### Searching Sorted Lists
 

@@ -1,4 +1,4 @@
-# tkinter.ttk — Sizegrip
+# tkinter.ttk - Sizegrip
 
 ### Sizegrip
 

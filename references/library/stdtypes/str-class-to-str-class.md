@@ -1,6 +1,6 @@
-# Text Sequence Type — `str`
+# Text Sequence Type`str`
 
-### Text Sequence Type — `str`
+### Text Sequence Type`str`
 
 In Python, textual content is represented by `str` objects, otherwise called *strings*. Each string is an immutable run of Unicode code points. You can spell out string literals in several styles:
 

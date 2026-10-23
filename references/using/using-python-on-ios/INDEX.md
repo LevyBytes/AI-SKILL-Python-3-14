@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 7.2.1. Tools for building iOS apps: [7.2.1. Tools for building iOS apps](tools-for-building-ios-apps.md).
 - Open when checking 7. Using Python on iOS: [7. Using Python on iOS](using-python-on-ios.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

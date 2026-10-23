@@ -25,4 +25,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 alpha 1 / idle / tk: [Python 3.6.0 alpha 1 / idle / tk](tk.md).
 - Open when checking Python 3.6.0 alpha 1 / idle / tkinter: [Python 3.6.0 alpha 1 / idle / tkinter](tkinter.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

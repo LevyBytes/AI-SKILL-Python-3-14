@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / Notable changes in Python 3.9.3 — ftplib
+# What's New In Python 3.9 / Notable changes in Python 3.9.3 - ftplib
 
 ### Notable changes in Python 3.9.3
 

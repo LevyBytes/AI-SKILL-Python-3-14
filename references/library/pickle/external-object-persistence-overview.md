@@ -1,4 +1,4 @@
-# pickle — Persistence of External Objects — Section introduction and initial examples
+# pickle - Persistence of External Objects - Section introduction and initial examples
 
 ### Persistence of External Objects
 

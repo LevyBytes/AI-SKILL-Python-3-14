@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / curses — curses
+# What's New In Python 3.10 / curses - curses
 
 ### curses
 

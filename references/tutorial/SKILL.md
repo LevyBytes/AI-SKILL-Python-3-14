@@ -3,7 +3,7 @@ name: tutorial
 description: "Use when learning Python 3.14 with prior programming experience: interpreter use, arithmetic, strings, lists, control flow, functions, data structures, modules, classes, errors, file I/O, standard-library examples, floating point, virtual environments or packages."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

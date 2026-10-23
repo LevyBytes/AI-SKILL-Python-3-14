@@ -1,4 +1,4 @@
-# uuid — Command-Line Example
+# uuid - Command-Line Example
 
 ### Command-Line Example
 

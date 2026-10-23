@@ -1,4 +1,4 @@
-# Built-in Functions — Contract: The example below puts the dir_fd parameter of the `os.open()` function to use, opening a file relative to a given directory:
+# Built-in Functions - Contract: The example below puts the dir_fd parameter of the `os.open()` function to use, opening a file relative to a given directory:
 
 The example below puts the [dir_fd](https://docs.python.org/3.14/library/os.html#dir-fd) parameter of the [`os.open()`](https://docs.python.org/3.14/library/os.html#os.open) function to use, opening a file relative to a given directory:
 

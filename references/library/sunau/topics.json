@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "sunau — Read and write Sun AU files", "file": "sunau/read-and-write-sun-au-files.md", "summary": "Open when checking sunau — Read and write Sun AU files.", "keywords": []},
-    {"topic": "sunau — `sunau` — Read and write Sun AU files", "file": "sunau/sunau-read-and-write-sun-au-files.md", "summary": "Open when checking sunau — `sunau` — Read and write Sun AU files.", "keywords": []},
+    {"topic": "sunau - Read and write Sun AU files", "file": "sunau/read-and-write-sun-au-files.md", "summary": "Open when checking sunau - Read and write Sun AU files.", "keywords": []},
+    {"topic": "sunau - `sunau` - Read and write Sun AU files", "file": "sunau/sunau-read-and-write-sun-au-files.md", "summary": "Open when checking sunau - `sunau` - Read and write Sun AU files.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

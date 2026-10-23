@@ -1,4 +1,4 @@
-# readline — Line buffer
+# readline - Line buffer
 
 ### Line buffer
 

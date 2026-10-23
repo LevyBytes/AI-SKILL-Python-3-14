@@ -1,4 +1,4 @@
-# Weak Reference Support — Py_TPFLAGS_MANAGED_WEAKREF, tp_flags, PyTypeObject, tp_weaklistoffset, PyVarObject_HEAD_INIT, tp_dealloc, PyObject_ClearWeakRefs, PyObject, Py_TYPE, tp_free
+# Weak Reference Support - Py_TPFLAGS_MANAGED_WEAKREF, tp_flags, PyTypeObject, tp_weaklistoffset, PyVarObject_HEAD_INIT, tp_dealloc, PyObject_ClearWeakRefs, PyObject, Py_TYPE, tp_free
 
 ### 3.6. Weak Reference Support
 

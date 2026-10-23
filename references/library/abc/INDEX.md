@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `abc.abstractstaticmethod`, `abc.abstractproperty`, `abc.get_cache_token()` in abc. [abc: `abc.abstractstaticmethod`, `abc.abstractproperty`, `abc.get_cache_token()`](abc-get-cache-token.md).
 - Open when checking the documented contracts for `abc.update_abstractmethods()` in abc. [abc: `abc.update_abstractmethods()`](abc-update-abstractmethods.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

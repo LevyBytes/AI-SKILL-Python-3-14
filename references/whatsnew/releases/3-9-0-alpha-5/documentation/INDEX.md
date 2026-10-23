@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 5 / documentation / text and unicode: [Python 3.9.0 alpha 5 / documentation / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.9.0 alpha 5 / documentation / token: [Python 3.9.0 alpha 5 / documentation / token](token.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

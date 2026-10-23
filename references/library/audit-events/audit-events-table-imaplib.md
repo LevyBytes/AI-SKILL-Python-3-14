@@ -1,4 +1,4 @@
-# Audit events table — imaplib
+# Audit events table - imaplib
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

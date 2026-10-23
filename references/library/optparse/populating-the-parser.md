@@ -1,4 +1,4 @@
-# optparse — Populating the parser
+# optparse - Populating the parser
 
 ### Populating the parser
 

@@ -1,4 +1,4 @@
-# Defining Extension Types: Assorted Topics — PyTypeObject layout: descriptors, inheritance, allocation and version/cache fields
+# Defining Extension Types: Assorted Topics - PyTypeObject layout: descriptors, inheritance, allocation and version/cache fields
 
 Open the [complete example modules](../../examples/type-layout/INDEX.md) for the complete definitions, imports and entrypoint.
 

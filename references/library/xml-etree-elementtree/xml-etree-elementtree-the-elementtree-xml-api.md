@@ -1,6 +1,6 @@
-# xml.etree.ElementTree — `xml.etree.ElementTree` — The ElementTree XML API
+# xml.etree.ElementTree`xml.etree.ElementTree` - The ElementTree XML API
 
-### `xml.etree.ElementTree` — The ElementTree XML API
+### `xml.etree.ElementTree` - The ElementTree XML API
 
 **Source code:** [Lib/xml/etree/ElementTree.py](https://github.com/python/cpython/tree/3.14/Lib/xml/etree/ElementTree.py)
 

@@ -1,4 +1,4 @@
-# Concurrent Execution — Section introduction and initial examples
+# Concurrent Execution - Section introduction and initial examples
 
 # Concurrency
 
@@ -6,7 +6,7 @@
 
 The modules covered in this chapter help you run code concurrently. Which tool fits best hinges on the nature of the work (CPU bound versus IO bound) and on the development style you favour (event driven cooperative multitasking versus preemptive multitasking). The list below gives an overview:
 
-- [`threading` — Thread-based parallelism](https://docs.python.org/3.14/library/threading.html)
+- [`threading` - Thread-based parallelism](https://docs.python.org/3.14/library/threading.html)
   - [Introduction](https://docs.python.org/3.14/library/threading.html#introduction)
   - [GIL and performance considerations](https://docs.python.org/3.14/library/threading.html#gil-and-performance-considerations)
   - [Reference](https://docs.python.org/3.14/library/threading.html#reference)
@@ -23,7 +23,7 @@ The modules covered in this chapter help you run code concurrently. Which tool f
 
   - [Using locks, conditions, and semaphores in the `with` statement](https://docs.python.org/3.14/library/threading.html#using-locks-conditions-and-semaphores-in-the-with-statement)
 
-- [`multiprocessing` — Process-based parallelism](https://docs.python.org/3.14/library/multiprocessing.html)
+- [`multiprocessing` - Process-based parallelism](https://docs.python.org/3.14/library/multiprocessing.html)
   - [Introduction](https://docs.python.org/3.14/library/multiprocessing.html#introduction)
     - [The `Process` class](https://docs.python.org/3.14/library/multiprocessing.html#the-process-class)
     - [Contexts and start methods](https://docs.python.org/3.14/library/multiprocessing.html#contexts-and-start-methods)
@@ -63,9 +63,9 @@ The modules covered in this chapter help you run code concurrently. Which tool f
 
   - [Examples](https://docs.python.org/3.14/library/multiprocessing.html#examples)
 
-- [`multiprocessing.shared_memory` — Shared memory for direct access across processes](https://docs.python.org/3.14/library/multiprocessing.shared_memory.html)
+- [`multiprocessing.shared_memory` - Shared memory for direct access across processes](https://docs.python.org/3.14/library/multiprocessing.shared_memory.html)
 - [The `concurrent` package](https://docs.python.org/3.14/library/concurrent.html)
-- [`concurrent.futures` — Launching parallel tasks](https://docs.python.org/3.14/library/concurrent.futures.html)
+- [`concurrent.futures` - Launching parallel tasks](https://docs.python.org/3.14/library/concurrent.futures.html)
   - [Executor Objects](https://docs.python.org/3.14/library/concurrent.futures.html#executor-objects)
   - [ThreadPoolExecutor](https://docs.python.org/3.14/library/concurrent.futures.html#threadpoolexecutor)
     - [ThreadPoolExecutor Example](https://docs.python.org/3.14/library/concurrent.futures.html#threadpoolexecutor-example)

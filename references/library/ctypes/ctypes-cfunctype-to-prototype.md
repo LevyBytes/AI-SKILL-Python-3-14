@@ -1,4 +1,4 @@
-# ctypes — Function prototypes
+# ctypes - Function prototypes
 
 ### Function prototypes
 

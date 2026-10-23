@@ -1,4 +1,4 @@
-# xmlrpc.client — Convenience Functions
+# xmlrpc.client - Convenience Functions
 
 ### Convenience Functions
 

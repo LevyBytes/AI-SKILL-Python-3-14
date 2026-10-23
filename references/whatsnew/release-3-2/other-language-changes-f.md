@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Other Language Changes — collections.abc, gc, os, sys, time, warnings
+# What's New In Python 3.2 / Other Language Changes - collections.abc, gc, os, sys, time, warnings
 
 This is permitted now. Bear in mind that the [`except`](https://docs.python.org/3.14/reference/compound_stmts.html#except) clause's target gets cleared, so the snippet below, functional under Python 2.6, threw a [`SyntaxError`](https://docs.python.org/3.14/library/exceptions.html#SyntaxError) under Python 3.1 and once again runs:
 

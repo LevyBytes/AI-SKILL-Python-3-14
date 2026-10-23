@@ -1,4 +1,4 @@
-# curses — Constants — Signature and initial contract
+# curses - Constants - Signature and initial contract
 
 curses.LINES
 

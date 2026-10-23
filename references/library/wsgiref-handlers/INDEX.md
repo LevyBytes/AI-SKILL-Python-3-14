@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `wsgiref.handlers.SimpleHandler` in wsgiref.handlers. [wsgiref.handlers: `wsgiref.handlers.SimpleHandler`](wsgiref-handlers-simplehandler-class.md).
 - Open when checking the documented contracts for `wsgiref.handlers.BaseHandler`, `run()`, `_write()`, `_flush()`, `get_stdin()`, `get_stderr()`, `add_cgi_vars()` in wsgiref.handlers. [wsgiref.handlers: `wsgiref.handlers.BaseHandler`, `run()`, `_write()`, `_flush()`, `get_stdin()`, `get_stderr()`, `add_cgi_vars()`](wsgi-base-handler-and-cgi-environment.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

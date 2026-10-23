@@ -1,4 +1,4 @@
-# bisect — Performance Notes
+# bisect - Performance Notes
 
 ### Performance Notes
 

@@ -1,6 +1,6 @@
-# zipimport — `zipimport` — Import modules from Zip archives
+# zipimport`zipimport` - Import modules from Zip archives
 
-### `zipimport` — Import modules from Zip archives
+### `zipimport` - Import modules from Zip archives
 
 **Source code:** [Lib/zipimport.py](https://github.com/python/cpython/tree/3.14/Lib/zipimport.py)
 

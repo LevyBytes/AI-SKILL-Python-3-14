@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 4.11.2. Removing the MAX_PATH limitation: [4.11.2. Removing the MAX_PATH limitation](removing-the-max-path-limitation.md).
 - Open when checking 4.11. The full installer (deprecated): [4.11. The full installer (deprecated)](the-full-installer.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

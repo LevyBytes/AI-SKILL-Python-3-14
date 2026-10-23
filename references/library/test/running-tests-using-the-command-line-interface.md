@@ -1,4 +1,4 @@
-# test — Running tests using the command-line interface
+# test - Running tests using the command-line interface
 
 ### Running tests using the command-line interface
 

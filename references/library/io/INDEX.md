@@ -2,8 +2,8 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking io — Binary I/O: [io — Binary I/O](binary-i-o.md).
-- Open when checking io — Class hierarchy: [io — Class hierarchy](class-hierarchy.md).
+- Open when checking io - Binary I/O: [io - Binary I/O](binary-i-o.md).
+- Open when checking io - Class hierarchy: [io - Class hierarchy](class-hierarchy.md).
 - Open when checking the documented contracts for `read1()`, `readinto()`, `readinto1()`, `write()` in io.BufferedIOBase. [io.BufferedIOBase: `read1()`, `readinto()`, `readinto1()`, `write()`](io-bufferediobase-read1-to-io-bufferediobase-write.md).
 - Open when checking the documented contracts for `io.IOBase` in io. [io: `io.IOBase`](io-iobase-class.md).
 - Open when checking the documented contracts for `close()`, `fileno()`, `flush()`, `isatty()`, `readable()`, `readline()`, `readlines()`, `seek()`, `seekable()`, `tell()`, `truncate()`, `writable()`, `writelines()` in io.IOBase. [io.IOBase: `close()`, `fileno()`, `flush()`, `isatty()`, `readable()`, `readline()`, `readlines()`, `seek()`, `seekable()`, `tell()`, `truncate()`, `writable()`, `writelines()`](io-iobase-close-to-io-iobase-writelines.md).
@@ -16,8 +16,8 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `io.BufferedWriter`, `flush()`, `write()` in io / Buffered Streams. [io / Buffered Streams: `io.BufferedWriter`, `flush()`, `write()`](io-bufferedwriter-class-to-io-bufferedwriter-write.md).
 - Open when checking the documented contracts for `io.BufferedRandom` in io. [io: `io.BufferedRandom`](io-bufferedrandom-class.md).
 - Open when checking the documented contracts for `io.BufferedRWPair` in io. [io: `io.BufferedRWPair`](io-bufferedrwpair-class.md).
-- Open when checking io — `io` — Core tools for working with streams: [io — `io` — Core tools for working with streams](io-core-tools-for-working-with-streams.md).
-- Open when checking io — High-level Module Interface: [io — High-level Module Interface](io-default-buffer-size-to-io-unsupportedoperation.md).
+- Open when checking io`io` - Core tools for working with streams: [io`io` - Core tools for working with streams](io-core-tools-for-working-with-streams.md).
+- Open when checking io - High-level Module Interface: [io - High-level Module Interface](io-default-buffer-size-to-io-unsupportedoperation.md).
 - Open when checking the documented contracts for `io.FileIO` in io. [io: `io.FileIO`](io-fileio-class.md).
 - Open when checking FileIO mode and filename properties in io. [io: FileIO mode and filename properties](raw-file-i-o.md).
 - Open when checking the documented contracts for `io.TextIOBase` in io. [io: `io.TextIOBase`](io-textiobase-class.md).
@@ -30,11 +30,11 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Reader and Writer typing protocols in io. [io: Reader and Writer typing protocols](static-typing.md).
 - Open when checking the documented contracts for `read()` in io.Reader. [io.Reader: `read()`](io-reader-read-to-io-reader-read.md).
 - Open when checking the documented contracts for `write()` in io / Static Typing. [io / Static Typing: `write()`](io-writer-write.md).
-- Open when checking io — Multi-threading: [io — Multi-threading](multi-threading.md).
-- Open when checking io — Opt-in EncodingWarning: [io — Opt-in EncodingWarning](opt-in-encodingwarning.md).
-- Open when checking io — Performance: [io — Performance](performance.md).
-- Open when checking io — Raw I/O: [io — Raw I/O](raw-i-o.md).
-- Open when checking io — Reentrancy: [io — Reentrancy](reentrancy.md).
-- Open when checking io — Text Encoding: [io — Text Encoding](text-encoding.md).
+- Open when checking io - Multi-threading: [io - Multi-threading](multi-threading.md).
+- Open when checking io - Opt-in EncodingWarning: [io - Opt-in EncodingWarning](opt-in-encodingwarning.md).
+- Open when checking io - Performance: [io - Performance](performance.md).
+- Open when checking io - Raw I/O: [io - Raw I/O](raw-i-o.md).
+- Open when checking io - Reentrancy: [io - Reentrancy](reentrancy.md).
+- Open when checking io - Text Encoding: [io - Text Encoding](text-encoding.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

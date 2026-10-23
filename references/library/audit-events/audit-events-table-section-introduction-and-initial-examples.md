@@ -1,4 +1,4 @@
-# Audit events table — Section introduction and initial examples
+# Audit events table - Section introduction and initial examples
 
 # Audit Events
 

@@ -1,4 +1,4 @@
-# statistics — Statistics for relations between two inputs
+# statistics - Statistics for relations between two inputs
 
 ### Statistics for relations between two inputs
 

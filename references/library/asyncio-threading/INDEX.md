@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Thread safety considerations: [Thread safety considerations](thread-safety-considerations.md).
 - Open when checking Using asyncio with threads: [Using asyncio with threads](using-asyncio-with-threads.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

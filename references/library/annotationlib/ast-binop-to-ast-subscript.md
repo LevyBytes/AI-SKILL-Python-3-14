@@ -1,4 +1,4 @@
-# annotationlib — Limitations of the `STRING` format — Section introduction and initial examples
+# annotationlib - Limitations of the `STRING` format - Section introduction and initial examples
 
 ### Limitations of the `STRING` format
 

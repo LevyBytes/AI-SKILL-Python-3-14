@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / stat — stat
+# What's New In Python 3.4 / stat - stat
 
 ### stat
 

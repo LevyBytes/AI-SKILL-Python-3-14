@@ -1,4 +1,4 @@
-# argparse — exit_on_error
+# argparse - exit_on_error
 
 ### exit_on_error
 

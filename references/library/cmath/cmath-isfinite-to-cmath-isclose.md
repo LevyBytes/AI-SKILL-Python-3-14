@@ -1,4 +1,4 @@
-# cmath — Classification functions
+# cmath - Classification functions
 
 ### Classification functions
 

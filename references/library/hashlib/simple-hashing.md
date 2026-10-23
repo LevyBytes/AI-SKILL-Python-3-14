@@ -1,4 +1,4 @@
-# hashlib — Simple hashing
+# hashlib - Simple hashing
 
 ### Examples
 

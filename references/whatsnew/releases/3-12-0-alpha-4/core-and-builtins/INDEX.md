@@ -27,4 +27,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 4 / core and builtins / while tokenizer hunts unbalanced parentheses any errors already obtained: [Python 3.12.0 alpha 4 / core and builtins / while tokenizer hunts unbalanced parentheses any errors already obtained](unbalanced-parenthesis-error-preservation.md).
 - Open when checking Python 3.12.0 alpha 4 / core and builtins / zipimport: [Python 3.12.0 alpha 4 / core and builtins / zipimport](zipimport.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

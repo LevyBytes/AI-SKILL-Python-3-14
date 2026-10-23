@@ -1,4 +1,4 @@
-# venv — An example of extending `EnvBuilder` — Complete main parser, option validation, builder invocation and guarded entrypoint
+# venv - An example of extending `EnvBuilder` - Complete main parser, option validation, builder invocation and guarded entrypoint
 
 Open the [complete example modules](../../examples/extended-environment/INDEX.md) for the complete definitions, imports and entrypoint.
 

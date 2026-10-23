@@ -1,4 +1,4 @@
-# collections.abc — Collections Abstract Base Classes
+# collections.abc - Collections Abstract Base Classes
 
 ### Collections Abstract Base Classes
 

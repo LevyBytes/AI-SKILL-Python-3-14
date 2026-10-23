@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / New and Improved Modules — bdb, binascii, bz2, collections
+# What’s New in Python 2.7 / New and Improved Modules - bdb, binascii, bz2, collections
 
 ### New and Improved Modules
 

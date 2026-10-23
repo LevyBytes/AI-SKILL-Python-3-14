@@ -1,4 +1,4 @@
-# gzip — Command-line interface
+# gzip - Command-line interface
 
 ### Command-line interface
 

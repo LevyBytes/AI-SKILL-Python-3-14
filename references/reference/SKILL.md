@@ -1,9 +1,9 @@
 ---
 name: reference
-description: "Use when checking the Python 3.14 language definition: lexical analysis, literals, object data model and special methods, name binding and execution, imports, expression semantics, simple and compound statements, top-level execution or PEG grammar. Use for exact language contracts and protocol behavior; standard-library APIs and introductory tutorials have separate references."
+description: "Use when checking the Python 3.14 language definition: lexical analysis, literals, object data model and special methods, name binding and execution, imports, expression semantics, simple and compound statements, top-level execution or PEG grammar."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

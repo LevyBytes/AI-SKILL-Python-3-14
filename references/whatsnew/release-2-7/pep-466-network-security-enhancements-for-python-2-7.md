@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 466: Network Security Enhancements for Python 2.7 — hashlib, hmac, os, ssl
+# What’s New in Python 2.7 / PEP 466: Network Security Enhancements for Python 2.7 - hashlib, hmac, os, ssl
 
 [**PEP 466**](https://peps.python.org/pep-0466/) lays out several proposed network-security improvements that have been cleared to ship in the Python 2.7 maintenance line, and the earliest of those changes landed in the Python 2.7.7 release.
 

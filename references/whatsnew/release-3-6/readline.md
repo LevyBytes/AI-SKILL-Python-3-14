@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / readline — readline
+# What's New In Python 3.6 / readline - readline
 
 ### readline
 

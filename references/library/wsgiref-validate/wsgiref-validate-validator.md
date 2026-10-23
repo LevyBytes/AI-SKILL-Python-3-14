@@ -1,6 +1,6 @@
-# wsgiref.validate — `wsgiref.validate` — WSGI conformance checker
+# wsgiref.validate`wsgiref.validate` - WSGI conformance checker
 
-### `wsgiref.validate` — WSGI conformance checker
+### `wsgiref.validate` - WSGI conformance checker
 
 While building new WSGI application objects, frameworks, servers, or middleware, validating the conformance of the new code with `wsgiref.validate` can prove handy. This module offers a function that produces WSGI application objects which validate the exchanges between a WSGI server or gateway and a WSGI application object, checking each side for protocol conformance.
 

@@ -1,4 +1,4 @@
-# argparse — Exiting methods
+# argparse - Exiting methods
 
 ### Exiting methods
 

@@ -1,4 +1,4 @@
-# tkinter.ttk — Bugs
+# tkinter.ttk - Bugs
 
 ### Bugs
 

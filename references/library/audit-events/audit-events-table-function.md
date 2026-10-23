@@ -1,4 +1,4 @@
-# Audit events table — function
+# Audit events table - function
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

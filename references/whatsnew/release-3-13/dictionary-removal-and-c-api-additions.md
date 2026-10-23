@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / C API Changes / New Features — tracemalloc
+# What's New In Python 3.13 / C API Changes / New Features - tracemalloc
 
 Introduce the [`PyDict_Pop()`](https://docs.python.org/3.14/c-api/dict.html#c.PyDict_Pop) and [`PyDict_PopString()`](https://docs.python.org/3.14/c-api/dict.html#c.PyDict_PopString) functions, which drop a key from a dictionary and may hand back the value that was dropped. The behavior parallels [`dict.pop()`](https://docs.python.org/3.14/library/stdtypes.html#dict.pop), except that no fallback value exists and [`KeyError`](https://docs.python.org/3.14/library/exceptions.html#KeyError) stays silent when a key is absent. (Contributed by Stefan Behnel and Victor Stinner in [gh-111262](https://github.com/python/cpython/issues/111262).)
 

@@ -1,4 +1,4 @@
-# dbm — `dbm` — Interfaces to Unix “databases”
+# dbm`dbm` - Interfaces to Unix “databases”
 
 # Dbm, Debug
 
@@ -6,9 +6,9 @@
 
 Covers: dbm — Interfaces to Unix “databases”; Debugging and Profiling.
 
-## dbm — Interfaces to Unix “databases”
+## dbm - Interfaces to Unix “databases”
 
-### `dbm` — Interfaces to Unix “databases”
+### `dbm` - Interfaces to Unix “databases”
 
 **Source code:** [Lib/dbm/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/dbm/__init__.py)
 

@@ -1,4 +1,4 @@
-# collections — `defaultdict` Examples
+# collections`defaultdict` Examples
 
 ### `defaultdict` Examples
 

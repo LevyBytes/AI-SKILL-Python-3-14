@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — heapq, http.client, inspect, itertools
+# What’s New in Python 2.6 / New and Improved Modules - heapq, http.client, inspect, itertools
 
 ```python
 >>> list(heapq.merge([1, 3, 5, 9], [2, 8, 16]))

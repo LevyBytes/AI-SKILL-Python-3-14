@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 6.3. The `dir()` Function: [6.3. The `dir()` Function](the-dir-function.md).
 - Open when checking 6.1.2. The Module Search Path: [6.1.2. The Module Search Path](the-module-search-path.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

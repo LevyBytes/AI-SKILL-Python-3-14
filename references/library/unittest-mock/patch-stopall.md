@@ -1,4 +1,4 @@
-# unittest.mock — patch methods: start and stop
+# unittest.mock - patch methods: start and stop
 
 ### patch methods: start and stop
 

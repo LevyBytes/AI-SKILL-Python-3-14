@@ -24,7 +24,7 @@ Since IPv4 offers no shorthand for addresses whose octets are zero, for IPv4 add
 
  packed
 
-This address in binary form — a [`bytes`](https://docs.python.org/3.14/library/stdtypes.html#bytes) object of the matching length (most significant octet first). For IPv4 that is 4 bytes, and for IPv6 it is 16 bytes.
+This address in binary form - a [`bytes`](https://docs.python.org/3.14/library/stdtypes.html#bytes) object of the matching length (most significant octet first). For IPv4 that is 4 bytes, and for IPv6 it is 16 bytes.
 
  reverse_pointer
 

@@ -1,4 +1,4 @@
-# contextlib — Replacing any use of `try-finally` and flag variables
+# contextlib - Replacing any use of `try-finally` and flag variables
 
 ### Replacing any use of `try-finally` and flag variables
 

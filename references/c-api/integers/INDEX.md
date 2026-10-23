@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking long-integer writer purpose and availability in integers C API. [integers C API: Long-integer writer purpose and availability](pylongwriter-api.md).
 - Open when checking the documented contracts for `PyLongWriter`, `PyLongWriter_Create()`, `PyLongWriter_Finish()`, `PyLongWriter_Discard()` in integers C API. [integers C API: `PyLongWriter`, `PyLongWriter_Create()`, `PyLongWriter_Finish()`, `PyLongWriter_Discard()`](pylongwriter-to-pylongwriter-discard.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

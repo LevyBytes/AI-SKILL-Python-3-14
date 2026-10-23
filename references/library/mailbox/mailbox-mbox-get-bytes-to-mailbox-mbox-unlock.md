@@ -18,7 +18,7 @@ Note: Unlike other classes, this method takes an extra parameter (*from_*). An m
 
  unlock()
 
-Three locking schemes come into play—dot locking plus, where they're available, the `flock()` and `lockf()` system calls.
+Three locking schemes come into play: dot locking plus, where they're available, the `flock()` and `lockf()` system calls.
 
 See also
 

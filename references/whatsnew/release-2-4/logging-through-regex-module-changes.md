@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / New, Improved, and Deprecated Modules — email, email.utils, gettext, logging, marshal, operator, optparse, os, poplib, posix, profile, random, re
+# What’s New in Python 2.4 / New, Improved, and Deprecated Modules - email, email.utils, gettext, logging, marshal, operator, optparse, os, poplib, posix, profile, random, re
 
 ```python
 import logging

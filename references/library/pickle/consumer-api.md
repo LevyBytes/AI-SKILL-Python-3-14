@@ -1,4 +1,4 @@
-# pickle — Consumer API
+# pickle - Consumer API
 
 ### Consumer API
 

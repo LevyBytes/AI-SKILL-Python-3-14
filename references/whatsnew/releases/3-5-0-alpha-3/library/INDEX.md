@@ -37,4 +37,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 alpha 3 / library / within regular expressions unknown escapes formed plus ascii letter: [Python 3.5.0 alpha 3 / library / within regular expressions unknown escapes formed plus ascii letter](regex-unknown-ascii-escape-handling.md).
 - Open when checking Python 3.5.0 alpha 3 / library / zipapp: [Python 3.5.0 alpha 3 / library / zipapp](zipapp.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

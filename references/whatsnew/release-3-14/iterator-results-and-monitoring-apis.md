@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / C API changes / New features in the C API — sys.monitoring
+# What's new in Python 3.14 / C API changes / New features in the C API - sys.monitoring
 
 Introduce [`PyIter_NextItem()`](https://docs.python.org/3.14/c-api/iter.html#c.PyIter_NextItem) as a stand-in for [`PyIter_Next()`](https://docs.python.org/3.14/c-api/iter.html#c.PyIter_Next), whose return value is ambiguous. (Contributed by Irit Katriel and Erlend Aasland in [gh-105201](https://github.com/python/cpython/issues/105201).)
 

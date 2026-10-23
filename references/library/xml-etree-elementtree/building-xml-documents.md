@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Building XML documents
+# xml.etree.ElementTree - Building XML documents
 
 ### Building XML documents
 

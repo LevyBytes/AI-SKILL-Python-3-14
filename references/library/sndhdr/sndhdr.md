@@ -2,7 +2,7 @@
 
 # Sndhdr
 
-### `sndhdr` — Determine type of sound file
+### `sndhdr` - Determine type of sound file
 
 Marked deprecated as of version 3.11; dropped entirely in version 3.13.
 

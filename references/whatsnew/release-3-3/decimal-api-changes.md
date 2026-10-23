@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / decimal / API changes — collections.abc, decimal
+# What's New In Python 3.3 / decimal / API changes - collections.abc, decimal
 
 #### API changes
 

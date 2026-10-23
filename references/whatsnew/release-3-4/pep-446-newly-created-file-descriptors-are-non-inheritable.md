@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / PEP 446: Newly Created File Descriptors Are Non-Inheritable — os, socket
+# What's New In Python 3.4 / PEP 446: Newly Created File Descriptors Are Non-Inheritable - os, socket
 
 ### PEP 446: Newly Created File Descriptors Are Non-Inheritable
 
@@ -14,7 +14,7 @@ Nevertheless, inheritance is sometimes wanted. The following new functions and m
 
 See also
 
-[**PEP 446**](https://peps.python.org/pep-0446/) — Make newly created file descriptors non-inheritable
+[**PEP 446**](https://peps.python.org/pep-0446/): Make newly created file descriptors non-inheritable
 
 PEP written and implemented by Victor Stinner.
 

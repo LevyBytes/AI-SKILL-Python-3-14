@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / urllib.request — urllib.request
+# What's New In Python 3.6 / urllib.request - urllib.request
 
 ### urllib.request
 

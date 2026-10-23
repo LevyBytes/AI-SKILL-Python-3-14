@@ -1,4 +1,4 @@
-# What’s New in Python 2.2 / Other Changes and Fixes — sys, weakref
+# What’s New in Python 2.2 / Other Changes and Fixes - sys, weakref
 
 ### Other Changes and Fixes
 
@@ -42,4 +42,4 @@ Nearly all of the MacPython toolbox modules — the ones that bridge to MacOS AP
 
 - When given floating-point numbers, the [`pow()`](https://docs.python.org/3.14/library/functions.html#pow) built-in function no longer accepts 3 arguments. Although `pow(x, y, z)` computes `(x**y) % z`, that is of no value for floating-point numbers and the end result swings unpredictably from one platform to the next. From now on a call like `pow(2.0, 8.0, 7.0)` raises a [`TypeError`](https://docs.python.org/3.14/library/exceptions.html#TypeError) exception.
 
-[Subject index](INDEX.md) · [Previous source section](interpreter-changes-and-fixes.md) · [Next source section](acknowledgements.md) · [Release/subject declaration](introduction.md)
+[Subject index](INDEX.md) · [Previous source section](interpreter-changes-and-fixes.md) · [Release/subject declaration](introduction.md)

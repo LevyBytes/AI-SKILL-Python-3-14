@@ -40,4 +40,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 beta 1 / library / where several pattern characters appeared fnmatch fnmatch could run exponential: [Python 3.9.0 beta 1 / library / where several pattern characters appeared fnmatch fnmatch could run exponential](filename-pattern-exponential-matching.md).
 - Open when checking Python 3.9.0 beta 1 / library / zoneinfo: [Python 3.9.0 beta 1 / library / zoneinfo](zoneinfo.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

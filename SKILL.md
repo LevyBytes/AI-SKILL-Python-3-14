@@ -1,10 +1,10 @@
 ---
 name: python-3-14
-description: "Use when writing, debugging or reviewing Python 3.14 (CPython): standard-library APIs, language syntax and object protocols, tutorials and HOWTOs, interpreter setup, package installation and distribution, C/C++ extensions, embedding and the Python/C API. Also use for bundled Python FAQs, terminology, version-specific release changes and deprecation schedules. Historical notes apply to their named versions."
+description: "Use when writing, debugging or reviewing Python 3.14 (CPython): standard-library APIs, language syntax and object protocols, tutorials and HOWTOs, interpreter setup, package installation and distribution, C/C++ extensions, embedding and the Python/C API. Also use for bundled Python FAQs, terminology, version-specific release changes and deprecation schedules."
 license: Apache-2.0
 metadata:
   skill-type: "collection"
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

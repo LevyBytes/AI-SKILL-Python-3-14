@@ -1,8 +1,8 @@
 # code: `code.InteractiveInterpreter`
 
-## code — Interpreter base classes
+## code - Interpreter base classes
 
-### `code` — Interpreter base classes
+### `code` - Interpreter base classes
 
 **Source code:** [Lib/code.py](https://github.com/python/cpython/tree/3.14/Lib/code.py)
 

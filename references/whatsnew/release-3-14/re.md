@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / re — re
+# What's new in Python 3.14 / re - re
 
 ### re
 

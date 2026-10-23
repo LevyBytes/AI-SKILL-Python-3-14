@@ -1,8 +1,8 @@
-# bz2 — `bz2` — Support for **bzip2** compression
+# bz2`bz2` - Support for **bzip2** compression
 
 # Bz2
 
-### `bz2` — Support for **bzip2** compression
+### `bz2` - Support for **bzip2** compression
 
 **Source code:** [Lib/bz2.py](https://github.com/python/cpython/tree/3.14/Lib/bz2.py)
 

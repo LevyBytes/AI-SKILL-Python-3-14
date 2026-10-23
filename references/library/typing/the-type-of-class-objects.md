@@ -1,4 +1,4 @@
-# typing — The type of class objects
+# typing - The type of class objects
 
 ### The type of class objects
 

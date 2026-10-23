@@ -1,8 +1,8 @@
 # abc: `abc.ABC`
 
-## abc — Abstract Base Classes
+## abc - Abstract Base Classes
 
-### `abc` — Abstract Base Classes
+### `abc` - Abstract Base Classes
 
 **Source code:** [Lib/abc.py](https://github.com/python/cpython/tree/3.14/Lib/abc.py)
 

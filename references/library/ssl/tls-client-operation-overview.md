@@ -1,4 +1,4 @@
-# ssl — Client-side operation — Section introduction and initial examples
+# ssl - Client-side operation - Section introduction and initial examples
 
 ### Client-side operation
 

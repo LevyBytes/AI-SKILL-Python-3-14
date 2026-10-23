@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / abc — abc
+# What's New In Python 3.2 / abc - abc
 
 ### abc
 

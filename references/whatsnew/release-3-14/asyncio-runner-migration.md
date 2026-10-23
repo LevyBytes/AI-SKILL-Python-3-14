@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / asyncio — asyncio-runner
+# What's new in Python 3.14 / asyncio - asyncio-runner
 
 Before:
 

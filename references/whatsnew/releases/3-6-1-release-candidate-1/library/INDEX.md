@@ -33,4 +33,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.1 release candidate 1 / library / urllib request: [Python 3.6.1 release candidate 1 / library / urllib request](urllib-request.md).
 - Open when checking Python 3.6.1 release candidate 1 / library / zlib: [Python 3.6.1 release candidate 1 / library / zlib](zlib.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

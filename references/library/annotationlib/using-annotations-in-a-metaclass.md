@@ -1,4 +1,4 @@
-# annotationlib — Using annotations in a metaclass
+# annotationlib - Using annotations in a metaclass
 
 ### Recipes
 

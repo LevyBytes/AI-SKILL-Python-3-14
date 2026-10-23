@@ -1,6 +1,6 @@
-# dbm.dumb — `dbm.dumb` — Portable DBM implementation
+# dbm.dumb`dbm.dumb` - Portable DBM implementation
 
-### `dbm.dumb` — Portable DBM implementation
+### `dbm.dumb` - Portable DBM implementation
 
 **Source code:** [Lib/dbm/dumb.py](https://github.com/python/cpython/tree/3.14/Lib/dbm/dumb.py)
 

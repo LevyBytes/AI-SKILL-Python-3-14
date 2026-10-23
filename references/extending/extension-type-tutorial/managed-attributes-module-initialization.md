@@ -1,4 +1,4 @@
-# Providing finer control over data attributes — custom_module_exec, custom_module_slots, custom_module, PyInit_custom3
+# Providing finer control over data attributes - custom_module_exec, custom_module_slots, custom_module, PyInit_custom3
 
 Open the [complete example modules](../../examples/extension-properties/INDEX.md) for the complete definitions, imports and entrypoint.
 

@@ -1,4 +1,4 @@
-# email.contentmanager — Content Manager Instances
+# email.contentmanager - Content Manager Instances
 
 ### Content Manager Instances
 

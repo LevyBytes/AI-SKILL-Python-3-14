@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / logging — logging, logging.config, logging.handlers
+# What's New In Python 3.7 / logging - logging, logging.config, logging.handlers
 
 ### logging
 

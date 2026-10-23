@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / PEP 308: Conditional Expressions — ctypes
+# What's New in Python 2.5 / PEP 308: Conditional Expressions - ctypes
 
 ### What's New in Python 2.5
 

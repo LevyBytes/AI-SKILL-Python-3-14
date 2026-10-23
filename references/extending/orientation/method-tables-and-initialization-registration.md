@@ -1,4 +1,4 @@
-# The Module’s Method Table and Initialization Function — PyMethodDef, PyArg_ParseTuple, PyObject, PyArg_ParseTupleAndKeywords, PyModuleDef, PyInit_name, PyMODINIT_FUNC, PyInit_spam, PyModuleDef_Init, PyImport_Inittab, PyImport_AppendInittab
+# The Module’s Method Table and Initialization Function - PyMethodDef, PyArg_ParseTuple, PyObject, PyArg_ParseTupleAndKeywords, PyModuleDef, PyInit_name, PyMODINIT_FUNC, PyInit_spam, PyModuleDef_Init, PyImport_Inittab, PyImport_AppendInittab
 
 ### 1.4. The Module’s Method Table and Initialization Function
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "chunk — `chunk` — Read IFF chunked data", "file": "chunk/chunk-read-iff-chunked-data.md", "summary": "Open when checking chunk — `chunk` — Read IFF chunked data.", "keywords": []},
+    {"topic": "chunk - `chunk` - Read IFF chunked data", "file": "chunk/chunk-read-iff-chunked-data.md", "summary": "Open when checking chunk - `chunk` - Read IFF chunked data.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

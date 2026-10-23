@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `acquire()`, `locked()`, `release()` in Semaphore. [Semaphore: `acquire()`, `locked()`, `release()`](asyncio-semaphore-acquire-to-asyncio-semaphore-release.md).
 - Open when checking Synchronization Primitives: [Synchronization Primitives](synchronization-primitives.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

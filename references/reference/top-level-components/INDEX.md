@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 9.3. Interactive input: [9.3. Interactive input](interactive-input.md).
 - Open when checking 9. Top-level components: [9. Top-level components](top-level-components.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

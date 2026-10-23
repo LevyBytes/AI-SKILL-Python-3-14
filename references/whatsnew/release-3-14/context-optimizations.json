@@ -1,12 +1,12 @@
 {"schema_version": 1, "owner": "references/whatsnew", "topics": [
   {"topic": "Optimizations / What's new in Python 3.14 / Optimizations", "file": "release-3-14/optimizations.md", "summary": "Open when checking What's new in Python 3.14 / Optimizations.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / base64 — base64", "file": "release-3-14/base64.md", "summary": "Open when checking What's new in Python 3.14 / base64 — base64.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / bdb — bdb, sys.monitoring", "file": "release-3-14/bdb.md", "summary": "Open when checking What's new in Python 3.14 / bdb — bdb, sys.monitoring.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / difflib — difflib", "file": "release-3-14/difflib.md", "summary": "Open when checking What's new in Python 3.14 / difflib — difflib.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / io — io, typing", "file": "release-3-14/io.md", "summary": "Open when checking What's new in Python 3.14 / io — io, typing.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / pdb — bdb, pdb, sys", "file": "release-3-14/pdb.md", "summary": "Open when checking What's new in Python 3.14 / pdb — bdb, pdb, sys.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / textwrap — textwrap", "file": "release-3-14/textwrap.md", "summary": "Open when checking What's new in Python 3.14 / textwrap — textwrap.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / uuid — uuid", "file": "release-3-14/uuid.md", "summary": "Open when checking What's new in Python 3.14 / uuid — uuid.", "keywords": []},
-  {"topic": "Optimizations / What's new in Python 3.14 / zlib — zlib", "file": "release-3-14/zlib.md", "summary": "Open when checking What's new in Python 3.14 / zlib — zlib.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / base64 - base64", "file": "release-3-14/base64.md", "summary": "Open when checking What's new in Python 3.14 / base64 - base64.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / bdb - bdb, sys.monitoring", "file": "release-3-14/bdb.md", "summary": "Open when checking What's new in Python 3.14 / bdb - bdb, sys.monitoring.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / difflib - difflib", "file": "release-3-14/difflib.md", "summary": "Open when checking What's new in Python 3.14 / difflib - difflib.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / io - io, typing", "file": "release-3-14/io.md", "summary": "Open when checking What's new in Python 3.14 / io - io, typing.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / pdb - bdb, pdb, sys", "file": "release-3-14/pdb.md", "summary": "Open when checking What's new in Python 3.14 / pdb - bdb, pdb, sys.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / textwrap - textwrap", "file": "release-3-14/textwrap.md", "summary": "Open when checking What's new in Python 3.14 / textwrap - textwrap.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / uuid - uuid", "file": "release-3-14/uuid.md", "summary": "Open when checking What's new in Python 3.14 / uuid - uuid.", "keywords": []},
+  {"topic": "Optimizations / What's new in Python 3.14 / zlib - zlib", "file": "release-3-14/zlib.md", "summary": "Open when checking What's new in Python 3.14 / zlib - zlib.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

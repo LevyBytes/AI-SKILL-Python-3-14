@@ -1,4 +1,4 @@
-# uuid — Command-Line Usage
+# uuid - Command-Line Usage
 
 ### Command-Line Usage
 

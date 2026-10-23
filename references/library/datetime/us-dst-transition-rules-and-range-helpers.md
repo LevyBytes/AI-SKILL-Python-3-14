@@ -1,4 +1,4 @@
-# datetime — `tzinfo` objects — US DST caveats, transition constants and range helpers
+# datetime`tzinfo` objects - US DST caveats, transition constants and range helpers
 
 Open the [complete example modules](../../examples/timezone-rules/INDEX.md) for the complete definitions, imports and entrypoint.
 

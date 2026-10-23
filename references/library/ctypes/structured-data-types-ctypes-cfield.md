@@ -46,6 +46,6 @@ When the field is not a bitfield, `bit_offset` comes out as zero and `bit_size` 
 
 `is_anonymous`
 
-True when this field is anonymous — meaning it holds nested sub-fields meant to be folded into an enclosing structure or union.
+True when this field is anonymous: meaning it holds nested sub-fields meant to be folded into an enclosing structure or union.
 
 [Subject index](INDEX.md) · [Continue](ctypes-array-class-to-ctypes-array.md) · [Owning module, declaration or section: ctypes](ctypes-a-foreign-function-library-for-python.md) · [Owning module, declaration or section: ctypes.CField](ctypes-cfield-class.md) · [Owning module, declaration or section: Structured data types](ctypes-union-class.md) · [Preceding source contract and version conditions](ctypes-cfield-class.md)

@@ -1,6 +1,6 @@
-# argparse — `argparse` — Parser for command-line options, arguments and subcommands
+# argparse`argparse` - Parser for command-line options, arguments and subcommands
 
-### `argparse` — Parser for command-line options, arguments and subcommands
+### `argparse` - Parser for command-line options, arguments and subcommands
 
 Added in version 3.2.
 

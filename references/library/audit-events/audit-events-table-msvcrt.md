@@ -1,4 +1,4 @@
-# Audit events table — msvcrt
+# Audit events table - msvcrt
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

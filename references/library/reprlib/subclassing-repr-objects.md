@@ -1,4 +1,4 @@
-# reprlib — Subclassing Repr Objects
+# reprlib - Subclassing Repr Objects
 
 ### Subclassing Repr Objects
 

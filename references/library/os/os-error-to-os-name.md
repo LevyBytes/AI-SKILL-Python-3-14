@@ -1,6 +1,6 @@
-# os — `os` — Miscellaneous operating system interfaces
+# os`os` - Miscellaneous operating system interfaces
 
-### `os` — Miscellaneous operating system interfaces
+### `os` - Miscellaneous operating system interfaces
 
 **Source code:** [Lib/os.py](https://github.com/python/cpython/tree/3.14/Lib/os.py)
 

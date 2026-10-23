@@ -1,4 +1,4 @@
-# curses.panel — Panel Objects
+# curses.panel - Panel Objects
 
 ### Panel Objects
 

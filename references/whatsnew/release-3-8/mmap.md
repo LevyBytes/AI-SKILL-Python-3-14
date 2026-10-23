@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / mmap — mmap
+# What’s New In Python 3.8 / mmap - mmap
 
 > (Contributed by Pablo Galindo in [bpo-33083](https://bugs.python.org/issue?@action=redirect&bpo=33083).)
 

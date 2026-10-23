@@ -1,4 +1,4 @@
-# tkinter.ttk — Tab Identifiers
+# tkinter.ttk - Tab Identifiers
 
 ### Tab Identifiers
 

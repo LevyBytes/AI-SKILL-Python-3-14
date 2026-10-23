@@ -1,4 +1,4 @@
-# logging.config — Configuration dictionary schema
+# logging.config - Configuration dictionary schema
 
 ### Configuration dictionary schema
 

@@ -38,4 +38,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 beta 1 / core and builtins / turn opcodes jump if true or pop jump if false or pop into relative ones instead absolute: [Python 3.11.0 beta 1 / core and builtins / turn opcodes jump if true or pop jump if false or pop into relative ones instead absolute](conditional-pop-jump-relative-addressing.md).
 - Open when checking Python 3.11.0 beta 1 / core and builtins / types: [Python 3.11.0 beta 1 / core and builtins / types](types.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

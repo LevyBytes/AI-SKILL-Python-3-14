@@ -1,4 +1,4 @@
-# Extracting Parameters in Extension Functions — PyArg_ParseTuple, PyObject, Py_ssize_t
+# Extracting Parameters in Extension Functions - PyArg_ParseTuple, PyObject, Py_ssize_t
 
 ### 1.7. Extracting Parameters in Extension Functions
 

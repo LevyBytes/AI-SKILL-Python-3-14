@@ -1,4 +1,4 @@
-# pathlib — Basic use
+# pathlib - Basic use
 
 ### Basic use
 

@@ -1,4 +1,4 @@
-# string — Format examples — Contract: Replacing `%+f`, `%-f`, and `% f` and specifying a sign:
+# string - Format examples - Contract: Replacing `%+f`, `%-f`, and `% f` and specifying a sign:
 
 Replacing `%+f`, `%-f`, and `% f` and specifying a sign:
 

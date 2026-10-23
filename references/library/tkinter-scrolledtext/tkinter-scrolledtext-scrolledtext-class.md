@@ -1,8 +1,8 @@
 # tkinter.scrolledtext: `tkinter.scrolledtext.ScrolledText`
 
-## tkinter.scrolledtext — Scrolled Text Widget
+## tkinter.scrolledtext - Scrolled Text Widget
 
-### `tkinter.scrolledtext` — Scrolled Text Widget
+### `tkinter.scrolledtext` - Scrolled Text Widget
 
 **Source code:** [Lib/tkinter/scrolledtext.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/scrolledtext.py)
 

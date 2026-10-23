@@ -1,4 +1,4 @@
-# mmap — MAP_* Constants
+# mmap - MAP_* Constants
 
 ### MAP_* Constants
 

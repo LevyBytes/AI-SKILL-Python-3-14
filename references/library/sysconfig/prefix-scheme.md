@@ -1,4 +1,4 @@
-# sysconfig — Prefix scheme
+# sysconfig - Prefix scheme
 
 ### Prefix scheme
 

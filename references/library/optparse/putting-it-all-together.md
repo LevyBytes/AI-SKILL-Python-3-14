@@ -1,4 +1,4 @@
-# optparse — Putting it all together
+# optparse - Putting it all together
 
 ### Putting it all together
 

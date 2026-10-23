@@ -1,4 +1,4 @@
-# string.templatelib — Template strings
+# string.templatelib - Template strings
 
 ### Template strings
 

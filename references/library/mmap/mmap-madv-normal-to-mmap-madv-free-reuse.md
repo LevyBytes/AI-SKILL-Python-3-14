@@ -1,4 +1,4 @@
-# mmap — MADV_* Constants
+# mmap - MADV_* Constants
 
 ### MADV_* Constants
 

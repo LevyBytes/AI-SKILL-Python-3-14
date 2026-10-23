@@ -1,6 +1,6 @@
-# telnetlib — `telnetlib` — Telnet client
+# telnetlib`telnetlib` - Telnet client
 
-### `telnetlib` — Telnet client
+### `telnetlib` - Telnet client
 
 Deprecated since version 3.11, removed in version 3.13.
 

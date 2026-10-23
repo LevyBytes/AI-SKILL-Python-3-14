@@ -1,4 +1,4 @@
-# modulefinder — Example usage of `ModuleFinder`
+# modulefinder - Example usage of `ModuleFinder`
 
 ### Example usage of `ModuleFinder`
 

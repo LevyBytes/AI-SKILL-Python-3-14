@@ -1,8 +1,8 @@
-# shelve — `shelve` — Python object persistence
+# shelve`shelve` - Python object persistence
 
-## shelve — Python object persistence
+## shelve - Python object persistence
 
-### `shelve` — Python object persistence
+### `shelve` - Python object persistence
 
 **Source code:** [Lib/shelve.py](https://github.com/python/cpython/tree/3.14/Lib/shelve.py)
 

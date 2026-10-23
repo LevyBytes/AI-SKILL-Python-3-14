@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / fnmatch — fnmatch
+# What's new in Python 3.14 / fnmatch - fnmatch
 
 ### fnmatch
 

@@ -1,6 +1,6 @@
-# socket — `socket` — Low-level networking interface
+# socket`socket` - Low-level networking interface
 
-### `socket` — Low-level networking interface
+### `socket` - Low-level networking interface
 
 **Source code:** [Lib/socket.py](https://github.com/python/cpython/tree/3.14/Lib/socket.py)
 

@@ -1,4 +1,4 @@
-# glob — Examples
+# glob - Examples
 
 ### Examples
 

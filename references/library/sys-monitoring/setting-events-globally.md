@@ -1,4 +1,4 @@
-# sys.monitoring — Setting events globally
+# sys.monitoring - Setting events globally
 
 ### Setting events globally
 

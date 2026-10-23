@@ -2,81 +2,81 @@
 
 Select by the documented task or API context. [Topic catalog](context-improved-modules.json).
 
-- Open when checking What’s New In Python 3.5 / argparse — argparse. [Improved Modules / What’s New In Python 3.5 / argparse — argparse](argparse.md).
-- Open when checking What’s New In Python 3.5 / asyncio — asyncio, asyncio-eventloop, asyncio-future, asyncio-protocol, asyncio-queue, asyncio-stream, asyncio-task. [Improved Modules / What’s New In Python 3.5 / asyncio — asyncio, asyncio-eventloop, asyncio-future, asyncio-protocol, asyncio-queue, asyncio-stream, asyncio-task](asyncio.md).
-- Open when checking What’s New In Python 3.5 / bz2 — bz2. [Improved Modules / What’s New In Python 3.5 / bz2 — bz2](bz2.md).
+- Open when checking What’s New In Python 3.5 / argparse - argparse. [Improved Modules / What’s New In Python 3.5 / argparse - argparse](argparse.md).
+- Open when checking What’s New In Python 3.5 / asyncio - asyncio, asyncio-eventloop, asyncio-future, asyncio-protocol, asyncio-queue, asyncio-stream, asyncio-task. [Improved Modules / What’s New In Python 3.5 / asyncio - asyncio, asyncio-eventloop, asyncio-future, asyncio-protocol, asyncio-queue, asyncio-stream, asyncio-task](asyncio.md).
+- Open when checking What’s New In Python 3.5 / bz2 - bz2. [Improved Modules / What’s New In Python 3.5 / bz2 - bz2](bz2.md).
 - Open when checking What’s New In Python 3.5 / cgi. [Improved Modules / What’s New In Python 3.5 / cgi](cgi.md).
-- Open when checking What’s New In Python 3.5 / cmath — cmath. [Improved Modules / What’s New In Python 3.5 / cmath — cmath](cmath.md).
-- Open when checking What’s New In Python 3.5 / code — code. [Improved Modules / What’s New In Python 3.5 / code — code](code.md).
-- Open when checking What’s New In Python 3.5 / collections — collections, collections.abc, pickle. [Improved Modules / What’s New In Python 3.5 / collections — collections, collections.abc, pickle](collections.md).
-- Open when checking What’s New In Python 3.5 / collections.abc — collections.abc. [Improved Modules / What’s New In Python 3.5 / collections.abc — collections.abc](collections-abc.md).
-- Open when checking What’s New In Python 3.5 / compileall — compileall. [Improved Modules / What’s New In Python 3.5 / compileall — compileall](compileall.md).
-- Open when checking What’s New In Python 3.5 / concurrent.futures — concurrent.futures. [Improved Modules / What’s New In Python 3.5 / concurrent.futures — concurrent.futures](concurrent-futures.md).
-- Open when checking What’s New In Python 3.5 / configparser — configparser. [Improved Modules / What’s New In Python 3.5 / configparser — configparser](configparser.md).
-- Open when checking What’s New In Python 3.5 / contextlib — contextlib, sys. [Improved Modules / What’s New In Python 3.5 / contextlib — contextlib, sys](contextlib.md).
-- Open when checking What’s New In Python 3.5 / csv — csv. [Improved Modules / What’s New In Python 3.5 / csv — csv](csv.md).
-- Open when checking What’s New In Python 3.5 / curses — curses. [Improved Modules / What’s New In Python 3.5 / curses — curses](curses.md).
-- Open when checking What’s New In Python 3.5 / dbm — dbm. [Improved Modules / What’s New In Python 3.5 / dbm — dbm](dbm.md).
-- Open when checking What’s New In Python 3.5 / difflib — difflib. [Improved Modules / What’s New In Python 3.5 / difflib — difflib](difflib.md).
+- Open when checking What’s New In Python 3.5 / cmath - cmath. [Improved Modules / What’s New In Python 3.5 / cmath - cmath](cmath.md).
+- Open when checking What’s New In Python 3.5 / code - code. [Improved Modules / What’s New In Python 3.5 / code - code](code.md).
+- Open when checking What’s New In Python 3.5 / collections - collections, collections.abc, pickle. [Improved Modules / What’s New In Python 3.5 / collections - collections, collections.abc, pickle](collections.md).
+- Open when checking What’s New In Python 3.5 / collections.abc - collections.abc. [Improved Modules / What’s New In Python 3.5 / collections.abc - collections.abc](collections-abc.md).
+- Open when checking What’s New In Python 3.5 / compileall - compileall. [Improved Modules / What’s New In Python 3.5 / compileall - compileall](compileall.md).
+- Open when checking What’s New In Python 3.5 / concurrent.futures - concurrent.futures. [Improved Modules / What’s New In Python 3.5 / concurrent.futures - concurrent.futures](concurrent-futures.md).
+- Open when checking What’s New In Python 3.5 / configparser - configparser. [Improved Modules / What’s New In Python 3.5 / configparser - configparser](configparser.md).
+- Open when checking What’s New In Python 3.5 / contextlib - contextlib, sys. [Improved Modules / What’s New In Python 3.5 / contextlib - contextlib, sys](contextlib.md).
+- Open when checking What’s New In Python 3.5 / csv - csv. [Improved Modules / What’s New In Python 3.5 / csv - csv](csv.md).
+- Open when checking What’s New In Python 3.5 / curses - curses. [Improved Modules / What’s New In Python 3.5 / curses - curses](curses.md).
+- Open when checking What’s New In Python 3.5 / dbm - dbm. [Improved Modules / What’s New In Python 3.5 / dbm - dbm](dbm.md).
+- Open when checking What’s New In Python 3.5 / difflib - difflib. [Improved Modules / What’s New In Python 3.5 / difflib - difflib](difflib.md).
 - Open when checking What’s New In Python 3.5 / distutils. [Improved Modules / What’s New In Python 3.5 / distutils](distutils.md).
-- Open when checking What’s New In Python 3.5 / doctest — doctest, unittest. [Improved Modules / What’s New In Python 3.5 / doctest — doctest, unittest](doctest.md).
-- Open when checking What’s New In Python 3.5 / email — email.policy. [Improved Modules / What’s New In Python 3.5 / email — email.policy](email.md).
-- Open when checking What’s New In Python 3.5 / enum — enum. [Improved Modules / What’s New In Python 3.5 / enum — enum](enum.md).
-- Open when checking What’s New In Python 3.5 / faulthandler — faulthandler. [Improved Modules / What’s New In Python 3.5 / faulthandler — faulthandler](faulthandler.md).
-- Open when checking What’s New In Python 3.5 / functools — functools. [Improved Modules / What’s New In Python 3.5 / functools — functools](functools.md).
-- Open when checking What’s New In Python 3.5 / glob — glob. [Improved Modules / What’s New In Python 3.5 / glob — glob](glob.md).
-- Open when checking What’s New In Python 3.5 / gzip — gzip. [Improved Modules / What’s New In Python 3.5 / gzip — gzip](gzip.md).
-- Open when checking What’s New In Python 3.5 / heapq — heapq. [Improved Modules / What’s New In Python 3.5 / heapq — heapq](heapq.md).
-- Open when checking What’s New In Python 3.5 / http — http. [Improved Modules / What’s New In Python 3.5 / http — http](http.md).
-- Open when checking What’s New In Python 3.5 / http.client — http.client. [Improved Modules / What’s New In Python 3.5 / http.client — http.client](http-client.md).
+- Open when checking What’s New In Python 3.5 / doctest - doctest, unittest. [Improved Modules / What’s New In Python 3.5 / doctest - doctest, unittest](doctest.md).
+- Open when checking What’s New In Python 3.5 / email - email.policy. [Improved Modules / What’s New In Python 3.5 / email - email.policy](email.md).
+- Open when checking What’s New In Python 3.5 / enum - enum. [Improved Modules / What’s New In Python 3.5 / enum - enum](enum.md).
+- Open when checking What’s New In Python 3.5 / faulthandler - faulthandler. [Improved Modules / What’s New In Python 3.5 / faulthandler - faulthandler](faulthandler.md).
+- Open when checking What’s New In Python 3.5 / functools - functools. [Improved Modules / What’s New In Python 3.5 / functools - functools](functools.md).
+- Open when checking What’s New In Python 3.5 / glob - glob. [Improved Modules / What’s New In Python 3.5 / glob - glob](glob.md).
+- Open when checking What’s New In Python 3.5 / gzip - gzip. [Improved Modules / What’s New In Python 3.5 / gzip - gzip](gzip.md).
+- Open when checking What’s New In Python 3.5 / heapq - heapq. [Improved Modules / What’s New In Python 3.5 / heapq - heapq](heapq.md).
+- Open when checking What’s New In Python 3.5 / http - http. [Improved Modules / What’s New In Python 3.5 / http - http](http.md).
+- Open when checking What’s New In Python 3.5 / http.client - http.client. [Improved Modules / What’s New In Python 3.5 / http.client - http.client](http-client.md).
 - Open when checking What’s New In Python 3.5 / idlelib and IDLE. [Improved Modules / What’s New In Python 3.5 / idlelib and IDLE](idlelib-and-idle.md).
-- Open when checking What’s New In Python 3.5 / imaplib — imaplib. [Improved Modules / What’s New In Python 3.5 / imaplib — imaplib](imaplib.md).
+- Open when checking What’s New In Python 3.5 / imaplib - imaplib. [Improved Modules / What’s New In Python 3.5 / imaplib - imaplib](imaplib.md).
 - Open when checking What’s New In Python 3.5 / imghdr. [Improved Modules / What’s New In Python 3.5 / imghdr](imghdr.md).
-- Open when checking What’s New In Python 3.5 / importlib — importlib, types. [Improved Modules / What’s New In Python 3.5 / importlib — importlib, types](importlib.md).
-- Open when checking What’s New In Python 3.5 / inspect — inspect. [Improved Modules / What’s New In Python 3.5 / inspect — inspect](inspect.md).
-- Open when checking What’s New In Python 3.5 / io — io. [Improved Modules / What’s New In Python 3.5 / io — io](io.md).
-- Open when checking What’s New In Python 3.5 / ipaddress — ipaddress. [Improved Modules / What’s New In Python 3.5 / ipaddress — ipaddress](ipaddress.md).
-- Open when checking What’s New In Python 3.5 / json — json. [Improved Modules / What’s New In Python 3.5 / json — json](json.md).
-- Open when checking What’s New In Python 3.5 / linecache — linecache. [Improved Modules / What’s New In Python 3.5 / linecache — linecache](linecache.md).
-- Open when checking What’s New In Python 3.5 / locale — locale. [Improved Modules / What’s New In Python 3.5 / locale — locale](locale.md).
-- Open when checking What’s New In Python 3.5 / logging — logging, logging.handlers, ssl. [Improved Modules / What’s New In Python 3.5 / logging — logging, logging.handlers, ssl](logging.md).
-- Open when checking What’s New In Python 3.5 / lzma — lzma. [Improved Modules / What’s New In Python 3.5 / lzma — lzma](lzma.md).
-- Open when checking What’s New In Python 3.5 / math — math. [Improved Modules / What’s New In Python 3.5 / math — math](math.md).
-- Open when checking What’s New In Python 3.5 / multiprocessing — multiprocessing. [Improved Modules / What’s New In Python 3.5 / multiprocessing — multiprocessing](multiprocessing.md).
-- Open when checking What’s New In Python 3.5 / operator — operator. [Improved Modules / What’s New In Python 3.5 / operator — operator](operator.md).
-- Open when checking What’s New In Python 3.5 / os — os, os.path. [Improved Modules / What’s New In Python 3.5 / os — os, os.path](os.md).
-- Open when checking What’s New In Python 3.5 / pathlib — os, pathlib. [Improved Modules / What’s New In Python 3.5 / pathlib — os, pathlib](pathlib.md).
-- Open when checking What’s New In Python 3.5 / pickle — pickle. [Improved Modules / What’s New In Python 3.5 / pickle — pickle](pickle.md).
-- Open when checking What’s New In Python 3.5 / poplib — poplib. [Improved Modules / What’s New In Python 3.5 / poplib — poplib](poplib.md).
-- Open when checking What’s New In Python 3.5 / re — re. [Improved Modules / What’s New In Python 3.5 / re — re](re.md).
-- Open when checking What’s New In Python 3.5 / readline — readline. [Improved Modules / What’s New In Python 3.5 / readline — readline](readline.md).
-- Open when checking What’s New In Python 3.5 / selectors — selectors. [Improved Modules / What’s New In Python 3.5 / selectors — selectors](selectors.md).
-- Open when checking What’s New In Python 3.5 / shutil — shutil. [Improved Modules / What’s New In Python 3.5 / shutil — shutil](shutil.md).
-- Open when checking What’s New In Python 3.5 / signal — enum, signal. [Improved Modules / What’s New In Python 3.5 / signal — enum, signal](signal.md).
+- Open when checking What’s New In Python 3.5 / importlib - importlib, types. [Improved Modules / What’s New In Python 3.5 / importlib - importlib, types](importlib.md).
+- Open when checking What’s New In Python 3.5 / inspect - inspect. [Improved Modules / What’s New In Python 3.5 / inspect - inspect](inspect.md).
+- Open when checking What’s New In Python 3.5 / io - io. [Improved Modules / What’s New In Python 3.5 / io - io](io.md).
+- Open when checking What’s New In Python 3.5 / ipaddress - ipaddress. [Improved Modules / What’s New In Python 3.5 / ipaddress - ipaddress](ipaddress.md).
+- Open when checking What’s New In Python 3.5 / json - json. [Improved Modules / What’s New In Python 3.5 / json - json](json.md).
+- Open when checking What’s New In Python 3.5 / linecache - linecache. [Improved Modules / What’s New In Python 3.5 / linecache - linecache](linecache.md).
+- Open when checking What’s New In Python 3.5 / locale - locale. [Improved Modules / What’s New In Python 3.5 / locale - locale](locale.md).
+- Open when checking What’s New In Python 3.5 / logging - logging, logging.handlers, ssl. [Improved Modules / What’s New In Python 3.5 / logging - logging, logging.handlers, ssl](logging.md).
+- Open when checking What’s New In Python 3.5 / lzma - lzma. [Improved Modules / What’s New In Python 3.5 / lzma - lzma](lzma.md).
+- Open when checking What’s New In Python 3.5 / math - math. [Improved Modules / What’s New In Python 3.5 / math - math](math.md).
+- Open when checking What’s New In Python 3.5 / multiprocessing - multiprocessing. [Improved Modules / What’s New In Python 3.5 / multiprocessing - multiprocessing](multiprocessing.md).
+- Open when checking What’s New In Python 3.5 / operator - operator. [Improved Modules / What’s New In Python 3.5 / operator - operator](operator.md).
+- Open when checking What’s New In Python 3.5 / os - os, os.path. [Improved Modules / What’s New In Python 3.5 / os - os, os.path](os.md).
+- Open when checking What’s New In Python 3.5 / pathlib - os, pathlib. [Improved Modules / What’s New In Python 3.5 / pathlib - os, pathlib](pathlib.md).
+- Open when checking What’s New In Python 3.5 / pickle - pickle. [Improved Modules / What’s New In Python 3.5 / pickle - pickle](pickle.md).
+- Open when checking What’s New In Python 3.5 / poplib - poplib. [Improved Modules / What’s New In Python 3.5 / poplib - poplib](poplib.md).
+- Open when checking What’s New In Python 3.5 / re - re. [Improved Modules / What’s New In Python 3.5 / re - re](re.md).
+- Open when checking What’s New In Python 3.5 / readline - readline. [Improved Modules / What’s New In Python 3.5 / readline - readline](readline.md).
+- Open when checking What’s New In Python 3.5 / selectors - selectors. [Improved Modules / What’s New In Python 3.5 / selectors - selectors](selectors.md).
+- Open when checking What’s New In Python 3.5 / shutil - shutil. [Improved Modules / What’s New In Python 3.5 / shutil - shutil](shutil.md).
+- Open when checking What’s New In Python 3.5 / signal - enum, signal. [Improved Modules / What’s New In Python 3.5 / signal - enum, signal](signal.md).
 - Open when checking What’s New In Python 3.5 / smtpd. [Improved Modules / What’s New In Python 3.5 / smtpd](smtpd.md).
-- Open when checking What’s New In Python 3.5 / smtplib — smtplib. [Improved Modules / What’s New In Python 3.5 / smtplib — smtplib](smtplib.md).
-- Open when checking What’s New In Python 3.5 / sndhdr — collections. [Improved Modules / What’s New In Python 3.5 / sndhdr — collections](sndhdr.md).
-- Open when checking What’s New In Python 3.5 / socket — os, socket. [Improved Modules / What’s New In Python 3.5 / socket — os, socket](socket.md).
-- Open when checking What’s New In Python 3.5 / ssl / Memory BIO Support — ssl. [Improved Modules / What’s New In Python 3.5 / ssl / Memory BIO Support — ssl](ssl-memory-bio-support.md).
-- Open when checking What’s New In Python 3.5 / ssl / Application-Layer Protocol Negotiation Support — ssl. [Improved Modules / What’s New In Python 3.5 / ssl / Application-Layer Protocol Negotiation Support — ssl](ssl-application-layer-protocol-negotiation-support.md).
-- Open when checking What’s New In Python 3.5 / ssl / Other Changes — ssl. [Improved Modules / What’s New In Python 3.5 / ssl / Other Changes — ssl](ssl-other-changes.md).
-- Open when checking What’s New In Python 3.5 / sqlite3 — sqlite3. [Improved Modules / What’s New In Python 3.5 / sqlite3 — sqlite3](sqlite3.md).
-- Open when checking What’s New In Python 3.5 / subprocess — subprocess. [Improved Modules / What’s New In Python 3.5 / subprocess — subprocess](subprocess.md).
-- Open when checking What’s New In Python 3.5 / sys — sys. [Improved Modules / What’s New In Python 3.5 / sys — sys](sys.md).
+- Open when checking What’s New In Python 3.5 / smtplib - smtplib. [Improved Modules / What’s New In Python 3.5 / smtplib - smtplib](smtplib.md).
+- Open when checking What’s New In Python 3.5 / sndhdr - collections. [Improved Modules / What’s New In Python 3.5 / sndhdr - collections](sndhdr.md).
+- Open when checking What’s New In Python 3.5 / socket - os, socket. [Improved Modules / What’s New In Python 3.5 / socket - os, socket](socket.md).
+- Open when checking What’s New In Python 3.5 / ssl / Memory BIO Support - ssl. [Improved Modules / What’s New In Python 3.5 / ssl / Memory BIO Support - ssl](ssl-memory-bio-support.md).
+- Open when checking What’s New In Python 3.5 / ssl / Application-Layer Protocol Negotiation Support - ssl. [Improved Modules / What’s New In Python 3.5 / ssl / Application-Layer Protocol Negotiation Support - ssl](ssl-application-layer-protocol-negotiation-support.md).
+- Open when checking What’s New In Python 3.5 / ssl / Other Changes - ssl. [Improved Modules / What’s New In Python 3.5 / ssl / Other Changes - ssl](ssl-other-changes.md).
+- Open when checking What’s New In Python 3.5 / sqlite3 - sqlite3. [Improved Modules / What’s New In Python 3.5 / sqlite3 - sqlite3](sqlite3.md).
+- Open when checking What’s New In Python 3.5 / subprocess - subprocess. [Improved Modules / What’s New In Python 3.5 / subprocess - subprocess](subprocess.md).
+- Open when checking What’s New In Python 3.5 / sys - sys. [Improved Modules / What’s New In Python 3.5 / sys - sys](sys.md).
 - Open when checking What’s New In Python 3.5 / sysconfig. [Improved Modules / What’s New In Python 3.5 / sysconfig](sysconfig.md).
-- Open when checking What’s New In Python 3.5 / tarfile — tarfile. [Improved Modules / What’s New In Python 3.5 / tarfile — tarfile](tarfile.md).
-- Open when checking What’s New In Python 3.5 / threading — threading. [Improved Modules / What’s New In Python 3.5 / threading — threading](threading.md).
-- Open when checking What’s New In Python 3.5 / time — time. [Improved Modules / What’s New In Python 3.5 / time — time](time.md).
-- Open when checking What’s New In Python 3.5 / timeit — timeit. [Improved Modules / What’s New In Python 3.5 / timeit — timeit](timeit.md).
+- Open when checking What’s New In Python 3.5 / tarfile - tarfile. [Improved Modules / What’s New In Python 3.5 / tarfile - tarfile](tarfile.md).
+- Open when checking What’s New In Python 3.5 / threading - threading. [Improved Modules / What’s New In Python 3.5 / threading - threading](threading.md).
+- Open when checking What’s New In Python 3.5 / time - time. [Improved Modules / What’s New In Python 3.5 / time - time](time.md).
+- Open when checking What’s New In Python 3.5 / timeit - timeit. [Improved Modules / What’s New In Python 3.5 / timeit - timeit](timeit.md).
 - Open when checking What’s New In Python 3.5 / tkinter. [Improved Modules / What’s New In Python 3.5 / tkinter](tkinter.md).
-- Open when checking What’s New In Python 3.5 / traceback — traceback. [Improved Modules / What’s New In Python 3.5 / traceback — traceback](traceback.md).
-- Open when checking What’s New In Python 3.5 / types — collections.abc, types. [Improved Modules / What’s New In Python 3.5 / types — collections.abc, types](types.md).
-- Open when checking What’s New In Python 3.5 / unicodedata — unicodedata. [Improved Modules / What’s New In Python 3.5 / unicodedata — unicodedata](unicodedata.md).
-- Open when checking What’s New In Python 3.5 / unittest — unittest. [Improved Modules / What’s New In Python 3.5 / unittest — unittest](unittest.md).
-- Open when checking What’s New In Python 3.5 / unittest.mock — unittest.mock. [Improved Modules / What’s New In Python 3.5 / unittest.mock — unittest.mock](unittest-mock.md).
-- Open when checking What’s New In Python 3.5 / urllib — ssl, urllib.parse, urllib.request. [Improved Modules / What’s New In Python 3.5 / urllib — ssl, urllib.parse, urllib.request](urllib.md).
-- Open when checking What’s New In Python 3.5 / wsgiref — wsgiref. [Improved Modules / What’s New In Python 3.5 / wsgiref — wsgiref](wsgiref.md).
-- Open when checking What’s New In Python 3.5 / xmlrpc — ssl, xmlrpc.client. [Improved Modules / What’s New In Python 3.5 / xmlrpc — ssl, xmlrpc.client](xmlrpc.md).
-- Open when checking What’s New In Python 3.5 / xml.sax — xml.sax, xml.sax.reader. [Improved Modules / What’s New In Python 3.5 / xml.sax — xml.sax, xml.sax.reader](xml-sax.md).
-- Open when checking What’s New In Python 3.5 / zipfile — zipfile. [Improved Modules / What’s New In Python 3.5 / zipfile — zipfile](zipfile.md).
+- Open when checking What’s New In Python 3.5 / traceback - traceback. [Improved Modules / What’s New In Python 3.5 / traceback - traceback](traceback.md).
+- Open when checking What’s New In Python 3.5 / types - collections.abc, types. [Improved Modules / What’s New In Python 3.5 / types - collections.abc, types](types.md).
+- Open when checking What’s New In Python 3.5 / unicodedata - unicodedata. [Improved Modules / What’s New In Python 3.5 / unicodedata - unicodedata](unicodedata.md).
+- Open when checking What’s New In Python 3.5 / unittest - unittest. [Improved Modules / What’s New In Python 3.5 / unittest - unittest](unittest.md).
+- Open when checking What’s New In Python 3.5 / unittest.mock - unittest.mock. [Improved Modules / What’s New In Python 3.5 / unittest.mock - unittest.mock](unittest-mock.md).
+- Open when checking What’s New In Python 3.5 / urllib - ssl, urllib.parse, urllib.request. [Improved Modules / What’s New In Python 3.5 / urllib - ssl, urllib.parse, urllib.request](urllib.md).
+- Open when checking What’s New In Python 3.5 / wsgiref - wsgiref. [Improved Modules / What’s New In Python 3.5 / wsgiref - wsgiref](wsgiref.md).
+- Open when checking What’s New In Python 3.5 / xmlrpc - ssl, xmlrpc.client. [Improved Modules / What’s New In Python 3.5 / xmlrpc - ssl, xmlrpc.client](xmlrpc.md).
+- Open when checking What’s New In Python 3.5 / xml.sax - xml.sax, xml.sax.reader. [Improved Modules / What’s New In Python 3.5 / xml.sax - xml.sax, xml.sax.reader](xml-sax.md).
+- Open when checking What’s New In Python 3.5 / zipfile - zipfile. [Improved Modules / What’s New In Python 3.5 / zipfile - zipfile](zipfile.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

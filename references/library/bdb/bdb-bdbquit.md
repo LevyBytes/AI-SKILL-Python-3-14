@@ -1,4 +1,4 @@
-# bdb — `bdb` — Debugger framework
+# bdb`bdb` - Debugger framework
 
 # Bdb, Binary
 
@@ -6,9 +6,9 @@
 
 Covers: bdb — Debugger framework??; Binary Data Services??.
 
-## bdb — Debugger framework??
+## bdb - Debugger framework??
 
-### `bdb` — Debugger framework
+### `bdb` - Debugger framework
 
 **Source code:** [Lib/bdb.py](https://github.com/python/cpython/tree/3.14/Lib/bdb.py)
 

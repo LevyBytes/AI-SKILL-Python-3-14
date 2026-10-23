@@ -39,4 +39,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 5 / library / xml: [Python 3.9.0 alpha 5 / library / xml](xml.md).
 - Open when checking Python 3.9.0 alpha 5 / library / zipfile: [Python 3.9.0 alpha 5 / library / zipfile](zipfile.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

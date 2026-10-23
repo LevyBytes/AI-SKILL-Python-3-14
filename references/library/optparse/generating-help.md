@@ -1,4 +1,4 @@
-# optparse — Generating help
+# optparse - Generating help
 
 ### Generating help
 

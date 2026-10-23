@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / New opcodes — dis
+# What's New In Python 3.11 / New opcodes - dis
 
 ### New opcodes
 

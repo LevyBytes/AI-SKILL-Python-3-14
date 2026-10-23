@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Notable security feature in 3.10.7 — sys
+# What's New In Python 3.10 / Notable security feature in 3.10.7 - sys
 
 ### Notable security feature in 3.10.7
 

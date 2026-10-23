@@ -36,7 +36,7 @@ When a pattern lines up with both empty and non-empty strings, what searching fo
 
 [`re.sub()`](https://docs.python.org/3.14/library/re.html#re.sub) at this point substitutes empty matches that sit next to an earlier non-empty match. To illustrate, `re.sub('x*', '-', 'abxd')` now hands back `'-a-b--d-'` in place of `'-a-b-d-'` (the leading minus between "b" and "d" stands in for "x", while the trailing minus stands in for an empty string between "x" and "d").
 
-Serhiy Storchaka delivered this — refer to [bpo-25054](https://bugs.python.org/issue?@action=redirect&bpo=25054) and [bpo-32308](https://bugs.python.org/issue?@action=redirect&bpo=32308).
+Serhiy Storchaka delivered this - refer to [bpo-25054](https://bugs.python.org/issue?@action=redirect&bpo=25054) and [bpo-32308](https://bugs.python.org/issue?@action=redirect&bpo=32308).
 
 - Adjust [`re.escape()`](https://docs.python.org/3.14/library/re.html#re.escape) such that it escapes only the regex special characters rather than escaping everything aside from ASCII letters, numbers, and `'_'`. Serhiy Storchaka contributed this in [bpo-29995](https://bugs.python.org/issue?@action=redirect&bpo=29995).
 

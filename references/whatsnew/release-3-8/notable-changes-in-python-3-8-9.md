@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Notable changes in Python 3.8.9 — ftplib
+# What’s New In Python 3.8 / Notable changes in Python 3.8.9 - ftplib
 
 ### Notable changes in Python 3.8.9
 

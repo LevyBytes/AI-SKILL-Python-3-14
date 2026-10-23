@@ -1,4 +1,4 @@
-# doctest — What About Exceptions? — Code example: >>> 1 + None
+# doctest - What About Exceptions? - Code example: >>> 1 + None
 
 ```python
 >>> 1 + None

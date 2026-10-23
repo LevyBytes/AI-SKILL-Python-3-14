@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / pty — pty
+# What's new in Python 3.14 / pty - pty
 
 ### pty
 

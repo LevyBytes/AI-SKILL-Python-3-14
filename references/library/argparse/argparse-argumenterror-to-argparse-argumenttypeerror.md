@@ -1,4 +1,4 @@
-# argparse — Exceptions
+# argparse - Exceptions
 
 ### Exceptions
 

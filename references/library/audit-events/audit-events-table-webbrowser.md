@@ -1,4 +1,4 @@
-# Audit events table — webbrowser
+# Audit events table - webbrowser
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 # functools: `functools.cache()`, `functools.cached_property()`
 
-### `functools` — Higher-order functions and operations on callable objects
+### `functools` - Higher-order functions and operations on callable objects
 
 **Source code:** [Lib/functools.py](https://github.com/python/cpython/tree/3.14/Lib/functools.py)
 

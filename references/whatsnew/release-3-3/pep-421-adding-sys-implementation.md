@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / PEP 421: Adding sys.implementation — importlib, sys
+# What's New In Python 3.3 / PEP 421: Adding sys.implementation - importlib, sys
 
 ### PEP 421: Adding sys.implementation
 

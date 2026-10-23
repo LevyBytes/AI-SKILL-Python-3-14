@@ -25,4 +25,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 6 / core and builtins / text: [Python 3.11.0 alpha 6 / core and builtins / text](text.md).
 - Open when checking Python 3.11.0 alpha 6 / core and builtins / vectorcall supported super: [Python 3.11.0 alpha 6 / core and builtins / vectorcall supported super](vectorcall-supported-super.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

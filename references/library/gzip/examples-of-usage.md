@@ -1,4 +1,4 @@
-# gzip — Examples of usage
+# gzip - Examples of usage
 
 ### Examples of usage
 

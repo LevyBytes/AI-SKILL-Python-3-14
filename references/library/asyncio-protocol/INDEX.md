@@ -36,4 +36,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking UDP Echo Server: [UDP Echo Server](udp-echo-server.md).
 - Open when checking Write-only Transports: [Write-only Transports](writetransport-abort-to-writetransport-write-eof.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

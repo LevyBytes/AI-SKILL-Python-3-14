@@ -1,4 +1,4 @@
-# re — Regular Expression Syntax — Section introduction and initial examples
+# re - Regular Expression Syntax - Section introduction and initial examples
 
 ### Regular Expression Syntax
 

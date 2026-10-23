@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / Other Language Changes — warnings
+# What’s New in Python 2.3 / Other Language Changes - warnings
 
 ```python
 >>> import types

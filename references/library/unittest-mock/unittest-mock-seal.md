@@ -1,4 +1,4 @@
-# unittest.mock — Sealing mocks
+# unittest.mock - Sealing mocks
 
 ### Sealing mocks
 

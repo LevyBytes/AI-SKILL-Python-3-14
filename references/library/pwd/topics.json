@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "pwd — `pwd` — The password database", "file": "pwd/pwd-getpwuid-to-pwd-getpwall.md", "summary": "Open when checking pwd — `pwd` — The password database.", "keywords": []},
+    {"topic": "pwd - `pwd` - The password database", "file": "pwd/pwd-getpwuid-to-pwd-getpwall.md", "summary": "Open when checking pwd - `pwd` - The password database.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

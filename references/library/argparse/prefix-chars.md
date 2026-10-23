@@ -1,4 +1,4 @@
-# argparse — prefix_chars
+# argparse - prefix_chars
 
 ### prefix_chars
 

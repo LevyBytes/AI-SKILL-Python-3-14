@@ -1,4 +1,4 @@
-# getopt — `getopt` — C-style parser for command line options — Code example: import getopt, sys
+# getopt`getopt` - C-style parser for command line options - Code example: import getopt, sys
 
 ```python
 import getopt, sys

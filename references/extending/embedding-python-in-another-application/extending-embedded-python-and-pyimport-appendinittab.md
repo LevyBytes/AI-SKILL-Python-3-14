@@ -1,4 +1,4 @@
-# Extending Embedded Python — PyObject, PyArg_ParseTuple, PyLong_FromLong, PyMethodDef, PyModuleDef, PyModuleDef_HEAD_INIT, PyInit_emb, PyModuleDef_Init, Py_Initialize, PyImport_AppendInittab
+# Extending Embedded Python - PyObject, PyArg_ParseTuple, PyLong_FromLong, PyMethodDef, PyModuleDef, PyModuleDef_HEAD_INIT, PyInit_emb, PyModuleDef_Init, Py_Initialize, PyImport_AppendInittab
 
 ### 1.4. Extending Embedded Python
 

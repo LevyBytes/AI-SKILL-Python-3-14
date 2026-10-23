@@ -1,4 +1,4 @@
-# random — Discrete distributions
+# random - Discrete distributions
 
 ### Discrete distributions
 

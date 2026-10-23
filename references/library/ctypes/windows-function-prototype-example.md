@@ -1,4 +1,4 @@
-# ctypes — Function prototypes — Code example: >>> from ctypes import POINTER, WINFUNCTYPE, windll, WinError
+# ctypes - Function prototypes - Code example: >>> from ctypes import POINTER, WINFUNCTYPE, windll, WinError
 
 ```python
 >>> from ctypes import POINTER, WINFUNCTYPE, windll, WinError

@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / symtable — symtable
+# What's new in Python 3.14 / symtable - symtable
 
 ### symtable
 

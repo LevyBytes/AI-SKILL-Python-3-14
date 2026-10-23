@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / threading — threading, time
+# What's New In Python 3.11 / threading - threading, time
 
 ### threading
 

@@ -1,4 +1,4 @@
-# multiprocessing — The `multiprocessing.dummy` module
+# multiprocessing - The `multiprocessing.dummy` module
 
 ### The `multiprocessing.dummy` module
 

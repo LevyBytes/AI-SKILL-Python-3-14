@@ -1,4 +1,4 @@
-# secrets — Other functions
+# secrets - Other functions
 
 ### Other functions
 

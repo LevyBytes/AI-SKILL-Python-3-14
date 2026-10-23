@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / gzip — gzip
+# What’s New In Python 3.8 / gzip - gzip
 
 > (Contributed by Franz Glasner, ??ric Araujo, and Cheryl Sabella in [bpo-2504](https://bugs.python.org/issue?@action=redirect&bpo=2504).)
 

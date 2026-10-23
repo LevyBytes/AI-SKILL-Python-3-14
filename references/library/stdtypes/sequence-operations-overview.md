@@ -1,4 +1,4 @@
-# Common Sequence Operations — Section introduction and initial examples
+# Common Sequence Operations - Section introduction and initial examples
 
 ### Common Sequence Operations
 

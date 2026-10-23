@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / imaplib — imaplib
+# What's New In Python 3.2 / imaplib - imaplib
 
 ### imaplib
 

@@ -6,7 +6,7 @@ Hands back the system's release, such as `'2.2.0'` or `'NT'`. Where the value ca
 
  platform.system()
 
-Hands back the system/OS name — for example `'Linux'`, `'Darwin'`, `'Java'`, `'Windows'`. Where the value cannot be worked out, an empty string comes back.
+Hands back the system/OS name: for example `'Linux'`, `'Darwin'`, `'Java'`, `'Windows'`. Where the value cannot be worked out, an empty string comes back.
 
 Under iOS and Android, what comes back is the user-facing OS name (that is, `'iOS`, `'iPadOS'` or `'Android'`). Should you instead want the kernel name (`'Darwin'` or `'Linux'`), turn to [`os.uname()`](https://docs.python.org/3.14/library/os.html#os.uname).
 

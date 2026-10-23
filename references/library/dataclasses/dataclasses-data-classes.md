@@ -1,6 +1,6 @@
-# dataclasses — `dataclasses` — Data Classes
+# dataclasses`dataclasses` - Data Classes
 
-### `dataclasses` — Data Classes
+### `dataclasses` - Data Classes
 
 **Source code:** [Lib/dataclasses.py](https://github.com/python/cpython/tree/3.14/Lib/dataclasses.py)
 

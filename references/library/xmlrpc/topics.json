@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "xmlrpc — `xmlrpc` — XMLRPC server and client modules", "file": "xmlrpc/xmlrpc-client-to-xmlrpc-server.md", "summary": "Open when checking xmlrpc — `xmlrpc` — XMLRPC server and client modules.", "keywords": []},
+    {"topic": "xmlrpc - `xmlrpc` - XMLRPC server and client modules", "file": "xmlrpc/xmlrpc-client-to-xmlrpc-server.md", "summary": "Open when checking xmlrpc - `xmlrpc` - XMLRPC server and client modules.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

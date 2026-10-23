@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — signal, smtplib, socket, socketserver, sqlite3, struct, subprocess, sys, tarfile, tempfile, test
+# What’s New in Python 2.6 / New and Improved Modules - signal, smtplib, socket, socketserver, sqlite3, struct, subprocess, sys, tarfile, tempfile, test
 
 To take advantage of this, an event loop opens a pipe yielding two descriptors, one to read and one to write. The writable end is fed to `set_wakeup_fd()`, while the readable end joins the descriptors that the event loop watches through `select()` or `poll()`. When a signal lands, a byte gets written and the central event loop wakes, removing the need to poll.
 

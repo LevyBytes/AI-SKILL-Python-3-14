@@ -1,4 +1,4 @@
-# collections — `ChainMap` Examples and Recipes
+# collections`ChainMap` Examples and Recipes
 
 ### `ChainMap` Examples and Recipes
 

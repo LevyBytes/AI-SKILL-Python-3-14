@@ -1,4 +1,4 @@
-# tempfile — Examples
+# tempfile - Examples
 
 ### Examples
 

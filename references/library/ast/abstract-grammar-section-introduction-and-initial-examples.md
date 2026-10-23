@@ -1,4 +1,4 @@
-# ast — Abstract grammar — Section introduction and initial examples
+# ast - Abstract grammar - Section introduction and initial examples
 
 ### Abstract grammar
 

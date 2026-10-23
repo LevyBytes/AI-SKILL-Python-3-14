@@ -1,4 +1,4 @@
-# ctypes — Calling functions
+# ctypes - Calling functions
 
 ### Calling functions
 

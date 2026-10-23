@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / Summary ? Release highlights — ast, graphlib, grp, math, operator, os, pwd, random, resource, select, struct, termios, time, zlib, zoneinfo
+# What's New In Python 3.9 / Summary ? Release highlights - ast, graphlib, grp, math, operator, os, pwd, random, resource, select, struct, termios, time, zlib, zoneinfo
 
 ### What's New In Python 3.9
 
@@ -12,7 +12,7 @@ See also
 
 [**PEP 596**](https://peps.python.org/pep-0596/) - Python 3.9 Release Schedule
 
-### Summary — Release highlights
+### Summary - Release highlights
 
 New syntax features:
 

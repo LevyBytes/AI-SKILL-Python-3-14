@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "pty — Example", "file": "pty/example.md", "summary": "Open when checking pty — Example.", "keywords": []},
-    {"topic": "pty — `pty` — Pseudo-terminal utilities", "file": "pty/pty-fork-to-pty-spawn.md", "summary": "Open when checking pty — `pty` — Pseudo-terminal utilities.", "keywords": []},
-    {"topic": "pty — Pseudo-terminal utilities??", "file": "pty/pty-pseudo-terminal-utilities.md", "summary": "Open when checking pty — Pseudo-terminal utilities??.", "keywords": []},
+    {"topic": "pty - Example", "file": "pty/example.md", "summary": "Open when checking pty - Example.", "keywords": []},
+    {"topic": "pty - `pty` - Pseudo-terminal utilities", "file": "pty/pty-fork-to-pty-spawn.md", "summary": "Open when checking pty - `pty` - Pseudo-terminal utilities.", "keywords": []},
+    {"topic": "pty - Pseudo-terminal utilities??", "file": "pty/pty-pseudo-terminal-utilities.md", "summary": "Open when checking pty - Pseudo-terminal utilities??.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

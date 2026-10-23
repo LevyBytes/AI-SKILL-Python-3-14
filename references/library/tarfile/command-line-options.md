@@ -1,4 +1,4 @@
-# tarfile — Command-line options
+# tarfile - Command-line options
 
 ### Command-line options
 

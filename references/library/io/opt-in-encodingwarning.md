@@ -1,4 +1,4 @@
-# io — Opt-in EncodingWarning
+# io - Opt-in EncodingWarning
 
 ### Opt-in EncodingWarning
 

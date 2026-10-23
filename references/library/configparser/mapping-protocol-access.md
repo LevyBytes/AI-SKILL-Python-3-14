@@ -1,4 +1,4 @@
-# configparser — Mapping Protocol Access
+# configparser - Mapping Protocol Access
 
 ### Mapping Protocol Access
 

@@ -1,4 +1,4 @@
-# signal — Signals and threads
+# signal - Signals and threads
 
 ### Signals and threads
 

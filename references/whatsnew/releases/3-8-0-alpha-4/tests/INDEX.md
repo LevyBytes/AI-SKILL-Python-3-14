@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.8.0 alpha 4 / tests / text and unicode: [Python 3.8.0 alpha 4 / tests / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.8.0 alpha 4 / tests / tracemalloc: [Python 3.8.0 alpha 4 / tests / tracemalloc](tracemalloc.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# What’s New in Python 2.2 / Interpreter Changes and Fixes — sys
+# What’s New in Python 2.2 / Interpreter Changes and Fixes - sys
 
 ### Interpreter Changes and Fixes
 

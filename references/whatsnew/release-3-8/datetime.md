@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / datetime — datetime
+# What’s New In Python 3.8 / datetime - datetime
 
 > (Contributed by Steve Dower in [bpo-36085](https://bugs.python.org/issue?@action=redirect&bpo=36085).)
 

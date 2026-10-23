@@ -1,6 +1,6 @@
-# ctypes — `ctypes` — A foreign function library for Python
+# ctypes`ctypes` - A foreign function library for Python
 
-### `ctypes` — A foreign function library for Python
+### `ctypes` - A foreign function library for Python
 
 **Source code:** [Lib/ctypes](https://github.com/python/cpython/tree/3.14/Lib/ctypes)
 

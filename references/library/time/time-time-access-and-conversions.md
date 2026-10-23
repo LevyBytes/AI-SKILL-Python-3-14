@@ -1,6 +1,6 @@
-# time — `time` — Time access and conversions
+# time`time` - Time access and conversions
 
-### `time` — Time access and conversions
+### `time` - Time access and conversions
 
 ---
 

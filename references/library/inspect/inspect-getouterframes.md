@@ -1,4 +1,4 @@
-# inspect — inspect.getouterframes
+# inspect - inspect.getouterframes
 
 Obtain a list of `FrameInfo` objects covering a frame together with every frame surrounding it. Those frames stand for the chain of calls that brought *frame* into being. At the head of the returned list sits *frame* itself, while the tail holds the outermost call along *frame*’s stack.
 

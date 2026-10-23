@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / fileinput — fileinput
+# What's New In Python 3.6 / fileinput - fileinput
 
 ### fileinput
 

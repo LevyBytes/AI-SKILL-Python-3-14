@@ -1,4 +1,4 @@
-# optparse — Standard option actions — Section introduction and initial examples
+# optparse - Standard option actions - Section introduction and initial examples
 
 ### Standard option actions
 

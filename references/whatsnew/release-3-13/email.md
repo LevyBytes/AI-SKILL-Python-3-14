@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / email — email.generator, email.policy, email.utils
+# What's New In Python 3.13 / email - email.generator, email.policy, email.utils
 
 ### email
 

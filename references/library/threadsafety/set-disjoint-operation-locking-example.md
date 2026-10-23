@@ -1,4 +1,4 @@
-# Thread safety for set objects — Code example: s.isdisjoint(other)          # both locked
+# Thread safety for set objects - Code example: s.isdisjoint(other)          # both locked
 
 ```python
 s.isdisjoint(other)          # both locked

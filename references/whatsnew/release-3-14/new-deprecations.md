@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / New deprecations — argparse, asyncio, asyncio-eventloop, asyncio-policy, asyncio-runner, codecs, ctypes, inspect
+# What's new in Python 3.14 / New deprecations - argparse, asyncio, asyncio-eventloop, asyncio-policy, asyncio-runner, codecs, ctypes, inspect
 
 ### Deprecated
 

@@ -11,9 +11,9 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `time.strptime()` in time. [time: `time.strptime()`](time-strptime.md).
 - Open when checking the documented contracts for `time.tzset()` in time. [time: `time.tzset()`](time-tzset.md).
 - Open when checking POSIX timezone month-week-day transition rules in time. [time: POSIX timezone month-week-day transition rules](mm-n-d.md).
-- Open when checking time — Timezone Constants: [time — Timezone Constants](time-altzone-to-time-tzname.md).
+- Open when checking time - Timezone Constants: [time - Timezone Constants](time-altzone-to-time-tzname.md).
 - Open when checking boot, monotonic, process and thread clock identifiers in time. [time: Boot, monotonic, process and thread clock identifiers](time-clock-boottime-to-time-clock-thread-cputime-id.md).
 - Open when checking the documented contracts for `time.CLOCK_UPTIME`, `time.CLOCK_UPTIME_RAW`, `time.CLOCK_UPTIME_RAW_APPROX`, `time.CLOCK_REALTIME` in time. [time: `time.CLOCK_UPTIME`, `time.CLOCK_UPTIME_RAW`, `time.CLOCK_UPTIME_RAW_APPROX`, `time.CLOCK_REALTIME`](time-clock-uptime-to-time-clock-realtime.md).
-- Open when checking time — `time` — Time access and conversions: [time — `time` — Time access and conversions](time-time-access-and-conversions.md).
+- Open when checking time`time` - Time access and conversions: [time`time` - Time access and conversions](time-time-access-and-conversions.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

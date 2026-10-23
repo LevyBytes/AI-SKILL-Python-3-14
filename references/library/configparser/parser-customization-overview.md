@@ -1,4 +1,4 @@
-# configparser — Customizing Parser Behaviour — Section introduction and initial examples
+# configparser - Customizing Parser Behaviour - Section introduction and initial examples
 
 ### Customizing Parser Behaviour
 

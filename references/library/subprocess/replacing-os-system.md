@@ -1,4 +1,4 @@
-# subprocess — Replacing `os.system()`
+# subprocess - Replacing `os.system()`
 
 ### Replacing [`os.system()`](https://docs.python.org/3.14/library/os.html#os.system)
 

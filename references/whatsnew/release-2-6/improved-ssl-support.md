@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Improved SSL Support — socket, ssl
+# What’s New in Python 2.6 / Improved SSL Support - socket, ssl
 
 ### Improved SSL Support
 

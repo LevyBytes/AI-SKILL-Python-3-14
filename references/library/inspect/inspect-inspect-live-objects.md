@@ -1,6 +1,6 @@
-# inspect — `inspect` — Inspect live objects
+# inspect`inspect` - Inspect live objects
 
-### `inspect` — Inspect live objects
+### `inspect` - Inspect live objects
 
 **Source code:** [Lib/inspect.py](https://github.com/python/cpython/tree/3.14/Lib/inspect.py)
 

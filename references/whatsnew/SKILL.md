@@ -1,9 +1,9 @@
 ---
 name: whatsnew
-description: "Use when researching historical Python release changes, new language or standard-library features, PEP introductions, compatibility changes, deprecations, removal schedules, porting guidance or dated CPython maintenance/prerelease fixes. Bundled Python 3.14 documentation includes Python 2.0–2.7 and 3.0–3.14 feature guides and changelog histories. Not a claim of current runtime availability or a substitute for the current API reference."
+description: "Use when researching historical Python release changes, new language or standard-library features, PEP introductions, compatibility changes, deprecations, removal schedules, porting guidance or dated CPython maintenance/prerelease fixes. Covers Python 2.0 to 2.7 and 3.0 to 3.14 feature guides and changelogs."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

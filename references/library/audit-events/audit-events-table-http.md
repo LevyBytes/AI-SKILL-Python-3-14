@@ -1,4 +1,4 @@
-# Audit events table — http
+# Audit events table - http
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Changes Already Present In Python 2.6 — abc, collections, collections.abc, fractions, io, numbers
+# What's New In Python 3.0 / Changes Already Present In Python 2.6 - abc, collections, collections.abc, fractions, io, numbers
 
 [PEP 3110: Exception-Handling Changes](https://docs.python.org/3.14/whatsnew/2.6.html#pep-3110). With this release, the [`except`](https://docs.python.org/3.14/reference/compound_stmts.html#except) *exc* `as` *var* form becomes the official spelling, while the older `except` *exc*, *var* construction is dropped. (Naturally, the `as` *var* portion stays optional whenever you like.)
 

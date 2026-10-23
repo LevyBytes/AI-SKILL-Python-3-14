@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / New, Improved, and Deprecated Modules — array, bz2, datetime, doctest, getopt, grp, gzip, heapq, pwd, resource, unittest, zlib
+# What’s New in Python 2.3 / New, Improved, and Deprecated Modules - array, bz2, datetime, doctest, getopt, grp, gzip, heapq, pwd, resource, unittest, zlib
 
 ### New, Improved, and Deprecated Modules
 

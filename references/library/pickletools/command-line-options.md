@@ -1,4 +1,4 @@
-# pickletools — Command-line options
+# pickletools - Command-line options
 
 ### Command-line options
 

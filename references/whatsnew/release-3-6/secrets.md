@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / secrets — os, random, secrets
+# What's New In Python 3.6 / secrets - os, random, secrets
 
 ### New Modules
 

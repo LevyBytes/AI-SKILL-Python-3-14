@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / shutil — shutil, tarfile
+# What’s New In Python 3.8 / shutil - shutil, tarfile
 
 ### shutil
 

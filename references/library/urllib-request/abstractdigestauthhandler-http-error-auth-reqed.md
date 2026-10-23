@@ -1,4 +1,4 @@
-# urllib.request — AbstractDigestAuthHandler Objects
+# urllib.request - AbstractDigestAuthHandler Objects
 
 ### AbstractDigestAuthHandler Objects
 

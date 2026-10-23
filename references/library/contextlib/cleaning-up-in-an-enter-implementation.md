@@ -1,4 +1,4 @@
-# contextlib — Cleaning up in an `__enter__` implementation
+# contextlib - Cleaning up in an `__enter__` implementation
 
 ### Cleaning up in an `__enter__` implementation
 

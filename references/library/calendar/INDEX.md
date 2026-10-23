@@ -14,8 +14,8 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `calendar.IllegalMonthError`, `calendar.IllegalWeekdayError` in calendar. [calendar: `calendar.IllegalMonthError`, `calendar.IllegalWeekdayError`](calendar-illegalmontherror-to-calendar-illegalweekdayerror.md).
 - Open when checking the documented contracts for `calendar.TextCalendar`, `formatday()`, `formatweek()`, `formatweekday()`, `formatweekheader()`, `formatmonth()`, `formatmonthname()`, `prmonth()`, `formatyear()`, `pryear()` in calendar. [calendar: `calendar.TextCalendar`, `formatday()`, `formatweek()`, `formatweekday()`, `formatweekheader()`, `formatmonth()`, `formatmonthname()`, `prmonth()`, `formatyear()`, `pryear()`](calendar-textcalendar-class-to-calendar-textcalendar-pryear.md).
 - Open when checking the documented contracts for `calendar.HTMLCalendar`, `formatmonth()`, `formatyear()`, `formatyearpage()`, `formatmonthname()` in calendar. [calendar: `calendar.HTMLCalendar`, `formatmonth()`, `formatyear()`, `formatyearpage()`, `formatmonthname()`](html-calendar-class-and-month-formatting.md).
-- Open when checking calendar — General calendar-related functions??: [calendar — General calendar-related functions??](calendar-general-calendar-related-functions.md).
+- Open when checking calendar - General calendar-related functions??: [calendar - General calendar-related functions??](calendar-general-calendar-related-functions.md).
 - Open when checking calendar CLI invocation and year selection in calendar. [calendar: Calendar CLI invocation and year selection](command-line-usage-year.md).
 - Open when checking calendar CLI month selection and formatting options in calendar. [calendar: Calendar CLI month selection and formatting options](command-line-usage-month.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

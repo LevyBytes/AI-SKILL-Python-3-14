@@ -1,4 +1,4 @@
-# math — Hyperbolic functions
+# math - Hyperbolic functions
 
 ### Hyperbolic functions
 

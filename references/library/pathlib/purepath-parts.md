@@ -1,4 +1,4 @@
-# pathlib — Accessing individual parts
+# pathlib - Accessing individual parts
 
 ### Accessing individual parts
 

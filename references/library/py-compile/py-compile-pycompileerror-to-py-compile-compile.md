@@ -1,8 +1,8 @@
 # py_compile: `py_compile.PyCompileError`, `py_compile.compile()`
 
-## py_compile — Compile Python source files??
+## py_compile - Compile Python source files??
 
-### `py_compile` — Compile Python source files
+### `py_compile` - Compile Python source files
 
 **Source code:** [Lib/py_compile.py](https://github.com/python/cpython/tree/3.14/Lib/py_compile.py)
 

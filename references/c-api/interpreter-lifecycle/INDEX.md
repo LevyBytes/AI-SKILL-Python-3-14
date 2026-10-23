@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking int Py_RunMain(void): [int Py_RunMain(void)](py-runmain.md).
 - Open when checking int PyUnstable_AtExit(PyInterpreterState *interp, void (func)(void), void *data): [int PyUnstable_AtExit(PyInterpreterState *interp, void (func)(void), void *data)](pyunstable-atexit.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

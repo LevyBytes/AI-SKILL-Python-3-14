@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / http — http.server
+# What's new in Python 3.14 / http - http.server
 
 ### http
 

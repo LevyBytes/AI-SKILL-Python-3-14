@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Section introduction and initial examples
+# itertools - Itertools Recipes - Section introduction and initial examples
 
 ### Itertools Recipes
 

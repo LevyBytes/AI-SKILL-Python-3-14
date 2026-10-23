@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / pprint — dataclasses, pprint
+# What's New In Python 3.10 / pprint - dataclasses, pprint
 
 ### pprint
 

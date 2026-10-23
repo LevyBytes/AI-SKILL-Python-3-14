@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — itertools, logging, math, mmap, operator
+# What’s New in Python 2.6 / New and Improved Modules - itertools, logging, math, mmap, operator
 
 ```python
 >>> list(itertools.permutations([1,2,3,4], 2))

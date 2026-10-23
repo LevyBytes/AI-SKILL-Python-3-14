@@ -1,4 +1,4 @@
-# argparse — Beyond `sys.argv`
+# argparse - Beyond `sys.argv`
 
 ### Beyond `sys.argv`
 

@@ -1,4 +1,4 @@
-# cmd — Cmd Example — Code example: Welcome to the turtle shell.   Type help or ? to list commands.
+# cmd - Cmd Example - Code example: Welcome to the turtle shell.   Type help or ? to list commands.
 
 ```none
 Welcome to the turtle shell.   Type help or ? to list commands.

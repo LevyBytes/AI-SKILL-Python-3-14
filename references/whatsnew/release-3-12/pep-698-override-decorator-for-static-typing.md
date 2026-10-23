@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / PEP 698: Override Decorator for Static Typing — typing
+# What’s New In Python 3.12 / PEP 698: Override Decorator for Static Typing - typing
 
 ### PEP 698: Override Decorator for Static Typing
 

@@ -1,8 +1,8 @@
-# zipapp — `zipapp` — Manage executable Python zip archives
+# zipapp`zipapp` - Manage executable Python zip archives
 
 # Zipapp
 
-### `zipapp` — Manage executable Python zip archives
+### `zipapp` - Manage executable Python zip archives
 
 Added in version 3.5.
 

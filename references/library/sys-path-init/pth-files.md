@@ -1,4 +1,4 @@
-# sys.monitoring — _pth files
+# sys.monitoring - _pth files
 
 ### _pth files
 

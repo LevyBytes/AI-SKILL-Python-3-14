@@ -56,7 +56,7 @@ This section of the docs concentrates on broad guidance for configuring the Pyth
   - [7.3. App Store Compliance](https://docs.python.org/3.14/using/ios.html#app-store-compliance)
 
 - [8. Editors and IDEs](https://docs.python.org/3.14/using/editors.html)
-  - [8.1. IDLE — Python editor and shell](https://docs.python.org/3.14/using/editors.html#idle-python-editor-and-shell)
+  - [8.1. IDLE - Python editor and shell](https://docs.python.org/3.14/using/editors.html#idle-python-editor-and-shell)
   - [8.2. Other Editors and IDEs](https://docs.python.org/3.14/using/editors.html#other-editors-and-ides)
 
 [Subject index](INDEX.md) · [Previous source section](../editors-and-ides/other-editors-and-ides.md) · [Following source section](../using-python-on-ios/using-python-on-ios.md)

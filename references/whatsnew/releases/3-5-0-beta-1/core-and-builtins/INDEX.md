@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 beta 1 / core and builtins / speed up set merge whenever target happens empty: [Python 3.5.0 beta 1 / core and builtins / speed up set merge whenever target happens empty](speed-up-set-merge-whenever-target-happens-empty.md).
 - Open when checking Python 3.5.0 beta 1 / core and builtins / utf 32 encoder runs x x quicker: [Python 3.5.0 beta 1 / core and builtins / utf 32 encoder runs x x quicker](utf-32-encoder-runs-x-x-quicker.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

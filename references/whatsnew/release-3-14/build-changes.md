@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Build changes — ctypes, fcntl, termios
+# What's new in Python 3.14 / Build changes - ctypes, fcntl, termios
 
 ### Build changes
 

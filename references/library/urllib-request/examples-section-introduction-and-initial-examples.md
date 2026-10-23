@@ -1,4 +1,4 @@
-# urllib.request — Examples — Section introduction and initial examples
+# urllib.request - Examples - Section introduction and initial examples
 
 ### Examples
 

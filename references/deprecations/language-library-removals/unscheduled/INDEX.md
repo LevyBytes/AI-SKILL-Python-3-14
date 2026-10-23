@@ -11,4 +11,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Language and standard library pending removal in future versions: typing.Text: [Language and standard library pending removal in future versions: typing.Text](typing-text.md).
 - Open when checking Language and standard library pending removal in future versions: typing._UnionGenericAlias compatibility; unittest.IsolatedAsyncioTestCase; urllib.parse deprecated functions; wsgiref; xml.etree.ElementTree; sys._clear_type_cache(): [Language and standard library pending removal in future versions: typing._UnionGenericAlias compatibility; unittest.IsolatedAsyncioTestCase; urllib.parse deprecated functions; wsgiref; xml.etree.ElementTree; sys._clear_type_cache()](typing-unittest-url-wsgi-xml-and-cache-removals.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

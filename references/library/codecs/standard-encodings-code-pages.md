@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — Code pages
+# codecs - Standard Encodings - Code pages
 
 | Codec | Aliases | Languages |
 | --- | --- | --- |

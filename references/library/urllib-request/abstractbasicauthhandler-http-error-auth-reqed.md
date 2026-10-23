@@ -1,4 +1,4 @@
-# urllib.request — AbstractBasicAuthHandler Objects
+# urllib.request - AbstractBasicAuthHandler Objects
 
 ### AbstractBasicAuthHandler Objects
 

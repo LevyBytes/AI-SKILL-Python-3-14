@@ -1,4 +1,4 @@
-# asyncio — Close asynchronous generators explicitly
+# asyncio - Close asynchronous generators explicitly
 
 ### Close asynchronous generators explicitly
 

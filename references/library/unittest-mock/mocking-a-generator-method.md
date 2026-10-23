@@ -1,4 +1,4 @@
-# unittest.mock — Mocking a generator method
+# unittest.mock - Mocking a generator method
 
 For a different take on mocking dates and similar builtin classes, see the techniques laid out in [this blog entry](https://williambert.online/2011/07/how-to-unit-testing-in-django-with-mocking-and-patching/).
 

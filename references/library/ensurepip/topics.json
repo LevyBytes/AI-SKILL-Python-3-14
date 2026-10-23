@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "ensurepip — Command-line interface", "file": "ensurepip/command-line-interface.md", "summary": "Open when checking ensurepip — Command-line interface.", "keywords": []},
+    {"topic": "ensurepip - Command-line interface", "file": "ensurepip/command-line-interface.md", "summary": "Open when checking ensurepip - Command-line interface.", "keywords": []},
     {"topic": "Distribution, Distutils", "file": "ensurepip/distribution-distutils.md", "summary": "Open when checking Distribution, Distutils.", "keywords": []},
-    {"topic": "ensurepip — `ensurepip` — Bootstrapping the `pip` installer", "file": "ensurepip/ensurepip-bootstrapping-the-pip-installer.md", "summary": "Open when checking ensurepip — `ensurepip` — Bootstrapping the `pip` installer.", "keywords": []},
-    {"topic": "ensurepip — Module API", "file": "ensurepip/ensurepip-version-to-ensurepip-bootstrap.md", "summary": "Open when checking ensurepip — Module API.", "keywords": []},
+    {"topic": "ensurepip - `ensurepip` - Bootstrapping the `pip` installer", "file": "ensurepip/ensurepip-bootstrapping-the-pip-installer.md", "summary": "Open when checking ensurepip - `ensurepip` - Bootstrapping the `pip` installer.", "keywords": []},
+    {"topic": "ensurepip - Module API", "file": "ensurepip/ensurepip-version-to-ensurepip-bootstrap.md", "summary": "Open when checking ensurepip - Module API.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

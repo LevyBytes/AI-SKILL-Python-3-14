@@ -1,8 +1,8 @@
-# urllib.error — `urllib.error` — Exception classes raised by urllib.request
+# urllib.error`urllib.error` - Exception classes raised by urllib.request
 
-## urllib.error — Exception classes raised by urllib.request
+## urllib.error - Exception classes raised by urllib.request
 
-### `urllib.error` — Exception classes raised by urllib.request
+### `urllib.error` - Exception classes raised by urllib.request
 
 **Source code:** [Lib/urllib/error.py](https://github.com/python/cpython/tree/3.14/Lib/urllib/error.py)
 

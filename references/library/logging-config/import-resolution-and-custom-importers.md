@@ -1,4 +1,4 @@
-# logging.config — Import resolution and custom importers
+# logging.config - Import resolution and custom importers
 
 ### Import resolution and custom importers
 

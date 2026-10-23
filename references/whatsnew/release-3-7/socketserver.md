@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / socketserver — socketserver
+# What's New In Python 3.7 / socketserver - socketserver
 
 ### socketserver
 

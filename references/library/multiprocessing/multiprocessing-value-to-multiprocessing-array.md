@@ -1,4 +1,4 @@
-# multiprocessing — Shared `ctypes` Objects
+# multiprocessing - Shared `ctypes` Objects
 
 ### Shared [`ctypes`](https://docs.python.org/3.14/library/ctypes.html#module-ctypes) Objects
 

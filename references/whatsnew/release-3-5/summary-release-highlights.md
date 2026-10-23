@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / Summary – Release highlights — collections, sys, typing, zipapp
+# What’s New In Python 3.5 / Summary – Release highlights - collections, sys, typing, zipapp
 
 ### What’s New In Python 3.5
 

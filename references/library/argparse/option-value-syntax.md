@@ -1,4 +1,4 @@
-# argparse — Option value syntax
+# argparse - Option value syntax
 
 ### Option value syntax
 

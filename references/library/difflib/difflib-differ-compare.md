@@ -1,4 +1,4 @@
-# difflib — Differ objects
+# difflib - Differ objects
 
 compare(*a*, *b*)
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Builtin functions and types — os
+# What's New In Python 3.3 / Builtin functions and types - os
 
 ### Builtin functions and types
 

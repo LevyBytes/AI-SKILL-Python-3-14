@@ -1,6 +1,6 @@
 # sys
 
-### `sys` — System-specific parameters and functions
+### `sys` - System-specific parameters and functions
 
 ---
 

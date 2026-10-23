@@ -1,4 +1,4 @@
-# tkinter.ttk — Treeview
+# tkinter.ttk - Treeview
 
 ### Treeview
 

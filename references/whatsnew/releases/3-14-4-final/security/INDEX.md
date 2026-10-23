@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.4 final / security / webbrowser: [Python 3.14.4 final / security / webbrowser](webbrowser.md).
 - Open when checking Python 3.14.4 final / security / wsgiref: [Python 3.14.4 final / security / wsgiref](wsgiref.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

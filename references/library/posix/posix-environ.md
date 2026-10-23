@@ -1,4 +1,4 @@
-# posix — Notable Module Contents
+# posix - Notable Module Contents
 
 ### Notable Module Contents
 

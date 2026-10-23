@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "readline — Example", "file": "readline/example.md", "summary": "Open when checking readline — Example.", "keywords": []},
-    {"topic": "readline — `readline` — GNU readline interface", "file": "readline/readline-backend.md", "summary": "Open when checking readline — `readline` — GNU readline interface.", "keywords": []},
-    {"topic": "readline — History list", "file": "readline/readline-clear-history-to-readline-set-auto-history.md", "summary": "Open when checking readline — History list.", "keywords": []},
-    {"topic": "readline — Line buffer", "file": "readline/readline-get-line-buffer-to-readline-redisplay.md", "summary": "Open when checking readline — Line buffer.", "keywords": []},
-    {"topic": "readline — Init file", "file": "readline/readline-parse-and-bind-to-readline-read-init-file.md", "summary": "Open when checking readline — Init file.", "keywords": []},
-    {"topic": "readline — History file", "file": "readline/readline-read-history-file-to-readline-set-history-length.md", "summary": "Open when checking readline — History file.", "keywords": []},
-    {"topic": "readline — Completion", "file": "readline-completion-and-display-hooks.md", "summary": "Open when checking readline — Completion.", "keywords": []},
-    {"topic": "readline — Startup hooks", "file": "readline/readline-set-startup-hook-to-readline-set-pre-input-hook.md", "summary": "Open when checking readline — Startup hooks.", "keywords": []},
+    {"topic": "readline - Example", "file": "readline/example.md", "summary": "Open when checking readline - Example.", "keywords": []},
+    {"topic": "readline - `readline` - GNU readline interface", "file": "readline/readline-backend.md", "summary": "Open when checking readline - `readline` - GNU readline interface.", "keywords": []},
+    {"topic": "readline - History list", "file": "readline/readline-clear-history-to-readline-set-auto-history.md", "summary": "Open when checking readline - History list.", "keywords": []},
+    {"topic": "readline - Line buffer", "file": "readline/readline-get-line-buffer-to-readline-redisplay.md", "summary": "Open when checking readline - Line buffer.", "keywords": []},
+    {"topic": "readline - Init file", "file": "readline/readline-parse-and-bind-to-readline-read-init-file.md", "summary": "Open when checking readline - Init file.", "keywords": []},
+    {"topic": "readline - History file", "file": "readline/readline-read-history-file-to-readline-set-history-length.md", "summary": "Open when checking readline - History file.", "keywords": []},
+    {"topic": "readline - Completion", "file": "readline-completion-and-display-hooks.md", "summary": "Open when checking readline - Completion.", "keywords": []},
+    {"topic": "readline - Startup hooks", "file": "readline/readline-set-startup-hook-to-readline-set-pre-input-hook.md", "summary": "Open when checking readline - Startup hooks.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

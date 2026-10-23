@@ -2,58 +2,58 @@
 
 Select by the documented task or API context. [Topic catalog](context-improved-modules.json).
 
-- Open when checking What's New In Python 3.7 / argparse — argparse. [Improved Modules / What's New In Python 3.7 / argparse — argparse](argparse.md).
-- Open when checking What's New In Python 3.7 / binascii — binascii. [Improved Modules / What's New In Python 3.7 / binascii — binascii](binascii.md).
-- Open when checking What's New In Python 3.7 / calendar — calendar. [Improved Modules / What's New In Python 3.7 / calendar — calendar](calendar.md).
-- Open when checking What's New In Python 3.7 / compileall — compileall. [Improved Modules / What's New In Python 3.7 / compileall — compileall](compileall.md).
-- Open when checking What's New In Python 3.7 / concurrent.futures — concurrent.futures. [Improved Modules / What's New In Python 3.7 / concurrent.futures — concurrent.futures](concurrent-futures.md).
-- Open when checking What's New In Python 3.7 / contextlib — contextlib. [Improved Modules / What's New In Python 3.7 / contextlib — contextlib](contextlib.md).
-- Open when checking What's New In Python 3.7 / cProfile — profile. [Improved Modules / What's New In Python 3.7 / cProfile — profile](cprofile.md).
+- Open when checking What's New In Python 3.7 / argparse - argparse. [Improved Modules / What's New In Python 3.7 / argparse - argparse](argparse.md).
+- Open when checking What's New In Python 3.7 / binascii - binascii. [Improved Modules / What's New In Python 3.7 / binascii - binascii](binascii.md).
+- Open when checking What's New In Python 3.7 / calendar - calendar. [Improved Modules / What's New In Python 3.7 / calendar - calendar](calendar.md).
+- Open when checking What's New In Python 3.7 / compileall - compileall. [Improved Modules / What's New In Python 3.7 / compileall - compileall](compileall.md).
+- Open when checking What's New In Python 3.7 / concurrent.futures - concurrent.futures. [Improved Modules / What's New In Python 3.7 / concurrent.futures - concurrent.futures](concurrent-futures.md).
+- Open when checking What's New In Python 3.7 / contextlib - contextlib. [Improved Modules / What's New In Python 3.7 / contextlib - contextlib](contextlib.md).
+- Open when checking What's New In Python 3.7 / cProfile - profile. [Improved Modules / What's New In Python 3.7 / cProfile - profile](cprofile.md).
 - Open when checking What's New In Python 3.7 / crypt. [Improved Modules / What's New In Python 3.7 / crypt](crypt.md).
-- Open when checking What's New In Python 3.7 / datetime — datetime. [Improved Modules / What's New In Python 3.7 / datetime — datetime](datetime.md).
-- Open when checking What's New In Python 3.7 / decimal — decimal. [Improved Modules / What's New In Python 3.7 / decimal — decimal](decimal.md).
-- Open when checking What's New In Python 3.7 / dis — dis. [Improved Modules / What's New In Python 3.7 / dis — dis](dis.md).
+- Open when checking What's New In Python 3.7 / datetime - datetime. [Improved Modules / What's New In Python 3.7 / datetime - datetime](datetime.md).
+- Open when checking What's New In Python 3.7 / decimal - decimal. [Improved Modules / What's New In Python 3.7 / decimal - decimal](decimal.md).
+- Open when checking What's New In Python 3.7 / dis - dis. [Improved Modules / What's New In Python 3.7 / dis - dis](dis.md).
 - Open when checking What's New In Python 3.7 / distutils. [Improved Modules / What's New In Python 3.7 / distutils](distutils.md).
-- Open when checking What's New In Python 3.7 / functools — functools. [Improved Modules / What's New In Python 3.7 / functools — functools](functools.md).
-- Open when checking What's New In Python 3.7 / gc — gc. [Improved Modules / What's New In Python 3.7 / gc — gc](gc.md).
-- Open when checking What's New In Python 3.7 / hmac — hmac. [Improved Modules / What's New In Python 3.7 / hmac — hmac](hmac.md).
-- Open when checking What's New In Python 3.7 / http.client — http.client. [Improved Modules / What's New In Python 3.7 / http.client — http.client](http-client.md).
-- Open when checking What's New In Python 3.7 / http.server — http.server, socketserver. [Improved Modules / What's New In Python 3.7 / http.server — http.server, socketserver](http-server.md).
+- Open when checking What's New In Python 3.7 / functools - functools. [Improved Modules / What's New In Python 3.7 / functools - functools](functools.md).
+- Open when checking What's New In Python 3.7 / gc - gc. [Improved Modules / What's New In Python 3.7 / gc - gc](gc.md).
+- Open when checking What's New In Python 3.7 / hmac - hmac. [Improved Modules / What's New In Python 3.7 / hmac - hmac](hmac.md).
+- Open when checking What's New In Python 3.7 / http.client - http.client. [Improved Modules / What's New In Python 3.7 / http.client - http.client](http-client.md).
+- Open when checking What's New In Python 3.7 / http.server - http.server, socketserver. [Improved Modules / What's New In Python 3.7 / http.server - http.server, socketserver](http-server.md).
 - Open when checking What's New In Python 3.7 / idlelib and IDLE. [Improved Modules / What's New In Python 3.7 / idlelib and IDLE](idlelib-and-idle.md).
-- Open when checking What's New In Python 3.7 / io — io. [Improved Modules / What's New In Python 3.7 / io — io](io.md).
-- Open when checking What's New In Python 3.7 / ipaddress — ipaddress. [Improved Modules / What's New In Python 3.7 / ipaddress — ipaddress](ipaddress.md).
-- Open when checking What's New In Python 3.7 / itertools — itertools. [Improved Modules / What's New In Python 3.7 / itertools — itertools](itertools.md).
-- Open when checking What's New In Python 3.7 / logging — logging, logging.config, logging.handlers. [Improved Modules / What's New In Python 3.7 / logging — logging, logging.config, logging.handlers](logging.md).
-- Open when checking What's New In Python 3.7 / math — math. [Improved Modules / What's New In Python 3.7 / math — math](math.md).
+- Open when checking What's New In Python 3.7 / io - io. [Improved Modules / What's New In Python 3.7 / io - io](io.md).
+- Open when checking What's New In Python 3.7 / ipaddress - ipaddress. [Improved Modules / What's New In Python 3.7 / ipaddress - ipaddress](ipaddress.md).
+- Open when checking What's New In Python 3.7 / itertools - itertools. [Improved Modules / What's New In Python 3.7 / itertools - itertools](itertools.md).
+- Open when checking What's New In Python 3.7 / logging - logging, logging.config, logging.handlers. [Improved Modules / What's New In Python 3.7 / logging - logging, logging.config, logging.handlers](logging.md).
+- Open when checking What's New In Python 3.7 / math - math. [Improved Modules / What's New In Python 3.7 / math - math](math.md).
 - Open when checking What's New In Python 3.7 / mimetypes. [Improved Modules / What's New In Python 3.7 / mimetypes](mimetypes.md).
 - Open when checking What's New In Python 3.7 / msilib. [Improved Modules / What's New In Python 3.7 / msilib](msilib.md).
-- Open when checking What's New In Python 3.7 / multiprocessing — multiprocessing, signal. [Improved Modules / What's New In Python 3.7 / multiprocessing — multiprocessing, signal](multiprocessing.md).
-- Open when checking What's New In Python 3.7 / os — os. [Improved Modules / What's New In Python 3.7 / os — os](os.md).
-- Open when checking What's New In Python 3.7 / pathlib — pathlib. [Improved Modules / What's New In Python 3.7 / pathlib — pathlib](pathlib.md).
-- Open when checking What's New In Python 3.7 / pdb — pdb. [Improved Modules / What's New In Python 3.7 / pdb — pdb](pdb.md).
-- Open when checking What's New In Python 3.7 / py_compile — compileall, py_compile. [Improved Modules / What's New In Python 3.7 / py_compile — compileall, py_compile](py-compile.md).
+- Open when checking What's New In Python 3.7 / multiprocessing - multiprocessing, signal. [Improved Modules / What's New In Python 3.7 / multiprocessing - multiprocessing, signal](multiprocessing.md).
+- Open when checking What's New In Python 3.7 / os - os. [Improved Modules / What's New In Python 3.7 / os - os](os.md).
+- Open when checking What's New In Python 3.7 / pathlib - pathlib. [Improved Modules / What's New In Python 3.7 / pathlib - pathlib](pathlib.md).
+- Open when checking What's New In Python 3.7 / pdb - pdb. [Improved Modules / What's New In Python 3.7 / pdb - pdb](pdb.md).
+- Open when checking What's New In Python 3.7 / py_compile - compileall, py_compile. [Improved Modules / What's New In Python 3.7 / py_compile - compileall, py_compile](py-compile.md).
 - Open when checking What's New In Python 3.7 / pydoc. [Improved Modules / What's New In Python 3.7 / pydoc](pydoc.md).
-- Open when checking What's New In Python 3.7 / queue — queue. [Improved Modules / What's New In Python 3.7 / queue — queue](queue.md).
-- Open when checking What's New In Python 3.7 / re — copy, re. [Improved Modules / What's New In Python 3.7 / re — copy, re](re.md).
-- Open when checking What's New In Python 3.7 / signal — signal. [Improved Modules / What's New In Python 3.7 / signal — signal](signal.md).
-- Open when checking What's New In Python 3.7 / socketserver — socketserver. [Improved Modules / What's New In Python 3.7 / socketserver — socketserver](socketserver.md).
-- Open when checking What's New In Python 3.7 / sqlite3 — sqlite3. [Improved Modules / What's New In Python 3.7 / sqlite3 — sqlite3](sqlite3.md).
-- Open when checking What's New In Python 3.7 / string — string. [Improved Modules / What's New In Python 3.7 / string — string](string.md).
-- Open when checking What's New In Python 3.7 / subprocess — subprocess. [Improved Modules / What's New In Python 3.7 / subprocess — subprocess](subprocess.md).
-- Open when checking What's New In Python 3.7 / time — time. [Improved Modules / What's New In Python 3.7 / time — time](time.md).
-- Open when checking What's New In Python 3.7 / tkinter — tkinter.ttk. [Improved Modules / What's New In Python 3.7 / tkinter — tkinter.ttk](tkinter.md).
-- Open when checking What's New In Python 3.7 / tracemalloc — tracemalloc. [Improved Modules / What's New In Python 3.7 / tracemalloc — tracemalloc](tracemalloc.md).
-- Open when checking What's New In Python 3.7 / types — types. [Improved Modules / What's New In Python 3.7 / types — types](types.md).
-- Open when checking What's New In Python 3.7 / unicodedata — unicodedata. [Improved Modules / What's New In Python 3.7 / unicodedata — unicodedata](unicodedata.md).
+- Open when checking What's New In Python 3.7 / queue - queue. [Improved Modules / What's New In Python 3.7 / queue - queue](queue.md).
+- Open when checking What's New In Python 3.7 / re - copy, re. [Improved Modules / What's New In Python 3.7 / re - copy, re](re.md).
+- Open when checking What's New In Python 3.7 / signal - signal. [Improved Modules / What's New In Python 3.7 / signal - signal](signal.md).
+- Open when checking What's New In Python 3.7 / socketserver - socketserver. [Improved Modules / What's New In Python 3.7 / socketserver - socketserver](socketserver.md).
+- Open when checking What's New In Python 3.7 / sqlite3 - sqlite3. [Improved Modules / What's New In Python 3.7 / sqlite3 - sqlite3](sqlite3.md).
+- Open when checking What's New In Python 3.7 / string - string. [Improved Modules / What's New In Python 3.7 / string - string](string.md).
+- Open when checking What's New In Python 3.7 / subprocess - subprocess. [Improved Modules / What's New In Python 3.7 / subprocess - subprocess](subprocess.md).
+- Open when checking What's New In Python 3.7 / time - time. [Improved Modules / What's New In Python 3.7 / time - time](time.md).
+- Open when checking What's New In Python 3.7 / tkinter - tkinter.ttk. [Improved Modules / What's New In Python 3.7 / tkinter - tkinter.ttk](tkinter.md).
+- Open when checking What's New In Python 3.7 / tracemalloc - tracemalloc. [Improved Modules / What's New In Python 3.7 / tracemalloc - tracemalloc](tracemalloc.md).
+- Open when checking What's New In Python 3.7 / types - types. [Improved Modules / What's New In Python 3.7 / types - types](types.md).
+- Open when checking What's New In Python 3.7 / unicodedata - unicodedata. [Improved Modules / What's New In Python 3.7 / unicodedata - unicodedata](unicodedata.md).
 - Open when checking What's New In Python 3.7 / unittest. [Improved Modules / What's New In Python 3.7 / unittest](unittest.md).
-- Open when checking What's New In Python 3.7 / unittest.mock — copy, pickle, unittest.mock. [Improved Modules / What's New In Python 3.7 / unittest.mock — copy, pickle, unittest.mock](unittest-mock.md).
-- Open when checking What's New In Python 3.7 / urllib.parse — urllib.parse. [Improved Modules / What's New In Python 3.7 / urllib.parse — urllib.parse](urllib-parse.md).
+- Open when checking What's New In Python 3.7 / unittest.mock - copy, pickle, unittest.mock. [Improved Modules / What's New In Python 3.7 / unittest.mock - copy, pickle, unittest.mock](unittest-mock.md).
+- Open when checking What's New In Python 3.7 / urllib.parse - urllib.parse. [Improved Modules / What's New In Python 3.7 / urllib.parse - urllib.parse](urllib-parse.md).
 - Open when checking What's New In Python 3.7 / uu. [Improved Modules / What's New In Python 3.7 / uu](uu.md).
-- Open when checking What's New In Python 3.7 / uuid — uuid. [Improved Modules / What's New In Python 3.7 / uuid — uuid](uuid.md).
-- Open when checking What's New In Python 3.7 / warnings — sys. [Improved Modules / What's New In Python 3.7 / warnings — sys](warnings.md).
-- Open when checking What's New In Python 3.7 / xml — xml.dom.minidom, xml.sax. [Improved Modules / What's New In Python 3.7 / xml — xml.dom.minidom, xml.sax](xml.md).
-- Open when checking What's New In Python 3.7 / xml.etree — xml.etree.elementtree. [Improved Modules / What's New In Python 3.7 / xml.etree — xml.etree.elementtree](xml-etree.md).
+- Open when checking What's New In Python 3.7 / uuid - uuid. [Improved Modules / What's New In Python 3.7 / uuid - uuid](uuid.md).
+- Open when checking What's New In Python 3.7 / warnings - sys. [Improved Modules / What's New In Python 3.7 / warnings - sys](warnings.md).
+- Open when checking What's New In Python 3.7 / xml - xml.dom.minidom, xml.sax. [Improved Modules / What's New In Python 3.7 / xml - xml.dom.minidom, xml.sax](xml.md).
+- Open when checking What's New In Python 3.7 / xml.etree - xml.etree.elementtree. [Improved Modules / What's New In Python 3.7 / xml.etree - xml.etree.elementtree](xml-etree.md).
 - Open when checking What's New In Python 3.7 / xmlrpc.server. [Improved Modules / What's New In Python 3.7 / xmlrpc.server](xmlrpc-server.md).
-- Open when checking What's New In Python 3.7 / zipapp — zipapp. [Improved Modules / What's New In Python 3.7 / zipapp — zipapp](zipapp.md).
-- Open when checking What's New In Python 3.7 / zipfile — zipfile. [Improved Modules / What's New In Python 3.7 / zipfile — zipfile](zipfile.md).
+- Open when checking What's New In Python 3.7 / zipapp - zipapp. [Improved Modules / What's New In Python 3.7 / zipapp - zipapp](zipapp.md).
+- Open when checking What's New In Python 3.7 / zipfile - zipfile. [Improved Modules / What's New In Python 3.7 / zipfile - zipfile](zipfile.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

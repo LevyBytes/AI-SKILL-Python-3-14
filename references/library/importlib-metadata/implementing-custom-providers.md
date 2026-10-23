@@ -1,4 +1,4 @@
-# importlib.metadata — Implementing Custom Providers
+# importlib.metadata - Implementing Custom Providers
 
 ### Implementing Custom Providers
 

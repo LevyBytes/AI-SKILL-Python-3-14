@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Optimizations — asyncio, asyncio-eventloop, asyncio-future, asyncio-task
+# What's New In Python 3.7 / Optimizations - asyncio, asyncio-eventloop, asyncio-future, asyncio-task
 
 ### Optimizations
 

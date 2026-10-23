@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Parsing XML
+# xml.etree.ElementTree - Parsing XML
 
 ### Parsing XML
 

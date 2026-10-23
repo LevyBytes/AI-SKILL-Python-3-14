@@ -1,4 +1,4 @@
-# decimal — Quick-start tutorial — Section introduction and initial examples
+# decimal - Quick-start tutorial - Section introduction and initial examples
 
 ### Quick-start tutorial
 

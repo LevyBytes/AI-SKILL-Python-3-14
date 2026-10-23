@@ -1,4 +1,4 @@
-# importlib.metadata — Mapping import to distribution packages
+# importlib.metadata - Mapping import to distribution packages
 
 ### Mapping import to distribution packages
 

@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.6 release candidate 1 / core and builtins / repaired sigint handler no longer resets sig dfl interpreter shutdown: [Python 3.6.6 release candidate 1 / core and builtins / repaired sigint handler no longer resets sig dfl interpreter shutdown](shutdown-sigint-handler-preservation.md).
 - Open when checking Python 3.6.6 release candidate 1 / core and builtins / resolved signed unsigned comparison warning inside pyhash c: [Python 3.6.6 release candidate 1 / core and builtins / resolved signed unsigned comparison warning inside pyhash c](resolved-signed-unsigned-comparison-warning-inside-pyhash-c.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

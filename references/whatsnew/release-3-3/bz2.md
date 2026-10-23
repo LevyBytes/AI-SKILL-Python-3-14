@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / bz2 — bz2, io
+# What's New In Python 3.3 / bz2 - bz2, io
 
 ### bz2
 

@@ -1,7 +1,6 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "Acknowledgements", "file": "unicode/acknowledgements.md", "summary": "Open when checking Acknowledgements.", "keywords": []},
     {"topic": "Comparing Strings", "file": "unicode/comparing-strings.md", "summary": "Open when checking Comparing Strings.", "keywords": []},
     {"topic": "Converting Between File Encodings", "file": "unicode/converting-between-file-encodings.md", "summary": "Open when checking Converting Between File Encodings.", "keywords": []},
     {"topic": "Converting to Bytes", "file": "unicode/converting-to-bytes.md", "summary": "Open when checking Converting to Bytes.", "keywords": []},

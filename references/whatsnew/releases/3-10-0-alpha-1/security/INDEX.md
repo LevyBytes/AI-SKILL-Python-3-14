@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 1 / security / http: [Python 3.10.0 alpha 1 / security / http](http.md).
 - Open when checking Python 3.10.0 alpha 1 / security / stop events going missing audit hooks wiped later point: [Python 3.10.0 alpha 1 / security / stop events going missing audit hooks wiped later point](stop-events-going-missing-audit-hooks-wiped-later-point.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

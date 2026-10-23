@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Floating-point comparisons, rounding and exact-arithmetic alternatives: [Floating-point comparisons, rounding and exact-arithmetic alternatives](float-comparison-rounding-and-exact-alternatives.md).
 - Open when checking Recovering the stored decimal value and exact fractions: [Recovering the stored decimal value and exact fractions](recovering-the-stored-decimal-value-and-exact-fractions.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

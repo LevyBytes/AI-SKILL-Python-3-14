@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Changes in the Python API — asyncio, asyncio-api-index, asyncio-task, atexit, collections.abc, socket, traceback, types, typing
+# What's New In Python 3.10 / Changes in the Python API - asyncio, asyncio-api-index, asyncio-task, atexit, collections.abc, socket, traceback, types, typing
 
 ### Changes in the Python API
 

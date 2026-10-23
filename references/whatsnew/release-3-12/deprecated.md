@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Deprecated — argparse, ast, asyncio, asyncio-eventloop, calendar, collections.abc, datetime, email, email.utils, importlib
+# What’s New In Python 3.12 / Deprecated - argparse, ast, asyncio, asyncio-eventloop, calendar, collections.abc, datetime, email, email.utils, importlib
 
 ### Deprecated
 

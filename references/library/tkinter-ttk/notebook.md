@@ -1,4 +1,4 @@
-# tkinter.ttk — Notebook
+# tkinter.ttk - Notebook
 
 ### Notebook
 

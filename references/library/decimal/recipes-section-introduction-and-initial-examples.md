@@ -1,4 +1,4 @@
-# decimal — Recipes — Section introduction and initial examples
+# decimal - Recipes - Section introduction and initial examples
 
 ### Recipes
 

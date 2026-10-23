@@ -1,4 +1,4 @@
-# email.iterators — `email.iterators`: Iterators
+# email.iterators`email.iterators`: Iterators
 
 ## email.iterators: Iterators
 

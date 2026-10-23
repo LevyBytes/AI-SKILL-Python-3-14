@@ -1,4 +1,4 @@
-# selectors — Examples
+# selectors - Examples
 
 ### Examples
 

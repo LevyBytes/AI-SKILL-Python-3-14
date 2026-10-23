@@ -1,4 +1,4 @@
-# xmlrpc.server — SimpleXMLRPCServer example — Section introduction and initial examples
+# xmlrpc.server - SimpleXMLRPCServer example - Section introduction and initial examples
 
 ### SimpleXMLRPCServer example
 

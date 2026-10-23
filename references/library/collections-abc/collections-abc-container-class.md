@@ -1,6 +1,6 @@
 # collections.abc: `collections.abc.Container`
 
-### Collections Abstract Base Classes — Detailed Descriptions
+### Collections Abstract Base Classes - Detailed Descriptions
 
  *class *collections.abc.Container
 

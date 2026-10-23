@@ -1,4 +1,4 @@
-# dis — Opcode collections
+# dis - Opcode collections
 
 ### Opcode collections
 

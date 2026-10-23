@@ -1,6 +1,6 @@
 # urllib.robotparser: `urllib.robotparser.RobotFileParser`
 
-### `urllib.robotparser` — Parser for robots.txt
+### `urllib.robotparser` - Parser for robots.txt
 
 **Source code:** [Lib/urllib/robotparser.py](https://github.com/python/cpython/tree/3.14/Lib/urllib/robotparser.py)
 

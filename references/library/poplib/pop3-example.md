@@ -1,4 +1,4 @@
-# poplib — POP3 Example
+# poplib - POP3 Example
 
 ### POP3 Example
 

@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / PEP 765: Control flow in `finally` blocks — warnings
+# What's new in Python 3.14 / PEP 765: Control flow in `finally` blocks - warnings
 
 ### PEP 765: Control flow in [`finally`](https://docs.python.org/3.14/reference/compound_stmts.html#finally) blocks
 

@@ -1,6 +1,6 @@
 # tk: Turtle graphics learning and API routes
 
-- [`turtle` — Turtle graphics](https://docs.python.org/3.14/library/turtle.html)
+- [`turtle` - Turtle graphics](https://docs.python.org/3.14/library/turtle.html)
   - [Introduction](https://docs.python.org/3.14/library/turtle.html#module-turtle)
   - [Get started](https://docs.python.org/3.14/library/turtle.html#get-started)
   - [Tutorial](https://docs.python.org/3.14/library/turtle.html#tutorial)
@@ -55,7 +55,7 @@
     - [Translation of docstrings into different languages](https://docs.python.org/3.14/library/turtle.html#translation-of-docstrings-into-different-languages)
     - [How to configure Screen and Turtles](https://docs.python.org/3.14/library/turtle.html#how-to-configure-screen-and-turtles)
 
-  - [`turtledemo` — Demo scripts](https://docs.python.org/3.14/library/turtle.html#module-turtledemo)
+  - [`turtledemo` - Demo scripts](https://docs.python.org/3.14/library/turtle.html#module-turtledemo)
   - [Historical changes since Python 2.6 (Python 3.10 documentation)](https://docs.python.org/3.10/library/turtle.html#changes-since-python-2-6)
   - [Historical changes since Python 3.0 (Python 3.10 documentation)](https://docs.python.org/3.10/library/turtle.html#changes-since-python-3-0)
 

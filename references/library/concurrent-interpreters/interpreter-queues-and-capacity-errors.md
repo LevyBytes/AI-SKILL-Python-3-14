@@ -1,4 +1,4 @@
-# concurrent.interpreters — Communicating Between Interpreters
+# concurrent.interpreters - Communicating Between Interpreters
 
 ### Communicating Between Interpreters
 

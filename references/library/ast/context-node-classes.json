@@ -66,7 +66,7 @@
   {"topic": "ast: `ast.MatchOr`", "file": "ast/ast-matchor-class.md", "summary": "Open when checking the documented contracts for `ast.MatchOr` in ast.", "keywords": []},
   {"topic": "ast: `ast.Match`", "file": "ast/ast-match-class.md", "summary": "Open when checking the documented contracts for `ast.Match` in ast.", "keywords": []},
   {"topic": "ast: `ast.match_case`", "file": "ast/ast-match-case-class.md", "summary": "Open when checking the documented contracts for `ast.match_case` in ast.", "keywords": []},
-  {"topic": "Node classes / ast — Type annotations", "file": "ast/ast-typeignore-class.md", "summary": "Open when checking ast — Type annotations.", "keywords": []},
+  {"topic": "Node classes / ast - Type annotations", "file": "ast/ast-typeignore-class.md", "summary": "Open when checking ast - Type annotations.", "keywords": []},
   {"topic": "ast: `ast.TypeVar`", "file": "ast/ast-typevar-class.md", "summary": "Open when checking the documented contracts for `ast.TypeVar` in ast.", "keywords": []},
   {"topic": "ast: `ast.ParamSpec`", "file": "ast/ast-paramspec-class.md", "summary": "Open when checking the documented contracts for `ast.ParamSpec` in ast.", "keywords": []},
   {"topic": "ast: `ast.TypeVarTuple`", "file": "ast/ast-typevartuple-class.md", "summary": "Open when checking the documented contracts for `ast.TypeVarTuple` in ast.", "keywords": []},

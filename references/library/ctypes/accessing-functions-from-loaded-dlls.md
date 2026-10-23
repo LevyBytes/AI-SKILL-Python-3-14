@@ -1,4 +1,4 @@
-# ctypes — Accessing functions from loaded dlls
+# ctypes - Accessing functions from loaded dlls
 
 ### Accessing functions from loaded dlls
 

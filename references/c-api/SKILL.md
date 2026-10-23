@@ -3,7 +3,7 @@ name: c-api
 description: "Use when writing C/C++ extension modules or embedding CPython 3.14: Python objects, reference ownership, type layouts, object and container protocols, calls, buffers, Unicode, exceptions, memory, modules, interpreter initialization, GIL/thread state, subinterpreters, monitoring, or Stable/Limited/Unstable C API contracts. Not for ordinary Python-only application code or another Python version's undocumented behavior."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

@@ -1,4 +1,4 @@
-# readline — `readline` — GNU readline interface
+# readline`readline` - GNU readline interface
 
 # Readline, Removed, Reprlib
 
@@ -6,9 +6,9 @@
 
 Covers: readline — GNU readline interface; Removed Modules; reprlib — Alternate repr() implementation.
 
-## readline — GNU readline interface
+## readline - GNU readline interface
 
-### `readline` — GNU readline interface
+### `readline` - GNU readline interface
 
 ---
 

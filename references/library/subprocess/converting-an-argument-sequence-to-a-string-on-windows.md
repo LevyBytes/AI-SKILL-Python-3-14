@@ -1,4 +1,4 @@
-# subprocess — Converting an argument sequence to a string on Windows
+# subprocess - Converting an argument sequence to a string on Windows
 
 ### Converting an argument sequence to a string on Windows
 

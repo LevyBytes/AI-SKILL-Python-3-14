@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 307: Pickle Enhancements — pickle
+# What’s New in Python 2.3 / PEP 307: Pickle Enhancements - pickle
 
 ### PEP 307: Pickle Enhancements
 

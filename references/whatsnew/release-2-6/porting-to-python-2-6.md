@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Porting to Python 2.6 — collections, datetime, socket, xmlrpc.client
+# What’s New in Python 2.6 / Porting to Python 2.6 - collections, datetime, socket, xmlrpc.client
 
 ### Porting to Python 2.6
 
@@ -34,4 +34,4 @@ When your application embeds Python:
 
 - Python 2.6.6 introduced the `PySys_SetArgvEx()` function so applications could seal a security hole that came with relying on the older `PySys_SetArgv()`. Look at whether your code invokes `PySys_SetArgv()`, and weigh carefully whether it ought to switch to `PySys_SetArgvEx()` with *updatepath* set to false.
 
-[Subject index](INDEX.md) · [Previous source section](port-specific-changes-irix.md) · [Next source section](acknowledgements.md) · [Release/subject declaration](python-3-0.md)
+[Subject index](INDEX.md) · [Previous source section](port-specific-changes-irix.md) · [Release/subject declaration](python-3-0.md)

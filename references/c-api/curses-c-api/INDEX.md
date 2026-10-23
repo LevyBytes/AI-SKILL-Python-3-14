@@ -6,4 +6,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PyCursesInitialised`, `PyCursesInitialisedColor` in curses c api C API. [curses c api C API: `PyCursesInitialised`, `PyCursesInitialisedColor`](pycursesinitialised-to-pycursesinitialisedcolor.md).
 - Open when checking Internal data: [Internal data](pycurses-capsule-name.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

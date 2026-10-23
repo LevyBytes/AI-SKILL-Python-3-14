@@ -1,4 +1,4 @@
-# html.parser — Examples — Section introduction and initial examples
+# html.parser - Examples - Section introduction and initial examples
 
 ### Examples
 

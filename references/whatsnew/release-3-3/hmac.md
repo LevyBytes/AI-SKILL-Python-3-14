@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / hmac — hmac
+# What's New In Python 3.3 / hmac - hmac
 
 ### hmac
 

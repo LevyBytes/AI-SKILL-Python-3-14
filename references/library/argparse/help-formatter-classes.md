@@ -1,4 +1,4 @@
-# argparse — formatter_class — Signature and initial contract
+# argparse - formatter_class - Signature and initial contract
 
 *class *argparse.RawDescriptionHelpFormatter
 

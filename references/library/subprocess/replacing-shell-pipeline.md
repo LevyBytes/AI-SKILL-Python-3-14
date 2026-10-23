@@ -1,4 +1,4 @@
-# subprocess — Replacing shell pipeline
+# subprocess - Replacing shell pipeline
 
 ### Replacing shell pipeline
 

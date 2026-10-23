@@ -1,4 +1,4 @@
-# numbers — Implementing the arithmetic operations — Section introduction and initial examples
+# numbers - Implementing the arithmetic operations - Section introduction and initial examples
 
 ### Implementing the arithmetic operations
 

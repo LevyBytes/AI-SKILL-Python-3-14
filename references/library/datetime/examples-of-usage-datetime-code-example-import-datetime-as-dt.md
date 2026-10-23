@@ -1,4 +1,4 @@
-# datetime — Examples of usage: `datetime` — Code example: import datetime as dt
+# datetime - Examples of usage: `datetime` - Code example: import datetime as dt
 
 ```python
 import datetime as dt

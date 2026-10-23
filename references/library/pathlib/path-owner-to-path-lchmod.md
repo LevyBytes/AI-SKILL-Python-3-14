@@ -1,4 +1,4 @@
-# pathlib — Permissions and ownership
+# pathlib - Permissions and ownership
 
 ### Permissions and ownership
 

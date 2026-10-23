@@ -1,4 +1,4 @@
-# contextlib — Examples and Recipes
+# contextlib - Examples and Recipes
 
 ### Examples and Recipes
 

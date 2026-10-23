@@ -1,4 +1,4 @@
-# datetime — Examples of usage: `timedelta`
+# datetime - Examples of usage: `timedelta`
 
 ### Examples of usage: `timedelta`
 

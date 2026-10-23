@@ -1,4 +1,4 @@
-# decimal — Decimal FAQ — Contract: Q: The same value can be written in many ways.
+# decimal - Decimal FAQ - Contract: Q: The same value can be written in many ways.
 
 Q: The same value can be written in many ways. The numbers `200`, `200.000`, `2E2`, and `.02E+4` each hold the same value at differing precisions. Is there a way to convert them into a single recognizable canonical value?
 

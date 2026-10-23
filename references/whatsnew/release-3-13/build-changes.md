@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Build Changes — sqlite3
+# What's New In Python 3.13 / Build Changes - sqlite3
 
 ### Build Changes
 

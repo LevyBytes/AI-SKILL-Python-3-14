@@ -1,6 +1,6 @@
-# test — `test` — Regression tests package for Python
+# test`test` - Regression tests package for Python
 
-### `test` — Regression tests package for Python
+### `test` - Regression tests package for Python
 
 Note
 

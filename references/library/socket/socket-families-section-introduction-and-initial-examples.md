@@ -1,4 +1,4 @@
-# socket — Socket families — Section introduction and initial examples
+# socket - Socket families - Section introduction and initial examples
 
 ### Socket families
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / warnings — warnings
+# What's New In Python 3.11 / warnings - warnings
 
 ### warnings
 

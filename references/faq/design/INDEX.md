@@ -31,4 +31,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Why must dictionary keys be immutable?: [Why must dictionary keys be immutable?](why-must-dictionary-keys-be-immutable.md).
 - Open when checking Why must 'self' be used explicitly in method definitions and calls?: [Why must 'self' be used explicitly in method definitions and calls?](explicit-self-in-methods.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

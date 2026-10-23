@@ -1,4 +1,4 @@
-# tkinter.ttk — Virtual events
+# tkinter.ttk - Virtual events
 
 ### Virtual events
 

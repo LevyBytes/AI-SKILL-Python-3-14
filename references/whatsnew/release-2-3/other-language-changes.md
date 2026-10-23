@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / Other Language Changes — types
+# What’s New in Python 2.3 / Other Language Changes - types
 
 ### Other Language Changes
 

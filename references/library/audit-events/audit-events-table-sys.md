@@ -1,4 +1,4 @@
-# Audit events table — sys
+# Audit events table - sys
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

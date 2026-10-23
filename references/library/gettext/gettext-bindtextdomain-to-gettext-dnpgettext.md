@@ -1,4 +1,4 @@
-# gettext — GNU **gettext** API
+# gettext - GNU **gettext** API
 
 ### GNU **gettext** API
 

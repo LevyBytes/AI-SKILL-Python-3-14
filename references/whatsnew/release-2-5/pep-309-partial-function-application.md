@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / PEP 309: Partial Function Application — functools
+# What's New in Python 2.5 / PEP 309: Partial Function Application - functools
 
 ### PEP 309: Partial Function Application
 

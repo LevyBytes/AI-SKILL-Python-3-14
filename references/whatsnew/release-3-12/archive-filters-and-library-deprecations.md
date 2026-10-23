@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Deprecated — collections.abc, importlib, sys, tarfile, typing, xml.etree.elementtree
+# What’s New In Python 3.12 / Deprecated - collections.abc, importlib, sys, tarfile, typing, xml.etree.elementtree
 
 [`sys`](https://docs.python.org/3.14/library/sys.html#module-sys): The trio of fields [`sys.last_type`](https://docs.python.org/3.14/library/sys.html#sys.last_type), [`sys.last_value`](https://docs.python.org/3.14/library/sys.html#sys.last_value) and [`sys.last_traceback`](https://docs.python.org/3.14/library/sys.html#sys.last_traceback) now carry a deprecation. Reach for [`sys.last_exc`](https://docs.python.org/3.14/library/sys.html#sys.last_exc) as the replacement. (Contributed by Irit Katriel in [gh-102778](https://github.com/python/cpython/issues/102778).)
 

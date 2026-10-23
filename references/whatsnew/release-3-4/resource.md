@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / resource — resource
+# What's New In Python 3.4 / resource - resource
 
 ### resource
 

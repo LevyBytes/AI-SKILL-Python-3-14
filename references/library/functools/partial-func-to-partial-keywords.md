@@ -1,4 +1,4 @@
-# functools — `partial` Objects
+# functools`partial` Objects
 
 ### `partial` Objects
 

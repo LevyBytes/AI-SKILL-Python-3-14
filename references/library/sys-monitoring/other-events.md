@@ -1,4 +1,4 @@
-# sys.monitoring — Other events
+# sys.monitoring - Other events
 
 ### Other events
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / collections — collections
+# What’s New In Python 3.8 / collections - collections
 
 > (Contributed by Matthias Bussonnier in [bpo-34616](https://bugs.python.org/issue?@action=redirect&bpo=34616))
 

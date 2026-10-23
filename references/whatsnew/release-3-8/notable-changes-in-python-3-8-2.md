@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Notable changes in Python 3.8.2 — shutil
+# What’s New In Python 3.8 / Notable changes in Python 3.8.2 - shutil
 
 ### Notable changes in Python 3.8.2
 

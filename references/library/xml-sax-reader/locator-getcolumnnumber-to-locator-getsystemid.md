@@ -1,4 +1,4 @@
-# xml.sax.xmlreader — Locator Objects
+# xml.sax.xmlreader - Locator Objects
 
 ### Locator Objects
 

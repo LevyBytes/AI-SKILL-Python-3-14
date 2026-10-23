@@ -18,7 +18,7 @@ This field is not inherited by subtypes.
 
 >
 
-Here lies the type's own type — that is, its metatype. The argument given to the `PyObject_HEAD_INIT` macro sets it, and ordinarily it ought to be `&PyType_Type`. That said, with dynamically loadable extension modules that have to run on Windows (at minimum), the compiler objects that such a value isn't a valid initializer. The usual workaround, then, is to hand `NULL` to the `PyObject_HEAD_INIT` macro and set this field by hand right when the module's initialization function begins, ahead of any other work. The customary form is:
+Here lies the type's own type: that is, its metatype. The argument given to the `PyObject_HEAD_INIT` macro sets it, and ordinarily it ought to be `&PyType_Type`. That said, with dynamically loadable extension modules that have to run on Windows (at minimum), the compiler objects that such a value isn't a valid initializer. The usual workaround, then, is to hand `NULL` to the `PyObject_HEAD_INIT` macro and set this field by hand right when the module's initialization function begins, ahead of any other work. The customary form is:
 
 ```c
 Foo_Type.ob_type = &PyType_Type;

@@ -1,8 +1,8 @@
-# secrets — `secrets` — Generate secure random numbers for managing secrets
+# secrets`secrets` - Generate secure random numbers for managing secrets
 
-## secrets — Generate secure random numbers for managing secrets
+## secrets - Generate secure random numbers for managing secrets
 
-### `secrets` — Generate secure random numbers for managing secrets
+### `secrets` - Generate secure random numbers for managing secrets
 
 Added in version 3.6.
 

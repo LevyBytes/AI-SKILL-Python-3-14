@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Other Language Changes — collections, configparser, dbm, shelve, sys
+# What's New In Python 3.2 / Other Language Changes - collections, configparser, dbm, shelve, sys
 
 ### Other Language Changes
 

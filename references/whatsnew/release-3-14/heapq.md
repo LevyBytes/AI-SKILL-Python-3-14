@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / heapq — heapq
+# What's new in Python 3.14 / heapq - heapq
 
 ### heapq
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / C API Changes / Deprecated C APIs — sys
+# What's New In Python 3.13 / C API Changes / Deprecated C APIs - sys
 
 ### Deprecated C APIs
 

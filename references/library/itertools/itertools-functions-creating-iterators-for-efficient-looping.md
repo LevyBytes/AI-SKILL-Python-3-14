@@ -1,6 +1,6 @@
-# itertools — `itertools` — Functions creating iterators for efficient looping
+# itertools`itertools` - Functions creating iterators for efficient looping
 
-### `itertools` — Functions creating iterators for efficient looping
+### `itertools` - Functions creating iterators for efficient looping
 
 ---
 

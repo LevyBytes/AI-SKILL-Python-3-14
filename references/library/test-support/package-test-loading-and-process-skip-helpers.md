@@ -1,4 +1,4 @@
-# test.support — `test.support` — Utilities for the Python test suite
+# test.support`test.support` - Utilities for the Python test suite
 
 test.support.load_package_tests(*pkg_dir*, *loader*, *standard_tests*, *pattern*)
 

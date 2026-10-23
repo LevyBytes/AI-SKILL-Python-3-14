@@ -1,4 +1,4 @@
-# string.templatelib — Types — Signature and initial contract
+# string.templatelib - Types - Signature and initial contract
 
 ### Types
 

@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — XInclude support
+# xml.etree.ElementTree - XInclude support
 
 ### XInclude support
 

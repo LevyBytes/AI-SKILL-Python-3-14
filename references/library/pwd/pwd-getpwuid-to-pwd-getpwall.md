@@ -1,8 +1,8 @@
-# pwd — `pwd` — The password database
+# pwd`pwd` - The password database
 
-## pwd — The password database??
+## pwd - The password database??
 
-### `pwd` — The password database
+### `pwd` - The password database
 
 ---
 

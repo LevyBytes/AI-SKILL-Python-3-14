@@ -1,8 +1,8 @@
 # xml.sax.saxutils: `xml.sax.saxutils.escape()`, `xml.sax.saxutils.unescape()`, `xml.sax.saxutils.quoteattr()`
 
-## xml.sax.saxutils — SAX Utilities??
+## xml.sax.saxutils - SAX Utilities??
 
-### `xml.sax.saxutils` — SAX Utilities
+### `xml.sax.saxutils` - SAX Utilities
 
 **Source code:** [Lib/xml/sax/saxutils.py](https://github.com/python/cpython/tree/3.14/Lib/xml/sax/saxutils.py)
 

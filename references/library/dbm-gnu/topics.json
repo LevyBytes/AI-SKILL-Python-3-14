@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "dbm.gnu — `dbm.gnu` — GNU database manager", "file": "dbm-gnu/dbm-gnu-error-to-dbm-gnu-open.md", "summary": "Open when checking dbm.gnu — `dbm.gnu` — GNU database manager.", "keywords": []},
-    {"topic": "dbm.gnu — **flag** (*str*) –", "file": "dbm-gnu/gdbm-close-to-gdbm-sync.md", "summary": "Open when checking dbm.gnu — **flag** (*str*) –.", "keywords": []},
+    {"topic": "dbm.gnu - `dbm.gnu` - GNU database manager", "file": "dbm-gnu/dbm-gnu-error-to-dbm-gnu-open.md", "summary": "Open when checking dbm.gnu - `dbm.gnu` - GNU database manager.", "keywords": []},
+    {"topic": "dbm.gnu - **flag** (*str*) –", "file": "dbm-gnu/gdbm-close-to-gdbm-sync.md", "summary": "Open when checking dbm.gnu - **flag** (*str*) –.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

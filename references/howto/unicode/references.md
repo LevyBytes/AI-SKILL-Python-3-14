@@ -20,7 +20,7 @@ A few worthwhile alternative treatments of Python’s Unicode support are:
 
 - [Pragmatic Unicode](https://nedbatchelder.com/text/unipain.html), a PyCon 2012 presentation by Ned Batchelder.
 
-A description of the [`str`](https://docs.python.org/3.14/library/stdtypes.html#str) type lives in the Python library reference at [Text Sequence Type — str](https://docs.python.org/3.14/library/stdtypes.html#textseq).
+A description of the [`str`](https://docs.python.org/3.14/library/stdtypes.html#str) type lives in the Python library reference at [Text Sequence Type - str](https://docs.python.org/3.14/library/stdtypes.html#textseq).
 
 The documentation for the [`unicodedata`](https://docs.python.org/3.14/library/unicodedata.html#module-unicodedata) module.
 
@@ -36,4 +36,4 @@ Character-encoding matters, plus how to internationalize and localize an applica
 
 In his PyCon 2013 talk [The Guts of Unicode in Python](https://pyvideo.org/video/1768/the-guts-of-unicode-in-python), Benjamin Peterson walks through how Python 3.3 represents Unicode internally.
 
-[Subject index](INDEX.md) · [Previous source context](encodings.md) · [Following source context](python-s-unicode-support.md) · [Previous source context](unicode-regular-expressions.md) · [Following source context](reading-and-writing-unicode-data.md) · [Previous source context](files-in-an-unknown-encoding.md) · [Following source context](acknowledgements.md)
+[Subject index](INDEX.md) · [Previous source context](encodings.md) · [Following source context](python-s-unicode-support.md) · [Previous source context](unicode-regular-expressions.md) · [Following source context](reading-and-writing-unicode-data.md) · [Previous source context](files-in-an-unknown-encoding.md)

@@ -1,4 +1,4 @@
-# faulthandler — Issue with file descriptors
+# faulthandler - Issue with file descriptors
 
 ### Issue with file descriptors
 

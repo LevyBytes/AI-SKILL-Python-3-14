@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking `importlib` ? The implementation of `import`: [`importlib` ? The implementation of `import`](importlib-the-implementation-of-import.md).
 - Open when checking Introduction: [Introduction](introduction.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

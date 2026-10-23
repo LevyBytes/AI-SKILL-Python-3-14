@@ -1,4 +1,4 @@
-# Keyword Parameters for Extension Functions — PyArg_ParseTupleAndKeywords, PyObject, PyArg_ParseTuple, Py_RETURN_NONE, PyMethodDef, PyCFunction, PyModuleDef, PyModuleDef_HEAD_INIT, PyMODINIT_FUNC, PyInit_keywdarg, PyModuleDef_Init
+# Keyword Parameters for Extension Functions - PyArg_ParseTupleAndKeywords, PyObject, PyArg_ParseTuple, Py_RETURN_NONE, PyMethodDef, PyCFunction, PyModuleDef, PyModuleDef_HEAD_INIT, PyMODINIT_FUNC, PyInit_keywdarg, PyModuleDef_Init
 
 ### 1.8. Keyword Parameters for Extension Functions
 

@@ -11,4 +11,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.8.0 alpha 2 / tests / skip test shutil test unpack archive xztar memoryerror avoided bit aix whenever maxdata setting: [Python 3.8.0 alpha 2 / tests / skip test shutil test unpack archive xztar memoryerror avoided bit aix whenever maxdata setting](aix-memory-constrained-archive-test-skip.md).
 - Open when checking Python 3.8.0 alpha 2 / tests / tests and documentation: [Python 3.8.0 alpha 2 / tests / tests and documentation](tests-and-documentation.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

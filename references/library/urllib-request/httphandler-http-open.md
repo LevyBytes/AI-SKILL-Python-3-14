@@ -1,4 +1,4 @@
-# urllib.request — HTTPHandler Objects
+# urllib.request - HTTPHandler Objects
 
 ### HTTPHandler Objects
 

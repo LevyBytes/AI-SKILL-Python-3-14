@@ -1,4 +1,4 @@
-# random — Command-line usage
+# random - Command-line usage
 
 ### Command-line usage
 

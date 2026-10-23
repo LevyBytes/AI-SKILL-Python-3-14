@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Changes in Python behavior — sys
+# What’s New In Python 3.8 / Changes in Python behavior - sys
 
 ### Changes in Python behavior
 

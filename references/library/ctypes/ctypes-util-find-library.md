@@ -1,4 +1,4 @@
-# ctypes — Finding shared libraries
+# ctypes - Finding shared libraries
 
 ### ctypes reference
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / signal — signal
+# What's New In Python 3.7 / signal - signal
 
 ### signal
 

@@ -1,4 +1,4 @@
-# collections — `deque` Recipes
+# collections`deque` Recipes
 
 ### `deque` Recipes
 

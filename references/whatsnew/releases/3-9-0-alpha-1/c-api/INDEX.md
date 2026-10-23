@@ -24,4 +24,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 1 / c api / weakref: [Python 3.9.0 alpha 1 / c api / weakref](weakref.md).
 - Open when checking Python 3.9.0 alpha 1 / c api / whatever options pysys addxoption adds get treated just like pyconfig xoptions: [Python 3.9.0 alpha 1 / c api / whatever options pysys addxoption adds get treated just like pyconfig xoptions](c-api-xoptions-configuration-consistency.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

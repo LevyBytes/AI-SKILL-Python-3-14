@@ -1,4 +1,4 @@
-# multiprocessing — Sharing state between processes
+# multiprocessing - Sharing state between processes
 
 ### Sharing state between processes
 

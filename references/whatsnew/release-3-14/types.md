@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / types — types, typing
+# What's new in Python 3.14 / types - types, typing
 
 ### types
 

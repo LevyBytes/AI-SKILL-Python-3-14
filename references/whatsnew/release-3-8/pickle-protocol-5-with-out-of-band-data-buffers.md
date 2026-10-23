@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Pickle protocol 5 with out-of-band data buffers — pickle
+# What’s New In Python 3.8 / Pickle protocol 5 with out-of-band data buffers - pickle
 
 ### Pickle protocol 5 with out-of-band data buffers
 

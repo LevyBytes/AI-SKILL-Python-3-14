@@ -1,4 +1,4 @@
-# dataclasses — Inheritance
+# dataclasses - Inheritance
 
 ### Inheritance
 

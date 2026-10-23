@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / ensurepip — ensurepip, venv
+# What’s New In Python 3.12 / ensurepip - ensurepip, venv
 
 ### ensurepip
 

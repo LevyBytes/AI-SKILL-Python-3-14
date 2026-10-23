@@ -38,4 +38,4 @@ ext = Extension(**kw)
 
 For extension types that ship in Python's bundled modules, the reported name is now prefixed with the originating module followed by a `'.'` before the actual type name.
 
-[Subject index](INDEX.md) · [Previous source section](other-changes-and-fixes.md) · [Release/subject declaration](standard-set-type.md) · [Next source section](acknowledgements.md)
+[Subject index](INDEX.md) · [Previous source section](other-changes-and-fixes.md) · [Release/subject declaration](standard-set-type.md)

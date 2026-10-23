@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "__main__ — Idiomatic Usage", "file": "main/idiomatic-usage.md", "summary": "Open when checking __main__ — Idiomatic Usage.", "keywords": []},
-    {"topic": "__main__ — `import __main__`", "file": "main/import-main.md", "summary": "Open when checking __main__ — `import __main__`.", "keywords": []},
-    {"topic": "__main__ — `__main__.py` in Python Packages", "file": "main/main-py-in-python-packages.md", "summary": "Open when checking __main__ — `__main__.py` in Python Packages.", "keywords": []},
-    {"topic": "__main__ — `__main__` — Top-level code environment", "file": "main/main-top-level-code-environment.md", "summary": "Open when checking __main__ — `__main__` — Top-level code environment.", "keywords": []},
-    {"topic": "__main__ — `__name__ == '__main__'`", "file": "main/name-main.md", "summary": "Open when checking __main__ — `__name__ == '__main__'`.", "keywords": []},
-    {"topic": "__main__ — Packaging Considerations", "file": "main/packaging-considerations.md", "summary": "Open when checking __main__ — Packaging Considerations.", "keywords": []},
-    {"topic": "__main__ — What is the “top-level code environment”?", "file": "main/what-is-the-top-level-code-environment.md", "summary": "Open when checking __main__ — What is the “top-level code environment”?.", "keywords": []},
+    {"topic": "__main__ - Idiomatic Usage", "file": "main/idiomatic-usage.md", "summary": "Open when checking __main__ - Idiomatic Usage.", "keywords": []},
+    {"topic": "__main__ - `import __main__`", "file": "main/import-main.md", "summary": "Open when checking __main__ - `import __main__`.", "keywords": []},
+    {"topic": "__main__ - `__main__.py` in Python Packages", "file": "main/main-py-in-python-packages.md", "summary": "Open when checking __main__ - `__main__.py` in Python Packages.", "keywords": []},
+    {"topic": "__main__ - `__main__` - Top-level code environment", "file": "main/main-top-level-code-environment.md", "summary": "Open when checking __main__ - `__main__` - Top-level code environment.", "keywords": []},
+    {"topic": "__main__ - `__name__ == '__main__'`", "file": "main/name-main.md", "summary": "Open when checking __main__ - `__name__ == '__main__'`.", "keywords": []},
+    {"topic": "__main__ - Packaging Considerations", "file": "main/packaging-considerations.md", "summary": "Open when checking __main__ - Packaging Considerations.", "keywords": []},
+    {"topic": "__main__ - What is the “top-level code environment”?", "file": "main/what-is-the-top-level-code-environment.md", "summary": "Open when checking __main__ - What is the “top-level code environment”?.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

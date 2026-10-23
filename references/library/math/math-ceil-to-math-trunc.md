@@ -1,4 +1,4 @@
-# math — Floating point arithmetic
+# math - Floating point arithmetic
 
 ### Floating point arithmetic
 

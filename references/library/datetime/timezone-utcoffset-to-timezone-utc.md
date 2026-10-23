@@ -1,4 +1,4 @@
-# datetime — `timezone` objects
+# datetime`timezone` objects
 
 timezone.utcoffset(*dt*)
 

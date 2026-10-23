@@ -1,4 +1,4 @@
-# xmlrpc.client — Example of Client Usage
+# xmlrpc.client - Example of Client Usage
 
 ### Example of Client Usage
 

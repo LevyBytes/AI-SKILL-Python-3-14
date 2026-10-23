@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 389: The argparse Module for Parsing Command Lines — argparse, getopt, optparse
+# What’s New in Python 2.7 / PEP 389: The argparse Module for Parsing Command Lines - argparse, getopt, optparse
 
 ### PEP 389: The argparse Module for Parsing Command Lines
 

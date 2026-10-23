@@ -1,4 +1,4 @@
-# zoneinfo — Runtime configuration
+# zoneinfo - Runtime configuration
 
 #### Runtime configuration
 

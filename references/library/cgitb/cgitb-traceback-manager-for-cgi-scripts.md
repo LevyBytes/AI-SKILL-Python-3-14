@@ -1,8 +1,8 @@
-# cgitb — `cgitb` — Traceback manager for CGI scripts
+# cgitb`cgitb` - Traceback manager for CGI scripts
 
-## cgitb — Traceback manager for CGI scripts??
+## cgitb - Traceback manager for CGI scripts??
 
-### `cgitb` — Traceback manager for CGI scripts
+### `cgitb` - Traceback manager for CGI scripts
 
 Deprecated since version 3.11, removed in version 3.13.
 

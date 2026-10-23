@@ -1,4 +1,4 @@
-# optparse — Choosing an argument parsing library — Contract: handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values)
+# optparse - Choosing an argument parsing library - Contract: handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values)
 
 - handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values)
 

@@ -1,4 +1,4 @@
-# Intermezzo: Errors and Exceptions — PyErr_NewException, Py_DECREF, PyMODINIT_FUNC, PyErr_SetString, PyObject, PyArg_ParseTuple, PyLong_FromLong
+# Intermezzo: Errors and Exceptions - PyErr_NewException, Py_DECREF, PyMODINIT_FUNC, PyErr_SetString, PyObject, PyArg_ParseTuple, PyLong_FromLong
 
 Observe that the Python-side name of the exception object is `spam.error`. The [`PyErr_NewException()`](https://docs.python.org/3.14/c-api/exceptions.html#c.PyErr_NewException) function can construct a class whose base is [`Exception`](https://docs.python.org/3.14/library/exceptions.html#Exception) (unless you supply some other class in place of `NULL`), as covered in [Built-in Exceptions](https://docs.python.org/3.14/library/exceptions.html#bltin-exceptions).
 

@@ -1,4 +1,4 @@
-# enum — Notes
+# enum - Notes
 
 ### Notes
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / PEP 492 - Coroutines with async and await syntax — asyncio-eventloop
+# What’s New In Python 3.5 / PEP 492 - Coroutines with async and await syntax - asyncio-eventloop
 
 ### New Features
 

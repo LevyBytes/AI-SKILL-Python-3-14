@@ -1,4 +1,4 @@
-# Abstract Protocol Support — PyNumberMethods, tp_as_number, PySequenceMethods, tp_as_sequence, PyMappingMethods, tp_as_mapping, tp_hash, Py_hash_t, PyObject, PyTypeObject, tp_call, PyArg_ParseTuple, PyArg_ParseTupleAndKeywords
+# Abstract Protocol Support - PyNumberMethods, tp_as_number, PySequenceMethods, tp_as_sequence, PyMappingMethods, tp_as_mapping, tp_hash, Py_hash_t, PyObject, PyTypeObject, tp_call, PyArg_ParseTuple, PyArg_ParseTupleAndKeywords
 
 ### 3.5. Abstract Protocol Support
 

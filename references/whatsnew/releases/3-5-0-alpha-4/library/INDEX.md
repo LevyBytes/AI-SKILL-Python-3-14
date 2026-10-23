@@ -37,4 +37,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 alpha 4 / library / tkinter tkapp getboolean accepts tcl obj while always yielding bool: [Python 3.5.0 alpha 4 / library / tkinter tkapp getboolean accepts tcl obj while always yielding bool](tk-boolean-conversion-from-tcl-objects.md).
 - Open when checking Python 3.5.0 alpha 4 / library / urllib request: [Python 3.5.0 alpha 4 / library / urllib request](urllib-request.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

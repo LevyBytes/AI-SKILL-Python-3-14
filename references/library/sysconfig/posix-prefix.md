@@ -1,4 +1,4 @@
-# sysconfig — `posix_prefix`
+# sysconfig`posix_prefix`
 
 ### `posix_prefix`
 

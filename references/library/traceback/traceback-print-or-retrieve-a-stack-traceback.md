@@ -1,6 +1,6 @@
-# traceback — `traceback` — Print or retrieve a stack traceback
+# traceback`traceback` - Print or retrieve a stack traceback
 
-### `traceback` — Print or retrieve a stack traceback
+### `traceback` - Print or retrieve a stack traceback
 
 **Source code:** [Lib/traceback.py](https://github.com/python/cpython/tree/3.14/Lib/traceback.py)
 
@@ -14,7 +14,7 @@ See also
 
 Module [`faulthandler`](https://docs.python.org/3.14/library/faulthandler.html#module-faulthandler)
 
-Dumps Python tracebacks on demand — when a fault hits, when a timeout elapses, or in response to a signal the user sends.
+Dumps Python tracebacks on demand: when a fault hits, when a timeout elapses, or in response to a signal the user sends.
 
 Module [`pdb`](https://docs.python.org/3.14/library/pdb.html#module-pdb)
 

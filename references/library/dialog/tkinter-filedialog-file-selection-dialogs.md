@@ -1,6 +1,6 @@
-# tkinter.filedialog — `tkinter.filedialog` — File selection dialogs
+# tkinter.filedialog`tkinter.filedialog` - File selection dialogs
 
-### `tkinter.filedialog` — File selection dialogs
+### `tkinter.filedialog` - File selection dialogs
 
 **Source code:** [Lib/tkinter/filedialog.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/filedialog.py)
 

@@ -1,4 +1,4 @@
-# argparse — ArgumentParser objects
+# argparse - ArgumentParser objects
 
 ### ArgumentParser objects
 

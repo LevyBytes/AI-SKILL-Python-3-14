@@ -1,4 +1,4 @@
-# binascii — Convert between binary and ASCII
+# binascii - Convert between binary and ASCII
 
 # Binascii, Bisect, Builtins
 
@@ -6,6 +6,6 @@
 
 In scope here: the binascii — Convert between binary and ASCII topic; next, bisect — Array bisection algorithm; and finally builtins — Built-in objects.
 
-## binascii — Convert between binary and ASCII
+## binascii - Convert between binary and ASCII
 
 [Subject index](INDEX.md) · [Continue](binascii-a2b-uu-to-binascii-crc32.md)

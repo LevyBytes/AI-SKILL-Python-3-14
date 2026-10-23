@@ -1,4 +1,4 @@
-# decimal — Special values
+# decimal - Special values
 
 ### Special values
 

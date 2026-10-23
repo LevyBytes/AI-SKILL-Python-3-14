@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Notable changes in Python 3.6.10 — asyncio-eventloop
+# What's New In Python 3.6 / Notable changes in Python 3.6.10 - asyncio-eventloop
 
 ### Notable changes in Python 3.6.10
 

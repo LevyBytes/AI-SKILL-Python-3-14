@@ -3,6 +3,6 @@
   {"topic": "pyclbr: Class browser source-file and definition metadata", "file": "pyclbr/class-objects.md", "summary": "Open when checking class browser source-file and definition metadata in pyclbr.", "keywords": []},
   {"topic": "pyclbr: `pyclbr.Function`", "file": "pyclbr/pyclbr-function-class.md", "summary": "Open when checking the documented contracts for `pyclbr.Function` in pyclbr.", "keywords": []},
   {"topic": "pyclbr: Function browser source-file and definition metadata", "file": "pyclbr/function-objects.md", "summary": "Open when checking function browser source-file and definition metadata in pyclbr.", "keywords": []},
-  {"topic": "pyclbr — `pyclbr` — Python module browser support", "file": "pyclbr/pyclbr-readmodule-to-pyclbr-readmodule-ex.md", "summary": "Open when checking pyclbr — `pyclbr` — Python module browser support.", "keywords": []},
+  {"topic": "pyclbr - `pyclbr` - Python module browser support", "file": "pyclbr/pyclbr-readmodule-to-pyclbr-readmodule-ex.md", "summary": "Open when checking pyclbr - `pyclbr` - Python module browser support.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

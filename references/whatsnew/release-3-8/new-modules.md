@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / New Modules — importlib.metadata
+# What’s New In Python 3.8 / New Modules - importlib.metadata
 
 > (Contributed by Pierre Glaser and Olivier Grisel in [bpo-35900](https://bugs.python.org/issue?@action=redirect&bpo=35900).)
 

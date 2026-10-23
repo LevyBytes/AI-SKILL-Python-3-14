@@ -1,4 +1,4 @@
-# hashlib — SHAKE variable length digests
+# hashlib - SHAKE variable length digests
 
 ### SHAKE variable length digests
 

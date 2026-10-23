@@ -22,4 +22,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 1 / windows / winreg: [Python 3.7.0 alpha 1 / windows / winreg](winreg.md).
 - Open when checking Python 3.7.0 alpha 1 / windows / zlib: [Python 3.7.0 alpha 1 / windows / zlib](zlib.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

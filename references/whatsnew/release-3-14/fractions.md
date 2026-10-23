@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / fractions — fractions
+# What's new in Python 3.14 / fractions - fractions
 
 ### fractions
 

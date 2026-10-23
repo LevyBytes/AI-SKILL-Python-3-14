@@ -1,6 +1,6 @@
-# cmath — `cmath` — Mathematical functions for complex numbers
+# cmath`cmath` - Mathematical functions for complex numbers
 
-### `cmath` — Mathematical functions for complex numbers
+### `cmath` - Mathematical functions for complex numbers
 
 ---
 

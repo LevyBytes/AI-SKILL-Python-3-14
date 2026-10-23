@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / os — os
+# What's new in Python 3.14 / os - os
 
 ### os
 

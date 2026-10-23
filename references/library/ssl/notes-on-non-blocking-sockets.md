@@ -1,4 +1,4 @@
-# ssl — Notes on non-blocking sockets
+# ssl - Notes on non-blocking sockets
 
 ### Notes on non-blocking sockets
 

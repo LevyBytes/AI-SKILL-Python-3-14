@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking type PyDateTime_DateTime: [type PyDateTime_DateTime](pydatetime-datetime.md).
 - Open when checking type PyDateTime_Time: [type PyDateTime_Time](pydatetime-time.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

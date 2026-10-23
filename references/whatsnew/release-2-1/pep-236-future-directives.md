@@ -1,4 +1,4 @@
-# What’s New in Python 2.1 / PEP 236: __future__ Directives — __future__
+# What’s New in Python 2.1 / PEP 236: __future__ Directives - __future__
 
 ### PEP 236: __future__ Directives
 

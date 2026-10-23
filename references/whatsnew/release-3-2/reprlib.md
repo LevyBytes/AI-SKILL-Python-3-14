@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / reprlib — reprlib
+# What's New In Python 3.2 / reprlib - reprlib
 
 ### reprlib
 

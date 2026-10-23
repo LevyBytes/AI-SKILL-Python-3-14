@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.1 release candidate 1 / tests / regrtest command line j0 may no longer paired t: [Python 3.6.1 release candidate 1 / tests / regrtest command line j0 may no longer paired t](regrtest-command-line-j0-may-no-longer-paired-t.md).
 - Open when checking Python 3.6.1 release candidate 1 / tests / socket: [Python 3.6.1 release candidate 1 / tests / socket](socket.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

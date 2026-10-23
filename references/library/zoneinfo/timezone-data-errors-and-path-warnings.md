@@ -1,4 +1,4 @@
-# zoneinfo — Exceptions and warnings
+# zoneinfo - Exceptions and warnings
 
 ### Exceptions and warnings
 

@@ -1,4 +1,4 @@
-# tkinter.ttk — Platform-specific notes
+# tkinter.ttk - Platform-specific notes
 
 ### Platform-specific notes
 

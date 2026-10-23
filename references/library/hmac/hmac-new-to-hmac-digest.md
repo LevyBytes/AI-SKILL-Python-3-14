@@ -1,8 +1,8 @@
 # hmac: `hmac.new()`, `hmac.digest()`
 
-## hmac — Keyed-Hashing for Message Authentication
+## hmac - Keyed-Hashing for Message Authentication
 
-### `hmac` — Keyed-Hashing for Message Authentication
+### `hmac` - Keyed-Hashing for Message Authentication
 
 **Source code:** [Lib/hmac.py](https://github.com/python/cpython/tree/3.14/Lib/hmac.py)
 

@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `xml.dom.pulldom.SAX2DOM` in xml.dom.pulldom. [xml.dom.pulldom: `xml.dom.pulldom.SAX2DOM`](xml-dom-pulldom-sax2dom-class.md).
 - Open when checking the documented contracts for `xml.dom.pulldom.parse()`, `xml.dom.pulldom.parseString()`, `xml.dom.pulldom.default_bufsize` in xml.dom.pulldom. [xml.dom.pulldom: `xml.dom.pulldom.parse()`, `xml.dom.pulldom.parseString()`, `xml.dom.pulldom.default_bufsize`](xml-dom-pulldom-parse-to-xml-dom-pulldom-default-bufsize.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

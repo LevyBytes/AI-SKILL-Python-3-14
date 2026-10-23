@@ -20,12 +20,12 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `enum.ReprEnum` in enum. [enum: `enum.ReprEnum`](enum-reprenum-class.md).
 - Open when checking the documented contracts for `enum.EnumCheck` in enum. [enum: `enum.EnumCheck`](enum-enumcheck-class.md).
 - Open when checking the documented contracts for `enum.FlagBoundary` in enum. [enum: `enum.FlagBoundary`](enum-flagboundary-class.md).
-- Open when checking enum — enum.FlagBoundary KEEP behavior and IntFlag default: [enum — enum.FlagBoundary KEEP behavior and IntFlag default](enum-flagboundary-keep-behavior-and-intflag-default.md).
-- Open when checking enum — `enum` — Support for enumerations: [enum — `enum` — Support for enumerations](enum-support-for-enumerations.md).
-- Open when checking enum — Notes: [enum — Notes](notes.md).
+- Open when checking enum - enum.FlagBoundary KEEP behavior and IntFlag default: [enum - enum.FlagBoundary KEEP behavior and IntFlag default](enum-flagboundary-keep-behavior-and-intflag-default.md).
+- Open when checking enum`enum` - Support for enumerations: [enum`enum` - Support for enumerations](enum-support-for-enumerations.md).
+- Open when checking enum - Notes: [enum - Notes](notes.md).
 - Open when checking the documented contracts for `property()`, `unique()` in enum / Module contents. [enum / Module contents: `property()`, `unique()`](property-to-unique.md).
 - Open when checking the documented contracts for `verify()`, `member()`, `nonmember()`, `global_enum()`, `show_flag_values()`, `enum.bin()` in enum / Module contents. [enum / Module contents: `verify()`, `member()`, `nonmember()`, `global_enum()`, `show_flag_values()`, `enum.bin()`](verify-to-enum-bin.md).
-- Open when checking enum — Supported `__dunder__` names: [enum — Supported `__dunder__` names](supported-dunder-names.md).
-- Open when checking enum — Supported `_sunder_` names: [enum — Supported `_sunder_` names](supported-sunder-names.md).
+- Open when checking enum - Supported `__dunder__` names: [enum - Supported `__dunder__` names](supported-dunder-names.md).
+- Open when checking enum - Supported `_sunder_` names: [enum - Supported `_sunder_` names](supported-sunder-names.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

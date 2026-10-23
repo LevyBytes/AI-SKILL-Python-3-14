@@ -2,7 +2,7 @@
   {"topic": "stdtypes / dict: `list()`, `len()`, `iter()`, `clear()`, `copy()`, `fromkeys()`, `get()`, `items()`, `keys()`, `pop()`", "file": "stdtypes/dict-dict-dict-list-to-dict-dict-dict-pop.md", "summary": "Open when checking the documented contracts for `list()`, `len()`, `iter()`, `clear()`, `copy()`, `fromkeys()`, `get()`, `items()`, `keys()`, `pop()` in stdtypes / dict.", "keywords": []},
   {"topic": "stdtypes / dict: `popitem()`, `reversed()`, `setdefault()`, `update()`, `values()`", "file": "stdtypes/dict-dict-dict-popitem-to-dict-dict-dict-values.md", "summary": "Open when checking the documented contracts for `popitem()`, `reversed()`, `setdefault()`, `update()`, `values()` in stdtypes / dict.", "keywords": []},
   {"topic": "stdtypes: `dict`", "file": "stdtypes/dict-class-to-dict-class.md", "summary": "Open when checking the documented contracts for `dict` in stdtypes.", "keywords": []},
-  {"topic": "Mapping Types — dict / Mapping Types and dict construction", "file": "stdtypes/mapping-types-and-dict-construction.md", "summary": "Open when checking Mapping Types and dict construction.", "keywords": []},
-  {"topic": "Mapping Types — dict / Dictionary view objects", "file": "stdtypes/len-to-dictview-mapping.md", "summary": "Open when checking Dictionary view objects.", "keywords": []},
+  {"topic": "Mapping Types - dict / Mapping Types and dict construction", "file": "stdtypes/mapping-types-and-dict-construction.md", "summary": "Open when checking Mapping Types and dict construction.", "keywords": []},
+  {"topic": "Mapping Types - dict / Dictionary view objects", "file": "stdtypes/len-to-dictview-mapping.md", "summary": "Open when checking Dictionary view objects.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# unittest.mock — Applying the same patch to every test method
+# unittest.mock - Applying the same patch to every test method
 
 ### Applying the same patch to every test method
 

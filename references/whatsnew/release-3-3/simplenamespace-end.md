@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / SimpleNamespace end — types
+# What's New In Python 3.3 / SimpleNamespace end - types
 
 A fresh type arrives in Python alongside the `sys.implementation` work: [`types.SimpleNamespace`](https://docs.python.org/3.14/library/types.html#types.SimpleNamespace). Where a mapping-style namespace such as [`dict`](https://docs.python.org/3.14/library/stdtypes.html#dict) keys its contents, `SimpleNamespace` reaches its members by attribute, the way [`object`](https://docs.python.org/3.14/library/functions.html#object) does. The difference from `object` is that a `SimpleNamespace` instance permits writing. Ordinary attribute access therefore lets you insert, drop, and edit entries within the namespace.
 

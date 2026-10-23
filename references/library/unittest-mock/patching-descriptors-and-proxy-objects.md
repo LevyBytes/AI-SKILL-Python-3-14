@@ -1,4 +1,4 @@
-# unittest.mock — Patching Descriptors and Proxy Objects
+# unittest.mock - Patching Descriptors and Proxy Objects
 
 ### Patching Descriptors and Proxy Objects
 

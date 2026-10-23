@@ -1,4 +1,4 @@
-# optparse — Callback example 6: variable arguments
+# optparse - Callback example 6: variable arguments
 
 ### Callback example 6: variable arguments
 

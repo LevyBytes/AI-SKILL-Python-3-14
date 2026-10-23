@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / email / Policy Framework — email.compat32-message, email.generator, email.parser, email.policy
+# What's New In Python 3.3 / email / Policy Framework - email.compat32-message, email.generator, email.parser, email.policy
 
 ### email
 

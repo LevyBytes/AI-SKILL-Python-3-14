@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Changes in the Python API — argparse, asyncio, functools, locale, os, shlex, shutil, sys, syslog, tarfile, tokenize
+# What’s New In Python 3.12 / Changes in the Python API - argparse, asyncio, functools, locale, os, shlex, shutil, sys, syslog, tarfile, tokenize
 
 ### Changes in the Python API
 

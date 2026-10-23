@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / **PEP 734**: Multiple interpreters in the standard library — concurrent.interpreters, multiprocessing, threading
+# What's new in Python 3.14 / **PEP 734**: Multiple interpreters in the standard library - concurrent.interpreters, multiprocessing, threading
 
 ### [**PEP 734**](https://peps.python.org/pep-0734/): Multiple interpreters in the standard library
 

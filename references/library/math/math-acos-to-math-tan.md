@@ -1,4 +1,4 @@
-# math — Trigonometric functions
+# math - Trigonometric functions
 
 ### Trigonometric functions
 

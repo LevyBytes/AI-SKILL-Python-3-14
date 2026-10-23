@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "html.entities — `html.entities` — Definitions of HTML general entities", "file": "html-entities/html-entities-html5-to-html-entities-codepoint2name.md", "summary": "Open when checking html.entities — `html.entities` — Definitions of HTML general entities.", "keywords": []},
+    {"topic": "html.entities - `html.entities` - Definitions of HTML general entities", "file": "html-entities/html-entities-html5-to-html-entities-codepoint2name.md", "summary": "Open when checking html.entities - `html.entities` - Definitions of HTML general entities.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

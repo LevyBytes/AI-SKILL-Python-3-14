@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / argparse — argparse
+# What's New In Python 3.7 / argparse - argparse
 
 ### Improved Modules
 

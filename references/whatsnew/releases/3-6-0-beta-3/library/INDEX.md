@@ -23,4 +23,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 beta 3 / library / text and unicode: [Python 3.6.0 beta 3 / library / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.6.0 beta 3 / library / webbrowser: [Python 3.6.0 beta 3 / library / webbrowser](webbrowser.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

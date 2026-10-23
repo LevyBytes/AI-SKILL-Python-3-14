@@ -2,55 +2,55 @@
 
 Select by the documented task or API context. [Topic catalog](topics.json).
 
-- Open when checking optparse — `optparse` — Parser for command line options. [Overview and scope / optparse — `optparse` — Parser for command line options](optparse-parser-for-command-line-options.md).
-- Open when checking optparse — Choosing an argument parsing library — Section introduction and initial examples. [Choosing an argument parsing library / optparse — Choosing an argument parsing library — Section introduction and initial examples](argument-parser-library-selection-overview.md).
-- Open when checking optparse — Choosing an argument parsing library — Contract: handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values). [Choosing an argument parsing library / optparse — Choosing an argument parsing library — Contract: handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values)](argparse-option-value-differences.md).
-- Open when checking optparse — Introduction. [Introduction / optparse — Introduction](introduction.md).
-- Open when checking optparse — Background. [Background / optparse — Background](background.md).
-- Open when checking optparse — Terminology. [Background / optparse — Terminology](terminology.md).
-- Open when checking optparse — What are options for? [Background / optparse — What are options for?](what-are-options-for.md).
-- Open when checking optparse — What are positional arguments for? [Background / optparse — What are positional arguments for?](what-are-positional-arguments-for.md).
-- Open when checking optparse — Tutorial. [Tutorial / optparse — Tutorial](tutorial.md).
-- Open when checking optparse — Understanding option actions. [Tutorial / optparse — Understanding option actions](understanding-option-actions.md).
-- Open when checking optparse — The store action. [Tutorial / optparse — The store action](the-store-action.md).
-- Open when checking optparse — Handling boolean (flag) options. [Tutorial / optparse — Handling boolean (flag) options](handling-boolean-flag-options.md).
-- Open when checking optparse — Other actions. [Tutorial / optparse — Other actions](other-actions.md).
-- Open when checking optparse — Default values. [Tutorial / optparse — Default values](default-values.md).
-- Open when checking optparse — Generating help. [Tutorial / optparse — Generating help](generating-help.md).
+- Open when checking optparse`optparse` - Parser for command line options. [Overview and scope / optparse`optparse` - Parser for command line options](optparse-parser-for-command-line-options.md).
+- Open when checking optparse - Choosing an argument parsing library - Section introduction and initial examples. [Choosing an argument parsing library / optparse - Choosing an argument parsing library - Section introduction and initial examples](argument-parser-library-selection-overview.md).
+- Open when checking optparse - Choosing an argument parsing library - Contract: handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values). [Choosing an argument parsing library / optparse - Choosing an argument parsing library - Contract: handing in `-o=foo` yields `output="=foo"` under `optparse`, but yields `output="foo"` under `argparse` (because `=` is special cased as an alternate separator for option parameter values)](argparse-option-value-differences.md).
+- Open when checking optparse - Introduction. [Introduction / optparse - Introduction](introduction.md).
+- Open when checking optparse - Background. [Background / optparse - Background](background.md).
+- Open when checking optparse - Terminology. [Background / optparse - Terminology](terminology.md).
+- Open when checking optparse - What are options for? [Background / optparse - What are options for?](what-are-options-for.md).
+- Open when checking optparse - What are positional arguments for? [Background / optparse - What are positional arguments for?](what-are-positional-arguments-for.md).
+- Open when checking optparse - Tutorial. [Tutorial / optparse - Tutorial](tutorial.md).
+- Open when checking optparse - Understanding option actions. [Tutorial / optparse - Understanding option actions](understanding-option-actions.md).
+- Open when checking optparse - The store action. [Tutorial / optparse - The store action](the-store-action.md).
+- Open when checking optparse - Handling boolean (flag) options. [Tutorial / optparse - Handling boolean (flag) options](handling-boolean-flag-options.md).
+- Open when checking optparse - Other actions. [Tutorial / optparse - Other actions](other-actions.md).
+- Open when checking optparse - Default values. [Tutorial / optparse - Default values](default-values.md).
+- Open when checking optparse - Generating help. [Tutorial / optparse - Generating help](generating-help.md).
 - Open when checking OptionGroup construction and help organization in optparse. [optparse: OptionGroup construction and help organization](grouping-options.md).
 - Open when checking the documented contracts for `OptionParser.get_option_group()` in optparse. [optparse: `OptionParser.get_option_group()`](optionparser-get-option-group.md).
-- Open when checking optparse — Grouping Options — Signature and initial contract. [Tutorial / optparse — Grouping Options — Signature and initial contract](optparse-optiongroup-class.md).
-- Open when checking optparse — Grouping Options — Code example: Usage: &lt;yourscript&gt; [options] arg1 arg2. [Tutorial / optparse — Grouping Options — Code example: Usage: &lt;yourscript&gt; \[options\] arg1 arg2](option-group-help-example.md).
-- Open when checking optparse — Printing a version string. [Tutorial / optparse — Printing a version string](optionparser-print-version-to-optionparser-get-version.md).
-- Open when checking optparse — How `optparse` handles errors. [Tutorial / optparse — How `optparse` handles errors](how-optparse-handles-errors.md).
-- Open when checking optparse — Putting it all together. [Tutorial / optparse — Putting it all together](putting-it-all-together.md).
-- Open when checking optparse — Creating the parser. [Reference Guide / optparse — Creating the parser](optparse-optionparser-class.md).
-- Open when checking optparse — Populating the parser. [Reference Guide / optparse — Populating the parser](populating-the-parser.md).
+- Open when checking optparse - Grouping Options - Signature and initial contract. [Tutorial / optparse - Grouping Options - Signature and initial contract](optparse-optiongroup-class.md).
+- Open when checking optparse - Grouping Options - Code example: Usage: &lt;yourscript&gt; [options] arg1 arg2. [Tutorial / optparse - Grouping Options - Code example: Usage: &lt;yourscript&gt; \[options\] arg1 arg2](option-group-help-example.md).
+- Open when checking optparse - Printing a version string. [Tutorial / optparse - Printing a version string](optionparser-print-version-to-optionparser-get-version.md).
+- Open when checking optparse - How `optparse` handles errors. [Tutorial / optparse - How `optparse` handles errors](how-optparse-handles-errors.md).
+- Open when checking optparse - Putting it all together. [Tutorial / optparse - Putting it all together](putting-it-all-together.md).
+- Open when checking optparse - Creating the parser. [Reference Guide / optparse - Creating the parser](optparse-optionparser-class.md).
+- Open when checking optparse - Populating the parser. [Reference Guide / optparse - Populating the parser](populating-the-parser.md).
 - Open when checking the documented contracts for `OptionParser.add_option()` in optparse. [optparse: `OptionParser.add_option()`](optionparser-add-option.md).
 - Open when checking the documented contracts for `optparse.Values` in optparse. [optparse: `optparse.Values`](optparse-values-class.md).
 - Open when checking the documented contracts for `optparse.Option` in optparse. [optparse: `optparse.Option`](optparse-option-class.md).
 - Open when checking the documented contracts for `Option.action`, `Option.type`, `Option.dest`, `Option.default`, `Option.nargs`, `Option.const`, `Option.choices`, `Option.callback`, `Option.callback_args`, `Option.callback_kwargs`, `Option.help`, `Option.metavar` in optparse. [optparse: `Option.action`, `Option.type`, `Option.dest`, `Option.default`, `Option.nargs`, `Option.const`, `Option.choices`, `Option.callback`, `Option.callback_args`, `Option.callback_kwargs`, `Option.help`, `Option.metavar`](option-action-to-option-metavar.md).
-- Open when checking optparse — Standard option actions — Section introduction and initial examples. [Reference Guide / optparse — Standard option actions — Section introduction and initial examples](standard-option-actions-overview.md).
-- Open when checking optparse — Standard option actions — Code example: parser.add_option("--clobber", action="store_true", dest="clobber"). [Reference Guide / optparse — Standard option actions — Code example: parser.add_option("--clobber", action="store_true", dest="clobber")](boolean-option-action-example.md).
-- Open when checking optparse — Standard option actions — Contract: Call the function specified by `callback`, which is called as. [Reference Guide / optparse — Standard option actions — Contract: Call the function specified by `callback`, which is called as](option-action-callback-contract.md).
-- Open when checking optparse — Standard option types. [Reference Guide / optparse — Standard option types](standard-option-types.md).
-- Open when checking optparse — Parsing arguments. [Reference Guide / optparse — Parsing arguments](optionparser-parse-args.md).
-- Open when checking optparse — Querying and manipulating your option parser. [Reference Guide / optparse — Querying and manipulating your option parser](option-parser-interspersing-and-option-removal.md).
-- Open when checking optparse — Conflicts between options. [Reference Guide / optparse — Conflicts between options](conflicts-between-options.md).
-- Open when checking optparse — Cleanup. [Reference Guide / optparse — Cleanup](cleanup.md).
-- Open when checking optparse — Other methods. [Reference Guide / optparse — Other methods](optionparser-set-usage-to-optionparser-set-defaults.md).
-- Open when checking optparse — Option Callbacks. [Option Callbacks / optparse — Option Callbacks](option-callbacks.md).
-- Open when checking optparse — Defining a callback option. [Option Callbacks / optparse — Defining a callback option](defining-a-callback-option.md).
-- Open when checking optparse — How callbacks are called. [Option Callbacks / optparse — How callbacks are called](parser-largs-to-parser-values.md).
-- Open when checking optparse — Raising errors in a callback. [Option Callbacks / optparse — Raising errors in a callback](raising-errors-in-a-callback.md).
-- Open when checking optparse — Callback example 1: trivial callback. [Option Callbacks / optparse — Callback example 1: trivial callback](callback-example-1-trivial-callback.md).
-- Open when checking optparse — Callback example 2: check option order. [Option Callbacks / optparse — Callback example 2: check option order](callback-example-2-check-option-order.md).
-- Open when checking optparse — Callback example 3: check option order (generalized). [Option Callbacks / optparse — Callback example 3: check option order (generalized)](callback-example-3-check-option-order-generalized.md).
-- Open when checking optparse — Callback example 4: check arbitrary condition. [Option Callbacks / optparse — Callback example 4: check arbitrary condition](callback-example-4-check-arbitrary-condition.md).
-- Open when checking optparse — Callback example 5: fixed arguments. [Option Callbacks / optparse — Callback example 5: fixed arguments](callback-example-5-fixed-arguments.md).
-- Open when checking optparse — Callback example 6: variable arguments. [Option Callbacks / optparse — Callback example 6: variable arguments](callback-example-6-variable-arguments.md).
-- Open when checking optparse — Extending `optparse`. [Extending optparse / optparse — Extending `optparse`](extending-optparse.md).
-- Open when checking optparse — Adding new types. [Extending optparse / optparse — Adding new types](option-types-to-option-type-checker.md).
-- Open when checking optparse — Adding new actions. [Extending optparse / optparse — Adding new actions](option-actions-to-option-always-typed-actions.md).
+- Open when checking optparse - Standard option actions - Section introduction and initial examples. [Reference Guide / optparse - Standard option actions - Section introduction and initial examples](standard-option-actions-overview.md).
+- Open when checking optparse - Standard option actions - Code example: parser.add_option("--clobber", action="store_true", dest="clobber"). [Reference Guide / optparse - Standard option actions - Code example: parser.add_option("--clobber", action="store_true", dest="clobber")](boolean-option-action-example.md).
+- Open when checking optparse - Standard option actions - Contract: Call the function specified by `callback`, which is called as. [Reference Guide / optparse - Standard option actions - Contract: Call the function specified by `callback`, which is called as](option-action-callback-contract.md).
+- Open when checking optparse - Standard option types. [Reference Guide / optparse - Standard option types](standard-option-types.md).
+- Open when checking optparse - Parsing arguments. [Reference Guide / optparse - Parsing arguments](optionparser-parse-args.md).
+- Open when checking optparse - Querying and manipulating your option parser. [Reference Guide / optparse - Querying and manipulating your option parser](option-parser-interspersing-and-option-removal.md).
+- Open when checking optparse - Conflicts between options. [Reference Guide / optparse - Conflicts between options](conflicts-between-options.md).
+- Open when checking optparse - Cleanup. [Reference Guide / optparse - Cleanup](cleanup.md).
+- Open when checking optparse - Other methods. [Reference Guide / optparse - Other methods](optionparser-set-usage-to-optionparser-set-defaults.md).
+- Open when checking optparse - Option Callbacks. [Option Callbacks / optparse - Option Callbacks](option-callbacks.md).
+- Open when checking optparse - Defining a callback option. [Option Callbacks / optparse - Defining a callback option](defining-a-callback-option.md).
+- Open when checking optparse - How callbacks are called. [Option Callbacks / optparse - How callbacks are called](parser-largs-to-parser-values.md).
+- Open when checking optparse - Raising errors in a callback. [Option Callbacks / optparse - Raising errors in a callback](raising-errors-in-a-callback.md).
+- Open when checking optparse - Callback example 1: trivial callback. [Option Callbacks / optparse - Callback example 1: trivial callback](callback-example-1-trivial-callback.md).
+- Open when checking optparse - Callback example 2: check option order. [Option Callbacks / optparse - Callback example 2: check option order](callback-example-2-check-option-order.md).
+- Open when checking optparse - Callback example 3: check option order (generalized). [Option Callbacks / optparse - Callback example 3: check option order (generalized)](callback-example-3-check-option-order-generalized.md).
+- Open when checking optparse - Callback example 4: check arbitrary condition. [Option Callbacks / optparse - Callback example 4: check arbitrary condition](callback-example-4-check-arbitrary-condition.md).
+- Open when checking optparse - Callback example 5: fixed arguments. [Option Callbacks / optparse - Callback example 5: fixed arguments](callback-example-5-fixed-arguments.md).
+- Open when checking optparse - Callback example 6: variable arguments. [Option Callbacks / optparse - Callback example 6: variable arguments](callback-example-6-variable-arguments.md).
+- Open when checking optparse - Extending `optparse`. [Extending optparse / optparse - Extending `optparse`](extending-optparse.md).
+- Open when checking optparse - Adding new types. [Extending optparse / optparse - Adding new types](option-types-to-option-type-checker.md).
+- Open when checking optparse - Adding new actions. [Extending optparse / optparse - Adding new actions](option-actions-to-option-always-typed-actions.md).
 - Open when checking optparse.Option.take_action custom action example. [Exceptions / optparse.Option.take_action custom action example](optparse-optionerror-to-optparse-ambiguousoptionerror.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

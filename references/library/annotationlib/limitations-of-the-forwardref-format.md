@@ -1,4 +1,4 @@
-# annotationlib — Limitations of the `FORWARDREF` format
+# annotationlib - Limitations of the `FORWARDREF` format
 
 ### Limitations of the `FORWARDREF` format
 

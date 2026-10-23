@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / sndhdr — collections
+# What’s New In Python 3.5 / sndhdr - collections
 
 ### sndhdr
 

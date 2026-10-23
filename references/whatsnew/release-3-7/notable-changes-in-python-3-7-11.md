@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Notable changes in Python 3.7.11 — ftplib, urllib.parse
+# What's New In Python 3.7 / Notable changes in Python 3.7.11 - ftplib, urllib.parse
 
 ### Notable changes in Python 3.7.11
 

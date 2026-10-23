@@ -1,4 +1,4 @@
-# Calling Python functions from C — Py_INCREF, PyObject, PyArg_ParseTuple, PyCallable_Check, PyErr_SetString, PyExc_TypeError, Py_XINCREF, Py_XDECREF, Py_None, PyObject_CallObject, Py_BuildValue, Py_DECREF, PyErr_Clear
+# Calling Python functions from C - Py_INCREF, PyObject, PyArg_ParseTuple, PyCallable_Check, PyErr_SetString, PyExc_TypeError, Py_XINCREF, Py_XDECREF, Py_None, PyObject_CallObject, Py_BuildValue, Py_DECREF, PyErr_Clear
 
 Happily, recursive invocation of the Python interpreter is straightforward, and a standard interface exists for invoking a Python function. (I won't go into detail about feeding the Python parser a specific string as input — should that interest you, examine how the [`-c`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-c) command line option is implemented in `Modules/main.c` within the Python source code.)
 

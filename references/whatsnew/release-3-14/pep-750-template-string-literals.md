@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / **PEP 750**: Template string literals — string.templatelib
+# What's new in Python 3.14 / **PEP 750**: Template string literals - string.templatelib
 
 ### [**PEP 750**](https://peps.python.org/pep-0750/): Template string literals
 

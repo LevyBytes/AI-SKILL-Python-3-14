@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Defined mutation semantics for `locals()` — runpy
+# What's New In Python 3.13 / Defined mutation semantics for `locals()` - runpy
 
 > (JIT by Brandt Bucher, inspired by a paper by Haoran Xu and Fredrik Kjolstad. Tier 2 IR by Mark Shannon and Guido van Rossum. Tier 2 optimizer by Ken Jin.)
 

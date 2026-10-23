@@ -1,4 +1,4 @@
-# logging.config — Dictionary Schema Details — Section introduction and initial examples
+# logging.config - Dictionary Schema Details - Section introduction and initial examples
 
 ### Dictionary Schema Details
 

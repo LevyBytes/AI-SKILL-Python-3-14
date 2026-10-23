@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / nntplib — socket
+# What's New In Python 3.3 / nntplib - socket
 
 The `nntplib.NNTP` class gained support for the context management protocol, which unconditionally absorbs [`socket.error`](https://docs.python.org/3.14/library/socket.html#socket.error) exceptions and tears down the NNTP connection once finished:
 

@@ -1,8 +1,8 @@
-# asyncio — `asyncio` — Asynchronous I/O — Section introduction and initial examples
+# asyncio`asyncio` - Asynchronous I/O - Section introduction and initial examples
 
-## asyncio — Asynchronous I/O
+## asyncio - Asynchronous I/O
 
-### `asyncio` — Asynchronous I/O
+### `asyncio` - Asynchronous I/O
 
 ---
 

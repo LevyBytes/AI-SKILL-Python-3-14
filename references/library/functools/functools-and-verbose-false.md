@@ -1,4 +1,4 @@
-# functools — `functools` — Higher-order functions and operations on callable objects — Code example: >>> def nothing(arg, verbose=False):
+# functools`functools` - Higher-order functions and operations on callable objects - Code example: >>> def nothing(arg, verbose=False):
 
 ```python
 >>> def nothing(arg, verbose=False):

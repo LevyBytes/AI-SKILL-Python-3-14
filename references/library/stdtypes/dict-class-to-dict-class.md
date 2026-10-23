@@ -1,6 +1,6 @@
 # stdtypes: `dict`
 
-### Mapping Types — `dict`
+### Mapping Types`dict`
 
 A [mapping](https://docs.python.org/3.14/glossary.html#term-mapping) object pairs [hashable](https://docs.python.org/3.14/glossary.html#term-hashable) values with arbitrary objects. Mappings are mutable objects. As things stand there is just one standard mapping type, the *dictionary*. (Regarding other containers, consult the built-in `list`, `set`, and `tuple` classes along with the [`collections`](https://docs.python.org/3.14/library/collections.html#module-collections) module.)
 

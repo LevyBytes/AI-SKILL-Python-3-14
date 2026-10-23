@@ -1,4 +1,4 @@
-# dataclasses — Module contents — Contract: *match_args*: When true (where the default is `True`), the `__match_args__` tuple gets assembled from the non keyword-only parameters of the generated `__init__()` method (this holds even where `__init__()` itself is not generated, per above).
+# dataclasses - Module contents - Contract: *match_args*: When true (where the default is `True`), the `__match_args__` tuple gets assembled from the non keyword-only parameters of the generated `__init__()` method (this holds even where `__init__()` itself is not generated, per above).
 
 *match_args*: When true (where the default is `True`), the [`__match_args__`](https://docs.python.org/3.14/reference/datamodel.html#object.__match_args__) tuple gets assembled from the non keyword-only parameters of the generated [`__init__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__init__) method (this holds even where `__init__()` itself is not generated, per above). When false, or where `__match_args__` is already defined in the class, no `__match_args__` is generated.
 

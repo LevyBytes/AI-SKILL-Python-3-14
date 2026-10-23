@@ -1,4 +1,4 @@
-# contextlib — Using a context manager as a function decorator
+# contextlib - Using a context manager as a function decorator
 
 ### Using a context manager as a function decorator
 

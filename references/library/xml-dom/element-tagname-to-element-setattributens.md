@@ -1,4 +1,4 @@
-# xml.dom — Element Objects
+# xml.dom - Element Objects
 
 ### Element Objects
 

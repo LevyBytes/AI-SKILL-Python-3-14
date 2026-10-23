@@ -1,4 +1,4 @@
-# Audit events table — smtplib
+# Audit events table - smtplib
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

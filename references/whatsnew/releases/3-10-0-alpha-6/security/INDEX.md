@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 6 / security / set: [Python 3.10.0 alpha 6 / security / set](set.md).
 - Open when checking Python 3.10.0 alpha 6 / security / types: [Python 3.10.0 alpha 6 / security / types](types.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

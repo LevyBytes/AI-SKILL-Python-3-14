@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Changes in the Python API — base64, binascii, cmath, functools, http.client, importlib, inspect, py_compile, ssl, sys
+# What's New In Python 3.4 / Changes in the Python API - base64, binascii, cmath, functools, http.client, importlib, inspect, py_compile, ssl, sys
 
 ### Changes in the Python API
 

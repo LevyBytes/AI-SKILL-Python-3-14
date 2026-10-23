@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / email — email, email.compat32-message, email.generator, email.message, email.mime, email.policy
+# What's New In Python 3.6 / email - email, email.compat32-message, email.generator, email.message, email.mime, email.policy
 
 ### email
 

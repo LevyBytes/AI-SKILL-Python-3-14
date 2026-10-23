@@ -8,6 +8,6 @@
   {"topic": "http.server.BaseHTTPRequestHandler: `address_string()`", "file": "http-server/http-server-basehttprequesthandler-address-string.md", "summary": "Open when checking the documented contracts for `address_string()` in http.server.BaseHTTPRequestHandler.", "keywords": []},
   {"topic": "http.server / HTTP servers: `http.server.SimpleHTTPRequestHandler`, `do_HEAD()`, `do_GET()`", "file": "simple-http-file-request-handler.md", "summary": "Open when checking the documented contracts for `http.server.SimpleHTTPRequestHandler`, `do_HEAD()`, `do_GET()` in http.server / HTTP servers.", "keywords": []},
   {"topic": "http.server / HTTP servers: `http.server.CGIHTTPRequestHandler`, `do_POST()`", "file": "cgi-request-handler-and-post.md", "summary": "Open when checking the documented contracts for `http.server.CGIHTTPRequestHandler`, `do_POST()` in http.server / HTTP servers.", "keywords": []},
-  {"topic": "http.server — Security considerations", "file": "http-server/security-considerations.md", "summary": "Open when checking http.server — Security considerations.", "keywords": []},
+  {"topic": "http.server - Security considerations", "file": "http-server/security-considerations.md", "summary": "Open when checking http.server - Security considerations.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

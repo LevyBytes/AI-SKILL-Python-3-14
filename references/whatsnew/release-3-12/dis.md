@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / dis — dis
+# What’s New In Python 3.12 / dis - dis
 
 ### dis
 

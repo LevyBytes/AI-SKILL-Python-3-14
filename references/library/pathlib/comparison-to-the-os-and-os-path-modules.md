@@ -1,4 +1,4 @@
-# pathlib — Comparison to the `os` and `os.path` modules
+# pathlib - Comparison to the `os` and `os.path` modules
 
 ### Comparison to the [`os`](https://docs.python.org/3.14/library/os.html#module-os) and [`os.path`](https://docs.python.org/3.14/library/os.path.html#module-os.path) modules
 

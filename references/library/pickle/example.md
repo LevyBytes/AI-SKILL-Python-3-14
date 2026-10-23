@@ -1,4 +1,4 @@
-# pickle — Example
+# pickle - Example
 
 ### Example
 

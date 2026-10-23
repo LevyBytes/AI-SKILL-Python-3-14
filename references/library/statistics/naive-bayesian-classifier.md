@@ -1,4 +1,4 @@
-# statistics — Naive bayesian classifier
+# statistics - Naive bayesian classifier
 
 ### Naive bayesian classifier
 

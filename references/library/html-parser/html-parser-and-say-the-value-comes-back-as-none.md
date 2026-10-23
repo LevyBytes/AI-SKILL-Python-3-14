@@ -1,4 +1,4 @@
-# html.parser — Examples — Contract: The names of attributes get lowercased, quotes wrapping their values are stripped, and for attributes left empty (`checked`, say) the *value* comes back as `None`:
+# html.parser - Examples - Contract: The names of attributes get lowercased, quotes wrapping their values are stripped, and for attributes left empty (`checked`, say) the *value* comes back as `None`:
 
 The names of attributes get lowercased, quotes wrapping their values are stripped, and for attributes left empty (`checked`, say) the *value* comes back as `None`:
 

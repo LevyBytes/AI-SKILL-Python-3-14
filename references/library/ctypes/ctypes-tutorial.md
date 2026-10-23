@@ -1,4 +1,4 @@
-# ctypes — ctypes tutorial
+# ctypes - ctypes tutorial
 
 ### ctypes tutorial
 

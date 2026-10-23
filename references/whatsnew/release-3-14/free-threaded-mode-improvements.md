@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Free-threaded mode improvements — contextvars, decimal, sys, sysconfig, threading, warnings
+# What's new in Python 3.14 / Free-threaded mode improvements - contextvars, decimal, sys, sysconfig, threading, warnings
 
 > (Contributed by Ken Jin in [gh-128563](https://github.com/python/cpython/issues/128563), with ideas on how to implement this in CPython by Mark Shannon, Garrett Gu, Haoran Xu, and Josh Haberman.)
 

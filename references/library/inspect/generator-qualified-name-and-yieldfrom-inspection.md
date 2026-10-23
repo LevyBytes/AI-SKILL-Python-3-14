@@ -1,4 +1,4 @@
-# inspect — Types and members — Contract: Changed in version 3.5: Add `__qualname__` and `gi_yieldfrom` attributes to generators.
+# inspect - Types and members - Contract: Changed in version 3.5: Add `__qualname__` and `gi_yieldfrom` attributes to generators.
 
 Changed in version 3.5: Add `__qualname__` and `gi_yieldfrom` attributes to generators.
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / csv — collections, csv
+# What’s New In Python 3.8 / csv - collections, csv
 
 > (Contributed by Scott Sanderson in [bpo-29235](https://bugs.python.org/issue?@action=redirect&bpo=29235).)
 

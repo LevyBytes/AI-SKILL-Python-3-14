@@ -1,4 +1,4 @@
-# site — Readline configuration
+# site - Readline configuration
 
 ### Readline configuration
 

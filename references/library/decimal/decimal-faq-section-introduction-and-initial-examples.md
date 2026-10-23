@@ -1,4 +1,4 @@
-# decimal — Decimal FAQ — Section introduction and initial examples
+# decimal - Decimal FAQ - Section introduction and initial examples
 
 ### Decimal FAQ
 

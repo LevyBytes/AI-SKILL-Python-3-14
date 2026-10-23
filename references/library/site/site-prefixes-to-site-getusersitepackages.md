@@ -1,4 +1,4 @@
-# site — Module contents
+# site - Module contents
 
 ### Module contents
 

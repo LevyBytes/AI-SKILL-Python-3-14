@@ -1,4 +1,4 @@
-# Generic Attribute Management — PyType_Ready, tp_getattro, PyTypeObject, tp_setattro, PyMethodDef, tp_methods, PyMemberDef, tp_members, PyGetSetDef, tp_getset, PyCFunction, Py_T_INT, Py_T_DOUBLE, Py_READONLY
+# Generic Attribute Management - PyType_Ready, tp_getattro, PyTypeObject, tp_setattro, PyMethodDef, tp_methods, PyMemberDef, tp_members, PyGetSetDef, tp_getset, PyCFunction, Py_T_INT, Py_T_DOUBLE, Py_READONLY
 
 ### 3.3.1. Generic Attribute Management
 

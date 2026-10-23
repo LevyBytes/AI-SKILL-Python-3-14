@@ -1,4 +1,4 @@
-# hashlib — Randomized hashing
+# hashlib - Randomized hashing
 
 #### Randomized hashing
 

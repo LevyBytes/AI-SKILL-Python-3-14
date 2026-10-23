@@ -1,6 +1,6 @@
-# test.support.socket_helper — `test.support.socket_helper` — Utilities for socket tests
+# test.support.socket_helper`test.support.socket_helper` - Utilities for socket tests
 
-### `test.support.socket_helper` — Utilities for socket tests
+### `test.support.socket_helper` - Utilities for socket tests
 
 The `test.support.socket_helper` module offers support for socket tests.
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / dataclasses — dataclasses
+# What's New In Python 3.7 / dataclasses - dataclasses
 
 ### dataclasses
 

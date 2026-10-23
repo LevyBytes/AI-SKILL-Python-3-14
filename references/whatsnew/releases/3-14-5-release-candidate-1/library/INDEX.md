@@ -25,4 +25,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.5 release candidate 1 / library / uuid: [Python 3.14.5 release candidate 1 / library / uuid](uuid.md).
 - Open when checking Python 3.14.5 release candidate 1 / library / xml etree elementtree: [Python 3.14.5 release candidate 1 / library / xml etree elementtree](xml-etree-elementtree.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

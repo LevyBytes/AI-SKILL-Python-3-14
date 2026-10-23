@@ -1,4 +1,4 @@
-# unittest.mock — Magic Mock — Contract: `__str__`: default str for the mock
+# unittest.mock - Magic Mock - Contract: `__str__`: default str for the mock
 
 `__str__`: default str for the mock
 

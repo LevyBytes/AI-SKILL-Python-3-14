@@ -1,4 +1,4 @@
-# xml.dom — Objects in the DOM
+# xml.dom - Objects in the DOM
 
 ### Objects in the DOM
 

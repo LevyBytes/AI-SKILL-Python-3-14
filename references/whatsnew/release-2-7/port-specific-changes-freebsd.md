@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Port-Specific Changes: FreeBSD — socket
+# What’s New in Python 2.7 / Port-Specific Changes: FreeBSD - socket
 
 ### Port-Specific Changes: FreeBSD
 

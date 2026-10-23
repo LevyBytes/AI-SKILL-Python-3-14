@@ -25,7 +25,7 @@ flowchart LR
 
 CPython 3.14 references spanning everyday Python development, interpreter setup and native extension work. Thirteen reference-area subskills separate tutorials, language contracts, standard-library APIs and historical changes so an agent can select the appropriate kind of evidence.
 
-Use when writing, debugging or reviewing Python 3.14 (CPython): standard-library APIs, language syntax and object protocols, tutorials and HOWTOs, interpreter setup, package installation and distribution, C/C++ extensions, embedding and the Python/C API. Also use for bundled Python FAQs, terminology, version-specific release changes and deprecation schedules. Historical notes apply to their named versions.
+Use when writing, debugging or reviewing Python 3.14 (CPython): standard-library APIs, language syntax and object protocols, tutorials and HOWTOs, interpreter setup, package installation and distribution, C/C++ extensions, embedding and the Python/C API. Also use for bundled Python FAQs, terminology, version-specific release changes and deprecation schedules.
 
 ## What this skill helps with
 

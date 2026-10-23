@@ -1,4 +1,4 @@
-# tokenize — Examples — Section introduction and initial examples
+# tokenize - Examples - Section introduction and initial examples
 
 ### Examples
 

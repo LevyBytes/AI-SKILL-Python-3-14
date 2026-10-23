@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / ssl / Other Changes — ssl
+# What’s New In Python 3.5 / ssl / Other Changes - ssl
 
 #### Other Changes
 

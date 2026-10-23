@@ -1,4 +1,4 @@
-# tkinter.ttk — Combobox
+# tkinter.ttk - Combobox
 
 ### Combobox
 

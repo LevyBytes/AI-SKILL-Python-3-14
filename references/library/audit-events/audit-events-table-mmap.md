@@ -1,4 +1,4 @@
-# Audit events table — mmap
+# Audit events table - mmap
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

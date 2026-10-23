@@ -1,6 +1,6 @@
-# re — `re` — Regular expression operations
+# re`re` - Regular expression operations
 
-### `re` — Regular expression operations
+### `re` - Regular expression operations
 
 **Source code:** [Lib/re/](https://github.com/python/cpython/tree/3.14/Lib/re/)
 

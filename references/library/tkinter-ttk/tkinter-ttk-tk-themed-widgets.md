@@ -1,6 +1,6 @@
-# tkinter.ttk — `tkinter.ttk` — Tk themed widgets
+# tkinter.ttk`tkinter.ttk` - Tk themed widgets
 
-### `tkinter.ttk` — Tk themed widgets
+### `tkinter.ttk` - Tk themed widgets
 
 **Source code:** [Lib/tkinter/ttk.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/ttk.py)
 

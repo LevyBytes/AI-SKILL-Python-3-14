@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Views And Iterators Instead Of Lists — itertools
+# What's New In Python 3.0 / Views And Iterators Instead Of Lists - itertools
 
 ### Views And Iterators Instead Of Lists
 

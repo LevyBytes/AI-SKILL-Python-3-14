@@ -1,4 +1,4 @@
-# multiprocessing — Synchronization between processes
+# multiprocessing - Synchronization between processes
 
 ### Synchronization between processes
 

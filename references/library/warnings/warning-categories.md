@@ -1,4 +1,4 @@
-# warnings — Warning Categories
+# warnings - Warning Categories
 
 ### Warning Categories
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / collections.abc — collections.abc, types, typing
+# What's New In Python 3.9 / collections.abc - collections.abc, types, typing
 
 ### Notable changes in Python 3.9.2
 

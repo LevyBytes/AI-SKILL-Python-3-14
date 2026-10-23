@@ -1,6 +1,6 @@
 {"schema_version": 1, "topics": [
-  {"topic": "http.cookies — Cookie Objects", "file": "http-cookies/basecookie-value-decode-to-basecookie-load.md", "summary": "Open when checking http.cookies — Cookie Objects.", "keywords": []},
-  {"topic": "http.cookies — Example", "file": "http-cookies/example.md", "summary": "Open when checking http.cookies — Example.", "keywords": []},
+  {"topic": "http.cookies - Cookie Objects", "file": "http-cookies/basecookie-value-decode-to-basecookie-load.md", "summary": "Open when checking http.cookies - Cookie Objects.", "keywords": []},
+  {"topic": "http.cookies - Example", "file": "http-cookies/example.md", "summary": "Open when checking http.cookies - Example.", "keywords": []},
   {"topic": "http.cookies: `http.cookies.CookieError`", "file": "http-cookies/http-cookies-cookieerror.md", "summary": "Open when checking the documented contracts for `http.cookies.CookieError` in http.cookies.", "keywords": []},
   {"topic": "http.cookies: `http.cookies.BaseCookie`", "file": "http-cookies/http-cookies-basecookie-class.md", "summary": "Open when checking the documented contracts for `http.cookies.BaseCookie` in http.cookies.", "keywords": []},
   {"topic": "http.cookies: `http.cookies.SimpleCookie`", "file": "http-cookies/http-cookies-simplecookie-class.md", "summary": "Open when checking the documented contracts for `http.cookies.SimpleCookie` in http.cookies.", "keywords": []},

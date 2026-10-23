@@ -1,4 +1,4 @@
-# sys.monitoring — Registering and using tools
+# sys.monitoring - Registering and using tools
 
 ### Registering and using tools
 

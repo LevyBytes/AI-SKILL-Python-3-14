@@ -1,4 +1,4 @@
-# enum — enum.FlagBoundary KEEP behavior and IntFlag default
+# enum - enum.FlagBoundary KEEP behavior and IntFlag default
 
 ```python
 >>> from enum import Flag, KEEP, auto

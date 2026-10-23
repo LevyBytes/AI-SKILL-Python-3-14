@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 beta 3 / library / streamline resize logic fast nodes c ordereddict: [Python 3.5.0 beta 3 / library / streamline resize logic fast nodes c ordereddict](streamline-resize-logic-fast-nodes-c-ordereddict.md).
 - Open when checking Python 3.5.0 beta 3 / library / tokenize: [Python 3.5.0 beta 3 / library / tokenize](tokenize.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

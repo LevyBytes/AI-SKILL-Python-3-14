@@ -1,4 +1,4 @@
-# subprocess — Replacing **/bin/sh** shell command substitution
+# subprocess - Replacing **/bin/sh** shell command substitution
 
 ### Replacing **/bin/sh** shell command substitution
 

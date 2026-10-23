@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 beta 1 / build / platform: [Python 3.12.0 beta 1 / build / platform](platform.md).
 - Open when checking Python 3.12.0 beta 1 / build / python for regen henceforth demands python or later: [Python 3.12.0 beta 1 / build / python for regen henceforth demands python or later](python-for-regen-henceforth-demands-python-or-later.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

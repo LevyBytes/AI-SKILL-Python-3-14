@@ -1,4 +1,4 @@
-# inspect — Types and members — Section introduction and initial examples
+# inspect - Types and members - Section introduction and initial examples
 
 ### Types and members
 

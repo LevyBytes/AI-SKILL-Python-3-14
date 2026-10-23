@@ -61,7 +61,7 @@ Added in version 3.10.
 
 See also
 
-- [**PEP 612**](https://peps.python.org/pep-0612/) — Parameter Specification Variables (the PEP which introduced `ParamSpec` and `Concatenate`)
+- [**PEP 612**](https://peps.python.org/pep-0612/): Parameter Specification Variables (the PEP which introduced `ParamSpec` and `Concatenate`)
 
 - `ParamSpec`
 

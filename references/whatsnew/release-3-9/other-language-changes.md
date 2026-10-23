@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / Other Language Changes — __main__, devmode, operator, os, typing
+# What's New In Python 3.9 / Other Language Changes - __main__, devmode, operator, os, typing
 
 ### Other Language Changes
 

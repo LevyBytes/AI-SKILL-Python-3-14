@@ -1,4 +1,4 @@
-# Adding data and methods to the Basic example — tp_members, Custom_members
+# Adding data and methods to the Basic example - tp_members, Custom_members
 
 ```c
 .tp_members = Custom_members,

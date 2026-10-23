@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Others — ctypes, ftplib, http.client, imaplib, poplib, smtplib
+# What’s New In Python 3.12 / Others - ctypes, ftplib, http.client, imaplib, poplib, smtplib
 
 ### Others
 

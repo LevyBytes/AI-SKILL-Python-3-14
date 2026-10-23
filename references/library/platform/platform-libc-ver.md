@@ -1,4 +1,4 @@
-# platform — Unix platforms
+# platform - Unix platforms
 
 ### Unix platforms
 

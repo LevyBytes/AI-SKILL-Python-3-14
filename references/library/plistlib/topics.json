@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "plistlib — Examples", "file": "plistlib/examples.md", "summary": "Open when checking plistlib — Examples.", "keywords": []},
+  {"topic": "plistlib - Examples", "file": "plistlib/examples.md", "summary": "Open when checking plistlib - Examples.", "keywords": []},
   {"topic": "plistlib: `plistlib.load()`, `plistlib.loads()`", "file": "plistlib/plistlib-load-to-plistlib-loads.md", "summary": "Open when checking the documented contracts for `plistlib.load()`, `plistlib.loads()` in plistlib.", "keywords": []},
   {"topic": "plistlib: `plistlib.dump()`, `plistlib.dumps()`", "file": "plistlib/plistlib-dump-to-plistlib-dumps.md", "summary": "Open when checking the documented contracts for `plistlib.dump()`, `plistlib.dumps()` in plistlib.", "keywords": []},
   {"topic": "plistlib: `plistlib.UID`", "file": "plistlib/plistlib-uid-class.md", "summary": "Open when checking the documented contracts for `plistlib.UID` in plistlib.", "keywords": []},

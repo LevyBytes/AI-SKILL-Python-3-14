@@ -1,9 +1,9 @@
 ---
 name: installing
-description: "Use when installing Python packages - the official overview of pip, virtual environments, and where the detailed packaging guides live. A short pointer-level section, not the full packaging workflow."
+description: "Use when installing Python packages: the official overview of pip, virtual environments and the detailed packaging guides, not the full packaging workflow."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-14"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

@@ -48,7 +48,7 @@ TypeError: function() got multiple values for argument 'a'
 
 ```
 
-Should the last formal parameter take the shape `**name`, that slot collects a dictionary (consult [Mapping Types — dict](https://docs.python.org/3.14/library/stdtypes.html#typesmapping)) holding every keyword argument that did not line up with a declared parameter. You can pair it with a `*name` parameter (covered in the following subsection), which gathers a [tuple](https://docs.python.org/3.14/tutorial/datastructures.html#tut-tuples) of the positional arguments that overflow past the declared parameters. (`*name` has to appear ahead of `**name`.) Suppose we write a function such as the following:
+Should the last formal parameter take the shape `**name`, that slot collects a dictionary (consult [Mapping Types - dict](https://docs.python.org/3.14/library/stdtypes.html#typesmapping)) holding every keyword argument that did not line up with a declared parameter. You can pair it with a `*name` parameter (covered in the following subsection), which gathers a [tuple](https://docs.python.org/3.14/tutorial/datastructures.html#tut-tuples) of the positional arguments that overflow past the declared parameters. (`*name` has to appear ahead of `**name`.) Suppose we write a function such as the following:
 
 ```python
 def cheeseshop(kind, *arguments, **keywords):

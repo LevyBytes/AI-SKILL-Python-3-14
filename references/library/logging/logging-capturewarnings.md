@@ -1,4 +1,4 @@
-# logging — Integration with the warnings module
+# logging - Integration with the warnings module
 
 ### Integration with the warnings module
 

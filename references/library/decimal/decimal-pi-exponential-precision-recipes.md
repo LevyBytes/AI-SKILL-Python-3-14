@@ -1,4 +1,4 @@
-# decimal — Recipes — pi and exp contracts, doctests and precision-restoring implementations
+# decimal - Recipes - pi and exp contracts, doctests and precision-restoring implementations
 
 Open the [complete example modules](../../examples/decimal-recipes/INDEX.md) for the complete definitions, imports and entrypoint.
 

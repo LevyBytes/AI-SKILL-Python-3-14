@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / multiprocessing — multiprocessing, pickle, signal
+# What's new in Python 3.14 / multiprocessing - multiprocessing, pickle, signal
 
 ### multiprocessing
 

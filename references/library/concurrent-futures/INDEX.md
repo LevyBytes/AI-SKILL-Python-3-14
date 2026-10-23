@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Future completion, waiting and executor errors: [Future completion, waiting and executor errors](future-completion-and-executor-errors.md).
 - Open when checking ThreadPoolExecutor Example: [ThreadPoolExecutor Example](threadpoolexecutor-example.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

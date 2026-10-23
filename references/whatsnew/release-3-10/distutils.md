@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / distutils — platform, shutil, subprocess, sysconfig
+# What's New In Python 3.10 / distutils - platform, shutil, subprocess, sysconfig
 
 ### distutils
 

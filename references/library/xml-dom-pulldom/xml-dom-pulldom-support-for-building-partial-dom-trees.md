@@ -1,8 +1,8 @@
 # xml.dom.pulldom: Pull-DOM parsing model and partial tree construction
 
-## xml.dom.pulldom — Support for building partial DOM trees
+## xml.dom.pulldom - Support for building partial DOM trees
 
-### `xml.dom.pulldom` — Support for building partial DOM trees
+### `xml.dom.pulldom` - Support for building partial DOM trees
 
 **Source code:** [Lib/xml/dom/pulldom.py](https://github.com/python/cpython/tree/3.14/Lib/xml/dom/pulldom.py)
 

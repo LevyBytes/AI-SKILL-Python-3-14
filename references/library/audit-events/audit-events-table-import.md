@@ -1,4 +1,4 @@
-# Audit events table — import
+# Audit events table - import
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -1,4 +1,4 @@
-# xml.parsers.expat — ExpatError Exceptions
+# xml.parsers.expat - ExpatError Exceptions
 
 ### ExpatError Exceptions
 

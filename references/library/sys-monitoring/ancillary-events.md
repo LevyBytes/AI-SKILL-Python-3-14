@@ -1,4 +1,4 @@
-# sys.monitoring — Ancillary events
+# sys.monitoring - Ancillary events
 
 ### Ancillary events
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / PEP 488: Elimination of PYO files — importlib
+# What’s New In Python 3.5 / PEP 488: Elimination of PYO files - importlib
 
 > PEP written and implemented by Paul Moore.
 

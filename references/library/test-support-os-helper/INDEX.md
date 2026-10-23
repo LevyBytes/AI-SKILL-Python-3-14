@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking filesystem capability, working-directory and descriptor test helpers in test.support.os_helper. [test.support.os_helper: Filesystem capability, working-directory and descriptor test helpers](os-test-symlink-and-directory-helpers.md).
 - Open when checking temporary directories, permissions and file-removal test helpers in test.support.os_helper. [test.support.os_helper: Temporary directories, permissions and file-removal test helpers](os-test-tree-and-file-removal-helpers.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

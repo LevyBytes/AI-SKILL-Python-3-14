@@ -1,11 +1,11 @@
-# Python Runtime Services — Section introduction and initial examples
+# Python Runtime Services - Section introduction and initial examples
 
 ### Python Runtime Services
 
 The modules laid out in this chapter deliver a broad span of services tied to the Python interpreter and how it interacts with its environment. A quick rundown follows:
 
-- [`sys` — System-specific parameters and functions](https://docs.python.org/3.14/library/sys.html)
-- [`sys.monitoring` — Execution event monitoring](https://docs.python.org/3.14/library/sys.monitoring.html)
+- [`sys` - System-specific parameters and functions](https://docs.python.org/3.14/library/sys.html)
+- [`sys.monitoring` - Execution event monitoring](https://docs.python.org/3.14/library/sys.monitoring.html)
   - [Tool identifiers](https://docs.python.org/3.14/library/sys.monitoring.html#tool-identifiers)
     - [Registering and using tools](https://docs.python.org/3.14/library/sys.monitoring.html#registering-and-using-tools)
 
@@ -24,7 +24,7 @@ The modules laid out in this chapter deliver a broad span of services tied to th
   - [Registering callback functions](https://docs.python.org/3.14/library/sys.monitoring.html#registering-callback-functions)
     - [Callback function arguments](https://docs.python.org/3.14/library/sys.monitoring.html#callback-function-arguments)
 
-- [`sysconfig` — Provide access to Python's configuration information](https://docs.python.org/3.14/library/sysconfig.html)
+- [`sysconfig` - Provide access to Python's configuration information](https://docs.python.org/3.14/library/sysconfig.html)
   - [Configuration variables](https://docs.python.org/3.14/library/sysconfig.html#configuration-variables)
   - [Installation paths](https://docs.python.org/3.14/library/sysconfig.html#installation-paths)
   - [User scheme](https://docs.python.org/3.14/library/sysconfig.html#user-scheme)
@@ -43,8 +43,8 @@ The modules laid out in this chapter deliver a broad span of services tied to th
   - [Other functions](https://docs.python.org/3.14/library/sysconfig.html#other-functions)
   - [Command-line usage](https://docs.python.org/3.14/library/sysconfig.html#command-line-usage)
 
-- [`builtins` — Built-in objects](https://docs.python.org/3.14/library/builtins.html)
-- [`__main__` — Top-level code environment](https://docs.python.org/3.14/library/__main__.html)
+- [`builtins` - Built-in objects](https://docs.python.org/3.14/library/builtins.html)
+- [`__main__` - Top-level code environment](https://docs.python.org/3.14/library/__main__.html)
   - [`__name__ == '__main__'`](https://docs.python.org/3.14/library/__main__.html#name-main)
     - [What is the "top-level code environment"?](https://docs.python.org/3.14/library/__main__.html#what-is-the-top-level-code-environment)
     - [Idiomatic Usage](https://docs.python.org/3.14/library/__main__.html#idiomatic-usage)
@@ -55,7 +55,7 @@ The modules laid out in this chapter deliver a broad span of services tied to th
 
   - [`import __main__`](https://docs.python.org/3.14/library/__main__.html#import-main)
 
-- [`warnings` — Warning control](https://docs.python.org/3.14/library/warnings.html)
+- [`warnings` - Warning control](https://docs.python.org/3.14/library/warnings.html)
   - [Warning Categories](https://docs.python.org/3.14/library/warnings.html#warning-categories)
   - [The Warnings Filter](https://docs.python.org/3.14/library/warnings.html#the-warnings-filter)
     - [Repeated Warning Suppression Criteria](https://docs.python.org/3.14/library/warnings.html#repeated-warning-suppression-criteria)
@@ -70,7 +70,7 @@ The modules laid out in this chapter deliver a broad span of services tied to th
   - [Available Context Managers](https://docs.python.org/3.14/library/warnings.html#available-context-managers)
   - [Concurrent safety of Context Managers](https://docs.python.org/3.14/library/warnings.html#concurrent-safety-of-context-managers)
 
-- [`dataclasses` — Data Classes](https://docs.python.org/3.14/library/dataclasses.html)
+- [`dataclasses` - Data Classes](https://docs.python.org/3.14/library/dataclasses.html)
   - [Module contents](https://docs.python.org/3.14/library/dataclasses.html#module-contents)
   - [Post-init processing](https://docs.python.org/3.14/library/dataclasses.html#post-init-processing)
   - [Class variables](https://docs.python.org/3.14/library/dataclasses.html#class-variables)

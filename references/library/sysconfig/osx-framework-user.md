@@ -1,4 +1,4 @@
-# sysconfig — `osx_framework_user`
+# sysconfig`osx_framework_user`
 
 ### `osx_framework_user`
 

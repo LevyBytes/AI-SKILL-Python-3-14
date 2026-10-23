@@ -1,4 +1,4 @@
-# json — Repeated Names Within an Object
+# json - Repeated Names Within an Object
 
 ### Repeated Names Within an Object
 

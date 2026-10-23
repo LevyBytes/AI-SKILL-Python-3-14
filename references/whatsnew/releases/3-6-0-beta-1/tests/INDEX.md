@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 beta 1 / tests / strengthen coverage rigour test math test cmath: [Python 3.6.0 beta 1 / tests / strengthen coverage rigour test math test cmath](strengthen-coverage-rigour-test-math-test-cmath.md).
 - Open when checking Python 3.6.0 beta 1 / tests / threads and concurrency: [Python 3.6.0 beta 1 / tests / threads and concurrency](threads-and-concurrency.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

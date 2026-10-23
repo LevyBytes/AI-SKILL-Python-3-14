@@ -1,4 +1,4 @@
-# email.encoders — `email.encoders`: Encoders
+# email.encoders`email.encoders`: Encoders
 
 ## email.encoders: Encoders
 

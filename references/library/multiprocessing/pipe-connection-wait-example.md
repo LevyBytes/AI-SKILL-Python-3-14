@@ -1,4 +1,4 @@
-# multiprocessing — Listeners and Clients — Code example: from multiprocessing import Process, Pipe, current_process
+# multiprocessing - Listeners and Clients - Code example: from multiprocessing import Process, Pipe, current_process
 
 ```python
 from multiprocessing import Process, Pipe, current_process

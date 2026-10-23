@@ -1,4 +1,4 @@
-# xml.sax.xmlreader — IncrementalParser Objects
+# xml.sax.xmlreader - IncrementalParser Objects
 
 ### IncrementalParser Objects
 

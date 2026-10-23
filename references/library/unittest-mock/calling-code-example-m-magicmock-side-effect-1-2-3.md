@@ -1,4 +1,4 @@
-# unittest.mock — Calling — Code example: >>> m = MagicMock(side_effect=[1, 2, 3])
+# unittest.mock - Calling - Code example: >>> m = MagicMock(side_effect=[1, 2, 3])
 
 ```python
 >>> m = MagicMock(side_effect=[1, 2, 3])

@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / CPython bytecode changes — dis, string.templatelib
+# What's new in Python 3.14 / CPython bytecode changes - dis, string.templatelib
 
 ### CPython bytecode changes
 

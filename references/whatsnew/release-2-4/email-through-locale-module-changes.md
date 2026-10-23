@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / New, Improved, and Deprecated Modules — email, heapq, http, imaplib, itertools, locale
+# What’s New in Python 2.4 / New, Improved, and Deprecated Modules - email, heapq, http, imaplib, itertools, locale
 
 The [`email`](https://docs.python.org/3.14/library/email.html#module-email) package was bumped to version 3.0, which dropped several deprecated APIs and ends support for Python releases before 2.3. The package's 3.0 version employs a new incremental parser for MIME messages, found in the `email.FeedParser` module. This new parser doesn't need the whole message loaded into memory, and it doesn't raise exceptions when a message is malformed; rather, it logs any issues in the message's `defect` attribute. (Developed by Anthony Baxter, Barry Warsaw, Thomas Wouters, and others.)
 

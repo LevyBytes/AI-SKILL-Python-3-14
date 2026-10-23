@@ -1,4 +1,4 @@
-# Audit events table — cpython
+# Audit events table - cpython
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / sched — sched, time
+# What's New In Python 3.3 / sched - sched, time
 
 ### sched
 

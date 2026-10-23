@@ -8,7 +8,7 @@ Deprecating module attributes and loading them lazily are common scenarios where
 
 See also
 
-[**PEP 562**](https://peps.python.org/pep-0562/) — Module `__getattr__` and `__dir__`
+[**PEP 562**](https://peps.python.org/pep-0562/): Module `__getattr__` and `__dir__`
 
 PEP written and implemented by Ivan Levkivskyi
 

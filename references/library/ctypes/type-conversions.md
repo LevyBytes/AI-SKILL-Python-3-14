@@ -1,4 +1,4 @@
-# ctypes — Type conversions
+# ctypes - Type conversions
 
 ### Type conversions
 

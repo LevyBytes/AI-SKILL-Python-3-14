@@ -1,8 +1,8 @@
-# audioop — `audioop` — Manipulate raw audio data
+# audioop`audioop` - Manipulate raw audio data
 
-## audioop — Manipulate raw audio data
+## audioop - Manipulate raw audio data
 
-### `audioop` — Manipulate raw audio data
+### `audioop` - Manipulate raw audio data
 
 Deprecated since version 3.11, removed in version 3.13.
 

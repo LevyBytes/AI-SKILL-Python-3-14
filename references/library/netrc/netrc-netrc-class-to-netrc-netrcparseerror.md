@@ -1,6 +1,6 @@
-# netrc — `netrc` — netrc file processing
+# netrc`netrc` - netrc file processing
 
-### `netrc` — netrc file processing
+### `netrc` - netrc file processing
 
 **Source code:** [Lib/netrc.py](https://github.com/python/cpython/tree/3.14/Lib/netrc.py)
 

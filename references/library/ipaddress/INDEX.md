@@ -30,4 +30,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Operators: [Operators](operators.md).
 - Open when checking Prefix, net mask and host mask: [Prefix, net mask and host mask](prefix-net-mask-and-host-mask.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

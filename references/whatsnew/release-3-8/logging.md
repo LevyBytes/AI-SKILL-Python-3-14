@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / logging — logging
+# What’s New In Python 3.8 / logging - logging
 
 > (Contributed by Weipeng Hong in [bpo-31553](https://bugs.python.org/issue?@action=redirect&bpo=31553).)
 

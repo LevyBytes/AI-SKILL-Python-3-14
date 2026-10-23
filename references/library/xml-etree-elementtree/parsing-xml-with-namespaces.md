@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Parsing XML with Namespaces
+# xml.etree.ElementTree - Parsing XML with Namespaces
 
 ### Parsing XML with Namespaces
 

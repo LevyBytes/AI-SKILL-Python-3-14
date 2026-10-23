@@ -1,4 +1,4 @@
-# logging.config — Configuration file format — Section introduction and initial examples
+# logging.config - Configuration file format - Section introduction and initial examples
 
 ### Configuration file format
 

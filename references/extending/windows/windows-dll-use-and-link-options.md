@@ -1,4 +1,4 @@
-# Using DLLs in Practice — PyArg_ParseTuple, Py_NO_LINK_LIB, PyObject
+# Using DLLs in Practice - PyArg_ParseTuple, Py_NO_LINK_LIB, PyObject
 
 ### 5.3. Using DLLs in Practice
 

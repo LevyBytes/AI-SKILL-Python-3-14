@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — XML tree and elements
+# xml.etree.ElementTree - XML tree and elements
 
 ### XML tree and elements
 

@@ -1,4 +1,4 @@
-# tkinter — Threading model
+# tkinter - Threading model
 
 ### Threading model
 

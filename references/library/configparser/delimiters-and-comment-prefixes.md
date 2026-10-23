@@ -1,4 +1,4 @@
-# configparser — Customizing Parser Behaviour — Contract: Delimiters are the substrings that mark the boundary between keys and values inside a section.
+# configparser - Customizing Parser Behaviour - Contract: Delimiters are the substrings that mark the boundary between keys and values inside a section.
 
 Delimiters are the substrings that mark the boundary between keys and values inside a section. The earliest appearance of a delimiting substring on a line counts as the delimiter. As a result, values (though not keys) are free to contain the delimiters.
 

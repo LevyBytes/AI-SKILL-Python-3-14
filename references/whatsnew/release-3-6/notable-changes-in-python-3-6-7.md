@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Notable changes in Python 3.6.7 — tokenize, xml.dom.minidom, xml.sax
+# What's New In Python 3.6 / Notable changes in Python 3.6.7 - tokenize, xml.dom.minidom, xml.sax
 
 ### Notable changes in Python 3.6.7
 

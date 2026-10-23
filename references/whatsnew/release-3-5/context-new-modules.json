@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "references/whatsnew", "topics": [
-  {"topic": "New Modules / What’s New In Python 3.5 / typing — typing", "file": "release-3-5/typing.md", "summary": "Open when checking What’s New In Python 3.5 / typing — typing.", "keywords": []},
-  {"topic": "New Modules / What’s New In Python 3.5 / zipapp — zipapp", "file": "release-3-5/zipapp.md", "summary": "Open when checking What’s New In Python 3.5 / zipapp — zipapp.", "keywords": []},
+  {"topic": "New Modules / What’s New In Python 3.5 / typing - typing", "file": "release-3-5/typing.md", "summary": "Open when checking What’s New In Python 3.5 / typing - typing.", "keywords": []},
+  {"topic": "New Modules / What’s New In Python 3.5 / zipapp - zipapp", "file": "release-3-5/zipapp.md", "summary": "Open when checking What’s New In Python 3.5 / zipapp - zipapp.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

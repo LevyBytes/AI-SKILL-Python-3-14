@@ -1,4 +1,4 @@
-# typing — Module contents
+# typing - Module contents
 
 ### Module contents
 

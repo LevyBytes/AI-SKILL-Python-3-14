@@ -1,6 +1,6 @@
 {"schema_version": 1, "topics": [
-  {"topic": "mmap — MADV_* Constants", "file": "mmap/mmap-madv-normal-to-mmap-madv-free-reuse.md", "summary": "Open when checking mmap — MADV_* Constants.", "keywords": []},
-  {"topic": "mmap — MAP_* Constants", "file": "mmap/mmap-map-shared-to-mmap-map-unix03.md", "summary": "Open when checking mmap — MAP_* Constants.", "keywords": []},
+  {"topic": "mmap - MADV_* Constants", "file": "mmap/mmap-madv-normal-to-mmap-madv-free-reuse.md", "summary": "Open when checking mmap - MADV_* Constants.", "keywords": []},
+  {"topic": "mmap - MAP_* Constants", "file": "mmap/mmap-map-shared-to-mmap-map-unix03.md", "summary": "Open when checking mmap - MAP_* Constants.", "keywords": []},
   {"topic": "mmap: `mmap.mmap`", "file": "mmap/mmap-mmap-class.md", "summary": "Open when checking the documented contracts for `mmap.mmap` in mmap.", "keywords": []},
   {"topic": "mmap / Memory-mapped file support: `mmap.mmap`, `close()`", "file": "mmap/mmap-mmap-class-to-mmap-mmap-close.md", "summary": "Open when checking the documented contracts for `mmap.mmap`, `close()` in mmap / Memory-mapped file support.", "keywords": []},
   {"topic": "mmap.mmap: `find()`, `flush()`, `madvise()`, `move()`, `read()`, `read_byte()`, `readline()`, `resize()`, `rfind()`, `seek()`, `seekable()`, `size()`, `tell()`", "file": "mmap/mmap-mmap-find-to-mmap-mmap-tell.md", "summary": "Open when checking the documented contracts for `find()`, `flush()`, `madvise()`, `move()`, `read()`, `read_byte()`, `readline()`, `resize()`, `rfind()`, `seek()`, `seekable()`, `size()`, `tell()` in mmap.mmap.", "keywords": []},

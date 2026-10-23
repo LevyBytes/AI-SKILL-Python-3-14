@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PyEval_EvalCodeEx()`, `PyEval_EvalFrame()`, `PyEval_EvalFrameEx()`, `PyEval_MergeCompilerFlags()` in the very high level layer C API. [the very high level layer C API: `PyEval_EvalCodeEx()`, `PyEval_EvalFrame()`, `PyEval_EvalFrameEx()`, `PyEval_MergeCompilerFlags()`](pyeval-evalcodeex-to-pyeval-mergecompilerflags.md).
 - Open when checking the documented contracts for `PyCompilerFlags`, `PyCF_ALLOW_TOP_LEVEL_AWAIT`, `PyCF_ONLY_AST`, `PyCF_OPTIMIZED_AST`, `PyCF_TYPE_COMMENTS` in the very high level layer C API. [the very high level layer C API: `PyCompilerFlags`, `PyCF_ALLOW_TOP_LEVEL_AWAIT`, `PyCF_ONLY_AST`, `PyCF_OPTIMIZED_AST`, `PyCF_TYPE_COMMENTS`](pycompilerflags-to-pycf-type-comments.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

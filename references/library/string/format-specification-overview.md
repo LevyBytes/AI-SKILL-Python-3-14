@@ -1,4 +1,4 @@
-# string — Format specification mini-language — Section introduction and initial examples
+# string - Format specification mini-language - Section introduction and initial examples
 
 ### Format specification mini-language
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / dataclasses / __slots__ — dataclasses
+# What's New In Python 3.10 / dataclasses / __slots__ - dataclasses
 
 ### dataclasses
 

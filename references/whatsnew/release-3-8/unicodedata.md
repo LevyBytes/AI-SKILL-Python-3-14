@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / unicodedata — unicodedata
+# What’s New In Python 3.8 / unicodedata - unicodedata
 
 ### unicodedata
 

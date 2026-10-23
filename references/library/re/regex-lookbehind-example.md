@@ -1,4 +1,4 @@
-# re — Regular Expression Syntax — Code example: >>> m = re.search(r'(?<=-)\w+', 'spam-egg')
+# re - Regular Expression Syntax - Code example: >>> m = re.search(r'(?<=-)\w+', 'spam-egg')
 
 ```python
 >>> m = re.search(r'(?<=-)\w+', 'spam-egg')
@@ -49,7 +49,7 @@ Changed in version 3.14: `\B` now matches empty input string.
 
 For Unicode (str) patterns:
 
-Matches every Unicode decimal digit — meaning whatever character sits in the Unicode character category [[Nd]](https://www.unicode.org/versions/Unicode15.0.0/ch04.pdf#G134153). Covered here are `[0-9]` along with plenty of other digit characters.
+Matches every Unicode decimal digit: meaning whatever character sits in the Unicode character category [[Nd]](https://www.unicode.org/versions/Unicode15.0.0/ch04.pdf#G134153). Covered here are `[0-9]` along with plenty of other digit characters.
 
 Matches `[0-9]` if the `ASCII` flag is used.
 

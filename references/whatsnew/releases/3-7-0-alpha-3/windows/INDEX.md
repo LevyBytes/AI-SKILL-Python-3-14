@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 3 / windows / make use stackcheck behave deterministically running multi threaded environment: [Python 3.7.0 alpha 3 / windows / make use stackcheck behave deterministically running multi threaded environment](windows-multithreaded-stack-checking.md).
 - Open when checking Python 3.7.0 alpha 3 / windows / view fetch yields error no more items return none rather than raising msierror: [Python 3.7.0 alpha 3 / windows / view fetch yields error no more items return none rather than raising msierror](msi-view-fetch-exhaustion.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

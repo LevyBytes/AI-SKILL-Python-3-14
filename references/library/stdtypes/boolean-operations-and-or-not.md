@@ -1,6 +1,6 @@
-# Boolean Operations — `and`, `or`, `not`
+# Boolean Operations`and`, `or`, `not`
 
-### Boolean Operations — `and`, `or`, `not`
+### Boolean Operations`and`, `or`, `not`
 
 Here are the Boolean operations, listed from lowest to highest priority:
 

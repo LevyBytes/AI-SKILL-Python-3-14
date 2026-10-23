@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / textwrap — textwrap
+# What's New In Python 3.3 / textwrap - textwrap
 
 ### textwrap
 

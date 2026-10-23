@@ -1,4 +1,4 @@
-# xml.sax.handler — ErrorHandler Objects
+# xml.sax.handler - ErrorHandler Objects
 
 ### ErrorHandler Objects
 

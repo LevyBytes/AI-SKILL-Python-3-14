@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 343: The ‘with’ statement — decimal, threading
+# What’s New in Python 2.6 / PEP 343: The ‘with’ statement - decimal, threading
 
 ### PEP 343: The ‘with’ statement
 

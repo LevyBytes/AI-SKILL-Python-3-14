@@ -1,4 +1,4 @@
-# tracemalloc — Display the top 10
+# tracemalloc - Display the top 10
 
 ### Examples
 

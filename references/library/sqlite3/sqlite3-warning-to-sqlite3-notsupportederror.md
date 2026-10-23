@@ -1,4 +1,4 @@
-# sqlite3 — Exceptions
+# sqlite3 - Exceptions
 
 ### Exceptions
 

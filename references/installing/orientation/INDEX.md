@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Per-user, scientific, and multiple-interpreter installation: [Per-user, scientific, and multiple-interpreter installation](per-user-scientific-and-multiple-interpreter-installation.md).
 - Open when checking System Python safety, missing pip, and binary extensions: [System Python safety, missing pip, and binary extensions](system-python-safety-missing-pip-and-binary-extensions.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

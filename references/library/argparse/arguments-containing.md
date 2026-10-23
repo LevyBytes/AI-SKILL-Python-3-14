@@ -1,4 +1,4 @@
-# argparse — Arguments containing `-`
+# argparse - Arguments containing `-`
 
 ### Arguments containing `-`
 

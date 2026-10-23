@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / PEP 594: Remove "dead batteries" from the standard library — base64, mimetypes, shlex, subprocess
+# What's New In Python 3.13 / PEP 594: Remove "dead batteries" from the standard library - base64, mimetypes, shlex, subprocess
 
 - [standard-crypt](https://pypi.org/project/standard-crypt/) and [deprecated-crypt-alternative](https://pypi.org/project/deprecated-crypt-alternative/): Use the redistribution of `crypt` and reimplementation of `_crypt` libraries from PyPI.
 

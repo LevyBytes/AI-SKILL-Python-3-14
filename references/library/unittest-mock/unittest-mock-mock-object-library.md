@@ -1,6 +1,6 @@
-# unittest.mock — `unittest.mock` — mock object library
+# unittest.mock`unittest.mock` - mock object library
 
-### `unittest.mock` — mock object library
+### `unittest.mock` - mock object library
 
 Added in version 3.3.
 

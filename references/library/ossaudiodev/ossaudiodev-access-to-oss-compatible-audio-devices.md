@@ -1,8 +1,8 @@
-# ossaudiodev — `ossaudiodev` — Access to OSS-compatible audio devices
+# ossaudiodev`ossaudiodev` - Access to OSS-compatible audio devices
 
-## ossaudiodev — Access to OSS-compatible audio devices??
+## ossaudiodev - Access to OSS-compatible audio devices??
 
-### `ossaudiodev` — Access to OSS-compatible audio devices
+### `ossaudiodev` - Access to OSS-compatible audio devices
 
 Deprecated since version 3.11, removed in version 3.13.
 

@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — Unicode encodings
+# codecs - Standard Encodings - Unicode encodings
 
 | Codec | Aliases | Languages |
 | --- | --- | --- |

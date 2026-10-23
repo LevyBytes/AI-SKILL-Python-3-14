@@ -1,4 +1,4 @@
-# asyncio — Create asynchronous generators only when the event loop is running
+# asyncio - Create asynchronous generators only when the event loop is running
 
 ### Create asynchronous generators only when the event loop is running
 

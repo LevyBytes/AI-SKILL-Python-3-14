@@ -1,4 +1,4 @@
-# json — Command-line options
+# json - Command-line options
 
 ### Command-line options
 

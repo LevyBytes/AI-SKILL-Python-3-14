@@ -1,4 +1,4 @@
-# socket — Timeouts and the `connect` method
+# socket - Timeouts and the `connect` method
 
 ### Timeouts and the `connect` method
 

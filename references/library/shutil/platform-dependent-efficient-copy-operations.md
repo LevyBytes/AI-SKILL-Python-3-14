@@ -1,4 +1,4 @@
-# shutil — Platform-dependent efficient copy operations
+# shutil - Platform-dependent efficient copy operations
 
 ### Platform-dependent efficient copy operations
 

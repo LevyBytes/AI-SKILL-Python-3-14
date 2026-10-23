@@ -1,4 +1,4 @@
-# datetime — Determining if an object is aware or naive
+# datetime - Determining if an object is aware or naive
 
 ### Determining if an object is aware or naive
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "html — `html` — HyperText Markup Language support", "file": "html/html-escape-to-html-unescape.md", "summary": "Open when checking html — `html` — HyperText Markup Language support.", "keywords": []},
+    {"topic": "html - `html` - HyperText Markup Language support", "file": "html/html-escape-to-html-unescape.md", "summary": "Open when checking html - `html` - HyperText Markup Language support.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

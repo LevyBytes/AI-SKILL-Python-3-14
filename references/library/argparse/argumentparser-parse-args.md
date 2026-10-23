@@ -1,4 +1,4 @@
-# argparse — The parse_args() method
+# argparse - The parse_args() method
 
 ### The parse_args() method
 

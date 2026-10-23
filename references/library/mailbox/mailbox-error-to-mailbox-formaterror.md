@@ -1,4 +1,4 @@
-# mailbox — Exceptions
+# mailbox - Exceptions
 
 ### Exceptions
 

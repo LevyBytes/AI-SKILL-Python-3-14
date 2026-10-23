@@ -1,4 +1,4 @@
-# hashlib — Key derivation
+# hashlib - Key derivation
 
 ### Key derivation
 

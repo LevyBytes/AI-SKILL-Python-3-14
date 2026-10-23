@@ -24,7 +24,6 @@
     {"topic": "Passing values into a generator", "file": "functional/passing-values-into-a-generator.md", "summary": "Open when checking Passing values into a generator.", "keywords": []},
     {"topic": "Python documentation", "file": "functional/python-documentation.md", "summary": "Open when checking Python documentation.", "keywords": []},
     {"topic": "Python-specific", "file": "functional/python-specific.md", "summary": "Open when checking Python-specific.", "keywords": []},
-    {"topic": "Revision History and Acknowledgements", "file": "functional/revision-history-and-acknowledgements.md", "summary": "Open when checking Revision History and Acknowledgements.", "keywords": []},
     {"topic": "Selecting elements", "file": "functional/selecting-elements.md", "summary": "Open when checking Selecting elements.", "keywords": []},
     {"topic": "Small functions and the lambda expression continuation", "file": "functional/small-functions-and-the-lambda-expression-continuation.md", "summary": "Open when checking Small functions and the lambda expression continuation.", "keywords": []},
     {"topic": "Small functions and the lambda expression", "file": "functional/small-functions-and-the-lambda-expression.md", "summary": "Open when checking Small functions and the lambda expression.", "keywords": []},

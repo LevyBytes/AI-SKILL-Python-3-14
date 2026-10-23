@@ -1,4 +1,4 @@
-# doctest — Directives
+# doctest - Directives
 
 ### Directives
 

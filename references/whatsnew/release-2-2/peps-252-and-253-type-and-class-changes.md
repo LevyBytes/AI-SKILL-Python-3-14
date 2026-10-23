@@ -1,4 +1,4 @@
-# What’s New in Python 2.2 / PEPs 252 and 253: Type and Class Changes — collections
+# What’s New in Python 2.2 / PEPs 252 and 253: Type and Class Changes - collections
 
 ### PEPs 252 and 253: Type and Class Changes
 

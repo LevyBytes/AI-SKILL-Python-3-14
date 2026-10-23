@@ -11,4 +11,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 1 / tools demos / to3 works run zipped standard library: [Python 3.9.0 alpha 1 / tools demos / to3 works run zipped standard library](to3-works-run-zipped-standard-library.md).
 - Open when checking Python 3.9.0 alpha 1 / tools demos / unicode: [Python 3.9.0 alpha 1 / tools demos / unicode](unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

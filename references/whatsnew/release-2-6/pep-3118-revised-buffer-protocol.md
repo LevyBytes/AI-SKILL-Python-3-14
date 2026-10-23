@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 3118: Revised Buffer Protocol — re
+# What’s New in Python 2.6 / PEP 3118: Revised Buffer Protocol - re
 
 ### PEP 3118: Revised Buffer Protocol
 

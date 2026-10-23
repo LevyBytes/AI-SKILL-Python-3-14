@@ -1,6 +1,6 @@
 # gc: `gc.enable()`, `gc.disable()`, `gc.isenabled()`, `gc.collect()`, `gc.set_debug()`, `gc.get_debug()`, `gc.get_objects()`, `gc.get_stats()`, `gc.set_threshold()`
 
-### `gc` — Garbage Collector interface
+### `gc` - Garbage Collector interface
 
 ---
 

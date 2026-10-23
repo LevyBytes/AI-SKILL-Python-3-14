@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 3148: The `concurrent.futures` module — concurrent.futures
+# What's New In Python 3.2 / PEP 3148: The `concurrent.futures` module - concurrent.futures
 
 ### PEP 3148: The `concurrent.futures` module
 

@@ -1,4 +1,4 @@
-# urllib.request — HTTPPasswordMgrWithPriorAuth Objects
+# urllib.request - HTTPPasswordMgrWithPriorAuth Objects
 
 ### HTTPPasswordMgrWithPriorAuth Objects
 

@@ -2,13 +2,13 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking dis — Command-line interface: [dis — Command-line interface](command-line-interface.md).
+- Open when checking dis - Command-line interface: [dis - Command-line interface](command-line-interface.md).
 - Open when checking the documented contracts for `dis.Bytecode` in dis. [dis: `dis.Bytecode`](dis-bytecode-class.md).
 - Open when checking the documented contracts for `from_traceback()`, `dis()`, `info()` in dis.Bytecode. [dis.Bytecode: `from_traceback()`, `dis()`, `info()`](dis-bytecode-dis-to-dis-bytecode-info.md).
 - Open when checking the documented contracts for `dis.code_info()`, `dis.show_code()`, `dis.dis()`, `dis.distb()` in dis. [dis: `dis.code_info()`, `dis.show_code()`, `dis.dis()`, `dis.distb()`](dis-code-info-to-dis-distb.md).
 - Open when checking the documented contracts for `dis.disassemble()`, `dis.disco()`, `dis.get_instructions()`, `dis.findlinestarts()`, `dis.findlabels()` in dis. [dis: `dis.disassemble()`, `dis.disco()`, `dis.get_instructions()`, `dis.findlinestarts()`, `dis.findlabels()`](dis-disassemble-to-dis-findlabels.md).
 - Open when checking the documented contracts for `dis.stack_effect()` in dis. [dis: `dis.stack_effect()`](dis-stack-effect.md).
-- Open when checking dis — `dis` — Disassembler for Python bytecode: [dis — `dis` — Disassembler for Python bytecode](dis-disassembler-for-python-bytecode.md).
+- Open when checking dis`dis` - Disassembler for Python bytecode: [dis`dis` - Disassembler for Python bytecode](dis-disassembler-for-python-bytecode.md).
 - Open when checking the documented contracts for `dis.Instruction` in dis. [dis: `dis.Instruction`](dis-instruction-class.md).
 - Open when checking the documented contracts for `RESUME()`, `SEND()` in dis.Positions. [dis.Positions: `RESUME()`, `SEND()`](dis-positions-resume-to-dis-positions-send.md).
 - Open when checking the documented contracts for `SETUP_FINALLY()`, `SETUP_CLEANUP()`, `SETUP_WITH()`, `LOAD_CONST_IMMORTAL()`, `LOAD_CLOSURE()` in dis.Positions. [dis.Positions: `SETUP_FINALLY()`, `SETUP_CLEANUP()`, `SETUP_WITH()`, `LOAD_CONST_IMMORTAL()`, `LOAD_CLOSURE()`](dis-positions-setup-finally-to-dis-positions-load-closure.md).
@@ -26,7 +26,7 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `COPY_FREE_VARS()`, `RAISE_VARARGS()`, `CALL()`, `CALL_KW()`, `CALL_FUNCTION_EX()` in dis.Positions. [dis.Positions: `COPY_FREE_VARS()`, `RAISE_VARARGS()`, `CALL()`, `CALL_KW()`, `CALL_FUNCTION_EX()`](bytecode-closure-copying-and-function-calls.md).
 - Open when checking the documented contracts for `SET_FUNCTION_ATTRIBUTE()`, `BUILD_SLICE()`, `EXTENDED_ARG()` in dis.Positions. [dis.Positions: `SET_FUNCTION_ATTRIBUTE()`, `BUILD_SLICE()`, `EXTENDED_ARG()`](bytecode-function-attributes-and-argument-extension.md).
 - Open when checking the documented contracts for `CONVERT_VALUE()`, `MATCH_CLASS()` in dis.Positions. [dis.Positions: `CONVERT_VALUE()`, `MATCH_CLASS()`](dis-positions-convert-value-to-dis-positions-match-class.md).
-- Open when checking dis — Opcode collections: [dis — Opcode collections](dis-opname-to-dis-hasjabs.md).
-- Open when checking dis — MATCH_CLASS bytecode instruction: [dis — MATCH_CLASS bytecode instruction](match-class-bytecode-instruction.md).
+- Open when checking dis - Opcode collections: [dis - Opcode collections](dis-opname-to-dis-hasjabs.md).
+- Open when checking dis - MATCH_CLASS bytecode instruction: [dis - MATCH_CLASS bytecode instruction](match-class-bytecode-instruction.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

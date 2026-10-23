@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Builtins — functools, io, sys
+# What's New In Python 3.0 / Builtins - functools, io, sys
 
 ### Builtins
 

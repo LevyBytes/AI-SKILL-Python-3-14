@@ -1,6 +1,6 @@
-# typing — `typing` — Support for type hints
+# typing`typing` - Support for type hints
 
-### `typing` — Support for type hints
+### `typing` - Support for type hints
 
 Added in version 3.5.
 

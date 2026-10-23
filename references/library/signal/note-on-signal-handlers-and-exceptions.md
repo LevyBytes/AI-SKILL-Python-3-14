@@ -1,4 +1,4 @@
-# signal — Note on Signal Handlers and Exceptions
+# signal - Note on Signal Handlers and Exceptions
 
 ### Note on Signal Handlers and Exceptions
 

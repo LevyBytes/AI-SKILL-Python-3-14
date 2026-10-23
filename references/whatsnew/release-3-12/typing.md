@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / typing — inspect, typing
+# What’s New In Python 3.12 / typing - inspect, typing
 
 ### typing
 

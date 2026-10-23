@@ -1,4 +1,4 @@
-# Pure Embedding — Py_Initialize, PyUnicode_DecodeFSDefault, PyImport_Import, PyObject_GetAttrString, PyCallable_Check, Py_XDECREF, PyObject_CallObject
+# Pure Embedding - Py_Initialize, PyUnicode_DecodeFSDefault, PyImport_Import, PyObject_GetAttrString, PyCallable_Check, Py_XDECREF, PyObject_CallObject
 
 ```python
 def multiply(a,b):

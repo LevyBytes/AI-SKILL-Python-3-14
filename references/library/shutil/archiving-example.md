@@ -1,4 +1,4 @@
-# shutil — Archiving example
+# shutil - Archiving example
 
 ### Archiving example
 

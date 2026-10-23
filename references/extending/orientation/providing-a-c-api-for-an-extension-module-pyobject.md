@@ -1,4 +1,4 @@
-# Providing a C API for an Extension Module — PyObject
+# Providing a C API for an Extension Module - PyObject
 
 ```c
 static int

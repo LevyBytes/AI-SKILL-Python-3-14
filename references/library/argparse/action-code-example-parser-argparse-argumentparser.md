@@ -1,4 +1,4 @@
-# argparse — action — Code example: >>> parser = argparse.ArgumentParser()
+# argparse - action - Code example: >>> parser = argparse.ArgumentParser()
 
 ```python
 >>> parser = argparse.ArgumentParser()

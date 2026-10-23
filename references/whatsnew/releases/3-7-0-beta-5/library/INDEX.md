@@ -35,4 +35,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 beta 5 / library / urllib robotparser: [Python 3.7.0 beta 5 / library / urllib robotparser](urllib-robotparser.md).
 - Open when checking Python 3.7.0 beta 5 / library / uuid: [Python 3.7.0 beta 5 / library / uuid](uuid.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

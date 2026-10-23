@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Misc — re
+# What's New In Python 3.11 / Misc - re
 
 ### Misc
 

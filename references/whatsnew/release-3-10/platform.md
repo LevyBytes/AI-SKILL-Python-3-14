@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / platform — platform
+# What's New In Python 3.10 / platform - platform
 
 ### platform
 

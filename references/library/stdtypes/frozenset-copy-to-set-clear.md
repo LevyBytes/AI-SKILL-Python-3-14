@@ -76,4 +76,4 @@ For detailed information on thread-safety guarantees for `set` objects, see [Thr
 
 Sets and frozensets are [generic](https://docs.python.org/3.14/library/typing.html#generics) over the type of their elements.
 
-[Subject index](INDEX.md) · [Previous](set-frozenset-len-to-set-symmetric-difference.md) · [Continue](dict-class-to-dict-class.md) · [Owning module, declaration or section: set; frozenset](set-class-to-frozenset-class.md) · [Owning module, declaration or section: Set Types — `set`, `frozenset`](set-class-to-frozenset-class.md)
+[Subject index](INDEX.md) · [Previous](set-frozenset-len-to-set-symmetric-difference.md) · [Continue](dict-class-to-dict-class.md) · [Owning module, declaration or section: set; frozenset](set-class-to-frozenset-class.md) · [Owning module, declaration or section: Set Types - `set`, `frozenset`](set-class-to-frozenset-class.md)

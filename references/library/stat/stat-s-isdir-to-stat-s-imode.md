@@ -2,7 +2,7 @@
 
 # Stat
 
-### `stat` — Interpreting [`stat()`](https://docs.python.org/3.14/library/os.html#os.stat) results
+### `stat` - Interpreting [`stat()`](https://docs.python.org/3.14/library/os.html#os.stat) results
 
 **Source code:** [Lib/stat.py](https://github.com/python/cpython/tree/3.14/Lib/stat.py)
 

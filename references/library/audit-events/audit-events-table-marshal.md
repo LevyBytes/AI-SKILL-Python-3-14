@@ -1,4 +1,4 @@
-# Audit events table — marshal
+# Audit events table - marshal
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

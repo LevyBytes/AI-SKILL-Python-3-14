@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / html — html.entities, html.parser
+# What's New In Python 3.3 / html - html.entities, html.parser
 
 ### html
 

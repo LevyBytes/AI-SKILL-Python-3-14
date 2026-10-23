@@ -1,6 +1,6 @@
-# unittest — `unittest` — Unit testing framework
+# unittest`unittest` - Unit testing framework
 
-### `unittest` — Unit testing framework
+### `unittest` - Unit testing framework
 
 **Source code:** [Lib/unittest/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/unittest/__init__.py)
 

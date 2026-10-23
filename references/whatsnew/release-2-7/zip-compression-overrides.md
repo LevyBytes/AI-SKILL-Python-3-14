@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / New and Improved Modules — zipfile
+# What’s New in Python 2.7 / New and Improved Modules - zipfile
 
 An optional *compress_type* parameter has been added to the [`writestr()`](https://docs.python.org/3.14/library/zipfile.html#zipfile.ZipFile.writestr) method, allowing you to override whatever default compression method was given in the [`ZipFile`](https://docs.python.org/3.14/library/zipfile.html#zipfile.ZipFile) constructor. (Contributed by Ronald Oussoren; [bpo-6003](https://bugs.python.org/issue?@action=redirect&bpo=6003).)
 

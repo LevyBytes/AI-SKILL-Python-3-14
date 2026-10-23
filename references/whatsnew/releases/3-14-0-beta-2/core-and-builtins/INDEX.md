@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 beta 2 / core and builtins / text and unicode: [Python 3.14.0 beta 2 / core and builtins / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.14.0 beta 2 / core and builtins / threading: [Python 3.14.0 beta 2 / core and builtins / threading](threading.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

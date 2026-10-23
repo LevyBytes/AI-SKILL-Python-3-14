@@ -1,4 +1,4 @@
-# Adding data and methods to the Basic example — headers and object structure, Custom_dealloc, Custom_new, Custom_init, Custom_members
+# Adding data and methods to the Basic example - headers and object structure, Custom_dealloc, Custom_new, Custom_init, Custom_members
 
 Open the [complete example modules](../../examples/extension-members/INDEX.md) for the complete definitions, imports and entrypoint.
 

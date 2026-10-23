@@ -1,6 +1,6 @@
-# configparser — `configparser` — Configuration file parser
+# configparser`configparser` - Configuration file parser
 
-### `configparser` — Configuration file parser
+### `configparser` - Configuration file parser
 
 **Source code:** [Lib/configparser.py](https://github.com/python/cpython/tree/3.14/Lib/configparser.py)
 

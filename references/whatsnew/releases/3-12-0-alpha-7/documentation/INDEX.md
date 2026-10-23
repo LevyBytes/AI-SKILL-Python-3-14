@@ -4,4 +4,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 
 - Open when checking Python 3.12.0 alpha 7 / documentation / http client: [Python 3.12.0 alpha 7 / documentation / http client](http-client.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

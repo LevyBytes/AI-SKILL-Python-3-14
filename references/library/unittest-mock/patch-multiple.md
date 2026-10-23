@@ -1,4 +1,4 @@
-# unittest.mock — patch.multiple
+# unittest.mock - patch.multiple
 
 ### patch.multiple
 

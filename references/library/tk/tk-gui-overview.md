@@ -1,4 +1,4 @@
-# Graphical user interfaces with Tk — Section introduction and initial examples
+# Graphical user interfaces with Tk - Section introduction and initial examples
 
 ### Graphical user interfaces with Tk
 
@@ -8,7 +8,7 @@ Sitting as a slim object-oriented layer over Tcl/Tk, the [`tkinter`](https://doc
 
 The main strengths of [`tkinter`](https://docs.python.org/3.14/library/tkinter.html#module-tkinter) are its speed and the fact that it normally ships with Python. Its official documentation may be thin, yet plenty of solid material exists — references, tutorials, a book, and more. `tkinter` is likewise well known for a dated appearance, something greatly refined in Tk 8.5. Even so, plenty of other GUI libraries might appeal to you. Several alternative [GUI frameworks and tools](https://wiki.python.org/moin/GuiProgramming) are catalogued on the Python wiki.
 
-- [`tkinter` — Python interface to Tcl/Tk](https://docs.python.org/3.14/library/tkinter.html)
+- [`tkinter` - Python interface to Tcl/Tk](https://docs.python.org/3.14/library/tkinter.html)
   - [Architecture](https://docs.python.org/3.14/library/tkinter.html#architecture)
   - [Tkinter Modules](https://docs.python.org/3.14/library/tkinter.html#tkinter-modules)
   - [Tkinter Life Preserver](https://docs.python.org/3.14/library/tkinter.html#tkinter-life-preserver)
@@ -32,17 +32,17 @@ The main strengths of [`tkinter`](https://docs.python.org/3.14/library/tkinter.h
 
   - [File Handlers](https://docs.python.org/3.14/library/tkinter.html#file-handlers)
 
-- [`tkinter.colorchooser` — Color choosing dialog](https://docs.python.org/3.14/library/tkinter.colorchooser.html)
-- [`tkinter.font` — Tkinter font wrapper](https://docs.python.org/3.14/library/tkinter.font.html)
+- [`tkinter.colorchooser` - Color choosing dialog](https://docs.python.org/3.14/library/tkinter.colorchooser.html)
+- [`tkinter.font` - Tkinter font wrapper](https://docs.python.org/3.14/library/tkinter.font.html)
 - [Tkinter Dialogs](https://docs.python.org/3.14/library/dialog.html)
-  - [`tkinter.simpledialog` — Standard Tkinter input dialogs](https://docs.python.org/3.14/library/dialog.html#module-tkinter.simpledialog)
-  - [`tkinter.filedialog` — File selection dialogs](https://docs.python.org/3.14/library/dialog.html#module-tkinter.filedialog)
+  - [`tkinter.simpledialog` - Standard Tkinter input dialogs](https://docs.python.org/3.14/library/dialog.html#module-tkinter.simpledialog)
+  - [`tkinter.filedialog` - File selection dialogs](https://docs.python.org/3.14/library/dialog.html#module-tkinter.filedialog)
     - [Native Load/Save Dialogs](https://docs.python.org/3.14/library/dialog.html#native-load-save-dialogs)
 
-  - [`tkinter.commondialog` — Dialog window templates](https://docs.python.org/3.14/library/dialog.html#module-tkinter.commondialog)
+  - [`tkinter.commondialog` - Dialog window templates](https://docs.python.org/3.14/library/dialog.html#module-tkinter.commondialog)
 
-- [`tkinter.messagebox` — Tkinter message prompts](https://docs.python.org/3.14/library/tkinter.messagebox.html)
-- [`tkinter.scrolledtext` — Scrolled Text Widget](https://docs.python.org/3.14/library/tkinter.scrolledtext.html)
-- [`tkinter.dnd` — Drag and drop support](https://docs.python.org/3.14/library/tkinter.dnd.html)
+- [`tkinter.messagebox` - Tkinter message prompts](https://docs.python.org/3.14/library/tkinter.messagebox.html)
+- [`tkinter.scrolledtext` - Scrolled Text Widget](https://docs.python.org/3.14/library/tkinter.scrolledtext.html)
+- [`tkinter.dnd` - Drag and drop support](https://docs.python.org/3.14/library/tkinter.dnd.html)
 
 [Subject index](INDEX.md) · [Previous](graphical-user-interfaces-with-tk.md) · [Continue](ttk-widget-routes.md)

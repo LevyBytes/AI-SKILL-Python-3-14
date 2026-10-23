@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "dbm.dumb — `dbm.dumb` — Portable DBM implementation", "file": "dbm-dumb/dbm-dumb-error-to-filename-dir.md", "summary": "Open when checking dbm.dumb — `dbm.dumb` — Portable DBM implementation.", "keywords": []},
-    {"topic": "dbm.dumb — **flag** (*str*) –", "file": "dbm-dumb/dumbdbm-close-to-dumbdbm-sync.md", "summary": "Open when checking dbm.dumb — **flag** (*str*) –.", "keywords": []},
+    {"topic": "dbm.dumb - `dbm.dumb` - Portable DBM implementation", "file": "dbm-dumb/dbm-dumb-error-to-filename-dir.md", "summary": "Open when checking dbm.dumb - `dbm.dumb` - Portable DBM implementation.", "keywords": []},
+    {"topic": "dbm.dumb - **flag** (*str*) –", "file": "dbm-dumb/dumbdbm-close-to-dumbdbm-sync.md", "summary": "Open when checking dbm.dumb - **flag** (*str*) –.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

@@ -1,4 +1,4 @@
-# logging.config — User-defined objects
+# logging.config - User-defined objects
 
 ### User-defined objects
 

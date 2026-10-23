@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / PYTHONMALLOC environment variable — tracemalloc
+# What's New In Python 3.6 / PYTHONMALLOC environment variable - tracemalloc
 
 A check now confirms the [GIL](https://docs.python.org/3.14/glossary.html#term-global-interpreter-lock) is being held whenever the allocator routines for the [`PYMEM_DOMAIN_OBJ`](https://docs.python.org/3.14/c-api/memory.html#c.PYMEM_DOMAIN_OBJ) (ex: [`PyObject_Malloc()`](https://docs.python.org/3.14/c-api/memory.html#c.PyObject_Malloc)) and [`PYMEM_DOMAIN_MEM`](https://docs.python.org/3.14/c-api/memory.html#c.PYMEM_DOMAIN_MEM) (ex: [`PyMem_Malloc()`](https://docs.python.org/3.14/c-api/memory.html#c.PyMem_Malloc)) domains run.
 

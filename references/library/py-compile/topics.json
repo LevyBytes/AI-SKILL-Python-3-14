@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "py_compile — Command-Line Interface", "file": "py-compile/command-line-interface.md", "summary": "Open when checking py_compile — Command-Line Interface.", "keywords": []},
+  {"topic": "py_compile - Command-Line Interface", "file": "py-compile/command-line-interface.md", "summary": "Open when checking py_compile - Command-Line Interface.", "keywords": []},
   {"topic": "py_compile: `py_compile.PyCompileError`, `py_compile.compile()`", "file": "py-compile/py-compile-pycompileerror-to-py-compile-compile.md", "summary": "Open when checking the documented contracts for `py_compile.PyCompileError`, `py_compile.compile()` in py_compile.", "keywords": []},
   {"topic": "py_compile: `py_compile.PycInvalidationMode`", "file": "py-compile/py-compile-pycinvalidationmode-class.md", "summary": "Open when checking the documented contracts for `py_compile.PycInvalidationMode` in py_compile.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

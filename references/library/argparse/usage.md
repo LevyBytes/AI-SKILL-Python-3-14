@@ -1,4 +1,4 @@
-# argparse — usage
+# argparse - usage
 
 ### usage
 

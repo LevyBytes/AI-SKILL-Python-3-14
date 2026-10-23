@@ -1,4 +1,4 @@
-# tkinter.ttk — Layouts
+# tkinter.ttk - Layouts
 
 ### Layouts
 

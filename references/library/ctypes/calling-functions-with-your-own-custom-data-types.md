@@ -1,4 +1,4 @@
-# ctypes — Calling functions with your own custom data types
+# ctypes - Calling functions with your own custom data types
 
 ### Calling functions with your own custom data types
 

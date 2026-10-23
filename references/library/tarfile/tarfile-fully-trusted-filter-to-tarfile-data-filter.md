@@ -1,4 +1,4 @@
-# tarfile — Default named filters
+# tarfile - Default named filters
 
 ### Default named filters
 

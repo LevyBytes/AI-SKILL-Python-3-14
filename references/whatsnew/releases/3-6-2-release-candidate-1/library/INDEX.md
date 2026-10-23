@@ -39,4 +39,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.2 release candidate 1 / library / within multiprocessing pool release references tasks arguments they carry their: [Python 3.6.2 release candidate 1 / library / within multiprocessing pool release references tasks arguments they carry their](process-pool-task-argument-reference-release.md).
 - Open when checking Python 3.6.2 release candidate 1 / library / zipfile: [Python 3.6.2 release candidate 1 / library / zipfile](zipfile.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — QName Objects
+# xml.etree.ElementTree - QName Objects
 
 ### QName Objects
 

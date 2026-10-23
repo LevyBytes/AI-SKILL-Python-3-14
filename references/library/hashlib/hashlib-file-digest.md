@@ -1,4 +1,4 @@
-# hashlib — File hashing
+# hashlib - File hashing
 
 ### File hashing
 

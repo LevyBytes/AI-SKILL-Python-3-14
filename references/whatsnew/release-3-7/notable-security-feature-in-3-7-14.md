@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Notable security feature in 3.7.14 — sys
+# What's New In Python 3.7 / Notable security feature in 3.7.14 - sys
 
 When you translate an [`int`](https://docs.python.org/3.14/library/functions.html#int) to or from a [`str`](https://docs.python.org/3.14/library/stdtypes.html#str) using any radix outside of 2 (binary), 4, 8 (octal), 16 (hexadecimal), or 32 — for example base 10 (decimal) — a [`ValueError`](https://docs.python.org/3.14/library/exceptions.html#ValueError) is now thrown whenever the string-form digit count exceeds a ceiling, a safeguard against possible denial of service attacks rooted in the algorithmic complexity. It serves as a fix for [**CVE 2020-10735**](https://www.cve.org/CVERecord?id=CVE-2020-10735). You can adjust or switch off that ceiling through an environment variable, a command line flag, or the [`sys`](https://docs.python.org/3.14/library/sys.html#module-sys) APIs. Refer to the [integer string conversion length limitation](https://docs.python.org/3.14/library/stdtypes.html#int-max-str-digits) documentation for details. Out of the box, the ceiling sits at 4300 digits in string form.
 

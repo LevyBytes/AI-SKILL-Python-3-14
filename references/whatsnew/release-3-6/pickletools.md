@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / pickletools — pickletools
+# What's New In Python 3.6 / pickletools - pickletools
 
 ### pickletools
 

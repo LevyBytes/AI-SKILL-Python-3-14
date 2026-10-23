@@ -1,4 +1,4 @@
-# tempfile — Deprecated functions and variables
+# tempfile - Deprecated functions and variables
 
 ### Deprecated functions and variables
 

@@ -1,4 +1,4 @@
-# msvcrt — Console I/O
+# msvcrt - Console I/O
 
 ### Console I/O
 

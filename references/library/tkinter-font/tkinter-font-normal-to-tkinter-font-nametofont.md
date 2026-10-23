@@ -1,8 +1,8 @@
-# tkinter.font — `tkinter.font` — Tkinter font wrapper
+# tkinter.font`tkinter.font` - Tkinter font wrapper
 
-## tkinter.font — Tkinter font wrapper
+## tkinter.font - Tkinter font wrapper
 
-### `tkinter.font` — Tkinter font wrapper
+### `tkinter.font` - Tkinter font wrapper
 
 **Source code:** [Lib/tkinter/font.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/font.py)
 

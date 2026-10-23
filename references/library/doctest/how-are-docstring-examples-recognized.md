@@ -1,4 +1,4 @@
-# doctest — How are Docstring Examples Recognized?
+# doctest - How are Docstring Examples Recognized?
 
 ### How are Docstring Examples Recognized?
 

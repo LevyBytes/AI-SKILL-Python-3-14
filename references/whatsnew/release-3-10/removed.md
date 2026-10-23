@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Removed — asyncio, asyncio-api-index, collections, collections.abc, html.parser
+# What's New In Python 3.10 / Removed - asyncio, asyncio-api-index, collections, collections.abc, html.parser
 
 ### Removed
 

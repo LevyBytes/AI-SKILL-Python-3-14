@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / The `ast` module — ast
+# What’s New in Python 2.6 / The `ast` module - ast
 
 ### The [`ast`](https://docs.python.org/3.14/library/ast.html#module-ast) module
 

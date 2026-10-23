@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 2.1.1. On Linux: [2.1.1. On Linux](on-linux.md).
 - Open when checking 2.3. Python-related paths and files: [2.3. Python-related paths and files](python-related-paths-and-files.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

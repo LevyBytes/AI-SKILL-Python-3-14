@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / itertools — itertools, random
+# What's New In Python 3.2 / itertools - itertools, random
 
 ### itertools
 

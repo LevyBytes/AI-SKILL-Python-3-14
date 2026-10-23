@@ -1,4 +1,4 @@
-# inspect — Code Objects Bit Flags
+# inspect - Code Objects Bit Flags
 
 ### Code Objects Bit Flags
 

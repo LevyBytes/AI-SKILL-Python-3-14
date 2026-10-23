@@ -1,4 +1,4 @@
-# unittest.mock — Using side_effect to return per file content
+# unittest.mock - Using side_effect to return per file content
 
 ### Using side_effect to return per file content
 

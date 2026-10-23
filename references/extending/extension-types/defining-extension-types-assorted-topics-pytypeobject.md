@@ -1,4 +1,4 @@
-# Defining Extension Types: Assorted Topics — PyTypeObject
+# Defining Extension Types: Assorted Topics - PyTypeObject
 
 ### 3. Defining Extension Types: Assorted Topics
 

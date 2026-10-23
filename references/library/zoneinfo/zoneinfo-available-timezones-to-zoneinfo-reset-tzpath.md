@@ -1,4 +1,4 @@
-# zoneinfo — Functions
+# zoneinfo - Functions
 
 ### Functions
 

@@ -1,16 +1,16 @@
-# mailcap — Structured Markup Processing Tools — Contract: `html` — HyperText Markup Language support
+# mailcap - Structured Markup Processing Tools - Contract: `html` - HyperText Markup Language support
 
-- [`html` — HyperText Markup Language support](https://docs.python.org/3.14/library/html.html)
-- [`html.parser` — Simple HTML and XHTML parser](https://docs.python.org/3.14/library/html.parser.html)
+- [`html` - HyperText Markup Language support](https://docs.python.org/3.14/library/html.html)
+- [`html.parser` - Simple HTML and XHTML parser](https://docs.python.org/3.14/library/html.parser.html)
   - [Example HTML Parser Application](https://docs.python.org/3.14/library/html.parser.html#example-html-parser-application)
   - [`HTMLParser` Methods](https://docs.python.org/3.14/library/html.parser.html#htmlparser-methods)
   - [Examples](https://docs.python.org/3.14/library/html.parser.html#examples)
 
-- [`html.entities` — Definitions of HTML general entities](https://docs.python.org/3.14/library/html.entities.html)
+- [`html.entities` - Definitions of HTML general entities](https://docs.python.org/3.14/library/html.entities.html)
 - [XML Processing Modules](https://docs.python.org/3.14/library/xml.html)
   - [XML security](https://docs.python.org/3.14/library/xml.html#xml-vulnerabilities)
 
-- [`xml.etree.ElementTree` — The ElementTree XML API](https://docs.python.org/3.14/library/xml.etree.elementtree.html)
+- [`xml.etree.ElementTree` - The ElementTree XML API](https://docs.python.org/3.14/library/xml.etree.elementtree.html)
   - [Tutorial](https://docs.python.org/3.14/library/xml.etree.elementtree.html#tutorial)
     - [XML tree and elements](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xml-tree-and-elements)
     - [Parsing XML](https://docs.python.org/3.14/library/xml.etree.elementtree.html#parsing-xml)
@@ -40,7 +40,7 @@
     - [XMLPullParser Objects](https://docs.python.org/3.14/library/xml.etree.elementtree.html#xmlpullparser-objects)
     - [Exceptions](https://docs.python.org/3.14/library/xml.etree.elementtree.html#exceptions)
 
-- [`xml.dom` — The Document Object Model API](https://docs.python.org/3.14/library/xml.dom.html)
+- [`xml.dom` - The Document Object Model API](https://docs.python.org/3.14/library/xml.dom.html)
   - [Module Contents](https://docs.python.org/3.14/library/xml.dom.html#module-contents)
   - [Objects in the DOM](https://docs.python.org/3.14/library/xml.dom.html#objects-in-the-dom)
     - [DOMImplementation Objects](https://docs.python.org/3.14/library/xml.dom.html#domimplementation-objects)
@@ -60,26 +60,26 @@
     - [Type Mapping](https://docs.python.org/3.14/library/xml.dom.html#type-mapping)
     - [Accessor Methods](https://docs.python.org/3.14/library/xml.dom.html#accessor-methods)
 
-- [`xml.dom.minidom` — Minimal DOM implementation](https://docs.python.org/3.14/library/xml.dom.minidom.html)
+- [`xml.dom.minidom` - Minimal DOM implementation](https://docs.python.org/3.14/library/xml.dom.minidom.html)
   - [DOM Objects](https://docs.python.org/3.14/library/xml.dom.minidom.html#dom-objects)
   - [DOM Example](https://docs.python.org/3.14/library/xml.dom.minidom.html#dom-example)
   - [minidom and the DOM standard](https://docs.python.org/3.14/library/xml.dom.minidom.html#minidom-and-the-dom-standard)
 
-- [`xml.dom.pulldom` — Support for building partial DOM trees](https://docs.python.org/3.14/library/xml.dom.pulldom.html)
+- [`xml.dom.pulldom` - Support for building partial DOM trees](https://docs.python.org/3.14/library/xml.dom.pulldom.html)
   - [DOMEventStream Objects](https://docs.python.org/3.14/library/xml.dom.pulldom.html#domeventstream-objects)
 
-- [`xml.sax` — Support for SAX2 parsers](https://docs.python.org/3.14/library/xml.sax.html)
+- [`xml.sax` - Support for SAX2 parsers](https://docs.python.org/3.14/library/xml.sax.html)
   - [SAXException Objects](https://docs.python.org/3.14/library/xml.sax.html#saxexception-objects)
 
-- [`xml.sax.handler` — Base classes for SAX handlers](https://docs.python.org/3.14/library/xml.sax.handler.html)
+- [`xml.sax.handler` - Base classes for SAX handlers](https://docs.python.org/3.14/library/xml.sax.handler.html)
   - [ContentHandler Objects](https://docs.python.org/3.14/library/xml.sax.handler.html#contenthandler-objects)
   - [DTDHandler Objects](https://docs.python.org/3.14/library/xml.sax.handler.html#dtdhandler-objects)
   - [EntityResolver Objects](https://docs.python.org/3.14/library/xml.sax.handler.html#entityresolver-objects)
   - [ErrorHandler Objects](https://docs.python.org/3.14/library/xml.sax.handler.html#errorhandler-objects)
   - [LexicalHandler Objects](https://docs.python.org/3.14/library/xml.sax.handler.html#lexicalhandler-objects)
 
-- [`xml.sax.saxutils` — SAX Utilities](https://docs.python.org/3.14/library/xml.sax.utils.html)
-- [`xml.sax.xmlreader` — Interface for XML parsers](https://docs.python.org/3.14/library/xml.sax.reader.html)
+- [`xml.sax.saxutils` - SAX Utilities](https://docs.python.org/3.14/library/xml.sax.utils.html)
+- [`xml.sax.xmlreader` - Interface for XML parsers](https://docs.python.org/3.14/library/xml.sax.reader.html)
   - [XMLReader Objects](https://docs.python.org/3.14/library/xml.sax.reader.html#xmlreader-objects)
   - [IncrementalParser Objects](https://docs.python.org/3.14/library/xml.sax.reader.html#incrementalparser-objects)
   - [Locator Objects](https://docs.python.org/3.14/library/xml.sax.reader.html#locator-objects)
@@ -87,7 +87,7 @@
   - [The `Attributes` Interface](https://docs.python.org/3.14/library/xml.sax.reader.html#the-attributes-interface)
   - [The `AttributesNS` Interface](https://docs.python.org/3.14/library/xml.sax.reader.html#the-attributesns-interface)
 
-- [`xml.parsers.expat` — Fast XML parsing using Expat](https://docs.python.org/3.14/library/pyexpat.html)
+- [`xml.parsers.expat` - Fast XML parsing using Expat](https://docs.python.org/3.14/library/pyexpat.html)
   - [XMLParser Objects](https://docs.python.org/3.14/library/pyexpat.html#xmlparser-objects)
   - [ExpatError Exceptions](https://docs.python.org/3.14/library/pyexpat.html#expaterror-exceptions)
   - [Example](https://docs.python.org/3.14/library/pyexpat.html#example)

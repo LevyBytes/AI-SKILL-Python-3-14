@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / graphlib — graphlib
+# What's new in Python 3.14 / graphlib - graphlib
 
 ### graphlib
 

@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / Writing Context Managers — sys
+# What's New in Python 2.5 / Writing Context Managers - sys
 
 ### Writing Context Managers
 

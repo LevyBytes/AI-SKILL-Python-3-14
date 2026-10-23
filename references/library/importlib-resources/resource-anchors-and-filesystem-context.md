@@ -1,4 +1,4 @@
-# importlib.resources — `importlib.resources` – Package resource reading, opening and access
+# importlib.resources`importlib.resources` – Package resource reading, opening and access
 
 ## importlib.resources – Package resource reading, opening and access
 
@@ -30,7 +30,7 @@ Any [`Loaders`](https://docs.python.org/3.14/library/importlib.html#importlib.ab
 
  *class *importlib.resources.Anchor
 
-Stands for a resource anchor — supplied as either a [`module object`](https://docs.python.org/3.14/library/types.html#types.ModuleType) or a module name given as a string. Its definition is `Union[str, ModuleType]`.
+Stands for a resource anchor: supplied as either a [`module object`](https://docs.python.org/3.14/library/types.html#types.ModuleType) or a module name given as a string. Its definition is `Union[str, ModuleType]`.
 
  importlib.resources.files(*anchor: Anchor | [None](https://docs.python.org/3.14/library/constants.html#None) = None*)
 

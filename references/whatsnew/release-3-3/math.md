@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / math — math
+# What's New In Python 3.3 / math - math
 
 ### math
 

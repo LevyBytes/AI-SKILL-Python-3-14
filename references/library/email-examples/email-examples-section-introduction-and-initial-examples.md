@@ -1,4 +1,4 @@
-# `email`: Examples — Section introduction and initial examples
+# `email`: Examples - Section introduction and initial examples
 
 # Email.Examples
 

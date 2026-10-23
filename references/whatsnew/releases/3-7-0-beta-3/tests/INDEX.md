@@ -6,4 +6,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 beta 3 / tests / build and platforms: [Python 3.7.0 beta 3 / tests / build and platforms](build-and-platforms.md).
 - Open when checking Python 3.7.0 beta 3 / tests / imports and modules: [Python 3.7.0 beta 3 / tests / imports and modules](imports-and-modules.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# Audit events table — fcntl
+# Audit events table - fcntl
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

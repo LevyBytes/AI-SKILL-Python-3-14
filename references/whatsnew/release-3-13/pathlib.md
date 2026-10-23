@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / pathlib — os.path, pathlib
+# What's New In Python 3.13 / pathlib - os.path, pathlib
 
 ### pathlib
 

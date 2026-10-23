@@ -1,4 +1,4 @@
-# http — HTTP status codes
+# http - HTTP status codes
 
 ### HTTP status codes
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / os — multiprocessing, os, os.path
+# What's New In Python 3.4 / os - multiprocessing, os, os.path
 
 ### os
 

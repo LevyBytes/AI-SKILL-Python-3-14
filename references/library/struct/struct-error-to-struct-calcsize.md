@@ -1,4 +1,4 @@
-# struct — Functions and Exceptions
+# struct - Functions and Exceptions
 
 ### Functions and Exceptions
 

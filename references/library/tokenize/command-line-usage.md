@@ -1,4 +1,4 @@
-# tokenize — Command-Line Usage
+# tokenize - Command-Line Usage
 
 ### Command-Line Usage
 

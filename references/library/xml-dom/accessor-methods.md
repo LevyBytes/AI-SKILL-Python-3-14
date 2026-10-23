@@ -1,4 +1,4 @@
-# xml.dom — Accessor Methods
+# xml.dom - Accessor Methods
 
 ### Accessor Methods
 

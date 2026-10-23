@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Changes in annotations (**PEP 649** and **PEP 749**) / Implications for readers of `__annotations__` — annotationlib, dataclasses
+# What's new in Python 3.14 / Changes in annotations (**PEP 649** and **PEP 749**) / Implications for readers of `__annotations__` - annotationlib, dataclasses
 
 #### Implications for readers of `__annotations__`
 

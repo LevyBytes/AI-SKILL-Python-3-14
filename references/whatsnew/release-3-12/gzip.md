@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / gzip — gzip
+# What’s New In Python 3.12 / gzip - gzip
 
 ### gzip
 

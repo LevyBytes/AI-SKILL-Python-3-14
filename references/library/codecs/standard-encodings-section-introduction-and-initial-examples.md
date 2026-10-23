@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — Section introduction and initial examples
+# codecs - Standard Encodings - Section introduction and initial examples
 
 ### Standard Encodings
 

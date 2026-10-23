@@ -1,8 +1,8 @@
-# pipes — `pipes` — Interface to shell pipelines
+# pipes`pipes` - Interface to shell pipelines
 
-## pipes — Interface to shell pipelines
+## pipes - Interface to shell pipelines
 
-### `pipes` — Interface to shell pipelines
+### `pipes` - Interface to shell pipelines
 
 Deprecated since version 3.11, removed in version 3.13.
 

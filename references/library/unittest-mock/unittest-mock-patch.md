@@ -1,4 +1,4 @@
-# unittest.mock — patch — Signature and initial contract
+# unittest.mock - patch - Signature and initial contract
 
 unittest.mock.patch(*target*, *new=DEFAULT*, *spec=None*, *create=False*, *spec_set=None*, *autospec=None*, *new_callable=None*, ***kwargs*)
 

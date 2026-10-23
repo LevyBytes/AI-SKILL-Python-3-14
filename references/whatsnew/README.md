@@ -25,7 +25,7 @@ flowchart LR
 
 Historical Python release references for understanding when features changed and what migrations required. Version-specific guides keep new behavior, compatibility notes and removals tied to the release that introduced them.
 
-Use when researching historical Python release changes, new language or standard-library features, PEP introductions, compatibility changes, deprecations, removal schedules, porting guidance or dated CPython maintenance/prerelease fixes. Bundled Python 3.14 documentation includes Python 2.0–2.7 and 3.0–3.14 feature guides and changelog histories. Not a claim of current runtime availability or a substitute for the current API reference.
+Use when researching historical Python release changes, new language or standard-library features, PEP introductions, compatibility changes, deprecations, removal schedules, porting guidance or dated CPython maintenance/prerelease fixes. Covers Python 2.0 to 2.7 and 3.0 to 3.14 feature guides and changelogs.
 
 ## What this skill helps with
 

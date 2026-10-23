@@ -1,4 +1,4 @@
-# contextlib — Reusable context managers
+# contextlib - Reusable context managers
 
 ### Reusable context managers
 

@@ -1,4 +1,4 @@
-# ftplib — Module variables
+# ftplib - Module variables
 
 ### Module variables
 

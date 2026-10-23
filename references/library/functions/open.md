@@ -1,4 +1,4 @@
-# Built-in Functions — Signature and initial contract
+# Built-in Functions - Signature and initial contract
 
 open(*file*, *mode='r'*, *buffering=-1*, *encoding=None*, *errors=None*, *newline=None*, *closefd=True*, *opener=None*)
 

@@ -1,4 +1,4 @@
-# tracemalloc — Pretty top
+# tracemalloc - Pretty top
 
 ### Pretty top
 

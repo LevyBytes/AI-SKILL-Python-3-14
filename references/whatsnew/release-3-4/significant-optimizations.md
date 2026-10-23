@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Significant Optimizations — bz2, collections, html, locale, lzma, os, random, re, subprocess
+# What's New In Python 3.4 / Significant Optimizations - bz2, collections, html, locale, lzma, os, random, re, subprocess
 
 ### Significant Optimizations
 

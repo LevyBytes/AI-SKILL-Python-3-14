@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / The `Context` type — decimal
+# What’s New in Python 2.4 / The `Context` type - decimal
 
 `traps` is a dictionary that dictates the response when particular error situations arise: either an exception gets raised or a value comes back. A few sample error situations include division by zero, precision loss, and overflow.
 

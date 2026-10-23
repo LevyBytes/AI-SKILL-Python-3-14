@@ -1,8 +1,8 @@
-# tkinter.colorchooser — `tkinter.colorchooser` — Color choosing dialog
+# tkinter.colorchooser`tkinter.colorchooser` - Color choosing dialog
 
-## tkinter.colorchooser — Color choosing dialog
+## tkinter.colorchooser - Color choosing dialog
 
-### `tkinter.colorchooser` — Color choosing dialog
+### `tkinter.colorchooser` - Color choosing dialog
 
 **Source code:** [Lib/tkinter/colorchooser.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/colorchooser.py)
 

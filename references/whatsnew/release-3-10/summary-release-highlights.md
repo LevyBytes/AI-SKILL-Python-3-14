@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Summary — Release highlights
+# What's New In Python 3.10 / Summary - Release highlights
 
 ### What's New In Python 3.10
 
@@ -8,7 +8,7 @@ Pablo Galindo Salgado
 
 Here we walk through what changed in Python 3.10 relative to 3.9. The 3.10 release shipped on October 4, 2021. The complete record lives in the [changelog](https://docs.python.org/3.14/whatsnew/changelog.html#changelog).
 
-### Summary — Release highlights
+### Summary - Release highlights
 
 New syntax features:
 

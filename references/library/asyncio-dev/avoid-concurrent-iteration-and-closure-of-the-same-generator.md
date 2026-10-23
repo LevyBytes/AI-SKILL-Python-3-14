@@ -1,4 +1,4 @@
-# asyncio — Avoid concurrent iteration and closure of the same generator
+# asyncio - Avoid concurrent iteration and closure of the same generator
 
 ### Avoid concurrent iteration and closure of the same generator
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / functools — functools
+# What’s New In Python 3.8 / functools - functools
 
 > (Contributed by Paul Ganssle in [bpo-36004](https://bugs.python.org/issue?@action=redirect&bpo=36004).)
 

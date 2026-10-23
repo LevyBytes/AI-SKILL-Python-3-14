@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / PEP 436: Argument Clinic — inspect, pydoc
+# What's New In Python 3.4 / PEP 436: Argument Clinic - inspect, pydoc
 
 ### PEP 436: Argument Clinic
 

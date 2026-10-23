@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "Generic Operating System Services — Section introduction and initial examples", "file": "operating-system-services-overview.md", "summary": "Open when checking Generic Operating System Services — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Generic Operating System Services - Section introduction and initial examples", "file": "operating-system-services-overview.md", "summary": "Open when checking Generic Operating System Services - Section introduction and initial examples.", "keywords": []},
     {"topic": "Generic Operating System Services", "file": "allos/generic-operating-system-services.md", "summary": "Open when checking Generic Operating System Services.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]

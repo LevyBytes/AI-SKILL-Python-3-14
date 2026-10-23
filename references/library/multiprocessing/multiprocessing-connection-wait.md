@@ -1,4 +1,4 @@
-# multiprocessing — Listeners and Clients — Signature and initial contract
+# multiprocessing - Listeners and Clients - Signature and initial contract
 
 multiprocessing.connection.wait(*object_list*, *timeout=None*)
 

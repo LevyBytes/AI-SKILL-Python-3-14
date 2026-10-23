@@ -1,4 +1,4 @@
-# Development Tools — Section introduction and initial examples
+# Development Tools - Section introduction and initial examples
 
 # Development
 
@@ -8,7 +8,7 @@ This chapter's modules assist you in writing software. The [`pydoc`](https://doc
 
 Here are the modules this chapter covers:
 
-- [`typing` — Support for type hints](https://docs.python.org/3.14/library/typing.html)
+- [`typing` - Support for type hints](https://docs.python.org/3.14/library/typing.html)
   - [Specification for the Python Type System](https://docs.python.org/3.14/library/typing.html#specification-for-the-python-type-system)
   - [Type aliases](https://docs.python.org/3.14/library/typing.html#type-aliases)
   - [NewType](https://docs.python.org/3.14/library/typing.html#newtype)
@@ -43,13 +43,13 @@ Here are the modules this chapter covers:
 
   - [Deprecation Timeline of Major Features](https://docs.python.org/3.14/library/typing.html#deprecation-timeline-of-major-features)
 
-- [`pydoc` — Documentation generator and online help system](https://docs.python.org/3.14/library/pydoc.html)
+- [`pydoc` - Documentation generator and online help system](https://docs.python.org/3.14/library/pydoc.html)
 - [Python Development Mode](https://docs.python.org/3.14/library/devmode.html)
   - [Effects of the Python Development Mode](https://docs.python.org/3.14/library/devmode.html#effects-of-the-python-development-mode)
   - [ResourceWarning Example](https://docs.python.org/3.14/library/devmode.html#resourcewarning-example)
   - [Bad file descriptor error example](https://docs.python.org/3.14/library/devmode.html#bad-file-descriptor-error-example)
 
-- [`doctest` — Test interactive Python examples](https://docs.python.org/3.14/library/doctest.html)
+- [`doctest` - Test interactive Python examples](https://docs.python.org/3.14/library/doctest.html)
   - [Simple Usage: Checking Examples in Docstrings](https://docs.python.org/3.14/library/doctest.html#simple-usage-checking-examples-in-docstrings)
   - [Simple Usage: Checking Examples in a Text File](https://docs.python.org/3.14/library/doctest.html#simple-usage-checking-examples-in-a-text-file)
   - [Command-line Usage](https://docs.python.org/3.14/library/doctest.html#command-line-usage)

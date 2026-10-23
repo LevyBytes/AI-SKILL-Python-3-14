@@ -25,7 +25,7 @@ flowchart LR
 
 Task-oriented Python guidance for techniques that need more context than an API entry. The HOWTO collection connects language features, concurrency and development tools through focused explanations and examples.
 
-Use when applying Python HOWTO guidance: asyncio, argparse, curses, descriptors, enums, functional programming, sorting, regular expressions, Unicode, networking, logging, free threading, extension isolation, annotations, migration, GDB, tracing, profiling or remote debugging. Bundled Python 3.14 documentation includes historical version-specific material; use the source version and platform conditions.
+Use when applying Python HOWTO guidance: asyncio, argparse, curses, descriptors, enums, functional programming, sorting, regular expressions, Unicode, networking, logging, free threading, extension isolation, annotations, migration, GDB, tracing, profiling or remote debugging.
 
 ## What this skill helps with
 

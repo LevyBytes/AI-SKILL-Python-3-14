@@ -1,4 +1,4 @@
-# urllib.parse — URL Parsing — Signature and initial contract
+# urllib.parse - URL Parsing - Signature and initial contract
 
 urllib.parse.urlsplit(*urlstring*, *scheme=None*, *allow_fragments=True*)
 

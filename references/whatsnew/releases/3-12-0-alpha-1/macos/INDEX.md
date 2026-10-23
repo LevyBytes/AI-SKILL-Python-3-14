@@ -4,4 +4,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 
 - Open when checking Python 3.12.0 alpha 1 / macos / os: [Python 3.12.0 alpha 1 / macos / os](os.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

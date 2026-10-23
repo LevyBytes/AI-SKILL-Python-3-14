@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / socketserver — http.server, io, socketserver, wsgiref, xmlrpc.server
+# What's New In Python 3.6 / socketserver - http.server, io, socketserver, wsgiref, xmlrpc.server
 
 ### socketserver
 

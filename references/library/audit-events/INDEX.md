@@ -2,49 +2,49 @@
 
 Select by the documented task or API context. [Topic catalog](topics.json).
 
-- Open when checking Audit events table — Section introduction and initial examples. [Audit event catalog / Audit events table — Section introduction and initial examples](audit-events-table-section-introduction-and-initial-examples.md).
-- Open when checking Audit events table — _thread. [Audit events table / Audit events table — _thread](audit-events-table-thread.md).
-- Open when checking Audit events table — array. [Audit events table / Audit events table — array](audit-events-table-array.md).
-- Open when checking Audit events table — builtins. [Audit events table / Audit events table — builtins](audit-events-table-builtins.md).
-- Open when checking Audit events table — code. [Audit events table / Audit events table — code](audit-events-table-code.md).
-- Open when checking Audit events table — compile. [Audit events table / Audit events table — compile](audit-events-table-compile.md).
-- Open when checking Audit events table — cpython. [Audit events table / Audit events table — cpython](audit-events-table-cpython.md).
-- Open when checking Audit events table — ctypes. [Audit events table / Audit events table — ctypes](audit-events-table-ctypes.md).
-- Open when checking Audit events table — ensurepip. [Audit events table / Audit events table — ensurepip](audit-events-table-ensurepip.md).
-- Open when checking Audit events table — exec. [Audit events table / Audit events table — exec](audit-events-table-exec.md).
-- Open when checking Audit events table — fcntl. [Audit events table / Audit events table — fcntl](audit-events-table-fcntl.md).
-- Open when checking Audit events table — ftplib. [Audit events table / Audit events table — ftplib](audit-events-table-ftplib.md).
-- Open when checking Audit events table — function. [Audit events table / Audit events table — function](audit-events-table-function.md).
-- Open when checking Audit events table — gc. [Audit events table / Audit events table — gc](audit-events-table-gc.md).
-- Open when checking Audit events table — glob. [Audit events table / Audit events table — glob](audit-events-table-glob.md).
-- Open when checking Audit events table — http. [Audit events table / Audit events table — http](audit-events-table-http.md).
-- Open when checking Audit events table — imaplib. [Audit events table / Audit events table — imaplib](audit-events-table-imaplib.md).
-- Open when checking Audit events table — import. [Audit events table / Audit events table — import](audit-events-table-import.md).
-- Open when checking Audit events table — marshal. [Audit events table / Audit events table — marshal](audit-events-table-marshal.md).
-- Open when checking Audit events table — mmap. [Audit events table / Audit events table — mmap](audit-events-table-mmap.md).
-- Open when checking Audit events table — msvcrt. [Audit events table / Audit events table — msvcrt](audit-events-table-msvcrt.md).
-- Open when checking Audit events table — object. [Audit events table / Audit events table — object](audit-events-table-object.md).
-- Open when checking Audit events table — open. [Audit events table / Audit events table — open](audit-events-table-open.md).
-- Open when checking Audit events table — os. [Audit events table / Audit events table — os](audit-events-table-os.md).
-- Open when checking Audit events table — pathlib. [Audit events table / Audit events table — pathlib](audit-events-table-pathlib.md).
-- Open when checking Audit events table — pdb. [Audit events table / Audit events table — pdb](audit-events-table-pdb.md).
-- Open when checking Audit events table — pickle. [Audit events table / Audit events table — pickle](audit-events-table-pickle.md).
-- Open when checking Audit events table — poplib. [Audit events table / Audit events table — poplib](audit-events-table-poplib.md).
-- Open when checking Audit events table — pty. [Audit events table / Audit events table — pty](audit-events-table-pty.md).
-- Open when checking Audit events table — resource. [Audit events table / Audit events table — resource](audit-events-table-resource.md).
-- Open when checking Audit events table — setopencodehook. [Audit events table / Audit events table — setopencodehook](audit-events-table-setopencodehook.md).
-- Open when checking Audit events table — shutil. [Audit events table / Audit events table — shutil](audit-events-table-shutil.md).
-- Open when checking Audit events table — signal. [Audit events table / Audit events table — signal](audit-events-table-signal.md).
-- Open when checking Audit events table — smtplib. [Audit events table / Audit events table — smtplib](audit-events-table-smtplib.md).
-- Open when checking Audit events table — socket. [Audit events table / Audit events table — socket](audit-events-table-socket.md).
-- Open when checking Audit events table — sqlite3. [Audit events table / Audit events table — sqlite3](audit-events-table-sqlite3.md).
-- Open when checking Audit events table — subprocess. [Audit events table / Audit events table — subprocess](audit-events-table-subprocess.md).
-- Open when checking Audit events table — sys. [Audit events table / Audit events table — sys](audit-events-table-sys.md).
-- Open when checking Audit events table — syslog. [Audit events table / Audit events table — syslog](audit-events-table-syslog.md).
-- Open when checking Audit events table — tempfile. [Audit events table / Audit events table — tempfile](audit-events-table-tempfile.md).
-- Open when checking Audit events table — time. [Audit events table / Audit events table — time](audit-events-table-time.md).
-- Open when checking Audit events table — urllib. [Audit events table / Audit events table — urllib](audit-events-table-urllib.md).
-- Open when checking Audit events table — webbrowser. [Audit events table / Audit events table — webbrowser](audit-events-table-webbrowser.md).
-- Open when checking Audit events table — winreg. [Audit events table / Audit events table — winreg](audit-events-table-winreg.md).
-- Open when checking Audit events table — Contract: These next events fire internally and map to no public API within CPython:. [Audit events table / Audit events table — Contract: These next events fire internally and map to no public API within CPython:](internal-cpython-audit-events.md).
+- Open when checking Audit events table - Section introduction and initial examples. [Audit event catalog / Audit events table - Section introduction and initial examples](audit-events-table-section-introduction-and-initial-examples.md).
+- Open when checking Audit events table - _thread. [Audit events table / Audit events table - _thread](audit-events-table-thread.md).
+- Open when checking Audit events table - array. [Audit events table / Audit events table - array](audit-events-table-array.md).
+- Open when checking Audit events table - builtins. [Audit events table / Audit events table - builtins](audit-events-table-builtins.md).
+- Open when checking Audit events table - code. [Audit events table / Audit events table - code](audit-events-table-code.md).
+- Open when checking Audit events table - compile. [Audit events table / Audit events table - compile](audit-events-table-compile.md).
+- Open when checking Audit events table - cpython. [Audit events table / Audit events table - cpython](audit-events-table-cpython.md).
+- Open when checking Audit events table - ctypes. [Audit events table / Audit events table - ctypes](audit-events-table-ctypes.md).
+- Open when checking Audit events table - ensurepip. [Audit events table / Audit events table - ensurepip](audit-events-table-ensurepip.md).
+- Open when checking Audit events table - exec. [Audit events table / Audit events table - exec](audit-events-table-exec.md).
+- Open when checking Audit events table - fcntl. [Audit events table / Audit events table - fcntl](audit-events-table-fcntl.md).
+- Open when checking Audit events table - ftplib. [Audit events table / Audit events table - ftplib](audit-events-table-ftplib.md).
+- Open when checking Audit events table - function. [Audit events table / Audit events table - function](audit-events-table-function.md).
+- Open when checking Audit events table - gc. [Audit events table / Audit events table - gc](audit-events-table-gc.md).
+- Open when checking Audit events table - glob. [Audit events table / Audit events table - glob](audit-events-table-glob.md).
+- Open when checking Audit events table - http. [Audit events table / Audit events table - http](audit-events-table-http.md).
+- Open when checking Audit events table - imaplib. [Audit events table / Audit events table - imaplib](audit-events-table-imaplib.md).
+- Open when checking Audit events table - import. [Audit events table / Audit events table - import](audit-events-table-import.md).
+- Open when checking Audit events table - marshal. [Audit events table / Audit events table - marshal](audit-events-table-marshal.md).
+- Open when checking Audit events table - mmap. [Audit events table / Audit events table - mmap](audit-events-table-mmap.md).
+- Open when checking Audit events table - msvcrt. [Audit events table / Audit events table - msvcrt](audit-events-table-msvcrt.md).
+- Open when checking Audit events table - object. [Audit events table / Audit events table - object](audit-events-table-object.md).
+- Open when checking Audit events table - open. [Audit events table / Audit events table - open](audit-events-table-open.md).
+- Open when checking Audit events table - os. [Audit events table / Audit events table - os](audit-events-table-os.md).
+- Open when checking Audit events table - pathlib. [Audit events table / Audit events table - pathlib](audit-events-table-pathlib.md).
+- Open when checking Audit events table - pdb. [Audit events table / Audit events table - pdb](audit-events-table-pdb.md).
+- Open when checking Audit events table - pickle. [Audit events table / Audit events table - pickle](audit-events-table-pickle.md).
+- Open when checking Audit events table - poplib. [Audit events table / Audit events table - poplib](audit-events-table-poplib.md).
+- Open when checking Audit events table - pty. [Audit events table / Audit events table - pty](audit-events-table-pty.md).
+- Open when checking Audit events table - resource. [Audit events table / Audit events table - resource](audit-events-table-resource.md).
+- Open when checking Audit events table - setopencodehook. [Audit events table / Audit events table - setopencodehook](audit-events-table-setopencodehook.md).
+- Open when checking Audit events table - shutil. [Audit events table / Audit events table - shutil](audit-events-table-shutil.md).
+- Open when checking Audit events table - signal. [Audit events table / Audit events table - signal](audit-events-table-signal.md).
+- Open when checking Audit events table - smtplib. [Audit events table / Audit events table - smtplib](audit-events-table-smtplib.md).
+- Open when checking Audit events table - socket. [Audit events table / Audit events table - socket](audit-events-table-socket.md).
+- Open when checking Audit events table - sqlite3. [Audit events table / Audit events table - sqlite3](audit-events-table-sqlite3.md).
+- Open when checking Audit events table - subprocess. [Audit events table / Audit events table - subprocess](audit-events-table-subprocess.md).
+- Open when checking Audit events table - sys. [Audit events table / Audit events table - sys](audit-events-table-sys.md).
+- Open when checking Audit events table - syslog. [Audit events table / Audit events table - syslog](audit-events-table-syslog.md).
+- Open when checking Audit events table - tempfile. [Audit events table / Audit events table - tempfile](audit-events-table-tempfile.md).
+- Open when checking Audit events table - time. [Audit events table / Audit events table - time](audit-events-table-time.md).
+- Open when checking Audit events table - urllib. [Audit events table / Audit events table - urllib](audit-events-table-urllib.md).
+- Open when checking Audit events table - webbrowser. [Audit events table / Audit events table - webbrowser](audit-events-table-webbrowser.md).
+- Open when checking Audit events table - winreg. [Audit events table / Audit events table - winreg](audit-events-table-winreg.md).
+- Open when checking Audit events table - Contract: These next events fire internally and map to no public API within CPython:. [Audit events table / Audit events table - Contract: These next events fire internally and map to no public API within CPython:](internal-cpython-audit-events.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

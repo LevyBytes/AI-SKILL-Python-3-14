@@ -1,4 +1,4 @@
-# What’s New in Python 2.1 / Other Changes and Fixes — readline, string, sys
+# What’s New in Python 2.1 / Other Changes and Fixes - readline, string, sys
 
 ### Other Changes and Fixes
 
@@ -47,4 +47,4 @@ Ben Wolfson originally proposed and built a stricter form of this patch, but fol
 
 Beyond that sits the customary assortment of small bugfixes, small memory leaks, docstring touch-ups, and other adjustments — far too many to bother listing out; consult the CVS logs if you want every detail.
 
-[Subject index](INDEX.md) · [Previous source section](new-and-improved-modules.md) · [Next source section](acknowledgements.md) · [Release/subject declaration](introduction.md)
+[Subject index](INDEX.md) · [Previous source section](new-and-improved-modules.md) · [Release/subject declaration](introduction.md)

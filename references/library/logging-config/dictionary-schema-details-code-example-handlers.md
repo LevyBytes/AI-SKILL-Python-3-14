@@ -1,4 +1,4 @@
-# logging.config — Dictionary Schema Details — Code example: handlers:
+# logging.config - Dictionary Schema Details - Code example: handlers:
 
 ```yaml
 handlers:

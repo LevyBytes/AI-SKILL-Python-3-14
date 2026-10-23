@@ -1,4 +1,4 @@
-# datetime — `strftime()` and `strptime()` format codes
+# datetime`strftime()` and `strptime()` format codes
 
 ### `strftime()` and `strptime()` format codes
 

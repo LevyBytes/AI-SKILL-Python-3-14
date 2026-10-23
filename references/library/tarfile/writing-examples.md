@@ -1,4 +1,4 @@
-# tarfile — Writing examples
+# tarfile - Writing examples
 
 ### Writing examples
 

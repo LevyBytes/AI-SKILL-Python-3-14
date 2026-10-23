@@ -1,4 +1,4 @@
-# datetime — `tzinfo` objects — Imports, offsets and complete LocalTimezone implementation
+# datetime`tzinfo` objects - Imports, offsets and complete LocalTimezone implementation
 
 Open the [complete example modules](../../examples/timezone-rules/INDEX.md) for the complete definitions, imports and entrypoint.
 

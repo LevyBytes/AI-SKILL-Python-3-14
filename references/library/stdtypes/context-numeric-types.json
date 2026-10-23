@@ -1,11 +1,11 @@
 {"schema_version": 1, "owner": "references/library", "topics": [
-  {"topic": "Numeric Types — `int`, `float`, `complex`", "file": "stdtypes/numeric-types-int-float-complex.md", "summary": "Open when checking Numeric Types — `int`, `float`, `complex`.", "keywords": []},
-  {"topic": "Numeric Types — int, float, complex / Bitwise Operations on Integer Types", "file": "stdtypes/bitwise-operations-on-integer-types.md", "summary": "Open when checking Bitwise Operations on Integer Types.", "keywords": []},
+  {"topic": "Numeric Types - `int`, `float`, `complex`", "file": "stdtypes/numeric-types-int-float-complex.md", "summary": "Open when checking Numeric Types - `int`, `float`, `complex`.", "keywords": []},
+  {"topic": "Numeric Types - int, float, complex / Bitwise Operations on Integer Types", "file": "stdtypes/bitwise-operations-on-integer-types.md", "summary": "Open when checking Bitwise Operations on Integer Types.", "keywords": []},
   {"topic": "stdtypes: `int.bit_length()`, `int.bit_count()`", "file": "stdtypes/int-bit-length-to-int-bit-count.md", "summary": "Open when checking the documented contracts for `int.bit_length()`, `int.bit_count()` in stdtypes.", "keywords": []},
   {"topic": "stdtypes: `int.to_bytes()`", "file": "stdtypes/int-to-bytes.md", "summary": "Open when checking the documented contracts for `int.to_bytes()` in stdtypes.", "keywords": []},
   {"topic": "stdtypes: `int.from_bytes()`, `int.as_integer_ratio()`, `int.is_integer()`", "file": "stdtypes/int-as-integer-ratio-to-int-is-integer.md", "summary": "Open when checking the documented contracts for `int.from_bytes()`, `int.as_integer_ratio()`, `int.is_integer()` in stdtypes.", "keywords": []},
-  {"topic": "Numeric Types — int, float, complex / Additional Methods on Float", "file": "stdtypes/float-as-integer-ratio-to-float-hex.md", "summary": "Open when checking Additional Methods on Float.", "keywords": []},
-  {"topic": "Numeric Types — int, float, complex / Additional Methods on Complex", "file": "stdtypes/additional-methods-on-complex.md", "summary": "Open when checking Additional Methods on Complex.", "keywords": []},
-  {"topic": "Numeric Types — int, float, complex / Hashing of numeric types", "file": "stdtypes/hashing-of-numeric-types.md", "summary": "Open when checking Hashing of numeric types.", "keywords": []},
+  {"topic": "Numeric Types - int, float, complex / Additional Methods on Float", "file": "stdtypes/float-as-integer-ratio-to-float-hex.md", "summary": "Open when checking Additional Methods on Float.", "keywords": []},
+  {"topic": "Numeric Types - int, float, complex / Additional Methods on Complex", "file": "stdtypes/additional-methods-on-complex.md", "summary": "Open when checking Additional Methods on Complex.", "keywords": []},
+  {"topic": "Numeric Types - int, float, complex / Hashing of numeric types", "file": "stdtypes/hashing-of-numeric-types.md", "summary": "Open when checking Hashing of numeric types.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,6 +1,6 @@
-# venv — `venv` — Creation of virtual environments
+# venv`venv` - Creation of virtual environments
 
-### `venv` — Creation of virtual environments
+### `venv` - Creation of virtual environments
 
 Added in version 3.3.
 
@@ -16,7 +16,7 @@ Among other roles, a virtual environment is:
 
 - A holder for one particular Python interpreter together with the software libraries and binaries a given project (whether a library or an application) relies on. By default these stand apart from software in separate virtual environments as well as from Python interpreters and libraries that the operating system has installed.
 
-- Kept inside a directory — by convention called `.venv` or `venv` within the project folder, or otherwise grouped beneath a container folder meant to hold many virtual environments, for instance `~/.virtualenvs`.
+- Kept inside a directory: by convention called `.venv` or `venv` within the project folder, or otherwise grouped beneath a container folder meant to hold many virtual environments, for instance `~/.virtualenvs`.
 
 - Left out of source control systems like Git.
 

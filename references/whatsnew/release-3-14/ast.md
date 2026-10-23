@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / ast — ast, copy
+# What's new in Python 3.14 / ast - ast, copy
 
 ### ast
 

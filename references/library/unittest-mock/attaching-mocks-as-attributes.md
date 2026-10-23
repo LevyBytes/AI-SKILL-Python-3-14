@@ -1,4 +1,4 @@
-# unittest.mock — Attaching Mocks as Attributes
+# unittest.mock - Attaching Mocks as Attributes
 
 ### Attaching Mocks as Attributes
 

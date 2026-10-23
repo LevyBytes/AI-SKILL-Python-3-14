@@ -26,4 +26,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 1 / idle / windows: [Python 3.9.0 alpha 1 / idle / windows](windows.md).
 - Open when checking Python 3.9.0 alpha 1 / idle / writing non encodable characters stderr no longer breaks idle: [Python 3.9.0 alpha 1 / idle / writing non encodable characters stderr no longer breaks idle](writing-non-encodable-characters-stderr-no-longer-breaks-idle.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

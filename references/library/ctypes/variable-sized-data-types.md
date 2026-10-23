@@ -1,4 +1,4 @@
-# ctypes — Variable-sized data types
+# ctypes - Variable-sized data types
 
 ### Variable-sized data types
 

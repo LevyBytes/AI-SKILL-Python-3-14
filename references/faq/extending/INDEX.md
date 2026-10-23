@@ -20,4 +20,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking I want to compile a Python module on my Linux system, but some files are missing. Why?: [I want to compile a Python module on my Linux system, but some files are missing. Why?](linux-extension-build-missing-files.md).
 - Open when checking Writing C is hard; are there any alternatives?: [Writing C is hard; are there any alternatives?](writing-c-is-hard-are-there-any-alternatives.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

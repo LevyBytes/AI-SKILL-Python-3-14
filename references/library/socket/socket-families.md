@@ -1,4 +1,4 @@
-# socket — Socket families
+# socket - Socket families
 
 `HV_GUID_ZERO`
 

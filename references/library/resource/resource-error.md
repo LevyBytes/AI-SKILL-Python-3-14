@@ -1,4 +1,4 @@
-# resource — `resource` — Resource usage information
+# resource`resource` - Resource usage information
 
 # Resource, Rlcompleter
 
@@ -6,9 +6,9 @@
 
 Covers: resource — Resource usage information; rlcompleter — Completion function for GNU readline.
 
-## resource — Resource usage information
+## resource - Resource usage information
 
-### `resource` — Resource usage information
+### `resource` - Resource usage information
 
 ---
 

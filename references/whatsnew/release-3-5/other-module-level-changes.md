@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / Other module-level changes — codecs, mmap, socket, ssl
+# What’s New In Python 3.5 / Other module-level changes - codecs, mmap, socket, ssl
 
 ### Other module-level changes
 

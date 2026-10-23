@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / operator — operator
+# What's New In Python 3.4 / operator - operator
 
 ### operator
 

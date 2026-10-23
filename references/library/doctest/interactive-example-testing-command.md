@@ -1,4 +1,4 @@
-# doctest — `doctest` — Test interactive Python examples — Code example: $ python example.py
+# doctest`doctest` - Test interactive Python examples - Code example: $ python example.py
 
 ```shell
 $ python example.py

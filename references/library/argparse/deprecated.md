@@ -1,4 +1,4 @@
-# argparse — deprecated
+# argparse - deprecated
 
 ### deprecated
 

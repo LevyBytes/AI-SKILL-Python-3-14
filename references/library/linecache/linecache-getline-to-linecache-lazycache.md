@@ -1,8 +1,8 @@
-# linecache — `linecache` — Random access to text lines
+# linecache`linecache` - Random access to text lines
 
-## linecache — Random access to text lines
+## linecache - Random access to text lines
 
-### `linecache` — Random access to text lines
+### `linecache` - Random access to text lines
 
 **Source code:** [Lib/linecache.py](https://github.com/python/cpython/tree/3.14/Lib/linecache.py)
 

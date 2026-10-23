@@ -1,9 +1,9 @@
 {"schema_version": 1, "owner": "references/library", "topics": [
-  {"topic": "Overview and scope / ast — `ast` — Abstract syntax trees", "file": "ast/ast-abstract-syntax-trees.md", "summary": "Open when checking ast — `ast` — Abstract syntax trees.", "keywords": []},
+  {"topic": "Overview and scope / ast - `ast` - Abstract syntax trees", "file": "ast/ast-abstract-syntax-trees.md", "summary": "Open when checking ast - `ast` - Abstract syntax trees.", "keywords": []},
   {"topic": "Abstract grammar", "file": "ast/context-abstract-grammar.md", "summary": "Open when checking abstract grammar.", "keywords": []},
   {"topic": "Node classes", "file": "ast/context-node-classes.md", "summary": "Open when checking node classes.", "keywords": []},
   {"topic": "ast helpers", "file": "ast/context-ast-helpers.md", "summary": "Open when checking ast helpers.", "keywords": []},
-  {"topic": "Compiler flags / ast — Compiler flags", "file": "ast/ast-pycf-allow-top-level-await-to-ast-pycf-type-comments.md", "summary": "Open when checking ast — Compiler flags.", "keywords": []},
-  {"topic": "Command-line usage / ast — Command-line usage", "file": "ast/command-line-usage.md", "summary": "Open when checking ast — Command-line usage.", "keywords": []},
+  {"topic": "Compiler flags / ast - Compiler flags", "file": "ast/ast-pycf-allow-top-level-await-to-ast-pycf-type-comments.md", "summary": "Open when checking ast - Compiler flags.", "keywords": []},
+  {"topic": "Command-line usage / ast - Command-line usage", "file": "ast/command-line-usage.md", "summary": "Open when checking ast - Command-line usage.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

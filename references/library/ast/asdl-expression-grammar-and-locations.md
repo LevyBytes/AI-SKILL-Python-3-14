@@ -1,4 +1,4 @@
-# ast — Abstract grammar — Complete expr alternatives and location attributes
+# ast - Abstract grammar - Complete expr alternatives and location attributes
 
 ```asdl
           -- BoolOp() can use left & right?

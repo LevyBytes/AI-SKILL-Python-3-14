@@ -1,4 +1,4 @@
-# pathlib — Comparison to the `glob` module
+# pathlib - Comparison to the `glob` module
 
 ### Comparison to the [`glob`](https://docs.python.org/3.14/library/glob.html#module-glob) module
 

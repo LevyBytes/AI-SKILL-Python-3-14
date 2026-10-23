@@ -20,4 +20,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 2 / core and builtins / turn async await into proper keywords per pep: [Python 3.7.0 alpha 2 / core and builtins / turn async await into proper keywords per pep](turn-async-await-into-proper-keywords-per-pep.md).
 - Open when checking Python 3.7.0 alpha 2 / core and builtins / u option stdout stderr streams unbuffered instead line buffered: [Python 3.7.0 alpha 2 / core and builtins / u option stdout stderr streams unbuffered instead line buffered](unbuffered-standard-output-and-error.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

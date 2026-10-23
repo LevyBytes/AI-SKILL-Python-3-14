@@ -1,4 +1,4 @@
-# json — `json` — JSON encoder and decoder — Code example: >>> import json
+# json`json` - JSON encoder and decoder - Code example: >>> import json
 
 ```python
 >>> import json

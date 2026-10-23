@@ -1,4 +1,4 @@
-# unittest.mock — mock_open
+# unittest.mock - mock_open
 
 ### mock_open
 

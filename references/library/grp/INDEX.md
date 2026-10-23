@@ -2,6 +2,6 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking grp — `grp` — The group database: [grp — `grp` — The group database](grp-getgrgid-to-grp-getgrall.md).
+- Open when checking grp`grp` - The group database: [grp`grp` - The group database](grp-getgrgid-to-grp-getgrall.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

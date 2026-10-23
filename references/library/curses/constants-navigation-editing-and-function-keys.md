@@ -1,4 +1,4 @@
-# curses — Constants — Navigation, editing and function keys
+# curses - Constants - Navigation, editing and function keys
 
 | Key constant | Key |
 | --- | --- |

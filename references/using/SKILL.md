@@ -3,7 +3,7 @@ name: using
 description: "Use when configuring or invoking Python 3.14, choosing command-line options and environment variables, building CPython, or installing and embedding Python on Unix, Windows, macOS, Android or iOS."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 552: Hash-based .pyc Files — compileall, py_compile
+# What's New In Python 3.7 / PEP 552: Hash-based .pyc Files - compileall, py_compile
 
 ### PEP 552: Hash-based .pyc Files
 
@@ -12,7 +12,7 @@ For further details consult [Cached bytecode invalidation](https://docs.python.o
 
 See also
 
-[**PEP 552**](https://peps.python.org/pep-0552/) — Deterministic pycs
+[**PEP 552**](https://peps.python.org/pep-0552/): Deterministic pycs
 
 PEP written and implemented by Benjamin Peterson
 

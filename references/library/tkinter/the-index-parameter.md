@@ -1,4 +1,4 @@
-# tkinter — The index Parameter
+# tkinter - The index Parameter
 
 ### The index Parameter
 

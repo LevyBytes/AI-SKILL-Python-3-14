@@ -1,8 +1,8 @@
 # zlib: Checksums and compression constructors
 
-## zlib — Compression compatible with gzip
+## zlib - Compression compatible with gzip
 
-### `zlib` — Compression compatible with **gzip**
+### `zlib` - Compression compatible with **gzip**
 
 ---
 

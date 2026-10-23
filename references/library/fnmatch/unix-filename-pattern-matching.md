@@ -1,4 +1,4 @@
-# fnmatch — Unix filename pattern matching
+# fnmatch - Unix filename pattern matching
 
 # Fnmatch, Fractions, Frameworks
 
@@ -6,6 +6,6 @@
 
 Topics here: fnmatch, which does Unix filename pattern matching; fractions, which handles rational numbers; plus Program frameworks.
 
-## fnmatch — Unix filename pattern matching
+## fnmatch - Unix filename pattern matching
 
 [Subject index](INDEX.md) · [Continue](fnmatch-fnmatch-to-fnmatch-translate.md)

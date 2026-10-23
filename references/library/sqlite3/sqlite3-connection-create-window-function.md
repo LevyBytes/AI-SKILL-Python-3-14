@@ -1,4 +1,4 @@
-# sqlite3 — Connection objects — Signature and initial contract
+# sqlite3 - Connection objects - Signature and initial contract
 
 create_window_function(*name*, *num_params*, *aggregate_class*, */*)
 

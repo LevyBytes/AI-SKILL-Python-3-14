@@ -1,4 +1,4 @@
-# http.server — Security considerations
+# http.server - Security considerations
 
 ### Security considerations
 

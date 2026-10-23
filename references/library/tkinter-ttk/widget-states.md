@@ -1,4 +1,4 @@
-# tkinter.ttk — Widget States
+# tkinter.ttk - Widget States
 
 ### Widget States
 

@@ -1,4 +1,4 @@
-# hashlib — Usage
+# hashlib - Usage
 
 ### Usage
 

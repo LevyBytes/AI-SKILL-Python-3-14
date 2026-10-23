@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / sys — sys, sys.monitoring
+# What’s New In Python 3.12 / sys - sys, sys.monitoring
 
 ### sys
 

@@ -1,4 +1,4 @@
-# os — Files and Directories — Contract: Even though Windows supports `chmod()`, the only thing you can change there is the file's read-only flag (through the `stat.S_IWRITE` and `stat.S_IREAD` constants or an equivalent integer value).
+# os - Files and Directories - Contract: Even though Windows supports `chmod()`, the only thing you can change there is the file's read-only flag (through the `stat.S_IWRITE` and `stat.S_IREAD` constants or an equivalent integer value).
 
 Even though Windows supports `chmod()`, the only thing you can change there is the file's read-only flag (through the `stat.S_IWRITE` and `stat.S_IREAD` constants or an equivalent integer value). Every other bit is disregarded. On Windows the default value of *follow_symlinks* is `False`.
 

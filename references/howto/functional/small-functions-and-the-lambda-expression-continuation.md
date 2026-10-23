@@ -51,4 +51,4 @@ Remove the comment.
 
 These guidelines appeal to me a lot, though you are welcome to take a different view on whether dropping lambdas truly reads better.
 
-[Subject index](INDEX.md) · [Previous source owning section](small-functions-and-the-lambda-expression.md) · [Following source context](revision-history-and-acknowledgements.md)
+[Subject index](INDEX.md) · [Previous source owning section](small-functions-and-the-lambda-expression.md) · [Following source context](general.md)

@@ -1,4 +1,4 @@
-# Audit events table — gc
+# Audit events table - gc
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

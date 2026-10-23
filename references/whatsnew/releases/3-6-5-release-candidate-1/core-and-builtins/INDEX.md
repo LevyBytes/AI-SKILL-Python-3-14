@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.5 release candidate 1 / core and builtins / sharpened suggestion offered python print statement form appears either: [Python 3.6.5 release candidate 1 / core and builtins / sharpened suggestion offered python print statement form appears either](legacy-print-statement-syntax-suggestions.md).
 - Open when checking Python 3.6.5 release candidate 1 / core and builtins / text and unicode: [Python 3.6.5 release candidate 1 / core and builtins / text and unicode](text-and-unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

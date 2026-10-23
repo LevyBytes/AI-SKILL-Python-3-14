@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Changes in the Python API — concurrent.futures, functools, gc, locale, mimetypes, multiprocessing, sys, types, typing
+# What's new in Python 3.14 / Changes in the Python API - concurrent.futures, functools, gc, locale, mimetypes, multiprocessing, sys, types, typing
 
 ### Changes in the Python API
 

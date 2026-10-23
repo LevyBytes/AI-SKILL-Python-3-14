@@ -1,6 +1,6 @@
-# wsgiref — `wsgiref` — WSGI Utilities and Reference Implementation
+# wsgiref`wsgiref` - WSGI Utilities and Reference Implementation
 
-### `wsgiref` — WSGI Utilities and Reference Implementation
+### `wsgiref` - WSGI Utilities and Reference Implementation
 
 **Source code:** [Lib/wsgiref](https://github.com/python/cpython/tree/3.14/Lib/wsgiref)
 

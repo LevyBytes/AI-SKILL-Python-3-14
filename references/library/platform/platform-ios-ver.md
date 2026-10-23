@@ -1,4 +1,4 @@
-# platform — iOS platform
+# platform - iOS platform
 
 ### iOS platform
 

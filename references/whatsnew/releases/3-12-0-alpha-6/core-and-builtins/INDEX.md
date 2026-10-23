@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 6 / core and builtins / threads and concurrency: [Python 3.12.0 alpha 6 / core and builtins / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.12.0 alpha 6 / core and builtins / tracemalloc: [Python 3.12.0 alpha 6 / core and builtins / tracemalloc](tracemalloc.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -10,4 +10,4 @@ The new `make regen-all` target now takes its place.
 
 Changed in version 2.7.14.
 
-[Subject index](INDEX.md) · [Previous source section](new-make-regen-all-build-target.md) · [Next source section](acknowledgements.md) · [Release/subject declaration](the-future-for-python-2-x.md)
+[Subject index](INDEX.md) · [Previous source section](new-make-regen-all-build-target.md) · [Release/subject declaration](the-future-for-python-2-x.md)

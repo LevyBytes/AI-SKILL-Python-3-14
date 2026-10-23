@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Built-ins — copy, pickle
+# What's new in Python 3.14 / Built-ins - copy, pickle
 
 ### Built-ins
 

@@ -1,4 +1,4 @@
-# zipimport — Examples
+# zipimport - Examples
 
 ### Examples
 

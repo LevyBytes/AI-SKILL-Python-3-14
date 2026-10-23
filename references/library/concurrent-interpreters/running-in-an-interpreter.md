@@ -1,4 +1,4 @@
-# concurrent.interpreters — Running in an Interpreter
+# concurrent.interpreters - Running in an Interpreter
 
 ### Running in an Interpreter
 

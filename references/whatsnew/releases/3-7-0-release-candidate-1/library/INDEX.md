@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 release candidate 1 / library / text and unicode: [Python 3.7.0 release candidate 1 / library / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.7.0 release candidate 1 / library / unicodedata: [Python 3.7.0 release candidate 1 / library / unicodedata](unicodedata.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / http.client — http.client, http.server
+# What's New In Python 3.2 / http.client - http.client, http.server
 
 ### http.client
 

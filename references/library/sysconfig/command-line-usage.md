@@ -1,4 +1,4 @@
-# sysconfig — Command-line usage
+# sysconfig - Command-line usage
 
 ### Command-line usage
 

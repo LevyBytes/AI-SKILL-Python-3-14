@@ -1,4 +1,4 @@
-# Supporting cyclic garbage collection — Custom_members, Custom_getfirst, Custom_setfirst, Custom_getlast, Custom_setlast, Custom_getsetters, Custom_name, Custom_methods
+# Supporting cyclic garbage collection - Custom_members, Custom_getfirst, Custom_setfirst, Custom_getlast, Custom_setlast, Custom_getsetters, Custom_name, Custom_methods
 
 Open the [complete example modules](../../examples/extension-gc/INDEX.md) for the complete definitions, imports and entrypoint.
 

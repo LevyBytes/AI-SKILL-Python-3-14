@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / io — io
+# What’s New In Python 3.8 / io - io
 
 > (Contributed by Raymond Hettinger in [bpo-36326](https://bugs.python.org/issue?@action=redirect&bpo=36326).)
 

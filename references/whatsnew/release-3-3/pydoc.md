@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / pydoc — pydoc
+# What's New In Python 3.3 / pydoc - pydoc
 
 ### pydoc
 

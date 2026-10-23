@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Porting to Python 3.6 / Changes in the C API / CPython bytecode changes — dis
+# What's New In Python 3.6 / Porting to Python 3.6 / Changes in the C API / CPython bytecode changes - dis
 
 ### CPython bytecode changes
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / The `fractions` Module — fractions
+# What’s New in Python 2.6 / The `fractions` Module - fractions
 
 ### The [`fractions`](https://docs.python.org/3.14/library/fractions.html#module-fractions) Module
 

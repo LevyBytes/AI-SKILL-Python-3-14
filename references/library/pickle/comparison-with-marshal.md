@@ -1,4 +1,4 @@
-# pickle — Comparison with `marshal`
+# pickle - Comparison with `marshal`
 
 ### Relationship to other Python modules
 

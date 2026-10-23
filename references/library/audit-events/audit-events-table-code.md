@@ -1,4 +1,4 @@
-# Audit events table — code
+# Audit events table - code
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -1,4 +1,4 @@
-# Intermezzo: Errors and Exceptions — PyErr_SetString, PyExc_ZeroDivisionError, PyErr_SetFromErrno, PyErr_SetObject, Py_INCREF, PyErr_Occurred, PyErr_, PyErr_Clear, PyErr_NoMemory, PyLong_FromLong, PyArg_ParseTuple, Py_XDECREF, Py_DECREF, PyExc_TypeError, PyExc_OSError, PyExc_ValueError, PyObject, PyErr_NewException, Py_mod_exec, PyExc_ImportError, PyModule_AddObjectRef, PyModuleDef_Slot, PyModuleDef, PyModuleDef_HEAD_INIT, PyMODINIT_FUNC, PyInit_spam, PyModuleDef_Init
+# Intermezzo: Errors and Exceptions - PyErr_SetString, PyExc_ZeroDivisionError, PyErr_SetFromErrno, PyErr_SetObject, Py_INCREF, PyErr_Occurred, PyErr_, PyErr_Clear, PyErr_NoMemory, PyLong_FromLong, PyArg_ParseTuple, Py_XDECREF, Py_DECREF, PyExc_TypeError, PyExc_OSError, PyExc_ValueError, PyObject, PyErr_NewException, Py_mod_exec, PyExc_ImportError, PyModule_AddObjectRef, PyModuleDef_Slot, PyModuleDef, PyModuleDef_HEAD_INIT, PyMODINIT_FUNC, PyInit_spam, PyModuleDef_Init
 
 ### 1.2. Intermezzo: Errors and Exceptions
 

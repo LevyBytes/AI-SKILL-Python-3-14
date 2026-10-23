@@ -1,4 +1,4 @@
-# timeit — Command-Line Interface
+# timeit - Command-Line Interface
 
 ### Command-Line Interface
 

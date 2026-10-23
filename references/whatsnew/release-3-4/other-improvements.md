@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Other Improvements — argparse, bz2, gzip, lzma, readline, stat, sys, test
+# What's New In Python 3.4 / Other Improvements - argparse, bz2, gzip, lzma, readline, stat, sys, test
 
 ### Other Improvements
 

@@ -1,4 +1,4 @@
-# __main__ — `__main__.py` in Python Packages
+# __main__`__main__.py` in Python Packages
 
 ### `__main__.py` in Python Packages
 

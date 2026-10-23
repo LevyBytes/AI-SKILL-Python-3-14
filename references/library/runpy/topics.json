@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "runpy — Locating and executing Python modules", "file": "runpy/locating-and-executing-python-modules.md", "summary": "Open when checking runpy — Locating and executing Python modules.", "keywords": []},
+  {"topic": "runpy - Locating and executing Python modules", "file": "runpy/locating-and-executing-python-modules.md", "summary": "Open when checking runpy - Locating and executing Python modules.", "keywords": []},
   {"topic": "runpy: `runpy.run_module()`", "file": "runpy/runpy-run-module.md", "summary": "Open when checking the documented contracts for `runpy.run_module()` in runpy.", "keywords": []},
   {"topic": "runpy: `runpy.run_path()`", "file": "runpy/runpy-run-path.md", "summary": "Open when checking the documented contracts for `runpy.run_path()` in runpy.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

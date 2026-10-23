@@ -1,4 +1,4 @@
-# zipapp — The Python Zip Application Archive Format
+# zipapp - The Python Zip Application Archive Format
 
 ### The Python Zip Application Archive Format
 

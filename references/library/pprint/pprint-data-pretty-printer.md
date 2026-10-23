@@ -1,8 +1,8 @@
-# pprint — `pprint` — Data pretty printer
+# pprint`pprint` - Data pretty printer
 
 # Pprint
 
-### `pprint` — Data pretty printer
+### `pprint` - Data pretty printer
 
 **Source code:** [Lib/pprint.py](https://github.com/python/cpython/tree/3.14/Lib/pprint.py)
 

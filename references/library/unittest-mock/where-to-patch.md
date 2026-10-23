@@ -1,4 +1,4 @@
-# unittest.mock — Where to patch
+# unittest.mock - Where to patch
 
 ### Where to patch
 

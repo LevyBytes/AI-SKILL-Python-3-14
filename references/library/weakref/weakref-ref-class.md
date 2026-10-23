@@ -2,7 +2,7 @@
 
 # Weakref
 
-### `weakref` — Weak references
+### `weakref` - Weak references
 
 **Source code:** [Lib/weakref.py](https://github.com/python/cpython/tree/3.14/Lib/weakref.py)
 

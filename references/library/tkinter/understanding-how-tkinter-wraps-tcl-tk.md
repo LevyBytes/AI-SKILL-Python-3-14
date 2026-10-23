@@ -1,4 +1,4 @@
-# tkinter — Understanding How Tkinter Wraps Tcl/Tk
+# tkinter - Understanding How Tkinter Wraps Tcl/Tk
 
 ### Understanding How Tkinter Wraps Tcl/Tk
 

@@ -1,4 +1,4 @@
-# logging — Thread Safety
+# logging - Thread Safety
 
 ### Thread Safety
 

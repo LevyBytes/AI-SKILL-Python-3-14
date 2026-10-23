@@ -1,4 +1,4 @@
-# multiprocessing.shared_memory — Internet Data Handling
+# multiprocessing.shared_memory - Internet Data Handling
 
 ## Internet Data Handling
 
@@ -6,7 +6,7 @@
 
 The modules outlined in this chapter back the handling of data formats that the internet relies on widely.
 
-- [`email` — An email and MIME handling package](https://docs.python.org/3.14/library/email.html)
+- [`email` - An email and MIME handling package](https://docs.python.org/3.14/library/email.html)
   - [`email.message`: Representing an email message](https://docs.python.org/3.14/library/email.message.html)
   - [`email.parser`: Parsing email messages](https://docs.python.org/3.14/library/email.parser.html)
     - [FeedParser API](https://docs.python.org/3.14/library/email.parser.html#feedparser-api)
@@ -29,7 +29,7 @@ The modules outlined in this chapter back the handling of data formats that the 
   - [`email.utils`: Miscellaneous utilities](https://docs.python.org/3.14/library/email.utils.html)
   - [`email.iterators`: Iterators](https://docs.python.org/3.14/library/email.iterators.html)
 
-- [`json` — JSON encoder and decoder](https://docs.python.org/3.14/library/json.html)
+- [`json` - JSON encoder and decoder](https://docs.python.org/3.14/library/json.html)
   - [Basic Usage](https://docs.python.org/3.14/library/json.html#basic-usage)
   - [Encoders and Decoders](https://docs.python.org/3.14/library/json.html#encoders-and-decoders)
   - [Exceptions](https://docs.python.org/3.14/library/json.html#exceptions)
@@ -43,7 +43,7 @@ The modules outlined in this chapter back the handling of data formats that the 
   - [Command-line interface](https://docs.python.org/3.14/library/json.html#module-json.tool)
     - [Command-line options](https://docs.python.org/3.14/library/json.html#command-line-options)
 
-- [`mailbox` — Manipulate mailboxes in various formats](https://docs.python.org/3.14/library/mailbox.html)
+- [`mailbox` - Manipulate mailboxes in various formats](https://docs.python.org/3.14/library/mailbox.html)
   - [`Mailbox` objects](https://docs.python.org/3.14/library/mailbox.html#mailbox-objects)
     - [`Maildir` objects](https://docs.python.org/3.14/library/mailbox.html#maildir-objects)
     - [`mbox` objects](https://docs.python.org/3.14/library/mailbox.html#mbox-objects)
@@ -61,18 +61,18 @@ The modules outlined in this chapter back the handling of data formats that the 
   - [Exceptions](https://docs.python.org/3.14/library/mailbox.html#exceptions)
   - [Examples](https://docs.python.org/3.14/library/mailbox.html#examples)
 
-- [`mimetypes` — Map filenames to MIME types](https://docs.python.org/3.14/library/mimetypes.html)
+- [`mimetypes` - Map filenames to MIME types](https://docs.python.org/3.14/library/mimetypes.html)
   - [MimeTypes objects](https://docs.python.org/3.14/library/mimetypes.html#mimetypes-objects)
   - [Command-line usage](https://docs.python.org/3.14/library/mimetypes.html#command-line-usage)
   - [Command-line example](https://docs.python.org/3.14/library/mimetypes.html#command-line-example)
 
-- [`base64` — Base16, Base32, Base64, Base85 Data Encodings](https://docs.python.org/3.14/library/base64.html)
+- [`base64` - Base16, Base32, Base64, Base85 Data Encodings](https://docs.python.org/3.14/library/base64.html)
   - [RFC 4648 Encodings](https://docs.python.org/3.14/library/base64.html#rfc-4648-encodings)
   - [Base85 Encodings](https://docs.python.org/3.14/library/base64.html#base85-encodings)
   - [Legacy Interface](https://docs.python.org/3.14/library/base64.html#legacy-interface)
   - [Security Considerations](https://docs.python.org/3.14/library/base64.html#security-considerations)
 
-- [`binascii` — Convert between binary and ASCII](https://docs.python.org/3.14/library/binascii.html)
-- [`quopri` — Encode and decode MIME quoted-printable data](https://docs.python.org/3.14/library/quopri.html)
+- [`binascii` - Convert between binary and ASCII](https://docs.python.org/3.14/library/binascii.html)
+- [`quopri` - Encode and decode MIME quoted-printable data](https://docs.python.org/3.14/library/quopri.html)
 
 [Subject index](INDEX.md)

@@ -1,4 +1,4 @@
-# Audit events table — ctypes
+# Audit events table - ctypes
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

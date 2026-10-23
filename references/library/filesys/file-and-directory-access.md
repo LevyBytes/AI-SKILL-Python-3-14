@@ -1,4 +1,4 @@
-# fileinput — File and Directory Access
+# fileinput - File and Directory Access
 
 ## File and Directory Access
 
@@ -6,7 +6,7 @@
 
 What this chapter's modules concern themselves with is disk files and directories. Among them, for instance, you'll find modules for inspecting file properties, working with paths in a cross-platform fashion, and spinning up temporary files. Here is the complete roster of modules covered:
 
-- [`pathlib` — Object-oriented filesystem paths](https://docs.python.org/3.14/library/pathlib.html)
+- [`pathlib` - Object-oriented filesystem paths](https://docs.python.org/3.14/library/pathlib.html)
   - [Basic use](https://docs.python.org/3.14/library/pathlib.html#basic-use)
   - [Exceptions](https://docs.python.org/3.14/library/pathlib.html#exceptions)
   - [Pure paths](https://docs.python.org/3.14/library/pathlib.html#pure-paths)
@@ -32,21 +32,21 @@ What this chapter's modules concern themselves with is disk files and directorie
 
   - [Protocols](https://docs.python.org/3.14/library/pathlib.html#module-pathlib.types)
 
-- [`os.path` — Common pathname manipulations](https://docs.python.org/3.14/library/os.path.html)
-- [`stat` — Interpreting `stat()` results](https://docs.python.org/3.14/library/stat.html)
-- [`filecmp` — File and Directory Comparisons](https://docs.python.org/3.14/library/filecmp.html)
+- [`os.path` - Common pathname manipulations](https://docs.python.org/3.14/library/os.path.html)
+- [`stat` - Interpreting `stat()` results](https://docs.python.org/3.14/library/stat.html)
+- [`filecmp` - File and Directory Comparisons](https://docs.python.org/3.14/library/filecmp.html)
   - [The `dircmp` class](https://docs.python.org/3.14/library/filecmp.html#the-dircmp-class)
 
-- [`tempfile` — Generate temporary files and directories](https://docs.python.org/3.14/library/tempfile.html)
+- [`tempfile` - Generate temporary files and directories](https://docs.python.org/3.14/library/tempfile.html)
   - [Examples](https://docs.python.org/3.14/library/tempfile.html#examples)
   - [Deprecated functions and variables](https://docs.python.org/3.14/library/tempfile.html#deprecated-functions-and-variables)
 
-- [`glob` — Unix style pathname pattern expansion](https://docs.python.org/3.14/library/glob.html)
+- [`glob` - Unix style pathname pattern expansion](https://docs.python.org/3.14/library/glob.html)
   - [Examples](https://docs.python.org/3.14/library/glob.html#examples)
 
-- [`fnmatch` — Unix filename pattern matching](https://docs.python.org/3.14/library/fnmatch.html)
-- [`linecache` — Random access to text lines](https://docs.python.org/3.14/library/linecache.html)
-- [`shutil` — High-level file operations](https://docs.python.org/3.14/library/shutil.html)
+- [`fnmatch` - Unix filename pattern matching](https://docs.python.org/3.14/library/fnmatch.html)
+- [`linecache` - Random access to text lines](https://docs.python.org/3.14/library/linecache.html)
+- [`shutil` - High-level file operations](https://docs.python.org/3.14/library/shutil.html)
   - [Directory and files operations](https://docs.python.org/3.14/library/shutil.html#directory-and-files-operations)
     - [Platform-dependent efficient copy operations](https://docs.python.org/3.14/library/shutil.html#platform-dependent-efficient-copy-operations)
     - [copytree example](https://docs.python.org/3.14/library/shutil.html#copytree-example)

@@ -1,4 +1,4 @@
-# Standard Generic Classes — Contract: `shelve.Shelf`
+# Standard Generic Classes - Contract: `shelve.Shelf`
 
 [`shelve.Shelf`](https://docs.python.org/3.14/library/shelve.html#shelve.Shelf)
 

@@ -1,9 +1,9 @@
 {"schema_version": 1, "owner": "references/whatsnew", "topics": [
   {"topic": "Overview and scope / Upstream feature guide navigation for Python 3.14", "file": "release-3-14/release-overview.md", "summary": "Open when checking Upstream feature guide navigation for Python 3.14.", "keywords": []},
-  {"topic": "Summary – Release highlights / What's new in Python 3.14 / Summary — Release highlights — compression.zstd", "file": "release-3-14/summary-release-highlights.md", "summary": "Open when checking What's new in Python 3.14 / Summary — Release highlights — compression.zstd.", "keywords": []},
+  {"topic": "Summary – Release highlights / What's new in Python 3.14 / Summary - Release highlights - compression.zstd", "file": "release-3-14/summary-release-highlights.md", "summary": "Open when checking What's new in Python 3.14 / Summary - Release highlights - compression.zstd.", "keywords": []},
   {"topic": "New features", "file": "release-3-14/context-new-features.md", "summary": "Open when checking new features.", "keywords": []},
   {"topic": "Other language changes", "file": "release-3-14/context-other-language-changes.md", "summary": "Open when checking other language changes.", "keywords": []},
-  {"topic": "New modules / What's new in Python 3.14 / New modules — annotationlib, compression, compression.zstd, concurrent.interpreters, string.templatelib", "file": "release-3-14/new-modules.md", "summary": "Open when checking What's new in Python 3.14 / New modules — annotationlib, compression, compression.zstd, concurrent.interpreters, string.templatelib.", "keywords": []},
+  {"topic": "New modules / What's new in Python 3.14 / New modules - annotationlib, compression, compression.zstd, concurrent.interpreters, string.templatelib", "file": "release-3-14/new-modules.md", "summary": "Open when checking What's new in Python 3.14 / New modules - annotationlib, compression, compression.zstd, concurrent.interpreters, string.templatelib.", "keywords": []},
   {"topic": "Improved modules", "file": "release-3-14/context-improved-modules.md", "summary": "Open when checking improved modules.", "keywords": []},
   {"topic": "Optimizations", "file": "release-3-14/context-optimizations.md", "summary": "Open when checking optimizations.", "keywords": []},
   {"topic": "Removed", "file": "release-3-14/context-removed.md", "summary": "Open when checking removed.", "keywords": []},
@@ -13,6 +13,6 @@
   {"topic": "Build changes", "file": "release-3-14/context-build-changes.md", "summary": "Open when checking build changes.", "keywords": []},
   {"topic": "Porting to Python 3.14", "file": "release-3-14/context-porting-to-python-3-14.md", "summary": "Open when checking porting to python 3.14.", "keywords": []},
   {"topic": "Notable changes in 3.14.1 / What's new in Python 3.14 / Notable changes in 3.14.1", "file": "release-3-14/notable-changes-in-3-14-1.md", "summary": "Open when checking What's new in Python 3.14 / Notable changes in 3.14.1.", "keywords": []},
-  {"topic": "Notable changes in 3.14.5 / What's new in Python 3.14 / gc — gc", "file": "release-3-14/gc.md", "summary": "Open when checking What's new in Python 3.14 / gc — gc.", "keywords": []},
+  {"topic": "Notable changes in 3.14.5 / What's new in Python 3.14 / gc - gc", "file": "release-3-14/gc.md", "summary": "Open when checking What's new in Python 3.14 / gc - gc.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

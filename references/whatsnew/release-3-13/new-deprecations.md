@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / New Deprecations — array, ctypes, decimal, dis, gettext
+# What's New In Python 3.13 / New Deprecations - array, ctypes, decimal, dis, gettext
 
 ### New Deprecations
 

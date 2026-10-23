@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Parallel filesystem cache for compiled bytecode files — sys
+# What’s New In Python 3.8 / Parallel filesystem cache for compiled bytecode files - sys
 
 ### Parallel filesystem cache for compiled bytecode files
 

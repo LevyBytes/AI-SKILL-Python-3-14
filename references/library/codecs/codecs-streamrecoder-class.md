@@ -1,4 +1,4 @@
-# codecs — StreamRecoder Objects
+# codecs - StreamRecoder Objects
 
 #### StreamRecoder Objects
 

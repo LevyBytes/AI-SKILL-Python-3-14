@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / io — io
+# What's New In Python 3.2 / io - io
 
 ### io
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / math — cmath, math
+# What's New In Python 3.6 / math - cmath, math
 
 ### math
 

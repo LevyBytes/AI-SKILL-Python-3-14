@@ -1,6 +1,6 @@
 # tk: `ttk.Widget`, `ttk.Combobox`, `ttk.Spinbox`, `ttk.Notebook`, `ttk.Progressbar`, `ttk.Treeview`
 
-- [`tkinter.ttk` — Tk themed widgets](https://docs.python.org/3.14/library/tkinter.ttk.html)
+- [`tkinter.ttk` - Tk themed widgets](https://docs.python.org/3.14/library/tkinter.ttk.html)
   - [Using Ttk](https://docs.python.org/3.14/library/tkinter.ttk.html#using-ttk)
   - [Ttk Widgets](https://docs.python.org/3.14/library/tkinter.ttk.html#ttk-widgets)
   - [Widget](https://docs.python.org/3.14/library/tkinter.ttk.html#widget)

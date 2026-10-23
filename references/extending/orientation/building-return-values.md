@@ -1,4 +1,4 @@
-# Building Arbitrary Values — PyArg_ParseTuple, PyObject, Py_BuildValue
+# Building Arbitrary Values - PyArg_ParseTuple, PyObject, Py_BuildValue
 
 ### 1.9. Building Arbitrary Values
 

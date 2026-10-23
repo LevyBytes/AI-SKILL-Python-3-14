@@ -1,4 +1,4 @@
-# tkinter — The Packer
+# tkinter - The Packer
 
 ### The Packer
 

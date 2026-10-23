@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / PEP 673: `Self` type — typing
+# What's New In Python 3.11 / PEP 673: `Self` type - typing
 
 > (Contributed by David Foster and Jelle Zijlstra in [bpo-47087](https://bugs.python.org/issue?@action=redirect&bpo=47087). PEP written by David Foster.)
 

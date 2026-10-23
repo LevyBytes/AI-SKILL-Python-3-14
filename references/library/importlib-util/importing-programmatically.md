@@ -1,4 +1,4 @@
-# importlib.util — Importing programmatically
+# importlib.util - Importing programmatically
 
 ### Examples
 

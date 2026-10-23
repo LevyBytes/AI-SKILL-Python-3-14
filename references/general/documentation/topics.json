@@ -2,7 +2,7 @@
   "schema_version": 1,
   "topics": [
     {"topic": "Documentation and theme bug reports", "file": "documentation/documentation-and-theme-bug-reports.md", "summary": "Open when checking Documentation and theme bug reports.", "keywords": []},
-    {"topic": "Documentation origins and contributors", "file": "documentation/documentation-origins-and-contributors.md", "summary": "Open when checking Documentation origins and contributors.", "keywords": []},
+    {"topic": "About this documentation", "file": "documentation/about-this-documentation.md", "summary": "Open when checking About this documentation.", "keywords": []},
     {"topic": "Python issue tracker and contributing fixes", "file": "documentation/python-issue-tracker-and-contributing-fixes.md", "summary": "Open when checking Python issue tracker and contributing fixes.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]

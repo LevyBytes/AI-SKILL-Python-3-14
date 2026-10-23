@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `walk()`, `get_body()`, `iter_attachments()`, `iter_parts()`, `get_content()`, `set_content()` in email.message.EmailMessage. [email.message.EmailMessage: `walk()`, `get_body()`, `iter_attachments()`, `iter_parts()`, `get_content()`, `set_content()`](email-message-traversal-and-content-access.md).
 - Open when checking EmailMessage multipart construction and MIMEPart: [EmailMessage multipart construction and MIMEPart](multipart-construction-and-mimepart.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

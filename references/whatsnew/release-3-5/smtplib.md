@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / smtplib — smtplib
+# What’s New In Python 3.5 / smtplib - smtplib
 
 ### smtplib
 

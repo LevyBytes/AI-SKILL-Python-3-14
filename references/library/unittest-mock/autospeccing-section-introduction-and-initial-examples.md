@@ -1,4 +1,4 @@
-# unittest.mock — Autospeccing — Section introduction and initial examples
+# unittest.mock - Autospeccing - Section introduction and initial examples
 
 ### Autospeccing
 

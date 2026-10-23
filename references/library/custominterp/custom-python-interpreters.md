@@ -1,4 +1,4 @@
-# curses.panel — Custom Python Interpreters
+# curses.panel - Custom Python Interpreters
 
 ## Custom Python Interpreters
 
@@ -8,10 +8,10 @@ With the modules covered here you can build interfaces that behave much like Pyt
 
 Here is the complete set of modules this chapter documents:
 
-- [`code` — Interpreter base classes](https://docs.python.org/3.14/library/code.html)
+- [`code` - Interpreter base classes](https://docs.python.org/3.14/library/code.html)
   - [Interactive Interpreter Objects](https://docs.python.org/3.14/library/code.html#interactive-interpreter-objects)
   - [Interactive Console Objects](https://docs.python.org/3.14/library/code.html#interactive-console-objects)
 
-- [`codeop` — Compile Python code](https://docs.python.org/3.14/library/codeop.html)
+- [`codeop` - Compile Python code](https://docs.python.org/3.14/library/codeop.html)
 
 [Subject index](INDEX.md)

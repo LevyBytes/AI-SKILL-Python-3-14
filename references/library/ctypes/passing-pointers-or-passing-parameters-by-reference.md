@@ -1,4 +1,4 @@
-# ctypes — Passing pointers (or: passing parameters by reference)
+# ctypes - Passing pointers (or: passing parameters by reference)
 
 ### Passing pointers (or: passing parameters by reference)
 

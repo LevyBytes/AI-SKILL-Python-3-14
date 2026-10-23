@@ -1,6 +1,6 @@
-# pickletools — `pickletools` — Tools for pickle developers
+# pickletools`pickletools` - Tools for pickle developers
 
-### `pickletools` — Tools for pickle developers
+### `pickletools` - Tools for pickle developers
 
 **Source code:** [Lib/pickletools.py](https://github.com/python/cpython/tree/3.14/Lib/pickletools.py)
 

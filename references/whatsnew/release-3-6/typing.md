@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / typing — collections.abc, contextlib, typing
+# What's New In Python 3.6 / typing - collections.abc, contextlib, typing
 
 ### typing
 

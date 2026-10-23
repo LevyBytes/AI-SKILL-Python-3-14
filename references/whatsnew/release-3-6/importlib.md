@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / importlib — importlib
+# What's New In Python 3.6 / importlib - importlib
 
 ### importlib
 

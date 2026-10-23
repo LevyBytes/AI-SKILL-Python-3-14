@@ -1,4 +1,4 @@
-# email.parser — `email.parser`: Parsing email messages
+# email.parser`email.parser`: Parsing email messages
 
 # Email.Parser
 

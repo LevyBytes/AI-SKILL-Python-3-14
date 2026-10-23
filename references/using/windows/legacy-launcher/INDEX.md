@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 4.12.2. Shebang lines: [4.12.2. Shebang lines](shebang-lines.md).
 - Open when checking 4.12.1.2. Virtual environments: [4.12.1.2. Virtual environments](virtual-environments.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

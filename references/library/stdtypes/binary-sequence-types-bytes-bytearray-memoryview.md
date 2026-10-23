@@ -1,6 +1,6 @@
-# Binary Sequence Types — `bytes`, `bytearray`, `memoryview`
+# Binary Sequence Types`bytes`, `bytearray`, `memoryview`
 
-### Binary Sequence Types — `bytes`, `bytearray`, `memoryview`
+### Binary Sequence Types`bytes`, `bytearray`, `memoryview`
 
 `bytes` and `bytearray` are the fundamental built-in types for handling binary data. Backing them is `memoryview`, which leans on the [buffer protocol](https://docs.python.org/3.14/c-api/buffer.html#bufferobjects) to reach the memory held by other binary objects while avoiding a copy.
 

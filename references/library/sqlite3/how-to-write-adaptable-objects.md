@@ -1,4 +1,4 @@
-# sqlite3 — How to write adaptable objects
+# sqlite3 - How to write adaptable objects
 
 #### How to write adaptable objects
 

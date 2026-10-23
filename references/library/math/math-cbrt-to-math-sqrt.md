@@ -1,4 +1,4 @@
-# math — Power, exponential and logarithmic functions
+# math - Power, exponential and logarithmic functions
 
 ### Power, exponential and logarithmic functions
 

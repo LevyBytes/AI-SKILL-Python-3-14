@@ -1,4 +1,4 @@
-# sunau — Superseded Modules
+# sunau - Superseded Modules
 
 ## Superseded Modules
 
@@ -10,6 +10,6 @@ A module can land here because it tackles only a narrow corner of some problem w
 
 A module can also turn up here because it is plainly deprecated and headed for removal in some later release, or because it is [soft deprecated](https://docs.python.org/3.14/glossary.html#term-soft-deprecated) so that new projects are steered away from it. Now that [**PEP 594**](https://peps.python.org/pep-0594/) has stripped out a range of outdated modules, nothing remains in that second group at present.
 
-- [`getopt` — C-style parser for command line options](https://docs.python.org/3.14/library/getopt.html)
+- [`getopt` - C-style parser for command line options](https://docs.python.org/3.14/library/getopt.html)
 
 [Subject index](INDEX.md) · [Continue](../symtable/symtable-access-to-the-compiler-s-symbol-tables.md)

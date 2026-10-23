@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.6 release candidate 1 / idle / windows: [Python 3.6.6 release candidate 1 / idle / windows](windows.md).
 - Open when checking Python 3.6.6 release candidate 1 / idle / within idle highlights async await keywords: [Python 3.6.6 release candidate 1 / idle / within idle highlights async await keywords](within-idle-highlights-async-await-keywords.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

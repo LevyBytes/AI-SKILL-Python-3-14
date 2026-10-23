@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / pprint — pprint, types
+# What's New In Python 3.9 / pprint - pprint, types
 
 ### pprint
 

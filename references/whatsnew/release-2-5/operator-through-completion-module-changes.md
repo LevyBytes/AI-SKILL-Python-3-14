@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / New, Improved, and Removed Modules — operator, optparse, os, pdb, pickle, pkgutil, queue, readline, resource, rlcompleter
+# What's New in Python 2.5 / New, Improved, and Removed Modules - operator, optparse, os, pdb, pickle, pkgutil, queue, readline, resource, rlcompleter
 
 - The `itemgetter()` and `attrgetter()` functions of the [`operator`](https://docs.python.org/3.14/library/operator.html#module-operator) module now accept multiple fields. Calling `operator.attrgetter('a', 'b')`, for example, yields a function that fetches the `a` and `b` attributes. Pairing this new capability with the `sort()` method's `key` parameter makes it easy to sort lists by more than one field. (Contributed by Raymond Hettinger.)
 

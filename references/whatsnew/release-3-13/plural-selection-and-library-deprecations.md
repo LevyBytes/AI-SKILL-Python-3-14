@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / New Deprecations — glob, http.server, mimetypes, os.path, pathlib, platform, pydoc, re, sqlite3
+# What's New In Python 3.13 / New Deprecations - glob, http.server, mimetypes, os.path, pathlib, platform, pydoc, re, sqlite3
 
 > Whatsnew reference. Wording rephrased; identifiers held byte-for-byte.
 

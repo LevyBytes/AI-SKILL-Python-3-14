@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Library Changes — array, dbm, hashlib, html, http, io, operator, pickle, profile, sys, threading, tkinter, turtle, urllib, xmlrpc
+# What's New In Python 3.0 / Library Changes - array, dbm, hashlib, html, http, io, operator, pickle, profile, sys, threading, tkinter, turtle, urllib, xmlrpc
 
 ### Library Changes
 

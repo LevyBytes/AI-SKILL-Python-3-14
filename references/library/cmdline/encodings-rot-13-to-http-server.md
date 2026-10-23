@@ -1,4 +1,4 @@
-# Modules command-line interface (CLI) — Signature and initial contract
+# Modules command-line interface (CLI) - Signature and initial contract
 
 `encodings.rot_13`
 

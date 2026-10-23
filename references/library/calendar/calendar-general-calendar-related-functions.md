@@ -1,4 +1,4 @@
-# calendar — General calendar-related functions??
+# calendar - General calendar-related functions??
 
 # Calendar, Cgi, Cgitb, Chunk
 
@@ -8,7 +8,7 @@
 
 Four modules appear on this page. They are, in turn: calendar — General calendar-related functions??; then cgi — Common Gateway Interface support??; followed by cgitb — Traceback manager for CGI scripts??; and finally chunk — Read IFF chunked data??.
 
-## calendar — General calendar-related functions??
+## calendar - General calendar-related functions??
 
 cssclass_year_head
 

@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 4.2.2. Resolution of names: [4.2.2. Resolution of names](resolution-of-names.md).
 - Open when checking 4.1. Structure of a program: [4.1. Structure of a program](structure-of-a-program.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

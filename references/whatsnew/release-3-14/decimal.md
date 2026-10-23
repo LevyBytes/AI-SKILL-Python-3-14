@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / decimal — decimal
+# What's new in Python 3.14 / decimal - decimal
 
 ### decimal
 

@@ -1,4 +1,4 @@
-# unittest.mock — Patch decorators — Section introduction and initial examples
+# unittest.mock - Patch decorators - Section introduction and initial examples
 
 ### Patch decorators
 

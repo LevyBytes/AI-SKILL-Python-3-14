@@ -1,6 +1,6 @@
 # test.support.os_helper: Filesystem encoding and filename test constants
 
-### `test.support.os_helper` — Utilities for os tests
+### `test.support.os_helper` - Utilities for os tests
 
 The `test.support.os_helper` module offers support for os tests.
 

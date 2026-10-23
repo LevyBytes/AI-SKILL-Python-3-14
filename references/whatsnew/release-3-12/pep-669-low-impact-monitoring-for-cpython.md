@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / PEP 669: Low impact monitoring for CPython — sys.monitoring
+# What’s New In Python 3.12 / PEP 669: Low impact monitoring for CPython - sys.monitoring
 
 ### PEP 669: Low impact monitoring for CPython
 

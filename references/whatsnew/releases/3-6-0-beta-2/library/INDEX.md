@@ -40,4 +40,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 beta 2 / library / unittest mock: [Python 3.6.0 beta 2 / library / unittest mock](unittest-mock.md).
 - Open when checking Python 3.6.0 beta 2 / library / warning raised placing inline flags mid pattern regular expression embeds: [Python 3.6.0 beta 2 / library / warning raised placing inline flags mid pattern regular expression embeds](mid-pattern-regex-flag-warning.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# json — Top-level Non-Object, Non-Array Values
+# json - Top-level Non-Object, Non-Array Values
 
 ### Top-level Non-Object, Non-Array Values
 

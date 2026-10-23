@@ -1,4 +1,4 @@
-# codecs — Text Transforms
+# codecs - Text Transforms
 
 ### Text Transforms
 

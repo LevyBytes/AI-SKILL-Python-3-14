@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / collections — collections, collections.abc, pickle
+# What’s New In Python 3.5 / collections - collections, collections.abc, pickle
 
 ### collections
 

@@ -1,4 +1,4 @@
-# base64 — Legacy Interface
+# base64 - Legacy Interface
 
 ### Legacy Interface
 

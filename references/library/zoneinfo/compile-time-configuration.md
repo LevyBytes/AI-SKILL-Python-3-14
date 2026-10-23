@@ -1,4 +1,4 @@
-# zoneinfo — Compile-time configuration
+# zoneinfo - Compile-time configuration
 
 #### Compile-time configuration
 

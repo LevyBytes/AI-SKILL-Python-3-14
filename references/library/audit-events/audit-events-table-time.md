@@ -1,4 +1,4 @@
-# Audit events table — time
+# Audit events table - time
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

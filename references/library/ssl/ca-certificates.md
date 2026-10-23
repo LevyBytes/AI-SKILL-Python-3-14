@@ -1,4 +1,4 @@
-# ssl — CA certificates
+# ssl - CA certificates
 
 ### CA certificates
 

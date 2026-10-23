@@ -1,4 +1,4 @@
-# __main__ — What is the “top-level code environment”?
+# __main__ - What is the “top-level code environment”?
 
 ### What is the “top-level code environment”?
 

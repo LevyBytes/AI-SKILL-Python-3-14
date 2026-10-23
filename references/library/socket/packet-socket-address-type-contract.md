@@ -1,4 +1,4 @@
-# socket — Socket families — Contract: *pkttype* - Optional integer giving the packet type:
+# socket - Socket families - Contract: *pkttype* - Optional integer giving the packet type:
 
 - *pkttype* - Optional integer giving the packet type:
 

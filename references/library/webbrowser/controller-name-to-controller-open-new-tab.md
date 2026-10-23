@@ -1,4 +1,4 @@
-# webbrowser — Browser controller objects
+# webbrowser - Browser controller objects
 
 ### Browser controller objects
 

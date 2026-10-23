@@ -1,4 +1,4 @@
-# gettext — Localizing your application
+# gettext - Localizing your application
 
 ### Localizing your application
 

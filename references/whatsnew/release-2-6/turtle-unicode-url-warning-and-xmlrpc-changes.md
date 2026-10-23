@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — datetime, unicodedata, urllib.request, warnings, xmlrpc.client, xmlrpc.server
+# What’s New in Python 2.6 / New and Improved Modules - datetime, unicodedata, urllib.request, warnings, xmlrpc.client, xmlrpc.server
 
 A `turtle.cfg` file lets you tailor the initial look of the turtle's screen.
 

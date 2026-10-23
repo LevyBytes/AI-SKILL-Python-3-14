@@ -6,7 +6,7 @@ The threshold of this logger, as set by the `setLevel()` method.
 
 Note
 
-Don't set this attribute directly — always go through `setLevel()`, which validates the level it's handed.
+Don't set this attribute directly: always go through `setLevel()`, which validates the level it's handed.
 
  parent
 

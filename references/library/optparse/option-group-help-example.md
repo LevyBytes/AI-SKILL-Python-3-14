@@ -1,4 +1,4 @@
-# optparse — Grouping Options — Code example: Usage: &lt;yourscript&gt; [options] arg1 arg2
+# optparse - Grouping Options - Code example: Usage: &lt;yourscript&gt; [options] arg1 arg2
 
 ```text
 Usage: <yourscript> [options] arg1 arg2

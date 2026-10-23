@@ -1,4 +1,4 @@
-# venv — An example of extending `EnvBuilder` — Contract: This script is also available for download online.
+# venv - An example of extending `EnvBuilder` - Contract: This script is also available for download online.
 
 This script is also available for download [online](https://gist.github.com/vsajip/4673395).
 

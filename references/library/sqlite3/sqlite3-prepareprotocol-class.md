@@ -1,4 +1,4 @@
-# sqlite3 — PrepareProtocol objects
+# sqlite3 - PrepareProtocol objects
 
 ### PrepareProtocol objects
 

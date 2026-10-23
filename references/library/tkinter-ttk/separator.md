@@ -1,4 +1,4 @@
-# tkinter.ttk — Separator
+# tkinter.ttk - Separator
 
 ### Separator
 

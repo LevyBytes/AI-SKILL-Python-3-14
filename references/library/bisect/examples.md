@@ -1,4 +1,4 @@
-# bisect — Examples
+# bisect - Examples
 
 ### Examples
 

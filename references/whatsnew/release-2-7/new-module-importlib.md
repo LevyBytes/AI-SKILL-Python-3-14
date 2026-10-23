@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / New module: importlib — importlib
+# What’s New in Python 2.7 / New module: importlib - importlib
 
 ### New module: importlib
 

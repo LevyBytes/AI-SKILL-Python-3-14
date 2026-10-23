@@ -1,4 +1,4 @@
-# sysconfig — User scheme
+# sysconfig - User scheme
 
 ### User scheme
 

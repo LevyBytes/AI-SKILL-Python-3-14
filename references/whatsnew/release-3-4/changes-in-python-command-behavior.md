@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Changes in 'python' Command Behavior — argparse
+# What's New In Python 3.4 / Changes in 'python' Command Behavior - argparse
 
 ### Changes in 'python' Command Behavior
 

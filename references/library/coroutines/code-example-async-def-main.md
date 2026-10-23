@@ -1,4 +1,4 @@
-# Coroutines — Code example: async def main():
+# Coroutines - Code example: async def main():
 
 ```python
 async def main():

@@ -22,7 +22,7 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Key bindings: [Key bindings](key-bindings.md).
 - Open when checking Menus: [Menus](menus.md).
 - Open when checking Options menu (Shell and Editor): [Options menu (Shell and Editor)](options-menu-shell-and-editor.md).
-- Open when checking IDLE — Python editor and shell: [IDLE — Python editor and shell](python-editor-and-shell.md).
+- Open when checking IDLE - Python editor and shell: [IDLE - Python editor and shell](python-editor-and-shell.md).
 - Open when checking Run menu (Editor window only): [Run menu (Editor window only)](run-menu-editor-window-only.md).
 - Open when checking Running user code: [Running user code](running-user-code.md).
 - Open when checking Running without a subprocess: [Running without a subprocess](running-without-a-subprocess.md).
@@ -36,4 +36,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking User output in Shell: [User output in Shell](user-output-in-shell.md).
 - Open when checking Window menu (Shell and Editor): [Window menu (Shell and Editor)](window-menu-shell-and-editor.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

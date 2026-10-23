@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / random — random
+# What's New In Python 3.6 / random - random
 
 ### random
 

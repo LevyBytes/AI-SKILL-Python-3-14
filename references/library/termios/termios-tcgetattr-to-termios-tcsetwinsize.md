@@ -2,7 +2,7 @@
 
 # Termios
 
-### `termios` — POSIX style tty control
+### `termios` - POSIX style tty control
 
 ---
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / gettext — gettext
+# What’s New In Python 3.8 / gettext - gettext
 
 > (Contributed by Pablo Galindo in [bpo-36016](https://bugs.python.org/issue?@action=redirect&bpo=36016).)
 

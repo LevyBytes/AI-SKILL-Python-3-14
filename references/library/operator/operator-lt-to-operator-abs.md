@@ -2,7 +2,7 @@
 
 # Operator
 
-### `operator` — Standard operators as functions
+### `operator` - Standard operators as functions
 
 **Source code:** [Lib/operator.py](https://github.com/python/cpython/tree/3.14/Lib/operator.py)
 

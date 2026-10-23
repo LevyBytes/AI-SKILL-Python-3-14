@@ -1,4 +1,4 @@
-# json — Exceptions
+# json - Exceptions
 
 ### Exceptions
 

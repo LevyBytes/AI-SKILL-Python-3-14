@@ -19,4 +19,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 6 / core and builtins / switch old space bit young generation objects away toward gcstate: [Python 3.13.0 alpha 6 / core and builtins / switch old space bit young generation objects away toward gcstate](gc-young-generation-state-bit.md).
 - Open when checking Python 3.13.0 alpha 6 / core and builtins / sys monitoring: [Python 3.13.0 alpha 6 / core and builtins / sys monitoring](sys-monitoring.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

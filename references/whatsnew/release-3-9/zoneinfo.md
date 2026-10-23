@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / zoneinfo — datetime, zoneinfo
+# What's New In Python 3.9 / zoneinfo - datetime, zoneinfo
 
 ### New Modules
 

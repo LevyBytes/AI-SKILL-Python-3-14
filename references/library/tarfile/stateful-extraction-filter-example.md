@@ -1,4 +1,4 @@
-# tarfile — Stateful extraction filter example
+# tarfile - Stateful extraction filter example
 
 ### Stateful extraction filter example
 

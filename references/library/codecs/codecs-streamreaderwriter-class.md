@@ -1,4 +1,4 @@
-# codecs — StreamReaderWriter Objects
+# codecs - StreamReaderWriter Objects
 
 #### StreamReaderWriter Objects
 

@@ -2,7 +2,7 @@
 
 # Socketserver
 
-### `socketserver` — A framework for network servers
+### `socketserver` - A framework for network servers
 
 **Source code:** [Lib/socketserver.py](https://github.com/python/cpython/tree/3.14/Lib/socketserver.py)
 

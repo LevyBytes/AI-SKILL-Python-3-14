@@ -1,4 +1,4 @@
-# Instant User's Manual — Section introduction and initial examples
+# Instant User's Manual - Section introduction and initial examples
 
 ### Instant User's Manual
 

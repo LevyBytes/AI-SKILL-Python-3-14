@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / threading — threading
+# What’s New In Python 3.8 / threading - threading
 
 ### threading
 

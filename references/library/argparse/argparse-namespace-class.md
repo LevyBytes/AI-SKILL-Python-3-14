@@ -1,4 +1,4 @@
-# argparse — The Namespace object
+# argparse - The Namespace object
 
 ### The Namespace object
 

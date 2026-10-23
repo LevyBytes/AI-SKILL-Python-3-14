@@ -1,4 +1,4 @@
-# webbrowser — `webbrowser` — Convenient web-browser controller
+# webbrowser`webbrowser` - Convenient web-browser controller
 
 # Webbrowser, Windows
 
@@ -6,9 +6,9 @@
 
 Covers: webbrowser — Convenient web-browser controller; MS Windows Specific Services.
 
-## webbrowser — Convenient web-browser controller
+## webbrowser - Convenient web-browser controller
 
-### `webbrowser` — Convenient web-browser controller
+### `webbrowser` - Convenient web-browser controller
 
 **Source code:** [Lib/webbrowser.py](https://github.com/python/cpython/tree/3.14/Lib/webbrowser.py)
 

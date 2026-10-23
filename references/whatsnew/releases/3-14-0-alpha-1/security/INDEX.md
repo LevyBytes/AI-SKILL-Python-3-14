@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 1 / security / tarfile: [Python 3.14.0 alpha 1 / security / tarfile](tarfile.md).
 - Open when checking Python 3.14.0 alpha 1 / security / warnings: [Python 3.14.0 alpha 1 / security / warnings](warnings.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

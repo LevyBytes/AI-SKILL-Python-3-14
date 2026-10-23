@@ -1,4 +1,4 @@
-# signal — Execution of Python signal handlers
+# signal - Execution of Python signal handlers
 
 ### Execution of Python signal handlers
 

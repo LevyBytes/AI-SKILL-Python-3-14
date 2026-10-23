@@ -25,7 +25,7 @@ flowchart LR
 
 Python 3.14 guidance for building C/C++ extension modules and embedding CPython in another application. Topic routes connect native implementations with type behavior, interpreter setup and the build steps needed to integrate them.
 
-Use for extending Python 3.14 with C/C++, implementing extension functions and custom types, parsing arguments, handling exceptions and reference ownership, defining type slots and cyclic-GC support, exposing capsule C APIs, embedding CPython, or compiling/linking extensions on Unix-like systems and Windows. This is how-to documentation with complete linked C examples, not a native execution result.
+Use for extending Python 3.14 with C/C++, implementing extension functions and custom types, parsing arguments, handling exceptions and reference ownership, defining type slots and cyclic-GC support, exposing capsule C APIs, embedding CPython, or compiling/linking extensions on Unix-like systems and Windows.
 
 ## What this skill helps with
 

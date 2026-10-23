@@ -1,4 +1,4 @@
-# Thread safety for set objects — Section introduction and initial examples
+# Thread safety for set objects - Section introduction and initial examples
 
 ### Thread safety for set objects
 

@@ -6,9 +6,9 @@
 
 Covers: codeop — Compile Python code??; collections.abc — Abstract Base Classes for Containers??.
 
-## codeop — Compile Python code??
+## codeop - Compile Python code??
 
-### `codeop` — Compile Python code
+### `codeop` - Compile Python code
 
 **Source code:** [Lib/codeop.py](https://github.com/python/cpython/tree/3.14/Lib/codeop.py)
 

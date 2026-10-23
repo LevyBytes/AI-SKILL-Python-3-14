@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Try-except dispatch, multiple handlers and exception inheritance: [Try-except dispatch, multiple handlers and exception inheritance](exception-handler-dispatch-and-inheritance.md).
 - Open when checking 8.6. User-defined Exceptions: [8.6. User-defined Exceptions](user-defined-exceptions.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

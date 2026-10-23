@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / New, Improved, and Deprecated Modules — functools, io, logging, logging.handlers, os, pdb, pydoc, re, runpy, sys, unittest, zipimport
+# What’s New In Python 3.1 / New, Improved, and Deprecated Modules - functools, io, logging, logging.handlers, os, pdb, pydoc, re, runpy, sys, unittest, zipimport
 
 (Contributed by Raymond Hettinger; [bpo-1818](https://bugs.python.org/issue?@action=redirect&bpo=1818).)
 

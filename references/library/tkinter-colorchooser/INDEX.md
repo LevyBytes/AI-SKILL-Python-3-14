@@ -2,6 +2,6 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking tkinter.colorchooser — `tkinter.colorchooser` — Color choosing dialog: [tkinter.colorchooser — `tkinter.colorchooser` — Color choosing dialog](color-chooser-dialog.md).
+- Open when checking tkinter.colorchooser`tkinter.colorchooser` - Color choosing dialog: [tkinter.colorchooser`tkinter.colorchooser` - Color choosing dialog](color-chooser-dialog.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

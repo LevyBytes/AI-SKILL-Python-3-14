@@ -1,6 +1,6 @@
-# sys.monitoring — `sys.monitoring` — Execution event monitoring
+# sys.monitoring`sys.monitoring` - Execution event monitoring
 
-### `sys.monitoring` — Execution event monitoring
+### `sys.monitoring` - Execution event monitoring
 
 Added in version 3.12.
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / Date/Time Type — datetime
+# What’s New in Python 2.3 / Date/Time Type - datetime
 
 ### Date/Time Type
 

@@ -1,6 +1,6 @@
-# Upstream chapter navigation: 11. Brief tour of the standard library — part II
+# Upstream chapter navigation: 11. Brief tour of the standard library - part II
 
-- [11. Brief tour of the standard library — part II](https://docs.python.org/3.14/tutorial/stdlib2.html)
+- [11. Brief tour of the standard library - part II](https://docs.python.org/3.14/tutorial/stdlib2.html)
   - [11.1. Output formatting](https://docs.python.org/3.14/tutorial/stdlib2.html#output-formatting)
   - [11.2. Templating](https://docs.python.org/3.14/tutorial/stdlib2.html#templating)
   - [11.3. Working with binary data record layouts](https://docs.python.org/3.14/tutorial/stdlib2.html#working-with-binary-data-record-layouts)

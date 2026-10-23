@@ -1,4 +1,4 @@
-# tkinter.ttk — Column Identifiers
+# tkinter.ttk - Column Identifiers
 
 ### Column Identifiers
 

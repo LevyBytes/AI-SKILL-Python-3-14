@@ -1,4 +1,4 @@
-# code — Interactive Interpreter Objects
+# code - Interactive Interpreter Objects
 
 ### Interactive Interpreter Objects
 

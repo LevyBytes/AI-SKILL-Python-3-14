@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / New, Improved, and Removed Modules — copy, datetime, weakref, webbrowser, xmlrpc.client, zipfile, zlib
+# What's New in Python 2.5 / New, Improved, and Removed Modules - copy, datetime, weakref, webbrowser, xmlrpc.client, zipfile, zlib
 
 - In the [`weakref`](https://docs.python.org/3.14/library/weakref.html#module-weakref) module, the `WeakKeyDictionary` and `WeakValueDictionary` types received new methods for walking over the weak references held inside the dictionary. The `iterkeyrefs()` and `keyrefs()` methods landed on `WeakKeyDictionary`, while `itervaluerefs()` and `valuerefs()` arrived on `WeakValueDictionary`. (Contributed by Fred L. Drake, Jr.)
 

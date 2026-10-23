@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 391: Dictionary-Based Configuration For Logging — logging, logging.config, logging.handlers, socket
+# What’s New in Python 2.7 / PEP 391: Dictionary-Based Configuration For Logging - logging, logging.config, logging.handlers, socket
 
 ### PEP 391: Dictionary-Based Configuration For Logging
 
@@ -10,50 +10,7 @@ Python 2.7 introduces a [`dictConfig()`](https://docs.python.org/3.14/library/lo
 
 The example below sets up two loggers, the root logger and a logger called “network”. Messages directed to the root logger will go to the system log via the syslog protocol, while messages to the “network” logger will be written into a `network.log` file that gets rotated once the log hits 1MB.
 
-```python
-import logging
-import logging.config
-
-configdict = {
- 'version': 1,    # Configuration schema in use; must be 1 for now
- 'formatters': {
-     'standard': {
-         'format': ('%(asctime)s %(name)-15s '
-                    '%(levelname)-8s %(message)s')}},
-
- 'handlers': {'netlog': {'backupCount': 10,
-                     'class': 'logging.handlers.RotatingFileHandler',
-                     'filename': '/logs/network.log',
-                     'formatter': 'standard',
-                     'level': 'INFO',
-                     'maxBytes': 1000000},
-              'syslog': {'class': 'logging.handlers.SysLogHandler',
-                         'formatter': 'standard',
-                         'level': 'ERROR'}},
-
- # Specify all the subordinate loggers
- 'loggers': {
-             'network': {
-                         'handlers': ['netlog']
-             }
- },
- # Specify properties of the root logger
- 'root': {
-          'handlers': ['syslog']
- },
-}
-
-# Set up configuration
-logging.config.dictConfig(configdict)
-
-# As an example, log two error messages
-logger = logging.getLogger('/')
-logger.error('Database not found')
-
-netlogger = logging.getLogger('network')
-netlogger.error('Connection failed')
-
-```
+The complete program is in the [upstream source](https://docs.python.org/3.14/whatsnew/2.7.html#pep-391-dictionary-based-configuration-for-logging).
 
 The [`logging`](https://docs.python.org/3.14/library/logging.html#module-logging) module received three smaller enhancements, each implemented by Vinay Sajip:
 

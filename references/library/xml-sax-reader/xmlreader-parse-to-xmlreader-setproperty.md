@@ -1,4 +1,4 @@
-# xml.sax.xmlreader — XMLReader Objects
+# xml.sax.xmlreader - XMLReader Objects
 
 ### XMLReader Objects
 

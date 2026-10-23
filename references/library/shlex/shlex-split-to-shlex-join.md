@@ -2,7 +2,7 @@
 
 # Shlex
 
-### `shlex` — Simple lexical analysis
+### `shlex` - Simple lexical analysis
 
 **Source code:** [Lib/shlex.py](https://github.com/python/cpython/tree/3.14/Lib/shlex.py)
 

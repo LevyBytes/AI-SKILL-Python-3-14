@@ -1,4 +1,4 @@
-# os — Timer File Descriptors
+# os - Timer File Descriptors
 
 os.TFD_CLOEXEC
 

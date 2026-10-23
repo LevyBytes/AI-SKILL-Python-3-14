@@ -1,4 +1,4 @@
-# contextlib — Catching exceptions from `__enter__` methods
+# contextlib - Catching exceptions from `__enter__` methods
 
 ### Catching exceptions from `__enter__` methods
 

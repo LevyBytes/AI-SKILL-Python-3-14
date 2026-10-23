@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 5 / core and builtins / tests and documentation: [Python 3.13.0 alpha 5 / core and builtins / tests and documentation](tests-and-documentation.md).
 - Open when checking Python 3.13.0 alpha 5 / core and builtins / threads and concurrency: [Python 3.13.0 alpha 5 / core and builtins / threads and concurrency](threads-and-concurrency.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

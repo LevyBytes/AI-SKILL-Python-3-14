@@ -1,4 +1,4 @@
-# Audit events table — signal
+# Audit events table - signal
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

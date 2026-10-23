@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / PEP 515: Underscores in Numeric Literals — string
+# What's New In Python 3.6 / PEP 515: Underscores in Numeric Literals - string
 
 ### PEP 515: Underscores in Numeric Literals
 
@@ -26,7 +26,7 @@ The [string formatting](https://docs.python.org/3.14/library/string.html#formats
 
 See also
 
-[**PEP 515**](https://peps.python.org/pep-0515/) — Underscores in Numeric Literals
+[**PEP 515**](https://peps.python.org/pep-0515/): Underscores in Numeric Literals
 
 PEP written by Georg Brandl and Serhiy Storchaka.
 

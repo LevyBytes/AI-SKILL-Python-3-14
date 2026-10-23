@@ -1,4 +1,4 @@
-# The Basics — tp_flags, Py_TPFLAGS_DEFAULT, tp_doc, PyTypeObject, PyDoc_STR, tp_new, PyType_GenericNew, PyType_Ready, PyObject, PyModule_AddObjectRef
+# The Basics - tp_flags, Py_TPFLAGS_DEFAULT, tp_doc, PyTypeObject, PyDoc_STR, tp_new, PyType_GenericNew, PyType_Ready, PyObject, PyModule_AddObjectRef
 
 ```c
 .tp_flags = Py_TPFLAGS_DEFAULT,

@@ -1,4 +1,4 @@
-# trace — Main options
+# trace - Main options
 
 ### Main options
 

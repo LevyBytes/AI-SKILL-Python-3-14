@@ -1,4 +1,4 @@
-# email.mime — `email.mime`: Creating email and MIME objects from scratch
+# email.mime`email.mime`: Creating email and MIME objects from scratch
 
 *class *email.mime.message.MIMEMessage(*_msg*, *_subtype='rfc822'*, ***, *policy=compat32*)
 

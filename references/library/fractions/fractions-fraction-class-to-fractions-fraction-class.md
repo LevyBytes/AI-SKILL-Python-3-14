@@ -1,8 +1,8 @@
 # fractions: `fractions.Fraction`
 
-## fractions — Rational numbers
+## fractions - Rational numbers
 
-### `fractions` — Rational numbers
+### `fractions` - Rational numbers
 
 **Source code:** [Lib/fractions.py](https://github.com/python/cpython/tree/3.14/Lib/fractions.py)
 

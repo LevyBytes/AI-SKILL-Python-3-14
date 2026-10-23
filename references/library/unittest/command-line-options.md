@@ -1,4 +1,4 @@
-# unittest — Command-line options
+# unittest - Command-line options
 
 ### Command-line options
 

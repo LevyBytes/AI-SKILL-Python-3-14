@@ -36,4 +36,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 1 / tests / unittest: [Python 3.13.0 alpha 1 / tests / unittest](unittest.md).
 - Open when checking Python 3.13.0 alpha 1 / tests / wired up cifuzz fuzz targets run within github actions: [Python 3.13.0 alpha 1 / tests / wired up cifuzz fuzz targets run within github actions](wired-up-cifuzz-fuzz-targets-run-within-github-actions.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module — argparse, optparse
+# What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module - argparse, optparse
 
 ### PEP 389: Argparse Command Line Parsing Module
 

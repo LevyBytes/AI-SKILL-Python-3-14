@@ -1,4 +1,4 @@
-# Data Types — Section introduction and initial examples
+# Data Types - Section introduction and initial examples
 
 # Datatypes
 
@@ -10,7 +10,7 @@ Python ships several built-in data types as well, notably [`dict`](https://docs.
 
 This chapter documents the modules listed below:
 
-- [`datetime` — Basic date and time types](https://docs.python.org/3.14/library/datetime.html)
+- [`datetime` - Basic date and time types](https://docs.python.org/3.14/library/datetime.html)
   - [Aware and naive objects](https://docs.python.org/3.14/library/datetime.html#aware-and-naive-objects)
   - [Constants](https://docs.python.org/3.14/library/datetime.html#constants)
   - [Available types](https://docs.python.org/3.14/library/datetime.html#available-types)
@@ -35,7 +35,7 @@ This chapter documents the modules listed below:
     - [`strftime()` and `strptime()` format codes](https://docs.python.org/3.14/library/datetime.html#strftime-and-strptime-format-codes)
     - [Technical detail](https://docs.python.org/3.14/library/datetime.html#technical-detail)
 
-- [`zoneinfo` — IANA time zone support](https://docs.python.org/3.14/library/zoneinfo.html)
+- [`zoneinfo` - IANA time zone support](https://docs.python.org/3.14/library/zoneinfo.html)
   - [Using `ZoneInfo`](https://docs.python.org/3.14/library/zoneinfo.html#using-zoneinfo)
   - [Data sources](https://docs.python.org/3.14/library/zoneinfo.html#data-sources)
     - [Configuring the data sources](https://docs.python.org/3.14/library/zoneinfo.html#configuring-the-data-sources)
@@ -51,10 +51,10 @@ This chapter documents the modules listed below:
   - [Globals](https://docs.python.org/3.14/library/zoneinfo.html#globals)
   - [Exceptions and warnings](https://docs.python.org/3.14/library/zoneinfo.html#exceptions-and-warnings)
 
-- [`calendar` — General calendar-related functions](https://docs.python.org/3.14/library/calendar.html)
+- [`calendar` - General calendar-related functions](https://docs.python.org/3.14/library/calendar.html)
   - [Command-line usage](https://docs.python.org/3.14/library/calendar.html#command-line-usage)
 
-- [`collections` — Container datatypes](https://docs.python.org/3.14/library/collections.html)
+- [`collections` - Container datatypes](https://docs.python.org/3.14/library/collections.html)
   - [`ChainMap` objects](https://docs.python.org/3.14/library/collections.html#chainmap-objects)
     - [`ChainMap` Examples and Recipes](https://docs.python.org/3.14/library/collections.html#chainmap-examples-and-recipes)
 
@@ -73,12 +73,12 @@ This chapter documents the modules listed below:
   - [`UserList` objects](https://docs.python.org/3.14/library/collections.html#userlist-objects)
   - [`UserString` objects](https://docs.python.org/3.14/library/collections.html#userstring-objects)
 
-- [`collections.abc` — Abstract Base Classes for Containers](https://docs.python.org/3.14/library/collections.abc.html)
+- [`collections.abc` - Abstract Base Classes for Containers](https://docs.python.org/3.14/library/collections.abc.html)
   - [Collections Abstract Base Classes](https://docs.python.org/3.14/library/collections.abc.html#collections-abstract-base-classes)
   - [Collections Abstract Base Classes – Detailed Descriptions](https://docs.python.org/3.14/library/collections.abc.html#collections-abstract-base-classes-detailed-descriptions)
   - [Examples and Recipes](https://docs.python.org/3.14/library/collections.abc.html#examples-and-recipes)
 
-- [`heapq` — Heap queue algorithm](https://docs.python.org/3.14/library/heapq.html)
+- [`heapq` - Heap queue algorithm](https://docs.python.org/3.14/library/heapq.html)
   - [Basic Examples](https://docs.python.org/3.14/library/heapq.html#basic-examples)
   - [Other Applications](https://docs.python.org/3.14/library/heapq.html#other-applications)
   - [Priority Queue Implementation Notes](https://docs.python.org/3.14/library/heapq.html#priority-queue-implementation-notes)

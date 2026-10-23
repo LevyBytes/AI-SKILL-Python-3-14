@@ -1,4 +1,4 @@
-# crypt — Cryptographic Services
+# crypt - Cryptographic Services
 
 ## Cryptographic Services
 
@@ -6,7 +6,7 @@
 
 This chapter's modules put into practice an assortment of cryptography-related algorithms. Whether they are present depends on the particular installation. A summary follows:
 
-- [`hashlib` — Secure hashes and message digests](https://docs.python.org/3.14/library/hashlib.html)
+- [`hashlib` - Secure hashes and message digests](https://docs.python.org/3.14/library/hashlib.html)
   - [Hash algorithms](https://docs.python.org/3.14/library/hashlib.html#hash-algorithms)
   - [Usage](https://docs.python.org/3.14/library/hashlib.html#usage)
   - [Constructors](https://docs.python.org/3.14/library/hashlib.html#constructors)
@@ -28,8 +28,8 @@ This chapter's modules put into practice an assortment of cryptography-related a
 
     - [Credits](https://docs.python.org/3.14/library/hashlib.html#credits)
 
-- [`hmac` — Keyed-Hashing for Message Authentication](https://docs.python.org/3.14/library/hmac.html)
-- [`secrets` — Generate secure random numbers for managing secrets](https://docs.python.org/3.14/library/secrets.html)
+- [`hmac` - Keyed-Hashing for Message Authentication](https://docs.python.org/3.14/library/hmac.html)
+- [`secrets` - Generate secure random numbers for managing secrets](https://docs.python.org/3.14/library/secrets.html)
   - [Random numbers](https://docs.python.org/3.14/library/secrets.html#random-numbers)
   - [Generating tokens](https://docs.python.org/3.14/library/secrets.html#generating-tokens)
     - [How many bytes should tokens use?](https://docs.python.org/3.14/library/secrets.html#how-many-bytes-should-tokens-use)

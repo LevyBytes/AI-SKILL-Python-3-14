@@ -1,4 +1,4 @@
-# logging.config — Incremental Configuration
+# logging.config - Incremental Configuration
 
 ### Incremental Configuration
 

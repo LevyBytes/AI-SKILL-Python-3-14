@@ -1,4 +1,4 @@
-# decimal — Rounding modes
+# decimal - Rounding modes
 
 ### Rounding modes
 

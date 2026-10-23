@@ -1,4 +1,4 @@
-# http — HTTP methods
+# http - HTTP methods
 
 ### HTTP methods
 

@@ -14,7 +14,7 @@ Three fresh translations have joined:
 
 See also
 
-[**PEP 545**](https://peps.python.org/pep-0545/) — Python Documentation Translations
+[**PEP 545**](https://peps.python.org/pep-0545/): Python Documentation Translations
 
 PEP written and implemented by Julien Palard, Inada Naoki, and Victor Stinner.
 

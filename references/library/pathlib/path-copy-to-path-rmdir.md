@@ -1,4 +1,4 @@
-# pathlib — Copying, moving and deleting
+# pathlib - Copying, moving and deleting
 
 ### Copying, moving and deleting
 

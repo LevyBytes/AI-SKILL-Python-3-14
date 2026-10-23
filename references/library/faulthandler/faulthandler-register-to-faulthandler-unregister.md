@@ -1,4 +1,4 @@
-# faulthandler — Dumping the traceback on a user signal
+# faulthandler - Dumping the traceback on a user signal
 
 ### Dumping the traceback on a user signal
 

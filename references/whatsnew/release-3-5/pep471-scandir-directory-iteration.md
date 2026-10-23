@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / PEP 471 - os.scandir() function – a better and faster directory iterator — os
+# What’s New In Python 3.5 / PEP 471 - os.scandir() function – a better and faster directory iterator - os
 
 ### PEP 471 - os.scandir() function – a better and faster directory iterator
 

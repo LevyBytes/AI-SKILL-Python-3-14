@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Methods: [Methods](pythread-tss-is-created-to-pythread-tss-get.md).
 - Open when checking Thread-local storage support: [Thread-local storage support](thread-local-storage-support.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

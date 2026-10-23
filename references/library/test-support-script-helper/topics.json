@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "test.support.script_helper — `test.support.script_helper` — Utilities for the Python execution tests", "file": "interpreter-test-environment-and-package-helpers.md", "summary": "Open when checking test.support.script_helper — `test.support.script_helper` — Utilities for the Python execution tests.", "keywords": []},
+    {"topic": "test.support.script_helper - `test.support.script_helper` - Utilities for the Python execution tests", "file": "interpreter-test-environment-and-package-helpers.md", "summary": "Open when checking test.support.script_helper - `test.support.script_helper` - Utilities for the Python execution tests.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

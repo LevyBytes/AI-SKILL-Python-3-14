@@ -1,4 +1,4 @@
-# `email`: Examples — Code example: To: Penelope Pussycat <penelope@example.com>, Fabrette Pussycat <fabrette@example.com>
+# `email`: Examples - Code example: To: Penelope Pussycat <penelope@example.com>, Fabrette Pussycat <fabrette@example.com>
 
 ```none
 To: Penelope Pussycat <penelope@example.com>, Fabrette Pussycat <fabrette@example.com>

@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / bdb — bdb, sys.monitoring
+# What's new in Python 3.14 / bdb - bdb, sys.monitoring
 
 ### bdb
 

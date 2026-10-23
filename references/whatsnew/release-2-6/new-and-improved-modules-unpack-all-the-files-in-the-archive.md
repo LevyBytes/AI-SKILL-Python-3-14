@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — zipfile
+# What’s New in Python 2.6 / New and Improved Modules - zipfile
 
 In the [`zipfile`](https://docs.python.org/3.14/library/zipfile.html#module-zipfile) module, the `ZipFile` class has gained `extract()` and `extractall()` methods. These let you pull out a single member or every member of an archive, dropping the result into the working directory or into a directory you name:
 

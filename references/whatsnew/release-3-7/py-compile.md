@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / py_compile — compileall, py_compile
+# What's New In Python 3.7 / py_compile - compileall, py_compile
 
 ### py_compile
 

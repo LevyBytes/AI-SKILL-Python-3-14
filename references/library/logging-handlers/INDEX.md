@@ -2,7 +2,7 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking logging.handlers — `logging.handlers` — Logging handlers: [logging.handlers — `logging.handlers` — Logging handlers](handler-types-overview.md).
+- Open when checking logging.handlers`logging.handlers` - Logging handlers: [logging.handlers`logging.handlers` - Logging handlers](handler-types-overview.md).
 - Open when checking the documented contracts for `logging.FileHandler` in logging.handlers. [logging.handlers: `logging.FileHandler`](logging-filehandler-class.md).
 - Open when checking the documented contracts for `close()`, `emit()` in logging.handlers / FileHandler. [logging.handlers / FileHandler: `close()`, `emit()`](logging-filehandler-close-to-logging-filehandler-emit.md).
 - Open when checking the documented contracts for `logging.handlers.BaseRotatingHandler` in logging.handlers. [logging.handlers: `logging.handlers.BaseRotatingHandler`](logging-handlers-baserotatinghandler-class.md).
@@ -38,4 +38,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `logging.StreamHandler` in logging.handlers. [logging.handlers: `logging.StreamHandler`](logging-streamhandler-class.md).
 - Open when checking the documented contracts for `emit()`, `flush()`, `setStream()` in logging.handlers / StreamHandler. [logging.handlers / StreamHandler: `emit()`, `flush()`, `setStream()`](logging-streamhandler-emit-to-logging-streamhandler-setstream.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

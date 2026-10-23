@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 7 / c api / repair pyeval evalcodeex regression correct reference counting builtins: [Python 3.10.0 alpha 7 / c api / repair pyeval evalcodeex regression correct reference counting builtins](evalcodeex-builtins-reference-counting.md).
 - Open when checking Python 3.10.0 alpha 7 / c api / symtable: [Python 3.10.0 alpha 7 / c api / symtable](symtable.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

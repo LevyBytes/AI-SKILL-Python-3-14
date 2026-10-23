@@ -1,6 +1,6 @@
-# warnings — `warnings` — Warning control
+# warnings`warnings` - Warning control
 
-### `warnings` — Warning control
+### `warnings` - Warning control
 
 **Source code:** [Lib/warnings.py](https://github.com/python/cpython/tree/3.14/Lib/warnings.py)
 

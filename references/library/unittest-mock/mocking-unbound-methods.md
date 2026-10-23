@@ -1,4 +1,4 @@
-# unittest.mock — Mocking unbound methods
+# unittest.mock - Mocking unbound methods
 
 ### Mocking unbound methods
 

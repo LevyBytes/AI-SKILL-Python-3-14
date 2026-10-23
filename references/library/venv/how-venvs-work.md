@@ -1,4 +1,4 @@
-# venv — How venvs work
+# venv - How venvs work
 
 ### How venvs work
 

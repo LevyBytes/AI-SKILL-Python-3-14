@@ -1,6 +1,6 @@
-# collections — `collections` — Container datatypes
+# collections`collections` - Container datatypes
 
-### `collections` — Container datatypes
+### `collections` - Container datatypes
 
 **Source code:** [Lib/collections/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/collections/__init__.py)
 

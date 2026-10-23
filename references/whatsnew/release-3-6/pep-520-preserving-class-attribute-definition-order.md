@@ -8,7 +8,7 @@ On top of that, the working default class *execution* namespace (handed back by 
 
 See also
 
-[**PEP 520**](https://peps.python.org/pep-0520/) — Preserving Class Attribute Definition Order
+[**PEP 520**](https://peps.python.org/pep-0520/): Preserving Class Attribute Definition Order
 
 PEP written and implemented by Eric Snow.
 

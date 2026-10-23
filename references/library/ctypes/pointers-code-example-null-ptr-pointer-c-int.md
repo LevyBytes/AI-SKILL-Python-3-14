@@ -1,4 +1,4 @@
-# ctypes — Pointers — Code example: >>> null_ptr = POINTER(c_int)()
+# ctypes - Pointers - Code example: >>> null_ptr = POINTER(c_int)()
 
 ```python
 >>> null_ptr = POINTER(c_int)()

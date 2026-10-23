@@ -1,4 +1,4 @@
-# re — search() vs. match()
+# re - search() vs. match()
 
 ### search() vs. match()
 

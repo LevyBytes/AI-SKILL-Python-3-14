@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 5.1.2. Using Lists as Queues: [5.1.2. Using Lists as Queues](using-lists-as-queues.md).
 - Open when checking 5.1.1. Using Lists as Stacks: [5.1.1. Using Lists as Stacks](using-lists-as-stacks.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

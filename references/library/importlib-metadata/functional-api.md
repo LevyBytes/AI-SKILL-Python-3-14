@@ -1,4 +1,4 @@
-# importlib.metadata — Functional API
+# importlib.metadata - Functional API
 
 ### Functional API
 

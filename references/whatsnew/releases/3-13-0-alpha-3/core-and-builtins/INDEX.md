@@ -27,4 +27,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 3 / core and builtins / typed stack effects together assorted instruction annotations added interpreter: [Python 3.13.0 alpha 3 / core and builtins / typed stack effects together assorted instruction annotations added interpreter](typed-stack-effects-and-bytecode-annotations.md).
 - Open when checking Python 3.13.0 alpha 3 / core and builtins / zlib: [Python 3.13.0 alpha 3 / core and builtins / zlib](zlib.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

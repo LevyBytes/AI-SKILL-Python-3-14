@@ -23,4 +23,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 2 / core and builtins / typing: [Python 3.12.0 alpha 2 / core and builtins / typing](typing.md).
 - Open when checking Python 3.12.0 alpha 2 / core and builtins / veryhigh: [Python 3.12.0 alpha 2 / core and builtins / veryhigh](veryhigh.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

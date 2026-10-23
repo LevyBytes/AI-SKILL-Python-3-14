@@ -1,4 +1,4 @@
-# locale — Locale names
+# locale - Locale names
 
 ### Locale names
 

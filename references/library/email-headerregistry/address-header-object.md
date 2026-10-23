@@ -1,4 +1,4 @@
-# email.headerregistry — `email.headerregistry`: Custom Header Objects
+# email.headerregistry`email.headerregistry`: Custom Header Objects
 
 *class *email.headerregistry.Address(*display_name=''*, *username=''*, *domain=''*, *addr_spec=None*)
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / inspect — inspect, types
+# What's New In Python 3.11 / inspect - inspect, types
 
 ### inspect
 

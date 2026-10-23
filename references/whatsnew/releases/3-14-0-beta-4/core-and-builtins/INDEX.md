@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 beta 4 / core and builtins / trashcan mechanism confined gc ed objects untracked while sitting: [Python 3.14.0 beta 4 / core and builtins / trashcan mechanism confined gc ed objects untracked while sitting](trashcan-gc-object-tracking.md).
 - Open when checking Python 3.14.0 beta 4 / core and builtins / weakref: [Python 3.14.0 beta 4 / core and builtins / weakref](weakref.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

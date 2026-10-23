@@ -1,4 +1,4 @@
-# ctypes — Loading dynamic link libraries
+# ctypes - Loading dynamic link libraries
 
 ### Loading dynamic link libraries
 

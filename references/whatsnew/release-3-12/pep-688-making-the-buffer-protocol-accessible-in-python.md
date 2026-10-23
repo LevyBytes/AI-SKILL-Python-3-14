@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / PEP 688: Making the buffer protocol accessible in Python — collections.abc, inspect
+# What’s New In Python 3.12 / PEP 688: Making the buffer protocol accessible in Python - collections.abc, inspect
 
 ### PEP 688: Making the buffer protocol accessible in Python
 

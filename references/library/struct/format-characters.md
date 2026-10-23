@@ -1,4 +1,4 @@
-# struct — Format Characters
+# struct - Format Characters
 
 ### Format Characters
 

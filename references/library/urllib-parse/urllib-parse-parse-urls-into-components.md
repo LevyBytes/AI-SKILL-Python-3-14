@@ -1,6 +1,6 @@
-# urllib.parse — `urllib.parse` — Parse URLs into components
+# urllib.parse`urllib.parse` - Parse URLs into components
 
-### `urllib.parse` — Parse URLs into components
+### `urllib.parse` - Parse URLs into components
 
 **Source code:** [Lib/urllib/parse.py](https://github.com/python/cpython/tree/3.14/Lib/urllib/parse.py)
 

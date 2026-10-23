@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PyType_GetBaseByToken()`, `PyUnstable_Type_AssignVersionTag()`, `PyType_SUPPORTS_WEAKREFS()` in type objects C API. [type objects C API: `PyType_GetBaseByToken()`, `PyUnstable_Type_AssignVersionTag()`, `PyType_SUPPORTS_WEAKREFS()`](pytype-getbasebytoken-to-pytype-supports-weakrefs.md).
 - Open when checking type PyType_Spec: [type PyType_Spec](pytype-spec.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

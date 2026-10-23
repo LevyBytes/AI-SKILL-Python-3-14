@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "Internet Protocols and Support — Section introduction and initial examples", "file": "internet-protocol-support-overview.md", "summary": "Open when checking Internet Protocols and Support — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Internet Protocols and Support - Section introduction and initial examples", "file": "internet-protocol-support-overview.md", "summary": "Open when checking Internet Protocols and Support - Section introduction and initial examples.", "keywords": []},
     {"topic": "Internet Protocols and Support", "file": "internet/internet-protocols-and-support.md", "summary": "Open when checking Internet Protocols and Support.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "uu — `uu` — Encode and decode uuencode files", "file": "uu/uu-encode-and-decode-uuencode-files.md", "summary": "Open when checking uu — `uu` — Encode and decode uuencode files.", "keywords": []},
+    {"topic": "uu - `uu` - Encode and decode uuencode files", "file": "uu/uu-encode-and-decode-uuencode-files.md", "summary": "Open when checking uu - `uu` - Encode and decode uuencode files.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

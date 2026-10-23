@@ -1,4 +1,4 @@
-# argparse — Subcommands — Code example: >>> # subcommand functions
+# argparse - Subcommands - Code example: >>> # subcommand functions
 
 ```python
 >>> # subcommand functions

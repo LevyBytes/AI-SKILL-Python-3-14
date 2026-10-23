@@ -1,4 +1,4 @@
-# http.cookiejar — Examples
+# http.cookiejar - Examples
 
 ### Examples
 

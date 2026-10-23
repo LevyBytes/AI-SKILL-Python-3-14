@@ -1,6 +1,6 @@
-# xml.sax — `xml.sax` — Support for SAX2 parsers
+# xml.sax`xml.sax` - Support for SAX2 parsers
 
-### `xml.sax` — Support for SAX2 parsers
+### `xml.sax` - Support for SAX2 parsers
 
 **Source code:** [Lib/xml/sax/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/xml/sax/__init__.py)
 

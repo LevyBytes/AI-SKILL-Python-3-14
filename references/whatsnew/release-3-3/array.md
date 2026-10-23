@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / array — array
+# What's New In Python 3.3 / array - array
 
 ### array
 

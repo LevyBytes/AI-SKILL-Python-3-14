@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / Removed — array, base64, bz2, json, math, plistlib, sys, threading, typing, wave, xml.etree.elementtree
+# What's New In Python 3.9 / Removed - array, base64, bz2, json, math, plistlib, sys, threading, typing, wave, xml.etree.elementtree
 
 ### Removed
 

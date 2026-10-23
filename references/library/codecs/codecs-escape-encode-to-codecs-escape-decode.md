@@ -1,4 +1,4 @@
-# codecs — Standalone Codec Functions
+# codecs - Standalone Codec Functions
 
 ### Standalone Codec Functions
 

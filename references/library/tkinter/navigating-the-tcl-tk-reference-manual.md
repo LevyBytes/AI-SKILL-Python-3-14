@@ -1,4 +1,4 @@
-# tkinter — Navigating the Tcl/Tk Reference Manual
+# tkinter - Navigating the Tcl/Tk Reference Manual
 
 ### Navigating the Tcl/Tk Reference Manual
 

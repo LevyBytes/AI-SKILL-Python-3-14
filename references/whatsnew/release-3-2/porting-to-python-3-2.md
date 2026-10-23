@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Porting to Python 3.2 — array, configparser, random, string
+# What's New In Python 3.2 / Porting to Python 3.2 - array, configparser, random, string
 
 ### Porting to Python 3.2
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / New, Improved, and Deprecated Modules — random, readline, shutil, signal, socket, tarfile, textwrap
+# What’s New in Python 2.3 / New, Improved, and Deprecated Modules - random, readline, shutil, signal, socket, tarfile, textwrap
 
 ```python
 >>> days = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'St', 'Sn']

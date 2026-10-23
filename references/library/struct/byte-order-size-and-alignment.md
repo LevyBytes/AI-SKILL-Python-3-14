@@ -1,4 +1,4 @@
-# struct — Byte Order, Size, and Alignment
+# struct - Byte Order, Size, and Alignment
 
 ### Byte Order, Size, and Alignment
 

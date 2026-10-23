@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "asyncore — `asyncore` — Asynchronous socket handler", "file": "asyncore/asyncore-asynchronous-socket-handler.md", "summary": "Open when checking asyncore — `asyncore` — Asynchronous socket handler.", "keywords": []},
+    {"topic": "asyncore - `asyncore` - Asynchronous socket handler", "file": "asyncore/asyncore-asynchronous-socket-handler.md", "summary": "Open when checking asyncore - `asyncore` - Asynchronous socket handler.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

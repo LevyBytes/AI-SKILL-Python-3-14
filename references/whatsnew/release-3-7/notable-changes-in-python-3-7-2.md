@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Notable changes in Python 3.7.2 — venv
+# What's New In Python 3.7 / Notable changes in Python 3.7.2 - venv
 
 ### Notable changes in Python 3.7.2
 

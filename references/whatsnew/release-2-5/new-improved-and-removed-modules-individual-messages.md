@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / New, Improved, and Removed Modules — doctest, email, fileinput, gc, heapq, itertools, locale, mailbox
+# What's New in Python 2.5 / New, Improved, and Removed Modules - doctest, email, fileinput, gc, heapq, itertools, locale, mailbox
 
 The [`doctest`](https://docs.python.org/3.14/library/doctest.html#module-doctest) module gained a `SKIP` option that stops an example from running entirely. It is meant for code snippets that serve as usage examples for the reader rather than as genuine test cases.
 

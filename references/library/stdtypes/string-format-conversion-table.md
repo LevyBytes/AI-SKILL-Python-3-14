@@ -1,4 +1,4 @@
-# `printf`-style String Formatting — Complete Conversion , Meaning , Notes table
+# `printf`-style String Formatting - Complete Conversion , Meaning , Notes table
 
 | Conversion | Meaning | Notes |
 | --- | --- | --- |

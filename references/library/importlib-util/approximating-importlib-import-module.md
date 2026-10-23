@@ -1,4 +1,4 @@
-# importlib.util — Approximating `importlib.import_module()`
+# importlib.util - Approximating `importlib.import_module()`
 
 ### Approximating `importlib.import_module()`
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 3101: Advanced String Formatting — string
+# What’s New in Python 2.6 / PEP 3101: Advanced String Formatting - string
 
 ```python
 >>> '{0:g}'.format(3.75)

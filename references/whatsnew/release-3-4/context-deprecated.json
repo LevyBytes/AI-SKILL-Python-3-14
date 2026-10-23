@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "references/whatsnew", "topics": [
   {"topic": "Deprecated / What's New In Python 3.4 / Deprecated", "file": "release-3-4/deprecated.md", "summary": "Open when checking What's New In Python 3.4 / Deprecated.", "keywords": []},
   {"topic": "Deprecated / What's New In Python 3.4 / Deprecations in the Python API", "file": "release-3-4/deprecations-in-the-python-api.md", "summary": "Open when checking What's New In Python 3.4 / Deprecations in the Python API.", "keywords": []},
-  {"topic": "Deprecated / What's New In Python 3.4 / Deprecated Features — idle", "file": "release-3-4/deprecated-features.md", "summary": "Open when checking What's New In Python 3.4 / Deprecated Features — idle.", "keywords": []},
+  {"topic": "Deprecated / What's New In Python 3.4 / Deprecated Features - idle", "file": "release-3-4/deprecated-features.md", "summary": "Open when checking What's New In Python 3.4 / Deprecated Features - idle.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

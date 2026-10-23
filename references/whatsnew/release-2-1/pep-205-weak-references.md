@@ -1,4 +1,4 @@
-# What’s New in Python 2.1 / PEP 205: Weak References — weakref
+# What’s New in Python 2.1 / PEP 205: Weak References - weakref
 
 ### PEP 205: Weak References
 

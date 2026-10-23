@@ -1,4 +1,4 @@
-# typing — typing.Annotated
+# typing - typing.Annotated
 
 ```pycon
 >>> from typing import Annotated, get_type_hints

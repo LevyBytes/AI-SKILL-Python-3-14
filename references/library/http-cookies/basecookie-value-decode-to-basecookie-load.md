@@ -1,4 +1,4 @@
-# http.cookies — Cookie Objects
+# http.cookies - Cookie Objects
 
 ### Cookie Objects
 

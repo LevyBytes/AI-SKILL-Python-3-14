@@ -1,6 +1,6 @@
-# test.support.script_helper — `test.support.script_helper` — Utilities for the Python execution tests
+# test.support.script_helper`test.support.script_helper` - Utilities for the Python execution tests
 
-### `test.support.script_helper` — Utilities for the Python execution tests
+### `test.support.script_helper` - Utilities for the Python execution tests
 
 The `test.support.script_helper` module offers support for Python's script execution tests.
 

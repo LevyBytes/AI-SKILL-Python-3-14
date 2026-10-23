@@ -5,4 +5,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 release candidate 1 / c api / arg: [Python 3.14.0 release candidate 1 / c api / arg](arg.md).
 - Open when checking Python 3.14.0 release candidate 1 / c api / synchronization: [Python 3.14.0 release candidate 1 / c api / synchronization](synchronization.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

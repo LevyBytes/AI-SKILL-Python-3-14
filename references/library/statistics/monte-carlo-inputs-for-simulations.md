@@ -1,4 +1,4 @@
-# statistics — Monte Carlo inputs for simulations
+# statistics - Monte Carlo inputs for simulations
 
 ### Monte Carlo inputs for simulations
 

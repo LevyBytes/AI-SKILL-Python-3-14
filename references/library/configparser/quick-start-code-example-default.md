@@ -1,4 +1,4 @@
-# configparser — Quick Start — Code example: [DEFAULT]
+# configparser - Quick Start - Code example: [DEFAULT]
 
 ```ini
 [DEFAULT]

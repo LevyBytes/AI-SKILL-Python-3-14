@@ -1,4 +1,4 @@
-# annotationlib — Annotation semantics
+# annotationlib - Annotation semantics
 
 ### Annotation semantics
 

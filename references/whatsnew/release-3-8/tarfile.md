@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / tarfile — tarfile
+# What’s New In Python 3.8 / tarfile - tarfile
 
 ### tarfile
 

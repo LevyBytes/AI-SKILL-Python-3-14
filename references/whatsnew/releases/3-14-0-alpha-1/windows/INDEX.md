@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 1 / windows / refreshed bundled tcl tk: [Python 3.14.0 alpha 1 / windows / refreshed bundled tcl tk](refreshed-bundled-tcl-tk.md).
 - Open when checking Python 3.14.0 alpha 1 / windows / text and unicode: [Python 3.14.0 alpha 1 / windows / text and unicode](text-and-unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

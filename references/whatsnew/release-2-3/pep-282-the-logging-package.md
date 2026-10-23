@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 282: The logging Package — logging
+# What’s New in Python 2.3 / PEP 282: The logging Package - logging
 
 ### PEP 282: The logging Package
 

@@ -1,8 +1,8 @@
-# lzma — `lzma` — Compression using the LZMA algorithm
+# lzma`lzma` - Compression using the LZMA algorithm
 
 # Lzma
 
-### `lzma` — Compression using the LZMA algorithm
+### `lzma` - Compression using the LZMA algorithm
 
 Added in version 3.3.
 

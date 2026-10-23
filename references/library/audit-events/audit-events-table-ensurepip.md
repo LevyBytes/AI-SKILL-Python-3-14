@@ -1,4 +1,4 @@
-# Audit events table — ensurepip
+# Audit events table - ensurepip
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

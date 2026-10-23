@@ -1,8 +1,8 @@
-# symtable — `symtable` — Access to the compiler’s symbol tables
+# symtable`symtable` - Access to the compiler’s symbol tables
 
-## symtable — Access to the compiler’s symbol tables
+## symtable - Access to the compiler’s symbol tables
 
-### `symtable` — Access to the compiler’s symbol tables
+### `symtable` - Access to the compiler’s symbol tables
 
 **Source code:** [Lib/symtable.py](https://github.com/python/cpython/tree/3.14/Lib/symtable.py)
 

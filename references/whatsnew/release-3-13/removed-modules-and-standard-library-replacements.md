@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / PEP 594: Remove "dead batteries" from the standard library — ctypes, email, email.compat32-message, email.message, hashlib, urllib.parse
+# What's New In Python 3.13 / PEP 594: Remove "dead batteries" from the standard library - ctypes, email, email.compat32-message, email.message, hashlib, urllib.parse
 
 ### Removed Modules And APIs
 

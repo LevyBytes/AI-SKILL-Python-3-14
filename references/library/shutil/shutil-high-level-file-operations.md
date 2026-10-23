@@ -1,6 +1,6 @@
-# shutil — `shutil` — High-level file operations
+# shutil`shutil` - High-level file operations
 
-### `shutil` — High-level file operations
+### `shutil` - High-level file operations
 
 **Source code:** [Lib/shutil.py](https://github.com/python/cpython/tree/3.14/Lib/shutil.py)
 

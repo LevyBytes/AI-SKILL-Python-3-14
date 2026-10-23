@@ -1,4 +1,4 @@
-# warnings — Default Warning Filter
+# warnings - Default Warning Filter
 
 ### Default Warning Filter
 

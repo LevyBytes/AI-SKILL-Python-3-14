@@ -1,4 +1,4 @@
-# socket — Notes on socket timeouts
+# socket - Notes on socket timeouts
 
 ### Notes on socket timeouts
 

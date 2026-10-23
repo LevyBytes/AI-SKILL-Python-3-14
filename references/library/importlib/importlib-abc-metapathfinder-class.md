@@ -1,6 +1,6 @@
 # importlib: `importlib.abc.MetaPathFinder`
 
-### `importlib.abc` — Abstract base classes related to import
+### `importlib.abc` - Abstract base classes related to import
 
 **Source code:** [Lib/importlib/abc.py](https://github.com/python/cpython/tree/3.14/Lib/importlib/abc.py)
 

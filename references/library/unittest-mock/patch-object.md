@@ -1,4 +1,4 @@
-# unittest.mock — patch.object
+# unittest.mock - patch.object
 
 ### patch.object
 

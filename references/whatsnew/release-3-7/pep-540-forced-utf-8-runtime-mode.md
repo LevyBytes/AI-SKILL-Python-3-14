@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 540: Forced UTF-8 Runtime Mode — os, sys
+# What's New In Python 3.7 / PEP 540: Forced UTF-8 Runtime Mode - os, sys
 
 ### PEP 540: Forced UTF-8 Runtime Mode
 
@@ -14,7 +14,7 @@ UTF-8 mode turns on automatically when the locale is `C` or `POSIX` and the [**P
 
 See also
 
-[**PEP 540**](https://peps.python.org/pep-0540/) — Add a new UTF-8 mode
+[**PEP 540**](https://peps.python.org/pep-0540/): Add a new UTF-8 mode
 
 PEP written and implemented by Victor Stinner
 

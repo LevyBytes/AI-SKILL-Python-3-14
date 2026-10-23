@@ -1,8 +1,8 @@
-# getpass — `getpass` — Portable password input
+# getpass`getpass` - Portable password input
 
-## getpass — Portable password input
+## getpass - Portable password input
 
-### `getpass` — Portable password input
+### `getpass` - Portable password input
 
 **Source code:** [Lib/getpass.py](https://github.com/python/cpython/tree/3.14/Lib/getpass.py)
 

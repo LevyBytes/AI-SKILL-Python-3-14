@@ -1,4 +1,4 @@
-# configparser — Supported Datatypes
+# configparser - Supported Datatypes
 
 ### Supported Datatypes
 

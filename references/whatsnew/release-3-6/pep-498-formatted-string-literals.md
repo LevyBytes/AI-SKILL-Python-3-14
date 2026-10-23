@@ -22,7 +22,7 @@ A formatted string literal carries the `'f'` prefix and behaves much like the fo
 
 See also
 
-[**PEP 498**](https://peps.python.org/pep-0498/) — Literal String Interpolation.
+[**PEP 498**](https://peps.python.org/pep-0498/): Literal String Interpolation.
 
 PEP written and implemented by Eric V. Smith.
 

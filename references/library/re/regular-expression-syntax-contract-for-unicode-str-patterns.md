@@ -1,4 +1,4 @@
-# re — Regular Expression Syntax — Contract: For Unicode (str) patterns:
+# re - Regular Expression Syntax - Contract: For Unicode (str) patterns:
 
 For Unicode (str) patterns:
 

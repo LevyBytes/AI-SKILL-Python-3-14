@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 6 / c api / rename include buffer h header include pybuffer h dodging conflicts projects: [Python 3.11.0 alpha 6 / c api / rename include buffer h header include pybuffer h dodging conflicts projects](pybuffer-header-name-collision-prevention.md).
 - Open when checking Python 3.11.0 alpha 6 / c api / type: [Python 3.11.0 alpha 6 / c api / type](type.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

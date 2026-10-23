@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Summary — Release highlights — asyncio, secrets
+# What's New In Python 3.6 / Summary - Release highlights - asyncio, secrets
 
 ### What's New In Python 3.6
 
@@ -12,7 +12,7 @@ See also
 
 [**PEP 494**](https://peps.python.org/pep-0494/) - Python 3.6 Release Schedule
 
-### Summary — Release highlights
+### Summary - Release highlights
 
 New syntax features:
 

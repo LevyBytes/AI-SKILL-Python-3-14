@@ -1,4 +1,4 @@
-# asyncio — Synchronization
+# asyncio - Synchronization
 
 ### Synchronization
 

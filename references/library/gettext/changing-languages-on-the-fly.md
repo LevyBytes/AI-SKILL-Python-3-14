@@ -1,4 +1,4 @@
-# gettext — Changing languages on the fly
+# gettext - Changing languages on the fly
 
 ### Changing languages on the fly
 

@@ -1,4 +1,4 @@
-# urllib.request — HTTPRedirectHandler Objects
+# urllib.request - HTTPRedirectHandler Objects
 
 ### HTTPRedirectHandler Objects
 

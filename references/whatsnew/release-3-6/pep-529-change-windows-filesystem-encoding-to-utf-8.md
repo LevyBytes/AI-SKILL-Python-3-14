@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / PEP 529: Change Windows filesystem encoding to UTF-8 — os, sys
+# What's New In Python 3.6 / PEP 529: Change Windows filesystem encoding to UTF-8 - os, sys
 
 ### PEP 529: Change Windows filesystem encoding to UTF-8
 

@@ -1,4 +1,4 @@
-# decimal — Quick-start tutorial — Contract: Changed in version 3.3.
+# decimal - Quick-start tutorial - Contract: Changed in version 3.3.
 
 Changed in version 3.3.
 

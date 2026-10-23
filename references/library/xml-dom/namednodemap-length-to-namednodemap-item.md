@@ -1,4 +1,4 @@
-# xml.dom — NamedNodeMap Objects
+# xml.dom - NamedNodeMap Objects
 
 ### NamedNodeMap Objects
 

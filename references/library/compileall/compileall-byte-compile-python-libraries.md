@@ -1,8 +1,8 @@
-# compileall — `compileall` — Byte-compile Python libraries
+# compileall`compileall` - Byte-compile Python libraries
 
-## compileall — Byte-compile Python libraries
+## compileall - Byte-compile Python libraries
 
-### `compileall` — Byte-compile Python libraries
+### `compileall` - Byte-compile Python libraries
 
 **Source code:** [Lib/compileall.py](https://github.com/python/cpython/tree/3.14/Lib/compileall.py)
 

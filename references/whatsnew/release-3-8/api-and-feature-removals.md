@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / API and Feature Removals — collections, collections.abc, os, tarfile, time, xml.etree.elementtree
+# What’s New In Python 3.8 / API and Feature Removals - collections, collections.abc, os, tarfile, time, xml.etree.elementtree
 
 ### API and Feature Removals
 

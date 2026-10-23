@@ -1,4 +1,4 @@
-# Memory Views — Code example: >>> buf = struct.pack("L"*6, *list(range(6)))
+# Memory Views - Code example: >>> buf = struct.pack("L"*6, *list(range(6)))
 
 ```python
 >>> buf = struct.pack("L"*6, *list(range(6)))

@@ -1,4 +1,4 @@
-# typing — Building generic types and type aliases — Contract: Be aware, though, that no more than a single type variable tuple is allowed within one list of type arguments or type parameters:
+# typing - Building generic types and type aliases - Contract: Be aware, though, that no more than a single type variable tuple is allowed within one list of type arguments or type parameters:
 
 Be aware, though, that no more than a single type variable tuple is allowed within one list of type arguments or type parameters:
 

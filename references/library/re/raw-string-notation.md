@@ -1,4 +1,4 @@
-# re — Raw String Notation
+# re - Raw String Notation
 
 ### Raw String Notation
 

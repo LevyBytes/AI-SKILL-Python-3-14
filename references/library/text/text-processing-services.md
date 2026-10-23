@@ -12,9 +12,9 @@ Topics in this file: Text Processing Services; plus textwrap — Text wrapping a
 
 This chapter covers modules offering a broad assortment of string-handling operations along with other facilities for working with text.
 
-For text work, the [`codecs`](https://docs.python.org/3.14/library/codecs.html#module-codecs) module — covered within [Binary Data Services](https://docs.python.org/3.14/library/binary.html#binaryservices) — is likewise quite pertinent. You should also consult the writeup of Python’s built-in string type over in [Text Sequence Type — str](https://docs.python.org/3.14/library/stdtypes.html#textseq).
+For text work, the [`codecs`](https://docs.python.org/3.14/library/codecs.html#module-codecs) module — covered within [Binary Data Services](https://docs.python.org/3.14/library/binary.html#binaryservices) — is likewise quite pertinent. You should also consult the writeup of Python’s built-in string type over in [Text Sequence Type - str](https://docs.python.org/3.14/library/stdtypes.html#textseq).
 
-- [`string` — Common string operations](https://docs.python.org/3.14/library/string.html)
+- [`string` - Common string operations](https://docs.python.org/3.14/library/string.html)
   - [String constants](https://docs.python.org/3.14/library/string.html#string-constants)
   - [Custom string formatting](https://docs.python.org/3.14/library/string.html#custom-string-formatting)
   - [Format string syntax](https://docs.python.org/3.14/library/string.html#format-string-syntax)
@@ -24,12 +24,12 @@ For text work, the [`codecs`](https://docs.python.org/3.14/library/codecs.html#m
   - [Template strings ($-strings)](https://docs.python.org/3.14/library/string.html#template-strings-strings)
   - [Helper functions](https://docs.python.org/3.14/library/string.html#helper-functions)
 
-- [`string.templatelib` — Support for template string literals](https://docs.python.org/3.14/library/string.templatelib.html)
+- [`string.templatelib` - Support for template string literals](https://docs.python.org/3.14/library/string.templatelib.html)
   - [Template strings](https://docs.python.org/3.14/library/string.templatelib.html#template-strings)
   - [Types](https://docs.python.org/3.14/library/string.templatelib.html#types)
   - [Helper functions](https://docs.python.org/3.14/library/string.templatelib.html#helper-functions)
 
-- [`re` — Regular expression operations](https://docs.python.org/3.14/library/re.html)
+- [`re` - Regular expression operations](https://docs.python.org/3.14/library/re.html)
   - [Regular Expression Syntax](https://docs.python.org/3.14/library/re.html#regular-expression-syntax)
   - [Module Contents](https://docs.python.org/3.14/library/re.html#module-contents)
     - [Flags](https://docs.python.org/3.14/library/re.html#flags)
@@ -49,7 +49,7 @@ For text work, the [`codecs`](https://docs.python.org/3.14/library/codecs.html#m
     - [Raw String Notation](https://docs.python.org/3.14/library/re.html#raw-string-notation)
     - [Writing a Tokenizer](https://docs.python.org/3.14/library/re.html#writing-a-tokenizer)
 
-- [`difflib` — Helpers for computing deltas](https://docs.python.org/3.14/library/difflib.html)
+- [`difflib` - Helpers for computing deltas](https://docs.python.org/3.14/library/difflib.html)
   - [SequenceMatcher objects](https://docs.python.org/3.14/library/difflib.html#sequencematcher-objects)
   - [SequenceMatcher examples](https://docs.python.org/3.14/library/difflib.html#sequencematcher-examples)
   - [Differ objects](https://docs.python.org/3.14/library/difflib.html#differ-objects)
@@ -57,10 +57,10 @@ For text work, the [`codecs`](https://docs.python.org/3.14/library/codecs.html#m
   - [A command-line interface to difflib](https://docs.python.org/3.14/library/difflib.html#a-command-line-interface-to-difflib)
   - [ndiff example](https://docs.python.org/3.14/library/difflib.html#ndiff-example)
 
-- [`textwrap` — Text wrapping and filling](https://docs.python.org/3.14/library/textwrap.html)
-- [`unicodedata` — Unicode Database](https://docs.python.org/3.14/library/unicodedata.html)
-- [`stringprep` — Internet String Preparation](https://docs.python.org/3.14/library/stringprep.html)
-- [`readline` — GNU readline interface](https://docs.python.org/3.14/library/readline.html)
+- [`textwrap` - Text wrapping and filling](https://docs.python.org/3.14/library/textwrap.html)
+- [`unicodedata` - Unicode Database](https://docs.python.org/3.14/library/unicodedata.html)
+- [`stringprep` - Internet String Preparation](https://docs.python.org/3.14/library/stringprep.html)
+- [`readline` - GNU readline interface](https://docs.python.org/3.14/library/readline.html)
   - [Init file](https://docs.python.org/3.14/library/readline.html#init-file)
   - [Line buffer](https://docs.python.org/3.14/library/readline.html#line-buffer)
   - [History file](https://docs.python.org/3.14/library/readline.html#history-file)
@@ -69,6 +69,6 @@ For text work, the [`codecs`](https://docs.python.org/3.14/library/codecs.html#m
   - [Completion](https://docs.python.org/3.14/library/readline.html#completion)
   - [Example](https://docs.python.org/3.14/library/readline.html#example)
 
-- [`rlcompleter` — Completion function for GNU readline](https://docs.python.org/3.14/library/rlcompleter.html)
+- [`rlcompleter` - Completion function for GNU readline](https://docs.python.org/3.14/library/rlcompleter.html)
 
 [Subject index](INDEX.md) · [Continue](../textwrap/textwrap-wrap-to-textwrap-dedent.md)

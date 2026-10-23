@@ -1,4 +1,4 @@
-# codecs — IncrementalDecoder Objects
+# codecs - IncrementalDecoder Objects
 
 #### IncrementalDecoder Objects
 

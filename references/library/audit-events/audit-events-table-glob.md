@@ -1,4 +1,4 @@
-# Audit events table — glob
+# Audit events table - glob
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

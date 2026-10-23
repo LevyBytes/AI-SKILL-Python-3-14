@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / _thread — _thread, signal
+# What's New In Python 3.10 / _thread - _thread, signal
 
 ### _thread
 

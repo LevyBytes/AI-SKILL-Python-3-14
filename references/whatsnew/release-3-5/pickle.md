@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / pickle — pickle
+# What’s New In Python 3.5 / pickle - pickle
 
 Inner objects, including unbound methods and nested classes, are now serializable through [pickle protocols](https://docs.python.org/3.14/library/pickle.html#pickle-protocols) that predate protocol version 4. Such objects were already handled by protocol version 4. Serhiy Storchaka delivered this work (see [bpo-23611](https://bugs.python.org/issue?@action=redirect&bpo=23611)).
 

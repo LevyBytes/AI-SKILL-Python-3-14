@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Finding interesting elements
+# xml.etree.ElementTree - Finding interesting elements
 
 ### Finding interesting elements
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / PEP 289: Generator Expressions — itertools
+# What’s New in Python 2.4 / PEP 289: Generator Expressions - itertools
 
 ### PEP 289: Generator Expressions
 

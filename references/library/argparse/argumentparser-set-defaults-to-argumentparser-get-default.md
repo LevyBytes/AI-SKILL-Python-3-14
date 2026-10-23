@@ -1,4 +1,4 @@
-# argparse — Parser defaults
+# argparse - Parser defaults
 
 ### Parser defaults
 

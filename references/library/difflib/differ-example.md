@@ -1,4 +1,4 @@
-# difflib — Differ example
+# difflib - Differ example
 
 Every sequence has to hold single-line strings that each end with a newline. The [`readlines()`](https://docs.python.org/3.14/library/io.html#io.IOBase.readlines) method of file-like objects yields exactly such sequences. The resulting delta is likewise made of newline-terminated strings, which can be printed directly through the [`writelines()`](https://docs.python.org/3.14/library/io.html#io.IOBase.writelines) method of a file-like object.
 

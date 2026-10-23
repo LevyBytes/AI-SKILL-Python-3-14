@@ -1,4 +1,4 @@
-# os — Files and Directories — Signature and initial contract
+# os - Files and Directories - Signature and initial contract
 
 os.chmod(*path*, *mode*, ***, *dir_fd=None*, *follow_symlinks=True*)
 

@@ -1,4 +1,4 @@
-# multiprocessing — All start methods — Code example: from multiprocessing import Process, Lock
+# multiprocessing - All start methods - Code example: from multiprocessing import Process, Lock
 
 ```python
 from multiprocessing import Process, Lock

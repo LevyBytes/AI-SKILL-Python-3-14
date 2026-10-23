@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 302: New Import Hooks — sys
+# What’s New in Python 2.3 / PEP 302: New Import Hooks - sys
 
 ### PEP 302: New Import Hooks
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / C API Changes / New Features — datetime, gc
+# What's New In Python 3.10 / C API Changes / New Features - datetime, gc
 
 ### New Features
 

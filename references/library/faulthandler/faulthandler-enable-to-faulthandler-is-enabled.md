@@ -1,4 +1,4 @@
-# faulthandler — Fault handler state
+# faulthandler - Fault handler state
 
 ### Fault handler state
 

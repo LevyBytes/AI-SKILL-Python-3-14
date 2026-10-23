@@ -74,4 +74,4 @@ Hand back a fresh set holding the set's elements that are absent from the others
 
 Hand back a fresh set holding the elements found in either the set or *other* but not in both.
 
-[Subject index](INDEX.md) · [Previous](set-class-to-frozenset-class.md) · [Continue](frozenset-copy-to-set-clear.md) · [Owning module, declaration or section: set; frozenset](set-class-to-frozenset-class.md) · [Owning module, declaration or section: Set Types — `set`, `frozenset`](set-class-to-frozenset-class.md)
+[Subject index](INDEX.md) · [Previous](set-class-to-frozenset-class.md) · [Continue](frozenset-copy-to-set-clear.md) · [Owning module, declaration or section: set; frozenset](set-class-to-frozenset-class.md) · [Owning module, declaration or section: Set Types - `set`, `frozenset`](set-class-to-frozenset-class.md)

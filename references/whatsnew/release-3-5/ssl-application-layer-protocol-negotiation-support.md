@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / ssl / Application-Layer Protocol Negotiation Support — ssl
+# What’s New In Python 3.5 / ssl / Application-Layer Protocol Negotiation Support - ssl
 
 #### Application-Layer Protocol Negotiation Support
 

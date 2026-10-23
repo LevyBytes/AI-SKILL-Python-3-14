@@ -1,4 +1,4 @@
-# importlib.util — Implementing lazy imports
+# importlib.util - Implementing lazy imports
 
 ### Implementing lazy imports
 

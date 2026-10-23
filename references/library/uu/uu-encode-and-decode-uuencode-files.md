@@ -1,8 +1,8 @@
-# uu — `uu` — Encode and decode uuencode files
+# uu`uu` - Encode and decode uuencode files
 
-## uu — Encode and decode uuencode files
+## uu - Encode and decode uuencode files
 
-### `uu` — Encode and decode uuencode files
+### `uu` - Encode and decode uuencode files
 
 Deprecated since version 3.11, removed in version 3.13.
 

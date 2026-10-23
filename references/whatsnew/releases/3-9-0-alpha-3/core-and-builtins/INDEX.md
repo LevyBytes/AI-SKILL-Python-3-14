@@ -20,4 +20,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 3 / core and builtins / tests and documentation: [Python 3.9.0 alpha 3 / core and builtins / tests and documentation](tests-and-documentation.md).
 - Open when checking Python 3.9.0 alpha 3 / core and builtins / tokens spanning several lines handled properly under interactive mode: [Python 3.9.0 alpha 3 / core and builtins / tokens spanning several lines handled properly under interactive mode](interactive-multiline-token-handling.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -26,7 +26,7 @@ Holds the string form of the HTTP request line, with the trailing CRLF removed. 
 
  command
 
-Holds the command (request type) — for instance, `'GET'`.
+Holds the command (request type): for instance, `'GET'`.
 
  path
 

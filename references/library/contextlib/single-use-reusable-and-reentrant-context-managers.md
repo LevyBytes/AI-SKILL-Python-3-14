@@ -1,4 +1,4 @@
-# contextlib — Single use, reusable and reentrant context managers
+# contextlib - Single use, reusable and reentrant context managers
 
 ### Single use, reusable and reentrant context managers
 

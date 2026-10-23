@@ -1,4 +1,4 @@
-# symtable — Generating Symbol Tables
+# symtable - Generating Symbol Tables
 
 ### Generating Symbol Tables
 

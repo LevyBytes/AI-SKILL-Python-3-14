@@ -1,4 +1,4 @@
-# urllib.request — Legacy interface
+# urllib.request - Legacy interface
 
 ### Legacy interface
 

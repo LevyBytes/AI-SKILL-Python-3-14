@@ -1,4 +1,4 @@
-# timeit — Basic Examples
+# timeit - Basic Examples
 
 ### Basic Examples
 

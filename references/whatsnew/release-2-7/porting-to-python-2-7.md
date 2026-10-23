@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Porting to Python 2.7 — datetime, decimal, io, syslog, tarfile, urllib.parse, xml.etree.elementtree
+# What’s New in Python 2.7 / Porting to Python 2.7 - datetime, decimal, io, syslog, tarfile, urllib.parse, xml.etree.elementtree
 
 ### Porting to Python 2.7
 

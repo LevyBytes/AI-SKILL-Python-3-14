@@ -1,4 +1,4 @@
-# queue — Waiting for task completion
+# queue - Waiting for task completion
 
 ### Waiting for task completion
 

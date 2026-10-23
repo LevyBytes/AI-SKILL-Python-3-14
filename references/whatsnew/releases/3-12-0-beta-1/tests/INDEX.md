@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 beta 1 / tests / revise test pack configure in test place configure in match how tk formats error messages: [Python 3.12.0 beta 1 / tests / revise test pack configure in test place configure in match how tk formats error messages](tk-pack-place-error-message-tests.md).
 - Open when checking Python 3.12.0 beta 1 / tests / zoneinfo: [Python 3.12.0 beta 1 / tests / zoneinfo](zoneinfo.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

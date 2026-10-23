@@ -1,4 +1,4 @@
-# zoneinfo — String representations
+# zoneinfo - String representations
 
 ### String representations
 

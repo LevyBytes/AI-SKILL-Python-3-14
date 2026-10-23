@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "email.encoders — `email.encoders`: Encoders", "file": "email-encoders/email-encoders-encode-quopri-to-email-encoders-encode-noop.md", "summary": "Open when checking email.encoders — `email.encoders`: Encoders.", "keywords": []},
+    {"topic": "email.encoders - `email.encoders`: Encoders", "file": "email-encoders/email-encoders-encode-quopri-to-email-encoders-encode-noop.md", "summary": "Open when checking email.encoders - `email.encoders`: Encoders.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

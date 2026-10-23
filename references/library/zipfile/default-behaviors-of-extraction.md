@@ -1,4 +1,4 @@
-# zipfile — Default behaviors of extraction
+# zipfile - Default behaviors of extraction
 
 ### Default behaviors of extraction
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Other Language Changes — __future__, _thread, os
+# What's New In Python 3.13 / Other Language Changes - __future__, _thread, os
 
 ```pycon
 >>> def spam():

@@ -1,4 +1,4 @@
-# concurrent.interpreters — “Sharing” Objects
+# concurrent.interpreters - “Sharing” Objects
 
 ### “Sharing” Objects
 

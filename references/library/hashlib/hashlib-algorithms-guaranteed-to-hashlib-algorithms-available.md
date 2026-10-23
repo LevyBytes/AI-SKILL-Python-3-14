@@ -1,4 +1,4 @@
-# hashlib — Attributes
+# hashlib - Attributes
 
 ### Attributes
 

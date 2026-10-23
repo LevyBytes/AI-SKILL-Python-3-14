@@ -1,4 +1,4 @@
-# struct — Standard Formats
+# struct - Standard Formats
 
 ### Standard Formats
 

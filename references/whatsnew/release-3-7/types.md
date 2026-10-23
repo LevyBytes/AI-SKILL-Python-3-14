@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / types — types
+# What's New In Python 3.7 / types - types
 
 ### types
 

@@ -1,4 +1,4 @@
-# shlex — Parsing Rules
+# shlex - Parsing Rules
 
 ### Parsing Rules
 

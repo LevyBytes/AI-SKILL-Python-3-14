@@ -1,4 +1,4 @@
-# lzma — Examples
+# lzma - Examples
 
 ### Examples
 

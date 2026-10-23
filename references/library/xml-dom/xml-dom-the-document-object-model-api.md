@@ -1,6 +1,6 @@
-# xml.dom — `xml.dom` — The Document Object Model API
+# xml.dom`xml.dom` - The Document Object Model API
 
-### `xml.dom` — The Document Object Model API
+### `xml.dom` - The Document Object Model API
 
 **Source code:** [Lib/xml/dom/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/xml/dom/__init__.py)
 

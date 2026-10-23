@@ -1,4 +1,4 @@
-# xml.sax.xmlreader — The `AttributesNS` Interface
+# xml.sax.xmlreader - The `AttributesNS` Interface
 
 ### The `AttributesNS` Interface
 

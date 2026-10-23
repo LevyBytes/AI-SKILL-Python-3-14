@@ -1,4 +1,4 @@
-# unittest.mock — Mocking classes
+# unittest.mock - Mocking classes
 
 ### Mocking classes
 

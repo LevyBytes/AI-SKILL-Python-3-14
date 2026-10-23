@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Installing, selecting, upgrading and removing virtual-environment packages: [Installing, selecting, upgrading and removing virtual-environment packages](virtual-environment-package-lifecycle.md).
 - Open when checking 12.1. Introduction: [12.1. Introduction](introduction.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

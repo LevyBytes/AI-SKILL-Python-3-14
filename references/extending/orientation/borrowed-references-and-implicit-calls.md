@@ -1,4 +1,4 @@
-# Borrowed references and implicit interpreter calls — Py_DECREF, PyObject, PyList_GetItem, PyList_SetItem, PyLong_FromLong, PyObject_Print, tp_dealloc, PyTypeObject, tp_finalize, Py_INCREF, Py_BEGIN_ALLOW_THREADS, Py_END_ALLOW_THREADS
+# Borrowed references and implicit interpreter calls - Py_DECREF, PyObject, PyList_GetItem, PyList_SetItem, PyLong_FromLong, PyObject_Print, tp_dealloc, PyTypeObject, tp_finalize, Py_INCREF, Py_BEGIN_ALLOW_THREADS, Py_END_ALLOW_THREADS
 
 A handful of scenarios exist in which what looks like innocuous use of a borrowed reference turns out to be trouble. Each one traces back to the interpreter being triggered implicitly, which may prompt whoever owns a reference to discard it.
 

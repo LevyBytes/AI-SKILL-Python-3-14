@@ -1,6 +1,6 @@
-# email — `email` — An email and MIME handling package
+# email`email` - An email and MIME handling package
 
-### `email` — An email and MIME handling package
+### `email` - An email and MIME handling package
 
 **Source code:** [Lib/email/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/email/__init__.py)
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / You should check for DeprecationWarning in your code — collections, collections.abc, devmode, warnings
+# What's New In Python 3.9 / You should check for DeprecationWarning in your code - collections, collections.abc, devmode, warnings
 
 ### You should check for DeprecationWarning in your code
 

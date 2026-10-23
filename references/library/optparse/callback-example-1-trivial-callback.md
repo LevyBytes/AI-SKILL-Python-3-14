@@ -1,4 +1,4 @@
-# optparse — Callback example 1: trivial callback
+# optparse - Callback example 1: trivial callback
 
 ### Callback example 1: trivial callback
 

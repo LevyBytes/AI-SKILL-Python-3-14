@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Pending removal in future versions — argparse, builtins, calendar, codecs, datetime, gettext, importlib
+# What's new in Python 3.14 / Pending removal in future versions - argparse, builtins, calendar, codecs, datetime, gettext, importlib
 
 ### Pending removal in future versions
 

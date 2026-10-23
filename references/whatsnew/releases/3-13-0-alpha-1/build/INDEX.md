@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 1 / build / threads and concurrency: [Python 3.13.0 alpha 1 / build / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.13.0 alpha 1 / build / took out make testall target lean make buildbottest stead: [Python 3.13.0 alpha 1 / build / took out make testall target lean make buildbottest stead](took-out-make-testall-target-lean-make-buildbottest-stead.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

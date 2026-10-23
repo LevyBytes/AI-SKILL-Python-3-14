@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Optional `EncodingWarning` and `encoding="locale"` option — io, sys
+# What's New In Python 3.10 / Optional `EncodingWarning` and `encoding="locale"` option - io, sys
 
 ### Optional `EncodingWarning` and `encoding="locale"` option
 

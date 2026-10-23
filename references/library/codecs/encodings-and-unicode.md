@@ -1,4 +1,4 @@
-# codecs — Encodings and Unicode
+# codecs - Encodings and Unicode
 
 ### Encodings and Unicode
 

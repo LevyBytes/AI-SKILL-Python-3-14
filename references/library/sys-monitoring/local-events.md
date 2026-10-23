@@ -1,4 +1,4 @@
-# sys.monitoring — Local events
+# sys.monitoring - Local events
 
 ### Local events
 

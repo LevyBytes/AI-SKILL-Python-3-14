@@ -1,6 +1,6 @@
 # runpy: `runpy.run_module()`
 
-### `runpy` — Locating and executing Python modules
+### `runpy` - Locating and executing Python modules
 
 **Source code:** [Lib/runpy.py](https://github.com/python/cpython/tree/3.14/Lib/runpy.py)
 

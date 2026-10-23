@@ -1,4 +1,4 @@
-# Object Presentation — tp_repr, tp_str, PyTypeObject, PyObject, PyUnicode_FromFormat, tp_name
+# Object Presentation - tp_repr, tp_str, PyTypeObject, PyObject, PyUnicode_FromFormat, tp_name
 
 ### 3.2. Object Presentation
 

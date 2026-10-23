@@ -1,4 +1,4 @@
-# ast — Abstract grammar — ASDL module header, mod and complete stmt alternatives
+# ast - Abstract grammar - ASDL module header, mod and complete stmt alternatives
 
 ```asdl
 -- ASDL's 4 builtin types are:

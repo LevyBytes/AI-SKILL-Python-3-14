@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / New, Improved, and Deprecated Modules — bz2, collections, decimal, fractions, gzip, itertools, tkinter.ttk
+# What’s New In Python 3.1 / New, Improved, and Deprecated Modules - bz2, collections, decimal, fractions, gzip, itertools, tkinter.ttk
 
 ### New, Improved, and Deprecated Modules
 

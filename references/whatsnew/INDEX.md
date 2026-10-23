@@ -31,4 +31,4 @@ Open the [area overview](README.md) when checking the scope of this collection.
 - Open when checking releases: [releases](releases/INDEX.md).
 - Open when checking Version and contract conditions: [Version and contract conditions](version-and-contract-conditions.md).
 
-[Reference Language Selection](languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](languages.md) - Open when you need a language version of references other than English.

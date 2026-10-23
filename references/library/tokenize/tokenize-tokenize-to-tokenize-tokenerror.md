@@ -1,4 +1,4 @@
-# tokenize — Tokenizing Input
+# tokenize - Tokenizing Input
 
 ### Tokenizing Input
 

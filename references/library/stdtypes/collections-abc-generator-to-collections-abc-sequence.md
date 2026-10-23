@@ -1,4 +1,4 @@
-# Standard Generic Classes — Contract: `collections.abc.Generator`
+# Standard Generic Classes - Contract: `collections.abc.Generator`
 
 - [`collections.abc.Generator`](https://docs.python.org/3.14/library/collections.abc.html#collections.abc.Generator)
 

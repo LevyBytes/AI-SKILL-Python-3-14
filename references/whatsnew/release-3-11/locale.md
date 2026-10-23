@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / locale — locale, os
+# What's New In Python 3.11 / locale - locale, os
 
 ### locale
 

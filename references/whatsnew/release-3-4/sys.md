@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / sys — readline, site, sys
+# What's New In Python 3.4 / sys - readline, site, sys
 
 ### sys
 

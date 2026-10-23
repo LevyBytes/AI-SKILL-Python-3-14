@@ -1,4 +1,4 @@
-# tkinter — Packer Options
+# tkinter - Packer Options
 
 ### Packer Options
 

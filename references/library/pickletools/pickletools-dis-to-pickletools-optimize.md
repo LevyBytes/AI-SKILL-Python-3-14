@@ -1,4 +1,4 @@
-# pickletools — Programmatic interface
+# pickletools - Programmatic interface
 
 ### Programmatic interface
 

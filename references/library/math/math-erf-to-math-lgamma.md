@@ -1,4 +1,4 @@
-# math — Special functions
+# math - Special functions
 
 ### Special functions
 

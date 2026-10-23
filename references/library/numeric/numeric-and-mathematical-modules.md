@@ -1,4 +1,4 @@
-# numbers — Numeric and Mathematical Modules
+# numbers - Numeric and Mathematical Modules
 
 ## Numeric and Mathematical Modules
 
@@ -8,13 +8,13 @@ This chapter's modules deliver numeric and math-oriented functions along with da
 
 Documentation for the modules below appears throughout this chapter:
 
-- [`numbers` — Numeric abstract base classes](https://docs.python.org/3.14/library/numbers.html)
+- [`numbers` - Numeric abstract base classes](https://docs.python.org/3.14/library/numbers.html)
   - [The numeric tower](https://docs.python.org/3.14/library/numbers.html#the-numeric-tower)
   - [Notes for type implementers](https://docs.python.org/3.14/library/numbers.html#notes-for-type-implementers)
     - [Adding More Numeric ABCs](https://docs.python.org/3.14/library/numbers.html#adding-more-numeric-abcs)
     - [Implementing the arithmetic operations](https://docs.python.org/3.14/library/numbers.html#implementing-the-arithmetic-operations)
 
-- [`math` — Mathematical functions](https://docs.python.org/3.14/library/math.html)
+- [`math` - Mathematical functions](https://docs.python.org/3.14/library/math.html)
   - [Number-theoretic functions](https://docs.python.org/3.14/library/math.html#number-theoretic-functions)
   - [Floating point arithmetic](https://docs.python.org/3.14/library/math.html#floating-point-arithmetic)
   - [Floating point manipulation functions](https://docs.python.org/3.14/library/math.html#floating-point-manipulation-functions)
@@ -26,7 +26,7 @@ Documentation for the modules below appears throughout this chapter:
   - [Special functions](https://docs.python.org/3.14/library/math.html#special-functions)
   - [Constants](https://docs.python.org/3.14/library/math.html#constants)
 
-- [`cmath` — Mathematical functions for complex numbers](https://docs.python.org/3.14/library/cmath.html)
+- [`cmath` - Mathematical functions for complex numbers](https://docs.python.org/3.14/library/cmath.html)
   - [Conversions to and from polar coordinates](https://docs.python.org/3.14/library/cmath.html#conversions-to-and-from-polar-coordinates)
   - [Power and logarithmic functions](https://docs.python.org/3.14/library/cmath.html#power-and-logarithmic-functions)
   - [Trigonometric functions](https://docs.python.org/3.14/library/cmath.html#trigonometric-functions)
@@ -34,7 +34,7 @@ Documentation for the modules below appears throughout this chapter:
   - [Classification functions](https://docs.python.org/3.14/library/cmath.html#classification-functions)
   - [Constants](https://docs.python.org/3.14/library/cmath.html#constants)
 
-- [`decimal` — Decimal fixed-point and floating-point arithmetic](https://docs.python.org/3.14/library/decimal.html)
+- [`decimal` - Decimal fixed-point and floating-point arithmetic](https://docs.python.org/3.14/library/decimal.html)
   - [Quick-start tutorial](https://docs.python.org/3.14/library/decimal.html#quick-start-tutorial)
   - [Decimal objects](https://docs.python.org/3.14/library/decimal.html#decimal-objects)
     - [Logical operands](https://docs.python.org/3.14/library/decimal.html#logical-operands)
@@ -51,8 +51,8 @@ Documentation for the modules below appears throughout this chapter:
   - [Recipes](https://docs.python.org/3.14/library/decimal.html#recipes)
   - [Decimal FAQ](https://docs.python.org/3.14/library/decimal.html#decimal-faq)
 
-- [`fractions` — Rational numbers](https://docs.python.org/3.14/library/fractions.html)
-- [`random` — Generate pseudo-random numbers](https://docs.python.org/3.14/library/random.html)
+- [`fractions` - Rational numbers](https://docs.python.org/3.14/library/fractions.html)
+- [`random` - Generate pseudo-random numbers](https://docs.python.org/3.14/library/random.html)
   - [Bookkeeping functions](https://docs.python.org/3.14/library/random.html#bookkeeping-functions)
   - [Functions for bytes](https://docs.python.org/3.14/library/random.html#functions-for-bytes)
   - [Functions for integers](https://docs.python.org/3.14/library/random.html#functions-for-integers)
@@ -66,7 +66,7 @@ Documentation for the modules below appears throughout this chapter:
   - [Command-line usage](https://docs.python.org/3.14/library/random.html#command-line-usage)
   - [Command-line example](https://docs.python.org/3.14/library/random.html#command-line-example)
 
-- [`statistics` — Mathematical statistics functions](https://docs.python.org/3.14/library/statistics.html)
+- [`statistics` - Mathematical statistics functions](https://docs.python.org/3.14/library/statistics.html)
   - [Averages and measures of central location](https://docs.python.org/3.14/library/statistics.html#averages-and-measures-of-central-location)
   - [Measures of spread](https://docs.python.org/3.14/library/statistics.html#measures-of-spread)
   - [Statistics for relations between two inputs](https://docs.python.org/3.14/library/statistics.html#statistics-for-relations-between-two-inputs)

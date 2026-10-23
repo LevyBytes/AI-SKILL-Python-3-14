@@ -1,4 +1,4 @@
-# site — `sitecustomize`
+# site`sitecustomize`
 
 ### `sitecustomize`
 

@@ -1,4 +1,4 @@
-# mailbox — Examples
+# mailbox - Examples
 
 ### Examples
 

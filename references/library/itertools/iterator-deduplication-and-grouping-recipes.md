@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Deduplication and overlapping/nonoverlapping grouping recipes
+# itertools - Itertools Recipes - Deduplication and overlapping/nonoverlapping grouping recipes
 
 [Required complete example component](prime-sieve-factorization-and-totient-recipes.md) / [Required complete example component](running-statistics-recipes.md)
 

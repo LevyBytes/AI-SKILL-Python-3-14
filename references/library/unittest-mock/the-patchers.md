@@ -1,4 +1,4 @@
-# unittest.mock — The patchers
+# unittest.mock - The patchers
 
 ### The patchers
 

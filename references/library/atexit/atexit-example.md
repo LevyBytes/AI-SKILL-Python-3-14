@@ -1,4 +1,4 @@
-# atexit — `atexit` Example
+# atexit`atexit` Example
 
 ### `atexit` Example
 

@@ -17,12 +17,12 @@
   {"topic": "enum: `enum.ReprEnum`", "file": "enum/enum-reprenum-class.md", "summary": "Open when checking the documented contracts for `enum.ReprEnum` in enum.", "keywords": []},
   {"topic": "enum: `enum.EnumCheck`", "file": "enum/enum-enumcheck-class.md", "summary": "Open when checking the documented contracts for `enum.EnumCheck` in enum.", "keywords": []},
   {"topic": "enum: `enum.FlagBoundary`", "file": "enum/enum-flagboundary-class.md", "summary": "Open when checking the documented contracts for `enum.FlagBoundary` in enum.", "keywords": []},
-  {"topic": "enum — enum.FlagBoundary KEEP behavior and IntFlag default", "file": "enum/enum-flagboundary-keep-behavior-and-intflag-default.md", "summary": "Open when checking enum — enum.FlagBoundary KEEP behavior and IntFlag default.", "keywords": []},
-  {"topic": "enum — `enum` — Support for enumerations", "file": "enum/enum-support-for-enumerations.md", "summary": "Open when checking enum — `enum` — Support for enumerations.", "keywords": []},
-  {"topic": "enum — Notes", "file": "enum/notes.md", "summary": "Open when checking enum — Notes.", "keywords": []},
+  {"topic": "enum - enum.FlagBoundary KEEP behavior and IntFlag default", "file": "enum/enum-flagboundary-keep-behavior-and-intflag-default.md", "summary": "Open when checking enum - enum.FlagBoundary KEEP behavior and IntFlag default.", "keywords": []},
+  {"topic": "enum - `enum` - Support for enumerations", "file": "enum/enum-support-for-enumerations.md", "summary": "Open when checking enum - `enum` - Support for enumerations.", "keywords": []},
+  {"topic": "enum - Notes", "file": "enum/notes.md", "summary": "Open when checking enum - Notes.", "keywords": []},
   {"topic": "enum / Module contents: `property()`, `unique()`", "file": "enum/property-to-unique.md", "summary": "Open when checking the documented contracts for `property()`, `unique()` in enum / Module contents.", "keywords": []},
   {"topic": "enum / Module contents: `verify()`, `member()`, `nonmember()`, `global_enum()`, `show_flag_values()`, `enum.bin()`", "file": "enum/verify-to-enum-bin.md", "summary": "Open when checking the documented contracts for `verify()`, `member()`, `nonmember()`, `global_enum()`, `show_flag_values()`, `enum.bin()` in enum / Module contents.", "keywords": []},
-  {"topic": "enum — Supported `__dunder__` names", "file": "enum/supported-dunder-names.md", "summary": "Open when checking enum — Supported `__dunder__` names.", "keywords": []},
-  {"topic": "enum — Supported `_sunder_` names", "file": "enum/supported-sunder-names.md", "summary": "Open when checking enum — Supported `_sunder_` names.", "keywords": []},
+  {"topic": "enum - Supported `__dunder__` names", "file": "enum/supported-dunder-names.md", "summary": "Open when checking enum - Supported `__dunder__` names.", "keywords": []},
+  {"topic": "enum - Supported `_sunder_` names", "file": "enum/supported-sunder-names.md", "summary": "Open when checking enum - Supported `_sunder_` names.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

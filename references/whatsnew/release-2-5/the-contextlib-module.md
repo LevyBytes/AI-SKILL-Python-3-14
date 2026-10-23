@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / The contextlib module — contextlib
+# What's New in Python 2.5 / The contextlib module - contextlib
 
 ### The contextlib module
 

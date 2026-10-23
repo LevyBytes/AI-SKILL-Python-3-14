@@ -23,4 +23,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking int PyMember_SetOne(char *obj_addr, struct PyMemberDef *m, PyObject *o): [int PyMember_SetOne(char *obj_addr, struct PyMemberDef *m, PyObject *o)](pymember-setone.md).
 - Open when checking Accessing attributes of extension types: [Accessing attributes of extension types](pymemberdef-to-flags.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

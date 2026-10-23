@@ -24,7 +24,7 @@ So that zero-argument [`super()`](https://docs.python.org/3.14/library/functions
 
 See also
 
-[**PEP 487**](https://peps.python.org/pep-0487/) — Simpler customization of class creation
+[**PEP 487**](https://peps.python.org/pep-0487/): Simpler customization of class creation
 
 PEP written and implemented by Martin Teichmann.
 

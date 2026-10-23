@@ -1,4 +1,4 @@
-# curses — curses constants, key capabilities and terminal mappings — Section introduction and initial examples
+# curses - curses constants, key capabilities and terminal mappings - Section introduction and initial examples
 
 VT100 terminals and the software emulations of them, X terminal emulators included, usually offer a minimum of four function keys (`KEY_F1`, `KEY_F2`, `KEY_F3`, `KEY_F4`), with the arrow keys tied to `KEY_UP`, `KEY_DOWN`, `KEY_LEFT` and `KEY_RIGHT` just as you would guess. Should your machine sport a PC keyboard, you can count on arrow keys plus twelve function keys (though some older PC keyboards top out at ten); on top of that, these keypad mappings hold as standard:
 

@@ -1,6 +1,6 @@
-# datetime — `datetime` — Basic date and time types
+# datetime`datetime` - Basic date and time types
 
-### `datetime` — Basic date and time types
+### `datetime` - Basic date and time types
 
 **Source code:** [Lib/datetime.py](https://github.com/python/cpython/tree/3.14/Lib/datetime.py)
 

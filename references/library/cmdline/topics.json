@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "Modules command-line interface (CLI) — Signature and initial contract", "file": "cmdline/encodings-rot-13-to-http-server.md", "summary": "Open when checking Modules command-line interface (CLI) — Signature and initial contract.", "keywords": []},
-    {"topic": "Modules command-line interface (CLI) — Contract: `quopri`", "file": "cmdline/modules-command-line-interface-cli-contract-quopri.md", "summary": "Open when checking Modules command-line interface (CLI) — Contract: `quopri`.", "keywords": []},
+    {"topic": "Modules command-line interface (CLI) - Signature and initial contract", "file": "cmdline/encodings-rot-13-to-http-server.md", "summary": "Open when checking Modules command-line interface (CLI) - Signature and initial contract.", "keywords": []},
+    {"topic": "Modules command-line interface (CLI) - Contract: `quopri`", "file": "cmdline/modules-command-line-interface-cli-contract-quopri.md", "summary": "Open when checking Modules command-line interface (CLI) - Contract: `quopri`.", "keywords": []},
     {"topic": "Modules command-line interface (CLI)", "file": "cmdline/modules-command-line-interface-cli.md", "summary": "Open when checking Modules command-line interface (CLI).", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]

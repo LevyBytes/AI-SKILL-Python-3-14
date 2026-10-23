@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Pending removal in Python 3.14 — argparse, ast, asyncio, asyncio-eventloop, email, email.utils, importlib, importlib.resources.abc, itertools
+# What's New In Python 3.13 / Pending removal in Python 3.14 - argparse, ast, asyncio, asyncio-eventloop, email, email.utils, importlib, importlib.resources.abc, itertools
 
 ### Pending removal in Python 3.14
 

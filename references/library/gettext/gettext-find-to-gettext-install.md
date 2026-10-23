@@ -1,4 +1,4 @@
-# gettext — Class-based API
+# gettext - Class-based API
 
 ### Class-based API
 

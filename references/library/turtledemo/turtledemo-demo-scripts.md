@@ -1,6 +1,6 @@
-# turtledemo — `turtledemo` — Demo scripts
+# turtledemo`turtledemo` - Demo scripts
 
-### `turtledemo` — Demo scripts
+### `turtledemo` - Demo scripts
 
 A collection of demo scripts ships inside the `turtledemo` package. You can run and view these scripts through the bundled demo viewer like so:
 

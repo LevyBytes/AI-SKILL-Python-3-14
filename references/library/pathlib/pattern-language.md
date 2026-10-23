@@ -1,4 +1,4 @@
-# pathlib — Pattern language
+# pathlib - Pattern language
 
 ### Pattern language
 

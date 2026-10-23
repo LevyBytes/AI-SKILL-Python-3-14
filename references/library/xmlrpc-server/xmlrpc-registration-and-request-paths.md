@@ -1,4 +1,4 @@
-# xmlrpc.server — SimpleXMLRPCServer objects
+# xmlrpc.server - SimpleXMLRPCServer objects
 
 ### SimpleXMLRPCServer objects
 

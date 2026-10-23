@@ -1,4 +1,4 @@
-# xml.sax.handler — EntityResolver Objects
+# xml.sax.handler - EntityResolver Objects
 
 ### EntityResolver Objects
 

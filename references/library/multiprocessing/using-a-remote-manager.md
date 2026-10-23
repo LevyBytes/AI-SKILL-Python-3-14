@@ -1,4 +1,4 @@
-# multiprocessing — Using a remote manager
+# multiprocessing - Using a remote manager
 
 #### Using a remote manager
 

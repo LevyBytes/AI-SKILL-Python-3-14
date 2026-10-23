@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / Deprecated Python modules, functions and methods — asyncio-future, http.cookies, inspect, re, string, unittest
+# What’s New In Python 3.5 / Deprecated Python modules, functions and methods - asyncio-future, http.cookies, inspect, re, string, unittest
 
 ### Deprecated Python modules, functions and methods
 

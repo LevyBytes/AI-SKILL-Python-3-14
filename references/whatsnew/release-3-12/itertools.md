@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / itertools — itertools
+# What’s New In Python 3.12 / itertools - itertools
 
 ### itertools
 

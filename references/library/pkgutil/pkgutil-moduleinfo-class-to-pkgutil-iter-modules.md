@@ -1,8 +1,8 @@
 # pkgutil: `pkgutil.ModuleInfo`, `pkgutil.extend_path()`, `pkgutil.get_importer()`, `pkgutil.iter_importers()`, `pkgutil.iter_modules()`
 
-## pkgutil — Package extension utility
+## pkgutil - Package extension utility
 
-### `pkgutil` — Package extension utility
+### `pkgutil` - Package extension utility
 
 **Source code:** [Lib/pkgutil.py](https://github.com/python/cpython/tree/3.14/Lib/pkgutil.py)
 

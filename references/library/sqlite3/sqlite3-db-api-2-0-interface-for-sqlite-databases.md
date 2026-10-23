@@ -1,6 +1,6 @@
-# sqlite3 — `sqlite3` — DB-API 2.0 interface for SQLite databases
+# sqlite3`sqlite3` - DB-API 2.0 interface for SQLite databases
 
-### `sqlite3` — DB-API 2.0 interface for SQLite databases
+### `sqlite3` - DB-API 2.0 interface for SQLite databases
 
 **Source code:** [Lib/sqlite3/](https://github.com/python/cpython/tree/3.14/Lib/sqlite3/)
 

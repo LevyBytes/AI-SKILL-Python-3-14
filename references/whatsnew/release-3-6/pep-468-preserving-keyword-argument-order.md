@@ -6,7 +6,7 @@ Within a function signature, `**kwargs` is now promised to be a mapping that kee
 
 See also
 
-[**PEP 468**](https://peps.python.org/pep-0468/) — Preserving Keyword Argument Order
+[**PEP 468**](https://peps.python.org/pep-0468/): Preserving Keyword Argument Order
 
 PEP written and implemented by Eric Snow.
 

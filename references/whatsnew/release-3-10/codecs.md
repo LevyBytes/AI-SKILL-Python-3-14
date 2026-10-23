@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / codecs — codecs
+# What's New In Python 3.10 / codecs - codecs
 
 ### codecs
 

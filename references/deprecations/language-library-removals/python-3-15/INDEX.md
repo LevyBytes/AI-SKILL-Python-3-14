@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Language and standard library pending removal in 3.15: types; typing; wave; zipimport: [Language and standard library pending removal in 3.15: types; typing; wave; zipimport](types-through-zipimport.md).
 - Open when checking Language and standard library pending removal in 3.15: typing; wave; zipimport: [Language and standard library pending removal in 3.15: typing; wave; zipimport](typing-wave-zipimport.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

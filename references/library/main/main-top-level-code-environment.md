@@ -1,8 +1,8 @@
-# __main__ — `__main__` — Top-level code environment
+# __main__`__main__` - Top-level code environment
 
-## __main__ — Top-level code environment
+## __main__ - Top-level code environment
 
-### `__main__` — Top-level code environment
+### `__main__` - Top-level code environment
 
 ---
 

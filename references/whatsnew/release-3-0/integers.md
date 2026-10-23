@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Integers — sys
+# What's New In Python 3.0 / Integers - sys
 
 ### Integers
 

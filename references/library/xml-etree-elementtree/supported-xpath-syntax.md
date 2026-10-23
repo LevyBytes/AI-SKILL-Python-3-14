@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Supported XPath syntax
+# xml.etree.ElementTree - Supported XPath syntax
 
 ### Supported XPath syntax
 

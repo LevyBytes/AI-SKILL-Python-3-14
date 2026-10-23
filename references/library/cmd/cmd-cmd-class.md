@@ -1,8 +1,8 @@
-# cmd — `cmd` — Support for line-oriented command interpreters
+# cmd`cmd` - Support for line-oriented command interpreters
 
-## cmd — Support for line-oriented command interpreters
+## cmd - Support for line-oriented command interpreters
 
-### `cmd` — Support for line-oriented command interpreters
+### `cmd` - Support for line-oriented command interpreters
 
 **Source code:** [Lib/cmd.py](https://github.com/python/cpython/tree/3.14/Lib/cmd.py)
 

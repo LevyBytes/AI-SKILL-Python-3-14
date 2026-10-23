@@ -1,4 +1,4 @@
-# struct — Examples
+# struct - Examples
 
 ### Examples
 

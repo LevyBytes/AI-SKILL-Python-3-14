@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / PEP 613: TypeAlias — typing
+# What's New In Python 3.10 / PEP 613: TypeAlias - typing
 
 ### PEP 613: TypeAlias
 

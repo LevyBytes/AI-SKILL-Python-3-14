@@ -1,4 +1,4 @@
-# select — Edge and level trigger polling (epoll) objects
+# select - Edge and level trigger polling (epoll) objects
 
 ### Edge and level trigger polling (epoll) objects
 

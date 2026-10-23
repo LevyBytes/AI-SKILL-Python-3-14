@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / The hashlib package — copy, hashlib
+# What's New in Python 2.5 / The hashlib package - copy, hashlib
 
 ### The hashlib package
 

@@ -2,7 +2,7 @@
 
 # Winreg
 
-### `winreg` — Windows registry access
+### `winreg` - Windows registry access
 
 ---
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / New and Improved Modules — collections, collections.abc, configparser, copy, http.cookiejar
+# What’s New in Python 2.7 / New and Improved Modules - collections, collections.abc, configparser, copy, http.cookiejar
 
 Three more [`Counter`](https://docs.python.org/3.14/library/collections.html#collections.Counter) methods exist as well. [`most_common()`](https://docs.python.org/3.14/library/collections.html#collections.Counter.most_common) hands back the N elements that occur most often together with their tallies. [`elements()`](https://docs.python.org/3.14/library/collections.html#collections.Counter.elements) yields an iterator across the stored elements, emitting each one a number of times equal to its count. [`subtract()`](https://docs.python.org/3.14/library/collections.html#collections.Counter.subtract) accepts an iterable and decrements by one per element rather than incrementing; when the supplied argument is a dictionary or a fellow `Counter`, the tallies are deducted.
 

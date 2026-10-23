@@ -1,4 +1,4 @@
-# xml.dom — Text and CDATASection Objects
+# xml.dom - Text and CDATASection Objects
 
 ### Text and CDATASection Objects
 

@@ -1,4 +1,4 @@
-# Audit events table — exec
+# Audit events table - exec
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

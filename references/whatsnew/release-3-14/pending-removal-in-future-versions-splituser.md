@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Pending removal in future versions — sys, wsgiref, xml.etree.elementtree
+# What's new in Python 3.14 / Pending removal in future versions - sys, wsgiref, xml.etree.elementtree
 
 - `splituser()`
 

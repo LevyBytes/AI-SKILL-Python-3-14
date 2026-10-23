@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / multiprocessing — multiprocessing.shared_memory
+# What’s New In Python 3.8 / multiprocessing - multiprocessing.shared_memory
 
 > (Contributed by Zackery Spytz in [bpo-32941](https://bugs.python.org/issue?@action=redirect&bpo=32941).)
 

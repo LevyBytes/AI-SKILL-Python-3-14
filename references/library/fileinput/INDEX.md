@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `fileinput.FileInput` in fileinput. [fileinput: `fileinput.FileInput`](fileinput-fileinput-class.md).
 - Open when checking the documented contracts for `fileinput.hook_compressed()`, `fileinput.hook_encoded()` in fileinput. [fileinput: `fileinput.hook_compressed()`, `fileinput.hook_encoded()`](fileinput-hook-compressed-to-fileinput-hook-encoded.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

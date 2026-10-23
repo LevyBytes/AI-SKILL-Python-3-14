@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / datetime — datetime
+# What's new in Python 3.14 / datetime - datetime
 
 ### datetime
 

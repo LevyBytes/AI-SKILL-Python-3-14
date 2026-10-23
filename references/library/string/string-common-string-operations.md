@@ -1,6 +1,6 @@
-# string — `string` — Common string operations
+# string`string` - Common string operations
 
-### `string` — Common string operations
+### `string` - Common string operations
 
 **Source code:** [Lib/string/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/string/__init__.py)
 
@@ -8,7 +8,7 @@
 
 See also
 
-[Text Sequence Type — str](https://docs.python.org/3.14/library/stdtypes.html#textseq)
+[Text Sequence Type - str](https://docs.python.org/3.14/library/stdtypes.html#textseq)
 
 [String Methods](https://docs.python.org/3.14/library/stdtypes.html#string-methods)
 

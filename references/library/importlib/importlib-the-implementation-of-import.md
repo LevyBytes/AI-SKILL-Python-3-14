@@ -1,6 +1,6 @@
 # `importlib` ? The implementation of `import`
 
-### `importlib` — The implementation of `import`
+### `importlib` - The implementation of `import`
 
 Added in version 3.1.
 

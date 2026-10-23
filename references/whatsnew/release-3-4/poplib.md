@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / poplib — poplib
+# What's New In Python 3.4 / poplib - poplib
 
 ### poplib
 

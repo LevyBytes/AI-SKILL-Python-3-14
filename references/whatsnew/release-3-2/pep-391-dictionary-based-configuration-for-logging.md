@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 391: Dictionary Based Configuration for Logging — configparser, logging, logging.config
+# What's New In Python 3.2 / PEP 391: Dictionary Based Configuration for Logging - configparser, logging, logging.config
 
 ### PEP 391: Dictionary Based Configuration for Logging
 

@@ -1,4 +1,4 @@
-# tracemalloc — Get the traceback of a memory block
+# tracemalloc - Get the traceback of a memory block
 
 ### Get the traceback of a memory block
 

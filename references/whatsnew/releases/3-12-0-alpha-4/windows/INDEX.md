@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 4 / windows / tests and documentation: [Python 3.12.0 alpha 4 / windows / tests and documentation](tests-and-documentation.md).
 - Open when checking Python 3.12.0 alpha 4 / windows / winreg: [Python 3.12.0 alpha 4 / windows / winreg](winreg.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

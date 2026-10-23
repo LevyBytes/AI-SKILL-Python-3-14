@@ -1,6 +1,6 @@
 # development.tools: Mocking, patching and mock-example routes
 
-- [`unittest.mock` — getting started](https://docs.python.org/3.14/library/unittest.mock-examples.html)
+- [`unittest.mock` - getting started](https://docs.python.org/3.14/library/unittest.mock-examples.html)
   - [Using Mock](https://docs.python.org/3.14/library/unittest.mock-examples.html#using-mock)
     - [Mock patching methods](https://docs.python.org/3.14/library/unittest.mock-examples.html#mock-patching-methods)
     - [Mock for method calls on an object](https://docs.python.org/3.14/library/unittest.mock-examples.html#mock-for-method-calls-on-an-object)
@@ -31,17 +31,17 @@
     - [Tracking order of calls and less verbose call assertions](https://docs.python.org/3.14/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions)
     - [More complex argument matching](https://docs.python.org/3.14/library/unittest.mock-examples.html#more-complex-argument-matching)
 
-- [`test` — Regression tests package for Python](https://docs.python.org/3.14/library/test.html)
+- [`test` - Regression tests package for Python](https://docs.python.org/3.14/library/test.html)
   - [Writing Unit Tests for the `test` package](https://docs.python.org/3.14/library/test.html#writing-unit-tests-for-the-test-package)
   - [Running tests using the command-line interface](https://docs.python.org/3.14/library/test.html#module-test.regrtest)
 
-- [`test.support` — Utilities for the Python test suite](https://docs.python.org/3.14/library/test.html#module-test.support)
-- [`test.support.socket_helper` — Utilities for socket tests](https://docs.python.org/3.14/library/test.html#module-test.support.socket_helper)
-- [`test.support.script_helper` — Utilities for the Python execution tests](https://docs.python.org/3.14/library/test.html#module-test.support.script_helper)
-- [`test.support.bytecode_helper` — Support tools for testing correct bytecode generation](https://docs.python.org/3.14/library/test.html#module-test.support.bytecode_helper)
-- [`test.support.threading_helper` — Utilities for threading tests](https://docs.python.org/3.14/library/test.html#module-test.support.threading_helper)
-- [`test.support.os_helper` — Utilities for os tests](https://docs.python.org/3.14/library/test.html#module-test.support.os_helper)
-- [`test.support.import_helper` — Utilities for import tests](https://docs.python.org/3.14/library/test.html#module-test.support.import_helper)
-- [`test.support.warnings_helper` — Utilities for warnings tests](https://docs.python.org/3.14/library/test.html#module-test.support.warnings_helper)
+- [`test.support` - Utilities for the Python test suite](https://docs.python.org/3.14/library/test.html#module-test.support)
+- [`test.support.socket_helper` - Utilities for socket tests](https://docs.python.org/3.14/library/test.html#module-test.support.socket_helper)
+- [`test.support.script_helper` - Utilities for the Python execution tests](https://docs.python.org/3.14/library/test.html#module-test.support.script_helper)
+- [`test.support.bytecode_helper` - Support tools for testing correct bytecode generation](https://docs.python.org/3.14/library/test.html#module-test.support.bytecode_helper)
+- [`test.support.threading_helper` - Utilities for threading tests](https://docs.python.org/3.14/library/test.html#module-test.support.threading_helper)
+- [`test.support.os_helper` - Utilities for os tests](https://docs.python.org/3.14/library/test.html#module-test.support.os_helper)
+- [`test.support.import_helper` - Utilities for import tests](https://docs.python.org/3.14/library/test.html#module-test.support.import_helper)
+- [`test.support.warnings_helper` - Utilities for warnings tests](https://docs.python.org/3.14/library/test.html#module-test.support.warnings_helper)
 
 [Subject index](INDEX.md) · [Previous](development-tools.md) · [Owning module, declaration or section: Development Tools](development-tools-section-introduction-and-initial-examples.md)

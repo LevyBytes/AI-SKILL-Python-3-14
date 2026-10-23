@@ -1,4 +1,4 @@
-# posix — Large File Support
+# posix - Large File Support
 
 ### Large File Support
 

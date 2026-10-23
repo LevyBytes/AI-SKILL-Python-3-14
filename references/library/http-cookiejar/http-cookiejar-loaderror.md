@@ -1,6 +1,6 @@
 # http.cookiejar: `http.cookiejar.LoadError`
 
-### `http.cookiejar` — Cookie handling for HTTP clients
+### `http.cookiejar` - Cookie handling for HTTP clients
 
 **Source code:** [Lib/http/cookiejar.py](https://github.com/python/cpython/tree/3.14/Lib/http/cookiejar.py)
 

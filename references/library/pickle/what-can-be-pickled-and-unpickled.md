@@ -1,4 +1,4 @@
-# pickle — What can be pickled and unpickled?
+# pickle - What can be pickled and unpickled?
 
 ### What can be pickled and unpickled?
 

@@ -1,6 +1,6 @@
-# enum — `enum` — Support for enumerations
+# enum`enum` - Support for enumerations
 
-### `enum` — Support for enumerations
+### `enum` - Support for enumerations
 
 Added in version 3.4.
 

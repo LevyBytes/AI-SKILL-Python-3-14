@@ -1,4 +1,4 @@
-# types — Additional Utility Classes and Functions
+# types - Additional Utility Classes and Functions
 
 ### Additional Utility Classes and Functions
 

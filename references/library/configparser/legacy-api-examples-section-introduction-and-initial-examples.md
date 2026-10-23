@@ -1,4 +1,4 @@
-# configparser — Legacy API Examples — Section introduction and initial examples
+# configparser - Legacy API Examples - Section introduction and initial examples
 
 ### Legacy API Examples
 

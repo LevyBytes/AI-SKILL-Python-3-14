@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — textwrap, threading, timeit, turtle
+# What’s New in Python 2.6 / New and Improved Modules - textwrap, threading, timeit, turtle
 
 ```python
 with test_support.TransientResource(IOError,

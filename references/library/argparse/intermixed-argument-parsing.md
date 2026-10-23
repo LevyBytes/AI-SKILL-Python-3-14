@@ -1,4 +1,4 @@
-# argparse — Intermixed parsing
+# argparse - Intermixed parsing
 
 ### Intermixed parsing
 

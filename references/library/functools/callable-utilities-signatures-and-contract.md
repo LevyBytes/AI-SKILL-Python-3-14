@@ -1,4 +1,4 @@
-# functools — `functools` — Higher-order functions and operations on callable objects — Signature and initial contract
+# functools`functools` - Higher-order functions and operations on callable objects - Signature and initial contract
 
 @functools.singledispatch
 

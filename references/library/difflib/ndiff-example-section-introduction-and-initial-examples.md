@@ -1,4 +1,4 @@
-# difflib — ndiff example — Section introduction and initial examples
+# difflib - ndiff example - Section introduction and initial examples
 
 ### ndiff example
 

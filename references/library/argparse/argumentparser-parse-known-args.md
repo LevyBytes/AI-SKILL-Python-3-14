@@ -1,4 +1,4 @@
-# argparse — Partial parsing
+# argparse - Partial parsing
 
 ### Partial parsing
 

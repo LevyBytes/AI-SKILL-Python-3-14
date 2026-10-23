@@ -2,7 +2,7 @@
 
 # Smtplib
 
-### `smtplib` — SMTP protocol client
+### `smtplib` - SMTP protocol client
 
 **Source code:** [Lib/smtplib.py](https://github.com/python/cpython/tree/3.14/Lib/smtplib.py)
 

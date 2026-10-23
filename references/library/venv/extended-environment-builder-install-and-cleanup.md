@@ -1,4 +1,4 @@
-# venv — An example of extending `EnvBuilder` — ExtendedEnvBuilder complete download/install methods and cleanup
+# venv - An example of extending `EnvBuilder` - ExtendedEnvBuilder complete download/install methods and cleanup
 
 Open the [complete example modules](../../examples/extended-environment/INDEX.md) for the complete definitions, imports and entrypoint.
 

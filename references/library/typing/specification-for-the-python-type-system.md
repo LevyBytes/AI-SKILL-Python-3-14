@@ -1,4 +1,4 @@
-# typing — Specification for the Python Type System
+# typing - Specification for the Python Type System
 
 ### Specification for the Python Type System
 

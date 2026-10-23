@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Running mean, extrema, median and combined statistics
+# itertools - Itertools Recipes - Running mean, extrema, median and combined statistics
 
 [Required complete example component](itertools-recipes-convolution-and-polynomial-recipes.md) / [Required complete example component](prime-sieve-factorization-and-totient-recipes.md)
 

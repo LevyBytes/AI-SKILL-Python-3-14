@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / IDLE and idlelib — sys
+# What's New In Python 3.9 / IDLE and idlelib - sys
 
 A setting was added that lets you switch the cursor blink off. (Contributed by Zackery Spytz in [bpo-4603](https://bugs.python.org/issue?@action=redirect&bpo=4603).)
 

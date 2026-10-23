@@ -41,4 +41,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 8.6.4.6. Value Patterns: [8.6.4.6. Value Patterns](value-patterns.md).
 - Open when checking 8.6.4.5. Wildcard Patterns: [8.6.4.5. Wildcard Patterns](wildcard-patterns.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

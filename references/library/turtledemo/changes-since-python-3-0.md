@@ -1,4 +1,4 @@
-# turtledemo — Changes since Python 3.0
+# turtledemo - Changes since Python 3.0
 
 ### Changes since Python 3.0
 

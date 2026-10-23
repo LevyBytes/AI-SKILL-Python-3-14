@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 16.1.4. The Customization Modules: [16.1.4. The Customization Modules](the-customization-modules.md).
 - Open when checking 16.1.3. The Interactive Startup File: [16.1.3. The Interactive Startup File](the-interactive-startup-file.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

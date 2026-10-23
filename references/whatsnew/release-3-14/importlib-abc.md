@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / importlib.abc — importlib, importlib.resources.abc
+# What's new in Python 3.14 / importlib.abc - importlib, importlib.resources.abc
 
 ### importlib.abc
 

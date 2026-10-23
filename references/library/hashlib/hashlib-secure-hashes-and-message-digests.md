@@ -1,6 +1,6 @@
-# hashlib — `hashlib` — Secure hashes and message digests
+# hashlib`hashlib` - Secure hashes and message digests
 
-### `hashlib` — Secure hashes and message digests
+### `hashlib` - Secure hashes and message digests
 
 **Source code:** [Lib/hashlib.py](https://github.com/python/cpython/tree/3.14/Lib/hashlib.py)
 

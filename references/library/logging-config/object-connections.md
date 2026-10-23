@@ -1,4 +1,4 @@
-# logging.config — Object connections
+# logging.config - Object connections
 
 ### Object connections
 

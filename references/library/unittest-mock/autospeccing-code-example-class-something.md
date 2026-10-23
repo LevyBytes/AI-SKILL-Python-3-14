@@ -1,4 +1,4 @@
-# unittest.mock — Autospeccing — Code example: >>> class Something:
+# unittest.mock - Autospeccing - Code example: >>> class Something:
 
 ```python
 >>> class Something:

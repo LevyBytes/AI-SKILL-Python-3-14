@@ -1,4 +1,4 @@
-# unittest.mock — Magic Mock — Signature and initial contract
+# unittest.mock - Magic Mock - Signature and initial contract
 
 *class *unittest.mock.NonCallableMagicMock(**args*, ***kw*)
 

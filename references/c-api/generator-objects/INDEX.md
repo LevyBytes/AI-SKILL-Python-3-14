@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Asynchronous Generator Objects: [Asynchronous Generator Objects](pyasyncgen-type-to-pyasyncgen-checkexact.md).
 - Open when checking PyAsyncGenASend_CheckExact(op): [PyAsyncGenASend_CheckExact(op)](pyasyncgenasend-checkexact.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

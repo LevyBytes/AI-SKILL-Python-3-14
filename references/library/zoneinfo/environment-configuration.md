@@ -1,4 +1,4 @@
-# zoneinfo — Environment configuration
+# zoneinfo - Environment configuration
 
 #### Environment configuration
 

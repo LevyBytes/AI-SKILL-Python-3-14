@@ -28,4 +28,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 5.3.1. The module cache: [5.3.1. The module cache](the-module-cache.md).
 - Open when checking 5.5. The Path Based Finder: [5.5. The Path Based Finder](the-path-based-finder.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

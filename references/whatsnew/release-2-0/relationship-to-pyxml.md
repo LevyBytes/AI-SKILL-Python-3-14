@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / Relationship to PyXML — xml
+# What’s New in Python 2.0 / Relationship to PyXML - xml
 
 ### Relationship to PyXML
 
@@ -6,7 +6,7 @@ For some time now, the XML Special Interest Group has been developing Python cod
 
 In short, the [`xml`](https://docs.python.org/3.14/library/xml.html#module-xml) package bundled with Python 2.0 does not line up with PyXML on its own, yet installing a current PyXML release brings the two into alignment. Plenty of programs do fine with the XML facilities that ship inside Python 2.0, but the more involved ones will need the complete PyXML package set up. Once present, PyXML at version 0.6.0 or newer swaps out the `xml` package that comes with Python, acting as a strict superset of the standard one and tacking on a range of extra capabilities. A few of those extras in PyXML are:
 
-- 4DOM — a complete DOM implementation contributed by FourThought, Inc.
+- 4DOM: a complete DOM implementation contributed by FourThought, Inc.
 
 - The validating xmlproc parser, authored by Lars Marius Garshol.
 

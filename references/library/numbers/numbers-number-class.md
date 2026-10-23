@@ -1,8 +1,8 @@
-# numbers — `numbers` — Numeric abstract base classes
+# numbers`numbers` - Numeric abstract base classes
 
-## numbers — Numeric abstract base classes
+## numbers - Numeric abstract base classes
 
-### `numbers` — Numeric abstract base classes
+### `numbers` - Numeric abstract base classes
 
 **Source code:** [Lib/numbers.py](https://github.com/python/cpython/tree/3.14/Lib/numbers.py)
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / winreg — winreg
+# What's New In Python 3.6 / winreg - winreg
 
 ### winreg
 

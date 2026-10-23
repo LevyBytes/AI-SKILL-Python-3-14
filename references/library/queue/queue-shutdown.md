@@ -1,4 +1,4 @@
-# queue — Terminating queues
+# queue - Terminating queues
 
 ### Terminating queues
 

@@ -1,4 +1,4 @@
-# hashlib — Creating hash objects
+# hashlib - Creating hash objects
 
 ### Creating hash objects
 

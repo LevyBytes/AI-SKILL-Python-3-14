@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Build Changes — compileall
+# What’s New In Python 3.12 / Build Changes - compileall
 
 ### Build Changes
 

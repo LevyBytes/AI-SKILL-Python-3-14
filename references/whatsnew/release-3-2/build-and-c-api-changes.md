@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Build and C API Changes — sys, unicodedata
+# What's New In Python 3.2 / Build and C API Changes - sys, unicodedata
 
 ### Build and C API Changes
 

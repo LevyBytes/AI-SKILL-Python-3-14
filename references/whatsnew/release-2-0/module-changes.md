@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / Module changes — calendar, configparser, curses, http, posix, random, re, readline, shelve, socket, urllib, wave
+# What’s New in Python 2.0 / Module changes - calendar, configparser, curses, http, posix, random, re, readline, shelve, socket, urllib, wave
 
 ### Module changes
 

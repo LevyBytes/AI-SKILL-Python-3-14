@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / weakref — weakref
+# What’s New In Python 3.8 / weakref - weakref
 
 ### weakref
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / timeit — timeit
+# What’s New In Python 3.5 / timeit - timeit
 
 ### timeit
 

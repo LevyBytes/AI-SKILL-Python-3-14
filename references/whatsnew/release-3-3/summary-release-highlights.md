@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Summary ? Release highlights — faulthandler, importlib, ipaddress, lzma, unittest.mock, venv
+# What's New In Python 3.3 / Summary ? Release highlights - faulthandler, importlib, ipaddress, lzma, unittest.mock, venv
 
 ### What's New In Python 3.3
 
@@ -8,7 +8,7 @@ See also
 
 [**PEP 398**](https://peps.python.org/pep-0398/) - Python 3.3 Release Schedule
 
-### Summary — Release highlights
+### Summary - Release highlights
 
 Additions to the syntax:
 

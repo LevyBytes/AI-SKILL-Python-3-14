@@ -1,8 +1,8 @@
-# struct — `struct` — Interpret bytes as packed binary data
+# struct`struct` - Interpret bytes as packed binary data
 
 # Struct
 
-### `struct` — Interpret bytes as packed binary data
+### `struct` - Interpret bytes as packed binary data
 
 **Source code:** [Lib/struct.py](https://github.com/python/cpython/tree/3.14/Lib/struct.py)
 

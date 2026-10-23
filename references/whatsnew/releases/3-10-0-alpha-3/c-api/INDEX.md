@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 3 / c api / symtable: [Python 3.10.0 alpha 3 / c api / symtable](symtable.md).
 - Open when checking Python 3.10.0 alpha 3 / c api / type: [Python 3.10.0 alpha 3 / c api / type](type.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

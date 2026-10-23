@@ -1,4 +1,4 @@
-# unittest.mock — patch.dict — Code example: >>> class Container:
+# unittest.mock - patch.dict - Code example: >>> class Container:
 
 ```python
 >>> class Container:

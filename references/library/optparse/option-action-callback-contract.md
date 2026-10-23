@@ -1,4 +1,4 @@
-# optparse — Standard option actions — Contract: Call the function specified by `callback`, which is called as
+# optparse - Standard option actions - Contract: Call the function specified by `callback`, which is called as
 
 Call the function specified by `callback`, which is called as
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / IDLE and idlelib — sys
+# What's New In Python 3.10 / IDLE and idlelib - sys
 
 ### IDLE and idlelib
 

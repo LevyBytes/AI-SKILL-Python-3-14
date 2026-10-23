@@ -1,4 +1,4 @@
-# optparse — Parsing arguments
+# optparse - Parsing arguments
 
 ### Parsing arguments
 

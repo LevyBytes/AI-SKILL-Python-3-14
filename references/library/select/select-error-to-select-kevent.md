@@ -2,7 +2,7 @@
 
 # Select
 
-### `select` — Waiting for I/O completion
+### `select` - Waiting for I/O completion
 
 ---
 

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "topics": [
     {"topic": "8. Editors and IDEs", "file": "editors-and-ides/editors-and-ides.md", "summary": "Open when checking 8. Editors and IDEs.", "keywords": []},
-    {"topic": "8.1. IDLE — Python editor and shell", "file": "editors-and-ides/idle-python-editor-and-shell.md", "summary": "Open when checking 8.1. IDLE — Python editor and shell.", "keywords": []},
+    {"topic": "8.1. IDLE - Python editor and shell", "file": "editors-and-ides/idle-python-editor-and-shell.md", "summary": "Open when checking 8.1. IDLE - Python editor and shell.", "keywords": []},
     {"topic": "8.2. Other Editors and IDEs", "file": "editors-and-ides/other-editors-and-ides.md", "summary": "Open when checking 8.2. Other Editors and IDEs.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]

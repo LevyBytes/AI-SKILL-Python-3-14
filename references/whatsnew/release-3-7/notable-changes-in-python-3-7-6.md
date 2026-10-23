@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Notable changes in Python 3.7.6 — asyncio-eventloop
+# What's New In Python 3.7 / Notable changes in Python 3.7.6 - asyncio-eventloop
 
 ### Notable changes in Python 3.7.6
 

@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "curses.textpad — `curses.textpad` — Text input widget for curses programs", "file": "curses-textpad/curses-textpad-rectangle.md", "summary": "Open when checking curses.textpad — `curses.textpad` — Text input widget for curses programs.", "keywords": []},
+  {"topic": "curses.textpad - `curses.textpad` - Text input widget for curses programs", "file": "curses-textpad/curses-textpad-rectangle.md", "summary": "Open when checking curses.textpad - `curses.textpad` - Text input widget for curses programs.", "keywords": []},
   {"topic": "curses.textpad: `curses.textpad.Textbox`", "file": "curses-textpad/curses-textpad-textbox-class.md", "summary": "Open when checking the documented contracts for `curses.textpad.Textbox` in curses.textpad.", "keywords": []},
   {"topic": "curses.textpad.Textbox: `edit()`, `do_command()`, `gather()`", "file": "curses-textpad/curses-textpad-textbox-edit-to-curses-textpad-textbox-gather.md", "summary": "Open when checking the documented contracts for `edit()`, `do_command()`, `gather()` in curses.textpad.Textbox.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

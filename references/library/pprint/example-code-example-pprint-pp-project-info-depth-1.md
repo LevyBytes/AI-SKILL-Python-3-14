@@ -1,4 +1,4 @@
-# pprint — Example — Code example: >>> pprint.pp(project_info, depth=1)
+# pprint - Example - Code example: >>> pprint.pp(project_info, depth=1)
 
 ```python
 >>> pprint.pp(project_info, depth=1)

@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Porting Python code — datetime, decimal, email.header, email.parser, email.utils, importlib, pkgutil, poplib, smtplib, socket, sys, time
+# What's New In Python 3.3 / Porting Python code - datetime, decimal, email.header, email.parser, email.utils, importlib, pkgutil, poplib, smtplib, socket, sys, time
 
 ### Porting Python code
 

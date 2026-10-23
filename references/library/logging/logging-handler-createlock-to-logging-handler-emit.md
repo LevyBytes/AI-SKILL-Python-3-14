@@ -56,7 +56,7 @@ Handlers should call this method whenever an exception crops up during an `emit(
 
  format(*record*)
 
-Do formatting for a record — when a formatter is set, use it. If not, fall back on the module's default formatter.
+Do formatting for a record: when a formatter is set, use it. If not, fall back on the module's default formatter.
 
  emit(*record*)
 

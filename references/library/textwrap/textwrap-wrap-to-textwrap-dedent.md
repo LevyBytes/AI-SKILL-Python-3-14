@@ -1,8 +1,8 @@
 # textwrap: `textwrap.wrap()`, `textwrap.fill()`, `textwrap.shorten()`, `textwrap.dedent()`
 
-## textwrap — Text wrapping and filling
+## textwrap - Text wrapping and filling
 
-### `textwrap` — Text wrapping and filling
+### `textwrap` - Text wrapping and filling
 
 **Source code:** [Lib/textwrap.py](https://github.com/python/cpython/tree/3.14/Lib/textwrap.py)
 

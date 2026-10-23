@@ -1,6 +1,6 @@
-# xml.parsers.expat — `xml.parsers.expat` — Fast XML parsing using Expat
+# xml.parsers.expat`xml.parsers.expat` - Fast XML parsing using Expat
 
-### `xml.parsers.expat` — Fast XML parsing using Expat
+### `xml.parsers.expat` - Fast XML parsing using Expat
 
 ---
 

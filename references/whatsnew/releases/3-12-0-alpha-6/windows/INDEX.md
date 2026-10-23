@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 6 / windows / make sure installer upgrades any existing py exe launcher installs: [Python 3.12.0 alpha 6 / windows / make sure installer upgrades any existing py exe launcher installs](windows-launcher-upgrade-installation.md).
 - Open when checking Python 3.12.0 alpha 6 / windows / pipes: [Python 3.12.0 alpha 6 / windows / pipes](pipes.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

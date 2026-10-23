@@ -1,4 +1,4 @@
-# Audit events table — shutil
+# Audit events table - shutil
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

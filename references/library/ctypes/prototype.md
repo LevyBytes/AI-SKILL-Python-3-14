@@ -1,4 +1,4 @@
-# ctypes — Function prototypes — Signature and initial contract
+# ctypes - Function prototypes - Signature and initial contract
 
 prototype(*vtbl_index*, *name*[, *paramflags*[, *iid*]])
 

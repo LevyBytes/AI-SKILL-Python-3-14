@@ -1,4 +1,4 @@
-# configparser — Quick Start — Section introduction and initial examples
+# configparser - Quick Start - Section introduction and initial examples
 
 ### Quick Start
 

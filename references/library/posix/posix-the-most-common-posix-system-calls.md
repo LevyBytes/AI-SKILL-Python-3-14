@@ -1,8 +1,8 @@
-# posix — `posix` — The most common POSIX system calls
+# posix`posix` - The most common POSIX system calls
 
-## posix — The most common POSIX system calls
+## posix - The most common POSIX system calls
 
-### `posix` — The most common POSIX system calls
+### `posix` - The most common POSIX system calls
 
 ---
 

@@ -1,4 +1,4 @@
-# datetime — `tzinfo` objects — Signature and initial contract
+# datetime`tzinfo` objects - Signature and initial contract
 
 tzinfo.fromutc(*dt*)
 

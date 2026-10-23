@@ -1,8 +1,8 @@
 # xml.sax.xmlreader: `xml.sax.xmlreader.XMLReader`
 
-## xml.sax.xmlreader — Interface for XML parsers??
+## xml.sax.xmlreader - Interface for XML parsers??
 
-### `xml.sax.xmlreader` — Interface for XML parsers
+### `xml.sax.xmlreader` - Interface for XML parsers
 
 **Source code:** [Lib/xml/sax/xmlreader.py](https://github.com/python/cpython/tree/3.14/Lib/xml/sax/xmlreader.py)
 

@@ -1,4 +1,4 @@
-# threading — Thread-local data — Code example: >>> mydata.color
+# threading - Thread-local data - Code example: >>> mydata.color
 
 ```python
 >>> mydata.color

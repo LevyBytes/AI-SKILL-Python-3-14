@@ -1,4 +1,4 @@
-# unittest.mock — Mocking chained calls
+# unittest.mock - Mocking chained calls
 
 ### Mocking chained calls
 

@@ -1,4 +1,4 @@
-# re — Text Munging
+# re - Text Munging
 
 ### Text Munging
 

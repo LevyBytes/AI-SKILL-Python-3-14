@@ -1,4 +1,4 @@
-# weakref — Comparing finalizers with `__del__()` methods
+# weakref - Comparing finalizers with `__del__()` methods
 
 ### Comparing finalizers with [`__del__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__del__) methods
 

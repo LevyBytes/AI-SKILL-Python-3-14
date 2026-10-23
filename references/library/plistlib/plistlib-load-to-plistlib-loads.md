@@ -1,8 +1,8 @@
 # plistlib: `plistlib.load()`, `plistlib.loads()`
 
-## plistlib — Generate and parse Apple .plist files
+## plistlib - Generate and parse Apple .plist files
 
-### `plistlib` — Generate and parse Apple `.plist` files
+### `plistlib` - Generate and parse Apple `.plist` files
 
 **Source code:** [Lib/plistlib.py](https://github.com/python/cpython/tree/3.14/Lib/plistlib.py)
 

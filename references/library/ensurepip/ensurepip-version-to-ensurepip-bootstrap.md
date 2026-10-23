@@ -1,4 +1,4 @@
-# ensurepip — Module API
+# ensurepip - Module API
 
 ### Module API
 

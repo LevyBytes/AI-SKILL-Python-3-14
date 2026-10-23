@@ -1,4 +1,4 @@
-# Audit events table — poplib
+# Audit events table - poplib
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

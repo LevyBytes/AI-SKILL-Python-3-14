@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / certificates — http.client, urllib.request
+# What's New In Python 3.2 / certificates - http.client, urllib.request
 
 ### certificates
 

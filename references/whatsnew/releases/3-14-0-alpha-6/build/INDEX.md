@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 6 / build / pragma based linking against python3 lib can turned off through py no link lib: [Python 3.14.0 alpha 6 / build / pragma based linking against python3 lib can turned off through py no link lib](windows-python-library-link-optout.md).
 - Open when checking Python 3.14.0 alpha 6 / build / py no sanitize undefined no longer redefined recent gcc version used together: [Python 3.14.0 alpha 6 / build / py no sanitize undefined no longer redefined recent gcc version used together](gcc-undefined-sanitizer-macro-redefinition.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Using importlib as the Implementation of Import — importlib
+# What's New In Python 3.3 / Using importlib as the Implementation of Import - importlib
 
 ### Using importlib as the Implementation of Import
 

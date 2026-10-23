@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Faster Runtime / Cheaper, lazy Python frames — inspect, sys
+# What's New In Python 3.11 / Faster Runtime / Cheaper, lazy Python frames - inspect, sys
 
 > (Contributed by Eric Snow, Guido van Rossum and Kumar Aditya in many issues.)
 

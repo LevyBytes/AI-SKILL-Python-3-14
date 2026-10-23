@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / pickle — pickle
+# What's New In Python 3.6 / pickle - pickle
 
 ### pickle
 

@@ -2,11 +2,11 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking signal — Examples: [signal — Examples](examples.md).
-- Open when checking signal — Execution of Python signal handlers: [signal — Execution of Python signal handlers](execution-of-python-signal-handlers.md).
-- Open when checking signal — General rules: [signal — General rules](general-rules.md).
-- Open when checking signal — Note on Signal Handlers and Exceptions: [signal — Note on Signal Handlers and Exceptions](note-on-signal-handlers-and-exceptions.md).
-- Open when checking signal — Note on SIGPIPE: [signal — Note on SIGPIPE](note-on-sigpipe.md).
+- Open when checking signal - Examples: [signal - Examples](examples.md).
+- Open when checking signal - Execution of Python signal handlers: [signal - Execution of Python signal handlers](execution-of-python-signal-handlers.md).
+- Open when checking signal - General rules: [signal - General rules](general-rules.md).
+- Open when checking signal - Note on Signal Handlers and Exceptions: [signal - Note on Signal Handlers and Exceptions](note-on-signal-handlers-and-exceptions.md).
+- Open when checking signal - Note on SIGPIPE: [signal - Note on SIGPIPE](note-on-sigpipe.md).
 - Open when checking the documented contracts for `signal.Signals` in signal. [signal: `signal.Signals`](signal-signals-class.md).
 - Open when checking the documented contracts for `signal.Handlers` in signal. [signal: `signal.Handlers`](signal-handlers-class.md).
 - Open when checking the documented contracts for `signal.Sigmasks` in signal. [signal: `signal.Sigmasks`](signal-sigmasks-class.md).
@@ -17,7 +17,7 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `signal.setitimer()`, `signal.getitimer()`, `signal.set_wakeup_fd()`, `signal.siginterrupt()`, `signal.signal()`, `signal.sigpending()`, `signal.sigwait()` in signal. [signal: `signal.setitimer()`, `signal.getitimer()`, `signal.set_wakeup_fd()`, `signal.siginterrupt()`, `signal.signal()`, `signal.sigpending()`, `signal.sigwait()`](signal-setitimer-to-signal-sigwait.md).
 - Open when checking the documented contracts for `signal.sigtimedwait()` in signal. [signal: `signal.sigtimedwait()`](signal-sigtimedwait.md).
 - Open when checking the documented contracts for `signal.sigwaitinfo()` in signal. [signal: `signal.sigwaitinfo()`](signal-sigwaitinfo.md).
-- Open when checking signal — `signal` — Set handlers for asynchronous events: [signal — `signal` — Set handlers for asynchronous events](signal-set-handlers-for-asynchronous-events.md).
-- Open when checking signal — Signals and threads: [signal — Signals and threads](signals-and-threads.md).
+- Open when checking signal`signal` - Set handlers for asynchronous events: [signal`signal` - Set handlers for asynchronous events](signal-set-handlers-for-asynchronous-events.md).
+- Open when checking signal - Signals and threads: [signal - Signals and threads](signals-and-threads.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

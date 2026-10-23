@@ -1,8 +1,8 @@
-# trace — `trace` — Trace or track Python statement execution
+# trace`trace` - Trace or track Python statement execution
 
 # Trace
 
-### `trace` — Trace or track Python statement execution
+### `trace` - Trace or track Python statement execution
 
 **Source code:** [Lib/trace.py](https://github.com/python/cpython/tree/3.14/Lib/trace.py)
 

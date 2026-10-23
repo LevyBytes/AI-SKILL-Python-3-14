@@ -1,4 +1,4 @@
-# unittest.mock — Side effect functions and iterables
+# unittest.mock - Side effect functions and iterables
 
 ### Side effect functions and iterables
 

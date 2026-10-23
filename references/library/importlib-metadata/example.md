@@ -1,4 +1,4 @@
-# importlib.metadata — Example
+# importlib.metadata - Example
 
 ### Example
 

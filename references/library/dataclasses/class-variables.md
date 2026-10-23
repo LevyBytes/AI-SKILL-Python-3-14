@@ -1,4 +1,4 @@
-# dataclasses — Class variables
+# dataclasses - Class variables
 
 ### Class variables
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / C API Changes / Changed C APIs — sys
+# What's New In Python 3.13 / C API Changes / Changed C APIs - sys
 
 ### Changed C APIs
 

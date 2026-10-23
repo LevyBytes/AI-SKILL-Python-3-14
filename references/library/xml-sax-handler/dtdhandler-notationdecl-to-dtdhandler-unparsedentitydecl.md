@@ -1,4 +1,4 @@
-# xml.sax.handler — DTDHandler Objects
+# xml.sax.handler - DTDHandler Objects
 
 ### DTDHandler Objects
 

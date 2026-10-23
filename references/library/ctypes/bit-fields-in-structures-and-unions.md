@@ -1,4 +1,4 @@
-# ctypes — Bit fields in structures and unions
+# ctypes - Bit fields in structures and unions
 
 ### Bit fields in structures and unions
 

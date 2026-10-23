@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 3 / tests / exercise limited c api within test cppext: [Python 3.14.0 alpha 3 / tests / exercise limited c api within test cppext](exercise-limited-c-api-within-test-cppext.md).
 - Open when checking Python 3.14.0 alpha 3 / tests / io: [Python 3.14.0 alpha 3 / tests / io](io.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,8 +1,8 @@
-# nntplib — `nntplib` — NNTP protocol client
+# nntplib`nntplib` - NNTP protocol client
 
-## nntplib — NNTP protocol client
+## nntplib - NNTP protocol client
 
-### `nntplib` — NNTP protocol client
+### `nntplib` - NNTP protocol client
 
 Deprecated since version 3.11, removed in version 3.13.
 

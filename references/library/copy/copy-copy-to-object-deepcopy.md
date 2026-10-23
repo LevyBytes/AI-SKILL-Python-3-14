@@ -1,8 +1,8 @@
 # copy: `copy.copy()`, `copy.deepcopy()`, `copy.replace()`, `copy.Error`, `object.__copy__()`, `object.__deepcopy__()`
 
-## copy — Shallow and deep copy operations
+## copy - Shallow and deep copy operations
 
-### `copy` — Shallow and deep copy operations
+### `copy` - Shallow and deep copy operations
 
 **Source code:** [Lib/copy.py](https://github.com/python/cpython/tree/3.14/Lib/copy.py)
 

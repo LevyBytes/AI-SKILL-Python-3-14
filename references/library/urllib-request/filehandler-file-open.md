@@ -1,4 +1,4 @@
-# urllib.request — FileHandler Objects
+# urllib.request - FileHandler Objects
 
 ### FileHandler Objects
 

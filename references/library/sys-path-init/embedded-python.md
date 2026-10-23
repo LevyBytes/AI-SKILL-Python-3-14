@@ -1,4 +1,4 @@
-# sys.monitoring — Embedded Python
+# sys.monitoring - Embedded Python
 
 ### Embedded Python
 

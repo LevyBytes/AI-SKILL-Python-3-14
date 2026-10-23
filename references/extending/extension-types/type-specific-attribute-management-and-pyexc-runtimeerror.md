@@ -1,4 +1,4 @@
-# Type-specific Attribute Management — PyObject, tp_getattr, PyTypeObject, PyLong_FromLong, PyErr_Format, PyExc_AttributeError, Py_TYPE, tp_name, tp_setattr, PyExc_RuntimeError
+# Type-specific Attribute Management - PyObject, tp_getattr, PyTypeObject, PyLong_FromLong, PyErr_Format, PyExc_AttributeError, Py_TYPE, tp_name, tp_setattr, PyExc_RuntimeError
 
 ### 3.3.2. Type-specific Attribute Management
 

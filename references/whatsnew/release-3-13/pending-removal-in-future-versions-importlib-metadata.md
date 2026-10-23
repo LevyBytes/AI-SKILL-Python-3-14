@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Pending removal in future versions — importlib.metadata, logging, mailbox, os, re, shutil, ssl
+# What's New In Python 3.13 / Pending removal in future versions - importlib.metadata, logging, mailbox, os, re, shutil, ssl
 
 - [`importlib.metadata`](https://docs.python.org/3.14/library/importlib.metadata.html#module-importlib.metadata):
 

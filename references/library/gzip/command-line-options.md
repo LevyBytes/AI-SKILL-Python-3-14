@@ -1,4 +1,4 @@
-# gzip — Command-line options
+# gzip - Command-line options
 
 ### Command-line options
 

@@ -20,4 +20,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 5 / core and builtins / tighten up several modulo operations within objects longobject c: [Python 3.11.0 alpha 5 / core and builtins / tighten up several modulo operations within objects longobject c](integer-modulo-optimization.md).
 - Open when checking Python 3.11.0 alpha 5 / core and builtins / weakref: [Python 3.11.0 alpha 5 / core and builtins / weakref](weakref.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

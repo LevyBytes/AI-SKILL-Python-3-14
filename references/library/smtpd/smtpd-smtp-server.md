@@ -1,8 +1,8 @@
-# smtpd — `smtpd` — SMTP Server
+# smtpd`smtpd` - SMTP Server
 
-## smtpd — SMTP Server
+## smtpd - SMTP Server
 
-### `smtpd` — SMTP Server
+### `smtpd` - SMTP Server
 
 Deprecated since version 3.6, removed in version 3.12.
 

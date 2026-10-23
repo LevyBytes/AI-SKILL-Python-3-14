@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Pending removal in Python 3.15 — ctypes, http.server, importlib, os.path, pathlib, platform, sysconfig, threading, types
+# What's new in Python 3.14 / Pending removal in Python 3.15 - ctypes, http.server, importlib, os.path, pathlib, platform, sysconfig, threading, types
 
 ### Pending removal in Python 3.15
 

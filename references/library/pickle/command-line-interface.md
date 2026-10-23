@@ -1,4 +1,4 @@
-# pickle — Command-line interface
+# pickle - Command-line interface
 
 ### Command-line interface
 

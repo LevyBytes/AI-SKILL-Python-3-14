@@ -1,4 +1,4 @@
-# statistics — Classic probability problems
+# statistics - Classic probability problems
 
 ### Examples and Recipes
 

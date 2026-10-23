@@ -1,4 +1,4 @@
-# string.templatelib — Types — Code example: >>> cheese = 'Camembert'
+# string.templatelib - Types - Code example: >>> cheese = 'Camembert'
 
 ```python
 >>> cheese = 'Camembert'

@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / PEP 352: Exceptions as New-Style Classes — sys
+# What's New in Python 2.5 / PEP 352: Exceptions as New-Style Classes - sys
 
 ### PEP 352: Exceptions as New-Style Classes
 

@@ -1,6 +1,6 @@
-# asynchat — `asynchat` — Asynchronous socket command/response handler
+# asynchat`asynchat` - Asynchronous socket command/response handler
 
-### `asynchat` — Asynchronous socket command/response handler
+### `asynchat` - Asynchronous socket command/response handler
 
 Deprecated since version 3.6, removed in version 3.12.
 

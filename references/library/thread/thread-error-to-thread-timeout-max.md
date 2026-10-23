@@ -1,6 +1,6 @@
 # _thread: `_thread.error`, `_thread.start_new_thread()`, `_thread.interrupt_main()`, `_thread.exit()`, `_thread.allocate_lock()`, `_thread.get_ident()`, `_thread.get_native_id()`, `_thread.stack_size()`, `_thread.TIMEOUT_MAX`
 
-### `_thread` — Low-level threading API
+### `_thread` - Low-level threading API
 
 ---
 

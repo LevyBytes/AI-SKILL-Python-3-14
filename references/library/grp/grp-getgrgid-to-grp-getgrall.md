@@ -1,8 +1,8 @@
-# grp — `grp` — The group database
+# grp`grp` - The group database
 
-## grp — The group database
+## grp - The group database
 
-### `grp` — The group database
+### `grp` - The group database
 
 ---
 

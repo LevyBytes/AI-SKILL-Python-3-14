@@ -1,4 +1,4 @@
-# wsgiref.types — Examples
+# wsgiref.types - Examples
 
 ### Examples
 

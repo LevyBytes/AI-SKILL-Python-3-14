@@ -1,4 +1,4 @@
-# optparse — How callbacks are called
+# optparse - How callbacks are called
 
 ### How callbacks are called
 

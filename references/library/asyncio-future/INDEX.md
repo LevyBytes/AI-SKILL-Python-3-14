@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Future Functions: [Future Functions](asyncio-isfuture-to-asyncio-wrap-future.md).
 - Open when checking Futures: [Futures](futures.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

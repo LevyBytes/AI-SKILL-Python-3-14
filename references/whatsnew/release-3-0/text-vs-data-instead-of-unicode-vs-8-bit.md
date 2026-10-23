@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Text Vs. Data Instead Of Unicode Vs. 8-bit — codecs, collections.abc, io, os, sys
+# What's New In Python 3.0 / Text Vs. Data Instead Of Unicode Vs. 8-bit - codecs, collections.abc, io, os, sys
 
 ### Text Vs. Data Instead Of Unicode Vs. 8-bit
 

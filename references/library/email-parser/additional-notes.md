@@ -1,4 +1,4 @@
-# email.parser — Additional notes
+# email.parser - Additional notes
 
 ### Additional notes
 

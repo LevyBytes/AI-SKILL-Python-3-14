@@ -1,4 +1,4 @@
-# math — Number-theoretic functions
+# math - Number-theoretic functions
 
 ### Number-theoretic functions
 

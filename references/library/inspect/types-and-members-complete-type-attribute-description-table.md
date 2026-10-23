@@ -1,4 +1,4 @@
-# inspect — Types and members — Complete Type , Attribute , Description table
+# inspect - Types and members - Complete Type , Attribute , Description table
 
 | Type | Attribute | Description |
 | --- | --- | --- |

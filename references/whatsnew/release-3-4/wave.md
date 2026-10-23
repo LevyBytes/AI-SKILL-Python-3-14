@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / wave — wave
+# What's New In Python 3.4 / wave - wave
 
 ### wave
 

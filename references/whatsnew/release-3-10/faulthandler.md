@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / faulthandler — faulthandler
+# What's New In Python 3.10 / faulthandler - faulthandler
 
 ### faulthandler
 

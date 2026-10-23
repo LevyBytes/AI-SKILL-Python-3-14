@@ -1,4 +1,4 @@
-# Audit events table — compile
+# Audit events table - compile
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

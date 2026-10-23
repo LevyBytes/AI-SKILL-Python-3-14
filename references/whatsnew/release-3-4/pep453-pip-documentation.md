@@ -8,7 +8,7 @@ Because that migration remains unfinished for now, the older editions of those g
 
 See also
 
-[**PEP 453**](https://peps.python.org/pep-0453/) — Explicit bootstrapping of pip in Python installations
+[**PEP 453**](https://peps.python.org/pep-0453/): Explicit bootstrapping of pip in Python installations
 
 PEP authored by Donald Stufft and Nick Coghlan; the implementation came from Donald Stufft, Nick Coghlan, Martin von Löwis and Ned Deily.
 

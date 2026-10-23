@@ -1,4 +1,4 @@
-# os — Inheritance of File Descriptors
+# os - Inheritance of File Descriptors
 
 ### Inheritance of File Descriptors
 

@@ -1,8 +1,8 @@
-# html.parser — `html.parser` — Simple HTML and XHTML parser
+# html.parser`html.parser` - Simple HTML and XHTML parser
 
 # Html.Parser
 
-### `html.parser` — Simple HTML and XHTML parser
+### `html.parser` - Simple HTML and XHTML parser
 
 **Source code:** [Lib/html/parser.py](https://github.com/python/cpython/tree/3.14/Lib/html/parser.py)
 

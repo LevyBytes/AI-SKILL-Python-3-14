@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 3149: ABI Version Tagged .so Files — sysconfig
+# What's New In Python 3.2 / PEP 3149: ABI Version Tagged .so Files - sysconfig
 
 ### PEP 3149: ABI Version Tagged .so Files
 

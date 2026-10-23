@@ -1,4 +1,4 @@
-# unittest.mock — Mocking asynchronous context manager
+# unittest.mock - Mocking asynchronous context manager
 
 ### Mocking asynchronous context manager
 

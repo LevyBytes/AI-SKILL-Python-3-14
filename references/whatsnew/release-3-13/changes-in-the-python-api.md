@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Changes in the Python API — functools, getpass, gzip, mailbox, pathlib, threading, zipfile
+# What's New In Python 3.13 / Changes in the Python API - functools, getpass, gzip, mailbox, pathlib, threading, zipfile
 
 ### Changes in the Python API
 

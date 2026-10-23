@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / New, Improved, and Removed Modules — codecs, collections, contextlib, csv, datetime, difflib, profile, time
+# What's New in Python 2.5 / New, Improved, and Removed Modules - codecs, collections, contextlib, csv, datetime, difflib, profile, time
 
 ### New, Improved, and Removed Modules
 

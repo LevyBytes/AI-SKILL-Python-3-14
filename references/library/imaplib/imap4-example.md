@@ -1,4 +1,4 @@
-# imaplib — IMAP4 Example
+# imaplib - IMAP4 Example
 
 ### IMAP4 Example
 

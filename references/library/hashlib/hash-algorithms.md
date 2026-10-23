@@ -1,4 +1,4 @@
-# hashlib — Hash algorithms
+# hashlib - Hash algorithms
 
 ### Hash algorithms
 

@@ -1,4 +1,4 @@
-# optparse — Default values
+# optparse - Default values
 
 ### Default values
 

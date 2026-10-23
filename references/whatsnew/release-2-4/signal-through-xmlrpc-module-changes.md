@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / New, Improved, and Deprecated Modules — atexit, signal, socket, tarfile, threading, timeit, weakref, xmlrpc.client
+# What’s New in Python 2.4 / New, Improved, and Deprecated Modules - atexit, signal, socket, tarfile, threading, timeit, weakref, xmlrpc.client
 
 The [`signal`](https://docs.python.org/3.14/library/signal.html#module-signal) module now scrutinizes the arguments handed to [`signal.signal()`](https://docs.python.org/3.14/library/signal.html#signal.signal) more strictly. Installing a handler on the `SIGKILL` signal, for one, is off-limits; where older Python builds let this slide in silence, 2.4 throws a [`RuntimeError`](https://docs.python.org/3.14/library/exceptions.html#RuntimeError) exception.
 

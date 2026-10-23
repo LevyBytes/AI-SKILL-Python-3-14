@@ -1,4 +1,4 @@
-# unittest.mock — Autospeccing — Code example: >>> from urllib import request
+# unittest.mock - Autospeccing - Code example: >>> from urllib import request
 
 ```python
 >>> from urllib import request

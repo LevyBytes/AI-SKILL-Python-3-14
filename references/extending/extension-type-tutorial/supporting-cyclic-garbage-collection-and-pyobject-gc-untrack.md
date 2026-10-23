@@ -1,4 +1,4 @@
-# Supporting cyclic garbage collection — Custom_traverse, PyObject, Py_VISIT, tp_traverse, PyTypeObject, Custom_clear, Py_CLEAR, Py_XDECREF, Custom_dealloc, PyObject_GC_UnTrack
+# Supporting cyclic garbage collection - Custom_traverse, PyObject, Py_VISIT, tp_traverse, PyTypeObject, Custom_clear, Py_CLEAR, Py_XDECREF, Custom_dealloc, PyObject_GC_UnTrack
 
 To begin, the traversal method informs the cyclic GC about the subobjects that might take part in cycles:
 

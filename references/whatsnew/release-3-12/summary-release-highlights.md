@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Summary – Release highlights — asyncio, os, pathlib, sqlite3, typing, uuid
+# What’s New In Python 3.12 / Summary – Release highlights - asyncio, os, pathlib, sqlite3, typing, uuid
 
 ### What’s New In Python 3.12
 

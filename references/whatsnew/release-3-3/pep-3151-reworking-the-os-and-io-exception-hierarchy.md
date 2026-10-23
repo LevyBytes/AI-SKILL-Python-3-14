@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / PEP 3151: Reworking the OS and IO exception hierarchy — errno, select, socket
+# What's New In Python 3.3 / PEP 3151: Reworking the OS and IO exception hierarchy - errno, select, socket
 
 ### PEP 3151: Reworking the OS and IO exception hierarchy
 

@@ -1,4 +1,4 @@
-# multiprocessing — Examples — test continuation: complete result/iterator timeout trials and guarded entrypoint
+# multiprocessing - Examples - test continuation: complete result/iterator timeout trials and guarded entrypoint
 
 Open the [complete example modules](../../examples/pool-examples/INDEX.md) for the complete definitions, imports and entrypoint.
 

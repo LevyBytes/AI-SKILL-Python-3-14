@@ -6,9 +6,9 @@
 
 Covers: multiprocessing.shared_memory — Shared memory for direct access across processes; Internet Data Handling.
 
-## multiprocessing.shared_memory — Shared memory for direct access across processes
+## multiprocessing.shared_memory - Shared memory for direct access across processes
 
-### `multiprocessing.shared_memory` — Shared memory for direct access across processes
+### `multiprocessing.shared_memory` - Shared memory for direct access across processes
 
 **Source code:** [Lib/multiprocessing/shared_memory.py](https://github.com/python/cpython/tree/3.14/Lib/multiprocessing/shared_memory.py)
 

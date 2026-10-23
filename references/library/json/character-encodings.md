@@ -1,4 +1,4 @@
-# json — Character Encodings
+# json - Character Encodings
 
 ### Character Encodings
 

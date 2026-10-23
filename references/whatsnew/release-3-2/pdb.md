@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / pdb — pdb
+# What's New In Python 3.2 / pdb - pdb
 
 ### pdb
 

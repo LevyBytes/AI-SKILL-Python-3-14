@@ -1,4 +1,4 @@
-# typing — Functions and decorators — Contract: Type checkers recognize the following optional parameters on field specifiers:
+# typing - Functions and decorators - Contract: Type checkers recognize the following optional parameters on field specifiers:
 
 Type checkers recognize the following optional parameters on field specifiers:
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Positional-only parameters — collections, statistics
+# What’s New In Python 3.8 / Positional-only parameters - collections, statistics
 
 ### Positional-only parameters
 

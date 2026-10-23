@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / array — array
+# What’s New In Python 3.12 / array - array
 
 ### Improved Modules
 

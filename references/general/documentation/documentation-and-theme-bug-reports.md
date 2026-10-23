@@ -34,4 +34,4 @@ A thorough handbook for anyone keen to help out with Python documentation.
 
 A directory of GitHub pages devoted to documentation translation, together with who to contact for each.
 
-[Subject index](INDEX.md) · [Previous](documentation-origins-and-contributors.md) · [Continue](python-issue-tracker-and-contributing-fixes.md)
+[Subject index](INDEX.md) · [Previous](about-this-documentation.md) · [Continue](python-issue-tracker-and-contributing-fixes.md)

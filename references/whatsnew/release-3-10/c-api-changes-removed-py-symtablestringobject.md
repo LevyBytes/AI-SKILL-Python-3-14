@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / C API Changes / Removed — ast, symtable
+# What's New In Python 3.10 / C API Changes / Removed - ast, symtable
 
 `Py_SymtableStringObject()`
 

@@ -1,6 +1,6 @@
-# annotationlib — `annotationlib` — Functionality for introspecting annotations
+# annotationlib`annotationlib` - Functionality for introspecting annotations
 
-### `annotationlib` — Functionality for introspecting annotations
+### `annotationlib` - Functionality for introspecting annotations
 
 Added in version 3.14.
 

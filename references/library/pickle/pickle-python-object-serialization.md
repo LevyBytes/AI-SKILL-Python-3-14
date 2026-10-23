@@ -1,6 +1,6 @@
-# pickle — `pickle` — Python object serialization
+# pickle`pickle` - Python object serialization
 
-### `pickle` — Python object serialization
+### `pickle` - Python object serialization
 
 **Source code:** [Lib/pickle.py](https://github.com/python/cpython/tree/3.14/Lib/pickle.py)
 

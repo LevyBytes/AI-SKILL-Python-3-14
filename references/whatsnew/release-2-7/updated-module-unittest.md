@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Updated module: unittest — unittest
+# What’s New in Python 2.7 / Updated module: unittest - unittest
 
 ### Updated module: unittest
 

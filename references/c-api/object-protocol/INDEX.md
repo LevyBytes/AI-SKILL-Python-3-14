@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Py_hash_t PyObject_HashNotImplemented(PyObject *o): [Py_hash_t PyObject_HashNotImplemented(PyObject *o)](pyobject-hashnotimplemented.md).
 - Open when checking int PyUnstable_Object_IsUniquelyReferenced(PyObject *op): [int PyUnstable_Object_IsUniquelyReferenced(PyObject *op)](pyunstable-object-isuniquelyreferenced.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

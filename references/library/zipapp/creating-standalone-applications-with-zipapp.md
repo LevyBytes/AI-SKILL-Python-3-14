@@ -1,4 +1,4 @@
-# zipapp — Creating Standalone Applications with zipapp
+# zipapp - Creating Standalone Applications with zipapp
 
 ### Creating Standalone Applications with zipapp
 

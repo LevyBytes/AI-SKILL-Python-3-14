@@ -1,4 +1,4 @@
-# cmath — Power and logarithmic functions
+# cmath - Power and logarithmic functions
 
 ### Power and logarithmic functions
 

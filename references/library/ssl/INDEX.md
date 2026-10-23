@@ -2,11 +2,11 @@
 
 Select by the documented task or API context. [Topic catalog](topics.json).
 
-- Open when checking ssl — `ssl` — TLS/SSL wrapper for socket objects. [Overview and scope / ssl — `ssl` — TLS/SSL wrapper for socket objects](ssl-tls-ssl-wrapper-for-socket-objects.md).
-- Open when checking ssl — Socket creation. [Functions, constants, and exceptions / ssl — Socket creation](socket-creation.md).
-- Open when checking ssl — Context creation. [Functions, constants, and exceptions / ssl — Context creation](ssl-create-default-context.md).
-- Open when checking ssl — Exceptions. [Functions, constants, and exceptions / ssl — Exceptions](ssl-sslerror-to-ssl-certificateerror.md).
-- Open when checking ssl — Random generation. [Functions, constants, and exceptions / ssl — Random generation](ssl-rand-bytes-to-ssl-rand-add.md).
+- Open when checking ssl`ssl` - TLS/SSL wrapper for socket objects. [Overview and scope / ssl`ssl` - TLS/SSL wrapper for socket objects](ssl-tls-ssl-wrapper-for-socket-objects.md).
+- Open when checking ssl - Socket creation. [Functions, constants, and exceptions / ssl - Socket creation](socket-creation.md).
+- Open when checking ssl - Context creation. [Functions, constants, and exceptions / ssl - Context creation](ssl-create-default-context.md).
+- Open when checking ssl - Exceptions. [Functions, constants, and exceptions / ssl - Exceptions](ssl-sslerror-to-ssl-certificateerror.md).
+- Open when checking ssl - Random generation. [Functions, constants, and exceptions / ssl - Random generation](ssl-rand-bytes-to-ssl-rand-add.md).
 - Open when checking the documented contracts for `ssl.cert_time_to_seconds()`, `ssl.get_server_certificate()`, `ssl.DER_cert_to_PEM_cert()`, `ssl.PEM_cert_to_DER_cert()`, `ssl.get_default_verify_paths()` in ssl. [ssl: `ssl.cert_time_to_seconds()`, `ssl.get_server_certificate()`, `ssl.DER_cert_to_PEM_cert()`, `ssl.PEM_cert_to_DER_cert()`, `ssl.get_default_verify_paths()`](ssl-cert-time-to-seconds-to-ssl-get-default-verify-paths.md).
 - Open when checking the documented contracts for `ssl.enum_certificates()`, `ssl.enum_crls()` in ssl. [ssl: `ssl.enum_certificates()`, `ssl.enum_crls()`](ssl-enum-certificates-to-ssl-enum-crls.md).
 - Open when checking the documented contracts for `ssl.OP_NO_RENEGOTIATION`, `ssl.OP_CIPHER_SERVER_PREFERENCE`, `ssl.OP_SINGLE_DH_USE`, `ssl.OP_SINGLE_ECDH_USE`, `ssl.OP_ENABLE_MIDDLEBOX_COMPAT`, `ssl.OP_NO_COMPRESSION` in ssl. [ssl: `ssl.OP_NO_RENEGOTIATION`, `ssl.OP_CIPHER_SERVER_PREFERENCE`, `ssl.OP_SINGLE_DH_USE`, `ssl.OP_SINGLE_ECDH_USE`, `ssl.OP_ENABLE_MIDDLEBOX_COMPAT`, `ssl.OP_NO_COMPRESSION`](ssl-op-no-renegotiation-to-ssl-op-no-compression.md).
@@ -34,23 +34,23 @@ Select by the documented task or API context. [Topic catalog](topics.json).
 - Open when checking the documented contracts for `SSLContext.options`, `SSLContext.post_handshake_auth`, `SSLContext.protocol`, `SSLContext.hostname_checks_common_name`, `SSLContext.security_level`, `SSLContext.verify_flags`, `SSLContext.verify_mode` in ssl. [ssl: `SSLContext.options`, `SSLContext.post_handshake_auth`, `SSLContext.protocol`, `SSLContext.hostname_checks_common_name`, `SSLContext.security_level`, `SSLContext.verify_flags`, `SSLContext.verify_mode`](sslcontext-options-to-sslcontext-verify-mode.md).
 - Open when checking the documented contracts for `SSLContext.set_psk_client_callback()` in ssl. [ssl: `SSLContext.set_psk_client_callback()`](sslcontext-set-psk-client-callback.md).
 - Open when checking the documented contracts for `ssl.SSLContext` in ssl. [ssl: `ssl.SSLContext`](ssl-sslcontext-class.md).
-- Open when checking ssl — Certificates. [Certificates / ssl — Certificates](certificates.md).
-- Open when checking ssl — Certificate chains. [Certificates / ssl — Certificate chains](certificate-chains.md).
-- Open when checking ssl — CA certificates. [Certificates / ssl — CA certificates](ca-certificates.md).
-- Open when checking ssl — Combined key and certificate. [Certificates / ssl — Combined key and certificate](combined-key-and-certificate.md).
-- Open when checking ssl — Self-signed certificates. [Certificates / ssl — Self-signed certificates](self-signed-certificates.md).
-- Open when checking ssl — Testing for SSL support. [Examples / ssl — Testing for SSL support](testing-for-ssl-support.md).
-- Open when checking ssl — Client-side operation — Section introduction and initial examples. [Examples / ssl — Client-side operation — Section introduction and initial examples](tls-client-operation-overview.md).
-- Open when checking ssl — Client-side operation — Code example: &gt;&gt;&gt; conn.sendall(b"HEAD / HTTP/1.0\r\nHost: linuxfr.org\r\n\r\n"). [Examples / ssl — Client-side operation — Code example: &gt;&gt;&gt; conn.sendall(b"HEAD / HTTP/1.0\r\nHost: linuxfr.org\r\n\r\n")](tls-client-http-request.md).
-- Open when checking ssl — Server-side operation. [Examples / ssl — Server-side operation](server-side-operation.md).
-- Open when checking ssl — Notes on non-blocking sockets. [Notes on non-blocking sockets / ssl — Notes on non-blocking sockets](notes-on-non-blocking-sockets.md).
+- Open when checking ssl - Certificates. [Certificates / ssl - Certificates](certificates.md).
+- Open when checking ssl - Certificate chains. [Certificates / ssl - Certificate chains](certificate-chains.md).
+- Open when checking ssl - CA certificates. [Certificates / ssl - CA certificates](ca-certificates.md).
+- Open when checking ssl - Combined key and certificate. [Certificates / ssl - Combined key and certificate](combined-key-and-certificate.md).
+- Open when checking ssl - Self-signed certificates. [Certificates / ssl - Self-signed certificates](self-signed-certificates.md).
+- Open when checking ssl - Testing for SSL support. [Examples / ssl - Testing for SSL support](testing-for-ssl-support.md).
+- Open when checking ssl - Client-side operation - Section introduction and initial examples. [Examples / ssl - Client-side operation - Section introduction and initial examples](tls-client-operation-overview.md).
+- Open when checking ssl - Client-side operation - Code example: &gt;&gt;&gt; conn.sendall(b"HEAD / HTTP/1.0\r\nHost: linuxfr.org\r\n\r\n"). [Examples / ssl - Client-side operation - Code example: &gt;&gt;&gt; conn.sendall(b"HEAD / HTTP/1.0\r\nHost: linuxfr.org\r\n\r\n")](tls-client-http-request.md).
+- Open when checking ssl - Server-side operation. [Examples / ssl - Server-side operation](server-side-operation.md).
+- Open when checking ssl - Notes on non-blocking sockets. [Notes on non-blocking sockets / ssl - Notes on non-blocking sockets](notes-on-non-blocking-sockets.md).
 - Open when checking the documented contracts for `ssl.SSLObject` in ssl. [ssl: `ssl.SSLObject`](ssl-sslobject-class.md).
 - Open when checking SSLObject encrypted I/O, peer inspection and handshake methods in ssl.SSLObject. [ssl.SSLObject: SSLObject encrypted I/O, peer inspection and handshake methods](ssl-sslobject-read-to-ssl-sslobject-get-channel-binding.md).
 - Open when checking the documented contracts for `version()` in ssl.SSLObject. [ssl.SSLObject: `version()`](ssl-sslobject-version.md).
 - Open when checking the documented contracts for `ssl.MemoryBIO`, `read()`, `write()`, `write_eof()` in ssl / Memory BIO support. [ssl / Memory BIO support: `ssl.MemoryBIO`, `read()`, `write()`, `write_eof()`](ssl-memorybio-class-to-ssl-memorybio-write-eof.md).
 - Open when checking the documented contracts for `ssl.SSLSession` in ssl. [ssl: `ssl.SSLSession`](ssl-sslsession-class.md).
 - Open when checking SSL session identity, timing and ticket properties in ssl. [ssl: SSL session identity, timing and ticket properties](ssl-session.md).
-- Open when checking ssl — Best defaults. [Security considerations / ssl — Best defaults](best-defaults.md).
+- Open when checking ssl - Best defaults. [Security considerations / ssl - Best defaults](best-defaults.md).
 - Open when checking ssl manual certificate, protocol and cipher settings. [Security considerations / ssl manual certificate, protocol and cipher settings](ssl-manual-certificate-protocol-and-cipher-settings.md).
 - Open when checking ssl multiprocessing, TLS 1.3 and platform limitations. [Security considerations / ssl multiprocessing, TLS 1.3 and platform limitations](ssl-multiprocessing-tls-1-3-and-platform-limitations.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

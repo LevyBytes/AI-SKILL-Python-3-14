@@ -1,4 +1,4 @@
-# configparser — Customizing Parser Behaviour — Contract: Spotting this gets especially tricky for the user if she edits the file in a proportional font.
+# configparser - Customizing Parser Behaviour - Contract: Spotting this gets especially tricky for the user if she edits the file in a proportional font.
 
 Spotting this gets especially tricky for the user if she edits the file in a proportional font. That's the reason that, whenever your application has no need for values containing blank lines, you ought to think about forbidding them. Doing so makes blank lines split keys every time. With the example above, that would yield two keys, `key` and `this`.
 

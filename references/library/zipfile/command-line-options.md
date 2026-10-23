@@ -1,4 +1,4 @@
-# zipfile — Command-line options
+# zipfile - Command-line options
 
 ### Command-line options
 

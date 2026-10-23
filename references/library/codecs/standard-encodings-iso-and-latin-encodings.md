@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — ISO and Latin encodings
+# codecs - Standard Encodings - ISO and Latin encodings
 
 | Codec | Aliases | Languages |
 | --- | --- | --- |

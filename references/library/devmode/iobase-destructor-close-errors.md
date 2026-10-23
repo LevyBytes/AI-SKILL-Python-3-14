@@ -1,4 +1,4 @@
-# Effects of the Python Development Mode — Contract: Any `close()` exceptions raised by the `io.IOBase` destructor get written to the log.
+# Effects of the Python Development Mode - Contract: Any `close()` exceptions raised by the `io.IOBase` destructor get written to the log.
 
 Any `close()` exceptions raised by the [`io.IOBase`](https://docs.python.org/3.14/library/io.html#io.IOBase) destructor get written to the log.
 

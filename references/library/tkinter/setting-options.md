@@ -1,4 +1,4 @@
-# tkinter — Setting Options
+# tkinter - Setting Options
 
 ### Handy Reference
 

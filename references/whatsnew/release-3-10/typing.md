@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / typing — typing
+# What's New In Python 3.10 / typing - typing
 
 ### typing
 

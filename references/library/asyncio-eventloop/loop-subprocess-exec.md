@@ -1,4 +1,4 @@
-# Running subprocesses — Signature and initial contract
+# Running subprocesses - Signature and initial contract
 
 *async *loop.subprocess_exec(*protocol_factory*, **args*, *stdin=subprocess.PIPE*, *stdout=subprocess.PIPE*, *stderr=subprocess.PIPE*, ***kwargs*)
 

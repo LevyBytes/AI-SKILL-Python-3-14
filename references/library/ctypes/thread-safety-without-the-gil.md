@@ -1,4 +1,4 @@
-# ctypes — Thread safety without the GIL
+# ctypes - Thread safety without the GIL
 
 ### Thread safety without the GIL
 

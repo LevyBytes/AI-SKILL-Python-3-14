@@ -1,4 +1,4 @@
-# xml.sax — SAXException Objects
+# xml.sax - SAXException Objects
 
 ### SAXException Objects
 

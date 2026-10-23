@@ -10,7 +10,7 @@ This API sits outside the limited C API and bears a private marking to convey th
 
 See also
 
-[**PEP 523**](https://peps.python.org/pep-0523/) — Adding a frame evaluation API to CPython
+[**PEP 523**](https://peps.python.org/pep-0523/): Adding a frame evaluation API to CPython
 
 PEP written by Brett Cannon and Dino Viehland.
 

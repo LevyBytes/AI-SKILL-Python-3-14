@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Visible Changes — importlib, sys
+# What's New In Python 3.3 / Visible Changes - importlib, sys
 
 ### Visible Changes
 

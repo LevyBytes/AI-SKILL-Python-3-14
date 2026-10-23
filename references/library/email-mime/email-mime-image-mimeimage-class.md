@@ -1,4 +1,4 @@
-# email.mime — `email.mime`: Creating email and MIME objects from scratch
+# email.mime`email.mime`: Creating email and MIME objects from scratch
 
 *class *email.mime.image.MIMEImage(*_imagedata*, *_subtype=None*, *_encoder=email.encoders.encode_base64*, ***, *policy=compat32*, ***_params*)
 

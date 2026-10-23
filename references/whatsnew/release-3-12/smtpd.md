@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / smtpd — asyncio
+# What’s New In Python 3.12 / smtpd - asyncio
 
 ### smtpd
 

@@ -1,4 +1,4 @@
-# Thread safety for dict objects — Code example: d[key] = d[key] + 1
+# Thread safety for dict objects - Code example: d[key] = d[key] + 1
 
 ```python
 # NOT atomic: read-modify-write

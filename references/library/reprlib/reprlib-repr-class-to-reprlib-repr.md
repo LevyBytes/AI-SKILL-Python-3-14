@@ -1,8 +1,8 @@
-# reprlib — `reprlib` — Alternate `repr()` implementation
+# reprlib`reprlib` - Alternate `repr()` implementation
 
-## reprlib — Alternate repr() implementation
+## reprlib - Alternate repr() implementation
 
-### `reprlib` — Alternate [`repr()`](https://docs.python.org/3.14/library/functions.html#repr) implementation
+### `reprlib` - Alternate [`repr()`](https://docs.python.org/3.14/library/functions.html#repr) implementation
 
 **Source code:** [Lib/reprlib.py](https://github.com/python/cpython/tree/3.14/Lib/reprlib.py)
 

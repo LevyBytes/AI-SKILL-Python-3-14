@@ -1,4 +1,4 @@
-# sysconfig — Configuration variables
+# sysconfig - Configuration variables
 
 ### Configuration variables
 

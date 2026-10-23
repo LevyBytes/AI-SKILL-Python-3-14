@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Modifying an XML File
+# xml.etree.ElementTree - Modifying an XML File
 
 ### Modifying an XML File
 

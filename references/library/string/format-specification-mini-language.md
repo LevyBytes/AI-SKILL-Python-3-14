@@ -1,4 +1,4 @@
-# string — Format specification mini-language
+# string - Format specification mini-language
 
 >
 | Type | Meaning |

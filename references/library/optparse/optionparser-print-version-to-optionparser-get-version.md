@@ -1,4 +1,4 @@
-# optparse — Printing a version string
+# optparse - Printing a version string
 
 ### Printing a version string
 

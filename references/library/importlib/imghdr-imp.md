@@ -6,9 +6,9 @@
 
 Topics here: imghdr — Determine the type of an image; imp — Access the import internals.
 
-## imghdr — Determine the type of an image
+## imghdr - Determine the type of an image
 
-### `imghdr` — Determine the type of an image
+### `imghdr` - Determine the type of an image
 
 Marked deprecated as of version 3.11; taken out in version 3.13.
 
@@ -18,9 +18,9 @@ If you need a stand-in, several third-party offerings on PyPI fit the bill: [fil
 
 If you still need the `imghdr` module, the final release to ship it was [Python 3.12](https://docs.python.org/3.12/library/imghdr.html).
 
-## imp — Access the import internals
+## imp - Access the import internals
 
-### `imp` — Access the import internals
+### `imp` - Access the import internals
 
 Flagged as deprecated starting with version 3.4; dropped at version 3.12.
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / re — re
+# What's New In Python 3.6 / re - re
 
 ### re
 

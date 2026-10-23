@@ -1,4 +1,4 @@
-# io — High-level Module Interface
+# io - High-level Module Interface
 
 ### High-level Module Interface
 

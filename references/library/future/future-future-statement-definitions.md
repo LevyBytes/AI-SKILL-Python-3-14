@@ -1,6 +1,6 @@
-# __future__ — `__future__` — Future statement definitions
+# __future__`__future__` - Future statement definitions
 
-### `__future__` — Future statement definitions
+### `__future__` - Future statement definitions
 
 **Source code:** [Lib/__future__.py](https://github.com/python/cpython/tree/3.14/Lib/__future__.py)
 

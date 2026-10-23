@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / uuid — uuid
+# What's new in Python 3.14 / uuid - uuid
 
 ### uuid
 

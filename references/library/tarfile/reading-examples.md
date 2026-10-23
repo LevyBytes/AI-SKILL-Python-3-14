@@ -1,4 +1,4 @@
-# tarfile — Reading examples
+# tarfile - Reading examples
 
 ### Examples
 

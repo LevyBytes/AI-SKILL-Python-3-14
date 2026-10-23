@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / PEP 292: Simpler String Substitutions — string
+# What’s New in Python 2.4 / PEP 292: Simpler String Substitutions - string
 
 ### PEP 292: Simpler String Substitutions
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / urllib — urllib.error, urllib.request
+# What's New In Python 3.4 / urllib - urllib.error, urllib.request
 
 ### urllib
 

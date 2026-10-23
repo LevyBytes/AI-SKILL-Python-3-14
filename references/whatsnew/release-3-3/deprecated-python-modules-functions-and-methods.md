@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Deprecated Python modules, functions and methods — abc, ftplib, importlib, os, subprocess, time
+# What's New In Python 3.3 / Deprecated Python modules, functions and methods - abc, ftplib, importlib, os, subprocess, time
 
 ### Deprecated Python modules, functions and methods
 

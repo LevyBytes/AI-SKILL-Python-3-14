@@ -1,4 +1,4 @@
-# pathlib — Corresponding tools
+# pathlib - Corresponding tools
 
 ### Corresponding tools
 

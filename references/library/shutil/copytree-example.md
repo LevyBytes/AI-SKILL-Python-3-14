@@ -1,4 +1,4 @@
-# shutil — copytree example
+# shutil - copytree example
 
 ### copytree example
 

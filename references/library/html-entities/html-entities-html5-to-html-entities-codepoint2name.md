@@ -1,8 +1,8 @@
-# html.entities — `html.entities` — Definitions of HTML general entities
+# html.entities`html.entities` - Definitions of HTML general entities
 
-## html.entities — Definitions of HTML general entities
+## html.entities - Definitions of HTML general entities
 
-### `html.entities` — Definitions of HTML general entities
+### `html.entities` - Definitions of HTML general entities
 
 **Source code:** [Lib/html/entities.py](https://github.com/python/cpython/tree/3.14/Lib/html/entities.py)
 

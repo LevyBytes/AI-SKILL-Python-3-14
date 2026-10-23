@@ -1,4 +1,4 @@
-# argparse — Subcommands — Code example: >>> parser.parse_args(['--help'])
+# argparse - Subcommands - Code example: >>> parser.parse_args(['--help'])
 
 ```python
 >>> parser.parse_args(['--help'])

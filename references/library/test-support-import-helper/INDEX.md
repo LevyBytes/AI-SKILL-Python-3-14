@@ -6,4 +6,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `test.support.import_helper.CleanImport` in test.support.import_helper. [test.support.import_helper: `test.support.import_helper.CleanImport`](test-support-import-helper-cleanimport-class.md).
 - Open when checking the documented contracts for `test.support.import_helper.DirsOnSysPath` in test.support.import_helper. [test.support.import_helper: `test.support.import_helper.DirsOnSysPath`](test-support-import-helper-dirsonsyspath-class.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

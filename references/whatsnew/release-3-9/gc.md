@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / gc — gc
+# What's New In Python 3.9 / gc - gc
 
 ### gc
 

@@ -1,4 +1,4 @@
-# logging — LogRecord attributes
+# logging - LogRecord attributes
 
 ### LogRecord attributes
 

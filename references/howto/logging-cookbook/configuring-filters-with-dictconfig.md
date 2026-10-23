@@ -4,50 +4,7 @@
 
 You *can* set up filters with [`dictConfig()`](https://docs.python.org/3.14/library/logging.config.html#logging.config.dictConfig), although the way to do it may not jump out at first (which is why this recipe exists). Given that [`Filter`](https://docs.python.org/3.14/library/logging.html#logging.Filter) is the sole filter class bundled in the standard library, and that it's unlikely to meet many needs (it sits there merely as a base class), you'll generally have to write your own `Filter` subclass with an overridden [`filter()`](https://docs.python.org/3.14/library/logging.html#logging.Filter.filter) method. For that, supply the `()` key in the filter's configuration dictionary, naming a callable that will build the filter (a class is the most obvious choice, but any callable returning a `Filter` instance works). A full example follows:
 
-```python
-import logging
-import logging.config
-import sys
-
-class MyFilter(logging.Filter):
-    def __init__(self, param=None):
-        self.param = param
-
-    def filter(self, record):
-        if self.param is None:
-            allow = True
-        else:
-            allow = self.param not in record.msg
-        if allow:
-            record.msg = 'changed: ' + record.msg
-        return allow
-
-LOGGING = {
-    'version': 1,
-    'filters': {
-        'myfilter': {
-            '()': MyFilter,
-            'param': 'noshow',
-        }
-    },
-    'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-            'filters': ['myfilter']
-        }
-    },
-    'root': {
-        'level': 'DEBUG',
-        'handlers': ['console']
-    },
-}
-
-if __name__ == '__main__':
-    logging.config.dictConfig(LOGGING)
-    logging.debug('hello')
-    logging.debug('hello - noshow')
-
-```
+The complete program is in the [upstream source](https://docs.python.org/3.14/howto/logging-cookbook.html#configuring-filters-with-dictconfig).
 
 This example illustrates how you can hand configuration data to the callable that constructs the instance, supplied as keyword parameters. Once run, the script above will print:
 

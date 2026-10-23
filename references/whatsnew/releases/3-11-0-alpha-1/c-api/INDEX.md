@@ -20,4 +20,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 1 / c api / type: [Python 3.11.0 alpha 1 / c api / type](type.md).
 - Open when checking Python 3.11.0 alpha 1 / c api / undoes removal old buffer protocol given forms part stable: [Python 3.11.0 alpha 1 / c api / undoes removal old buffer protocol given forms part stable](undoes-removal-old-buffer-protocol-given-forms-part-stable.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

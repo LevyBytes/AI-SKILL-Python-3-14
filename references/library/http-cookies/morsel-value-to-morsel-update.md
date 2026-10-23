@@ -44,7 +44,7 @@ The value of the cookie.
 
  Morsel.coded_value
 
-The cookie's encoded value — the form meant to go over the wire.
+The cookie's encoded value: the form meant to go over the wire.
 
  Morsel.key
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / socket — enum, os, socket
+# What's New In Python 3.4 / socket - enum, os, socket
 
 ### socket
 

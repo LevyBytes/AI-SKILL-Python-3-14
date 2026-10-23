@@ -1,4 +1,4 @@
-# platform — Linux platforms
+# platform - Linux platforms
 
 ### Linux platforms
 

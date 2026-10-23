@@ -1,6 +1,6 @@
-# curses — `curses` — Terminal handling for character-cell displays
+# curses`curses` - Terminal handling for character-cell displays
 
-### `curses` — Terminal handling for character-cell displays
+### `curses` - Terminal handling for character-cell displays
 
 **Source code:** [Lib/curses](https://github.com/python/cpython/tree/3.14/Lib/curses)
 

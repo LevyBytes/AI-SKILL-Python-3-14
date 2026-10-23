@@ -1,4 +1,4 @@
-# Instant User's Manual — Contract: -s <sort_order>
+# Instant User's Manual - Contract: -s <sort_order>
 
 -s <sort_order>
 

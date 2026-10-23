@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Optimizations — asyncio-task, dis, re, tokenize
+# What’s New In Python 3.12 / Optimizations - asyncio-task, dis, re, tokenize
 
 ### Optimizations
 

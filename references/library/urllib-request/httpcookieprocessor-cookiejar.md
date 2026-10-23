@@ -1,4 +1,4 @@
-# urllib.request — HTTPCookieProcessor Objects
+# urllib.request - HTTPCookieProcessor Objects
 
 ### HTTPCookieProcessor Objects
 

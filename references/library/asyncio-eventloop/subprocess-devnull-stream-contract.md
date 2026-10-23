@@ -1,4 +1,4 @@
-# Running subprocesses — Contract: the `subprocess.DEVNULL` constant, marking that the dedicated `os.devnull` file is used
+# Running subprocesses - Contract: the `subprocess.DEVNULL` constant, marking that the dedicated `os.devnull` file is used
 
 the [`subprocess.DEVNULL`](https://docs.python.org/3.14/library/subprocess.html#subprocess.DEVNULL) constant, marking that the dedicated [`os.devnull`](https://docs.python.org/3.14/library/os.html#os.devnull) file is used
 

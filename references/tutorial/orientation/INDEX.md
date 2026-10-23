@@ -13,11 +13,11 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Upstream chapter navigation: 8. Errors and Exceptions: [Upstream chapter navigation: 8. Errors and Exceptions](upstream-chapter-navigation-8-errors-and-exceptions.md).
 - Open when checking Upstream chapter navigation: 9. Classes: [Upstream chapter navigation: 9. Classes](upstream-chapter-navigation-9-classes.md).
 - Open when checking Upstream chapter navigation: 10. Brief tour of the standard library: [Upstream chapter navigation: 10. Brief tour of the standard library](standard-library-tour-index.md).
-- Open when checking Upstream chapter navigation: 11. Brief tour of the standard library — part II: [Upstream chapter navigation: 11. Brief tour of the standard library — part II](advanced-standard-library-tour-index.md).
+- Open when checking Upstream chapter navigation: 11. Brief tour of the standard library - part II: [Upstream chapter navigation: 11. Brief tour of the standard library - part II](advanced-standard-library-tour-index.md).
 - Open when checking Upstream chapter navigation: 12. Virtual Environments and Packages: [Upstream chapter navigation: 12. Virtual Environments and Packages](virtual-environments-and-packages-index.md).
 - Open when checking Upstream chapter navigation: 13. What Now?: [Upstream chapter navigation: 13. What Now?](upstream-chapter-navigation-13-what-now.md).
 - Open when checking Upstream chapter navigation: 14. Interactive Input Editing and History Substitution: [Upstream chapter navigation: 14. Interactive Input Editing and History Substitution](interactive-editing-and-history-index.md).
 - Open when checking Upstream chapter navigation: 15. Floating-Point Arithmetic: Issues and Limitations: [Upstream chapter navigation: 15. Floating-Point Arithmetic: Issues and Limitations](floating-point-limitations-index.md).
 - Open when checking Upstream chapter navigation: 16. Appendix: [Upstream chapter navigation: 16. Appendix](upstream-chapter-navigation-16-appendix.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

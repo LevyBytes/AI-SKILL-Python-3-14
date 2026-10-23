@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / asyncio — asyncio-task
+# What's new in Python 3.14 / asyncio - asyncio-task
 
 ### asyncio
 

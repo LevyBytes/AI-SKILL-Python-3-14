@@ -1,4 +1,4 @@
-# json — Command-line interface
+# json - Command-line interface
 
 ### Command-line interface
 

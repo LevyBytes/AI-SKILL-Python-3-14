@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "contextvars — asyncio support", "file": "contextvars/asyncio-support.md", "summary": "Open when checking contextvars — asyncio support.", "keywords": []},
+  {"topic": "contextvars - asyncio support", "file": "contextvars/asyncio-support.md", "summary": "Open when checking contextvars - asyncio support.", "keywords": []},
   {"topic": "contextvars: Context variables and related module overview", "file": "contextvars/context-variables.md", "summary": "Open when checking context variables and related module overview in contextvars.", "keywords": []},
   {"topic": "contextvars: `contextvars.ContextVar`", "file": "contextvars/contextvars-contextvar-class.md", "summary": "Open when checking the documented contracts for `contextvars.ContextVar` in contextvars.", "keywords": []},
   {"topic": "contextvars.ContextVar: `get()`, `set()`, `reset()`", "file": "contextvars/contextvars-contextvar-get-to-contextvars-contextvar-reset.md", "summary": "Open when checking the documented contracts for `get()`, `set()`, `reset()` in contextvars.ContextVar.", "keywords": []},
@@ -7,6 +7,6 @@
   {"topic": "contextvars: `contextvars.copy_context()`", "file": "contextvars/contextvars-copy-context.md", "summary": "Open when checking the documented contracts for `contextvars.copy_context()` in contextvars.", "keywords": []},
   {"topic": "contextvars / Manual Context Management: `contextvars.Context`, `run()`, `copy()`, `get()`, `iter()`", "file": "contextvars/contextvars-context-class-to-contextvars-context-iter.md", "summary": "Open when checking the documented contracts for `contextvars.Context`, `run()`, `copy()`, `get()`, `iter()` in contextvars / Manual Context Management.", "keywords": []},
   {"topic": "contextvars.Context: `len()`, `keys()`, `values()`, `items()`", "file": "contextvars/contextvars-context-len-to-contextvars-context-items.md", "summary": "Open when checking the documented contracts for `len()`, `keys()`, `values()`, `items()` in contextvars.Context.", "keywords": []},
-  {"topic": "contextvars — `contextvars` — Context Variables", "file": "contextvars/contextvars-context-variables.md", "summary": "Open when checking contextvars — `contextvars` — Context Variables.", "keywords": []},
+  {"topic": "contextvars - `contextvars` - Context Variables", "file": "contextvars/contextvars-context-variables.md", "summary": "Open when checking contextvars - `contextvars` - Context Variables.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

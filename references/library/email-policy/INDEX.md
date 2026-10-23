@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `email.policy.EmailPolicy`, `header_max_count()`, `header_source_parse()`, `header_store_parse()`, `header_fetch_parse()`, `fold()`, `fold_binary()` in email.policy. [email.policy: `email.policy.EmailPolicy`, `header_max_count()`, `header_source_parse()`, `header_store_parse()`, `header_fetch_parse()`, `fold()`, `fold_binary()`](email-policy-class-and-header-folding.md).
 - Open when checking the documented contracts for `email.policy.default`, `email.policy.SMTP`, `email.policy.SMTPUTF8`, `email.policy.HTTP`, `email.policy.strict` in email.policy. [email.policy: `email.policy.default`, `email.policy.SMTP`, `email.policy.SMTPUTF8`, `email.policy.HTTP`, `email.policy.strict`](email-policy-default-to-email-policy-strict.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

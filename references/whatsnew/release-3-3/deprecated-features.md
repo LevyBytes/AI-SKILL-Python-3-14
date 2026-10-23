@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Deprecated features — array
+# What's New In Python 3.3 / Deprecated features - array
 
 ### Deprecated features
 

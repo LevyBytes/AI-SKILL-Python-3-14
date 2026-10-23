@@ -1,4 +1,4 @@
-# Audit events table — pdb
+# Audit events table - pdb
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -25,7 +25,7 @@ flowchart LR
 
 The Python 3.14 language reference organized for exact semantic questions. Lexical rules, statements, object behavior, imports and execution have distinct routes so an agent can check a language contract without relying on tutorial shorthand.
 
-Use when checking the Python 3.14 language definition: lexical analysis, literals, object data model and special methods, name binding and execution, imports, expression semantics, simple and compound statements, top-level execution or PEG grammar. Use for exact language contracts and protocol behavior; standard-library APIs and introductory tutorials have separate references.
+Use when checking the Python 3.14 language definition: lexical analysis, literals, object data model and special methods, name binding and execution, imports, expression semantics, simple and compound statements, top-level execution or PEG grammar.
 
 ## What this skill helps with
 

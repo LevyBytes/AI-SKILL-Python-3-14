@@ -1,6 +1,6 @@
-# Numeric Types — `int`, `float`, `complex`
+# Numeric Types`int`, `float`, `complex`
 
-### Numeric Types — [`int`](https://docs.python.org/3.14/library/functions.html#int), [`float`](https://docs.python.org/3.14/library/functions.html#float), [`complex`](https://docs.python.org/3.14/library/functions.html#complex)
+### Numeric Types - [`int`](https://docs.python.org/3.14/library/functions.html#int), [`float`](https://docs.python.org/3.14/library/functions.html#float), [`complex`](https://docs.python.org/3.14/library/functions.html#complex)
 
 Three separate numeric types exist: *integers*, *floating-point numbers*, and *complex numbers*. On top of that, Booleans form a subtype of integers. Precision is unlimited for integers. Floating-point numbers normally rely on double in C for their implementation; details on the precision and internal layout of floating-point numbers on whatever machine runs your program can be found in [`sys.float_info`](https://docs.python.org/3.14/library/sys.html#sys.float_info). A complex number carries a real and an imaginary part, both of them floating-point numbers. You pull these parts out of a complex number *z* with `z.real` and `z.imag`. (Two further numeric types come with the standard library: [`fractions.Fraction`](https://docs.python.org/3.14/library/fractions.html#fractions.Fraction) for rationals, and [`decimal.Decimal`](https://docs.python.org/3.14/library/decimal.html#decimal.Decimal) for floating-point numbers whose precision you set yourself.)
 

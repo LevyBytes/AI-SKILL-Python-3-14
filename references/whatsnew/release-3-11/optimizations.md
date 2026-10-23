@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Optimizations — asyncio-protocol, math, statistics, unicodedata
+# What's New In Python 3.11 / Optimizations - asyncio-protocol, math, statistics, unicodedata
 
 ### Optimizations
 

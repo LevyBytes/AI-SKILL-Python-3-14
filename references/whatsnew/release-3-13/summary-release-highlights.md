@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Summary ? Release Highlights — argparse, base64, copy, dbm
+# What's New In Python 3.13 / Summary ? Release Highlights - argparse, base64, copy, dbm
 
 > Whatsnew reference. Wording is paraphrased; identifiers stay verbatim.
 
@@ -14,7 +14,7 @@ See also
 
 [**PEP 719**](https://peps.python.org/pep-0719/) ? Python 3.13 Release Schedule
 
-### Summary — Release Highlights
+### Summary - Release Highlights
 
 This is a stable edition of the Python language, bundling a combination of adjustments to the language itself, its runtime, and the standard library. Among the headline additions are a reworked interactive interpreter, trial-stage support for a free-threaded mode ([**PEP 703**](https://peps.python.org/pep-0703/)), plus a Just-In-Time compiler ([**PEP 744**](https://peps.python.org/pep-0744/)).
 

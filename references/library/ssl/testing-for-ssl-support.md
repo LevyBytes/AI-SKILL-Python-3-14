@@ -1,4 +1,4 @@
-# ssl — Testing for SSL support
+# ssl - Testing for SSL support
 
 ### Examples
 

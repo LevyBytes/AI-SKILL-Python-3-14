@@ -1,4 +1,4 @@
-# sysconfig — `nt`
+# sysconfig`nt`
 
 ### `nt`
 

@@ -1,6 +1,6 @@
-# fnmatch — `fnmatch` — Unix filename pattern matching
+# fnmatch`fnmatch` - Unix filename pattern matching
 
-### `fnmatch` — Unix filename pattern matching
+### `fnmatch` - Unix filename pattern matching
 
 **Source code:** [Lib/fnmatch.py](https://github.com/python/cpython/tree/3.14/Lib/fnmatch.py)
 

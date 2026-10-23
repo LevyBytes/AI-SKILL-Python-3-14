@@ -1,4 +1,4 @@
-# unittest.mock — Mocking imports with patch.dict
+# unittest.mock - Mocking imports with patch.dict
 
 ### Mocking imports with patch.dict
 

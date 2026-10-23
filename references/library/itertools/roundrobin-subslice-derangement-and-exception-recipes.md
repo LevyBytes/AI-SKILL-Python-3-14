@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Round-robin, subslices, derangements, index and exception iteration
+# itertools - Itertools Recipes - Round-robin, subslices, derangements, index and exception iteration
 
 [Required complete example component](prime-sieve-factorization-and-totient-recipes.md) / [Required complete example component](running-statistics-recipes.md)
 

@@ -1,4 +1,4 @@
-# decimal — Logical operands
+# decimal - Logical operands
 
 ### Logical operands
 

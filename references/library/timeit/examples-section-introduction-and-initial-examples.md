@@ -1,4 +1,4 @@
-# timeit — Examples — Section introduction and initial examples
+# timeit - Examples - Section introduction and initial examples
 
 ### Examples
 

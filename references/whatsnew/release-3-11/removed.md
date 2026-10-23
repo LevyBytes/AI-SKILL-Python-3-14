@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Removed — asyncio-eventloop, binascii, fileinput, gettext, inspect, wsgiref, xml.dom.pulldom
+# What's New In Python 3.11 / Removed - asyncio-eventloop, binascii, fileinput, gettext, inspect, wsgiref, xml.dom.pulldom
 
 ### Removed
 

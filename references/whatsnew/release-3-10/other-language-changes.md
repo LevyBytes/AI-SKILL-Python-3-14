@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Other Language Changes — decimal, fractions, types
+# What's New In Python 3.10 / Other Language Changes - decimal, fractions, types
 
 ### Other Language Changes
 

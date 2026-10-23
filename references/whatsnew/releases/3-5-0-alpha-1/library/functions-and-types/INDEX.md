@@ -36,4 +36,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 alpha 1 / library / urllib request urlopen takes context object sslcontext argument then drives https: [Python 3.5.0 alpha 1 / library / urllib request urlopen takes context object sslcontext argument then drives https](urlopen-custom-ssl-context.md).
 - Open when checking Python 3.5.0 alpha 1 / library / within mock function call keyword args should print deterministic: [Python 3.5.0 alpha 1 / library / within mock function call keyword args should print deterministic](deterministic-mock-keyword-argument-display.md).
 
-[Reference Language Selection](../../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../../languages.md) - Open when you need a language version of references other than English.

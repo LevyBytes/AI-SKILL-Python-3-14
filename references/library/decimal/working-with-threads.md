@@ -1,4 +1,4 @@
-# decimal — Working with threads
+# decimal - Working with threads
 
 ### Working with threads
 

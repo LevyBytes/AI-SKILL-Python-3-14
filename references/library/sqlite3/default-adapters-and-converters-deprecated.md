@@ -1,4 +1,4 @@
-# sqlite3 — Default adapters and converters (deprecated)
+# sqlite3 - Default adapters and converters (deprecated)
 
 ### Default adapters and converters (deprecated)
 

@@ -25,7 +25,7 @@ flowchart LR
 
 Python 3.14 standard-library references for locating built-ins, modules and their API contracts. Focused topic catalogs let an agent move from a module name to its documented arguments, return behavior and platform conditions.
 
-Use for the Python 3.14 standard library: built-in functions, types and exceptions; typing and collections; text, binary data and mathematics; files, databases and archives; operating systems, concurrency and asyncio; networking, email, web protocols and markup; GUI tools, testing, debugging, importing and interpreter services. Match the documented Python version and platform; use the language reference for core syntax.
+Use for the Python 3.14 standard library: built-in functions, types and exceptions; typing and collections; text, binary data and mathematics; files, databases and archives; operating systems, concurrency and asyncio; networking, email, web protocols and markup; GUI tools, testing, debugging, importing and interpreter services.
 
 ## What this skill helps with
 

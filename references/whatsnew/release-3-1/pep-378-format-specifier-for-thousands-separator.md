@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / PEP 378: Format Specifier for Thousands Separator — decimal
+# What’s New In Python 3.1 / PEP 378: Format Specifier for Thousands Separator - decimal
 
 ### PEP 378: Format Specifier for Thousands Separator
 

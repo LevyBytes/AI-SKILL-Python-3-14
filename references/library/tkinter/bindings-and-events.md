@@ -1,4 +1,4 @@
-# tkinter — Bindings and Events
+# tkinter - Bindings and Events
 
 ### Bindings and Events
 

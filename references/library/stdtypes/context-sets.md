@@ -1,4 +1,4 @@
-# Set Types — set, frozenset
+# Set Types - set, frozenset
 
 Select by the documented task or API context. [Topic catalog](context-sets.json).
 

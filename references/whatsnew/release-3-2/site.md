@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / site — site
+# What's New In Python 3.2 / site - site
 
 ### site
 

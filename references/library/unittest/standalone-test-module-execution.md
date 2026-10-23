@@ -1,4 +1,4 @@
-# unittest — Organizing test code — Contract: You can run the test module on its own from the command line.
+# unittest - Organizing test code - Contract: You can run the test module on its own from the command line.
 
 - You can run the test module on its own from the command line.
 

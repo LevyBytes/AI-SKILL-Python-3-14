@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 378: Format Specifier for Thousands Separator — locale
+# What’s New in Python 2.7 / PEP 378: Format Specifier for Thousands Separator - locale
 
 ### PEP 378: Format Specifier for Thousands Separator
 

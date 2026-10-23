@@ -1,4 +1,4 @@
-# doctest — Simple Usage: Checking Examples in a Text File
+# doctest - Simple Usage: Checking Examples in a Text File
 
 ### Simple Usage: Checking Examples in a Text File
 

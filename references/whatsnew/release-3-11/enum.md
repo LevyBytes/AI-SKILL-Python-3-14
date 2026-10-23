@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / enum — enum, re, types
+# What's New In Python 3.11 / enum - enum, re, types
 
 ### enum
 

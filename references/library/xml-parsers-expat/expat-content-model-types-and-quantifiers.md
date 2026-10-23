@@ -1,4 +1,4 @@
-# xml.parsers.expat — Content Model Descriptions
+# xml.parsers.expat - Content Model Descriptions
 
 ### Content Model Descriptions
 

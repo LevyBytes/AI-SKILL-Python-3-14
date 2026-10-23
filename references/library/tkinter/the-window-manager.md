@@ -1,4 +1,4 @@
-# tkinter — The Window Manager
+# tkinter - The Window Manager
 
 ### The Window Manager
 

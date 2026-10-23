@@ -1,4 +1,4 @@
-# compileall — The `compression` package
+# compileall - The `compression` package
 
 ## The compression package
 

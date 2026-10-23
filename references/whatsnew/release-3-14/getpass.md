@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / getpass — getpass
+# What's new in Python 3.14 / getpass - getpass
 
 ### getpass
 

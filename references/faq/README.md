@@ -25,7 +25,7 @@ flowchart LR
 
 Python FAQ references for explaining language behavior, design choices and common platform questions. The question-oriented material complements the formal language and API references when a task needs rationale or troubleshooting context.
 
-Use when answering Python FAQ questions about design, history, programming behavior, library tasks, extension or embedding interfaces, Windows execution, GUI toolkits, or why Python is installed. This is the bundled Python 3.14 FAQ reference.
+Use when answering Python FAQ questions about design, history, programming behavior, library tasks, extension or embedding interfaces, Windows execution, GUI toolkits, or why Python is installed.
 
 ## What this skill helps with
 

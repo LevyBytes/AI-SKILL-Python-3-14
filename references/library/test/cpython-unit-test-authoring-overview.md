@@ -1,4 +1,4 @@
-# test — Writing Unit Tests for the `test` package — Section introduction and initial examples
+# test - Writing Unit Tests for the `test` package - Section introduction and initial examples
 
 ### Writing Unit Tests for the `test` package
 

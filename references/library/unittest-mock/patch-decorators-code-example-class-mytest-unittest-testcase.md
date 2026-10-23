@@ -1,4 +1,4 @@
-# unittest.mock — Patch decorators — Code example: >>> class MyTest(unittest.TestCase):
+# unittest.mock - Patch decorators - Code example: >>> class MyTest(unittest.TestCase):
 
 ```python
 >>> class MyTest(unittest.TestCase):

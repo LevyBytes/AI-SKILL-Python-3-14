@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / os — os
+# What's New In Python 3.2 / os - os
 
 ### os
 

@@ -1,8 +1,8 @@
-# gettext — `gettext` — Multilingual internationalization services
+# gettext`gettext` - Multilingual internationalization services
 
 # Gettext
 
-### `gettext` — Multilingual internationalization services
+### `gettext` - Multilingual internationalization services
 
 **Source code:** [Lib/gettext.py](https://github.com/python/cpython/tree/3.14/Lib/gettext.py)
 

@@ -2,7 +2,7 @@
 
 # Quopri
 
-### `quopri` — Encode and decode MIME quoted-printable data
+### `quopri` - Encode and decode MIME quoted-printable data
 
 **Source code:** [Lib/quopri.py](https://github.com/python/cpython/tree/3.14/Lib/quopri.py)
 

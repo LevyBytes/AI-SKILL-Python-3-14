@@ -1,4 +1,4 @@
-# ctypes — Callback functions — Section introduction and initial examples
+# ctypes - Callback functions - Section introduction and initial examples
 
 ### Callback functions
 

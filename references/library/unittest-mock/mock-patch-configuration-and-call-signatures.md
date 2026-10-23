@@ -1,4 +1,4 @@
-# unittest.mock — Mock and patch keyword configuration and callable spec signatures
+# unittest.mock - Mock and patch keyword configuration and callable spec signatures
 
 You can configure the return value and side effect of child mocks the same way, through dotted notation. Since dotted names can't be supplied directly inside a call, build a dictionary first and then unpack it with `**`:
 

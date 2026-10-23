@@ -1,4 +1,4 @@
-# test.support — `test.support` — Utilities for the Python test suite
+# test.support`test.support` - Utilities for the Python test suite
 
 test.support.check_disallow_instantiation(*test_case*, *tp*, **args*, ***kwds*)
 

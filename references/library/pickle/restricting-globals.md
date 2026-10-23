@@ -1,4 +1,4 @@
-# pickle — Restricting Globals
+# pickle - Restricting Globals
 
 ### Restricting Globals
 

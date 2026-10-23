@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / C API Changes — tracemalloc
+# What's New In Python 3.7 / C API Changes - tracemalloc
 
 ### C API Changes
 

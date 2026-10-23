@@ -1,4 +1,4 @@
-# Providing finer control over data attributes — PyObject, Custom_getfirst, Py_INCREF, Custom_setfirst, PyErr_SetString, PyExc_TypeError, PyUnicode_Check, Py_DECREF, PyGetSetDef, Custom_getsetters, Custom_getlast, Custom_setlast, tp_getset, PyTypeObject, PyMemberDef, Custom_members, Py_T_INT, tp_init
+# Providing finer control over data attributes - PyObject, Custom_getfirst, Py_INCREF, Custom_setfirst, PyErr_SetString, PyExc_TypeError, PyUnicode_Check, Py_DECREF, PyGetSetDef, Custom_getsetters, Custom_getlast, Custom_setlast, tp_getset, PyTypeObject, PyMemberDef, Custom_members, Py_T_INT, tp_init
 
 For tighter governance over the `first` and `last` attributes, we'll supply our own getter and setter functions. Below are the routines that get and set the `first` attribute:
 

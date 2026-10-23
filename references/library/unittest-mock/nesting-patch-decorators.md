@@ -1,4 +1,4 @@
-# unittest.mock — Nesting Patch Decorators
+# unittest.mock - Nesting Patch Decorators
 
 ### Nesting Patch Decorators
 

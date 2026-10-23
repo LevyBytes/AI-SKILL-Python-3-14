@@ -1,6 +1,6 @@
 # tkinter.messagebox: `tkinter.messagebox.Message`
 
-### `tkinter.messagebox` — Tkinter message prompts
+### `tkinter.messagebox` - Tkinter message prompts
 
 **Source code:** [Lib/tkinter/messagebox.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/messagebox.py)
 

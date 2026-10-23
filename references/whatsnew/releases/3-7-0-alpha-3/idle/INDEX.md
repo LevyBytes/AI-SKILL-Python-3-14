@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 3 / idle / traceback: [Python 3.7.0 alpha 3 / idle / traceback](traceback.md).
 - Open when checking Python 3.7.0 alpha 3 / idle / windows: [Python 3.7.0 alpha 3 / idle / windows](windows.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

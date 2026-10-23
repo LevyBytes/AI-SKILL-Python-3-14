@@ -1,4 +1,4 @@
-# zipapp — Command-Line Interface
+# zipapp - Command-Line Interface
 
 ### Command-Line Interface
 

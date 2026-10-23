@@ -1,6 +1,6 @@
-# tkinter.commondialog — `tkinter.commondialog` — Dialog window templates
+# tkinter.commondialog`tkinter.commondialog` - Dialog window templates
 
-### `tkinter.commondialog` — Dialog window templates
+### `tkinter.commondialog` - Dialog window templates
 
 **Source code:** [Lib/tkinter/commondialog.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/commondialog.py)
 

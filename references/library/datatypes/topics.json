@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "Data Types — Section introduction and initial examples", "file": "datatypes/data-types-section-introduction-and-initial-examples.md", "summary": "Open when checking Data Types — Section introduction and initial examples.", "keywords": []},
+    {"topic": "Data Types - Section introduction and initial examples", "file": "datatypes/data-types-section-introduction-and-initial-examples.md", "summary": "Open when checking Data Types - Section introduction and initial examples.", "keywords": []},
     {"topic": "Data Types", "file": "datatypes/data-types.md", "summary": "Open when checking Data Types.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]

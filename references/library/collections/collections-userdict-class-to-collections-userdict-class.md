@@ -1,4 +1,4 @@
-# collections — `UserDict` objects
+# collections`UserDict` objects
 
 ### `UserDict` objects
 

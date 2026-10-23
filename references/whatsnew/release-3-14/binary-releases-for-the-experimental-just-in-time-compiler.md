@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Binary releases for the experimental just-in-time compiler — pdb, profile, sys
+# What's new in Python 3.14 / Binary releases for the experimental just-in-time compiler - pdb, profile, sys
 
 ### Binary releases for the experimental just-in-time compiler
 

@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Tutorial
+# xml.etree.ElementTree - Tutorial
 
 ### Tutorial
 

@@ -2,9 +2,9 @@
 
 Select by the documented task or API context. [Topic catalog](topics.json).
 
-- Open when checking sqlite3 — `sqlite3` — DB-API 2.0 interface for SQLite databases. [Overview and scope / sqlite3 — `sqlite3` — DB-API 2.0 interface for SQLite databases](sqlite3-db-api-2-0-interface-for-sqlite-databases.md).
-- Open when checking sqlite3 — Tutorial — Section introduction and initial examples. [Tutorial / sqlite3 — Tutorial — Section introduction and initial examples](tutorial-section-introduction-and-initial-examples.md).
-- Open when checking sqlite3 — Tutorial — Code example: data = [. [Tutorial / sqlite3 — Tutorial — Code example: data = \[](tutorial-code-example-data.md).
+- Open when checking sqlite3`sqlite3` - DB-API 2.0 interface for SQLite databases. [Overview and scope / sqlite3`sqlite3` - DB-API 2.0 interface for SQLite databases](sqlite3-db-api-2-0-interface-for-sqlite-databases.md).
+- Open when checking sqlite3 - Tutorial - Section introduction and initial examples. [Tutorial / sqlite3 - Tutorial - Section introduction and initial examples](tutorial-section-introduction-and-initial-examples.md).
+- Open when checking sqlite3 - Tutorial - Code example: data = [. [Tutorial / sqlite3 - Tutorial - Code example: data = \[](tutorial-code-example-data.md).
 - Open when checking the documented contracts for `sqlite3.connect()`, `sqlite3.complete_statement()` in sqlite3. [sqlite3: `sqlite3.connect()`, `sqlite3.complete_statement()`](sqlite3-connect-to-sqlite3-complete-statement.md).
 - Open when checking the documented contracts for `sqlite3.enable_callback_tracebacks()`, `sqlite3.register_adapter()`, `sqlite3.register_converter()` in sqlite3. [sqlite3: `sqlite3.enable_callback_tracebacks()`, `sqlite3.register_adapter()`, `sqlite3.register_converter()`](sqlite-callback-debugging-adapters-and-converters.md).
 - Open when checking SQLite transaction-control and version constants in sqlite3. [sqlite3: SQLite transaction-control and version constants](sqlite-transaction-and-version-constants.md).
@@ -21,8 +21,8 @@ Select by the documented task or API context. [Topic catalog](topics.json).
 - Open when checking the documented contracts for `sqlite3.Connection` in sqlite3. [sqlite3: `sqlite3.Connection`](sqlite3-connection-class.md).
 - Open when checking the documented contracts for `cursor()`, `blobopen()`, `commit()`, `rollback()`, `close()`, `execute()`, `executemany()`, `executescript()` in sqlite3.Connection. [sqlite3.Connection: `cursor()`, `blobopen()`, `commit()`, `rollback()`, `close()`, `execute()`, `executemany()`, `executescript()`](sqlite3-connection-cursor-to-sqlite3-connection-executescript.md).
 - Open when checking the documented contracts for `create_function()`, `create_aggregate()` in sqlite3.Connection. [sqlite3.Connection: `create_function()`, `create_aggregate()`](sqlite-custom-functions-and-aggregates.md).
-- Open when checking sqlite3 — Connection objects — Code example: class WindowSumInt:. [Reference / sqlite3 — Connection objects — Code example: class WindowSumInt:](connection-objects-code-example-class-windowsumint.md).
-- Open when checking sqlite3 — Connection objects — Signature and initial contract. [Reference / sqlite3 — Connection objects — Signature and initial contract](sqlite3-connection-create-window-function.md).
+- Open when checking sqlite3 - Connection objects - Code example: class WindowSumInt:. [Reference / sqlite3 - Connection objects - Code example: class WindowSumInt:](connection-objects-code-example-class-windowsumint.md).
+- Open when checking sqlite3 - Connection objects - Signature and initial contract. [Reference / sqlite3 - Connection objects - Signature and initial contract](sqlite3-connection-create-window-function.md).
 - Open when checking the documented contracts for `executescript()`, `fetchone()`, `fetchmany()`, `fetchall()`, `close()`, `setinputsizes()`, `setoutputsize()` in sqlite3.Cursor. [sqlite3.Cursor: `executescript()`, `fetchone()`, `fetchmany()`, `fetchall()`, `close()`, `setinputsizes()`, `setoutputsize()`](sqlite3-cursor-executescript-to-sqlite3-cursor-setoutputsize.md).
 - Open when checking cursor inserted-row identity and result metadata in sqlite3. [sqlite3: Cursor inserted-row identity and result metadata](cursor-objects.md).
 - Open when checking the documented contracts for `sqlite3.Cursor` in sqlite3. [sqlite3: `sqlite3.Cursor`](sqlite3-cursor-class.md).
@@ -31,23 +31,23 @@ Select by the documented task or API context. [Topic catalog](topics.json).
 - Open when checking the documented contracts for `keys()` in sqlite3.Row. [sqlite3.Row: `keys()`](sqlite3-row-keys.md).
 - Open when checking the documented contracts for `sqlite3.Blob` in sqlite3. [sqlite3: `sqlite3.Blob`](sqlite3-blob-class.md).
 - Open when checking the documented contracts for `close()`, `read()`, `write()`, `tell()`, `seek()` in sqlite3.Blob. [sqlite3.Blob: `close()`, `read()`, `write()`, `tell()`, `seek()`](sqlite3-blob-close-to-sqlite3-blob-seek.md).
-- Open when checking sqlite3 — PrepareProtocol objects. [Reference / sqlite3 — PrepareProtocol objects](sqlite3-prepareprotocol-class.md).
-- Open when checking sqlite3 — Exceptions. [Reference / sqlite3 — Exceptions](sqlite3-warning-to-sqlite3-notsupportederror.md).
-- Open when checking sqlite3 — SQLite and Python types. [Reference / sqlite3 — SQLite and Python types](sqlite-and-python-types.md).
-- Open when checking sqlite3 — Default adapters and converters (deprecated). [Reference / sqlite3 — Default adapters and converters (deprecated)](default-adapters-and-converters-deprecated.md).
-- Open when checking sqlite3 — Command-line interface. [Reference / sqlite3 — Command-line interface](command-line-interface.md).
-- Open when checking sqlite3 — How to use placeholders to bind values in SQL queries. [How-to guides / sqlite3 — How to use placeholders to bind values in SQL queries](how-to-use-placeholders-to-bind-values-in-sql-queries.md).
-- Open when checking sqlite3 — How to adapt custom Python types to SQLite values. [How-to guides / sqlite3 — How to adapt custom Python types to SQLite values](how-to-adapt-custom-python-types-to-sqlite-values.md).
-- Open when checking sqlite3 — How to write adaptable objects. [How-to guides / sqlite3 — How to write adaptable objects](how-to-write-adaptable-objects.md).
-- Open when checking sqlite3 — How to register adapter callables. [How-to guides / sqlite3 — How to register adapter callables](how-to-register-adapter-callables.md).
-- Open when checking sqlite3 — How to convert SQLite values to custom Python types. [How-to guides / sqlite3 — How to convert SQLite values to custom Python types](how-to-convert-sqlite-values-to-custom-python-types.md).
-- Open when checking sqlite3 — Adapter and converter recipes. [How-to guides / sqlite3 — Adapter and converter recipes](adapter-and-converter-recipes.md).
-- Open when checking sqlite3 — How to use connection shortcut methods. [How-to guides / sqlite3 — How to use connection shortcut methods](how-to-use-connection-shortcut-methods.md).
-- Open when checking sqlite3 — How to use the connection context manager. [How-to guides / sqlite3 — How to use the connection context manager](how-to-use-the-connection-context-manager.md).
-- Open when checking sqlite3 — How to work with SQLite URIs. [How-to guides / sqlite3 — How to work with SQLite URIs](how-to-work-with-sqlite-uris.md).
-- Open when checking sqlite3 — How to create and use row factories. [How-to guides / sqlite3 — How to create and use row factories](how-to-create-and-use-row-factories.md).
-- Open when checking sqlite3 — How to handle non-UTF-8 text encodings. [How-to guides / sqlite3 — How to handle non-UTF-8 text encodings](how-to-handle-non-utf-8-text-encodings.md).
-- Open when checking sqlite3 — Transaction control. [Explanation / sqlite3 — Transaction control](transaction-control.md).
-- Open when checking sqlite3 — Transaction control via the `autocommit` attribute. [Explanation / sqlite3 — Transaction control via the `autocommit` attribute](transaction-control-via-the-autocommit-attribute.md).
-- Open when checking sqlite3 — Transaction control via the `isolation_level` attribute. [Explanation / sqlite3 — Transaction control via the `isolation_level` attribute](transaction-control-via-the-isolation-level-attribute.md).
+- Open when checking sqlite3 - PrepareProtocol objects. [Reference / sqlite3 - PrepareProtocol objects](sqlite3-prepareprotocol-class.md).
+- Open when checking sqlite3 - Exceptions. [Reference / sqlite3 - Exceptions](sqlite3-warning-to-sqlite3-notsupportederror.md).
+- Open when checking sqlite3 - SQLite and Python types. [Reference / sqlite3 - SQLite and Python types](sqlite-and-python-types.md).
+- Open when checking sqlite3 - Default adapters and converters (deprecated). [Reference / sqlite3 - Default adapters and converters (deprecated)](default-adapters-and-converters-deprecated.md).
+- Open when checking sqlite3 - Command-line interface. [Reference / sqlite3 - Command-line interface](command-line-interface.md).
+- Open when checking sqlite3 - How to use placeholders to bind values in SQL queries. [How-to guides / sqlite3 - How to use placeholders to bind values in SQL queries](how-to-use-placeholders-to-bind-values-in-sql-queries.md).
+- Open when checking sqlite3 - How to adapt custom Python types to SQLite values. [How-to guides / sqlite3 - How to adapt custom Python types to SQLite values](how-to-adapt-custom-python-types-to-sqlite-values.md).
+- Open when checking sqlite3 - How to write adaptable objects. [How-to guides / sqlite3 - How to write adaptable objects](how-to-write-adaptable-objects.md).
+- Open when checking sqlite3 - How to register adapter callables. [How-to guides / sqlite3 - How to register adapter callables](how-to-register-adapter-callables.md).
+- Open when checking sqlite3 - How to convert SQLite values to custom Python types. [How-to guides / sqlite3 - How to convert SQLite values to custom Python types](how-to-convert-sqlite-values-to-custom-python-types.md).
+- Open when checking sqlite3 - Adapter and converter recipes. [How-to guides / sqlite3 - Adapter and converter recipes](adapter-and-converter-recipes.md).
+- Open when checking sqlite3 - How to use connection shortcut methods. [How-to guides / sqlite3 - How to use connection shortcut methods](how-to-use-connection-shortcut-methods.md).
+- Open when checking sqlite3 - How to use the connection context manager. [How-to guides / sqlite3 - How to use the connection context manager](how-to-use-the-connection-context-manager.md).
+- Open when checking sqlite3 - How to work with SQLite URIs. [How-to guides / sqlite3 - How to work with SQLite URIs](how-to-work-with-sqlite-uris.md).
+- Open when checking sqlite3 - How to create and use row factories. [How-to guides / sqlite3 - How to create and use row factories](how-to-create-and-use-row-factories.md).
+- Open when checking sqlite3 - How to handle non-UTF-8 text encodings. [How-to guides / sqlite3 - How to handle non-UTF-8 text encodings](how-to-handle-non-utf-8-text-encodings.md).
+- Open when checking sqlite3 - Transaction control. [Explanation / sqlite3 - Transaction control](transaction-control.md).
+- Open when checking sqlite3 - Transaction control via the `autocommit` attribute. [Explanation / sqlite3 - Transaction control via the `autocommit` attribute](transaction-control-via-the-autocommit-attribute.md).
+- Open when checking sqlite3 - Transaction control via the `isolation_level` attribute. [Explanation / sqlite3 - Transaction control via the `isolation_level` attribute](transaction-control-via-the-isolation-level-attribute.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

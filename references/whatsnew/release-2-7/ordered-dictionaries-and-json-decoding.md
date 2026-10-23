@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 372: Adding an Ordered Dictionary to collections — json
+# What’s New in Python 2.7 / PEP 372: Adding an Ordered Dictionary to collections - json
 
 The constructor of the [`json`](https://docs.python.org/3.14/library/json.html#module-json) module’s [`JSONDecoder`](https://docs.python.org/3.14/library/json.html#json.JSONDecoder) class picked up an *object_pairs_hook* parameter that lets the decoder build `OrderedDict` instances. Support was likewise added for third-party tools such as [PyYAML](https://pyyaml.org/).
 

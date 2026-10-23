@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Notable changes in Python 3.8.8 — urllib.parse
+# What’s New In Python 3.8 / Notable changes in Python 3.8.8 - urllib.parse
 
 ### Notable changes in Python 3.8.8
 

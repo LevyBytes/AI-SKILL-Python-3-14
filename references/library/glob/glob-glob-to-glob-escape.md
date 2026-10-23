@@ -1,6 +1,6 @@
 # glob: `glob.glob()`, `glob.iglob()`, `glob.escape()`
 
-### `glob` — Unix style pathname pattern expansion
+### `glob` - Unix style pathname pattern expansion
 
 **Source code:** [Lib/glob.py](https://github.com/python/cpython/tree/3.14/Lib/glob.py)
 

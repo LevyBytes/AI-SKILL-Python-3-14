@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 3333: Python Web Server Gateway Interface v1.0.1 — os, wsgiref
+# What's New In Python 3.2 / PEP 3333: Python Web Server Gateway Interface v1.0.1 - os, wsgiref
 
 ### PEP 3333: Python Web Server Gateway Interface v1.0.1
 

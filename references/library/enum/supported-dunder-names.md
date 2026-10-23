@@ -1,4 +1,4 @@
-# enum — Supported `__dunder__` names
+# enum - Supported `__dunder__` names
 
 ### Supported `__dunder__` names
 

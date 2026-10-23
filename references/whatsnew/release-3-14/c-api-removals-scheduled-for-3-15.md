@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / C API changes / Deprecated C APIs / Pending removal in Python 3.15 — sys, venv
+# What's new in Python 3.14 / C API changes / Deprecated C APIs / Pending removal in Python 3.15 - sys, venv
 
 #### Pending removal in Python 3.15
 

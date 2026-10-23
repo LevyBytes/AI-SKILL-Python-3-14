@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 4 / build / select: [Python 3.11.0 alpha 4 / build / select](select.md).
 - Open when checking Python 3.11.0 alpha 4 / build / statistics: [Python 3.11.0 alpha 4 / build / statistics](statistics.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

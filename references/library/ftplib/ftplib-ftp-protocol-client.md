@@ -1,4 +1,4 @@
-# ftplib — `ftplib` — FTP protocol client
+# ftplib`ftplib` - FTP protocol client
 
 # Ftplib, Functional
 
@@ -6,9 +6,9 @@
 
 Covers: ftplib — FTP protocol client; Functional Programming Modules.
 
-## ftplib — FTP protocol client
+## ftplib - FTP protocol client
 
-### `ftplib` — FTP protocol client
+### `ftplib` - FTP protocol client
 
 **Source code:** [Lib/ftplib.py](https://github.com/python/cpython/tree/3.14/Lib/ftplib.py)
 

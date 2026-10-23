@@ -1,4 +1,4 @@
-# contextlib — Reentrant context managers
+# contextlib - Reentrant context managers
 
 ### Reentrant context managers
 

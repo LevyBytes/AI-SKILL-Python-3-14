@@ -1,4 +1,4 @@
-# importlib.machinery — `importlib.machinery` – Importers and path hooks
+# importlib.machinery`importlib.machinery` – Importers and path hooks
 
 *class *importlib.machinery.FrozenImporter
 

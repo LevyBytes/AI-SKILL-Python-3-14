@@ -1,4 +1,4 @@
-# socket — Socket families — Contract: `psm` is an integer holding the Protocol/Service Multiplexer.
+# socket - Socket families - Contract: `psm` is an integer holding the Protocol/Service Multiplexer.
 
 `psm` is an integer holding the Protocol/Service Multiplexer.
 

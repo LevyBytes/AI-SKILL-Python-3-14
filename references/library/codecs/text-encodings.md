@@ -1,4 +1,4 @@
-# codecs — Text Encodings
+# codecs - Text Encodings
 
 ### Text Encodings
 

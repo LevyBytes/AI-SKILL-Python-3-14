@@ -1,4 +1,4 @@
-# datetime — `tzinfo` objects — Complete USTimeZone implementation and four zone instances
+# datetime`tzinfo` objects - Complete USTimeZone implementation and four zone instances
 
 Open the [complete example modules](../../examples/timezone-rules/INDEX.md) for the complete definitions, imports and entrypoint.
 

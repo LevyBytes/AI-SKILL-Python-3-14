@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Other Language Changes — math
+# What’s New in Python 2.6 / Other Language Changes - math
 
 ```python
 class C(object):

@@ -1,8 +1,8 @@
-# base64 — `base64` — Base16, Base32, Base64, Base85 Data Encodings
+# base64`base64` - Base16, Base32, Base64, Base85 Data Encodings
 
 # Base64
 
-### `base64` — Base16, Base32, Base64, Base85 Data Encodings
+### `base64` - Base16, Base32, Base64, Base85 Data Encodings
 
 **Source code:** [Lib/base64.py](https://github.com/python/cpython/tree/3.14/Lib/base64.py)
 

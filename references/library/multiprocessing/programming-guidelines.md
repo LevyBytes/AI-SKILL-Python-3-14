@@ -1,4 +1,4 @@
-# multiprocessing — Programming guidelines
+# multiprocessing - Programming guidelines
 
 ### Programming guidelines
 

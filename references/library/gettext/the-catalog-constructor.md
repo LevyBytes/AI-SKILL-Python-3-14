@@ -1,4 +1,4 @@
-# gettext — The Catalog constructor
+# gettext - The Catalog constructor
 
 ### The Catalog constructor
 

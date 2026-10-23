@@ -1,6 +1,6 @@
-# sysconfig — `sysconfig` — Provide access to Python’s configuration information
+# sysconfig`sysconfig` - Provide access to Python’s configuration information
 
-### `sysconfig` — Provide access to Python’s configuration information
+### `sysconfig` - Provide access to Python’s configuration information
 
 Added in version 3.2.
 

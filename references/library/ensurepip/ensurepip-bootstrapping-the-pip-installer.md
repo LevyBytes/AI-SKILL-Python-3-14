@@ -1,8 +1,8 @@
-# ensurepip — `ensurepip` — Bootstrapping the `pip` installer
+# ensurepip`ensurepip` - Bootstrapping the `pip` installer
 
-## ensurepip — Bootstrapping the pip installer
+## ensurepip - Bootstrapping the pip installer
 
-### `ensurepip` — Bootstrapping the `pip` installer
+### `ensurepip` - Bootstrapping the `pip` installer
 
 Added in version 3.4.
 

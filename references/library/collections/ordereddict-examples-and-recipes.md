@@ -1,4 +1,4 @@
-# collections — `OrderedDict` Examples and Recipes
+# collections`OrderedDict` Examples and Recipes
 
 ### `OrderedDict` Examples and Recipes
 

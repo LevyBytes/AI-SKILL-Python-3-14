@@ -1,4 +1,4 @@
-# hashlib — Keyed hashing
+# hashlib - Keyed hashing
 
 #### Keyed hashing
 

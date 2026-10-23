@@ -1,4 +1,4 @@
-# optparse — Option Callbacks
+# optparse - Option Callbacks
 
 ### Option Callbacks
 

@@ -1,4 +1,4 @@
-# secrets — Security Considerations
+# secrets - Security Considerations
 
 ## Security Considerations
 

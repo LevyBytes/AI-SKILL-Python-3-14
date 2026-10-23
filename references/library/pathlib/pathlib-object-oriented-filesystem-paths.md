@@ -1,6 +1,6 @@
-# pathlib — `pathlib` — Object-oriented filesystem paths
+# pathlib`pathlib` - Object-oriented filesystem paths
 
-### `pathlib` — Object-oriented filesystem paths
+### `pathlib` - Object-oriented filesystem paths
 
 Added in version 3.4.
 

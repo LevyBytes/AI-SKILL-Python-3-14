@@ -1,8 +1,8 @@
-# getopt — `getopt` — C-style parser for command line options
+# getopt`getopt` - C-style parser for command line options
 
-## getopt — C-style parser for command line options
+## getopt - C-style parser for command line options
 
-### `getopt` — C-style parser for command line options
+### `getopt` - C-style parser for command line options
 
 **Source code:** [Lib/getopt.py](https://github.com/python/cpython/tree/3.14/Lib/getopt.py)
 

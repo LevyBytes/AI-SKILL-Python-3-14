@@ -1,4 +1,4 @@
-# ctypes — Callback functions — Contract: Because the function factories double as decorator factories, we could equally have written:
+# ctypes - Callback functions - Contract: Because the function factories double as decorator factories, we could equally have written:
 
 Because the function factories double as decorator factories, we could equally have written:
 

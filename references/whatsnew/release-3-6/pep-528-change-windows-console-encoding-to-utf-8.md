@@ -8,7 +8,7 @@ This behavior kicks in only with an interactive console — not when files or pi
 
 See also
 
-[**PEP 528**](https://peps.python.org/pep-0528/) — Change Windows console encoding to UTF-8
+[**PEP 528**](https://peps.python.org/pep-0528/): Change Windows console encoding to UTF-8
 
 PEP written and implemented by Steve Dower.
 

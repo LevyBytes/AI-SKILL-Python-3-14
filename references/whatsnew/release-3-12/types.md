@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / types — types, typing
+# What’s New In Python 3.12 / types - types, typing
 
 ### types
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / doctest — argparse, doctest, unittest
+# What's New In Python 3.4 / doctest - argparse, doctest, unittest
 
 ### doctest
 

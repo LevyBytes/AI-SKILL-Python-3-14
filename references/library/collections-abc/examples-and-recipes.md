@@ -1,4 +1,4 @@
-# collections.abc — Examples and Recipes
+# collections.abc - Examples and Recipes
 
 ### Examples and Recipes
 

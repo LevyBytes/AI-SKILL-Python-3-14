@@ -1,4 +1,4 @@
-# unittest.mock — Order of precedence of `side_effect`, `return_value` and *wraps* — Code example: >>> order_mock.get_value.return_value = "second"
+# unittest.mock - Order of precedence of `side_effect`, `return_value` and *wraps* - Code example: >>> order_mock.get_value.return_value = "second"
 
 ```python
 >>> order_mock.get_value.return_value = "second"

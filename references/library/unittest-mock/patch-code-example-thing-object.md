@@ -1,4 +1,4 @@
-# unittest.mock — patch — Code example: >>> thing = object()
+# unittest.mock - patch - Code example: >>> thing = object()
 
 ```python
 >>> thing = object()

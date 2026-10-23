@@ -1,4 +1,4 @@
-# sqlite3 — How to adapt custom Python types to SQLite values
+# sqlite3 - How to adapt custom Python types to SQLite values
 
 ### How to adapt custom Python types to SQLite values
 

@@ -2,7 +2,7 @@
 
 ### 5.3. Tuples and Sequences
 
-We have seen that lists and strings share plenty of behavior, indexing and slicing operations among them. Both rank as examples of *sequence* data types (refer to [Sequence Types — list, tuple, range](https://docs.python.org/3.14/library/stdtypes.html#typesseq)). Because Python keeps evolving as a language, further sequence data types might appear. One more built-in sequence data type also exists: the *tuple*.
+We have seen that lists and strings share plenty of behavior, indexing and slicing operations among them. Both rank as examples of *sequence* data types (refer to [Sequence Types - list, tuple, range](https://docs.python.org/3.14/library/stdtypes.html#typesseq)). Because Python keeps evolving as a language, further sequence data types might appear. One more built-in sequence data type also exists: the *tuple*.
 
 A tuple is formed from several values set apart by commas, as in:
 

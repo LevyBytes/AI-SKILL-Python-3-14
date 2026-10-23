@@ -1,4 +1,4 @@
-# multiprocessing — Examples — test continuation: complete synchronous and iterator exception trials
+# multiprocessing - Examples - test continuation: complete synchronous and iterator exception trials
 
 Open the [complete example modules](../../examples/pool-examples/INDEX.md) for the complete definitions, imports and entrypoint.
 

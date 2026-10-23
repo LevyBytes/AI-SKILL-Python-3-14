@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / PEP 657: Fine-grained error locations in tracebacks — dis
+# What's New In Python 3.11 / PEP 657: Fine-grained error locations in tracebacks - dis
 
 ### New Features
 

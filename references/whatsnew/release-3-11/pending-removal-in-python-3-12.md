@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Pending Removal in Python 3.12 — typing
+# What's New In Python 3.11 / Pending Removal in Python 3.12 - typing
 
 ### Pending Removal in Python 3.12
 

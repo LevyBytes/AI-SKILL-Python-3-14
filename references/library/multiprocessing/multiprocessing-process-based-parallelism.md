@@ -1,6 +1,6 @@
-# multiprocessing — `multiprocessing` — Process-based parallelism
+# multiprocessing`multiprocessing` - Process-based parallelism
 
-### `multiprocessing` — Process-based parallelism
+### `multiprocessing` - Process-based parallelism
 
 **Source code:** [Lib/multiprocessing/](https://github.com/python/cpython/tree/3.14/Lib/multiprocessing/)
 

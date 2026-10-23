@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / multiprocessing — multiprocessing, signal
+# What's New In Python 3.7 / multiprocessing - multiprocessing, signal
 
 ### multiprocessing
 

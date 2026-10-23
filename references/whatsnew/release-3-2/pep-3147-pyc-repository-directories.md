@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 3147: PYC Repository Directories — compileall, importlib, py_compile
+# What's New In Python 3.2 / PEP 3147: PYC Repository Directories - compileall, importlib, py_compile
 
 ### PEP 3147: PYC Repository Directories
 

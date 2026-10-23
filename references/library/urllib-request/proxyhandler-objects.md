@@ -1,4 +1,4 @@
-# urllib.request — ProxyHandler Objects
+# urllib.request - ProxyHandler Objects
 
 ### ProxyHandler Objects
 

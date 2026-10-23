@@ -1,4 +1,4 @@
-# pickle — Custom Reduction for Types, Functions, and Other Objects
+# pickle - Custom Reduction for Types, Functions, and Other Objects
 
 ### Custom Reduction for Types, Functions, and Other Objects
 

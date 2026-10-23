@@ -1,4 +1,4 @@
-# zipfile — File system limitations
+# zipfile - File system limitations
 
 ### File system limitations
 

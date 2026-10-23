@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 305: Comma-separated Files — csv
+# What’s New in Python 2.3 / PEP 305: Comma-separated Files - csv
 
 ### PEP 305: Comma-separated Files
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / types — collections.abc, types
+# What’s New In Python 3.5 / types - collections.abc, types
 
 ### types
 

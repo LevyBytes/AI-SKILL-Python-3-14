@@ -21,7 +21,7 @@
     {"topic": "Key bindings", "file": "idle/key-bindings.md", "summary": "Open when checking Key bindings.", "keywords": []},
     {"topic": "Menus", "file": "idle/menus.md", "summary": "Open when checking Menus.", "keywords": []},
     {"topic": "Options menu (Shell and Editor)", "file": "idle/options-menu-shell-and-editor.md", "summary": "Open when checking Options menu (Shell and Editor).", "keywords": []},
-    {"topic": "IDLE — Python editor and shell", "file": "idle/python-editor-and-shell.md", "summary": "Open when checking IDLE — Python editor and shell.", "keywords": []},
+    {"topic": "IDLE - Python editor and shell", "file": "idle/python-editor-and-shell.md", "summary": "Open when checking IDLE - Python editor and shell.", "keywords": []},
     {"topic": "Run menu (Editor window only)", "file": "idle/run-menu-editor-window-only.md", "summary": "Open when checking Run menu (Editor window only).", "keywords": []},
     {"topic": "Running user code", "file": "idle/running-user-code.md", "summary": "Open when checking Running user code.", "keywords": []},
     {"topic": "Running without a subprocess", "file": "idle/running-without-a-subprocess.md", "summary": "Open when checking Running without a subprocess.", "keywords": []},

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "atexit — `atexit` Example", "file": "atexit/atexit-example.md", "summary": "Open when checking atexit — `atexit` Example.", "keywords": []},
-    {"topic": "atexit — `atexit` — Exit handlers", "file": "atexit/atexit-register-to-atexit-unregister.md", "summary": "Open when checking atexit — `atexit` — Exit handlers.", "keywords": []},
+    {"topic": "atexit - `atexit` Example", "file": "atexit/atexit-example.md", "summary": "Open when checking atexit - `atexit` Example.", "keywords": []},
+    {"topic": "atexit - `atexit` - Exit handlers", "file": "atexit/atexit-register-to-atexit-unregister.md", "summary": "Open when checking atexit - `atexit` - Exit handlers.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

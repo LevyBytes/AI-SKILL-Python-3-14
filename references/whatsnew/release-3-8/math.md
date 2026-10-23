@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / math — math
+# What’s New In Python 3.8 / math - math
 
 > (Suggested by Raymond Hettinger, implemented by Donghee Na, and reviewed by Vinay Sajip in [bpo-33897](https://bugs.python.org/issue?@action=redirect&bpo=33897).)
 

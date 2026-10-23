@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 1 / build / pin sphinx version inside doc makefile: [Python 3.10.0 alpha 1 / build / pin sphinx version inside doc makefile](pin-sphinx-version-inside-doc-makefile.md).
 - Open when checking Python 3.10.0 alpha 1 / build / zoneinfo: [Python 3.10.0 alpha 1 / build / zoneinfo](zoneinfo.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -4,4 +4,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 
 - Open when checking C API pending removal in 3.14: PyDictObject.ma_version_tag; Immutable types with mutable bases: [C API pending removal in 3.14: PyDictObject.ma_version_tag; Immutable types with mutable bases](dict-version-tag-and-immutable-type-base-removals.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

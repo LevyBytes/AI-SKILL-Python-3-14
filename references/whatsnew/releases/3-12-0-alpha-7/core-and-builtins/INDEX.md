@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 7 / core and builtins / threads and concurrency: [Python 3.12.0 alpha 7 / core and builtins / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.12.0 alpha 7 / core and builtins / took out jump if false or pop jump if true or pop instructions: [Python 3.12.0 alpha 7 / core and builtins / took out jump if false or pop jump if true or pop instructions](conditional-pop-jump-instruction-removal.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

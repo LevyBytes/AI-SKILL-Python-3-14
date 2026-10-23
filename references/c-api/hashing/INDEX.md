@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking object hash contract and numeric hashing in hashing C API. [hashing C API: Object hash contract and numeric hashing](pyhash-api.md).
 - Open when checking hash function definition, pointer and buffer hashing in hashing C API. [hashing C API: Hash function definition, pointer and buffer hashing](pyhash-funcdef-to-pyobject-generichash.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

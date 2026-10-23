@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / New, Improved, and Deprecated Modules — textwrap, threading, time, timeit
+# What’s New in Python 2.3 / New, Improved, and Deprecated Modules - textwrap, threading, time, timeit
 
 ```python
 >>> import textwrap

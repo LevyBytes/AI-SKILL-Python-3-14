@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Other Build and C API Changes — operator
+# What's New In Python 3.4 / Other Build and C API Changes - operator
 
 ### Other Build and C API Changes
 

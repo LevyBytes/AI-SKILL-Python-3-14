@@ -1,4 +1,4 @@
-# What’s New in Python 2.1 / PEP 230: Warning Framework — __main__, re, warnings
+# What’s New in Python 2.1 / PEP 230: Warning Framework - __main__, re, warnings
 
 ### PEP 230: Warning Framework
 

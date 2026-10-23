@@ -1,6 +1,6 @@
-# filecmp — `filecmp` — File and Directory Comparisons
+# filecmp`filecmp` - File and Directory Comparisons
 
-### `filecmp` — File and Directory Comparisons
+### `filecmp` - File and Directory Comparisons
 
 **Source code:** [Lib/filecmp.py](https://github.com/python/cpython/tree/3.14/Lib/filecmp.py)
 

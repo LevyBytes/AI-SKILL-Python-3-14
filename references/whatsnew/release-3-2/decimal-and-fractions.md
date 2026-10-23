@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / decimal and fractions — decimal, fractions, sys
+# What's New In Python 3.2 / decimal and fractions - decimal, fractions, sys
 
 ### decimal and fractions
 

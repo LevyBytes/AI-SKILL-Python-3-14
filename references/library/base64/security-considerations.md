@@ -1,4 +1,4 @@
-# base64 — Security Considerations
+# base64 - Security Considerations
 
 ### Security Considerations
 

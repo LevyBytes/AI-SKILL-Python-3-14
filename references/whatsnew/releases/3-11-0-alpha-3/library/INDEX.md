@@ -33,4 +33,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.11.0 alpha 3 / library / unittest: [Python 3.11.0 alpha 3 / library / unittest](unittest.md).
 - Open when checking Python 3.11.0 alpha 3 / library / xml etree elementtree: [Python 3.11.0 alpha 3 / library / xml etree elementtree](xml-etree-elementtree.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# test — Writing Unit Tests for the `test` package — Code example: class TestFuncAcceptsSequencesMixin:
+# test - Writing Unit Tests for the `test` package - Code example: class TestFuncAcceptsSequencesMixin:
 
 ```python
 class TestFuncAcceptsSequencesMixin:

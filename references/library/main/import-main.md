@@ -1,4 +1,4 @@
-# __main__ — `import __main__`
+# __main__`import __main__`
 
 ### `import __main__`
 

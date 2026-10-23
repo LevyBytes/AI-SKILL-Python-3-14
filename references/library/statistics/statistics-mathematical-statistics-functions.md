@@ -1,6 +1,6 @@
-# statistics — `statistics` — Mathematical statistics functions
+# statistics`statistics` - Mathematical statistics functions
 
-### `statistics` — Mathematical statistics functions
+### `statistics` - Mathematical statistics functions
 
 Added in version 3.4.
 

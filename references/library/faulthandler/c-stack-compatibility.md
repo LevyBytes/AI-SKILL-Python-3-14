@@ -1,4 +1,4 @@
-# faulthandler — C Stack Compatibility
+# faulthandler - C Stack Compatibility
 
 ### C Stack Compatibility
 

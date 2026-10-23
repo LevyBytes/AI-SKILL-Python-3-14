@@ -1,4 +1,4 @@
-# typing — Functions and decorators — Signature and initial contract
+# typing - Functions and decorators - Signature and initial contract
 
 @typing.dataclass_transform(***, *eq_default=True*, *order_default=False*, *kw_only_default=False*, *frozen_default=False*, *field_specifiers=()*, ***kwargs*)
 

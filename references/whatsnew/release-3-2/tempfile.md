@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / tempfile — tempfile
+# What's New In Python 3.2 / tempfile - tempfile
 
 ### tempfile
 

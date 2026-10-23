@@ -6,9 +6,9 @@
 
 Covers: http.cookies — HTTP state management; http — HTTP modules.
 
-## http.cookies — HTTP state management
+## http.cookies - HTTP state management
 
-### `http.cookies` — HTTP state management
+### `http.cookies` - HTTP state management
 
 **Source code:** [Lib/http/cookies.py](https://github.com/python/cpython/tree/3.14/Lib/http/cookies.py)
 

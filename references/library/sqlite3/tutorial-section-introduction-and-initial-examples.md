@@ -1,4 +1,4 @@
-# sqlite3 — Tutorial — Section introduction and initial examples
+# sqlite3 - Tutorial - Section introduction and initial examples
 
 ### Tutorial
 

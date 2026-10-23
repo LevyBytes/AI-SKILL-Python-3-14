@@ -1,4 +1,4 @@
-# unittest.mock — Naming your mocks
+# unittest.mock - Naming your mocks
 
 ### Naming your mocks
 

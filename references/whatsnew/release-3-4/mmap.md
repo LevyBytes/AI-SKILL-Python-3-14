@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / mmap — weakref
+# What's New In Python 3.4 / mmap - weakref
 
 ### mmap
 

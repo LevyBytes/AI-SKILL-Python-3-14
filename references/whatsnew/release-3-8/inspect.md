@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / inspect — inspect
+# What’s New In Python 3.8 / inspect - inspect
 
 > (Contributed by Terry J. Reedy in [bpo-37765](https://bugs.python.org/issue?@action=redirect&bpo=37765).)
 

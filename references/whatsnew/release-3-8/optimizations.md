@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Optimizations — os, subprocess
+# What’s New In Python 3.8 / Optimizations - os, subprocess
 
 ### Optimizations
 

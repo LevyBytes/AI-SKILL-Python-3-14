@@ -1,8 +1,8 @@
 # fcntl: `fcntl.fcntl()`, `fcntl.ioctl()`
 
-## fcntl — The fcntl and ioctl system calls
+## fcntl - The fcntl and ioctl system calls
 
-### `fcntl` — The `fcntl` and `ioctl` system calls
+### `fcntl` - The `fcntl` and `ioctl` system calls
 
 ---
 

@@ -1,6 +1,6 @@
-# dbm.sqlite3 — `dbm.sqlite3` — SQLite backend for dbm
+# dbm.sqlite3`dbm.sqlite3` - SQLite backend for dbm
 
-### `dbm.sqlite3` — SQLite backend for dbm
+### `dbm.sqlite3` - SQLite backend for dbm
 
 Added in version 3.13.
 

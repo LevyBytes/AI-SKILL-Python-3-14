@@ -1,4 +1,4 @@
-# urllib.parse — URL parsing security
+# urllib.parse - URL parsing security
 
 ### URL parsing security
 

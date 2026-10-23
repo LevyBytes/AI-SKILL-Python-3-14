@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "mailcap — Mailcap file handling", "file": "mailcap/mailcap-file-handling.md", "summary": "Open when checking mailcap — Mailcap file handling.", "keywords": []},
-    {"topic": "mailcap — `mailcap` — Mailcap file handling", "file": "mailcap/mailcap-mailcap-file-handling.md", "summary": "Open when checking mailcap — `mailcap` — Mailcap file handling.", "keywords": []},
+    {"topic": "mailcap - Mailcap file handling", "file": "mailcap/mailcap-file-handling.md", "summary": "Open when checking mailcap - Mailcap file handling.", "keywords": []},
+    {"topic": "mailcap - `mailcap` - Mailcap file handling", "file": "mailcap/mailcap-mailcap-file-handling.md", "summary": "Open when checking mailcap - `mailcap` - Mailcap file handling.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

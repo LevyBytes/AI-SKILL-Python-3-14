@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / bz2 — bz2
+# What’s New In Python 3.5 / bz2 - bz2
 
 ### bz2
 

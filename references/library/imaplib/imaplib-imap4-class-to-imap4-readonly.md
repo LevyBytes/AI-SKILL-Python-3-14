@@ -2,7 +2,7 @@
 
 # Imaplib
 
-### `imaplib` — IMAP4 protocol client
+### `imaplib` - IMAP4 protocol client
 
 **Source code:** [Lib/imaplib.py](https://github.com/python/cpython/tree/3.14/Lib/imaplib.py)
 

@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Monitoring C API: [Monitoring C API](monitoring-c-api.md).
 - Open when checking Managing the Monitoring State: [Managing the Monitoring State](pymonitoring-enterscope-to-pymonitoring-exitscope.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

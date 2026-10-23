@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / ssl — ssl
+# What's New In Python 3.10 / ssl - ssl
 
 ### ssl
 

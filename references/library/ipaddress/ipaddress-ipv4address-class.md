@@ -14,7 +14,7 @@ Any of the following counts as a legitimate IPv4 address:
 
 1.
 
-A string written in decimal-dot notation — four decimal integers within the inclusive 0–255 range, joined by dots (for instance `192.168.0.1`). Every integer stands for one octet (byte) of the address. To avoid being mistaken for octal notation, leading zeroes are rejected.
+A string written in decimal-dot notation: four decimal integers within the inclusive 0–255 range, joined by dots (for instance `192.168.0.1`). Every integer stands for one octet (byte) of the address. To avoid being mistaken for octal notation, leading zeroes are rejected.
 
 2.
 

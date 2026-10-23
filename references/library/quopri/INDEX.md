@@ -4,4 +4,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 
 - Open when checking Quopri: [Quopri](quopri-decode-to-quopri-encodestring.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

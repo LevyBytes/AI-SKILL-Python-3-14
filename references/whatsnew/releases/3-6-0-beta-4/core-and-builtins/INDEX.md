@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 beta 4 / core and builtins / repair refleak code raises deprecationwarning: [Python 3.6.0 beta 4 / core and builtins / repair refleak code raises deprecationwarning](repair-refleak-code-raises-deprecationwarning.md).
 - Open when checking Python 3.6.0 beta 4 / core and builtins / switch pendingdeprecationwarning deprecationwarning: [Python 3.6.0 beta 4 / core and builtins / switch pendingdeprecationwarning deprecationwarning](switch-pendingdeprecationwarning-deprecationwarning.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

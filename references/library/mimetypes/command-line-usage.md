@@ -1,4 +1,4 @@
-# mimetypes — Command-line usage
+# mimetypes - Command-line usage
 
 ### Command-line usage
 

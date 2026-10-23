@@ -1,4 +1,4 @@
-# unittest.mock — Order of precedence of `side_effect`, `return_value` and *wraps* — Section introduction and initial examples
+# unittest.mock - Order of precedence of `side_effect`, `return_value` and *wraps* - Section introduction and initial examples
 
 ### Order of precedence of `side_effect`, `return_value` and *wraps*
 

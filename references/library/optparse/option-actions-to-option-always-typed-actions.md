@@ -1,4 +1,4 @@
-# optparse — Adding new actions
+# optparse - Adding new actions
 
 ### Adding new actions
 

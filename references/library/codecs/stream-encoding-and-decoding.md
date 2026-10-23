@@ -1,4 +1,4 @@
-# codecs — Stream Encoding and Decoding
+# codecs - Stream Encoding and Decoding
 
 ### Stream Encoding and Decoding
 

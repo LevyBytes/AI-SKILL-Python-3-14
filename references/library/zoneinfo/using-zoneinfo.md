@@ -1,4 +1,4 @@
-# zoneinfo — Using `ZoneInfo`
+# zoneinfo - Using `ZoneInfo`
 
 ### Using `ZoneInfo`
 

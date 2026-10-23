@@ -1,4 +1,4 @@
-# importlib.util — Setting up an importer
+# importlib.util - Setting up an importer
 
 ### Setting up an importer
 

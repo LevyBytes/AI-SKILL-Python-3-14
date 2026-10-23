@@ -1,4 +1,4 @@
-# typing — Type aliases
+# typing - Type aliases
 
 ### Type aliases
 

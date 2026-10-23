@@ -1,8 +1,8 @@
-# concurrent.interpreters — `concurrent.interpreters` — Multiple interpreters in the same process
+# concurrent.interpreters`concurrent.interpreters` - Multiple interpreters in the same process
 
-## concurrent.interpreters — Multiple interpreters in the same process
+## concurrent.interpreters - Multiple interpreters in the same process
 
-### `concurrent.interpreters` — Multiple interpreters in the same process
+### `concurrent.interpreters` - Multiple interpreters in the same process
 
 Added in version 3.14.
 

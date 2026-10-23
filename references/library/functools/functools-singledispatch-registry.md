@@ -1,4 +1,4 @@
-# functools — functools.singledispatch registry
+# functools - functools.singledispatch registry
 
 ```python
 >>> fun.registry.keys()

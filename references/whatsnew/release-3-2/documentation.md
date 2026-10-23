@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Documentation — datetime, functools, itertools, re
+# What's New In Python 3.2 / Documentation - datetime, functools, itertools, re
 
 ### Documentation
 

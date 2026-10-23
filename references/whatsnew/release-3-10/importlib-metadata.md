@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / importlib.metadata — importlib.metadata
+# What's New In Python 3.10 / importlib.metadata - importlib.metadata
 
 Reaches feature parity with `importlib_metadata` 4.6 ([history](https://importlib-metadata.readthedocs.io/en/latest/history.html)).
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / PEP 604: New Type Union Operator — typing
+# What's New In Python 3.10 / PEP 604: New Type Union Operator - typing
 
 ### PEP 604: New Type Union Operator
 

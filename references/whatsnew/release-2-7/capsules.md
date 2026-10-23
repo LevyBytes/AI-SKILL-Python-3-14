@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Capsules — socket, unicodedata
+# What’s New in Python 2.7 / Capsules - socket, unicodedata
 
 ### Capsules
 

@@ -1,6 +1,6 @@
 {"schema_version": 1, "topics": [
-  {"topic": "compileall — Command-line use", "file": "compileall/command-line-use.md", "summary": "Open when checking compileall — Command-line use.", "keywords": []},
-  {"topic": "compileall — `compileall` — Byte-compile Python libraries", "file": "compileall/compileall-byte-compile-python-libraries.md", "summary": "Open when checking compileall — `compileall` — Byte-compile Python libraries.", "keywords": []},
+  {"topic": "compileall - Command-line use", "file": "compileall/command-line-use.md", "summary": "Open when checking compileall - Command-line use.", "keywords": []},
+  {"topic": "compileall - `compileall` - Byte-compile Python libraries", "file": "compileall/compileall-byte-compile-python-libraries.md", "summary": "Open when checking compileall - `compileall` - Byte-compile Python libraries.", "keywords": []},
   {"topic": "compileall: `compileall.compile_dir()`, `compileall.compile_file()`", "file": "compileall/compileall-compile-dir-to-compileall-compile-file.md", "summary": "Open when checking the documented contracts for `compileall.compile_dir()`, `compileall.compile_file()` in compileall.", "keywords": []},
   {"topic": "compileall: `compileall.compile_path()`", "file": "compileall/compileall-compile-path.md", "summary": "Open when checking the documented contracts for `compileall.compile_path()` in compileall.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

@@ -1,4 +1,4 @@
-# json — Implementation Limitations
+# json - Implementation Limitations
 
 ### Implementation Limitations
 

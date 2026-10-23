@@ -1,4 +1,4 @@
-# unittest.mock — patch builtins
+# unittest.mock - patch builtins
 
 ### patch builtins
 

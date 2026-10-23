@@ -1,4 +1,4 @@
-# optparse — Callback example 4: check arbitrary condition
+# optparse - Callback example 4: check arbitrary condition
 
 ### Callback example 4: check arbitrary condition
 

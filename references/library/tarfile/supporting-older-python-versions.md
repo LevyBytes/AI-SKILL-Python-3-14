@@ -1,4 +1,4 @@
-# tarfile — Supporting older Python versions
+# tarfile - Supporting older Python versions
 
 ### Supporting older Python versions
 

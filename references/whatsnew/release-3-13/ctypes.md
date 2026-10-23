@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / ctypes — ctypes
+# What's New In Python 3.13 / ctypes - ctypes
 
 ### ctypes
 

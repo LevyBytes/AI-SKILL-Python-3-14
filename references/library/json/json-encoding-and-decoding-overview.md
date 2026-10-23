@@ -1,6 +1,6 @@
-# json — `json` — JSON encoder and decoder — Section introduction and initial examples
+# json`json` - JSON encoder and decoder - Section introduction and initial examples
 
-### `json` — JSON encoder and decoder
+### `json` - JSON encoder and decoder
 
 **Source code:** [Lib/json/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/json/__init__.py)
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / tokenize — tokenize
+# What’s New In Python 3.12 / tokenize - tokenize
 
 ### tokenize
 

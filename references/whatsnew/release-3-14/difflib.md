@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / difflib — difflib
+# What's new in Python 3.14 / difflib - difflib
 
 ### difflib
 

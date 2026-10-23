@@ -1,4 +1,4 @@
-# ssl — Socket creation
+# ssl - Socket creation
 
 ### Functions, constants, and exceptions
 

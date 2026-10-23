@@ -19,4 +19,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 4 / core and builtins / time: [Python 3.9.0 alpha 4 / core and builtins / time](time.md).
 - Open when checking Python 3.9.0 alpha 4 / core and builtins / tuned pattern assigning temporary variable inside comprehensions: [Python 3.9.0 alpha 4 / core and builtins / tuned pattern assigning temporary variable inside comprehensions](comprehension-temporary-assignment-optimization.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

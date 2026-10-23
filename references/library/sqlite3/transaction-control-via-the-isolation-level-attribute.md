@@ -1,4 +1,4 @@
-# sqlite3 — Transaction control via the `isolation_level` attribute
+# sqlite3 - Transaction control via the `isolation_level` attribute
 
 #### Transaction control via the `isolation_level` attribute
 

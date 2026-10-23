@@ -1,4 +1,4 @@
-# zipfile — Resources limitations
+# zipfile - Resources limitations
 
 ### Resources limitations
 

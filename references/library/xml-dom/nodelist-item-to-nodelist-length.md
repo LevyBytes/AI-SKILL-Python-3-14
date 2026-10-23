@@ -1,4 +1,4 @@
-# xml.dom — NodeList Objects
+# xml.dom - NodeList Objects
 
 ### NodeList Objects
 

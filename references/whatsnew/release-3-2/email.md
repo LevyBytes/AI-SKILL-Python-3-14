@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / email — email, email.compat32-message, email.generator, email.parser, smtplib
+# What's New In Python 3.2 / email - email, email.compat32-message, email.generator, email.parser, smtplib
 
 ### email
 

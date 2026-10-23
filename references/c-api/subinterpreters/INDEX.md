@@ -11,4 +11,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Low-level APIs: [Low-level APIs](pyinterpreterstate-new-to-pyinterpreterstate-delete.md).
 - Open when checking High-level APIs: [High-level APIs](pyinterpreterstate-to-pyinterpreterstate-setevalframefunc.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

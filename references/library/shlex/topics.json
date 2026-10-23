@@ -1,6 +1,6 @@
 {"schema_version": 1, "topics": [
-  {"topic": "shlex — Improved Compatibility with Shells", "file": "shlex/improved-compatibility-with-shells.md", "summary": "Open when checking shlex — Improved Compatibility with Shells.", "keywords": []},
-  {"topic": "shlex — Parsing Rules", "file": "shlex/parsing-rules.md", "summary": "Open when checking shlex — Parsing Rules.", "keywords": []},
+  {"topic": "shlex - Improved Compatibility with Shells", "file": "shlex/improved-compatibility-with-shells.md", "summary": "Open when checking shlex - Improved Compatibility with Shells.", "keywords": []},
+  {"topic": "shlex - Parsing Rules", "file": "shlex/parsing-rules.md", "summary": "Open when checking shlex - Parsing Rules.", "keywords": []},
   {"topic": "shlex: Shell-token input, pushback and source configuration", "file": "shlex/shlex-get-token-to-shlex-instream.md", "summary": "Open when checking shell-token input, pushback and source configuration in shlex.", "keywords": []},
   {"topic": "shlex: `shlex.source`, `shlex.debug`, `shlex.lineno`, `shlex.token`, `shlex.eof`, `shlex.punctuation_chars`", "file": "shlex/shlex-source-to-shlex-punctuation-chars.md", "summary": "Open when checking the documented contracts for `shlex.source`, `shlex.debug`, `shlex.lineno`, `shlex.token`, `shlex.eof`, `shlex.punctuation_chars` in shlex.", "keywords": []},
   {"topic": "shlex: `shlex.split()`, `shlex.join()`", "file": "shlex/shlex-split-to-shlex-join.md", "summary": "Open when checking the documented contracts for `shlex.split()`, `shlex.join()` in shlex.", "keywords": []},

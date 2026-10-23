@@ -1,4 +1,4 @@
-# curses — Constants — Shifted and terminal event keys
+# curses - Constants - Shifted and terminal event keys
 
 | Key constant | Key |
 | --- | --- |

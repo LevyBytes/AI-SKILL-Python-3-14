@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `xml.sax.saxutils.XMLFilterBase` in xml.sax.saxutils. [xml.sax.saxutils: `xml.sax.saxutils.XMLFilterBase`](xml-sax-saxutils-xmlfilterbase-class.md).
 - Open when checking the documented contracts for `xml.sax.saxutils.prepare_input_source()` in xml.sax.saxutils. [xml.sax.saxutils: `xml.sax.saxutils.prepare_input_source()`](xml-sax-saxutils-prepare-input-source.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

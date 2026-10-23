@@ -1,4 +1,4 @@
-# datetime — datetime.tzinfo methods and dt/None protocol
+# datetime - datetime.tzinfo methods and dt/None protocol
 
 If `None` is supplied, the author of the class chooses how to respond. As one case, handing back `None` makes sense when the class wants to signal that time objects opt out of the `tzinfo` protocols. Having `utcoffset(None)` hand back the standard UTC offset can be more practical, because no alternative scheme exists for finding out the standard offset.
 

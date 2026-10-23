@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / Other Language Changes — codecs, collections
+# What’s New In Python 3.5 / Other Language Changes - codecs, collections
 
 > PEP written by Petr Viktorin, Stefan Behnel, and Nick Coghlan; implemented by Petr Viktorin.
 

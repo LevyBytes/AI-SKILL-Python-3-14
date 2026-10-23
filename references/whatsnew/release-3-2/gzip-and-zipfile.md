@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / gzip and zipfile — gzip, io, zipfile
+# What's New In Python 3.2 / gzip and zipfile - gzip, io, zipfile
 
 ### gzip and zipfile
 

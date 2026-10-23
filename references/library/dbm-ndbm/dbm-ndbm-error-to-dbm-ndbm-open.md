@@ -1,6 +1,6 @@
-# dbm.ndbm — `dbm.ndbm` — New Database Manager
+# dbm.ndbm`dbm.ndbm` - New Database Manager
 
-### `dbm.ndbm` — New Database Manager
+### `dbm.ndbm` - New Database Manager
 
 **Source code:** [Lib/dbm/ndbm.py](https://github.com/python/cpython/tree/3.14/Lib/dbm/ndbm.py)
 

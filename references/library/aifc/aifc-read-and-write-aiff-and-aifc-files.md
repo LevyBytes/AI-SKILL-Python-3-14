@@ -1,8 +1,8 @@
-# aifc — `aifc` — Read and write AIFF and AIFC files
+# aifc`aifc` - Read and write AIFF and AIFC files
 
-## aifc — Read and write AIFF and AIFC files
+## aifc - Read and write AIFF and AIFC files
 
-### `aifc` — Read and write AIFF and AIFC files
+### `aifc` - Read and write AIFF and AIFC files
 
 Deprecated since version 3.11, removed in version 3.13.
 

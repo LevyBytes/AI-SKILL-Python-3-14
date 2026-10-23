@@ -1,4 +1,4 @@
-# configparser — Legacy API Examples — Code example: import configparser
+# configparser - Legacy API Examples - Code example: import configparser
 
 ```python
 import configparser

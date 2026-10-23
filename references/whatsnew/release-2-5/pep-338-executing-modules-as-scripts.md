@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / PEP 338: Executing Modules as Scripts — runpy, zipimport
+# What's New in Python 2.5 / PEP 338: Executing Modules as Scripts - runpy, zipimport
 
 ### PEP 338: Executing Modules as Scripts
 

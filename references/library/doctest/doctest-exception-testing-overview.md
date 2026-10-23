@@ -1,4 +1,4 @@
-# doctest — What About Exceptions? — Section introduction and initial examples
+# doctest - What About Exceptions? - Section introduction and initial examples
 
 ### What About Exceptions?
 

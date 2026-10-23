@@ -1,4 +1,4 @@
-# re — Regular Expression Syntax
+# re - Regular Expression Syntax
 
 `\z`
 

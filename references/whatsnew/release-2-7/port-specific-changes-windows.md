@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Port-Specific Changes: Windows — mimetypes, msvcrt, os, signal, winreg
+# What’s New in Python 2.7 / Port-Specific Changes: Windows - mimetypes, msvcrt, os, signal, winreg
 
 ### Port-Specific Changes: Windows
 

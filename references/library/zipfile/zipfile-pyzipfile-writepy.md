@@ -1,4 +1,4 @@
-# zipfile — PyZipFile objects
+# zipfile - PyZipFile objects
 
 writepy(*pathname*, *basename=''*, *filterfunc=None*)
 

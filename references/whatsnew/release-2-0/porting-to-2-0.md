@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / Porting to 2.0 — socket
+# What’s New in Python 2.0 / Porting to 2.0 - socket
 
 ### Porting to 2.0
 

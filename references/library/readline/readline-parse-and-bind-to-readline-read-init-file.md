@@ -1,4 +1,4 @@
-# readline — Init file
+# readline - Init file
 
 ### Init file
 

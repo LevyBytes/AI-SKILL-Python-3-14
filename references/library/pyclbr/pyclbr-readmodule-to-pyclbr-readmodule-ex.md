@@ -1,8 +1,8 @@
-# pyclbr — `pyclbr` — Python module browser support
+# pyclbr`pyclbr` - Python module browser support
 
-## pyclbr — Python module browser support??
+## pyclbr - Python module browser support??
 
-### `pyclbr` — Python module browser support
+### `pyclbr` - Python module browser support
 
 **Source code:** [Lib/pyclbr.py](https://github.com/python/cpython/tree/3.14/Lib/pyclbr.py)
 

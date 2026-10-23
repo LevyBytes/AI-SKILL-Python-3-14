@@ -1,8 +1,8 @@
-# tabnanny — `tabnanny` — Detection of ambiguous indentation
+# tabnanny`tabnanny` - Detection of ambiguous indentation
 
-## tabnanny — Detection of ambiguous indentation
+## tabnanny - Detection of ambiguous indentation
 
-### `tabnanny` — Detection of ambiguous indentation
+### `tabnanny` - Detection of ambiguous indentation
 
 **Source code:** [Lib/tabnanny.py](https://github.com/python/cpython/tree/3.14/Lib/tabnanny.py)
 

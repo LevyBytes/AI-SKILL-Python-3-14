@@ -1,4 +1,4 @@
-# inspect — Retrieving source code
+# inspect - Retrieving source code
 
 ### Retrieving source code
 

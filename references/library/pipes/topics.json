@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "pipes — `pipes` — Interface to shell pipelines", "file": "pipes/pipes-interface-to-shell-pipelines.md", "summary": "Open when checking pipes — `pipes` — Interface to shell pipelines.", "keywords": []},
+    {"topic": "pipes - `pipes` - Interface to shell pipelines", "file": "pipes/pipes-interface-to-shell-pipelines.md", "summary": "Open when checking pipes - `pipes` - Interface to shell pipelines.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

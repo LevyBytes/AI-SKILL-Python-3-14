@@ -1,4 +1,4 @@
-# tkinter — Images
+# tkinter - Images
 
 ### Images
 

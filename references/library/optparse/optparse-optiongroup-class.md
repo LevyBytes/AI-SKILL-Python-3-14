@@ -1,4 +1,4 @@
-# optparse — Grouping Options — Signature and initial contract
+# optparse - Grouping Options - Signature and initial contract
 
 *class *optparse.OptionGroup(*parser*, *title*, *description=None*)
 

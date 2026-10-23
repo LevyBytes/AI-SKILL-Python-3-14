@@ -30,4 +30,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 beta 2 / library / text and unicode: [Python 3.7.0 beta 2 / library / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.7.0 beta 2 / library / tkinter ttk: [Python 3.7.0 beta 2 / library / tkinter ttk](tkinter-ttk.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

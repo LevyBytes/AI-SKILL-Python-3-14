@@ -2,59 +2,59 @@
 
 Select by the documented task or API context. [Topic catalog](context-improved-modules.json).
 
-- Open when checking What's new in Python 3.14 / argparse — argparse. [Improved modules / What's new in Python 3.14 / argparse — argparse](argparse.md).
-- Open when checking What's new in Python 3.14 / calendar — calendar. [Improved modules / What's new in Python 3.14 / calendar — calendar](calendar.md).
-- Open when checking What's new in Python 3.14 / concurrent.futures — concurrent.futures, concurrent.interpreters, multiprocessing, pickle. [Improved modules / What's new in Python 3.14 / concurrent.futures — concurrent.futures, concurrent.interpreters, multiprocessing, pickle](concurrent-futures.md).
-- Open when checking What's new in Python 3.14 / configparser — configparser. [Improved modules / What's new in Python 3.14 / configparser — configparser](configparser.md).
-- Open when checking What's new in Python 3.14 / contextvars — contextvars. [Improved modules / What's new in Python 3.14 / contextvars — contextvars](contextvars.md).
-- Open when checking What's new in Python 3.14 / ctypes — ctypes. [Improved modules / What's new in Python 3.14 / ctypes — ctypes](ctypes.md).
-- Open when checking What's new in Python 3.14 / curses — curses. [Improved modules / What's new in Python 3.14 / curses — curses](curses.md).
-- Open when checking What's new in Python 3.14 / datetime — datetime. [Improved modules / What's new in Python 3.14 / datetime — datetime](datetime.md).
-- Open when checking What's new in Python 3.14 / decimal — decimal. [Improved modules / What's new in Python 3.14 / decimal — decimal](decimal.md).
-- Open when checking What's new in Python 3.14 / dis — dis. [Improved modules / What's new in Python 3.14 / dis — dis](dis.md).
-- Open when checking What's new in Python 3.14 / errno — errno. [Improved modules / What's new in Python 3.14 / errno — errno](errno.md).
-- Open when checking What's new in Python 3.14 / faulthandler — faulthandler. [Improved modules / What's new in Python 3.14 / faulthandler — faulthandler](faulthandler.md).
-- Open when checking What's new in Python 3.14 / fnmatch — fnmatch. [Improved modules / What's new in Python 3.14 / fnmatch — fnmatch](fnmatch.md).
-- Open when checking What's new in Python 3.14 / fractions — fractions. [Improved modules / What's new in Python 3.14 / fractions — fractions](fractions.md).
-- Open when checking What's new in Python 3.14 / functools — functools. [Improved modules / What's new in Python 3.14 / functools — functools](functools.md).
+- Open when checking What's new in Python 3.14 / argparse - argparse. [Improved modules / What's new in Python 3.14 / argparse - argparse](argparse.md).
+- Open when checking What's new in Python 3.14 / calendar - calendar. [Improved modules / What's new in Python 3.14 / calendar - calendar](calendar.md).
+- Open when checking What's new in Python 3.14 / concurrent.futures - concurrent.futures, concurrent.interpreters, multiprocessing, pickle. [Improved modules / What's new in Python 3.14 / concurrent.futures - concurrent.futures, concurrent.interpreters, multiprocessing, pickle](concurrent-futures.md).
+- Open when checking What's new in Python 3.14 / configparser - configparser. [Improved modules / What's new in Python 3.14 / configparser - configparser](configparser.md).
+- Open when checking What's new in Python 3.14 / contextvars - contextvars. [Improved modules / What's new in Python 3.14 / contextvars - contextvars](contextvars.md).
+- Open when checking What's new in Python 3.14 / ctypes - ctypes. [Improved modules / What's new in Python 3.14 / ctypes - ctypes](ctypes.md).
+- Open when checking What's new in Python 3.14 / curses - curses. [Improved modules / What's new in Python 3.14 / curses - curses](curses.md).
+- Open when checking What's new in Python 3.14 / datetime - datetime. [Improved modules / What's new in Python 3.14 / datetime - datetime](datetime.md).
+- Open when checking What's new in Python 3.14 / decimal - decimal. [Improved modules / What's new in Python 3.14 / decimal - decimal](decimal.md).
+- Open when checking What's new in Python 3.14 / dis - dis. [Improved modules / What's new in Python 3.14 / dis - dis](dis.md).
+- Open when checking What's new in Python 3.14 / errno - errno. [Improved modules / What's new in Python 3.14 / errno - errno](errno.md).
+- Open when checking What's new in Python 3.14 / faulthandler - faulthandler. [Improved modules / What's new in Python 3.14 / faulthandler - faulthandler](faulthandler.md).
+- Open when checking What's new in Python 3.14 / fnmatch - fnmatch. [Improved modules / What's new in Python 3.14 / fnmatch - fnmatch](fnmatch.md).
+- Open when checking What's new in Python 3.14 / fractions - fractions. [Improved modules / What's new in Python 3.14 / fractions - fractions](fractions.md).
+- Open when checking What's new in Python 3.14 / functools - functools. [Improved modules / What's new in Python 3.14 / functools - functools](functools.md).
 - Open when checking What's new in Python 3.14 / getopt. [Improved modules / What's new in Python 3.14 / getopt](getopt.md).
-- Open when checking What's new in Python 3.14 / getpass — getpass. [Improved modules / What's new in Python 3.14 / getpass — getpass](getpass.md).
-- Open when checking What's new in Python 3.14 / graphlib — graphlib. [Improved modules / What's new in Python 3.14 / graphlib — graphlib](graphlib.md).
-- Open when checking What's new in Python 3.14 / heapq — heapq. [Improved modules / What's new in Python 3.14 / heapq — heapq](heapq.md).
+- Open when checking What's new in Python 3.14 / getpass - getpass. [Improved modules / What's new in Python 3.14 / getpass - getpass](getpass.md).
+- Open when checking What's new in Python 3.14 / graphlib - graphlib. [Improved modules / What's new in Python 3.14 / graphlib - graphlib](graphlib.md).
+- Open when checking What's new in Python 3.14 / heapq - heapq. [Improved modules / What's new in Python 3.14 / heapq - heapq](heapq.md).
 - Open when checking What's new in Python 3.14 / hmac. [Improved modules / What's new in Python 3.14 / hmac](hmac.md).
-- Open when checking What's new in Python 3.14 / http — http.server. [Improved modules / What's new in Python 3.14 / http — http.server](http.md).
-- Open when checking What's new in Python 3.14 / imaplib — imaplib. [Improved modules / What's new in Python 3.14 / imaplib — imaplib](imaplib.md).
-- Open when checking What's new in Python 3.14 / inspect — annotationlib, inspect. [Improved modules / What's new in Python 3.14 / inspect — annotationlib, inspect](inspect.md).
-- Open when checking What's new in Python 3.14 / json — json. [Improved modules / What's new in Python 3.14 / json — json](json.md).
-- Open when checking What's new in Python 3.14 / linecache — linecache. [Improved modules / What's new in Python 3.14 / linecache — linecache](linecache.md).
-- Open when checking What's new in Python 3.14 / logging.handlers — logging.handlers. [Improved modules / What's new in Python 3.14 / logging.handlers — logging.handlers](logging-handlers.md).
+- Open when checking What's new in Python 3.14 / http - http.server. [Improved modules / What's new in Python 3.14 / http - http.server](http.md).
+- Open when checking What's new in Python 3.14 / imaplib - imaplib. [Improved modules / What's new in Python 3.14 / imaplib - imaplib](imaplib.md).
+- Open when checking What's new in Python 3.14 / inspect - annotationlib, inspect. [Improved modules / What's new in Python 3.14 / inspect - annotationlib, inspect](inspect.md).
+- Open when checking What's new in Python 3.14 / json - json. [Improved modules / What's new in Python 3.14 / json - json](json.md).
+- Open when checking What's new in Python 3.14 / linecache - linecache. [Improved modules / What's new in Python 3.14 / linecache - linecache](linecache.md).
+- Open when checking What's new in Python 3.14 / logging.handlers - logging.handlers. [Improved modules / What's new in Python 3.14 / logging.handlers - logging.handlers](logging-handlers.md).
 - Open when checking What's new in Python 3.14 / math. [Improved modules / What's new in Python 3.14 / math](math.md).
 - Open when checking font MIME registrations and remaining mappings in Python 3.14 changes. [Python 3.14 changes: Font MIME registrations and remaining mappings](mimetypes-opentype-layout-otf-font-otf.md).
 - Open when checking archive, Android and application MIME additions in Python 3.14 changes. [Python 3.14 changes: Archive, Android and application MIME additions](mimetypes-add-7z-application-x-7z-compressed-7z.md).
-- Open when checking What's new in Python 3.14 / mimetypes — mimetypes. [Improved modules / What's new in Python 3.14 / mimetypes — mimetypes](mimetypes-mimetypes.md).
-- Open when checking What's new in Python 3.14 / multiprocessing — multiprocessing, pickle, signal. [Improved modules / What's new in Python 3.14 / multiprocessing — multiprocessing, pickle, signal](multiprocessing.md).
-- Open when checking What's new in Python 3.14 / operator — operator. [Improved modules / What's new in Python 3.14 / operator — operator](operator.md).
-- Open when checking What's new in Python 3.14 / os — os. [Improved modules / What's new in Python 3.14 / os — os](os.md).
-- Open when checking What's new in Python 3.14 / os.path — os.path. [Improved modules / What's new in Python 3.14 / os.path — os.path](os-path.md).
-- Open when checking What's new in Python 3.14 / pickle — pickle. [Improved modules / What's new in Python 3.14 / pickle — pickle](pickle.md).
-- Open when checking What's new in Python 3.14 / platform — platform. [Improved modules / What's new in Python 3.14 / platform — platform](platform.md).
+- Open when checking What's new in Python 3.14 / mimetypes - mimetypes. [Improved modules / What's new in Python 3.14 / mimetypes - mimetypes](mimetypes-mimetypes.md).
+- Open when checking What's new in Python 3.14 / multiprocessing - multiprocessing, pickle, signal. [Improved modules / What's new in Python 3.14 / multiprocessing - multiprocessing, pickle, signal](multiprocessing.md).
+- Open when checking What's new in Python 3.14 / operator - operator. [Improved modules / What's new in Python 3.14 / operator - operator](operator.md).
+- Open when checking What's new in Python 3.14 / os - os. [Improved modules / What's new in Python 3.14 / os - os](os.md).
+- Open when checking What's new in Python 3.14 / os.path - os.path. [Improved modules / What's new in Python 3.14 / os.path - os.path](os-path.md).
+- Open when checking What's new in Python 3.14 / pickle - pickle. [Improved modules / What's new in Python 3.14 / pickle - pickle](pickle.md).
+- Open when checking What's new in Python 3.14 / platform - platform. [Improved modules / What's new in Python 3.14 / platform - platform](platform.md).
 - Open when checking What's new in Python 3.14 / pydoc. [Improved modules / What's new in Python 3.14 / pydoc](pydoc.md).
-- Open when checking What's new in Python 3.14 / re — re. [Improved modules / What's new in Python 3.14 / re — re](re.md).
-- Open when checking What's new in Python 3.14 / socket — socket. [Improved modules / What's new in Python 3.14 / socket — socket](socket.md).
-- Open when checking What's new in Python 3.14 / ssl — ssl. [Improved modules / What's new in Python 3.14 / ssl — ssl](ssl.md).
-- Open when checking What's new in Python 3.14 / struct — struct. [Improved modules / What's new in Python 3.14 / struct — struct](struct.md).
-- Open when checking What's new in Python 3.14 / symtable — symtable. [Improved modules / What's new in Python 3.14 / symtable — symtable](symtable.md).
-- Open when checking What's new in Python 3.14 / sys — sys. [Improved modules / What's new in Python 3.14 / sys — sys](sys.md).
-- Open when checking What's new in Python 3.14 / sys.monitoring — sys.monitoring. [Improved modules / What's new in Python 3.14 / sys.monitoring — sys.monitoring](sys-monitoring.md).
-- Open when checking What's new in Python 3.14 / sysconfig — sysconfig. [Improved modules / What's new in Python 3.14 / sysconfig — sysconfig](sysconfig.md).
-- Open when checking What's new in Python 3.14 / tarfile — tarfile. [Improved modules / What's new in Python 3.14 / tarfile — tarfile](tarfile.md).
-- Open when checking What's new in Python 3.14 / threading — threading. [Improved modules / What's new in Python 3.14 / threading — threading](threading.md).
+- Open when checking What's new in Python 3.14 / re - re. [Improved modules / What's new in Python 3.14 / re - re](re.md).
+- Open when checking What's new in Python 3.14 / socket - socket. [Improved modules / What's new in Python 3.14 / socket - socket](socket.md).
+- Open when checking What's new in Python 3.14 / ssl - ssl. [Improved modules / What's new in Python 3.14 / ssl - ssl](ssl.md).
+- Open when checking What's new in Python 3.14 / struct - struct. [Improved modules / What's new in Python 3.14 / struct - struct](struct.md).
+- Open when checking What's new in Python 3.14 / symtable - symtable. [Improved modules / What's new in Python 3.14 / symtable - symtable](symtable.md).
+- Open when checking What's new in Python 3.14 / sys - sys. [Improved modules / What's new in Python 3.14 / sys - sys](sys.md).
+- Open when checking What's new in Python 3.14 / sys.monitoring - sys.monitoring. [Improved modules / What's new in Python 3.14 / sys.monitoring - sys.monitoring](sys-monitoring.md).
+- Open when checking What's new in Python 3.14 / sysconfig - sysconfig. [Improved modules / What's new in Python 3.14 / sysconfig - sysconfig](sysconfig.md).
+- Open when checking What's new in Python 3.14 / tarfile - tarfile. [Improved modules / What's new in Python 3.14 / tarfile - tarfile](tarfile.md).
+- Open when checking What's new in Python 3.14 / threading - threading. [Improved modules / What's new in Python 3.14 / threading - threading](threading.md).
 - Open when checking What's new in Python 3.14 / tkinter. [Improved modules / What's new in Python 3.14 / tkinter](tkinter.md).
-- Open when checking What's new in Python 3.14 / turtle — turtle. [Improved modules / What's new in Python 3.14 / turtle — turtle](turtle.md).
-- Open when checking What's new in Python 3.14 / types — types, typing. [Improved modules / What's new in Python 3.14 / types — types, typing](types.md).
-- Open when checking What's new in Python 3.14 / typing — types, typing. [Improved modules / What's new in Python 3.14 / typing — types, typing](typing.md).
+- Open when checking What's new in Python 3.14 / turtle - turtle. [Improved modules / What's new in Python 3.14 / turtle - turtle](turtle.md).
+- Open when checking What's new in Python 3.14 / types - types, typing. [Improved modules / What's new in Python 3.14 / types - types, typing](types.md).
+- Open when checking What's new in Python 3.14 / typing - types, typing. [Improved modules / What's new in Python 3.14 / typing - types, typing](typing.md).
 - Open when checking What's new in Python 3.14 / unicodedata. [Improved modules / What's new in Python 3.14 / unicodedata](unicodedata.md).
-- Open when checking What's new in Python 3.14 / unittest — unittest. [Improved modules / What's new in Python 3.14 / unittest — unittest](unittest.md).
-- Open when checking What's new in Python 3.14 / webbrowser — webbrowser. [Improved modules / What's new in Python 3.14 / webbrowser — webbrowser](webbrowser.md).
-- Open when checking What's new in Python 3.14 / zipfile — zipfile. [Improved modules / What's new in Python 3.14 / zipfile — zipfile](zipfile.md).
+- Open when checking What's new in Python 3.14 / unittest - unittest. [Improved modules / What's new in Python 3.14 / unittest - unittest](unittest.md).
+- Open when checking What's new in Python 3.14 / webbrowser - webbrowser. [Improved modules / What's new in Python 3.14 / webbrowser - webbrowser](webbrowser.md).
+- Open when checking What's new in Python 3.14 / zipfile - zipfile. [Improved modules / What's new in Python 3.14 / zipfile - zipfile](zipfile.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / Changes in the Python API — datetime, html.parser, ssl
+# What’s New In Python 3.5 / Changes in the Python API - datetime, html.parser, ssl
 
 ### Changes in the Python API
 

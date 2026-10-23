@@ -1,6 +1,6 @@
 # stdtypes: `set`, `frozenset`
 
-### Set Types — `set`, `frozenset`
+### Set Types`set`, `frozenset`
 
 A *set* object is an unordered grouping of distinct [hashable](https://docs.python.org/3.14/glossary.html#term-hashable) objects. Typical applications are checking membership, stripping duplicates out of a sequence, and computing math-style results such as union, intersection, symmetric difference, and difference. (Regarding other containers, consult the built-in `dict`, `list`, and `tuple` classes together with the [`collections`](https://docs.python.org/3.14/library/collections.html#module-collections) module.)
 

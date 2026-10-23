@@ -1,8 +1,8 @@
-# nis — `nis` — Interface to Sun’s NIS (Yellow Pages)
+# nis`nis` - Interface to Sun’s NIS (Yellow Pages)
 
-## nis — Interface to Sun’s NIS (Yellow Pages)
+## nis - Interface to Sun’s NIS (Yellow Pages)
 
-### `nis` — Interface to Sun’s NIS (Yellow Pages)
+### `nis` - Interface to Sun’s NIS (Yellow Pages)
 
 Deprecated since version 3.11, removed in version 3.13.
 

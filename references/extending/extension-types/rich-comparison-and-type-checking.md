@@ -1,4 +1,4 @@
-# More Suggestions — tp_richcompare, PyObject_TypeCheck, PyErr_SetString, PyExc_TypeError
+# More Suggestions - tp_richcompare, PyObject_TypeCheck, PyErr_SetString, PyExc_TypeError
 
 ### 3.7. More Suggestions
 

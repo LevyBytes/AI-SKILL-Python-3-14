@@ -1,6 +1,6 @@
-# curses.panel — `curses.panel` — A panel stack extension for curses
+# curses.panel`curses.panel` - A panel stack extension for curses
 
-### `curses.panel` — A panel stack extension for curses
+### `curses.panel` - A panel stack extension for curses
 
 ---
 

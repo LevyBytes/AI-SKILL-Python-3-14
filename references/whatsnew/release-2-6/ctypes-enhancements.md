@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / ctypes Enhancements — ctypes
+# What’s New in Python 2.6 / ctypes Enhancements - ctypes
 
 ### ctypes Enhancements
 

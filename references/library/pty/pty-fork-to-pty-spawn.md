@@ -1,6 +1,6 @@
-# pty — `pty` — Pseudo-terminal utilities
+# pty`pty` - Pseudo-terminal utilities
 
-### `pty` — Pseudo-terminal utilities
+### `pty` - Pseudo-terminal utilities
 
 **Source code:** [Lib/pty.py](https://github.com/python/cpython/tree/3.14/Lib/pty.py)
 

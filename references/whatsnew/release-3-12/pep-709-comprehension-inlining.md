@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / PEP 709: Comprehension inlining — symtable
+# What’s New In Python 3.12 / PEP 709: Comprehension inlining - symtable
 
 ### PEP 709: Comprehension inlining
 

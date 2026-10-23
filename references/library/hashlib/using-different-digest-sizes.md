@@ -1,4 +1,4 @@
-# hashlib — Using different digest sizes
+# hashlib - Using different digest sizes
 
 #### Using different digest sizes
 

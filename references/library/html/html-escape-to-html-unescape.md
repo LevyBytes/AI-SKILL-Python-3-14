@@ -1,8 +1,8 @@
-# html — `html` — HyperText Markup Language support
+# html`html` - HyperText Markup Language support
 
-## html — HyperText Markup Language support
+## html - HyperText Markup Language support
 
-### `html` — HyperText Markup Language support
+### `html` - HyperText Markup Language support
 
 **Source code:** [Lib/html/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/html/__init__.py)
 

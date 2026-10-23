@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / Optimizations — configparser, http.server, operator, pickle, threading
+# What's New In Python 3.2 / Optimizations - configparser, http.server, operator, pickle, threading
 
 ### Optimizations
 

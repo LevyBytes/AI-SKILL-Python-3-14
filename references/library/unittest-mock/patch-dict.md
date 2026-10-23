@@ -1,4 +1,4 @@
-# unittest.mock — patch.dict — Signature and initial contract
+# unittest.mock - patch.dict - Signature and initial contract
 
 ### patch.dict
 

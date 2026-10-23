@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / **PEP 784**: Zstandard support in the standard library — bz2, gzip, lzma, shutil, tarfile, zipfile, zlib
+# What's new in Python 3.14 / **PEP 784**: Zstandard support in the standard library - bz2, gzip, lzma, shutil, tarfile, zipfile, zlib
 
 ### [**PEP 784**](https://peps.python.org/pep-0784/): Zstandard support in the standard library
 

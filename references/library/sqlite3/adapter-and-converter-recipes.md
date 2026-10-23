@@ -1,4 +1,4 @@
-# sqlite3 — Adapter and converter recipes
+# sqlite3 - Adapter and converter recipes
 
 ### Adapter and converter recipes
 

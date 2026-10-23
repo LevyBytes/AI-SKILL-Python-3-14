@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / asyncio — asyncio-eventloop
+# What's New In Python 3.10 / asyncio - asyncio-eventloop
 
 ### Improved Modules
 

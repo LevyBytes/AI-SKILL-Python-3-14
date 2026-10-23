@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / inspect — inspect
+# What's New In Python 3.10 / inspect - inspect
 
 ### inspect
 

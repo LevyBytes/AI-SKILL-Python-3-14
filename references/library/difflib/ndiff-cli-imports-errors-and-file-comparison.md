@@ -1,4 +1,4 @@
-# difflib — ndiff example — ndiff CLI contract, imports, fail, fopen and fcompare
+# difflib - ndiff example - ndiff CLI contract, imports, fail, fopen and fcompare
 
 Open the [complete example modules](../../examples/ndiff-command/INDEX.md) for the complete definitions, imports and entrypoint.
 

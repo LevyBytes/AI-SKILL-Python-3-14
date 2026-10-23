@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / errno — errno
+# What's new in Python 3.14 / errno - errno
 
 ### errno
 

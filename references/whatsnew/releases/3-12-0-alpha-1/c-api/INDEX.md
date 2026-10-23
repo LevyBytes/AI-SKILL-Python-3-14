@@ -25,4 +25,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 1 / c api / unicode: [Python 3.12.0 alpha 1 / c api / unicode](unicode.md).
 - Open when checking Python 3.12.0 alpha 1 / c api / warnings: [Python 3.12.0 alpha 1 / c api / warnings](warnings.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

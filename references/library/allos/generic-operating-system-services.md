@@ -1,6 +1,6 @@
 # Generic Operating System Services
 
-- [`logging.handlers` — Logging handlers](https://docs.python.org/3.14/library/logging.handlers.html)
+- [`logging.handlers` - Logging handlers](https://docs.python.org/3.14/library/logging.handlers.html)
   - [StreamHandler](https://docs.python.org/3.14/library/logging.handlers.html#streamhandler)
   - [FileHandler](https://docs.python.org/3.14/library/logging.handlers.html#filehandler)
   - [NullHandler](https://docs.python.org/3.14/library/logging.handlers.html#nullhandler)
@@ -18,7 +18,7 @@
   - [QueueHandler](https://docs.python.org/3.14/library/logging.handlers.html#queuehandler)
   - [QueueListener](https://docs.python.org/3.14/library/logging.handlers.html#queuelistener)
 
-- [`platform` — Access to underlying platform’s identifying data](https://docs.python.org/3.14/library/platform.html)
+- [`platform` - Access to underlying platform’s identifying data](https://docs.python.org/3.14/library/platform.html)
   - [Cross platform](https://docs.python.org/3.14/library/platform.html#cross-platform)
   - [Java platform](https://docs.python.org/3.14/library/platform.html#java-platform)
   - [Windows platform](https://docs.python.org/3.14/library/platform.html#windows-platform)
@@ -29,8 +29,8 @@
   - [Android platform](https://docs.python.org/3.14/library/platform.html#android-platform)
   - [Command-line usage](https://docs.python.org/3.14/library/platform.html#command-line-usage)
 
-- [`errno` — Standard errno system symbols](https://docs.python.org/3.14/library/errno.html)
-- [`ctypes` — A foreign function library for Python](https://docs.python.org/3.14/library/ctypes.html)
+- [`errno` - Standard errno system symbols](https://docs.python.org/3.14/library/errno.html)
+- [`ctypes` - A foreign function library for Python](https://docs.python.org/3.14/library/ctypes.html)
   - [ctypes tutorial](https://docs.python.org/3.14/library/ctypes.html#ctypes-tutorial)
     - [Loading dynamic link libraries](https://docs.python.org/3.14/library/ctypes.html#loading-dynamic-link-libraries)
     - [Accessing functions from loaded dlls](https://docs.python.org/3.14/library/ctypes.html#accessing-functions-from-loaded-dlls)

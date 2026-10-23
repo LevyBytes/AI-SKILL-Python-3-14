@@ -1,4 +1,4 @@
-# argparse — metavar
+# argparse - metavar
 
 ### metavar
 

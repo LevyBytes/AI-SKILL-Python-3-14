@@ -1,4 +1,4 @@
-# zoneinfo — Pickle serialization
+# zoneinfo - Pickle serialization
 
 ### Pickle serialization
 

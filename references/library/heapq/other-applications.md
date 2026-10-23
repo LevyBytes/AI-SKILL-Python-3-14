@@ -1,4 +1,4 @@
-# heapq — Other Applications
+# heapq - Other Applications
 
 ### Other Applications
 

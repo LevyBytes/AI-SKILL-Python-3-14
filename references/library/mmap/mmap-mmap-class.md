@@ -1,8 +1,8 @@
 # mmap: `mmap.mmap`
 
-## mmap — Memory-mapped file support
+## mmap - Memory-mapped file support
 
-### `mmap` — Memory-mapped file support
+### `mmap` - Memory-mapped file support
 
 ---
 

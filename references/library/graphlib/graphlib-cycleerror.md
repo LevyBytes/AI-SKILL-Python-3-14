@@ -1,4 +1,4 @@
-# graphlib — Exceptions
+# graphlib - Exceptions
 
 ### Exceptions
 

@@ -1,4 +1,4 @@
-# doctest — Simple Usage: Checking Examples in Docstrings
+# doctest - Simple Usage: Checking Examples in Docstrings
 
 ### Simple Usage: Checking Examples in Docstrings
 

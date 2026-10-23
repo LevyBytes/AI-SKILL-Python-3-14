@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / tarfile — lzma, tarfile
+# What's New In Python 3.3 / tarfile - lzma, tarfile
 
 ### tarfile
 

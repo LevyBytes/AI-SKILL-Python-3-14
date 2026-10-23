@@ -1,4 +1,4 @@
-# logging.config — Configuring QueueHandler and QueueListener
+# logging.config - Configuring QueueHandler and QueueListener
 
 ### Configuring QueueHandler and QueueListener
 

@@ -1,4 +1,4 @@
-# codecs — Incremental Encoding and Decoding
+# codecs - Incremental Encoding and Decoding
 
 ### Incremental Encoding and Decoding
 

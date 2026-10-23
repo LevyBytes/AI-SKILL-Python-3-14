@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / PEP 519: Adding a file system path protocol — os, os.path, pathlib
+# What's New In Python 3.6 / PEP 519: Adding a file system path protocol - os, os.path, pathlib
 
 ### PEP 519: Adding a file system path protocol
 
@@ -32,7 +32,7 @@ Below are a few illustrations of how this interface makes [`pathlib.Path`](https
 
 See also
 
-[**PEP 519**](https://peps.python.org/pep-0519/) — Adding a file system path protocol
+[**PEP 519**](https://peps.python.org/pep-0519/): Adding a file system path protocol
 
 PEP written by Brett Cannon and Koos Zevenhoven.
 

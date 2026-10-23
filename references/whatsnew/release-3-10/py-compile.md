@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / py_compile — py_compile
+# What's New In Python 3.10 / py_compile - py_compile
 
 ### py_compile
 

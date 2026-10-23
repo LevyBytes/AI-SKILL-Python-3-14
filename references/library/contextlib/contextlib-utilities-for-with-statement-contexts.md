@@ -1,6 +1,6 @@
-# contextlib — `contextlib` — Utilities for `with`-statement contexts
+# contextlib`contextlib` - Utilities for `with`-statement contexts
 
-### `contextlib` — Utilities for `with`-statement contexts
+### `contextlib` - Utilities for `with`-statement contexts
 
 **Source code:** [Lib/contextlib.py](https://github.com/python/cpython/tree/3.14/Lib/contextlib.py)
 

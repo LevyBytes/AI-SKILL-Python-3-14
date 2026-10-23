@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Summary — Release Highlights — asyncio, contextvars, dataclasses, time
+# What's New In Python 3.7 / Summary - Release Highlights - asyncio, contextvars, dataclasses, time
 
 ### What's New In Python 3.7
 
@@ -8,7 +8,7 @@ Elvis Pranskevichus <[elvis@magic.io](mailto:elvis%40magic.io)>
 
 This writeup covers what arrived in Python 3.7 relative to 3.6. The 3.7 release shipped on June 27, 2018. The complete record lives in the [changelog](https://docs.python.org/3.14/whatsnew/changelog.html#changelog).
 
-### Summary — Release Highlights
+### Summary - Release Highlights
 
 New syntax features:
 

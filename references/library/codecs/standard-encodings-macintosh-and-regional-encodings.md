@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — Macintosh and regional encodings
+# codecs - Standard Encodings - Macintosh and regional encodings
 
 | Codec | Aliases | Languages |
 | --- | --- | --- |

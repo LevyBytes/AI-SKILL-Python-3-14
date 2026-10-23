@@ -1,4 +1,4 @@
-# ssl — Combined key and certificate
+# ssl - Combined key and certificate
 
 ### Combined key and certificate
 

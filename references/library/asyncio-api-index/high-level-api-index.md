@@ -1,4 +1,4 @@
-# asyncio — High-level API Index
+# asyncio - High-level API Index
 
 ## High-level API Index
 

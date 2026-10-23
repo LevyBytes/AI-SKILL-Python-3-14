@@ -1,9 +1,9 @@
 ---
 name: distributing
-description: "Use when packaging or distributing your own Python modules - the official overview that routes to the Python Packaging User Guide. A short pointer-level section, not the full packaging workflow."
+description: "Use when packaging or distributing your own Python modules: the official overview pointing to the Python Packaging User Guide, not the full packaging workflow."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-14"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

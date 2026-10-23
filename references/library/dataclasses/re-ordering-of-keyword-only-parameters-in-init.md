@@ -1,4 +1,4 @@
-# dataclasses — Re-ordering of keyword-only parameters in `__init__()`
+# dataclasses - Re-ordering of keyword-only parameters in `__init__()`
 
 ### Re-ordering of keyword-only parameters in `__init__()`
 

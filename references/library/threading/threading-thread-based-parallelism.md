@@ -1,6 +1,6 @@
-# threading — `threading` — Thread-based parallelism
+# threading`threading` - Thread-based parallelism
 
-### `threading` — Thread-based parallelism
+### `threading` - Thread-based parallelism
 
 **Source code:** [Lib/threading.py](https://github.com/python/cpython/tree/3.14/Lib/threading.py)
 

@@ -1,4 +1,4 @@
-# ctypes — Calling variadic functions
+# ctypes - Calling variadic functions
 
 ### Calling variadic functions
 

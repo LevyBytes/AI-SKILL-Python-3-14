@@ -1,4 +1,4 @@
-# dataclasses — Default factory functions
+# dataclasses - Default factory functions
 
 ### Default factory functions
 

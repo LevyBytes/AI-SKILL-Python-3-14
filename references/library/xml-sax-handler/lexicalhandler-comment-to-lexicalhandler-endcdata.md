@@ -1,4 +1,4 @@
-# xml.sax.handler — LexicalHandler Objects
+# xml.sax.handler - LexicalHandler Objects
 
 ### LexicalHandler Objects
 

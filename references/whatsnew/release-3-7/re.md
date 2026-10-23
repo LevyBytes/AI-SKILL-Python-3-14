@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / re — copy, re
+# What's New In Python 3.7 / re - copy, re
 
 ### re
 

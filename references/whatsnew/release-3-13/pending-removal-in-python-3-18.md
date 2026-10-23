@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Pending removal in Python 3.18 — decimal
+# What's New In Python 3.13 / Pending removal in Python 3.18 - decimal
 
 ### Pending removal in Python 3.18
 

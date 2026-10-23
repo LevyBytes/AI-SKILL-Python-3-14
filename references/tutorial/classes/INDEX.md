@@ -21,4 +21,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 9.4. Random Remarks: [9.4. Random Remarks](random-remarks.md).
 - Open when checking 9.2.1. Scopes and Namespaces Example: [9.2.1. Scopes and Namespaces Example](scopes-and-namespaces-example.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

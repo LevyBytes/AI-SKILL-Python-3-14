@@ -1,4 +1,4 @@
-# weakref — Finalizer Objects
+# weakref - Finalizer Objects
 
 ### Finalizer Objects
 

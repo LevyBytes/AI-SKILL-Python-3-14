@@ -1,4 +1,4 @@
-# decimal — Quick-start tutorial — Code example: >>> myothercontext = Context(prec=60, rounding=ROUND_HALF_DOWN)
+# decimal - Quick-start tutorial - Code example: >>> myothercontext = Context(prec=60, rounding=ROUND_HALF_DOWN)
 
 ```pycon
 >>> myothercontext = Context(prec=60, rounding=ROUND_HALF_DOWN)

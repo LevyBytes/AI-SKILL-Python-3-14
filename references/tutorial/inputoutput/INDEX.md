@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 7.2.2. Saving structured data with `json`: [7.2.2. Saving structured data with `json`](saving-structured-data-with-json.md).
 - Open when checking 7.1.2. The String format() Method: [7.1.2. The String format() Method](the-string-format-method.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

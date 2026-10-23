@@ -1,4 +1,4 @@
-# optparse — Standard option types
+# optparse - Standard option types
 
 Writes to stdout the version number handed to the OptionParser and then exits. The actual formatting and printing of that version number falls to OptionParser's `print_version()` method. It only matters, by and large, when the `version` argument was given to the OptionParser constructor. Just as with `help` options, you will seldom build `version` options yourself, because `optparse` adds them automatically whenever they are needed.
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / warnings — tracemalloc, warnings
+# What's New In Python 3.6 / warnings - tracemalloc, warnings
 
 ### warnings
 

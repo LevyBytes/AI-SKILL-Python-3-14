@@ -1,4 +1,4 @@
-# platform — macOS platform
+# platform - macOS platform
 
 ### macOS platform
 

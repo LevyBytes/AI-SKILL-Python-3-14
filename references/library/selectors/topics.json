@@ -8,8 +8,8 @@
   {"topic": "selectors / Classes: `selectors.EpollSelector`, `fileno()`", "file": "epoll-selector.md", "summary": "Open when checking the documented contracts for `selectors.EpollSelector`, `fileno()` in selectors / Classes.", "keywords": []},
   {"topic": "selectors / Classes: `selectors.DevpollSelector`, `fileno()`", "file": "devpoll-selector.md", "summary": "Open when checking the documented contracts for `selectors.DevpollSelector`, `fileno()` in selectors / Classes.", "keywords": []},
   {"topic": "selectors / Classes: `selectors.KqueueSelector`, `fileno()`", "file": "kqueue-selector.md", "summary": "Open when checking the documented contracts for `selectors.KqueueSelector`, `fileno()` in selectors / Classes.", "keywords": []},
-  {"topic": "selectors — Examples", "file": "selectors/examples.md", "summary": "Open when checking selectors — Examples.", "keywords": []},
-  {"topic": "selectors — Introduction", "file": "selectors/introduction.md", "summary": "Open when checking selectors — Introduction.", "keywords": []},
-  {"topic": "selectors — `selectors` — High-level I/O multiplexing", "file": "selectors/selectors-high-level-i-o-multiplexing.md", "summary": "Open when checking selectors — `selectors` — High-level I/O multiplexing.", "keywords": []},
+  {"topic": "selectors - Examples", "file": "selectors/examples.md", "summary": "Open when checking selectors - Examples.", "keywords": []},
+  {"topic": "selectors - Introduction", "file": "selectors/introduction.md", "summary": "Open when checking selectors - Introduction.", "keywords": []},
+  {"topic": "selectors - `selectors` - High-level I/O multiplexing", "file": "selectors/selectors-high-level-i-o-multiplexing.md", "summary": "Open when checking selectors - `selectors` - High-level I/O multiplexing.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

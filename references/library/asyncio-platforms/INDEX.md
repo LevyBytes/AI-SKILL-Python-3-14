@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Subprocess Support on Windows: [Subprocess Support on Windows](subprocess-support-on-windows.md).
 - Open when checking Windows: [Windows](windows.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

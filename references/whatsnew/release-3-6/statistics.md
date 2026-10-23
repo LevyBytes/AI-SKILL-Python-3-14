@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / statistics — statistics
+# What's New In Python 3.6 / statistics - statistics
 
 ### statistics
 

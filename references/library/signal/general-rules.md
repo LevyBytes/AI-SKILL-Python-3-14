@@ -1,4 +1,4 @@
-# signal — General rules
+# signal - General rules
 
 ### General rules
 

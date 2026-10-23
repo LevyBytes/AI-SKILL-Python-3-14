@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / plistlib — plistlib
+# What’s New In Python 3.8 / plistlib - plistlib
 
 ### plistlib
 

@@ -1,4 +1,4 @@
-# http.client — HTTPMessage Objects
+# http.client - HTTPMessage Objects
 
 ### HTTPMessage Objects
 

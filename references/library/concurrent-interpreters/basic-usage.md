@@ -1,4 +1,4 @@
-# concurrent.interpreters — Basic usage
+# concurrent.interpreters - Basic usage
 
 ### Basic usage
 

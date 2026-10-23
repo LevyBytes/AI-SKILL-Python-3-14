@@ -8,7 +8,7 @@ The modules covered in this chapter make it possible to keep Python data on disk
 
 Here are the modules covered in this chapter:
 
-- [`pickle` — Python object serialization](https://docs.python.org/3.14/library/pickle.html)
+- [`pickle` - Python object serialization](https://docs.python.org/3.14/library/pickle.html)
   - [Relationship to other Python modules](https://docs.python.org/3.14/library/pickle.html#relationship-to-other-python-modules)
     - [Comparison with `marshal`](https://docs.python.org/3.14/library/pickle.html#comparison-with-marshal)
     - [Comparison with `json`](https://docs.python.org/3.14/library/pickle.html#comparison-with-json)
@@ -32,21 +32,21 @@ Here are the modules covered in this chapter:
   - [Examples](https://docs.python.org/3.14/library/pickle.html#examples)
   - [Command-line interface](https://docs.python.org/3.14/library/pickle.html#command-line-interface)
 
-- [`copyreg` — Register `pickle` support functions](https://docs.python.org/3.14/library/copyreg.html)
+- [`copyreg` - Register `pickle` support functions](https://docs.python.org/3.14/library/copyreg.html)
   - [Example](https://docs.python.org/3.14/library/copyreg.html#example)
 
-- [`shelve` — Python object persistence](https://docs.python.org/3.14/library/shelve.html)
+- [`shelve` - Python object persistence](https://docs.python.org/3.14/library/shelve.html)
   - [Restrictions](https://docs.python.org/3.14/library/shelve.html#restrictions)
   - [Example](https://docs.python.org/3.14/library/shelve.html#example)
 
-- [`marshal` — Internal Python object serialization](https://docs.python.org/3.14/library/marshal.html)
-- [`dbm` — Interfaces to Unix “databases”](https://docs.python.org/3.14/library/dbm.html)
-  - [`dbm.sqlite3` — SQLite backend for dbm](https://docs.python.org/3.14/library/dbm.html#module-dbm.sqlite3)
-  - [`dbm.gnu` — GNU database manager](https://docs.python.org/3.14/library/dbm.html#module-dbm.gnu)
-  - [`dbm.ndbm` — New Database Manager](https://docs.python.org/3.14/library/dbm.html#module-dbm.ndbm)
-  - [`dbm.dumb` — Portable DBM implementation](https://docs.python.org/3.14/library/dbm.html#module-dbm.dumb)
+- [`marshal` - Internal Python object serialization](https://docs.python.org/3.14/library/marshal.html)
+- [`dbm` - Interfaces to Unix “databases”](https://docs.python.org/3.14/library/dbm.html)
+  - [`dbm.sqlite3` - SQLite backend for dbm](https://docs.python.org/3.14/library/dbm.html#module-dbm.sqlite3)
+  - [`dbm.gnu` - GNU database manager](https://docs.python.org/3.14/library/dbm.html#module-dbm.gnu)
+  - [`dbm.ndbm` - New Database Manager](https://docs.python.org/3.14/library/dbm.html#module-dbm.ndbm)
+  - [`dbm.dumb` - Portable DBM implementation](https://docs.python.org/3.14/library/dbm.html#module-dbm.dumb)
 
-- [`sqlite3` — DB-API 2.0 interface for SQLite databases](https://docs.python.org/3.14/library/sqlite3.html)
+- [`sqlite3` - DB-API 2.0 interface for SQLite databases](https://docs.python.org/3.14/library/sqlite3.html)
   - [Tutorial](https://docs.python.org/3.14/library/sqlite3.html#tutorial)
   - [Reference](https://docs.python.org/3.14/library/sqlite3.html#reference)
     - [Module functions](https://docs.python.org/3.14/library/sqlite3.html#module-functions)

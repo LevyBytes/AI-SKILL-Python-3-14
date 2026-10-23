@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / filecmp — filecmp, os
+# What's New In Python 3.4 / filecmp - filecmp, os
 
 ### filecmp
 

@@ -11,4 +11,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 beta 2 / windows / windowsconsoleio fileno passes wrong flags open osfhandle: [Python 3.6.0 beta 2 / windows / windowsconsoleio fileno passes wrong flags open osfhandle](windowsconsoleio-fileno-passes-wrong-flags-open-osfhandle.md).
 - Open when checking Python 3.6.0 beta 2 / windows / windowsconsoleio readall fails if first line starts ctrl z: [Python 3.6.0 beta 2 / windows / windowsconsoleio readall fails if first line starts ctrl z](windowsconsoleio-readall-fails-if-first-line-starts-ctrl-z.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

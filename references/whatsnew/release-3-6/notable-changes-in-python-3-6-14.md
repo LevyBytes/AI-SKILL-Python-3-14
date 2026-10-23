@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Notable changes in Python 3.6.14 — ftplib, urllib.parse
+# What's New In Python 3.6 / Notable changes in Python 3.6.14 - ftplib, urllib.parse
 
 ### Notable changes in Python 3.6.14
 

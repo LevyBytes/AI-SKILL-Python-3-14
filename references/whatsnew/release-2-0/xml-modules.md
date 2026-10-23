@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / XML Modules — xml
+# What’s New in Python 2.0 / XML Modules - xml
 
 ### XML Modules
 

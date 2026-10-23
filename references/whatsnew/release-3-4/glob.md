@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / glob — glob
+# What's New In Python 3.4 / glob - glob
 
 ### glob
 

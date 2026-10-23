@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Concurrent safe warnings control — sys, warnings
+# What's new in Python 3.14 / Concurrent safe warnings control - sys, warnings
 
 > (Contributed by Pablo Galindo, Łukasz Langa, Yury Selivanov, and Marta Gomez Macias in [gh-91048](https://github.com/python/cpython/issues/91048).)
 

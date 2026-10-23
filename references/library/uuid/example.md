@@ -1,4 +1,4 @@
-# uuid — Example
+# uuid - Example
 
 ### Example
 

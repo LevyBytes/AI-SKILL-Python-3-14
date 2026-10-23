@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 3116: New I/O Library — io, readline
+# What’s New in Python 2.6 / PEP 3116: New I/O Library - io, readline
 
 ### PEP 3116: New I/O Library
 

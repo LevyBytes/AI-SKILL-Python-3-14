@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / email — email.compat32-message, email.contentmanager, email.examples, email.generator, email.message, email.policy
+# What's New In Python 3.4 / email - email.compat32-message, email.contentmanager, email.examples, email.generator, email.message, email.policy
 
 ### email
 

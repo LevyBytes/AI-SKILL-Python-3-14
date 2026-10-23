@@ -1,6 +1,6 @@
-# signal — `signal` — Set handlers for asynchronous events
+# signal`signal` - Set handlers for asynchronous events
 
-### `signal` — Set handlers for asynchronous events
+### `signal` - Set handlers for asynchronous events
 
 **Source code:** [Lib/signal.py](https://github.com/python/cpython/tree/3.14/Lib/signal.py)
 

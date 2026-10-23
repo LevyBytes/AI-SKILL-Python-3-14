@@ -1,11 +1,11 @@
 # Internet Protocols and Support
 
-- [`uuid` — UUID objects according to **RFC 9562**](https://docs.python.org/3.14/library/uuid.html)
+- [`uuid` - UUID objects according to **RFC 9562**](https://docs.python.org/3.14/library/uuid.html)
   - [Command-Line Usage](https://docs.python.org/3.14/library/uuid.html#command-line-usage)
   - [Example](https://docs.python.org/3.14/library/uuid.html#example)
   - [Command-Line Example](https://docs.python.org/3.14/library/uuid.html#command-line-example)
 
-- [`socketserver` — A framework for network servers](https://docs.python.org/3.14/library/socketserver.html)
+- [`socketserver` - A framework for network servers](https://docs.python.org/3.14/library/socketserver.html)
   - [Server Creation Notes](https://docs.python.org/3.14/library/socketserver.html#server-creation-notes)
   - [Server Objects](https://docs.python.org/3.14/library/socketserver.html#server-objects)
   - [Request Handler Objects](https://docs.python.org/3.14/library/socketserver.html#request-handler-objects)
@@ -14,16 +14,16 @@
     - [`socketserver.UDPServer` Example](https://docs.python.org/3.14/library/socketserver.html#socketserver-udpserver-example)
     - [Asynchronous Mixins](https://docs.python.org/3.14/library/socketserver.html#asynchronous-mixins)
 
-- [`http.server` — HTTP servers](https://docs.python.org/3.14/library/http.server.html)
+- [`http.server` - HTTP servers](https://docs.python.org/3.14/library/http.server.html)
   - [Command-line interface](https://docs.python.org/3.14/library/http.server.html#command-line-interface)
   - [Security considerations](https://docs.python.org/3.14/library/http.server.html#security-considerations)
 
-- [`http.cookies` — HTTP state management](https://docs.python.org/3.14/library/http.cookies.html)
+- [`http.cookies` - HTTP state management](https://docs.python.org/3.14/library/http.cookies.html)
   - [Cookie Objects](https://docs.python.org/3.14/library/http.cookies.html#cookie-objects)
   - [Morsel Objects](https://docs.python.org/3.14/library/http.cookies.html#morsel-objects)
   - [Example](https://docs.python.org/3.14/library/http.cookies.html#example)
 
-- [`http.cookiejar` — Cookie handling for HTTP clients](https://docs.python.org/3.14/library/http.cookiejar.html)
+- [`http.cookiejar` - Cookie handling for HTTP clients](https://docs.python.org/3.14/library/http.cookiejar.html)
   - [CookieJar and FileCookieJar Objects](https://docs.python.org/3.14/library/http.cookiejar.html#cookiejar-and-filecookiejar-objects)
   - [FileCookieJar subclasses and co-operation with web browsers](https://docs.python.org/3.14/library/http.cookiejar.html#filecookiejar-subclasses-and-co-operation-with-web-browsers)
   - [CookiePolicy Objects](https://docs.python.org/3.14/library/http.cookiejar.html#cookiepolicy-objects)
@@ -31,8 +31,8 @@
   - [Cookie Objects](https://docs.python.org/3.14/library/http.cookiejar.html#cookie-objects)
   - [Examples](https://docs.python.org/3.14/library/http.cookiejar.html#examples)
 
-- [`xmlrpc` — XMLRPC server and client modules](https://docs.python.org/3.14/library/xmlrpc.html)
-- [`xmlrpc.client` — XML-RPC client access](https://docs.python.org/3.14/library/xmlrpc.client.html)
+- [`xmlrpc` - XMLRPC server and client modules](https://docs.python.org/3.14/library/xmlrpc.html)
+- [`xmlrpc.client` - XML-RPC client access](https://docs.python.org/3.14/library/xmlrpc.client.html)
   - [ServerProxy Objects](https://docs.python.org/3.14/library/xmlrpc.client.html#serverproxy-objects)
   - [DateTime Objects](https://docs.python.org/3.14/library/xmlrpc.client.html#datetime-objects)
   - [Binary Objects](https://docs.python.org/3.14/library/xmlrpc.client.html#binary-objects)
@@ -43,7 +43,7 @@
   - [Example of Client Usage](https://docs.python.org/3.14/library/xmlrpc.client.html#example-of-client-usage)
   - [Example of Client and Server Usage](https://docs.python.org/3.14/library/xmlrpc.client.html#example-of-client-and-server-usage)
 
-- [`xmlrpc.server` — Basic XML-RPC servers](https://docs.python.org/3.14/library/xmlrpc.server.html)
+- [`xmlrpc.server` - Basic XML-RPC servers](https://docs.python.org/3.14/library/xmlrpc.server.html)
   - [SimpleXMLRPCServer objects](https://docs.python.org/3.14/library/xmlrpc.server.html#simplexmlrpcserver-objects)
     - [SimpleXMLRPCServer example](https://docs.python.org/3.14/library/xmlrpc.server.html#simplexmlrpcserver-example)
 
@@ -52,7 +52,7 @@
   - [DocXMLRPCServer objects](https://docs.python.org/3.14/library/xmlrpc.server.html#docxmlrpcserver-objects)
   - [DocCGIXMLRPCRequestHandler](https://docs.python.org/3.14/library/xmlrpc.server.html#doccgixmlrpcrequesthandler)
 
-- [`ipaddress` — IPv4/IPv6 manipulation library](https://docs.python.org/3.14/library/ipaddress.html)
+- [`ipaddress` - IPv4/IPv6 manipulation library](https://docs.python.org/3.14/library/ipaddress.html)
   - [Convenience factory functions](https://docs.python.org/3.14/library/ipaddress.html#convenience-factory-functions)
   - [IP Addresses](https://docs.python.org/3.14/library/ipaddress.html#ip-addresses)
     - [Address objects](https://docs.python.org/3.14/library/ipaddress.html#address-objects)

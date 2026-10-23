@@ -1,4 +1,4 @@
-# urllib.parse — URL Parsing — Contract: Warning
+# urllib.parse - URL Parsing - Contract: Warning
 
 Warning
 

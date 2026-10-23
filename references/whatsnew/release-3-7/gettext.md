@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / gettext — gettext
+# What's New In Python 3.7 / gettext - gettext
 
 ### gettext
 

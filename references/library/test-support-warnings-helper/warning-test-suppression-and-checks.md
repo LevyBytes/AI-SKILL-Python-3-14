@@ -1,6 +1,6 @@
 # test.support.warnings_helper: `test.support.warnings_helper.ignore_warnings()`, `test.support.warnings_helper.check_no_resource_warning()`, `test.support.warnings_helper.check_syntax_warning()`, `test.support.warnings_helper.check_warnings()`
 
-### `test.support.warnings_helper` — Utilities for warnings tests
+### `test.support.warnings_helper` - Utilities for warnings tests
 
 Support aimed at warnings tests is delivered by the `test.support.warnings_helper` module.
 

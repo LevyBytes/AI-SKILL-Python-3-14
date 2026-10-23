@@ -1,8 +1,8 @@
-# collections.abc — `collections.abc` — Abstract Base Classes for Containers
+# collections.abc`collections.abc` - Abstract Base Classes for Containers
 
-## collections.abc — Abstract Base Classes for Containers??
+## collections.abc - Abstract Base Classes for Containers??
 
-### `collections.abc` — Abstract Base Classes for Containers
+### `collections.abc` - Abstract Base Classes for Containers
 
 Added in version 3.3: In earlier releases these definitions lived inside the [`collections`](https://docs.python.org/3.14/library/collections.html#module-collections) module.
 

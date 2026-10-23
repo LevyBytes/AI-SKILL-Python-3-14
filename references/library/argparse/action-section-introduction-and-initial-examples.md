@@ -1,4 +1,4 @@
-# argparse — action — Section introduction and initial examples
+# argparse - action - Section introduction and initial examples
 
 ### action
 

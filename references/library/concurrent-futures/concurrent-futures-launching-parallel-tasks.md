@@ -1,6 +1,6 @@
 # `concurrent.futures` ? Launching parallel tasks
 
-### `concurrent.futures` — Launching parallel tasks
+### `concurrent.futures` - Launching parallel tasks
 
 Added in version 3.2.
 

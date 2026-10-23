@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / New, Improved, and Deprecated Modules — email, mailbox
+# What's New In Python 3.2 / New, Improved, and Deprecated Modules - email, mailbox
 
 ### New, Improved, and Deprecated Modules
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / PEP 324: New subprocess Module — os, subprocess
+# What’s New in Python 2.4 / PEP 324: New subprocess Module - os, subprocess
 
 ### PEP 324: New subprocess Module
 

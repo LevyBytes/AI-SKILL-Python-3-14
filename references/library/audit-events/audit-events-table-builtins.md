@@ -1,4 +1,4 @@
-# Audit events table — builtins
+# Audit events table - builtins
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

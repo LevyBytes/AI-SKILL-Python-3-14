@@ -1,4 +1,4 @@
-# Adding data and methods to the Basic example — PyObject_HEAD, PyObject, Custom_dealloc, Py_XDECREF, Py_TYPE, tp_free, tp_dealloc, PyTypeObject, tp_new
+# Adding data and methods to the Basic example - PyObject_HEAD, PyObject, Custom_dealloc, Py_XDECREF, Py_TYPE, tp_free, tp_dealloc, PyTypeObject, tp_new
 
 A handful of changes distinguish this revision of the module.
 

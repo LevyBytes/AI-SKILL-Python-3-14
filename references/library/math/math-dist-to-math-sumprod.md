@@ -1,4 +1,4 @@
-# math — Summation and product functions
+# math - Summation and product functions
 
 ### Summation and product functions
 

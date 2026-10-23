@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / json — json
+# What's new in Python 3.14 / json - json
 
 ### json
 

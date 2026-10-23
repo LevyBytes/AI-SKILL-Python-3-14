@@ -1,4 +1,4 @@
-# Generic Operating System Services — Section introduction and initial examples
+# Generic Operating System Services - Section introduction and initial examples
 
 # Allos
 
@@ -6,7 +6,7 @@
 
 This chapter's modules expose interfaces to operating system features present on (nearly) every operating system, such as files and a clock. While these interfaces largely follow the Unix or C interfaces, they remain available on most other systems too. The list below gives an overview:
 
-- [`os` — Miscellaneous operating system interfaces](https://docs.python.org/3.14/library/os.html)
+- [`os` - Miscellaneous operating system interfaces](https://docs.python.org/3.14/library/os.html)
   - [File Names, Command Line Arguments, and Environment Variables](https://docs.python.org/3.14/library/os.html#file-names-command-line-arguments-and-environment-variables)
   - [Python UTF-8 Mode](https://docs.python.org/3.14/library/os.html#python-utf-8-mode)
   - [Process Parameters](https://docs.python.org/3.14/library/os.html#process-parameters)
@@ -24,7 +24,7 @@ This chapter's modules expose interfaces to operating system features present on
   - [Miscellaneous System Information](https://docs.python.org/3.14/library/os.html#miscellaneous-system-information)
   - [Random numbers](https://docs.python.org/3.14/library/os.html#random-numbers)
 
-- [`io` — Core tools for working with streams](https://docs.python.org/3.14/library/io.html)
+- [`io` - Core tools for working with streams](https://docs.python.org/3.14/library/io.html)
   - [Overview](https://docs.python.org/3.14/library/io.html#overview)
     - [Text I/O](https://docs.python.org/3.14/library/io.html#text-i-o)
     - [Binary I/O](https://docs.python.org/3.14/library/io.html#binary-i-o)
@@ -47,12 +47,12 @@ This chapter's modules expose interfaces to operating system features present on
     - [Multi-threading](https://docs.python.org/3.14/library/io.html#multi-threading)
     - [Reentrancy](https://docs.python.org/3.14/library/io.html#reentrancy)
 
-- [`time` — Time access and conversions](https://docs.python.org/3.14/library/time.html)
+- [`time` - Time access and conversions](https://docs.python.org/3.14/library/time.html)
   - [Functions](https://docs.python.org/3.14/library/time.html#functions)
   - [Clock ID Constants](https://docs.python.org/3.14/library/time.html#clock-id-constants)
   - [Timezone Constants](https://docs.python.org/3.14/library/time.html#timezone-constants)
 
-- [`logging` — Logging facility for Python](https://docs.python.org/3.14/library/logging.html)
+- [`logging` - Logging facility for Python](https://docs.python.org/3.14/library/logging.html)
   - [Logger Objects](https://docs.python.org/3.14/library/logging.html#logger-objects)
   - [Logging Levels](https://docs.python.org/3.14/library/logging.html#logging-levels)
   - [Handler Objects](https://docs.python.org/3.14/library/logging.html#handler-objects)
@@ -66,7 +66,7 @@ This chapter's modules expose interfaces to operating system features present on
   - [Module-Level Attributes](https://docs.python.org/3.14/library/logging.html#module-level-attributes)
   - [Integration with the warnings module](https://docs.python.org/3.14/library/logging.html#integration-with-the-warnings-module)
 
-- [`logging.config` — Logging configuration](https://docs.python.org/3.14/library/logging.config.html)
+- [`logging.config` - Logging configuration](https://docs.python.org/3.14/library/logging.config.html)
   - [Configuration functions](https://docs.python.org/3.14/library/logging.config.html#configuration-functions)
   - [Security considerations](https://docs.python.org/3.14/library/logging.config.html#security-considerations)
   - [Configuration dictionary schema](https://docs.python.org/3.14/library/logging.config.html#configuration-dictionary-schema)

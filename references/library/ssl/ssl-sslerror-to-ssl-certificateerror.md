@@ -1,4 +1,4 @@
-# ssl — Exceptions
+# ssl - Exceptions
 
 ### Exceptions
 

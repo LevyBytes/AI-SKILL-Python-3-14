@@ -2,6 +2,6 @@
   {"topic": "email.contentmanager: `email.contentmanager.ContentManager`", "file": "email-contentmanager/email-contentmanager-contentmanager-class.md", "summary": "Open when checking the documented contracts for `email.contentmanager.ContentManager` in email.contentmanager.", "keywords": []},
   {"topic": "email.contentmanager.ContentManager: `get_content()`, `set_content()`, `add_get_handler()`, `add_set_handler()`", "file": "mime-content-access-and-handler-registration.md", "summary": "Open when checking the documented contracts for `get_content()`, `set_content()`, `add_get_handler()`, `add_set_handler()` in email.contentmanager.ContentManager.", "keywords": []},
   {"topic": "email.contentmanager: Managing MIME Content", "file": "email-contentmanager/email-contentmanager-managing-mime-content.md", "summary": "Open when checking email.contentmanager: Managing MIME Content.", "keywords": []},
-  {"topic": "email.contentmanager — Content Manager Instances", "file": "raw-mime-content-manager.md", "summary": "Open when checking email.contentmanager — Content Manager Instances.", "keywords": []},
+  {"topic": "email.contentmanager - Content Manager Instances", "file": "raw-mime-content-manager.md", "summary": "Open when checking email.contentmanager - Content Manager Instances.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

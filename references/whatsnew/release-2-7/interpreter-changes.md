@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Interpreter Changes — http.cookies
+# What’s New in Python 2.7 / Interpreter Changes - http.cookies
 
 ### Interpreter Changes
 

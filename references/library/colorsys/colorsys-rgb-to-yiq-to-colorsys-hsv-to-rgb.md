@@ -1,6 +1,6 @@
-# colorsys — `colorsys` — Conversions between color systems
+# colorsys`colorsys` - Conversions between color systems
 
-### `colorsys` — Conversions between color systems
+### `colorsys` - Conversions between color systems
 
 **Source code:** [Lib/colorsys.py](https://github.com/python/cpython/tree/3.14/Lib/colorsys.py)
 

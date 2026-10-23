@@ -1,4 +1,4 @@
-# gettext — Internationalizing your programs and modules
+# gettext - Internationalizing your programs and modules
 
 ### Internationalizing your programs and modules
 

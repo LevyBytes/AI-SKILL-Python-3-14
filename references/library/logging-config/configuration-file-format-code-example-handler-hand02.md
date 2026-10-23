@@ -1,4 +1,4 @@
-# logging.config — Configuration file format — Code example: [handler_hand02]
+# logging.config - Configuration file format - Code example: [handler_hand02]
 
 ```ini
 [handler_hand02]

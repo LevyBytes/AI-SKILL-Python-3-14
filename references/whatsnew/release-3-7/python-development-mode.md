@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Python Development Mode (-X dev) — devmode
+# What's New In Python 3.7 / Python Development Mode (-X dev) - devmode
 
 ### Python Development Mode (-X dev)
 

@@ -1,4 +1,4 @@
-# tkinter.ttk — Label Options
+# tkinter.ttk - Label Options
 
 ### Label Options
 

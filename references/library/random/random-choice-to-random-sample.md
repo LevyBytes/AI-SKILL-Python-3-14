@@ -1,4 +1,4 @@
-# random — Functions for sequences
+# random - Functions for sequences
 
 ### Functions for sequences
 

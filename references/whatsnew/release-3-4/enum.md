@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / enum — enum, socket
+# What's New In Python 3.4 / enum - enum, socket
 
 > Whatsnew note. Reworded narrative; identifiers retained exactly.
 

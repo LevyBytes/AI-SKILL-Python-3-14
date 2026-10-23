@@ -1,6 +1,6 @@
-# encodings — `encodings` — Encodings package
+# encodings`encodings` - Encodings package
 
-### `encodings` — Encodings package
+### `encodings` - Encodings package
 
 The functions below are what this module provides:
 

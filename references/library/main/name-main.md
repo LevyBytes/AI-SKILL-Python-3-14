@@ -1,4 +1,4 @@
-# __main__ — `__name__ == '__main__'`
+# __main__`__name__ == '__main__'`
 
 ### `__name__ == '__main__'`
 

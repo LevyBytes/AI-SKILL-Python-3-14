@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 10.11. Quality control: [10.11. Quality control](quality-control.md).
 - Open when checking 10.5. String pattern matching: [10.5. String pattern matching](string-pattern-matching.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

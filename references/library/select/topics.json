@@ -1,10 +1,10 @@
 {"schema_version": 1, "topics": [
-  {"topic": "select — `/dev/poll` polling objects", "file": "select/devpoll-close-to-devpoll-poll.md", "summary": "Open when checking select — `/dev/poll` polling objects.", "keywords": []},
-  {"topic": "select — Edge and level trigger polling (epoll) objects", "file": "select/epoll-close-to-epoll-poll.md", "summary": "Open when checking select — Edge and level trigger polling (epoll) objects.", "keywords": []},
+  {"topic": "select - `/dev/poll` polling objects", "file": "select/devpoll-close-to-devpoll-poll.md", "summary": "Open when checking select - `/dev/poll` polling objects.", "keywords": []},
+  {"topic": "select - Edge and level trigger polling (epoll) objects", "file": "select/epoll-close-to-epoll-poll.md", "summary": "Open when checking select - Edge and level trigger polling (epoll) objects.", "keywords": []},
   {"topic": "select: `kevent.ident`, `kevent.filter`, `kevent.flags`, `kevent.fflags`", "file": "select/kevent-ident-to-kevent-fflags.md", "summary": "Open when checking the documented contracts for `kevent.ident`, `kevent.filter`, `kevent.flags`, `kevent.fflags` in select.", "keywords": []},
   {"topic": "select: `kevent.data`, `kevent.udata`", "file": "select/kevent-data-to-kevent-udata.md", "summary": "Open when checking the documented contracts for `kevent.data`, `kevent.udata` in select.", "keywords": []},
-  {"topic": "select — Kqueue objects", "file": "select/kqueue-close-to-kqueue-fromfd.md", "summary": "Open when checking select — Kqueue objects.", "keywords": []},
-  {"topic": "select — Polling objects", "file": "select/poll-register-to-poll-poll.md", "summary": "Open when checking select — Polling objects.", "keywords": []},
+  {"topic": "select - Kqueue objects", "file": "select/kqueue-close-to-kqueue-fromfd.md", "summary": "Open when checking select - Kqueue objects.", "keywords": []},
+  {"topic": "select - Polling objects", "file": "select/poll-register-to-poll-poll.md", "summary": "Open when checking select - Polling objects.", "keywords": []},
   {"topic": "select: `select.error`, `select.devpoll()`, `select.epoll()`, `select.poll()`, `select.kqueue()`, `select.kevent()`", "file": "select/select-error-to-select-kevent.md", "summary": "Open when checking the documented contracts for `select.error`, `select.devpoll()`, `select.epoll()`, `select.poll()`, `select.kqueue()`, `select.kevent()` in select.", "keywords": []},
   {"topic": "select: `select.select()`, `select.PIPE_BUF`", "file": "select/select-select-to-select-pipe-buf.md", "summary": "Open when checking the documented contracts for `select.select()`, `select.PIPE_BUF` in select.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

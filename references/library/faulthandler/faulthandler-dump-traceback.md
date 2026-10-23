@@ -1,4 +1,4 @@
-# faulthandler — Dumping the traceback
+# faulthandler - Dumping the traceback
 
 ### Dumping the traceback
 

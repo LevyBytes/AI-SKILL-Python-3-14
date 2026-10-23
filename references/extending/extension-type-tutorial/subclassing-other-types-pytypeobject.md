@@ -1,4 +1,4 @@
-# Subclassing other types — PyTypeObject
+# Subclassing other types - PyTypeObject
 
 ### 2.5. Subclassing other types
 

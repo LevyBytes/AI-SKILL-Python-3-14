@@ -1,4 +1,4 @@
-# bdb — `bdb` — Debugger framework
+# bdb`bdb` - Debugger framework
 
 *class *bdb.Bdb(*skip=None*, *backend='settrace'*)
 

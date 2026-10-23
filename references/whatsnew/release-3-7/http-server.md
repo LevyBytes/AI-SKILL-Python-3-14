@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / http.server — http.server, socketserver
+# What's New In Python 3.7 / http.server - http.server, socketserver
 
 ### http.server
 

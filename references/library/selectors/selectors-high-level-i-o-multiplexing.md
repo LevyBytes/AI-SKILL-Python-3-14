@@ -1,4 +1,4 @@
-# selectors — `selectors` — High-level I/O multiplexing
+# selectors`selectors` - High-level I/O multiplexing
 
 # Selectors, Shelve
 
@@ -6,9 +6,9 @@
 
 Covers: selectors — High-level I/O multiplexing; shelve — Python object persistence.
 
-## selectors — High-level I/O multiplexing
+## selectors - High-level I/O multiplexing
 
-### `selectors` — High-level I/O multiplexing
+### `selectors` - High-level I/O multiplexing
 
 Added in version 3.4.
 

@@ -1,4 +1,4 @@
-# annotationlib — Creating a custom callable annotate function
+# annotationlib - Creating a custom callable annotate function
 
 ### Creating a custom callable annotate function
 

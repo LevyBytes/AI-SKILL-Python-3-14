@@ -1,4 +1,4 @@
-# pdb — Debugger commands — Section introduction and initial examples
+# pdb - Debugger commands - Section introduction and initial examples
 
 ### Debugger commands
 

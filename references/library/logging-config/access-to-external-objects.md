@@ -1,4 +1,4 @@
-# logging.config — Access to external objects
+# logging.config - Access to external objects
 
 ### Handler configuration order
 

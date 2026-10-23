@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking TCP echo client using streams: [TCP echo client using streams](tcp-echo-client-using-streams.md).
 - Open when checking TCP echo server using streams: [TCP echo server using streams](tcp-echo-server-using-streams.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

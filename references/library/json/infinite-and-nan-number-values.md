@@ -1,4 +1,4 @@
-# json — Infinite and NaN Number Values
+# json - Infinite and NaN Number Values
 
 ### Infinite and NaN Number Values
 

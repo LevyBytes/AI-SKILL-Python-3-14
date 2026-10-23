@@ -8,7 +8,7 @@ This page takes in two areas: Python Runtime Services??, then queue (A synchroni
 
 ## Python Runtime Services??
 
-- [`contextlib` — Utilities for `with`-statement contexts](https://docs.python.org/3.14/library/contextlib.html)
+- [`contextlib` - Utilities for `with`-statement contexts](https://docs.python.org/3.14/library/contextlib.html)
   - [Utilities](https://docs.python.org/3.14/library/contextlib.html#utilities)
   - [Examples and Recipes](https://docs.python.org/3.14/library/contextlib.html#examples-and-recipes)
     - [Supporting a variable number of context managers](https://docs.python.org/3.14/library/contextlib.html#supporting-a-variable-number-of-context-managers)
@@ -21,11 +21,11 @@ This page takes in two areas: Python Runtime Services??, then queue (A synchroni
     - [Reentrant context managers](https://docs.python.org/3.14/library/contextlib.html#reentrant-context-managers)
     - [Reusable context managers](https://docs.python.org/3.14/library/contextlib.html#reusable-context-managers)
 
-- [`abc` — Abstract Base Classes](https://docs.python.org/3.14/library/abc.html)
-- [`atexit` — Exit handlers](https://docs.python.org/3.14/library/atexit.html)
+- [`abc` - Abstract Base Classes](https://docs.python.org/3.14/library/abc.html)
+- [`atexit` - Exit handlers](https://docs.python.org/3.14/library/atexit.html)
   - [`atexit` Example](https://docs.python.org/3.14/library/atexit.html#atexit-example)
 
-- [`traceback` — Print or retrieve a stack traceback](https://docs.python.org/3.14/library/traceback.html)
+- [`traceback` - Print or retrieve a stack traceback](https://docs.python.org/3.14/library/traceback.html)
   - [Module-Level Functions](https://docs.python.org/3.14/library/traceback.html#module-level-functions)
   - [`TracebackException` Objects](https://docs.python.org/3.14/library/traceback.html#tracebackexception-objects)
   - [`StackSummary` Objects](https://docs.python.org/3.14/library/traceback.html#stacksummary-objects)
@@ -33,11 +33,11 @@ This page takes in two areas: Python Runtime Services??, then queue (A synchroni
   - [Examples of Using the Module-Level Functions](https://docs.python.org/3.14/library/traceback.html#examples-of-using-the-module-level-functions)
   - [Examples of Using `TracebackException`](https://docs.python.org/3.14/library/traceback.html#examples-of-using-tracebackexception)
 
-- [`__future__` — Future statement definitions](https://docs.python.org/3.14/library/__future__.html)
+- [`__future__` - Future statement definitions](https://docs.python.org/3.14/library/__future__.html)
   - [Module Contents](https://docs.python.org/3.14/library/__future__.html#module-contents)
 
-- [`gc` — Garbage Collector interface](https://docs.python.org/3.14/library/gc.html)
-- [`inspect` — Inspect live objects](https://docs.python.org/3.14/library/inspect.html)
+- [`gc` - Garbage Collector interface](https://docs.python.org/3.14/library/gc.html)
+- [`inspect` - Inspect live objects](https://docs.python.org/3.14/library/inspect.html)
   - [Types and members](https://docs.python.org/3.14/library/inspect.html#types-and-members)
   - [Retrieving source code](https://docs.python.org/3.14/library/inspect.html#retrieving-source-code)
   - [Introspecting callables with the Signature object](https://docs.python.org/3.14/library/inspect.html#introspecting-callables-with-the-signature-object)
@@ -49,7 +49,7 @@ This page takes in two areas: Python Runtime Services??, then queue (A synchroni
   - [Buffer flags](https://docs.python.org/3.14/library/inspect.html#buffer-flags)
   - [Command-line interface](https://docs.python.org/3.14/library/inspect.html#command-line-interface)
 
-- [`annotationlib` — Functionality for introspecting annotations](https://docs.python.org/3.14/library/annotationlib.html)
+- [`annotationlib` - Functionality for introspecting annotations](https://docs.python.org/3.14/library/annotationlib.html)
   - [Annotation semantics](https://docs.python.org/3.14/library/annotationlib.html#annotation-semantics)
   - [Classes](https://docs.python.org/3.14/library/annotationlib.html#classes)
   - [Functions](https://docs.python.org/3.14/library/annotationlib.html#functions)
@@ -61,7 +61,7 @@ This page takes in two areas: Python Runtime Services??, then queue (A synchroni
   - [Limitations of the `FORWARDREF` format](https://docs.python.org/3.14/library/annotationlib.html#limitations-of-the-forwardref-format)
   - [Security implications of introspecting annotations](https://docs.python.org/3.14/library/annotationlib.html#security-implications-of-introspecting-annotations)
 
-- [`site` — Site-specific configuration hook](https://docs.python.org/3.14/library/site.html)
+- [`site` - Site-specific configuration hook](https://docs.python.org/3.14/library/site.html)
   - [`sitecustomize`](https://docs.python.org/3.14/library/site.html#module-sitecustomize)
   - [`usercustomize`](https://docs.python.org/3.14/library/site.html#module-usercustomize)
   - [Readline configuration](https://docs.python.org/3.14/library/site.html#readline-configuration)

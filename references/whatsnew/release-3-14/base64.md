@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / base64 — base64
+# What's new in Python 3.14 / base64 - base64
 
 ### base64
 

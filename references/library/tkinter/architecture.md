@@ -1,4 +1,4 @@
-# tkinter — Architecture
+# tkinter - Architecture
 
 ### Architecture
 

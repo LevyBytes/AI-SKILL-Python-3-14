@@ -1,4 +1,4 @@
-# doctest — Warnings
+# doctest - Warnings
 
 ### Warnings
 

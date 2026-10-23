@@ -1,4 +1,4 @@
-# `printf`-style String Formatting — Section introduction and initial examples
+# `printf`-style String Formatting - Section introduction and initial examples
 
 Supplying the equals sign `'='` within an interpolation expression causes the expression's source text to be tacked onto the literal string sitting just before that interpolation. The equals sign itself plus whatever whitespace surrounds it are carried along too. An `Interpolation` instance gets built for the expression in the usual manner, with one change: its [`conversion`](https://docs.python.org/3.14/library/string.templatelib.html#string.templatelib.Interpolation.conversion) defaults to "`r`" ([`repr()`](https://docs.python.org/3.14/library/functions.html#repr)). Supplying an explicit conversion or format specifier supersedes that default.
 

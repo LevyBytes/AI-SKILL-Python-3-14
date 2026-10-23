@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Port-Specific Changes: Windows — msvcrt, os.path, socket, winreg
+# What’s New in Python 2.6 / Port-Specific Changes: Windows - msvcrt, os.path, socket, winreg
 
 ### Port-Specific Changes: Windows
 

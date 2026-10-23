@@ -18,7 +18,7 @@ Append *message* to named mailbox.
 
  IMAP4.authenticate(*mechanism*, *authobject*)
 
-Authenticate command — requires response processing.
+Authenticate command: requires response processing.
 
 *mechanism* names the authentication mechanism to apply — it ought to show up in the instance variable `capabilities` as `AUTH=mechanism`.
 

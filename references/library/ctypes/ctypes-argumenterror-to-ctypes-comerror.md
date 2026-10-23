@@ -1,4 +1,4 @@
-# ctypes — Exceptions
+# ctypes - Exceptions
 
 ### Exceptions
 

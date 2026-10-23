@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Notable changes in Python 3.7.1 — tokenize
+# What's New In Python 3.7 / Notable changes in Python 3.7.1 - tokenize
 
 ### Notable changes in Python 3.7.1
 

@@ -1,4 +1,4 @@
-# ctypes — Return types
+# ctypes - Return types
 
 ### Return types
 

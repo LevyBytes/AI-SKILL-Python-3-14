@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Optimizations — warnings
+# What’s New in Python 2.6 / Optimizations - warnings
 
 ### Optimizations
 

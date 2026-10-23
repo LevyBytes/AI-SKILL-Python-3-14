@@ -1,4 +1,4 @@
-# pathlib — Operators
+# pathlib - Operators
 
 ### Operators
 

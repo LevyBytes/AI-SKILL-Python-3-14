@@ -1,4 +1,4 @@
-# ast — Abstract grammar — Expression contexts/operators, helper records, patterns and type parameters
+# ast - Abstract grammar - Expression contexts/operators, helper records, patterns and type parameters
 
 ```asdl
     expr_context = Load | Store | Del

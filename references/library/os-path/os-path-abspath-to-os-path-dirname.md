@@ -1,6 +1,6 @@
 # os.path: `os.path.abspath()`, `os.path.basename()`, `os.path.commonpath()`, `os.path.commonprefix()`, `os.path.dirname()`
 
-### `os.path` — Common pathname manipulations
+### `os.path` - Common pathname manipulations
 
 **Source code:** [Lib/genericpath.py](https://github.com/python/cpython/tree/3.14/Lib/genericpath.py), [Lib/posixpath.py](https://github.com/python/cpython/tree/3.14/Lib/posixpath.py) (for POSIX) and [Lib/ntpath.py](https://github.com/python/cpython/tree/3.14/Lib/ntpath.py) (for Windows).
 

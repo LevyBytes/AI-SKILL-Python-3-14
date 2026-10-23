@@ -5,4 +5,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.4 final / macos / build and platforms: [Python 3.14.4 final / macos / build and platforms](build-and-platforms.md).
 - Open when checking Python 3.14.4 final / macos / webbrowser: [Python 3.14.4 final / macos / webbrowser](webbrowser.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

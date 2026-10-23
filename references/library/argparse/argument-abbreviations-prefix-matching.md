@@ -1,4 +1,4 @@
-# argparse — Argument abbreviations (prefix matching)
+# argparse - Argument abbreviations (prefix matching)
 
 ### Argument abbreviations (prefix matching)
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — curses, datetime, decimal, difflib, ftplib, functools, getpass, glob, heapq, http.cookies
+# What’s New in Python 2.6 / New and Improved Modules - curses, datetime, decimal, difflib, ftplib, functools, getpass, glob, heapq, http.cookies
 
 ```python
 >>> from collections import deque

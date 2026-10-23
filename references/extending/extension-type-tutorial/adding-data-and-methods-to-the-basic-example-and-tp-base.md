@@ -1,4 +1,4 @@
-# Adding data and methods to the Basic example — PyObject, Custom_new, PyTypeObject, tp_alloc, PyUnicode_FromString, Py_DECREF, tp_new, PyType_GenericNew, tp_init, PyType_Ready, tp_base
+# Adding data and methods to the Basic example - PyObject, Custom_new, PyTypeObject, tp_alloc, PyUnicode_FromString, Py_DECREF, tp_new, PyType_GenericNew, tp_init, PyType_Ready, tp_base
 
 ```c
 static PyObject *

@@ -1,6 +1,6 @@
 # test.support.bytecode_helper: `test.support.bytecode_helper.BytecodeTestCase`
 
-### `test.support.bytecode_helper` — Support tools for testing correct bytecode generation
+### `test.support.bytecode_helper` - Support tools for testing correct bytecode generation
 
 The `test.support.bytecode_helper` module offers support for testing and examining bytecode generation.
 

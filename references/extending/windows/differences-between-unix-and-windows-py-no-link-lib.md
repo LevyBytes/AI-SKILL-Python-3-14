@@ -1,4 +1,4 @@
-# Differences Between Unix and Windows — Py_NO_LINK_LIB
+# Differences Between Unix and Windows - Py_NO_LINK_LIB
 
 ### 5.2. Differences Between Unix and Windows
 
@@ -10,7 +10,7 @@ On Windows, by contrast, a dynamic-link library (`.dll`) file carries no unresol
 
 Unix has just a single sort of library file (`.a`), and it gathers code drawn from a number of object files (`.o`). While linking to produce a shared object file (`.so`), the linker can run into an identifier whose definition it cannot locate. It then hunts through the object files held in the libraries, and on finding the identifier it pulls in the whole of that object file's code.
 
-Windows offers two flavors of library — a static library and an import library, both bearing the `.lib` extension. The static kind resembles a Unix `.a` file, holding code that gets pulled in where needed. The import kind exists mostly to assure the linker that some identifier is valid and will turn up in the program once the DLL has loaded. The linker draws on what the import library tells it to assemble the lookup table for identifiers that the DLL itself does not carry. Linking an application or a DLL can spit out an import library, and that import library then has to feed every later DLL that leans on the symbols in the application or DLL.
+Windows offers two flavors of library: a static library and an import library, both bearing the `.lib` extension. The static kind resembles a Unix `.a` file, holding code that gets pulled in where needed. The import kind exists mostly to assure the linker that some identifier is valid and will turn up in the program once the DLL has loaded. The linker draws on what the import library tells it to assemble the lookup table for identifiers that the DLL itself does not carry. Linking an application or a DLL can spit out an import library, and that import library then has to feed every later DLL that leans on the symbols in the application or DLL.
 
 Imagine you are putting together two dynamically loaded modules, B and C, that ought to draw on a shared chunk of code A. Under Unix you would *not* hand `A.a` to the linker when producing `B.so` and `C.so`, because doing so would embed it twice and leave B and C each carrying their own duplicate. Over on Windows, producing `A.dll` yields `A.lib` as well, and you *do* feed `A.lib` to the linker for both B and C. That `A.lib` holds no code at all; what it stores is merely the information consulted at runtime to reach A's code.
 

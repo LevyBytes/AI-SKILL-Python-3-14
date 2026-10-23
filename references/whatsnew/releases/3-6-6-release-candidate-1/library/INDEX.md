@@ -36,4 +36,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.6 release candidate 1 / library / ttk treeview insert may take iid whose boolean value false: [Python 3.6.6 release candidate 1 / library / ttk treeview insert may take iid whose boolean value false](ttk-treeview-insert-may-take-iid-whose-boolean-value-false.md).
 - Open when checking Python 3.6.6 release candidate 1 / library / urllib robotparser: [Python 3.6.6 release candidate 1 / library / urllib robotparser](urllib-robotparser.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

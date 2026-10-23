@@ -1,6 +1,6 @@
 # test.support.import_helper: Import test caches and bytecode helpers
 
-### `test.support.import_helper` — Utilities for import tests
+### `test.support.import_helper` - Utilities for import tests
 
 Support geared toward import tests is offered by the `test.support.import_helper` module.
 

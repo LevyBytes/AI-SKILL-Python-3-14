@@ -1,4 +1,4 @@
-# secrets — Generating tokens
+# secrets - Generating tokens
 
 ### Generating tokens
 

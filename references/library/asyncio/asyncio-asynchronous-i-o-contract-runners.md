@@ -1,4 +1,4 @@
-# asyncio — `asyncio` — Asynchronous I/O — Contract: Runners
+# asyncio`asyncio` - Asynchronous I/O - Contract: Runners
 
 - [Runners](https://docs.python.org/3.14/library/asyncio-runner.html)
 - [Coroutines and tasks](https://docs.python.org/3.14/library/asyncio-task.html)

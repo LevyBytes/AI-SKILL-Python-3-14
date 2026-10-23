@@ -1,4 +1,4 @@
-# Extracting Parameters in Extension Functions — Py_complex, PyArg_ParseTuple
+# Extracting Parameters in Extension Functions - Py_complex, PyArg_ParseTuple
 
 ```c
 {

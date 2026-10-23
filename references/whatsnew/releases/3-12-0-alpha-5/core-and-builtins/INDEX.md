@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 5 / core and builtins / unicodedata: [Python 3.12.0 alpha 5 / core and builtins / unicodedata](unicodedata.md).
 - Open when checking Python 3.12.0 alpha 5 / core and builtins / veryhigh: [Python 3.12.0 alpha 5 / core and builtins / veryhigh](veryhigh.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

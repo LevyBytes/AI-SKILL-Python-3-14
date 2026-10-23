@@ -1,4 +1,4 @@
-# zoneinfo — Data sources
+# zoneinfo - Data sources
 
 ### Data sources
 

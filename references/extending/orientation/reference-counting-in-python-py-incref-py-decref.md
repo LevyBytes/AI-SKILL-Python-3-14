@@ -1,4 +1,4 @@
-# Reference Counting in Python — Py_INCREF, Py_DECREF
+# Reference Counting in Python - Py_INCREF, Py_DECREF
 
 ### 1.10.1. Reference Counting in Python
 

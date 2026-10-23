@@ -1,6 +1,6 @@
-# xml.dom.minidom — `xml.dom.minidom` — Minimal DOM implementation
+# xml.dom.minidom`xml.dom.minidom` - Minimal DOM implementation
 
-### `xml.dom.minidom` — Minimal DOM implementation
+### `xml.dom.minidom` - Minimal DOM implementation
 
 **Source code:** [Lib/xml/dom/minidom.py](https://github.com/python/cpython/tree/3.14/Lib/xml/dom/minidom.py)
 

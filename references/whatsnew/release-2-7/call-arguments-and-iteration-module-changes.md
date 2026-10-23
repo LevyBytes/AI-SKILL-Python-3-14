@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / New and Improved Modules — collections, decimal, inspect, io, itertools, json, mailbox, math, multiprocessing
+# What’s New in Python 2.7 / New and Improved Modules - collections, decimal, inspect, io, itertools, json, mailbox, math, multiprocessing
 
 New function: the [`getcallargs()`](https://docs.python.org/3.14/library/inspect.html#inspect.getcallargs) in the [`inspect`](https://docs.python.org/3.14/library/inspect.html#module-inspect) module accepts a callable plus its positional and keyword arguments, works out which of the callable's parameters each argument lands in, and returns a dictionary that maps argument names onto their values. As an illustration:
 

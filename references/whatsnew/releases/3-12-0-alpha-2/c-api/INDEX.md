@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 2 / c api / refcounting: [Python 3.12.0 alpha 2 / c api / refcounting](refcounting.md).
 - Open when checking Python 3.12.0 alpha 2 / c api / subprocess: [Python 3.12.0 alpha 2 / c api / subprocess](subprocess.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

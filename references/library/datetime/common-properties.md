@@ -1,4 +1,4 @@
-# datetime — Common properties
+# datetime - Common properties
 
 ### Common properties
 

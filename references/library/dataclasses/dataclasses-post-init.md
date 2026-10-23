@@ -1,4 +1,4 @@
-# dataclasses — Post-init processing
+# dataclasses - Post-init processing
 
 Thrown whenever an automatically supplied [`__setattr__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__setattr__) or [`__delattr__()`](https://docs.python.org/3.14/reference/datamodel.html#object.__delattr__) runs against a dataclass declared using `frozen=True`. This exception derives from [`AttributeError`](https://docs.python.org/3.14/library/exceptions.html#AttributeError).
 

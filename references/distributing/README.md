@@ -21,7 +21,7 @@ flowchart LR
 
 A concise entrypoint to Python module distribution guidance. This reference area explains where the official overview ends and routes readers to the Python Packaging User Guide for the detailed packaging workflow.
 
-Use when packaging or distributing your own Python modules - the official overview that routes to the Python Packaging User Guide. A short pointer-level section, not the full packaging workflow.
+Use when packaging or distributing your own Python modules: the official overview pointing to the Python Packaging User Guide, not the full packaging workflow.
 
 ## What this skill helps with
 

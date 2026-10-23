@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / API and Feature Removals — asyncio, collections, os.path, plistlib, re, selectors, socket, ssl, tarfile
+# What's New In Python 3.7 / API and Feature Removals - asyncio, collections, os.path, plistlib, re, selectors, socket, ssl, tarfile
 
 ### API and Feature Removals
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / PEP 405: Virtual Environments — venv
+# What's New In Python 3.3 / PEP 405: Virtual Environments - venv
 
 ### PEP 405: Virtual Environments
 

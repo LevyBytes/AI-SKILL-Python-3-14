@@ -1,4 +1,4 @@
-# argparse — conflict_handler
+# argparse - conflict_handler
 
 ### conflict_handler
 

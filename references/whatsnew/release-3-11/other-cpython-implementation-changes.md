@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Other CPython Implementation Changes — sys
+# What's New In Python 3.11 / Other CPython Implementation Changes - sys
 
 When you convert between [`int`](https://docs.python.org/3.14/library/functions.html#int) and [`str`](https://docs.python.org/3.14/library/stdtypes.html#str) using radixes other than 2 (binary), 4, 8 (octal), 16 (hexadecimal), or 32 -- for instance base 10 (decimal) -- a [`ValueError`](https://docs.python.org/3.14/library/exceptions.html#ValueError) is now triggered whenever the string form carries more digits than a ceiling allows; this guards against possible denial of service exploits rooted in the algorithm's complexity. The behavior mitigates [**CVE 2020-10735**](https://www.cve.org/CVERecord?id=CVE-2020-10735). You may tune or switch off the ceiling through an environment variable, a command line flag, or [`sys`](https://docs.python.org/3.14/library/sys.html#module-sys) APIs. Consult the [integer string conversion length limitation](https://docs.python.org/3.14/library/stdtypes.html#int-max-str-digits) documentation. Out of the box the ceiling sits at 4300 digits when expressed as a string.
 

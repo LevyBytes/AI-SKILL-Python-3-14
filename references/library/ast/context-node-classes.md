@@ -69,7 +69,7 @@ Select by the documented task or API context. [Topic catalog](context-node-class
 - Open when checking the documented contracts for `ast.MatchOr` in ast. [ast: `ast.MatchOr`](ast-matchor-class.md).
 - Open when checking the documented contracts for `ast.Match` in ast. [ast: `ast.Match`](ast-match-class.md).
 - Open when checking the documented contracts for `ast.match_case` in ast. [ast: `ast.match_case`](ast-match-case-class.md).
-- Open when checking ast — Type annotations. [Node classes / ast — Type annotations](ast-typeignore-class.md).
+- Open when checking ast - Type annotations. [Node classes / ast - Type annotations](ast-typeignore-class.md).
 - Open when checking the documented contracts for `ast.TypeVar` in ast. [ast: `ast.TypeVar`](ast-typevar-class.md).
 - Open when checking the documented contracts for `ast.ParamSpec` in ast. [ast: `ast.ParamSpec`](ast-paramspec-class.md).
 - Open when checking the documented contracts for `ast.TypeVarTuple` in ast. [ast: `ast.TypeVarTuple`](ast-typevartuple-class.md).

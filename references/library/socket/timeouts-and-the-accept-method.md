@@ -1,4 +1,4 @@
-# socket — Timeouts and the `accept` method
+# socket - Timeouts and the `accept` method
 
 ### Timeouts and the `accept` method
 

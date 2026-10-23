@@ -1,6 +1,6 @@
 {"schema_version": 1, "topics": [
-  {"topic": "mimetypes — Command-line example", "file": "mimetypes/command-line-example.md", "summary": "Open when checking mimetypes — Command-line example.", "keywords": []},
-  {"topic": "mimetypes — Command-line usage", "file": "mimetypes/command-line-usage.md", "summary": "Open when checking mimetypes — Command-line usage.", "keywords": []},
+  {"topic": "mimetypes - Command-line example", "file": "mimetypes/command-line-example.md", "summary": "Open when checking mimetypes - Command-line example.", "keywords": []},
+  {"topic": "mimetypes - Command-line usage", "file": "mimetypes/command-line-usage.md", "summary": "Open when checking mimetypes - Command-line usage.", "keywords": []},
   {"topic": "mimetypes: Filename-to-MIME lookup and encoding maps", "file": "mimetypes/mimetypes-guess-type-to-mimetypes-encodings-map.md", "summary": "Open when checking Filename-to-MIME lookup and encoding maps in mimetypes.", "keywords": []},
   {"topic": "mimetypes: `mimetypes.types_map`, `mimetypes.common_types`", "file": "mimetypes/mimetypes-types-map-to-mimetypes-common-types.md", "summary": "Open when checking the documented contracts for `mimetypes.types_map`, `mimetypes.common_types` in mimetypes.", "keywords": []},
   {"topic": "mimetypes: `mimetypes.MimeTypes`", "file": "mimetypes/mimetypes-mimetypes-class.md", "summary": "Open when checking the documented contracts for `mimetypes.MimeTypes` in mimetypes.", "keywords": []},

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Notable changes in Python 3.6.5 — locale
+# What's New In Python 3.6 / Notable changes in Python 3.6.5 - locale
 
 ### Notable changes in Python 3.6.5
 

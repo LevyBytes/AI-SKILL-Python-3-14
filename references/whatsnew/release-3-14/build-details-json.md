@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / `build-details.json` — sysconfig
+# What's new in Python 3.14 / `build-details.json` - sysconfig
 
 ### `build-details.json`
 

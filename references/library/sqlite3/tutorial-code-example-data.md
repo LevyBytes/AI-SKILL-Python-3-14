@@ -1,4 +1,4 @@
-# sqlite3 — Tutorial — Code example: data = [
+# sqlite3 - Tutorial - Code example: data = [
 
 ```python
 data = [

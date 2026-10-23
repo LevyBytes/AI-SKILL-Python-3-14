@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "grp — `grp` — The group database", "file": "grp/grp-getgrgid-to-grp-getgrall.md", "summary": "Open when checking grp — `grp` — The group database.", "keywords": []},
+    {"topic": "grp - `grp` - The group database", "file": "grp/grp-getgrgid-to-grp-getgrall.md", "summary": "Open when checking grp - `grp` - The group database.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

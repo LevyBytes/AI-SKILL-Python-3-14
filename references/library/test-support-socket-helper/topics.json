@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "test.support.socket_helper — `test.support.socket_helper` — Utilities for socket tests", "file": "socket-test-network-availability-helpers.md", "summary": "Open when checking test.support.socket_helper — `test.support.socket_helper` — Utilities for socket tests.", "keywords": []},
+    {"topic": "test.support.socket_helper - `test.support.socket_helper` - Utilities for socket tests", "file": "socket-test-network-availability-helpers.md", "summary": "Open when checking test.support.socket_helper - `test.support.socket_helper` - Utilities for socket tests.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

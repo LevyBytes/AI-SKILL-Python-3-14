@@ -1,4 +1,4 @@
-# Audit events table — array
+# Audit events table - array
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -30,4 +30,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking What happens if no configuration is provided: [What happens if no configuration is provided](what-happens-if-no-configuration-is-provided.md).
 - Open when checking When to use logging: [When to use logging](when-to-use-logging.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

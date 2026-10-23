@@ -1,4 +1,4 @@
-# sqlite3 — Command-line interface
+# sqlite3 - Command-line interface
 
 ### Command-line interface
 

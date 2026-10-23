@@ -1,4 +1,4 @@
-# typing — Nominal vs structural subtyping
+# typing - Nominal vs structural subtyping
 
 ### Nominal vs structural subtyping
 

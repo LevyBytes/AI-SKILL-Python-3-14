@@ -1,4 +1,4 @@
-# random — Examples — Code example: from statistics import fmean as mean
+# random - Examples - Code example: from statistics import fmean as mean
 
 ```python
 # Example from "Statistics is Easy" by Dennis Shasha and Manda Wilson

@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / Optimizations — re, readline, struct
+# What's New in Python 2.5 / Optimizations - re, readline, struct
 
 ### Optimizations
 

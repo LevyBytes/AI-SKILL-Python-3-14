@@ -1,4 +1,4 @@
-# xml.dom — DOMImplementation Objects
+# xml.dom - DOMImplementation Objects
 
 ### DOMImplementation Objects
 

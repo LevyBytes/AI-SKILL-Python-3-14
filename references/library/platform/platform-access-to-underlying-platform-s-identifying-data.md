@@ -1,6 +1,6 @@
-# platform — `platform` — Access to underlying platform’s identifying data
+# platform`platform` - Access to underlying platform’s identifying data
 
-### `platform` — Access to underlying platform’s identifying data
+### `platform` - Access to underlying platform’s identifying data
 
 **Source code:** [Lib/platform.py](https://github.com/python/cpython/tree/3.14/Lib/platform.py)
 

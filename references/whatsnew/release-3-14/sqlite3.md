@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / sqlite3 — sqlite3
+# What's new in Python 3.14 / sqlite3 - sqlite3
 
 ### sqlite3
 

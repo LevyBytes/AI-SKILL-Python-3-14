@@ -1,6 +1,6 @@
-# curses.textpad — `curses.textpad` — Text input widget for curses programs
+# curses.textpad`curses.textpad` - Text input widget for curses programs
 
-### `curses.textpad` — Text input widget for curses programs
+### `curses.textpad` - Text input widget for curses programs
 
 Within the `curses.textpad` module sits a `Textbox` class for basic text editing inside a curses window, wired up with keybindings that echo those of Emacs (and therefore Netscape Navigator, BBedit 6.x, FrameMaker, and a host of other programs too). The module throws in a rectangle-drawing function as well, handy for boxing in text areas or whatever else you need.
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Deprecated Python modules, functions and methods / dbm — dbm
+# What's New In Python 3.6 / Deprecated Python modules, functions and methods / dbm - dbm
 
 #### dbm
 

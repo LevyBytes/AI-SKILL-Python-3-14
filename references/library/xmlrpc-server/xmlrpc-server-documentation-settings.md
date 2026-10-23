@@ -1,4 +1,4 @@
-# xmlrpc.server — DocXMLRPCServer objects
+# xmlrpc.server - DocXMLRPCServer objects
 
 ### DocXMLRPCServer objects
 

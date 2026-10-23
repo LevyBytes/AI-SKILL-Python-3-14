@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 2 / idle / python: [Python 3.7.0 alpha 2 / idle / python](python.md).
 - Open when checking Python 3.7.0 alpha 2 / idle / tests and documentation: [Python 3.7.0 alpha 2 / idle / tests and documentation](tests-and-documentation.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

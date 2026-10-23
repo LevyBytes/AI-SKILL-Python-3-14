@@ -1,4 +1,4 @@
-# unittest.mock — More complex argument matching
+# unittest.mock - More complex argument matching
 
 ### More complex argument matching
 

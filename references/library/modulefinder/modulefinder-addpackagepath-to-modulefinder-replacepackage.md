@@ -1,8 +1,8 @@
 # modulefinder: `modulefinder.AddPackagePath()`, `modulefinder.ReplacePackage()`
 
-## modulefinder — Find modules used by a script
+## modulefinder - Find modules used by a script
 
-### `modulefinder` — Find modules used by a script
+### `modulefinder` - Find modules used by a script
 
 **Source code:** [Lib/modulefinder.py](https://github.com/python/cpython/tree/3.14/Lib/modulefinder.py)
 

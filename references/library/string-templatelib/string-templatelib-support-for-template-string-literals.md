@@ -1,6 +1,6 @@
-# string.templatelib — `string.templatelib` — Support for template string literals
+# string.templatelib`string.templatelib` - Support for template string literals
 
-### `string.templatelib` — Support for template string literals
+### `string.templatelib` - Support for template string literals
 
 **Source code:** [Lib/string/templatelib.py](https://github.com/python/cpython/tree/3.14/Lib/string/templatelib.py)
 

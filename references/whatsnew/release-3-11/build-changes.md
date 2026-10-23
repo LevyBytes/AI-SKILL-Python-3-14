@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Build Changes — tkinter
+# What's New In Python 3.11 / Build Changes - tkinter
 
 ### Build Changes
 

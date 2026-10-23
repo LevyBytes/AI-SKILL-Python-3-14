@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / C API Changes / Porting to Python 3.11 — sys
+# What's New In Python 3.11 / C API Changes / Porting to Python 3.11 - sys
 
 `frame`: gone — turn to [`PyThreadState_GetFrame()`](https://docs.python.org/3.14/c-api/threads.html#c.PyThreadState_GetFrame), a function that [bpo-40429](https://bugs.python.org/issue?@action=redirect&bpo=40429) added back in Python 3.9. Take care: it hands you a [strong reference](https://docs.python.org/3.14/glossary.html#term-strong-reference), so a [`Py_XDECREF()`](https://docs.python.org/3.14/c-api/refcounting.html#c.Py_XDECREF) call is needed.
 

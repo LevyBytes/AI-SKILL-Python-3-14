@@ -56,7 +56,7 @@ The span genuinely runs from `0` to `61`; the value `60` holds in timestamps tha
 
 Paired with the `strptime()` function, `%U` and `%W` factor into calculations only when both the day of the week and the year are given.
 
-Below is an example — a date format that lines up with the one laid out in the [**RFC 5322**](https://datatracker.ietf.org/doc/html/rfc5322.html) Internet email standard. [1]
+Below is an example: a date format that lines up with the one laid out in the [**RFC 5322**](https://datatracker.ietf.org/doc/html/rfc5322.html) Internet email standard. [1]
 
 ```python
 >>> from time import gmtime, strftime

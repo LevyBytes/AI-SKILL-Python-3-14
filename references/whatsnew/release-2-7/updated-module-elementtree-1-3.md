@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Updated module: ElementTree 1.3 — xml.etree.elementtree
+# What’s New in Python 2.7 / Updated module: ElementTree 1.3 - xml.etree.elementtree
 
 ### Updated module: ElementTree 1.3
 

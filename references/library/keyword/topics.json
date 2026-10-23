@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "keyword — `keyword` — Testing for Python keywords", "file": "keyword/keyword-iskeyword-to-keyword-softkwlist.md", "summary": "Open when checking keyword — `keyword` — Testing for Python keywords.", "keywords": []},
-    {"topic": "keyword — Testing for Python keywords", "file": "keyword/testing-for-python-keywords.md", "summary": "Open when checking keyword — Testing for Python keywords.", "keywords": []},
+    {"topic": "keyword - `keyword` - Testing for Python keywords", "file": "keyword/keyword-iskeyword-to-keyword-softkwlist.md", "summary": "Open when checking keyword - `keyword` - Testing for Python keywords.", "keywords": []},
+    {"topic": "keyword - Testing for Python keywords", "file": "keyword/testing-for-python-keywords.md", "summary": "Open when checking keyword - Testing for Python keywords.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Pending removal in Python 3.16 — array, asyncio, asyncio-eventloop, asyncio-policy, asyncio-runner, builtins, functools, importlib, inspect
+# What's new in Python 3.14 / Pending removal in Python 3.16 - array, asyncio, asyncio-eventloop, asyncio-policy, asyncio-runner, builtins, functools, importlib, inspect
 
 ### Pending removal in Python 3.16
 

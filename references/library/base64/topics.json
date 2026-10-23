@@ -1,9 +1,9 @@
 {"schema_version": 1, "topics": [
   {"topic": "base64: `base64.a85encode()`, `base64.a85decode()`, `base64.b85encode()`, `base64.b85decode()`, `base64.z85encode()`", "file": "base64/base64-a85encode-to-base64-z85encode.md", "summary": "Open when checking the documented contracts for `base64.a85encode()`, `base64.a85decode()`, `base64.b85encode()`, `base64.b85decode()`, `base64.z85encode()` in base64.", "keywords": []},
   {"topic": "base64: `base64.z85decode()`", "file": "base64/base64-z85decode.md", "summary": "Open when checking the documented contracts for `base64.z85decode()` in base64.", "keywords": []},
-  {"topic": "base64 — RFC 4648 Encodings", "file": "base64/base64-b64encode-to-base64-b16decode.md", "summary": "Open when checking base64 — RFC 4648 Encodings.", "keywords": []},
-  {"topic": "base64 — `base64` — Base16, Base32, Base64, Base85 Data Encodings", "file": "base64/base64-base16-base32-base64-base85-data-encodings.md", "summary": "Open when checking base64 — `base64` — Base16, Base32, Base64, Base85 Data Encodings.", "keywords": []},
-  {"topic": "base64 — Legacy Interface", "file": "base64/base64-decode-to-base64-encodebytes.md", "summary": "Open when checking base64 — Legacy Interface.", "keywords": []},
-  {"topic": "base64 — Security Considerations", "file": "base64/security-considerations.md", "summary": "Open when checking base64 — Security Considerations.", "keywords": []},
+  {"topic": "base64 - RFC 4648 Encodings", "file": "base64/base64-b64encode-to-base64-b16decode.md", "summary": "Open when checking base64 - RFC 4648 Encodings.", "keywords": []},
+  {"topic": "base64 - `base64` - Base16, Base32, Base64, Base85 Data Encodings", "file": "base64/base64-base16-base32-base64-base85-data-encodings.md", "summary": "Open when checking base64 - `base64` - Base16, Base32, Base64, Base85 Data Encodings.", "keywords": []},
+  {"topic": "base64 - Legacy Interface", "file": "base64/base64-decode-to-base64-encodebytes.md", "summary": "Open when checking base64 - Legacy Interface.", "keywords": []},
+  {"topic": "base64 - Security Considerations", "file": "base64/security-considerations.md", "summary": "Open when checking base64 - Security Considerations.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

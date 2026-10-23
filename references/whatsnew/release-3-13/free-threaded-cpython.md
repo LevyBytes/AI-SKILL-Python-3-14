@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Free-threaded CPython — sys
+# What's New In Python 3.13 / Free-threaded CPython - sys
 
 ### Free-threaded CPython
 

@@ -2,7 +2,7 @@
   {"topic": "code: `code.InteractiveInterpreter`", "file": "code/code-interactiveinterpreter-class.md", "summary": "Open when checking the documented contracts for `code.InteractiveInterpreter` in code.", "keywords": []},
   {"topic": "code: `code.InteractiveConsole`", "file": "code/code-interactiveconsole-class.md", "summary": "Open when checking the documented contracts for `code.InteractiveConsole` in code.", "keywords": []},
   {"topic": "code: `code.interact()`, `code.compile_command()`", "file": "code/code-interact-to-code-compile-command.md", "summary": "Open when checking the documented contracts for `code.interact()`, `code.compile_command()` in code.", "keywords": []},
-  {"topic": "code — Interactive Console Objects", "file": "code/interactiveconsole-interact-to-interactiveconsole-raw-input.md", "summary": "Open when checking code — Interactive Console Objects.", "keywords": []},
-  {"topic": "code — Interactive Interpreter Objects", "file": "interactive-interpreter-execution-and-output.md", "summary": "Open when checking code — Interactive Interpreter Objects.", "keywords": []},
+  {"topic": "code - Interactive Console Objects", "file": "code/interactiveconsole-interact-to-interactiveconsole-raw-input.md", "summary": "Open when checking code - Interactive Console Objects.", "keywords": []},
+  {"topic": "code - Interactive Interpreter Objects", "file": "interactive-interpreter-execution-and-output.md", "summary": "Open when checking code - Interactive Interpreter Objects.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

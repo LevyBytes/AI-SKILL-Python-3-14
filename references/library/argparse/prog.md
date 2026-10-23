@@ -1,4 +1,4 @@
-# argparse — prog
+# argparse - prog
 
 ### prog
 

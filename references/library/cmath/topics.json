@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "cmath — Trigonometric functions", "file": "cmath/cmath-acos-to-cmath-tan.md", "summary": "Open when checking cmath — Trigonometric functions.", "keywords": []},
-    {"topic": "cmath — Hyperbolic functions", "file": "cmath/cmath-acosh-to-cmath-tanh.md", "summary": "Open when checking cmath — Hyperbolic functions.", "keywords": []},
-    {"topic": "cmath — Power and logarithmic functions", "file": "cmath/cmath-exp-to-cmath-sqrt.md", "summary": "Open when checking cmath — Power and logarithmic functions.", "keywords": []},
-    {"topic": "cmath — Classification functions", "file": "cmath/cmath-isfinite-to-cmath-isclose.md", "summary": "Open when checking cmath — Classification functions.", "keywords": []},
-    {"topic": "cmath — `cmath` — Mathematical functions for complex numbers", "file": "cmath/cmath-mathematical-functions-for-complex-numbers.md", "summary": "Open when checking cmath — `cmath` — Mathematical functions for complex numbers.", "keywords": []},
-    {"topic": "cmath — Conversions to and from polar coordinates", "file": "cmath/cmath-phase-to-cmath-rect.md", "summary": "Open when checking cmath — Conversions to and from polar coordinates.", "keywords": []},
-    {"topic": "cmath — Constants", "file": "cmath/cmath-pi-to-cmath-nanj.md", "summary": "Open when checking cmath — Constants.", "keywords": []},
-    {"topic": "cmath — Mathematical functions for complex numbers", "file": "cmath/mathematical-functions-for-complex-numbers.md", "summary": "Open when checking cmath — Mathematical functions for complex numbers.", "keywords": []},
+    {"topic": "cmath - Trigonometric functions", "file": "cmath/cmath-acos-to-cmath-tan.md", "summary": "Open when checking cmath - Trigonometric functions.", "keywords": []},
+    {"topic": "cmath - Hyperbolic functions", "file": "cmath/cmath-acosh-to-cmath-tanh.md", "summary": "Open when checking cmath - Hyperbolic functions.", "keywords": []},
+    {"topic": "cmath - Power and logarithmic functions", "file": "cmath/cmath-exp-to-cmath-sqrt.md", "summary": "Open when checking cmath - Power and logarithmic functions.", "keywords": []},
+    {"topic": "cmath - Classification functions", "file": "cmath/cmath-isfinite-to-cmath-isclose.md", "summary": "Open when checking cmath - Classification functions.", "keywords": []},
+    {"topic": "cmath - `cmath` - Mathematical functions for complex numbers", "file": "cmath/cmath-mathematical-functions-for-complex-numbers.md", "summary": "Open when checking cmath - `cmath` - Mathematical functions for complex numbers.", "keywords": []},
+    {"topic": "cmath - Conversions to and from polar coordinates", "file": "cmath/cmath-phase-to-cmath-rect.md", "summary": "Open when checking cmath - Conversions to and from polar coordinates.", "keywords": []},
+    {"topic": "cmath - Constants", "file": "cmath/cmath-pi-to-cmath-nanj.md", "summary": "Open when checking cmath - Constants.", "keywords": []},
+    {"topic": "cmath - Mathematical functions for complex numbers", "file": "cmath/mathematical-functions-for-complex-numbers.md", "summary": "Open when checking cmath - Mathematical functions for complex numbers.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

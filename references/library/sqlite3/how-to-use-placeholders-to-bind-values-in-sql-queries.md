@@ -1,4 +1,4 @@
-# sqlite3 — How to use placeholders to bind values in SQL queries
+# sqlite3 - How to use placeholders to bind values in SQL queries
 
 ### How-to guides
 

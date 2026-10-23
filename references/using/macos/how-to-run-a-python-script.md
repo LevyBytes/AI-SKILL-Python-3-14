@@ -4,7 +4,7 @@
 
 You can fire up the Python interpreter in two ways. Should a Unix shell in a terminal window be familiar territory, you can run `python3.14` or `python3`, optionally trailed by one or more command line options (covered in [Command line and environment](https://docs.python.org/3.14/using/cmdline.html#using-on-general)). There is also a handy section in the Python tutorial about [using Python interactively from a shell](https://docs.python.org/3.14/tutorial/appendix.html#tut-interac).
 
-The interpreter can likewise be launched from an integrated development environment. [IDLE — Python editor and shell](https://docs.python.org/3.14/library/idle.html#idle) is a simple editor and interpreter environment bundled with Python's standard distribution. **IDLE** carries a Help menu giving you access to the Python documentation. Should Python be wholly new to you, the tutorial introduction is yours to read inside that document.
+The interpreter can likewise be launched from an integrated development environment. [IDLE - Python editor and shell](https://docs.python.org/3.14/library/idle.html#idle) is a simple editor and interpreter environment bundled with Python's standard distribution. **IDLE** carries a Help menu giving you access to the Python documentation. Should Python be wholly new to you, the tutorial introduction is yours to read inside that document.
 
 Plenty of other editors and IDEs exist as well; see [Editors and IDEs](https://docs.python.org/3.14/using/editors.html#editors) for further details.
 

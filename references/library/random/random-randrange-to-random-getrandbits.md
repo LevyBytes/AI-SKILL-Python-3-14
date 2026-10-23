@@ -1,4 +1,4 @@
-# random — Functions for integers
+# random - Functions for integers
 
 ### Functions for integers
 

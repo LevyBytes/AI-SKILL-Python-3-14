@@ -1,4 +1,4 @@
-# socket — Module contents
+# socket - Module contents
 
 ### Module contents
 

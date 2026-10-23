@@ -1,8 +1,8 @@
-# urllib — `urllib` — URL handling modules
+# urllib`urllib` - URL handling modules
 
-## urllib — URL handling modules
+## urllib - URL handling modules
 
-### `urllib` — URL handling modules
+### `urllib` - URL handling modules
 
 **Source code:** [Lib/urllib/](https://github.com/python/cpython/tree/3.14/Lib/urllib/)
 

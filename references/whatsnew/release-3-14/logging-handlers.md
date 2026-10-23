@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / logging.handlers — logging.handlers
+# What's new in Python 3.14 / logging.handlers - logging.handlers
 
 ### logging.handlers
 

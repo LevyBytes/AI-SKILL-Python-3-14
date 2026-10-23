@@ -1,4 +1,4 @@
-# Attribute Management — PyObject, tp_getattr, tp_setattr, tp_getattro, tp_setattro
+# Attribute Management - PyObject, tp_getattr, tp_setattr, tp_getattro, tp_setattro
 
 ### 3.3. Attribute Management
 

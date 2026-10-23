@@ -1,4 +1,4 @@
-# ctypes — Arrays
+# ctypes - Arrays
 
 Worth keeping in mind: how bit fields get allocated and arranged in memory is left undefined by the C standard, so each compiler decides for itself. By default, Python tries to mirror what a “native” compiler would do on the platform you are running. The `_layout_` attribute documents that default behavior and explains how you can override it.
 

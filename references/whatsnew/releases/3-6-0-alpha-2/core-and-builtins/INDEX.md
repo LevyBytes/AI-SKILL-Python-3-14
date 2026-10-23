@@ -11,4 +11,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 alpha 2 / core and builtins / streamlined make function dropped make closure opcodes: [Python 3.6.0 alpha 2 / core and builtins / streamlined make function dropped make closure opcodes](streamlined-make-function-dropped-make-closure-opcodes.md).
 - Open when checking Python 3.6.0 alpha 2 / core and builtins / text and unicode: [Python 3.6.0 alpha 2 / core and builtins / text and unicode](text-and-unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

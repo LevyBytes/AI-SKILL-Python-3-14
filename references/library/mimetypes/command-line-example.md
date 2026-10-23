@@ -1,4 +1,4 @@
-# mimetypes — Command-line example
+# mimetypes - Command-line example
 
 ### Command-line example
 

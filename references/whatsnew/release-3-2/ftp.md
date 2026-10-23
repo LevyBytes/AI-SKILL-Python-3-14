@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / ftp — fileinput, ftplib, mmap, socket, ssl
+# What's New In Python 3.2 / ftp - fileinput, ftplib, mmap, socket, ssl
 
 ### ftp
 

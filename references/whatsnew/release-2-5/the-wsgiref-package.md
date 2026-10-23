@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / The wsgiref package — wsgiref
+# What's New in Python 2.5 / The wsgiref package - wsgiref
 
 ### The wsgiref package
 

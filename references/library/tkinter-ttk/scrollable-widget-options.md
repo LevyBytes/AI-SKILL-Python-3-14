@@ -1,4 +1,4 @@
-# tkinter.ttk — Scrollable Widget Options
+# tkinter.ttk - Scrollable Widget Options
 
 ### Scrollable Widget Options
 

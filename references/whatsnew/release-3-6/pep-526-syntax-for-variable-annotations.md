@@ -20,7 +20,7 @@ Unlike variable declarations found in statically typed languages, the point of a
 
 See also
 
-[**PEP 526**](https://peps.python.org/pep-0526/) — Syntax for variable annotations.
+[**PEP 526**](https://peps.python.org/pep-0526/): Syntax for variable annotations.
 
 Authored as a PEP by Ryan Gonzalez, Philip House, Lisa Roach, Guido van Rossum, and Ivan Levkivskyi; the implementation came from Ivan Levkivskyi.
 

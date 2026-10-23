@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "syslog — Simple example", "file": "syslog/simple-example.md", "summary": "Open when checking syslog — Simple example.", "keywords": []},
+  {"topic": "syslog - Simple example", "file": "syslog/simple-example.md", "summary": "Open when checking syslog - Simple example.", "keywords": []},
   {"topic": "syslog: Syslog messages, connection control and priorities", "file": "syslog/syslog-syslog-to-syslog-log-debug.md", "summary": "Open when checking syslog messages, connection control and priorities in syslog.", "keywords": []},
   {"topic": "syslog: Syslog authentication, service and local facility constants", "file": "syslog/syslog-log-auth-to-syslog-log-local7.md", "summary": "Open when checking syslog authentication, service and local facility constants in syslog.", "keywords": []},
   {"topic": "syslog: `syslog.LOG_PID`, `syslog.LOG_CONS`, `syslog.LOG_NDELAY`, `syslog.LOG_ODELAY`, `syslog.LOG_NOWAIT`, `syslog.LOG_PERROR`", "file": "syslog/syslog-log-pid-to-syslog-log-perror.md", "summary": "Open when checking the documented contracts for `syslog.LOG_PID`, `syslog.LOG_CONS`, `syslog.LOG_NDELAY`, `syslog.LOG_ODELAY`, `syslog.LOG_NOWAIT`, `syslog.LOG_PERROR` in syslog.", "keywords": []},

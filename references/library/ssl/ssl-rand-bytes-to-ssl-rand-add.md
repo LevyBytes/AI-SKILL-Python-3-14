@@ -1,4 +1,4 @@
-# ssl — Random generation
+# ssl - Random generation
 
 ### Random generation
 

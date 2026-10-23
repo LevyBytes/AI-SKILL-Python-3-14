@@ -1,4 +1,4 @@
-# collections — `Counter` objects — Contract: The `elements()` method calls for integer counts.
+# collections`Counter` objects - Contract: The `elements()` method calls for integer counts.
 
 The `elements()` method calls for integer counts. Zero and negative counts are skipped.
 

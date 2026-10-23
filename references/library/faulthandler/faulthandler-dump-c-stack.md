@@ -1,4 +1,4 @@
-# faulthandler — Dumping the C stack
+# faulthandler - Dumping the C stack
 
 ### Dumping the C stack
 

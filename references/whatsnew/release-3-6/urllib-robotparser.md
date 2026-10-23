@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / urllib.robotparser — urllib.robotparser
+# What's New In Python 3.6 / urllib.robotparser - urllib.robotparser
 
 ### urllib.robotparser
 

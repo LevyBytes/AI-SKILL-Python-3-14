@@ -1,6 +1,6 @@
-# pdb — `pdb` — The Python Debugger
+# pdb`pdb` - The Python Debugger
 
-### `pdb` — The Python Debugger
+### `pdb` - The Python Debugger
 
 **Source code:** [Lib/pdb.py](https://github.com/python/cpython/tree/3.14/Lib/pdb.py)
 

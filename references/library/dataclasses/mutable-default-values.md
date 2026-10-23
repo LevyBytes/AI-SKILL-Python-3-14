@@ -1,4 +1,4 @@
-# dataclasses — Mutable default values
+# dataclasses - Mutable default values
 
 ### Mutable default values
 

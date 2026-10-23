@@ -1,6 +1,6 @@
-# ast — `ast` — Abstract syntax trees
+# ast`ast` - Abstract syntax trees
 
-### `ast` — Abstract syntax trees
+### `ast` - Abstract syntax trees
 
 **Source code:** [Lib/ast.py](https://github.com/python/cpython/tree/3.14/Lib/ast.py)
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / New, Improved, and Deprecated Modules — idle, imaplib, itertools, math, optparse, os, platform, posix, pyexpat, random, time
+# What’s New in Python 2.3 / New, Improved, and Deprecated Modules - idle, imaplib, itertools, math, optparse, os, platform, posix, pyexpat, random, time
 
 ```python
 >>> import heapq

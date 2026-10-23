@@ -1,4 +1,4 @@
-# locale — For extension writers and programs that embed Python
+# locale - For extension writers and programs that embed Python
 
 ### For extension writers and programs that embed Python
 

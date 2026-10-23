@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking dataless files and Windows file attributes in stat. [stat: Dataless files and Windows file attributes](stat-sf-dataless-to-stat-file-attribute-virtual.md).
 - Open when checking the documented contracts for `stat.IO_REPARSE_TAG_SYMLINK`, `stat.IO_REPARSE_TAG_MOUNT_POINT`, `stat.IO_REPARSE_TAG_APPEXECLINK` in stat. [stat: `stat.IO_REPARSE_TAG_SYMLINK`, `stat.IO_REPARSE_TAG_MOUNT_POINT`, `stat.IO_REPARSE_TAG_APPEXECLINK`](windows-reparse-tag-constants.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

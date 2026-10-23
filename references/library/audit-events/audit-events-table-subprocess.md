@@ -1,4 +1,4 @@
-# Audit events table — subprocess
+# Audit events table - subprocess
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

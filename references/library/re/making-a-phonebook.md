@@ -1,4 +1,4 @@
-# re — Making a Phonebook
+# re - Making a Phonebook
 
 ### Making a Phonebook
 

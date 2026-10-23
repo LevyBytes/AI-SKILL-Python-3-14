@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / asyncio — asyncio-eventloop, asyncio-runner, asyncio-sync
+# What's new in Python 3.14 / asyncio - asyncio-eventloop, asyncio-runner, asyncio-sync
 
 ### asyncio
 

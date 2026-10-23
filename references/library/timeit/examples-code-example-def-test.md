@@ -1,4 +1,4 @@
-# timeit — Examples — Code example: def test():
+# timeit - Examples - Code example: def test():
 
 ```python
 def test():

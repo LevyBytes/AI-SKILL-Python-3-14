@@ -1,4 +1,4 @@
-# Modules command-line interface (CLI) — Contract: `quopri`
+# Modules command-line interface (CLI) - Contract: `quopri`
 
 [`quopri`](https://docs.python.org/3.14/library/quopri.html#module-quopri)
 

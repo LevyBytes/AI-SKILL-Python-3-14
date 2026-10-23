@@ -1,4 +1,4 @@
-# multiprocessing — Exchanging objects between processes
+# multiprocessing - Exchanging objects between processes
 
 ### Exchanging objects between processes
 

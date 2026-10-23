@@ -1,4 +1,4 @@
-# struct — Applications
+# struct - Applications
 
 ### Applications
 

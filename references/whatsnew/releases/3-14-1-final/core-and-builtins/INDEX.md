@@ -31,4 +31,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.1 final / core and builtins / typing: [Python 3.14.1 final / core and builtins / typing](typing.md).
 - Open when checking Python 3.14.1 final / core and builtins / warnings: [Python 3.14.1 final / core and builtins / warnings](warnings.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

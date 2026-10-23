@@ -1,6 +1,6 @@
 # `ipaddress` ? IPv4/IPv6 manipulation library
 
-### `ipaddress` — IPv4/IPv6 manipulation library
+### `ipaddress` - IPv4/IPv6 manipulation library
 
 **Source code:** [Lib/ipaddress.py](https://github.com/python/cpython/tree/3.14/Lib/ipaddress.py)
 

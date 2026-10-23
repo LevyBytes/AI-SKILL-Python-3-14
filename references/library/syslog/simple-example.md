@@ -1,4 +1,4 @@
-# syslog — Simple example
+# syslog - Simple example
 
 ### Examples
 

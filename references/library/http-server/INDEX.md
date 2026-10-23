@@ -11,6 +11,6 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `address_string()` in http.server.BaseHTTPRequestHandler. [http.server.BaseHTTPRequestHandler: `address_string()`](http-server-basehttprequesthandler-address-string.md).
 - Open when checking the documented contracts for `http.server.SimpleHTTPRequestHandler`, `do_HEAD()`, `do_GET()` in http.server / HTTP servers. [http.server / HTTP servers: `http.server.SimpleHTTPRequestHandler`, `do_HEAD()`, `do_GET()`](simple-http-file-request-handler.md).
 - Open when checking the documented contracts for `http.server.CGIHTTPRequestHandler`, `do_POST()` in http.server / HTTP servers. [http.server / HTTP servers: `http.server.CGIHTTPRequestHandler`, `do_POST()`](cgi-request-handler-and-post.md).
-- Open when checking http.server — Security considerations: [http.server — Security considerations](security-considerations.md).
+- Open when checking http.server - Security considerations: [http.server - Security considerations](security-considerations.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

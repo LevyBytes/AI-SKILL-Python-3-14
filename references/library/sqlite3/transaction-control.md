@@ -1,4 +1,4 @@
-# sqlite3 — Transaction control
+# sqlite3 - Transaction control
 
 ### Explanation
 

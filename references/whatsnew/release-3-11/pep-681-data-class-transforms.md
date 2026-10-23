@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / PEP 681: Data class transforms — dataclasses, typing
+# What's New In Python 3.11 / PEP 681: Data class transforms - dataclasses, typing
 
 > (Contributed by Jelle Zijlstra in [bpo-47088](https://bugs.python.org/issue?@action=redirect&bpo=47088). PEP written by Pradeep Kumar Srinivasan and Graham Bleaney.)
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / zipimport — zipimport
+# What's New In Python 3.10 / zipimport - zipimport
 
 ### zipimport
 

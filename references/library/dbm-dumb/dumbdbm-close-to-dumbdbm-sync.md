@@ -1,4 +1,4 @@
-# dbm.dumb — **flag** (*str*) –
+# dbm.dumb - **flag** (*str*) –
 
 **flag** ([*str*](https://docs.python.org/3.14/library/stdtypes.html#str)) –
   - `'r'`: Open existing database for reading only.

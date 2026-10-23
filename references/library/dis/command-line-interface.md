@@ -1,4 +1,4 @@
-# dis — Command-line interface
+# dis - Command-line interface
 
 ### Command-line interface
 

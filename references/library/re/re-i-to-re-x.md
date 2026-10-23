@@ -1,4 +1,4 @@
-# re — Regular Expression Syntax — Contract: `re.I` (ignore case)
+# re - Regular Expression Syntax - Contract: `re.I` (ignore case)
 
 - `re.I` (ignore case)
 

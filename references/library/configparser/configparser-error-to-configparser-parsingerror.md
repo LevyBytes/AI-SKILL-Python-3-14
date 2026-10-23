@@ -1,4 +1,4 @@
-# configparser — Exceptions
+# configparser - Exceptions
 
 ### Exceptions
 

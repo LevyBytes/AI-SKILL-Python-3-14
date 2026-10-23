@@ -1,4 +1,4 @@
-# ensurepip — Command-line interface
+# ensurepip - Command-line interface
 
 ### Command-line interface
 

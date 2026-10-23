@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — Contract: Changed in version 3.4: Encoding of surrogate code points (`U+D800`–`U+DFFF`) is no longer permitted by the utf-16* and utf-32* encoders.
+# codecs - Standard Encodings - Contract: Changed in version 3.4: Encoding of surrogate code points (`U+D800`–`U+DFFF`) is no longer permitted by the utf-16* and utf-32* encoders.
 
 Changed in version 3.4: Encoding of surrogate code points (`U+D800`–`U+DFFF`) is no longer permitted by the utf-16* and utf-32* encoders. Byte sequences that map onto surrogate code points are, likewise, no longer decoded by the utf-32* decoders.
 

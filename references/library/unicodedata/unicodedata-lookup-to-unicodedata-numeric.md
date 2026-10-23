@@ -2,7 +2,7 @@
 
 # Unicodedata
 
-### `unicodedata` — Unicode Database
+### `unicodedata` - Unicode Database
 
 ---
 

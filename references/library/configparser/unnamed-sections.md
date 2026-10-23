@@ -1,4 +1,4 @@
-# configparser — Unnamed Sections
+# configparser - Unnamed Sections
 
 ### Unnamed Sections
 

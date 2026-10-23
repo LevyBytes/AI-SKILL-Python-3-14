@@ -1,4 +1,4 @@
-# Effects of the Python Development Mode — Section introduction and initial examples
+# Effects of the Python Development Mode - Section introduction and initial examples
 
 ### Effects of the Python Development Mode
 

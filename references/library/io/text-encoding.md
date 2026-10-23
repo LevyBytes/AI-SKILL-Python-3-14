@@ -1,4 +1,4 @@
-# io — Text Encoding
+# io - Text Encoding
 
 ### Text Encoding
 

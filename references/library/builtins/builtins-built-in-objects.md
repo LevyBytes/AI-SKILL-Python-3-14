@@ -1,8 +1,8 @@
-# builtins — `builtins` — Built-in objects
+# builtins`builtins` - Built-in objects
 
-## builtins — Built-in objects
+## builtins - Built-in objects
 
-### `builtins` — Built-in objects
+### `builtins` - Built-in objects
 
 ---
 

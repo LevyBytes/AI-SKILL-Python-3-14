@@ -1,6 +1,6 @@
-# math — `math` — Mathematical functions
+# math`math` - Mathematical functions
 
-### `math` — Mathematical functions
+### `math` - Mathematical functions
 
 ---
 

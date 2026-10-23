@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / New, Improved, and Removed Modules — re, socket, struct, sys, tarfile, threading, unicodedata, uuid, xmlrpc.server
+# What's New in Python 2.5 / New, Improved, and Removed Modules - re, socket, struct, sys, tarfile, threading, unicodedata, uuid, xmlrpc.server
 
 The [`SimpleXMLRPCServer`](https://docs.python.org/3.14/library/xmlrpc.server.html#module-xmlrpc.server) and `DocXMLRPCServer` classes have gained an `rpc_paths` attribute that restricts XML-RPC requests to a small list of permitted URL paths; by default only `'/'` and `'/RPC2'` are accepted. Assigning `None` or an empty tuple to `rpc_paths` turns this path validation off.
 

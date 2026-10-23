@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / DOM Support — xml.dom.minidom
+# What’s New in Python 2.0 / DOM Support - xml.dom.minidom
 
 ### DOM Support
 

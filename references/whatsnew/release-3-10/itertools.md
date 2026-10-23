@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / itertools — itertools
+# What's New In Python 3.10 / itertools - itertools
 
 ### itertools
 

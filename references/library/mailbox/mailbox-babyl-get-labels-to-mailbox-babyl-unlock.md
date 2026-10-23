@@ -18,7 +18,7 @@ Within Babyl mailboxes, a message's headers aren't kept contiguous with the mess
 
  unlock()
 
-Three locking schemes come into play—dot locking plus, where they're available, the `flock()` and `lockf()` system calls.
+Three locking schemes come into play: dot locking plus, where they're available, the `flock()` and `lockf()` system calls.
 
 See also
 

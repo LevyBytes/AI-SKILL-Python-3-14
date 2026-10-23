@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 563: Postponed Evaluation of Annotations — __future__, typing
+# What's New In Python 3.7 / PEP 563: Postponed Evaluation of Annotations - __future__, typing
 
 ### New Features
 
@@ -39,7 +39,7 @@ Python 3.10 will make it the default.
 
 See also
 
-[**PEP 563**](https://peps.python.org/pep-0563/) — Postponed evaluation of annotations
+[**PEP 563**](https://peps.python.org/pep-0563/): Postponed evaluation of annotations
 
 PEP written and implemented by ??ukasz Langa.
 

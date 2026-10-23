@@ -1,8 +1,8 @@
 # fileinput: `fileinput.input()`, `fileinput.filename()`, `fileinput.fileno()`, `fileinput.lineno()`, `fileinput.filelineno()`, `fileinput.isfirstline()`, `fileinput.isstdin()`, `fileinput.nextfile()`
 
-## fileinput — Iterate over lines from multiple input streams
+## fileinput - Iterate over lines from multiple input streams
 
-### `fileinput` — Iterate over lines from multiple input streams
+### `fileinput` - Iterate over lines from multiple input streams
 
 **Source code:** [Lib/fileinput.py](https://github.com/python/cpython/tree/3.14/Lib/fileinput.py)
 

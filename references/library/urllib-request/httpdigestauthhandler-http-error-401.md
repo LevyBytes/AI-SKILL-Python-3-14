@@ -1,4 +1,4 @@
-# urllib.request — HTTPDigestAuthHandler Objects
+# urllib.request - HTTPDigestAuthHandler Objects
 
 ### HTTPDigestAuthHandler Objects
 

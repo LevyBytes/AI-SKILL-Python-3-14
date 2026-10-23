@@ -1,4 +1,4 @@
-# email.headerregistry — `email.headerregistry`: Custom Header Objects
+# email.headerregistry`email.headerregistry`: Custom Header Objects
 
 *class *email.headerregistry.HeaderRegistry(*base_class=BaseHeader*, *default_class=UnstructuredHeader*, *use_default_map=True*)
 

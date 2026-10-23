@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / sys — asyncio, sys
+# What's New In Python 3.7 / sys - asyncio, sys
 
 ### sys
 

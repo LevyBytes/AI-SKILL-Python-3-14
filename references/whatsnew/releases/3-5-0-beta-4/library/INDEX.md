@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.0 beta 4 / library / unittest mock: [Python 3.5.0 beta 4 / library / unittest mock](unittest-mock.md).
 - Open when checking Python 3.5.0 beta 4 / library / unittest: [Python 3.5.0 beta 4 / library / unittest](unittest.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

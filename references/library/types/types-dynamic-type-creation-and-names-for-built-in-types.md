@@ -1,8 +1,8 @@
-# types — `types` — Dynamic type creation and names for built-in types
+# types`types` - Dynamic type creation and names for built-in types
 
 # Types
 
-### `types` — Dynamic type creation and names for built-in types
+### `types` - Dynamic type creation and names for built-in types
 
 **Source code:** [Lib/types.py](https://github.com/python/cpython/tree/3.14/Lib/types.py)
 

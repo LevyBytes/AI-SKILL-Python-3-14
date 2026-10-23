@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / urllib.parse — urllib.parse
+# What's New In Python 3.10 / urllib.parse - urllib.parse
 
 ### urllib.parse
 

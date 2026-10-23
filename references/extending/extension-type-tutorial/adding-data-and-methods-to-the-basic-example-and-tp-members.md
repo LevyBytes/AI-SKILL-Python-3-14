@@ -1,4 +1,4 @@
-# Adding data and methods to the Basic example — Custom_init, PyObject, PyArg_ParseTupleAndKeywords, Py_INCREF, Py_XDECREF, tp_init, PyTypeObject, tp_new, tp_dealloc, PyMemberDef, Custom_members, Py_T_OBJECT_EX, Py_T_INT, tp_members
+# Adding data and methods to the Basic example - Custom_init, PyObject, PyArg_ParseTupleAndKeywords, Py_INCREF, Py_XDECREF, tp_init, PyTypeObject, tp_new, tp_dealloc, PyMemberDef, Custom_members, Py_T_OBJECT_EX, Py_T_INT, tp_members
 
 ```c
 static int

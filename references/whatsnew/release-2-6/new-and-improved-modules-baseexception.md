@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — pdb, pickletools, pkgutil, queue, random, re, rlcompleter, sched, select, shutil, signal, sys
+# What’s New in Python 2.6 / New and Improved Modules - pdb, pickletools, pkgutil, queue, random, re, rlcompleter, sched, select, shutil, signal, sys
 
 A fresh command landed in the Python debugger that ships with the [`pdb`](https://docs.python.org/3.14/library/pdb.html#module-pdb) module: "run" relaunches the program under debugging, and you may hand it fresh command-line arguments for that program if you wish. (Contributed by Rocky Bernstein; [bpo-1393667](https://bugs.python.org/issue?@action=redirect&bpo=1393667).)
 

@@ -1,4 +1,4 @@
-# bdb — `bdb` — Debugger framework
+# bdb`bdb` - Debugger framework
 
 format_stack_entry(*frame_lineno*, *lprefix=': '*)
 

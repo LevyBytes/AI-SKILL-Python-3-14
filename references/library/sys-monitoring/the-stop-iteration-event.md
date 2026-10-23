@@ -1,4 +1,4 @@
-# sys.monitoring — The STOP_ITERATION event
+# sys.monitoring - The STOP_ITERATION event
 
 ### The STOP_ITERATION event
 

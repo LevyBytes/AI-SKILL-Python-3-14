@@ -1,8 +1,8 @@
 # stringprep: Stringprep character-table membership predicates
 
-## stringprep — Internet String Preparation
+## stringprep - Internet String Preparation
 
-### `stringprep` — Internet String Preparation
+### `stringprep` - Internet String Preparation
 
 **Source code:** [Lib/stringprep.py](https://github.com/python/cpython/tree/3.14/Lib/stringprep.py)
 

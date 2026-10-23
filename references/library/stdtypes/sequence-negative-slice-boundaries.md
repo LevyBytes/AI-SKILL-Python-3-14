@@ -1,4 +1,4 @@
-# Common Sequence Operations — Contract: When *i* or *j* is below `-len(s)`, use `0`.
+# Common Sequence Operations - Contract: When *i* or *j* is below `-len(s)`, use `0`.
 
 When *i* or *j* is below `-len(s)`, use `0`.
 

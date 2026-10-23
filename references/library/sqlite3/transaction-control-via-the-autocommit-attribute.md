@@ -1,4 +1,4 @@
-# sqlite3 — Transaction control via the `autocommit` attribute
+# sqlite3 - Transaction control via the `autocommit` attribute
 
 #### Transaction control via the `autocommit` attribute
 

@@ -1,4 +1,4 @@
-# tarfile — Command-Line Interface
+# tarfile - Command-Line Interface
 
 ### Command-Line Interface
 

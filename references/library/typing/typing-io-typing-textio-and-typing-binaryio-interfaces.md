@@ -1,4 +1,4 @@
-# typing — typing.IO, typing.TextIO and typing.BinaryIO interfaces
+# typing - typing.IO, typing.TextIO and typing.BinaryIO interfaces
 
 For situations where only the `read()` method or only the `write()` method is used, the protocols [`io.Reader`](https://docs.python.org/3.14/library/io.html#io.Reader) and [`io.Writer`](https://docs.python.org/3.14/library/io.html#io.Writer) provide a lighter-weight way to annotate the respective arguments:
 

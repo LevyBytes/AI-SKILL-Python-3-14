@@ -1,4 +1,4 @@
-# zoneinfo — Globals
+# zoneinfo - Globals
 
 ### Globals
 

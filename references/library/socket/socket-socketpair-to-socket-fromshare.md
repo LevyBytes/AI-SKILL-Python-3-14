@@ -1,4 +1,4 @@
-# socket — Creating sockets
+# socket - Creating sockets
 
 ### Functions
 

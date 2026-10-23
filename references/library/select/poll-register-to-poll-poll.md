@@ -1,4 +1,4 @@
-# select — Polling objects
+# select - Polling objects
 
 ### Polling objects
 

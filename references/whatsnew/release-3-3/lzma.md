@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / lzma — lzma
+# What's New In Python 3.3 / lzma - lzma
 
 ### lzma
 

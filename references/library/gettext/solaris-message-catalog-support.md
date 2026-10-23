@@ -1,4 +1,4 @@
-# gettext — Solaris message catalog support
+# gettext - Solaris message catalog support
 
 ### Solaris message catalog support
 

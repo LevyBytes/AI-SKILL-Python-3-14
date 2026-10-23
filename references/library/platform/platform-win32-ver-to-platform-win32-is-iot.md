@@ -1,4 +1,4 @@
-# platform — Windows platform
+# platform - Windows platform
 
 ### Windows platform
 

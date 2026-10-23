@@ -1,4 +1,4 @@
-# pickle — Handling Stateful Objects
+# pickle - Handling Stateful Objects
 
 ### Handling Stateful Objects
 

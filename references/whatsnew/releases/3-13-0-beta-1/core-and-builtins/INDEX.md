@@ -27,4 +27,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 beta 1 / core and builtins / threads and concurrency: [Python 3.13.0 beta 1 / core and builtins / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.13.0 beta 1 / core and builtins / traceback: [Python 3.13.0 beta 1 / core and builtins / traceback](traceback.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

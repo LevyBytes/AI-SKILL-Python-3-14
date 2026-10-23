@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / New modules — annotationlib, compression, compression.zstd, concurrent.interpreters, string.templatelib
+# What's new in Python 3.14 / New modules - annotationlib, compression, compression.zstd, concurrent.interpreters, string.templatelib
 
 ### New modules
 

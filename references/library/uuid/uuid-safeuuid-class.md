@@ -1,8 +1,8 @@
 # uuid: `uuid.SafeUUID`
 
-## uuid — UUID objects according to RFC 9562
+## uuid - UUID objects according to RFC 9562
 
-### `uuid` — UUID objects according to [**RFC 9562**](https://datatracker.ietf.org/doc/html/rfc9562.html)
+### `uuid` - UUID objects according to [**RFC 9562**](https://datatracker.ietf.org/doc/html/rfc9562.html)
 
 **Source code:** [Lib/uuid.py](https://github.com/python/cpython/tree/3.14/Lib/uuid.py)
 

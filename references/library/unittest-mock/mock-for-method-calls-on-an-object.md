@@ -1,4 +1,4 @@
-# unittest.mock — Mock for method calls on an object
+# unittest.mock - Mock for method calls on an object
 
 ### Mock for method calls on an object
 

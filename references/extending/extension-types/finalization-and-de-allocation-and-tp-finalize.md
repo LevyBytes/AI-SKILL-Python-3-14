@@ -1,4 +1,4 @@
-# Finalization and De-allocation — tp_dealloc, PyObject, Py_TYPE, tp_free, PyObject_GC_UnTrack, Py_CLEAR, PyErr_Fetch, PyErr_Restore, PyObject_CallNoArgs, PyErr_WriteUnraisable, Py_DECREF, tp_traverse, PyTypeObject, tp_clear, tp_finalize
+# Finalization and De-allocation - tp_dealloc, PyObject, Py_TYPE, tp_free, PyObject_GC_UnTrack, Py_CLEAR, PyErr_Fetch, PyErr_Restore, PyObject_CallNoArgs, PyErr_WriteUnraisable, Py_DECREF, tp_traverse, PyTypeObject, tp_clear, tp_finalize
 
 ### 3.1. Finalization and De-allocation
 

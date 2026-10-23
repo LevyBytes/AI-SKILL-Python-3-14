@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "csv — `csv` — CSV File Reading and Writing", "file": "csv/csv-csv-file-reading-and-writing.md", "summary": "Open when checking csv — `csv` — CSV File Reading and Writing.", "keywords": []},
+  {"topic": "csv - `csv` - CSV File Reading and Writing", "file": "csv/csv-csv-file-reading-and-writing.md", "summary": "Open when checking csv - `csv` - CSV File Reading and Writing.", "keywords": []},
   {"topic": "csv: `csv.reader()`, `csv.writer()`, `csv.register_dialect()`, `csv.unregister_dialect()`, `csv.get_dialect()`, `csv.list_dialects()`, `csv.field_size_limit()`", "file": "csv/csv-reader-to-csv-field-size-limit.md", "summary": "Open when checking the documented contracts for `csv.reader()`, `csv.writer()`, `csv.register_dialect()`, `csv.unregister_dialect()`, `csv.get_dialect()`, `csv.list_dialects()`, `csv.field_size_limit()` in csv.", "keywords": []},
   {"topic": "csv: `csv.DictReader`", "file": "csv/csv-dictreader-class.md", "summary": "Open when checking the documented contracts for `csv.DictReader` in csv.", "keywords": []},
   {"topic": "csv: `csv.DictWriter`", "file": "csv/csv-dictwriter-class.md", "summary": "Open when checking the documented contracts for `csv.DictWriter` in csv.", "keywords": []},
@@ -9,9 +9,9 @@
   {"topic": "csv: `csv.unix_dialect`", "file": "csv/csv-unix-dialect-class.md", "summary": "Open when checking the documented contracts for `csv.unix_dialect` in csv.", "keywords": []},
   {"topic": "csv / Module Contents: `csv.Sniffer`, `sniff()`, `has_header()`", "file": "csv/csv-sniffer-class-to-csv-sniffer-has-header.md", "summary": "Open when checking the documented contracts for `csv.Sniffer`, `sniff()`, `has_header()` in csv / Module Contents.", "keywords": []},
   {"topic": "csv: `csv.QUOTE_ALL`, `csv.QUOTE_MINIMAL`, `csv.QUOTE_NONNUMERIC`, `csv.QUOTE_NONE`, `csv.QUOTE_NOTNULL`, `csv.QUOTE_STRINGS`, `csv.Error`", "file": "csv/csv-quote-all-to-csv-error.md", "summary": "Open when checking the documented contracts for `csv.QUOTE_ALL`, `csv.QUOTE_MINIMAL`, `csv.QUOTE_NONNUMERIC`, `csv.QUOTE_NONE`, `csv.QUOTE_NOTNULL`, `csv.QUOTE_STRINGS`, `csv.Error` in csv.", "keywords": []},
-  {"topic": "csv — Reader Objects", "file": "csv/csvreader-next-to-dictreader-fieldnames.md", "summary": "Open when checking csv — Reader Objects.", "keywords": []},
-  {"topic": "csv — Writer Objects", "file": "csv/csvwriter-writerow-to-dictwriter-writeheader.md", "summary": "Open when checking csv — Writer Objects.", "keywords": []},
-  {"topic": "csv — Dialects and Formatting Parameters", "file": "csv/dialect-delimiter-to-dialect-strict.md", "summary": "Open when checking csv — Dialects and Formatting Parameters.", "keywords": []},
-  {"topic": "csv — Examples", "file": "csv/examples.md", "summary": "Open when checking csv — Examples.", "keywords": []},
+  {"topic": "csv - Reader Objects", "file": "csv/csvreader-next-to-dictreader-fieldnames.md", "summary": "Open when checking csv - Reader Objects.", "keywords": []},
+  {"topic": "csv - Writer Objects", "file": "csv/csvwriter-writerow-to-dictwriter-writeheader.md", "summary": "Open when checking csv - Writer Objects.", "keywords": []},
+  {"topic": "csv - Dialects and Formatting Parameters", "file": "csv/dialect-delimiter-to-dialect-strict.md", "summary": "Open when checking csv - Dialects and Formatting Parameters.", "keywords": []},
+  {"topic": "csv - Examples", "file": "csv/examples.md", "summary": "Open when checking csv - Examples.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# datetime — Aware and naive objects
+# datetime - Aware and naive objects
 
 ### Aware and naive objects
 

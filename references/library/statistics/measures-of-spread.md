@@ -1,4 +1,4 @@
-# statistics — Measures of spread
+# statistics - Measures of spread
 
 ### Measures of spread
 

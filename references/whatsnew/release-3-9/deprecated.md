@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / Deprecated — ast, math
+# What's New In Python 3.9 / Deprecated - ast, math
 
 ### Deprecated
 

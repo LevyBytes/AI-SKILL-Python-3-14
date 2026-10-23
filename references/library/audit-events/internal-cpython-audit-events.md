@@ -1,4 +1,4 @@
-# Audit events table — Contract: These next events fire internally and map to no public API within CPython:
+# Audit events table - Contract: These next events fire internally and map to no public API within CPython:
 
 These next events fire internally and map to no public API within CPython:
 

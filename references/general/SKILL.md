@@ -3,7 +3,7 @@ name: general
 description: "Use when checking Python glossary definitions and terminology, documentation origins and contributors, or bug-reporting guidance in the bundled Python 3.14 documentation."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

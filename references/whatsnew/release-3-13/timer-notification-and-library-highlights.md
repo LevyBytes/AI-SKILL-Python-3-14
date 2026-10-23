@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Summary ? Release Highlights — os, random, ssl, typing, warnings
+# What's New In Python 3.13 / Summary ? Release Highlights - os, random, ssl, typing, warnings
 
 The [`os`](https://docs.python.org/3.14/library/os.html#module-os) module gained a [suite of new functions](https://docs.python.org/3.14/library/os.html#os-timerfd) for handling Linux’s timer notification file descriptors.
 

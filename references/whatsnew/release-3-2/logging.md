@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / logging — logging, logging.handlers, string, sys
+# What's New In Python 3.2 / logging - logging, logging.handlers, string, sys
 
 ### logging
 

@@ -2,7 +2,7 @@
 
 # Xmlrpc.Server
 
-### `xmlrpc.server` — Basic XML-RPC servers
+### `xmlrpc.server` - Basic XML-RPC servers
 
 **Source code:** [Lib/xmlrpc/server.py](https://github.com/python/cpython/tree/3.14/Lib/xmlrpc/server.py)
 

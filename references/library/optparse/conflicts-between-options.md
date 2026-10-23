@@ -1,4 +1,4 @@
-# optparse — Conflicts between options
+# optparse - Conflicts between options
 
 ### Conflicts between options
 

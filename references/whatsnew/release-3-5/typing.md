@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / typing — typing
+# What’s New In Python 3.5 / typing - typing
 
 ### New Modules
 

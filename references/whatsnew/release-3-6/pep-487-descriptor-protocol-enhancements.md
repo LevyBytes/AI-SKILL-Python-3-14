@@ -25,7 +25,7 @@ class Model:
 
 See also
 
-[**PEP 487**](https://peps.python.org/pep-0487/) — Simpler customization of class creation
+[**PEP 487**](https://peps.python.org/pep-0487/): Simpler customization of class creation
 
 PEP written and implemented by Martin Teichmann.
 

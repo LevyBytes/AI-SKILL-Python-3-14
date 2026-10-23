@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 1.2.1. Lexical and Syntactic definitions: [1.2.1. Lexical and Syntactic definitions](lexical-and-syntactic-definitions.md).
 - Open when checking 1.2. Notation: [1.2. Notation](notation.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

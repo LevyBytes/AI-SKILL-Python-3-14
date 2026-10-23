@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / Port-Specific Changes — fcntl
+# What’s New in Python 2.3 / Port-Specific Changes - fcntl
 
 ### Port-Specific Changes
 

@@ -1,4 +1,4 @@
-# sqlite3 — How to handle non-UTF-8 text encodings
+# sqlite3 - How to handle non-UTF-8 text encodings
 
 ### How to handle non-UTF-8 text encodings
 

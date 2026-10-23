@@ -1,4 +1,4 @@
-# unittest.mock — Nesting patches
+# unittest.mock - Nesting patches
 
 ### Nesting patches
 

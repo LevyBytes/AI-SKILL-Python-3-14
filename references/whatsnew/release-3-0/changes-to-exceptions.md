@@ -1,4 +1,4 @@
-# What's New In Python 3.0 / Changes To Exceptions — sys
+# What's New In Python 3.0 / Changes To Exceptions - sys
 
 ### Changes To Exceptions
 

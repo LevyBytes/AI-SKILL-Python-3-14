@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Pending removal in future versions — threading, typing, unittest, urllib.parse
+# What's new in Python 3.14 / Pending removal in future versions - threading, typing, unittest, urllib.parse
 
 - `ssl.TLSVersion.TLSv1`
 

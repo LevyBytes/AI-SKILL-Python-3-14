@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 2 / build / support bsd os dropped: [Python 3.7.0 alpha 2 / build / support bsd os dropped](support-bsd-os-dropped.md).
 - Open when checking Python 3.7.0 alpha 2 / build / sys: [Python 3.7.0 alpha 2 / build / sys](sys.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

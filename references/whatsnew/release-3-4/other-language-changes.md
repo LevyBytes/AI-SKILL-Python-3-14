@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Other Language Changes — codecs, collections.abc, inspect, pydoc, weakref
+# What's New In Python 3.4 / Other Language Changes - codecs, collections.abc, inspect, pydoc, weakref
 
 ### Other Language Changes
 

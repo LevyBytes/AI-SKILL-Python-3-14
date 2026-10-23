@@ -1,4 +1,4 @@
-# re — Exceptions
+# re - Exceptions
 
 ### Exceptions
 

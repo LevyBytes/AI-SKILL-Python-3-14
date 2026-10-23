@@ -1,4 +1,4 @@
-# math — Angular conversion
+# math - Angular conversion
 
 ### Angular conversion
 

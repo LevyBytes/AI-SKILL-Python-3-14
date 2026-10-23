@@ -1,4 +1,4 @@
-# threading — Thread-local data
+# threading - Thread-local data
 
 *class *threading.local
 

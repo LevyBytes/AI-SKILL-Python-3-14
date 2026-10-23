@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — os, os.path, stat, subprocess
+# What’s New in Python 2.6 / New and Improved Modules - os, os.path, stat, subprocess
 
 The `attrgetter()` function now takes dotted names and carries out the matching attribute lookups:
 

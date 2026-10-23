@@ -1,4 +1,4 @@
-# io — Class hierarchy
+# io - Class hierarchy
 
 ### Class hierarchy
 

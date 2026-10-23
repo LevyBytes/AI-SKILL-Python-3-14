@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / New module: sysconfig — sysconfig
+# What’s New in Python 2.7 / New module: sysconfig - sysconfig
 
 ### New module: sysconfig
 

@@ -1,4 +1,4 @@
-# typing — Building generic types and type aliases — Code example: a = concatenate('one', 'two')
+# typing - Building generic types and type aliases - Code example: a = concatenate('one', 'two')
 
 ```python
 a = concatenate('one', 'two')

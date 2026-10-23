@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / The Future for Python 2.x — argparse, collections, decimal, unittest
+# What’s New in Python 2.7 / The Future for Python 2.x - argparse, collections, decimal, unittest
 
 ### What’s New in Python 2.7
 

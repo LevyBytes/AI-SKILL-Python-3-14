@@ -1,4 +1,4 @@
-# Audit events table — pathlib
+# Audit events table - pathlib
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -1,4 +1,4 @@
-# test.support — `test.support` — Utilities for the Python test suite
+# test.support`test.support` - Utilities for the Python test suite
 
 A decorator that executes the test only when the [Limited C API](https://docs.python.org/3.14/c-api/stable.html#limited-c-api) can be used.
 

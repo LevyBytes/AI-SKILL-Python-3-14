@@ -1,4 +1,4 @@
-# cmath — Hyperbolic functions
+# cmath - Hyperbolic functions
 
 ### Hyperbolic functions
 

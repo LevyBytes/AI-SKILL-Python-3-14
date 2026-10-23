@@ -1,4 +1,4 @@
-# optparse — Querying and manipulating your option parser
+# optparse - Querying and manipulating your option parser
 
 ### Querying and manipulating your option parser
 

@@ -1,4 +1,4 @@
-# xml.etree.ElementTree — Pull API for non-blocking parsing
+# xml.etree.ElementTree - Pull API for non-blocking parsing
 
 ### Pull API for non-blocking parsing
 

@@ -1,8 +1,8 @@
-# copyreg — `copyreg` — Register `pickle` support functions
+# copyreg`copyreg` - Register `pickle` support functions
 
-## copyreg — Register pickle support functions
+## copyreg - Register pickle support functions
 
-### `copyreg` — Register `pickle` support functions
+### `copyreg` - Register `pickle` support functions
 
 **Source code:** [Lib/copyreg.py](https://github.com/python/cpython/tree/3.14/Lib/copyreg.py)
 

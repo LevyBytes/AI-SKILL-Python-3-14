@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 3 / build / files and paths: [Python 3.7.0 alpha 3 / build / files and paths](files-and-paths.md).
 - Open when checking Python 3.7.0 alpha 3 / build / move os x installer onto sqlite: [Python 3.7.0 alpha 3 / build / move os x installer onto sqlite](move-os-x-installer-onto-sqlite.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

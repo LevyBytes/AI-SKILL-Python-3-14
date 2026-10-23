@@ -20,7 +20,7 @@ Slice indexes that fall out of range, by contrast, are tolerated cleanly during 
 
 ```
 
-Strings in Python are unchangeable — they are [immutable](https://docs.python.org/3.14/glossary.html#term-immutable). Hence, writing to an indexed slot within a string brings about an error:
+Strings in Python are unchangeable - they are [immutable](https://docs.python.org/3.14/glossary.html#term-immutable). Hence, writing to an indexed slot within a string brings about an error:
 
 ```python
 >>> word[0] = 'J'
@@ -55,7 +55,7 @@ Calling the built-in [`len()`](https://docs.python.org/3.14/library/functions.ht
 
 See also
 
-[Text Sequence Type — str](https://docs.python.org/3.14/library/stdtypes.html#textseq)
+[Text Sequence Type - str](https://docs.python.org/3.14/library/stdtypes.html#textseq)
 
 Strings count as *sequence types*, and they support the shared operations that such types provide.
 

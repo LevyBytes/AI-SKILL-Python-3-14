@@ -1,4 +1,4 @@
-# string.templatelib — Helper functions
+# string.templatelib - Helper functions
 
 ### Helper functions
 

@@ -1,4 +1,4 @@
-# multiprocessing — The *spawn* and *forkserver* start methods
+# multiprocessing - The *spawn* and *forkserver* start methods
 
 ### The *spawn* and *forkserver* start methods
 

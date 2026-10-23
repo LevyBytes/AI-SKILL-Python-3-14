@@ -25,7 +25,7 @@ flowchart LR
 
 Python compatibility references for identifying deprecated behavior and planning upgrades. Language, standard-library and C API changes are separated so removal schedules can be checked against the version actually being targeted.
 
-Use when checking Python deprecated features, scheduled removal versions, migration replacements, compatibility shims, standard-library deprecations or C API removals in the bundled Python 3.14 documentation. Distinguishes version-specific removal schedules from deprecations with no fixed removal date.
+Use when checking Python deprecated features, scheduled removal versions, migration replacements, compatibility shims, standard-library deprecations or C API removals in the bundled Python 3.14 documentation.
 
 ## What this skill helps with
 

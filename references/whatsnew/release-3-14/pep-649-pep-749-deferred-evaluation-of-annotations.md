@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / **PEP 649** & **PEP 749**: Deferred evaluation of annotations — annotationlib
+# What's new in Python 3.14 / **PEP 649** & **PEP 749**: Deferred evaluation of annotations - annotationlib
 
 ### New features
 

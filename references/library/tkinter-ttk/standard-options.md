@@ -1,4 +1,4 @@
-# tkinter.ttk — Standard Options
+# tkinter.ttk - Standard Options
 
 ### Standard Options
 

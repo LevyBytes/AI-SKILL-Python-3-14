@@ -1,4 +1,4 @@
-# pprint — Example — Section introduction and initial examples
+# pprint - Example - Section introduction and initial examples
 
 ### Example
 

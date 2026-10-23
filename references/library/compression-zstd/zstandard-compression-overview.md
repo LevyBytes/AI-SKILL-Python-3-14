@@ -1,6 +1,6 @@
 # `compression.zstd` ? Compression compatible with the Zstandard format
 
-### `compression.zstd` — Compression compatible with the Zstandard format
+### `compression.zstd` - Compression compatible with the Zstandard format
 
 Added in version 3.14.
 

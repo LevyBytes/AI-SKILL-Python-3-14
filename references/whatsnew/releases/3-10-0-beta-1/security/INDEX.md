@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 beta 1 / security / urllib parse: [Python 3.10.0 beta 1 / security / urllib parse](urllib-parse.md).
 - Open when checking Python 3.10.0 beta 1 / security / urllib request: [Python 3.10.0 beta 1 / security / urllib request](urllib-request.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

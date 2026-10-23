@@ -1,4 +1,4 @@
-# unittest.mock — Quick Guide — Section introduction and initial examples
+# unittest.mock - Quick Guide - Section introduction and initial examples
 
 ### Quick Guide
 

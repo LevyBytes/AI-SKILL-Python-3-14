@@ -1,4 +1,4 @@
-# re — Simulating scanf()
+# re - Simulating scanf()
 
 ### Simulating scanf()
 

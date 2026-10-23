@@ -1,4 +1,4 @@
-# random — Functions for bytes
+# random - Functions for bytes
 
 ### Functions for bytes
 

@@ -1,4 +1,4 @@
-# zipfile — Command-line interface
+# zipfile - Command-line interface
 
 ### Command-line interface
 

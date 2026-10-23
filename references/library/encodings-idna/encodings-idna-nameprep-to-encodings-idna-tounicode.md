@@ -1,6 +1,6 @@
-# encodings.idna — `encodings.idna` — Internationalized Domain Names in Applications
+# encodings.idna`encodings.idna` - Internationalized Domain Names in Applications
 
-### `encodings.idna` — Internationalized Domain Names in Applications
+### `encodings.idna` - Internationalized Domain Names in Applications
 
 What this module provides is [**RFC 3490**](https://datatracker.ietf.org/doc/html/rfc3490.html) (Internationalized Domain Names in Applications) together with [**RFC 3492**](https://datatracker.ietf.org/doc/html/rfc3492.html) (Nameprep: A Stringprep Profile for Internationalized Domain Names (IDN)). Its foundation is the `punycode` encoding plus [`stringprep`](https://docs.python.org/3.14/library/stringprep.html#module-stringprep).
 

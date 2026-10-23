@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PyImport_AppendInittab()` in imports C API. [imports C API: `PyImport_AppendInittab()`](pyimport-frozenmodules-to-pyimport-appendinittab.md).
 - Open when checking builtin-module initialization table and attribute imports in imports C API. [imports C API: Builtin-module initialization table and attribute imports](name-to-pyimport-importmoduleattrstring.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

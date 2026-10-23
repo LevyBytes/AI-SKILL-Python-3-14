@@ -1,4 +1,4 @@
-# io — Binary I/O
+# io - Binary I/O
 
 ### Binary I/O
 

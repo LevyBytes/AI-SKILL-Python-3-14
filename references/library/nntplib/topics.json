@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "nntplib — `nntplib` — NNTP protocol client", "file": "nntplib/nntplib-nntp-protocol-client.md", "summary": "Open when checking nntplib — `nntplib` — NNTP protocol client.", "keywords": []},
+    {"topic": "nntplib - `nntplib` - NNTP protocol client", "file": "nntplib/nntplib-nntp-protocol-client.md", "summary": "Open when checking nntplib - `nntplib` - NNTP protocol client.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

@@ -48,7 +48,7 @@ Also refer to [`float.from_number()`](https://docs.python.org/3.14/library/stdty
 
 With no argument supplied, `0.0` comes back.
 
-The float type is covered in [Numeric Types — int, float, complex](https://docs.python.org/3.14/library/stdtypes.html#typesnumeric).
+The float type is covered in [Numeric Types - int, float, complex](https://docs.python.org/3.14/library/stdtypes.html#typesnumeric).
 
 Changed in version 3.6: Separating digits using underscores, the way code literals do, became permitted.
 

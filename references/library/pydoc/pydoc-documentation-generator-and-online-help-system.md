@@ -1,8 +1,8 @@
-# pydoc — `pydoc` — Documentation generator and online help system
+# pydoc`pydoc` - Documentation generator and online help system
 
-## pydoc — Documentation generator and online help system??
+## pydoc - Documentation generator and online help system??
 
-### `pydoc` — Documentation generator and online help system
+### `pydoc` - Documentation generator and online help system
 
 **Source code:** [Lib/pydoc.py](https://github.com/python/cpython/tree/3.14/Lib/pydoc.py)
 

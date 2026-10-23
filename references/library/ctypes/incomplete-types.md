@@ -1,4 +1,4 @@
-# ctypes — Incomplete Types
+# ctypes - Incomplete Types
 
 ### Incomplete Types
 

@@ -1,4 +1,4 @@
-# secrets — Recipes and best practices
+# secrets - Recipes and best practices
 
 ### Recipes and best practices
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / enum — enum
+# What's New In Python 3.7 / enum - enum
 
 ### enum
 

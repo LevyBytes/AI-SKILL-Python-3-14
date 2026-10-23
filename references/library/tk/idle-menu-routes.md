@@ -1,6 +1,6 @@
 # tk: IDLE menus and editing documentation routes
 
-- [IDLE — Python editor and shell](https://docs.python.org/3.14/library/idle.html)
+- [IDLE - Python editor and shell](https://docs.python.org/3.14/library/idle.html)
   - [Menus](https://docs.python.org/3.14/library/idle.html#menus)
     - [File menu (Shell and Editor)](https://docs.python.org/3.14/library/idle.html#file-menu-shell-and-editor)
     - [Edit menu (Shell and Editor)](https://docs.python.org/3.14/library/idle.html#edit-menu-shell-and-editor)
@@ -39,6 +39,6 @@
     - [IDLE on macOS](https://docs.python.org/3.14/library/idle.html#idle-on-macos)
     - [Extensions](https://docs.python.org/3.14/library/idle.html#extensions)
 
-  - [idlelib — implementation of IDLE application](https://docs.python.org/3.14/library/idle.html#module-idlelib)
+  - [idlelib - implementation of IDLE application](https://docs.python.org/3.14/library/idle.html#module-idlelib)
 
 [Subject index](INDEX.md) · [Previous](ttk-widget-routes.md) · [Continue](turtle-graphics-routes.md) · [Owning module, declaration or section: Graphical user interfaces with Tk](tk-gui-overview.md)

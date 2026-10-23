@@ -1,4 +1,4 @@
-# statistics — Averages and measures of central location
+# statistics - Averages and measures of central location
 
 ### Averages and measures of central location
 

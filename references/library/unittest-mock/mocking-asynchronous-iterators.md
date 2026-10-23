@@ -1,4 +1,4 @@
-# unittest.mock — Mocking asynchronous iterators
+# unittest.mock - Mocking asynchronous iterators
 
 ### Mocking asynchronous iterators
 

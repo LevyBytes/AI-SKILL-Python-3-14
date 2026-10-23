@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / Unicode — codecs, re, unicodedata
+# What’s New in Python 2.0 / Unicode - codecs, re, unicodedata
 
 ### Unicode
 

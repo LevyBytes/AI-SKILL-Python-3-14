@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / New, Improved, and Deprecated Modules — ftplib, socket, stringprep, urllib
+# What’s New in Python 2.3 / New, Improved, and Deprecated Modules - ftplib, socket, stringprep, urllib
 
 The [`socket`](https://docs.python.org/3.14/library/socket.html#module-socket) module has likewise been broadened to seamlessly translate Unicode hostnames into the ACE form before forwarding them to the C library. Modules handling hostnames, including `httplib` and [`ftplib`](https://docs.python.org/3.14/library/ftplib.html#module-ftplib)), accept Unicode host names too; `httplib` additionally transmits HTTP `Host` headers using the ACE form of the domain name. [`urllib`](https://docs.python.org/3.14/library/urllib.html#module-urllib) handles Unicode URLs carrying non-ASCII host names provided that the `path` portion of the URL stays ASCII only.
 

@@ -1,4 +1,4 @@
-# codecs — Standard Encodings — East Asian and ASCII encodings
+# codecs - Standard Encodings - East Asian and ASCII encodings
 
 | Codec | Aliases | Languages |
 | --- | --- | --- |

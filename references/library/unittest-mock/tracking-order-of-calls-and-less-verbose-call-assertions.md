@@ -1,4 +1,4 @@
-# unittest.mock — Tracking order of calls and less verbose call assertions
+# unittest.mock - Tracking order of calls and less verbose call assertions
 
 ### Tracking order of calls and less verbose call assertions
 

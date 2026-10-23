@@ -1,6 +1,6 @@
-# subprocess — `subprocess` — Subprocess management
+# subprocess`subprocess` - Subprocess management
 
-### `subprocess` — Subprocess management
+### `subprocess` - Subprocess management
 
 **Source code:** [Lib/subprocess.py](https://github.com/python/cpython/tree/3.14/Lib/subprocess.py)
 

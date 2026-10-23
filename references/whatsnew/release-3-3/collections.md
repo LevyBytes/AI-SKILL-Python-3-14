@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / collections — collections, collections.abc
+# What's New In Python 3.3 / collections - collections, collections.abc
 
 ### collections
 

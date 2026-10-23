@@ -1,4 +1,4 @@
-# annotationlib — Limitations of the `STRING` format — Contract: `ast.Starred` (`*` unpacking)
+# annotationlib - Limitations of the `STRING` format - Contract: `ast.Starred` (`*` unpacking)
 
 [`ast.Starred`](https://docs.python.org/3.14/library/ast.html#ast.Starred) (`*` unpacking)
 

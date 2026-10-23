@@ -1,4 +1,4 @@
-# errno — `errno` — Standard errno system symbols
+# errno`errno` - Standard errno system symbols
 
 errno.ENOTCAPABLE
 

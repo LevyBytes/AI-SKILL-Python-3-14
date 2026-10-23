@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Best Practices For `__annotations__` In Any Python Version: [Best Practices For `__annotations__` In Any Python Version](best-practices-for-annotations-in-any-python-version.md).
 - Open when checking Manually Un-Stringizing Stringized Annotations: [Manually Un-Stringizing Stringized Annotations](manually-un-stringizing-stringized-annotations.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

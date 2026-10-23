@@ -1,4 +1,4 @@
-# netrc — netrc Objects
+# netrc - netrc Objects
 
 ### netrc Objects
 

@@ -40,4 +40,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 3 / library / tempfile: [Python 3.9.0 alpha 3 / library / tempfile](tempfile.md).
 - Open when checking Python 3.9.0 alpha 3 / library / urllib request proxy bypass environment skips leading dots stops discarding trailing newline: [Python 3.9.0 alpha 3 / library / urllib request proxy bypass environment skips leading dots stops discarding trailing newline](proxy-bypass-environment-dot-and-newline-handling.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

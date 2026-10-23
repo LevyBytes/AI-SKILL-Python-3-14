@@ -1,4 +1,4 @@
-# hashlib — Constants
+# hashlib - Constants
 
 ### Constants
 

@@ -1,4 +1,4 @@
-# threading — Thread-local data — Section introduction and initial examples
+# threading - Thread-local data - Section introduction and initial examples
 
 ### Thread-local data
 

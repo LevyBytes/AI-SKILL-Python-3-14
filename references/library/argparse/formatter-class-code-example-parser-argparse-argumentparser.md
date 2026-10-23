@@ -1,4 +1,4 @@
-# argparse — formatter_class — Code example: >>> parser = argparse.ArgumentParser(
+# argparse - formatter_class - Code example: >>> parser = argparse.ArgumentParser(
 
 ```python
 >>> parser = argparse.ArgumentParser(

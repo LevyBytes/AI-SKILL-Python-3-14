@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 372: Adding an Ordered Dictionary to collections — collections, configparser
+# What’s New in Python 2.7 / PEP 372: Adding an Ordered Dictionary to collections - collections, configparser
 
 ### PEP 372: Adding an Ordered Dictionary to collections
 

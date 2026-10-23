@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Python 3.0 — functools, json, multiprocessing
+# What’s New in Python 2.6 / Python 3.0 - functools, json, multiprocessing
 
 ### What’s New in Python 2.6
 

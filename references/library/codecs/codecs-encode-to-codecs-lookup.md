@@ -1,6 +1,6 @@
 # codecs: `codecs.encode()`, `codecs.decode()`, `codecs.charmap_build()`, `codecs.lookup()`
 
-### `codecs` — Codec registry and base classes
+### `codecs` - Codec registry and base classes
 
 **Source code:** [Lib/codecs.py](https://github.com/python/cpython/tree/3.14/Lib/codecs.py)
 

@@ -1,8 +1,8 @@
-# csv — `csv` — CSV File Reading and Writing
+# csv`csv` - CSV File Reading and Writing
 
 # Csv
 
-### `csv` — CSV File Reading and Writing
+### `csv` - CSV File Reading and Writing
 
 **Source code:** [Lib/csv.py](https://github.com/python/cpython/tree/3.14/Lib/csv.py)
 

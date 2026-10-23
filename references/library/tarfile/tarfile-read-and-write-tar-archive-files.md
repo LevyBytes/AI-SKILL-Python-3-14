@@ -1,6 +1,6 @@
 # tarfile: Tar archive capabilities and format overview
 
-### `tarfile` — Read and write tar archive files
+### `tarfile` - Read and write tar archive files
 
 **Source code:** [Lib/tarfile.py](https://github.com/python/cpython/tree/3.14/Lib/tarfile.py)
 

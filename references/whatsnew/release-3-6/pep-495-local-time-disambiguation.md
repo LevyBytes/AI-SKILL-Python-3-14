@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / PEP 495: Local Time Disambiguation — datetime
+# What's New In Python 3.6 / PEP 495: Local Time Disambiguation - datetime
 
 ### PEP 495: Local Time Disambiguation
 
@@ -24,7 +24,7 @@ The [`fold`](https://docs.python.org/3.14/library/datetime.html#datetime.datetim
 
 See also
 
-[**PEP 495**](https://peps.python.org/pep-0495/) — Local Time Disambiguation
+[**PEP 495**](https://peps.python.org/pep-0495/): Local Time Disambiguation
 
 PEP written by Alexander Belopolsky and Tim Peters, implementation by Alexander Belopolsky.
 

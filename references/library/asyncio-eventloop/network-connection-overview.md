@@ -1,4 +1,4 @@
-# Opening network connections — Section introduction and initial examples
+# Opening network connections - Section introduction and initial examples
 
 ### Opening network connections
 

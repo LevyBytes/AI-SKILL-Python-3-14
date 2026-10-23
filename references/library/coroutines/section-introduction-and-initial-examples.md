@@ -1,4 +1,4 @@
-# Coroutines — Section introduction and initial examples
+# Coroutines - Section introduction and initial examples
 
 ### Coroutines
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / signal — enum, signal
+# What’s New In Python 3.5 / signal - enum, signal
 
 ### signal
 

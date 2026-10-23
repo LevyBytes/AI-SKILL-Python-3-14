@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Summary – Release highlights — hashlib, tokenize, typing, unittest, venv
+# What’s New In Python 3.12 / Summary – Release highlights - hashlib, tokenize, typing, unittest, venv
 
 - Owing to what shifted in PEP 701, emitting tokens through the [`tokenize`](https://docs.python.org/3.14/library/tokenize.html#module-tokenize) module runs up to 64% quicker.
 

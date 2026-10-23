@@ -1,4 +1,4 @@
-# Audit events table — _thread
+# Audit events table - _thread
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

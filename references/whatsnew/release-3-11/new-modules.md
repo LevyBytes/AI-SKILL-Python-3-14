@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / New Modules — tomllib, wsgiref
+# What's New In Python 3.11 / New Modules - tomllib, wsgiref
 
 ### New Modules
 

@@ -1,4 +1,4 @@
-# mailbox — mailbox.MMDFMessage construction and conversion
+# mailbox - mailbox.MMDFMessage construction and conversion
 
 If you build an `MMDFMessage` instance from a `MaildirMessage` instance, a "From " line is produced out of the `MaildirMessage` instance's delivery date, and these conversions happen:
 

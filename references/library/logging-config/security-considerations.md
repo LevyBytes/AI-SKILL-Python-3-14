@@ -1,4 +1,4 @@
-# logging.config — Security considerations
+# logging.config - Security considerations
 
 ### Security considerations
 

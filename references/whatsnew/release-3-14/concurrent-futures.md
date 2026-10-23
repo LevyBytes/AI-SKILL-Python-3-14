@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / concurrent.futures — concurrent.futures, concurrent.interpreters, multiprocessing, pickle
+# What's new in Python 3.14 / concurrent.futures - concurrent.futures, concurrent.interpreters, multiprocessing, pickle
 
 ### concurrent.futures
 

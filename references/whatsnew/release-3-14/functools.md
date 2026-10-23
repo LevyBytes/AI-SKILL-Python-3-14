@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / functools — functools
+# What's new in Python 3.14 / functools - functools
 
 ### functools
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / types — types
+# What's New In Python 3.13 / types - types
 
 ### types
 

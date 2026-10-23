@@ -1,4 +1,4 @@
-# select — Kqueue objects
+# select - Kqueue objects
 
 ### Kqueue objects
 

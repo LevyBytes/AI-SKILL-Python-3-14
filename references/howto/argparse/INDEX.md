@@ -25,4 +25,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Specifying ambiguous arguments: [Specifying ambiguous arguments](specifying-ambiguous-arguments.md).
 - Open when checking The basics: [The basics](the-basics.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

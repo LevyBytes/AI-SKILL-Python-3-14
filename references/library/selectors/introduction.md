@@ -1,4 +1,4 @@
-# selectors — Introduction
+# selectors - Introduction
 
 ### Introduction
 

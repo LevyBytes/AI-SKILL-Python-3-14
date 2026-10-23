@@ -1,4 +1,4 @@
-# datetime — `tzinfo` objects — Contract: Be aware that a `tzinfo` subclass tracking both standard and daylight time runs into inescapable corner cases twice each year, right at the DST transition points.
+# datetime`tzinfo` objects - Contract: Be aware that a `tzinfo` subclass tracking both standard and daylight time runs into inescapable corner cases twice each year, right at the DST transition points.
 
 Be aware that a `tzinfo` subclass tracking both standard and daylight time runs into inescapable corner cases twice each year, right at the DST transition points. To make this concrete, take US Eastern (UTC -0500): EDT kicks in the minute past 1:59 (EST) on March's second Sunday, and wraps up the minute past 1:59 (EDT) on November's first Sunday:
 

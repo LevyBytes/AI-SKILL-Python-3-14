@@ -6,4 +6,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.8.0 alpha 3 / windows / repaired decoders covering these code pages through: [Python 3.8.0 alpha 3 / windows / repaired decoders covering these code pages through](repaired-decoders-covering-these-code-pages-through.md).
 - Open when checking Python 3.8.0 alpha 3 / windows / windows: [Python 3.8.0 alpha 3 / windows / windows](windows.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

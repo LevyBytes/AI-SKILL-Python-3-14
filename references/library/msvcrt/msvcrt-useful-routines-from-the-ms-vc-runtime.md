@@ -1,8 +1,8 @@
-# msvcrt — `msvcrt` — Useful routines from the MS VC++ runtime
+# msvcrt`msvcrt` - Useful routines from the MS VC++ runtime
 
 # Msvcrt
 
-### `msvcrt` — Useful routines from the MS VC++ runtime
+### `msvcrt` - Useful routines from the MS VC++ runtime
 
 ---
 

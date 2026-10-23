@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / zipfile — zipfile
+# What's New In Python 3.6 / zipfile - zipfile
 
 ### zipfile
 

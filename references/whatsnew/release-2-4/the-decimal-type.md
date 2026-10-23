@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / The `Decimal` type — cmath, decimal, math
+# What’s New in Python 2.4 / The `Decimal` type - cmath, decimal, math
 
 ### The `Decimal` type
 

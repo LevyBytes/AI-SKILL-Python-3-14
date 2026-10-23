@@ -17,7 +17,7 @@ This new grammar yields code that is both quicker and tighter.
 
 See also
 
-[**PEP 525**](https://peps.python.org/pep-0525/) — Asynchronous Generators
+[**PEP 525**](https://peps.python.org/pep-0525/): Asynchronous Generators
 
 PEP written and implemented by Yury Selivanov.
 

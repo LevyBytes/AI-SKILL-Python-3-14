@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / cookielib — http.cookiejar, http.cookies, urllib.request
+# What’s New in Python 2.4 / cookielib - http.cookiejar, http.cookies, urllib.request
 
 ### cookielib
 

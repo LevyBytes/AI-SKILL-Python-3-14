@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 277: Unicode file name support for Windows NT — os, os.path
+# What’s New in Python 2.3 / PEP 277: Unicode file name support for Windows NT - os, os.path
 
 ### PEP 277: Unicode file name support for Windows NT
 

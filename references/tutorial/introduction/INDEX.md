@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking String repetition and literal versus variable concatenation: [String repetition and literal versus variable concatenation](string-repetition-and-literal-versus-variable-concatenation.md).
 - Open when checking 3.1. Using Python as a Calculator: [3.1. Using Python as a Calculator](using-python-as-a-calculator.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

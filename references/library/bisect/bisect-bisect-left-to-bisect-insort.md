@@ -1,8 +1,8 @@
-# bisect — `bisect` — Array bisection algorithm
+# bisect`bisect` - Array bisection algorithm
 
-## bisect — Array bisection algorithm
+## bisect - Array bisection algorithm
 
-### `bisect` — Array bisection algorithm
+### `bisect` - Array bisection algorithm
 
 **Source code:** [Lib/bisect.py](https://github.com/python/cpython/tree/3.14/Lib/bisect.py)
 

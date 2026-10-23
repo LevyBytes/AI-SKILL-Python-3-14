@@ -1,4 +1,4 @@
-# xml.dom — Document Objects
+# xml.dom - Document Objects
 
 ### Document Objects
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / xml — xml.dom.minidom, xml.sax
+# What's New In Python 3.6 / xml - xml.dom.minidom, xml.sax
 
 ### xml
 

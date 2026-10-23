@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Command line and environment — textwrap
+# What's new in Python 3.14 / Command line and environment - textwrap
 
 ### Command line and environment
 

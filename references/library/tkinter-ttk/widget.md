@@ -1,4 +1,4 @@
-# tkinter.ttk — Widget
+# tkinter.ttk - Widget
 
 ### Widget
 

@@ -1,4 +1,4 @@
-# Custom type members and methods — PyObject, Custom_name, Py_UNUSED, PyErr_SetString, PyExc_AttributeError, PyUnicode_FromFormat, PyMethodDef, Custom_methods, tp_methods, PyTypeObject, Py_TPFLAGS_BASETYPE, tp_flags, Py_TPFLAGS_DEFAULT, PyInit_custom, PyInit_custom2, PyModuleDef
+# Custom type members and methods - PyObject, Custom_name, Py_UNUSED, PyErr_SetString, PyExc_AttributeError, PyUnicode_FromFormat, PyMethodDef, Custom_methods, tp_methods, PyTypeObject, Py_TPFLAGS_BASETYPE, tp_flags, Py_TPFLAGS_DEFAULT, PyInit_custom, PyInit_custom2, PyModuleDef
 
 Every member entry carries a name, a type, an offset, access flags, and a documentation string. For the specifics, consult the [Generic Attribute Management](https://docs.python.org/3.14/extending/newtypes.html#generic-attribute-management) section further down.
 

@@ -32,4 +32,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.9.0 alpha 1 / tests / unittest: [Python 3.9.0 alpha 1 / tests / unittest](unittest.md).
 - Open when checking Python 3.9.0 alpha 1 / tests / urllib request: [Python 3.9.0 alpha 1 / tests / urllib request](urllib-request.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 4 / c api / public fast call function types: [Python 3.13.0 alpha 4 / c api / public fast call function types](public-fast-call-function-types.md).
 - Open when checking Python 3.13.0 alpha 4 / c api / time: [Python 3.13.0 alpha 4 / c api / time](time.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

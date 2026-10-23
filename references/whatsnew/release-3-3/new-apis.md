@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / New APIs — importlib, sys
+# What's New In Python 3.3 / New APIs - importlib, sys
 
 ### New APIs
 

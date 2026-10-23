@@ -1,5 +1,5 @@
 {"schema_version": 1, "topics": [
-  {"topic": "operator — Mapping Operators to Functions", "file": "operator/mapping-operators-to-functions.md", "summary": "Open when checking operator — Mapping Operators to Functions.", "keywords": []},
+  {"topic": "operator - Mapping Operators to Functions", "file": "operator/mapping-operators-to-functions.md", "summary": "Open when checking operator - Mapping Operators to Functions.", "keywords": []},
   {"topic": "operator: Comparison, truth and identity operator functions", "file": "operator/operator-lt-to-operator-abs.md", "summary": "Open when checking comparison, truth and identity operator functions in operator.", "keywords": []},
   {"topic": "operator: Arithmetic, bitwise and unary operator functions", "file": "operator/operator-add-to-operator-pos.md", "summary": "Open when checking arithmetic, bitwise and unary operator functions in operator.", "keywords": []},
   {"topic": "operator: Power, sequence, item-access and length-hint operators", "file": "operator/operator-pow-to-operator-length-hint.md", "summary": "Open when checking power, sequence, item-access and length-hint operators in operator.", "keywords": []},

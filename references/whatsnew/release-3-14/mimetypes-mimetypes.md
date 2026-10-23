@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / mimetypes — mimetypes
+# What's new in Python 3.14 / mimetypes - mimetypes
 
 ### mimetypes
 

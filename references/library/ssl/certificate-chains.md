@@ -1,4 +1,4 @@
-# ssl — Certificate chains
+# ssl - Certificate chains
 
 ### Certificate chains
 

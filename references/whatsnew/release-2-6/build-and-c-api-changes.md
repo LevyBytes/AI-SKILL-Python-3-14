@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Build and C API Changes — cmath
+# What’s New in Python 2.6 / Build and C API Changes - cmath
 
 ### Build and C API Changes
 

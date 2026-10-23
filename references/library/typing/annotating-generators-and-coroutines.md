@@ -1,4 +1,4 @@
-# typing — Annotating generators and coroutines
+# typing - Annotating generators and coroutines
 
 ### Annotating generators and coroutines
 

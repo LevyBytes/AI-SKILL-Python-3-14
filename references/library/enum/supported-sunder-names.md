@@ -1,4 +1,4 @@
-# enum — Supported `_sunder_` names
+# enum - Supported `_sunder_` names
 
 ### Supported `_sunder_` names
 

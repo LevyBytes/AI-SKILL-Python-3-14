@@ -2,7 +2,7 @@
 
 # Spwd
 
-### `spwd` — The shadow password database
+### `spwd` - The shadow password database
 
 Deprecated since version 3.11, removed in version 3.13.
 

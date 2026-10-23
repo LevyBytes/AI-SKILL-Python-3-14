@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / PEP 331: Locale-Independent Float/String Conversions — locale
+# What’s New in Python 2.4 / PEP 331: Locale-Independent Float/String Conversions - locale
 
 ### PEP 331: Locale-Independent Float/String Conversions
 

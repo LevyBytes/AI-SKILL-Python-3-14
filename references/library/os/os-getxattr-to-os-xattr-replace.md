@@ -1,4 +1,4 @@
-# os — Linux extended attributes
+# os - Linux extended attributes
 
 ### Linux extended attributes
 

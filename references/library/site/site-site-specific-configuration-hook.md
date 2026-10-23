@@ -1,4 +1,4 @@
-# site — `site` — Site-specific configuration hook
+# site`site` - Site-specific configuration hook
 
 # Site, Smtpd
 
@@ -6,9 +6,9 @@
 
 Covers: site — Site-specific configuration hook; smtpd — SMTP Server.
 
-## site — Site-specific configuration hook
+## site - Site-specific configuration hook
 
-### `site` — Site-specific configuration hook
+### `site` - Site-specific configuration hook
 
 **Source code:** [Lib/site.py](https://github.com/python/cpython/tree/3.14/Lib/site.py)
 

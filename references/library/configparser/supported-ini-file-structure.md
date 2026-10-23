@@ -1,4 +1,4 @@
-# configparser — Supported INI File Structure
+# configparser - Supported INI File Structure
 
 ### Supported INI File Structure
 

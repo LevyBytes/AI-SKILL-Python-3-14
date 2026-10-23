@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / socket — socket
+# What's New In Python 3.11 / socket - socket
 
 ### socket
 

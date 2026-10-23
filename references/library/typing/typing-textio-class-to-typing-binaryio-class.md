@@ -1,4 +1,4 @@
-# typing — ABCs and Protocols for working with I/O
+# typing - ABCs and Protocols for working with I/O
 
 ### ABCs and Protocols for working with I/O
 

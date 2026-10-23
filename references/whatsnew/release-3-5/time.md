@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / time — time
+# What’s New In Python 3.5 / time - time
 
 ### time
 

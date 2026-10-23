@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 6 / tools demos / resets msgctxt properly while messages get compiled msgfmt: [Python 3.14.0 alpha 6 / tools demos / resets msgctxt properly while messages get compiled msgfmt](resets-msgctxt-properly-while-messages-get-compiled-msgfmt.md).
 - Open when checking Python 3.14.0 alpha 6 / tools demos / text: [Python 3.14.0 alpha 6 / tools demos / text](text.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

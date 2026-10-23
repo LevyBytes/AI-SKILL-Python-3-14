@@ -1,4 +1,4 @@
-# pickletools — Command-line usage
+# pickletools - Command-line usage
 
 ### Command-line usage
 

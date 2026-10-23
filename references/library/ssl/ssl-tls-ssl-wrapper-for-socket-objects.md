@@ -1,6 +1,6 @@
-# ssl — `ssl` — TLS/SSL wrapper for socket objects
+# ssl`ssl` - TLS/SSL wrapper for socket objects
 
-### `ssl` — TLS/SSL wrapper for socket objects
+### `ssl` - TLS/SSL wrapper for socket objects
 
 **Source code:** [Lib/ssl.py](https://github.com/python/cpython/tree/3.14/Lib/ssl.py)
 

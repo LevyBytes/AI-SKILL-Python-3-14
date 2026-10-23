@@ -1,4 +1,4 @@
-# What’s New in Python 2.2 / Unicode Changes — zlib
+# What’s New in Python 2.2 / Unicode Changes - zlib
 
 ### Unicode Changes
 

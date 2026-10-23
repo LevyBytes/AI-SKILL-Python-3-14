@@ -1,6 +1,6 @@
-# keyword — `keyword` — Testing for Python keywords
+# keyword`keyword` - Testing for Python keywords
 
-### `keyword` — Testing for Python keywords
+### `keyword` - Testing for Python keywords
 
 **Source code:** [Lib/keyword.py](https://github.com/python/cpython/tree/3.14/Lib/keyword.py)
 

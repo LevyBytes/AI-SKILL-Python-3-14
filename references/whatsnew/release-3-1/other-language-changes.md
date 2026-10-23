@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / Other Language Changes — string
+# What’s New In Python 3.1 / Other Language Changes - string
 
 ### Other Language Changes
 

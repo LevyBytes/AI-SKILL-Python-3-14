@@ -2,7 +2,7 @@
 
 # Curses.Ascii
 
-### `curses.ascii` — Utilities for ASCII characters
+### `curses.ascii` - Utilities for ASCII characters
 
 **Source code:** [Lib/curses/ascii.py](https://github.com/python/cpython/tree/3.14/Lib/curses/ascii.py)
 
@@ -67,7 +67,7 @@ Tests whether the value sits inside the 7-bit ASCII set.
 
  curses.ascii.isblank(*c*)
 
-Tests for an ASCII whitespace character — a space or a horizontal tab.
+Tests for an ASCII whitespace character: a space or a horizontal tab.
 
  curses.ascii.iscntrl(*c*)
 

@@ -6,9 +6,9 @@
 
 Covers: mimetypes — Map filenames to MIME types; Multimedia Services.
 
-## mimetypes — Map filenames to MIME types
+## mimetypes - Map filenames to MIME types
 
-### `mimetypes` — Map filenames to MIME types
+### `mimetypes` - Map filenames to MIME types
 
 **Source code:** [Lib/mimetypes.py](https://github.com/python/cpython/tree/3.14/Lib/mimetypes.py)
 

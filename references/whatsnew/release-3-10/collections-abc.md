@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / collections.abc — collections.abc, types, typing
+# What's New In Python 3.10 / collections.abc - collections.abc, types, typing
 
 ### collections.abc
 

@@ -2,7 +2,7 @@
 
 # Gzip
 
-### `gzip` — Support for **gzip** files
+### `gzip` - Support for **gzip** files
 
 **Source code:** [Lib/gzip.py](https://github.com/python/cpython/tree/3.14/Lib/gzip.py)
 

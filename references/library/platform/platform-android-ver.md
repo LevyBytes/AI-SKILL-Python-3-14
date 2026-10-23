@@ -1,4 +1,4 @@
-# platform — Android platform
+# platform - Android platform
 
 ### Android platform
 

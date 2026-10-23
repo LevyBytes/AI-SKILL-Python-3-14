@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / pydoc — inspect, pydoc
+# What's New In Python 3.4 / pydoc - inspect, pydoc
 
 ### pydoc
 

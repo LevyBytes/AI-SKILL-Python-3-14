@@ -1,4 +1,4 @@
-# datetime — `tzinfo` objects
+# datetime`tzinfo` objects
 
 tzinfo.utcoffset(*dt*)
 

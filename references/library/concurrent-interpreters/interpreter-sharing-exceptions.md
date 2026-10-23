@@ -1,4 +1,4 @@
-# concurrent.interpreters — Exceptions
+# concurrent.interpreters - Exceptions
 
 ### Exceptions
 

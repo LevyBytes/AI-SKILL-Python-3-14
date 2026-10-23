@@ -1,4 +1,4 @@
-# doctest — Advanced API
+# doctest - Advanced API
 
 ### Advanced API
 

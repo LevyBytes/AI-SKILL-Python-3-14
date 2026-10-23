@@ -1,4 +1,4 @@
-# ctypes — Pointers — Section introduction and initial examples
+# ctypes - Pointers - Section introduction and initial examples
 
 ### Pointers
 

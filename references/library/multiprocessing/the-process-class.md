@@ -1,4 +1,4 @@
-# multiprocessing — The `Process` class
+# multiprocessing - The `Process` class
 
 ### The `Process` class
 

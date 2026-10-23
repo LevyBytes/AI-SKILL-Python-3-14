@@ -1,8 +1,8 @@
 # xml.sax.handler: `xml.sax.handler.ContentHandler`
 
-## xml.sax.handler — Base classes for SAX handlers??
+## xml.sax.handler - Base classes for SAX handlers??
 
-### `xml.sax.handler` — Base classes for SAX handlers
+### `xml.sax.handler` - Base classes for SAX handlers
 
 **Source code:** [Lib/xml/sax/handler.py](https://github.com/python/cpython/tree/3.14/Lib/xml/sax/handler.py)
 

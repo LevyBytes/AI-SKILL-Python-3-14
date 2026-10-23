@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / String Methods — string
+# What’s New in Python 2.0 / String Methods - string
 
 ### String Methods
 

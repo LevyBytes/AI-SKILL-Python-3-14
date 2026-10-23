@@ -1,4 +1,4 @@
-# pickle — Data stream format
+# pickle - Data stream format
 
 ### Data stream format
 

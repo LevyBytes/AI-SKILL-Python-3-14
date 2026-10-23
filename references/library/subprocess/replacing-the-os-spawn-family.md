@@ -1,4 +1,4 @@
-# subprocess — Replacing the `os.spawn` family
+# subprocess - Replacing the `os.spawn` family
 
 ### Replacing the [`os.spawn`](https://docs.python.org/3.14/library/os.html#os.spawnl) family
 

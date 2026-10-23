@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Other Language Changes — datetime, decimal, fractions, re, statistics, types
+# What’s New In Python 3.8 / Other Language Changes - datetime, decimal, fractions, re, statistics, types
 
 ### Other Language Changes
 

@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.6 final / core and builtins / threading: [Python 3.14.6 final / core and builtins / threading](threading.md).
 - Open when checking Python 3.14.6 final / core and builtins / unicodedata: [Python 3.14.6 final / core and builtins / unicodedata](unicodedata.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

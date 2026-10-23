@@ -1,4 +1,4 @@
-# faulthandler — Dumping the tracebacks after a timeout
+# faulthandler - Dumping the tracebacks after a timeout
 
 ### Dumping the tracebacks after a timeout
 

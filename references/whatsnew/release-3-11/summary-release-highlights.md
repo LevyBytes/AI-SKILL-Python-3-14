@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Summary — Release highlights — sys, tomllib
+# What's New In Python 3.11 / Summary - Release highlights - sys, tomllib
 
 ### What's New In Python 3.11
 
@@ -8,7 +8,7 @@ Pablo Galindo Salgado
 
 This document walks through what changed in Python 3.11 relative to 3.10. The 3.11 release shipped on October 24, 2022. The complete record lives in the [changelog](https://docs.python.org/3.14/whatsnew/changelog.html#changelog).
 
-### Summary — Release highlights
+### Summary - Release highlights
 
 - Compared against 3.10, Python 3.11 runs roughly 10-60% quicker; across the standard benchmark suite the average came out to a 1.25x speedup. Consult Faster CPython for the breakdown.
 

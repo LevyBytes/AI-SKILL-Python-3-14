@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / gc — gc
+# What’s New In Python 3.8 / gc - gc
 
 > (Contributed by Ethan Smith in [bpo-32380](https://bugs.python.org/issue?@action=redirect&bpo=32380))
 

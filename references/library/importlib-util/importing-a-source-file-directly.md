@@ -1,4 +1,4 @@
-# importlib.util — Importing a source file directly
+# importlib.util - Importing a source file directly
 
 ### Importing a source file directly
 

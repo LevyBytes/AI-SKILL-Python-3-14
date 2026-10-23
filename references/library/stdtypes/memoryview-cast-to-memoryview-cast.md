@@ -1,4 +1,4 @@
-# Memory Views — Signature and initial contract
+# Memory Views - Signature and initial contract
 
 cast(*format*, */*)
 

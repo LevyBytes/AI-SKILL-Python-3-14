@@ -1,4 +1,4 @@
-# tkinter.ttk — Tag Options
+# tkinter.ttk - Tag Options
 
 ### Tag Options
 

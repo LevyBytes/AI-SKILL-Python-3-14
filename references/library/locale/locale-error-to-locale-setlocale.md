@@ -1,6 +1,6 @@
 # locale: `locale.Error`, `locale.setlocale()`
 
-### `locale` — Internationalization services
+### `locale` - Internationalization services
 
 **Source code:** [Lib/locale.py](https://github.com/python/cpython/tree/3.14/Lib/locale.py)
 

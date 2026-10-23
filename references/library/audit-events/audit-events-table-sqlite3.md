@@ -1,4 +1,4 @@
-# Audit events table — sqlite3
+# Audit events table - sqlite3
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

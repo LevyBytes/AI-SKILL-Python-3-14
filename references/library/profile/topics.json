@@ -1,7 +1,7 @@
 {"schema_version": 1, "topics": [
   {"topic": "Calibration", "file": "profile/calibration.md", "summary": "Open when checking Calibration.", "keywords": []},
-  {"topic": "Instant User's Manual — Contract: -s <sort_order>", "file": "profile/instant-user-s-manual-contract-s-sort-order.md", "summary": "Open when checking Instant User's Manual — Contract: -s <sort_order>.", "keywords": []},
-  {"topic": "Instant User's Manual — Section introduction and initial examples", "file": "profiler-quickstart-overview.md", "summary": "Open when checking Instant User's Manual — Section introduction and initial examples.", "keywords": []},
+  {"topic": "Instant User's Manual - Contract: -s <sort_order>", "file": "profile/instant-user-s-manual-contract-s-sort-order.md", "summary": "Open when checking Instant User's Manual - Contract: -s <sort_order>.", "keywords": []},
+  {"topic": "Instant User's Manual - Section introduction and initial examples", "file": "profiler-quickstart-overview.md", "summary": "Open when checking Instant User's Manual - Section introduction and initial examples.", "keywords": []},
   {"topic": "Introduction to the profilers", "file": "profile/introduction-to-the-profilers.md", "summary": "Open when checking Introduction to the profilers.", "keywords": []},
   {"topic": "Limitations", "file": "profile/limitations.md", "summary": "Open when checking Limitations.", "keywords": []},
   {"topic": "profile: `profile.run()`, `profile.runctx()`", "file": "profile/profile-run-to-profile-runctx.md", "summary": "Open when checking the documented contracts for `profile.run()`, `profile.runctx()` in profile.", "keywords": []},

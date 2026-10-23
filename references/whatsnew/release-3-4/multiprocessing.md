@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / multiprocessing — multiprocessing, runpy
+# What's New In Python 3.4 / multiprocessing - multiprocessing, runpy
 
 ### multiprocessing
 

@@ -1,4 +1,4 @@
-# http.cookies — Example
+# http.cookies - Example
 
 ### Example
 

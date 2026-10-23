@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / tkinter — sys
+# What's New In Python 3.11 / tkinter - sys
 
 > (Contributed by Benjamin Szőke, Donghee Na, Eryk Sun and Victor Stinner in [bpo-21302](https://bugs.python.org/issue?@action=redirect&bpo=21302) and [bpo-45429](https://bugs.python.org/issue?@action=redirect&bpo=45429).)
 

@@ -1,4 +1,4 @@
-# ctypes — Fundamental data types — Section introduction and initial examples
+# ctypes - Fundamental data types - Section introduction and initial examples
 
 ### Fundamental data types
 

@@ -23,4 +23,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 7 / core and builtins / tunes aarch64 code jit emits: [Python 3.14.0 alpha 7 / core and builtins / tunes aarch64 code jit emits](tunes-aarch64-code-jit-emits.md).
 - Open when checking Python 3.14.0 alpha 7 / core and builtins / tunes load fast together superinstruction variant reference counting costs less: [Python 3.14.0 alpha 7 / core and builtins / tunes load fast together superinstruction variant reference counting costs less](fast-local-load-reference-count-optimization.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

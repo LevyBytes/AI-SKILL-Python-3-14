@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / mailbox — email, io, mailbox
+# What's New In Python 3.2 / mailbox - email, io, mailbox
 
 ### mailbox
 

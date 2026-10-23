@@ -10,7 +10,7 @@ Be aware that on platforms whose native TLS key is declared so that it cannot be
 
 See also
 
-[**PEP 539**](https://peps.python.org/pep-0539/) — A New C-API for Thread-Local Storage in CPython
+[**PEP 539**](https://peps.python.org/pep-0539/): A New C-API for Thread-Local Storage in CPython
 
 PEP written by Erik M. Bray; implementation by Masayuki Yamamoto.
 

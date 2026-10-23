@@ -1,4 +1,4 @@
-# sched — Scheduler Objects
+# sched - Scheduler Objects
 
 ### Scheduler Objects
 

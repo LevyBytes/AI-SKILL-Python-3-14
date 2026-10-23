@@ -1,4 +1,4 @@
-# bz2 — One-shot (de)compression
+# bz2 - One-shot (de)compression
 
 ### One-shot (de)compression
 

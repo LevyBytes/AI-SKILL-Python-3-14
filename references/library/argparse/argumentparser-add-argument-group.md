@@ -1,4 +1,4 @@
-# argparse — Argument groups
+# argparse - Argument groups
 
 ### Argument groups
 

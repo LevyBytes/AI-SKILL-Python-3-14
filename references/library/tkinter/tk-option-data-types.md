@@ -1,4 +1,4 @@
-# tkinter — Tk Option Data Types
+# tkinter - Tk Option Data Types
 
 ### Tk Option Data Types
 

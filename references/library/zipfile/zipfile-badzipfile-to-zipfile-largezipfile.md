@@ -1,6 +1,6 @@
 # zipfile: `zipfile.BadZipFile`, `zipfile.BadZipfile`, `zipfile.LargeZipFile`
 
-### `zipfile` — Work with ZIP archives
+### `zipfile` - Work with ZIP archives
 
 **Source code:** [Lib/zipfile/](https://github.com/python/cpython/tree/3.14/Lib/zipfile/)
 

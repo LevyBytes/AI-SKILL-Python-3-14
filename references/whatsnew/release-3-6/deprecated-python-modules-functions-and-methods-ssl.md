@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Deprecated Python modules, functions and methods / ssl — ftplib, http.client, imaplib, poplib, smtplib, ssl
+# What's New In Python 3.6 / Deprecated Python modules, functions and methods / ssl - ftplib, http.client, imaplib, poplib, smtplib, ssl
 
 OpenSSL 0.9.8, 1.0.0 and 1.0.1 are now deprecated and have lost support. Going forward, the [`ssl`](https://docs.python.org/3.14/library/ssl.html#module-ssl) module is expected to mandate OpenSSL 1.0.2 or 1.1.0 as a minimum.
 

@@ -1,4 +1,4 @@
-# pathlib — Exceptions
+# pathlib - Exceptions
 
 ### Exceptions
 

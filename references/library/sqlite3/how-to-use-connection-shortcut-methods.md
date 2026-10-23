@@ -1,4 +1,4 @@
-# sqlite3 — How to use connection shortcut methods
+# sqlite3 - How to use connection shortcut methods
 
 ### How to use connection shortcut methods
 

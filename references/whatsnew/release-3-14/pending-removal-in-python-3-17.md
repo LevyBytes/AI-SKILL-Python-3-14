@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Pending removal in Python 3.17 — collections.abc, typing
+# What's new in Python 3.14 / Pending removal in Python 3.17 - collections.abc, typing
 
 ### Pending removal in Python 3.17
 

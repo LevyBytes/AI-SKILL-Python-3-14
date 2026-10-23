@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / threading — threading
+# What’s New In Python 3.12 / threading - threading
 
 ### threading
 

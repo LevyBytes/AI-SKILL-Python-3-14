@@ -1,4 +1,4 @@
-# tarfile — Unicode issues
+# tarfile - Unicode issues
 
 ### Unicode issues
 

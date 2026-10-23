@@ -1,4 +1,4 @@
-# tkinter.ttk — Spinbox
+# tkinter.ttk - Spinbox
 
 ### Spinbox
 

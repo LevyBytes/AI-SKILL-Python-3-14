@@ -1,4 +1,4 @@
-# argparse — fromfile_prefix_chars
+# argparse - fromfile_prefix_chars
 
 ### fromfile_prefix_chars
 

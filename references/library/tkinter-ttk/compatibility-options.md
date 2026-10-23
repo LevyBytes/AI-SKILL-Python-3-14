@@ -1,4 +1,4 @@
-# tkinter.ttk — Compatibility Options
+# tkinter.ttk - Compatibility Options
 
 ### Compatibility Options
 

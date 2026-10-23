@@ -32,4 +32,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 4. Using Python on Windows: [4. Using Python on Windows](using-python-on-windows.md).
 - Open when checking 4.7. UTF-8 mode: [4.7. UTF-8 mode](utf-8-mode.md).
 
-[Reference Language Selection](../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../languages.md) - Open when you need a language version of references other than English.

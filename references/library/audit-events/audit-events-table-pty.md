@@ -1,4 +1,4 @@
-# Audit events table — pty
+# Audit events table - pty
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

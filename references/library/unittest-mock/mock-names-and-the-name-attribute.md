@@ -1,4 +1,4 @@
-# unittest.mock — Mock names and the name attribute
+# unittest.mock - Mock names and the name attribute
 
 ### Mock names and the name attribute
 

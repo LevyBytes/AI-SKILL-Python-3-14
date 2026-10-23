@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / New, Improved, and Deprecated Modules — shelve, xml.dom.minidom
+# What’s New in Python 2.3 / New, Improved, and Deprecated Modules - shelve, xml.dom.minidom
 
 Should you run into any incompatibilities, the previous behavior is recoverable: set the `wantobjects` variable in the `Tkinter` module to false before the first `tkapp` object is constructed.
 

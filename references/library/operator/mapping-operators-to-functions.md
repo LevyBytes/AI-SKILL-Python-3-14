@@ -1,4 +1,4 @@
-# operator — Mapping Operators to Functions
+# operator - Mapping Operators to Functions
 
 ### Mapping Operators to Functions
 

@@ -1,6 +1,6 @@
-# random — `random` — Generate pseudo-random numbers
+# random`random` - Generate pseudo-random numbers
 
-### `random` — Generate pseudo-random numbers
+### `random` - Generate pseudo-random numbers
 
 **Source code:** [Lib/random.py](https://github.com/python/cpython/tree/3.14/Lib/random.py)
 

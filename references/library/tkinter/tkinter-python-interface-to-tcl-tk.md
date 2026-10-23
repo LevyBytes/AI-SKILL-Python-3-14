@@ -1,6 +1,6 @@
-# tkinter — `tkinter` — Python interface to Tcl/Tk
+# tkinter`tkinter` - Python interface to Tcl/Tk
 
-### `tkinter` — Python interface to Tcl/Tk
+### `tkinter` - Python interface to Tcl/Tk
 
 **Source code:** [Lib/tkinter/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/__init__.py)
 

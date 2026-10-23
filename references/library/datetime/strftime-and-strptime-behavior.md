@@ -1,4 +1,4 @@
-# datetime — `strftime()` and `strptime()` behavior
+# datetime`strftime()` and `strptime()` behavior
 
 ### `strftime()` and `strptime()` behavior
 

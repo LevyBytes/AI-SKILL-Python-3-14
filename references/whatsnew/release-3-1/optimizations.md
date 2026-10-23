@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / Optimizations — json
+# What’s New In Python 3.1 / Optimizations - json
 
 ### Optimizations
 

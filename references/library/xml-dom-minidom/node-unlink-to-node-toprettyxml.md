@@ -1,4 +1,4 @@
-# xml.dom.minidom — DOM Objects
+# xml.dom.minidom - DOM Objects
 
 ### DOM Objects
 

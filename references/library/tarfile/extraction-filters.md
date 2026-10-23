@@ -1,4 +1,4 @@
-# tarfile — Extraction filters
+# tarfile - Extraction filters
 
 ### Extraction filters
 

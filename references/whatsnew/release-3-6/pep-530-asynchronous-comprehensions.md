@@ -18,7 +18,7 @@ result = [await fun() for fun in funcs if await condition()]
 
 See also
 
-[**PEP 530**](https://peps.python.org/pep-0530/) — Asynchronous Comprehensions
+[**PEP 530**](https://peps.python.org/pep-0530/): Asynchronous Comprehensions
 
 PEP written and implemented by Yury Selivanov.
 

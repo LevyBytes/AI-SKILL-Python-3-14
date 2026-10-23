@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.8.0 alpha 4 / windows / venv: [Python 3.8.0 alpha 4 / windows / venv](venv.md).
 - Open when checking Python 3.8.0 alpha 4 / windows / windows: [Python 3.8.0 alpha 4 / windows / windows](windows.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

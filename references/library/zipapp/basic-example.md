@@ -1,4 +1,4 @@
-# zipapp — Basic Example
+# zipapp - Basic Example
 
 ### Basic Example
 

@@ -1,4 +1,4 @@
-# optparse — Callback example 2: check option order
+# optparse - Callback example 2: check option order
 
 ### Callback example 2: check option order
 

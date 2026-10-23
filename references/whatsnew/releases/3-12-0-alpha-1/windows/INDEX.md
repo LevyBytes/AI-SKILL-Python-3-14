@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 1 / windows / update libffi: [Python 3.12.0 alpha 1 / windows / update libffi](update-libffi.md).
 - Open when checking Python 3.12.0 alpha 1 / windows / zipfile: [Python 3.12.0 alpha 1 / windows / zipfile](zipfile.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

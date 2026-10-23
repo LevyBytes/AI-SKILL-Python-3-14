@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "11. Brief tour of the standard library — part II", "file": "brief-tour-of-the-standard-library-part-ii/brief-tour-of-the-standard-library-part-ii.md", "summary": "Open when checking 11. Brief tour of the standard library — part II.", "keywords": []},
+    {"topic": "11. Brief tour of the standard library - part II", "file": "brief-tour-of-the-standard-library-part-ii/brief-tour-of-the-standard-library-part-ii.md", "summary": "Open when checking 11. Brief tour of the standard library - part II.", "keywords": []},
     {"topic": "11.8. Decimal floating-point arithmetic", "file": "brief-tour-of-the-standard-library-part-ii/decimal-floating-point-arithmetic.md", "summary": "Open when checking 11.8. Decimal floating-point arithmetic.", "keywords": []},
     {"topic": "11.5. Logging", "file": "brief-tour-of-the-standard-library-part-ii/logging.md", "summary": "Open when checking 11.5. Logging.", "keywords": []},
     {"topic": "11.4. Multi-threading", "file": "brief-tour-of-the-standard-library-part-ii/multi-threading.md", "summary": "Open when checking 11.4. Multi-threading.", "keywords": []},

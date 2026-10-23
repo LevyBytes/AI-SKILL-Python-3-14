@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / The `json` module: JavaScript Object Notation — json
+# What’s New in Python 2.6 / The `json` module: JavaScript Object Notation - json
 
 ### The [`json`](https://docs.python.org/3.14/library/json.html#module-json) module: JavaScript Object Notation
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Optimizations — asyncio-future, asyncio-task, fractions, glob, os, pathlib, pickle, typing, xml.etree.elementtree
+# What's New In Python 3.6 / Optimizations - asyncio-future, asyncio-task, fractions, glob, os, pathlib, pickle, typing, xml.etree.elementtree
 
 ### Optimizations
 

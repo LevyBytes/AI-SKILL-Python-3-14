@@ -1,4 +1,4 @@
-# getopt — `getopt` — C-style parser for command line options — Signature and initial contract
+# getopt`getopt` - C-style parser for command line options - Signature and initial contract
 
 *exception *getopt.error
 

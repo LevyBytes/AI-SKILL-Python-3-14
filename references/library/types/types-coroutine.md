@@ -1,4 +1,4 @@
-# types — Coroutine Utility Functions
+# types - Coroutine Utility Functions
 
 ### Coroutine Utility Functions
 

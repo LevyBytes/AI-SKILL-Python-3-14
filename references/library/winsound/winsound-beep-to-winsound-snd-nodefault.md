@@ -2,7 +2,7 @@
 
 # Winsound
 
-### `winsound` — Sound-playing interface for Windows
+### `winsound` - Sound-playing interface for Windows
 
 ---
 

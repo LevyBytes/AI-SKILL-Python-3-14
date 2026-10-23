@@ -2,7 +2,7 @@
 
 # Http.Client
 
-### `http.client` — HTTP protocol client
+### `http.client` - HTTP protocol client
 
 **Source code:** [Lib/http/client.py](https://github.com/python/cpython/tree/3.14/Lib/http/client.py)
 

@@ -1,4 +1,4 @@
-# platform — Command-line usage
+# platform - Command-line usage
 
 ### Command-line usage
 

@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "pickletools — Command-line options", "file": "pickletools/command-line-options.md", "summary": "Open when checking pickletools — Command-line options.", "keywords": []},
-    {"topic": "pickletools — Command-line usage", "file": "pickletools/command-line-usage.md", "summary": "Open when checking pickletools — Command-line usage.", "keywords": []},
-    {"topic": "pickletools — Programmatic interface", "file": "pickletools/pickletools-dis-to-pickletools-optimize.md", "summary": "Open when checking pickletools — Programmatic interface.", "keywords": []},
-    {"topic": "pickletools — `pickletools` — Tools for pickle developers", "file": "pickletools/pickletools-tools-for-pickle-developers.md", "summary": "Open when checking pickletools — `pickletools` — Tools for pickle developers.", "keywords": []},
-    {"topic": "pickletools — Tools for pickle developers", "file": "pickletools/tools-for-pickle-developers.md", "summary": "Open when checking pickletools — Tools for pickle developers.", "keywords": []},
+    {"topic": "pickletools - Command-line options", "file": "pickletools/command-line-options.md", "summary": "Open when checking pickletools - Command-line options.", "keywords": []},
+    {"topic": "pickletools - Command-line usage", "file": "pickletools/command-line-usage.md", "summary": "Open when checking pickletools - Command-line usage.", "keywords": []},
+    {"topic": "pickletools - Programmatic interface", "file": "pickletools/pickletools-dis-to-pickletools-optimize.md", "summary": "Open when checking pickletools - Programmatic interface.", "keywords": []},
+    {"topic": "pickletools - `pickletools` - Tools for pickle developers", "file": "pickletools/pickletools-tools-for-pickle-developers.md", "summary": "Open when checking pickletools - `pickletools` - Tools for pickle developers.", "keywords": []},
+    {"topic": "pickletools - Tools for pickle developers", "file": "pickletools/tools-for-pickle-developers.md", "summary": "Open when checking pickletools - Tools for pickle developers.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

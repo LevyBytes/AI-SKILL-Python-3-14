@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / xmlrpc.client — xmlrpc.client
+# What's New In Python 3.6 / xmlrpc.client - xmlrpc.client
 
 ### xmlrpc.client
 

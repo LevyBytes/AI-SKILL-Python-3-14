@@ -1,4 +1,4 @@
-# tkinter — A Hello World Program
+# tkinter - A Hello World Program
 
 ### A Hello World Program
 

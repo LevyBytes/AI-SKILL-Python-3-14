@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Standard Library — configparser, importlib.resources, locale, re, turtle, typing
+# What's New In Python 3.11 / Standard Library - configparser, importlib.resources, locale, re, turtle, typing
 
 ### Standard Library
 

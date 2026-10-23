@@ -1,4 +1,4 @@
-# bz2 — Examples of usage
+# bz2 - Examples of usage
 
 ### Examples of usage
 

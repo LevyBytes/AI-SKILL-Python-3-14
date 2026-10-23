@@ -1,4 +1,4 @@
-# shutil — rmtree example
+# shutil - rmtree example
 
 ### rmtree example
 

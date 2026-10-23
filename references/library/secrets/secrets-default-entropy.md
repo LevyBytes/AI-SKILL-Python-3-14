@@ -1,4 +1,4 @@
-# secrets — How many bytes should tokens use?
+# secrets - How many bytes should tokens use?
 
 ### How many bytes should tokens use?
 

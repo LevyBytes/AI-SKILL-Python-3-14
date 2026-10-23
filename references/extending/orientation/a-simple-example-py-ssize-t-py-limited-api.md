@@ -1,4 +1,4 @@
-# A Simple Example — Py_ssize_t, Py_LIMITED_API
+# A Simple Example - Py_ssize_t, Py_LIMITED_API
 
 ### 1.1. A Simple Example
 

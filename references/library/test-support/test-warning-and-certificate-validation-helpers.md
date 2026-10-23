@@ -1,4 +1,4 @@
-# test.support — `test.support` — Utilities for the Python test suite
+# test.support`test.support` - Utilities for the Python test suite
 
 test.support.print_warning(*msg*)
 

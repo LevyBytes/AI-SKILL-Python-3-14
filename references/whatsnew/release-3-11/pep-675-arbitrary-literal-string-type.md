@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / PEP 675: Arbitrary literal string type — typing
+# What's New In Python 3.11 / PEP 675: Arbitrary literal string type - typing
 
 > (Contributed by James Hilton-Balfe in [bpo-46534](https://bugs.python.org/issue?@action=redirect&bpo=46534). PEP written by Pradeep Kumar Srinivasan and James Hilton-Balfe.)
 

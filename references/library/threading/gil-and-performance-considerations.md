@@ -1,4 +1,4 @@
-# threading — GIL and performance considerations
+# threading - GIL and performance considerations
 
 ### GIL and performance considerations
 

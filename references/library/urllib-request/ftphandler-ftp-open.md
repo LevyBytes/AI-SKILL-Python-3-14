@@ -1,4 +1,4 @@
-# urllib.request — FTPHandler Objects
+# urllib.request - FTPHandler Objects
 
 ### FTPHandler Objects
 

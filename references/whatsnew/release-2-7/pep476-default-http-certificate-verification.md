@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 476: Enabling certificate verification by default for stdlib http clients — http, urllib.request, xmlrpc.client
+# What’s New in Python 2.7 / PEP 476: Enabling certificate verification by default for stdlib http clients - http, urllib.request, xmlrpc.client
 
 ### PEP 476: Enabling certificate verification by default for stdlib http clients
 

@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / asyncio — asyncio-eventloop, asyncio-graph, asyncio-task
+# What's new in Python 3.14 / asyncio - asyncio-eventloop, asyncio-graph, asyncio-task
 
 ### asyncio
 

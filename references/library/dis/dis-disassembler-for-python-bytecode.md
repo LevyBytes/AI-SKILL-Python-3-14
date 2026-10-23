@@ -1,6 +1,6 @@
-# dis — `dis` — Disassembler for Python bytecode
+# dis`dis` - Disassembler for Python bytecode
 
-### `dis` — Disassembler for Python bytecode
+### `dis` - Disassembler for Python bytecode
 
 **Source code:** [Lib/dis.py](https://github.com/python/cpython/tree/3.14/Lib/dis.py)
 

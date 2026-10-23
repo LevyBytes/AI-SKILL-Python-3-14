@@ -1,8 +1,8 @@
 # tempfile: Temporary file and directory lifecycle overview
 
-## tempfile — Generate temporary files and directories
+## tempfile - Generate temporary files and directories
 
-### `tempfile` — Generate temporary files and directories
+### `tempfile` - Generate temporary files and directories
 
 **Source code:** [Lib/tempfile.py](https://github.com/python/cpython/tree/3.14/Lib/tempfile.py)
 

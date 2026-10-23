@@ -1,4 +1,4 @@
-# Supporting cyclic garbage collection — CustomType, custom_module_exec, custom_module_slots, custom_module, PyInit_custom4
+# Supporting cyclic garbage collection - CustomType, custom_module_exec, custom_module_slots, custom_module, PyInit_custom4
 
 Open the [complete example modules](../../examples/extension-gc/INDEX.md) for the complete definitions, imports and entrypoint.
 

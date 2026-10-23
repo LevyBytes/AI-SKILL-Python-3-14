@@ -1,4 +1,4 @@
-# difflib — ndiff example — Complete main argument handling, restore and entrypoint
+# difflib - ndiff example - Complete main argument handling, restore and entrypoint
 
 Open the [complete example modules](../../examples/ndiff-command/INDEX.md) for the complete definitions, imports and entrypoint.
 

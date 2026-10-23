@@ -1,6 +1,6 @@
 # binascii: `binascii.a2b_uu()`, `binascii.b2a_uu()`, `binascii.a2b_base64()`, `binascii.b2a_base64()`, `binascii.a2b_qp()`, `binascii.b2a_qp()`, `binascii.crc_hqx()`, `binascii.crc32()`
 
-### `binascii` — Convert between binary and ASCII
+### `binascii` - Convert between binary and ASCII
 
 ---
 

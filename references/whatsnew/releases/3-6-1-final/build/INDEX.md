@@ -4,4 +4,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 
 - Open when checking Python 3.6.1 final / build / correct formatting git information embedded sys version repair incompatible comment: [Python 3.6.1 final / build / correct formatting git information embedded sys version repair incompatible comment](git-version-string-and-comment-formatting.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

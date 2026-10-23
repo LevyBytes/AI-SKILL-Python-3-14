@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / Notable changes in Python 3.7.10 — urllib.parse
+# What's New In Python 3.7 / Notable changes in Python 3.7.10 - urllib.parse
 
 ### Notable changes in Python 3.7.10
 

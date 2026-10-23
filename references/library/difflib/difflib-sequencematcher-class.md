@@ -1,6 +1,6 @@
 # difflib: `difflib.SequenceMatcher`
 
-### `difflib` — Helpers for computing deltas
+### `difflib` - Helpers for computing deltas
 
 **Source code:** [Lib/difflib.py](https://github.com/python/cpython/tree/3.14/Lib/difflib.py)
 

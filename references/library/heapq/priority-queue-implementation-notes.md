@@ -1,4 +1,4 @@
-# heapq — Priority Queue Implementation Notes
+# heapq - Priority Queue Implementation Notes
 
 ### Priority Queue Implementation Notes
 

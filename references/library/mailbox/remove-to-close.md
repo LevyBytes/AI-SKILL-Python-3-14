@@ -1,4 +1,4 @@
-# mailbox — MH additional method behavior
+# mailbox - MH additional method behavior
 
 This operation invalidates already-issued keys, which therefore ought not to be used afterward.
 
@@ -16,7 +16,7 @@ These methods delete the message at once. The MH practice of flagging a message 
 
  unlock()
 
-Three locking schemes come into play—dot locking plus, where they're available, the `flock()` and `lockf()` system calls. For MH mailboxes, locking the mailbox amounts to locking the `.mh_sequences` file and, solely while operations that touch them are underway, locking individual message files.
+Three locking schemes come into play: dot locking plus, where they're available, the `flock()` and `lockf()` system calls. For MH mailboxes, locking the mailbox amounts to locking the `.mh_sequences` file and, solely while operations that touch them are underway, locking individual message files.
 
  get_file(*key*)
 

@@ -4,7 +4,7 @@
 
 ### Tkinter Dialogs
 
-### `tkinter.simpledialog` — Standard Tkinter input dialogs
+### `tkinter.simpledialog` - Standard Tkinter input dialogs
 
 **Source code:** [Lib/tkinter/simpledialog.py](https://github.com/python/cpython/tree/3.14/Lib/tkinter/simpledialog.py)
 

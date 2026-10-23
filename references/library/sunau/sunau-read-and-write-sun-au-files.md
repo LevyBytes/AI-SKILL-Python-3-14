@@ -1,6 +1,6 @@
-# sunau — `sunau` — Read and write Sun AU files
+# sunau`sunau` - Read and write Sun AU files
 
-### `sunau` — Read and write Sun AU files
+### `sunau` - Read and write Sun AU files
 
 Deprecated since version 3.11, removed in version 3.13.
 

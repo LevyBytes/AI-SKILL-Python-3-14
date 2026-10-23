@@ -1,4 +1,4 @@
-# cmd — Cmd Example — Section introduction and initial examples
+# cmd - Cmd Example - Section introduction and initial examples
 
 ### Cmd Example
 

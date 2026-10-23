@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `get_param()`, `set_param()` in email.message.Message. [email.message.Message: `get_param()`, `set_param()`](legacy-message-parameter-access-and-mutation.md).
 - Open when checking the documented contracts for `walk()` in email.message.Message. [email.message.Message: `walk()`](email-message-message-walk.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

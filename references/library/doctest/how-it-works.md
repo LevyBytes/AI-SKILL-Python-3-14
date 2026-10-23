@@ -1,4 +1,4 @@
-# doctest — How It Works
+# doctest - How It Works
 
 ### How It Works
 

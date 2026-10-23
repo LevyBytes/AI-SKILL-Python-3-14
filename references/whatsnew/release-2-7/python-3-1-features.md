@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Python 3.1 Features — importlib, io
+# What’s New in Python 2.7 / Python 3.1 Features - importlib, io
 
 ### Python 3.1 Features
 

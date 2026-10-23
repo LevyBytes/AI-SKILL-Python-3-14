@@ -23,4 +23,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 1 / tests / threads and concurrency: [Python 3.12.0 alpha 1 / tests / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.12.0 alpha 1 / tests / within test bdb statetestcase test skip steer clear pulling auxiliary importers: [Python 3.12.0 alpha 1 / tests / within test bdb statetestcase test skip steer clear pulling auxiliary importers](debugger-skip-test-import-isolation.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

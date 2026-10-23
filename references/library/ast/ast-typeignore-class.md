@@ -1,4 +1,4 @@
-# ast — Type annotations
+# ast - Type annotations
 
 ### Type annotations
 

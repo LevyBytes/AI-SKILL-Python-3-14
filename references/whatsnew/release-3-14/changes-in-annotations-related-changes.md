@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / Changes in annotations (**PEP 649** and **PEP 749**) / Related changes — annotationlib
+# What's new in Python 3.14 / Changes in annotations (**PEP 649** and **PEP 749**) / Related changes - annotationlib
 
 Python 3.14 reworks the runtime mechanics of `__annotations__`, and the goal was to keep disruption low both for source that carries annotations and for source that inspects `__annotations__`. That said, anyone leaning on annotation behavior that was never documented, or on private helpers buried in the standard library, may discover several places where their programs stop functioning under Python 3.14. The recommended way to keep your programs resilient as things evolve is to stick to the published surface of the [`annotationlib`](https://docs.python.org/3.14/library/annotationlib.html#module-annotationlib) module.
 

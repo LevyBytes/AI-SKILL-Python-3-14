@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / importlib.metadata — importlib.metadata
+# What's New In Python 3.13 / importlib.metadata - importlib.metadata
 
 ### importlib.metadata
 

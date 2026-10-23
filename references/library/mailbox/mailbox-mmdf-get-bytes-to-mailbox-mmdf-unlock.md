@@ -14,7 +14,7 @@ Note: Compared with other classes, this method carries an extra parameter (*from
 
  unlock()
 
-Three locking schemes come into play—dot locking plus, where they're available, the `flock()` and `lockf()` system calls.
+Three locking schemes come into play: dot locking plus, where they're available, the `flock()` and `lockf()` system calls.
 
 See also
 

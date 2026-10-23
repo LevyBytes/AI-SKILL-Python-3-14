@@ -1,4 +1,4 @@
-# urllib.request — Examples — Code example: >>> import urllib.request
+# urllib.request - Examples - Code example: >>> import urllib.request
 
 ```python
 >>> import urllib.request

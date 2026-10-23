@@ -1,4 +1,4 @@
-# string — Helper functions
+# string - Helper functions
 
 ### Helper functions
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / Other Language Changes — ast, shutil, sys, tarfile, types
+# What’s New In Python 3.12 / Other Language Changes - ast, shutil, sys, tarfile, types
 
 An octal escape whose value exceeds `0o377` (for instance `"\477"`), already deprecated back in Python 3.11, now emits a [`SyntaxWarning`](https://docs.python.org/3.14/library/exceptions.html#SyntaxWarning) rather than a [`DeprecationWarning`](https://docs.python.org/3.14/library/exceptions.html#DeprecationWarning). Some later Python release will eventually promote this to a [`SyntaxError`](https://docs.python.org/3.14/library/exceptions.html#SyntaxError). (Contributed by Victor Stinner in [gh-98401](https://github.com/python/cpython/issues/98401).)
 

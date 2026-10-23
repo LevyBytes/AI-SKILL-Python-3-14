@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / Other Changes and Fixes — pdb
+# What’s New in Python 2.3 / Other Changes and Fixes - pdb
 
 ### Other Changes and Fixes
 

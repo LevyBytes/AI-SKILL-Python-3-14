@@ -1,4 +1,4 @@
-# What’s New in Python 2.1 / New and Improved Modules — curses.panel, difflib, doctest, ftplib, profile, socket, sys, time, xml
+# What’s New in Python 2.1 / New and Improved Modules - curses.panel, difflib, doctest, ftplib, profile, socket, sys, time, xml
 
 ### New and Improved Modules
 

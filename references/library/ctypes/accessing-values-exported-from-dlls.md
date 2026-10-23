@@ -1,4 +1,4 @@
-# ctypes — Accessing values exported from dlls
+# ctypes - Accessing values exported from dlls
 
 ### Accessing values exported from dlls
 

@@ -1,4 +1,4 @@
-# datetime — Technical detail
+# datetime - Technical detail
 
 ### Technical detail
 

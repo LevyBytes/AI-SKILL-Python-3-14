@@ -1,4 +1,4 @@
-# unittest.mock — Mocking Magic Methods — Contract: Unary numeric methods: `__neg__`, `__pos__` and `__invert__`
+# unittest.mock - Mocking Magic Methods - Contract: Unary numeric methods: `__neg__`, `__pos__` and `__invert__`
 
 Unary numeric methods: `__neg__`, `__pos__` and `__invert__`
 

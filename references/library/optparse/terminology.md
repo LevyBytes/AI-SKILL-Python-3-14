@@ -1,4 +1,4 @@
-# optparse — Terminology
+# optparse - Terminology
 
 ### Terminology
 

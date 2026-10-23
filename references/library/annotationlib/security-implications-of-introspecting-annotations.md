@@ -1,4 +1,4 @@
-# annotationlib — Security implications of introspecting annotations
+# annotationlib - Security implications of introspecting annotations
 
 ### Security implications of introspecting annotations
 

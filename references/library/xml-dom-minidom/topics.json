@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "xml.dom.minidom — DOM Example", "file": "xml-dom-minidom/dom-example.md", "summary": "Open when checking xml.dom.minidom — DOM Example.", "keywords": []},
-    {"topic": "xml.dom.minidom — minidom and the DOM standard", "file": "xml-dom-minidom/minidom-and-the-dom-standard.md", "summary": "Open when checking xml.dom.minidom — minidom and the DOM standard.", "keywords": []},
-    {"topic": "xml.dom.minidom — Minimal DOM implementation", "file": "xml-dom-minidom/minimal-dom-implementation.md", "summary": "Open when checking xml.dom.minidom — Minimal DOM implementation.", "keywords": []},
-    {"topic": "xml.dom.minidom — DOM Objects", "file": "xml-dom-minidom/node-unlink-to-node-toprettyxml.md", "summary": "Open when checking xml.dom.minidom — DOM Objects.", "keywords": []},
-    {"topic": "xml.dom.minidom — `xml.dom.minidom` — Minimal DOM implementation", "file": "xml-dom-minidom/xml-dom-minidom-parse-to-xml-dom-minidom-parsestring.md", "summary": "Open when checking xml.dom.minidom — `xml.dom.minidom` — Minimal DOM implementation.", "keywords": []},
+    {"topic": "xml.dom.minidom - DOM Example", "file": "xml-dom-minidom/dom-example.md", "summary": "Open when checking xml.dom.minidom - DOM Example.", "keywords": []},
+    {"topic": "xml.dom.minidom - minidom and the DOM standard", "file": "xml-dom-minidom/minidom-and-the-dom-standard.md", "summary": "Open when checking xml.dom.minidom - minidom and the DOM standard.", "keywords": []},
+    {"topic": "xml.dom.minidom - Minimal DOM implementation", "file": "xml-dom-minidom/minimal-dom-implementation.md", "summary": "Open when checking xml.dom.minidom - Minimal DOM implementation.", "keywords": []},
+    {"topic": "xml.dom.minidom - DOM Objects", "file": "xml-dom-minidom/node-unlink-to-node-toprettyxml.md", "summary": "Open when checking xml.dom.minidom - DOM Objects.", "keywords": []},
+    {"topic": "xml.dom.minidom - `xml.dom.minidom` - Minimal DOM implementation", "file": "xml-dom-minidom/xml-dom-minidom-parse-to-xml-dom-minidom-parsestring.md", "summary": "Open when checking xml.dom.minidom - `xml.dom.minidom` - Minimal DOM implementation.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

@@ -1,4 +1,4 @@
-# locale — Background, details, hints, tips and caveats
+# locale - Background, details, hints, tips and caveats
 
 ### Background, details, hints, tips and caveats
 

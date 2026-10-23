@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / Deprecated Python modules, functions and methods / tkinter — tkinter, tkinter.ttk
+# What's New In Python 3.6 / Deprecated Python modules, functions and methods / tkinter - tkinter, tkinter.ttk
 
 #### tkinter
 

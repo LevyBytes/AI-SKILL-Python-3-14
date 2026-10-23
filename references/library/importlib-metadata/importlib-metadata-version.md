@@ -1,4 +1,4 @@
-# importlib.metadata — Distribution versions
+# importlib.metadata - Distribution versions
 
 ### Distribution versions
 

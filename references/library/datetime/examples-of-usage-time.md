@@ -1,4 +1,4 @@
-# datetime — Examples of usage: `time`
+# datetime - Examples of usage: `time`
 
 ### Examples of usage: `time`
 

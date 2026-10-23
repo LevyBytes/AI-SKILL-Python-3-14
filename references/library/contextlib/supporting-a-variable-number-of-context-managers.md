@@ -1,4 +1,4 @@
-# contextlib — Supporting a variable number of context managers
+# contextlib - Supporting a variable number of context managers
 
 ### Supporting a variable number of context managers
 

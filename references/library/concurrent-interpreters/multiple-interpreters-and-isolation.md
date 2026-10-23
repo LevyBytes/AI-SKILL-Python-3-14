@@ -1,4 +1,4 @@
-# concurrent.interpreters — Multiple Interpreters and Isolation
+# concurrent.interpreters - Multiple Interpreters and Isolation
 
 ### Multiple Interpreters and Isolation
 

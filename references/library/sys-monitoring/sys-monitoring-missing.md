@@ -1,4 +1,4 @@
-# sys.monitoring — Callback function arguments
+# sys.monitoring - Callback function arguments
 
 ### Callback function arguments
 

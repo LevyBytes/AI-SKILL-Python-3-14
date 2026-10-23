@@ -1,4 +1,4 @@
-# Audit events table — winreg
+# Audit events table - winreg
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

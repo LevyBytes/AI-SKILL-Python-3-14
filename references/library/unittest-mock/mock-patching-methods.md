@@ -1,4 +1,4 @@
-# unittest.mock — Mock patching methods
+# unittest.mock - Mock patching methods
 
 <a id="unittestmock--unittestmock--getting-started"></a>
 

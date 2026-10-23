@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `PySys_GetObject()`, `PySys_SetObject()`, `PySys_ResetWarnOptions()`, `PySys_WriteStdout()`, `PySys_WriteStderr()`, `PySys_FormatStdout()`, `PySys_FormatStderr()`, `PySys_GetXOptions()` in system interface C API. [system interface C API: `PySys_GetObject()`, `PySys_SetObject()`, `PySys_ResetWarnOptions()`, `PySys_WriteStdout()`, `PySys_WriteStderr()`, `PySys_FormatStdout()`, `PySys_FormatStderr()`, `PySys_GetXOptions()`](pysys-getobject-to-pysys-getxoptions.md).
 - Open when checking the documented contracts for `PySys_Audit()`, `PySys_AuditTuple()`, `PySys_AddAuditHook()` in system interface C API. [system interface C API: `PySys_Audit()`, `PySys_AuditTuple()`, `PySys_AddAuditHook()`](pysys-audit-to-pysys-addaudithook.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

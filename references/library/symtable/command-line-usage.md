@@ -1,4 +1,4 @@
-# symtable — Command-Line Usage
+# symtable - Command-Line Usage
 
 ### Command-Line Usage
 

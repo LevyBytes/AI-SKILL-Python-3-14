@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / PEP 328: Absolute and Relative Imports — string
+# What's New in Python 2.5 / PEP 328: Absolute and Relative Imports - string
 
 ### PEP 328: Absolute and Relative Imports
 

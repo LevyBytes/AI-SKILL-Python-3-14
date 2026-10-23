@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / pathlib — pathlib
+# What's New In Python 3.7 / pathlib - pathlib
 
 ### pathlib
 

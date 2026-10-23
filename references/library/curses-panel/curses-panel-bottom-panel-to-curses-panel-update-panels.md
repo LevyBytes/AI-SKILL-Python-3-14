@@ -1,4 +1,4 @@
-# curses.panel — Functions
+# curses.panel - Functions
 
 ### Functions
 

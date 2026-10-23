@@ -1,4 +1,4 @@
-# curses — Constants
+# curses - Constants
 
 ### Constants
 

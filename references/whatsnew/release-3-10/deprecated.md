@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Deprecated — importlib, random, threading, zipimport
+# What's New In Python 3.10 / Deprecated - importlib, random, threading, zipimport
 
 ### Deprecated
 

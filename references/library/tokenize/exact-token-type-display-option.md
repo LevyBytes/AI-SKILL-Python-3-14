@@ -1,4 +1,4 @@
-# tokenize — Examples — Contract: The exact token type names can be displayed using the `-e` option:
+# tokenize - Examples - Contract: The exact token type names can be displayed using the `-e` option:
 
 The exact token type names can be displayed using the `-e` option:
 

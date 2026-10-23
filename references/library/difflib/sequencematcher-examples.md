@@ -1,4 +1,4 @@
-# difflib — SequenceMatcher examples
+# difflib - SequenceMatcher examples
 
 ### SequenceMatcher examples
 

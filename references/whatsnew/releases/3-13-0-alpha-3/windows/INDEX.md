@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 3 / windows / sort properly strip duplicate environment variables inside winapi createprocess: [Python 3.13.0 alpha 3 / windows / sort properly strip duplicate environment variables inside winapi createprocess](windows-process-environment-sort-and-deduplication.md).
 - Open when checking Python 3.13.0 alpha 3 / windows / sys: [Python 3.13.0 alpha 3 / windows / sys](sys.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

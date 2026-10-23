@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 7 / build / exceptions and tracebacks: [Python 3.14.0 alpha 7 / build / exceptions and tracebacks](exceptions-and-tracebacks.md).
 - Open when checking Python 3.14.0 alpha 7 / build / repairs mimalloc library builds aimed bit arm targets: [Python 3.14.0 alpha 7 / build / repairs mimalloc library builds aimed bit arm targets](repairs-mimalloc-library-builds-aimed-bit-arm-targets.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

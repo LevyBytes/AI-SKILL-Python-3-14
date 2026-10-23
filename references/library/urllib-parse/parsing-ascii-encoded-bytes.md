@@ -1,4 +1,4 @@
-# urllib.parse — Parsing ASCII Encoded Bytes
+# urllib.parse - Parsing ASCII Encoded Bytes
 
 ### Parsing ASCII Encoded Bytes
 

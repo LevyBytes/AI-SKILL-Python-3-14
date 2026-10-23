@@ -18,4 +18,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 4 / core and builtins / warnings: [Python 3.7.0 alpha 4 / core and builtins / warnings](warnings.md).
 - Open when checking Python 3.7.0 alpha 4 / core and builtins / x dev pushes default entry onto sys warnoptions acts exactly: [Python 3.7.0 alpha 4 / core and builtins / x dev pushes default entry onto sys warnoptions acts exactly](x-dev-pushes-default-entry-onto-sys-warnoptions-acts-exactly.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

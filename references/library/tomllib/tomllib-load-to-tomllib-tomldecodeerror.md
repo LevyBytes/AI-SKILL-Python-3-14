@@ -1,8 +1,8 @@
-# tomllib — `tomllib` — Parse TOML files
+# tomllib`tomllib` - Parse TOML files
 
-## tomllib — Parse TOML files
+## tomllib - Parse TOML files
 
-### `tomllib` — Parse TOML files
+### `tomllib` - Parse TOML files
 
 Added in version 3.11.
 

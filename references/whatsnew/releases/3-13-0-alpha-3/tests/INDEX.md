@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.13.0 alpha 3 / tests / turn off test super deep within test call pydebug builds running wasi: [Python 3.13.0 alpha 3 / tests / turn off test super deep within test call pydebug builds running wasi](wasi-debug-deep-call-test-skip.md).
 - Open when checking Python 3.13.0 alpha 3 / tests / zlib: [Python 3.13.0 alpha 3 / tests / zlib](zlib.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

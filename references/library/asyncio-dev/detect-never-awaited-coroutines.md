@@ -1,4 +1,4 @@
-# asyncio — Detect never-awaited coroutines
+# asyncio - Detect never-awaited coroutines
 
 ### Detect never-awaited coroutines
 

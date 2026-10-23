@@ -1,4 +1,4 @@
-# typing — Annotating callable objects
+# typing - Annotating callable objects
 
 ### Annotating callable objects
 

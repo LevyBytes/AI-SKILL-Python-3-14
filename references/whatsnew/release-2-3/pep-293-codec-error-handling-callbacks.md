@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 293: Codec Error Handling Callbacks — codecs
+# What’s New in Python 2.3 / PEP 293: Codec Error Handling Callbacks - codecs
 
 ### PEP 293: Codec Error Handling Callbacks
 

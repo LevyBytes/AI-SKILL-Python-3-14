@@ -1,4 +1,4 @@
-# xml.dom — Comment Objects
+# xml.dom - Comment Objects
 
 ### Comment Objects
 

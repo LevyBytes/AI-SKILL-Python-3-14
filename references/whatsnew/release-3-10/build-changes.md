@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / Build Changes — atexit, ensurepip, sqlite3
+# What's New In Python 3.10 / Build Changes - atexit, ensurepip, sqlite3
 
 ### Build Changes
 

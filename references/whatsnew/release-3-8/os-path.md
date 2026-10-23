@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / os.path — os.path
+# What’s New In Python 3.8 / os.path - os.path
 
 ### os.path
 

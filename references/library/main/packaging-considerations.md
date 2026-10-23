@@ -1,4 +1,4 @@
-# __main__ — Packaging Considerations
+# __main__ - Packaging Considerations
 
 ### Packaging Considerations
 

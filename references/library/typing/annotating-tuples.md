@@ -1,4 +1,4 @@
-# typing — Annotating tuples
+# typing - Annotating tuples
 
 ### Annotating tuples
 

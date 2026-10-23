@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / Summary — Release Highlights
+# What's New In Python 3.4 / Summary - Release Highlights
 
 Argument Clinic ([**PEP 436**](https://peps.python.org/pep-0436/)).
 

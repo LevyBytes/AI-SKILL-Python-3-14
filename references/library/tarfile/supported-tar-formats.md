@@ -1,4 +1,4 @@
-# tarfile — Supported tar formats
+# tarfile - Supported tar formats
 
 ### Supported tar formats
 

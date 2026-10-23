@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 538: Legacy C Locale Coercion — readline, sys
+# What's New In Python 3.7 / PEP 538: Legacy C Locale Coercion - readline, sys
 
 ### PEP 538: Legacy C Locale Coercion
 
@@ -16,7 +16,7 @@ Although [**PEP 538**](https://peps.python.org/pep-0538/)'s coercion carries the
 
 See also
 
-[**PEP 538**](https://peps.python.org/pep-0538/) — Coercing the legacy C locale to a UTF-8 based locale
+[**PEP 538**](https://peps.python.org/pep-0538/): Coercing the legacy C locale to a UTF-8 based locale
 
 PEP written and implemented by Nick Coghlan.
 

@@ -1,4 +1,4 @@
-# gettext — Localizing your module
+# gettext - Localizing your module
 
 ### Localizing your module
 

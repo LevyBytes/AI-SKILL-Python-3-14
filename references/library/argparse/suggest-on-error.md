@@ -1,4 +1,4 @@
-# argparse — suggest_on_error
+# argparse - suggest_on_error
 
 ### suggest_on_error
 

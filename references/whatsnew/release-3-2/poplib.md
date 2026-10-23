@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / poplib — poplib, ssl
+# What's New In Python 3.2 / poplib - poplib, ssl
 
 ### poplib
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / API and Feature Removals — inspect, io, re, tkinter, traceback, zipfile
+# What's New In Python 3.6 / API and Feature Removals - inspect, io, re, tkinter, traceback, zipfile
 
 ### Removed
 

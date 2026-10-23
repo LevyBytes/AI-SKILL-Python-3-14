@@ -26,4 +26,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.2 release candidate 1 / core and builtins / threads and concurrency: [Python 3.5.2 release candidate 1 / core and builtins / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.5.2 release candidate 1 / core and builtins / update one pickleability checks inside pyobject getstate commented out because: [Python 3.5.2 release candidate 1 / core and builtins / update one pickleability checks inside pyobject getstate commented out because](cython-object-state-pickleability-compatibility.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

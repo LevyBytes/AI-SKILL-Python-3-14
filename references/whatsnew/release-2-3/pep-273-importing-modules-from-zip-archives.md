@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / PEP 273: Importing Modules from ZIP Archives — zipimport
+# What’s New in Python 2.3 / PEP 273: Importing Modules from ZIP Archives - zipimport
 
 ### PEP 273: Importing Modules from ZIP Archives
 

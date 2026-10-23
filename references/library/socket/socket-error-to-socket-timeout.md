@@ -1,4 +1,4 @@
-# socket — Exceptions
+# socket - Exceptions
 
 ### Exceptions
 

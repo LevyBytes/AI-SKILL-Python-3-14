@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / struct — struct
+# What's new in Python 3.14 / struct - struct
 
 ### struct
 

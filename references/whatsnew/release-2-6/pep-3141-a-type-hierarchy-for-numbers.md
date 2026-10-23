@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 3141: A Type Hierarchy for Numbers — fractions, math, numbers
+# What’s New in Python 2.6 / PEP 3141: A Type Hierarchy for Numbers - fractions, math, numbers
 
 ### PEP 3141: A Type Hierarchy for Numbers
 

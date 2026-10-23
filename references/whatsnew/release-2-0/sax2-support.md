@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / SAX2 Support — xml.sax.handler
+# What’s New in Python 2.0 / SAX2 Support - xml.sax.handler
 
 ### SAX2 Support
 

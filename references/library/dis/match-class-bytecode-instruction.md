@@ -1,4 +1,4 @@
-# dis — MATCH_CLASS bytecode instruction
+# dis - MATCH_CLASS bytecode instruction
 
 Here `STACK[-1]` holds a tuple naming the keyword attributes, `STACK[-2]` names the class used for the comparison, and `STACK[-3]` carries the subject being matched. The *count* value records how many positional sub-patterns there are.
 

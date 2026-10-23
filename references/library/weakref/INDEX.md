@@ -2,10 +2,10 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking weakref — Comparing finalizers with `__del__()` methods: [weakref — Comparing finalizers with `__del__()` methods](comparing-finalizers-with-del-methods.md).
-- Open when checking weakref — Example: [weakref — Example](example.md).
-- Open when checking weakref — Finalizer Objects: [weakref — Finalizer Objects](finalizer-objects.md).
-- Open when checking weakref — Weak Reference Objects: [weakref — Weak Reference Objects](weak-reference-objects.md).
+- Open when checking weakref - Comparing finalizers with `__del__()` methods: [weakref - Comparing finalizers with `__del__()` methods](comparing-finalizers-with-del-methods.md).
+- Open when checking weakref - Example: [weakref - Example](example.md).
+- Open when checking weakref - Finalizer Objects: [weakref - Finalizer Objects](finalizer-objects.md).
+- Open when checking weakref - Weak Reference Objects: [weakref - Weak Reference Objects](weak-reference-objects.md).
 - Open when checking the documented contracts for `weakref.ref` in weakref. [weakref: `weakref.ref`](weakref-ref-class.md).
 - Open when checking weak-reference callbacks and lifetime in weakref. [weakref: Weak-reference callbacks and lifetime](weakref-weak-references.md).
 - Open when checking the documented contracts for `weakref.proxy()`, `weakref.getweakrefcount()`, `weakref.getweakrefs()` in weakref. [weakref: `weakref.proxy()`, `weakref.getweakrefcount()`, `weakref.getweakrefs()`](weakref-proxy-to-weakref-getweakrefs.md).
@@ -19,4 +19,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `weakref.CallableProxyType` in weakref. [weakref: `weakref.CallableProxyType`](weakref-callableproxytype-class.md).
 - Open when checking the documented contracts for `weakref.ProxyTypes` in weakref. [weakref: `weakref.ProxyTypes`](weakref-proxytypes.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

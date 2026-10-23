@@ -1,6 +1,6 @@
-# logging.config — `logging.config` — Logging configuration
+# logging.config`logging.config` - Logging configuration
 
-### `logging.config` — Logging configuration
+### `logging.config` - Logging configuration
 
 **Source code:** [Lib/logging/config.py](https://github.com/python/cpython/tree/3.14/Lib/logging/config.py)
 

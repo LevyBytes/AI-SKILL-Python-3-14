@@ -1,4 +1,4 @@
-# subprocess — Popen Constructor — Contract: Changed in version 3.8: On Windows, the *executable* parameter takes both bytes and a path-like object.
+# subprocess - Popen Constructor - Contract: Changed in version 3.8: On Windows, the *executable* parameter takes both bytes and a path-like object.
 
 Changed in version 3.8: On Windows, the *executable* parameter takes both bytes and a [path-like object](https://docs.python.org/3.14/glossary.html#term-path-like-object).
 

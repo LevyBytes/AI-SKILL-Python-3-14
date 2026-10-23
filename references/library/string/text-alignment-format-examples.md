@@ -1,4 +1,4 @@
-# string — Format examples — Code example: >>> for align, text in zip('<^>', ['left', 'center', 'right']):
+# string - Format examples - Code example: >>> for align, text in zip('<^>', ['left', 'center', 'right']):
 
 ```python
 >>> for align, text in zip('<^>', ['left', 'center', 'right']):

@@ -1,4 +1,4 @@
-# base64 — RFC 4648 Encodings
+# base64 - RFC 4648 Encodings
 
 ### RFC 4648 Encodings
 

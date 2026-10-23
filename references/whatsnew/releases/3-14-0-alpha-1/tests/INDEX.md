@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 1 / tests / text and unicode: [Python 3.14.0 alpha 1 / tests / text and unicode](text-and-unicode.md).
 - Open when checking Python 3.14.0 alpha 1 / tests / zlib: [Python 3.14.0 alpha 1 / tests / zlib](zlib.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

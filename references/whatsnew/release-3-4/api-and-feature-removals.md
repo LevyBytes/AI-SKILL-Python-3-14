@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / API and Feature Removals — difflib, http.client, importlib, inspect, marshal, urllib.request
+# What's New In Python 3.4 / API and Feature Removals - difflib, http.client, importlib, inspect, marshal, urllib.request
 
 ### API and Feature Removals
 

@@ -1,4 +1,4 @@
-# ctypes — Fundamental data types — Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):
+# ctypes - Fundamental data types - Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):
 
 When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):
 

@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "references/whatsnew", "topics": [
-  {"topic": "New Modules / What's New In Python 3.7 / contextvars — asyncio, contextvars, decimal", "file": "release-3-7/contextvars.md", "summary": "Open when checking What's New In Python 3.7 / contextvars — asyncio, contextvars, decimal.", "keywords": []},
-  {"topic": "New Modules / What's New In Python 3.7 / dataclasses — dataclasses", "file": "release-3-7/dataclasses.md", "summary": "Open when checking What's New In Python 3.7 / dataclasses — dataclasses.", "keywords": []},
-  {"topic": "New Modules / What's New In Python 3.7 / importlib.resources — importlib.resources", "file": "release-3-7/importlib-resources.md", "summary": "Open when checking What's New In Python 3.7 / importlib.resources — importlib.resources.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.7 / contextvars - asyncio, contextvars, decimal", "file": "release-3-7/contextvars.md", "summary": "Open when checking What's New In Python 3.7 / contextvars - asyncio, contextvars, decimal.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.7 / dataclasses - dataclasses", "file": "release-3-7/dataclasses.md", "summary": "Open when checking What's New In Python 3.7 / dataclasses - dataclasses.", "keywords": []},
+  {"topic": "New Modules / What's New In Python 3.7 / importlib.resources - importlib.resources", "file": "release-3-7/importlib-resources.md", "summary": "Open when checking What's New In Python 3.7 / importlib.resources - importlib.resources.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

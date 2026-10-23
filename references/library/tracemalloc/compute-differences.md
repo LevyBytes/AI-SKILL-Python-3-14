@@ -1,4 +1,4 @@
-# tracemalloc — Compute differences
+# tracemalloc - Compute differences
 
 ### Compute differences
 

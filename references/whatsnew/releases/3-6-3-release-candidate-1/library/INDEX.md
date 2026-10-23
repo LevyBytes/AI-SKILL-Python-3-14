@@ -36,4 +36,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.3 release candidate 1 / library / whenever context cannot created ssl sslcontext draws openssl error information: [Python 3.6.3 release candidate 1 / library / whenever context cannot created ssl sslcontext draws openssl error information](ssl-context-creation-error-details.md).
 - Open when checking Python 3.6.3 release candidate 1 / library / xmlrpc server: [Python 3.6.3 release candidate 1 / library / xmlrpc server](xmlrpc-server.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

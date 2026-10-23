@@ -1,4 +1,4 @@
-# sqlite3 — How to create and use row factories
+# sqlite3 - How to create and use row factories
 
 ### How to create and use row factories
 

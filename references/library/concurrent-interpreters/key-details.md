@@ -1,4 +1,4 @@
-# concurrent.interpreters — Key details
+# concurrent.interpreters - Key details
 
 ### Key details
 

@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 beta 5 / core and builtins / repair unaligned accesses occurring siphash24: [Python 3.7.0 beta 5 / core and builtins / repair unaligned accesses occurring siphash24](repair-unaligned-accesses-occurring-siphash24.md).
 - Open when checking Python 3.7.0 beta 5 / core and builtins / text and unicode: [Python 3.7.0 beta 5 / core and builtins / text and unicode](text-and-unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

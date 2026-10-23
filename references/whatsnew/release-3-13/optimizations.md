@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Optimizations — contextlib, email.utils, enum, functools, importlib.metadata, os, re, subprocess, textwrap, threading, typing
+# What's New In Python 3.13 / Optimizations - contextlib, email.utils, enum, functools, importlib.metadata, os, re, subprocess, textwrap, threading, typing
 
 ### Optimizations
 

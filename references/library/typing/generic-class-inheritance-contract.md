@@ -1,4 +1,4 @@
-# typing — User-defined generic types — Contract: Other classes may serve as bases for generic classes as well:
+# typing - User-defined generic types - Contract: Other classes may serve as bases for generic classes as well:
 
 Other classes may serve as bases for generic classes as well:
 

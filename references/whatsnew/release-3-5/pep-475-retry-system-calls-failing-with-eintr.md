@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / PEP 475: Retry system calls failing with EINTR — errno, faulthandler, io, os, select, signal, socket, time
+# What’s New In Python 3.5 / PEP 475: Retry system calls failing with EINTR - errno, faulthandler, io, os, select, signal, socket, time
 
 ### PEP 475: Retry system calls failing with EINTR
 

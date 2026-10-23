@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / New and Improved Modules — cmath, collections, urllib.parse
+# What’s New in Python 2.6 / New and Improved Modules - cmath, collections, urllib.parse
 
 ### New and Improved Modules
 

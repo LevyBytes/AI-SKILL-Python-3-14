@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / Garbage Collection of Cycles — gc
+# What’s New in Python 2.0 / Garbage Collection of Cycles - gc
 
 ### Garbage Collection of Cycles
 

@@ -1,4 +1,4 @@
-# sqlite3 — How to use the connection context manager
+# sqlite3 - How to use the connection context manager
 
 ### How to use the connection context manager
 

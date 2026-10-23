@@ -1,4 +1,4 @@
-# smtplib — SMTP Example
+# smtplib - SMTP Example
 
 ### SMTP Example
 

@@ -64,7 +64,7 @@ That buffer stays good only until the module gets renamed or destroyed. Be aware
 
 * Part of the [Stable ABI](https://docs.python.org/3.14/c-api/stable.html#stable).*
 
-Hand back the module's "state" — namely a pointer to the memory block reserved when the module was created, or else `NULL`. Refer to `PyModuleDef.m_size`.
+Hand back the module's "state": namely a pointer to the memory block reserved when the module was created, or else `NULL`. Refer to `PyModuleDef.m_size`.
 
  PyModuleDef *PyModule_GetDef([PyObject](https://docs.python.org/3.14/c-api/structures.html#c.PyObject) *module)
 

@@ -16,7 +16,7 @@ Added in version 3.14.
 
 See also
 
-[**PEP 649**](https://peps.python.org/pep-0649/) — Deferred evaluation of annotation using descriptors
+[**PEP 649**](https://peps.python.org/pep-0649/): Deferred evaluation of annotation using descriptors
 
 Introduces lazy evaluation of annotations and the `__annotate__` function.
 

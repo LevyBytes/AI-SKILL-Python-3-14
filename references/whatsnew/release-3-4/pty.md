@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / pty — os, pty
+# What's New In Python 3.4 / pty - os, pty
 
 ### pty
 

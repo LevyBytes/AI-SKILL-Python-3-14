@@ -1,4 +1,4 @@
-# shutil — Querying the size of the output terminal
+# shutil - Querying the size of the output terminal
 
 ### Querying the size of the output terminal
 

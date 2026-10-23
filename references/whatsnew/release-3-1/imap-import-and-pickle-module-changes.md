@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / New, Improved, and Deprecated Modules — imaplib, importlib, pickle
+# What’s New In Python 3.1 / New, Improved, and Deprecated Modules - imaplib, importlib, pickle
 
 ```python
 >>> sys.version_info

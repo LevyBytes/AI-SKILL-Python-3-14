@@ -1,4 +1,4 @@
-# signal — Note on SIGPIPE
+# signal - Note on SIGPIPE
 
 ### Note on SIGPIPE
 

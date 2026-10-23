@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Faster Runtime / Inlined Python function calls — sys
+# What's New In Python 3.11 / Faster Runtime / Inlined Python function calls - sys
 
 > (Contributed by Mark Shannon in [bpo-44590](https://bugs.python.org/issue?@action=redirect&bpo=44590).)
 

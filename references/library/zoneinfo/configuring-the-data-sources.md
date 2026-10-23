@@ -1,4 +1,4 @@
-# zoneinfo — Configuring the data sources
+# zoneinfo - Configuring the data sources
 
 ### Configuring the data sources
 

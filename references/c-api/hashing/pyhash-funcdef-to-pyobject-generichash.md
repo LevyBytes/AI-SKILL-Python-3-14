@@ -42,7 +42,7 @@ Added in version 3.4.
 
 Produce a hash from a pointer: the pointer is treated as an integer (internally cast to `uintptr_t`). No dereferencing of the pointer takes place.
 
-There is no failure path here — a `-1` return is impossible.
+There is no failure path here: a `-1` return is impossible.
 
 Added in version 3.13.
 

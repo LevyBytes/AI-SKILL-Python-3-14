@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / itertools — itertools
+# What’s New In Python 3.8 / itertools - itertools
 
 > (Contributed by Victor Stinner in [bpo-18748](https://bugs.python.org/issue?@action=redirect&bpo=18748).)
 

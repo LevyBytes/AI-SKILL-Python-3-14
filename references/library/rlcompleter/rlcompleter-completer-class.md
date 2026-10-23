@@ -1,8 +1,8 @@
 # rlcompleter: `rlcompleter.Completer`
 
-## rlcompleter — Completion function for GNU readline
+## rlcompleter - Completion function for GNU readline
 
-### `rlcompleter` — Completion function for GNU readline
+### `rlcompleter` - Completion function for GNU readline
 
 **Source code:** [Lib/rlcompleter.py](https://github.com/python/cpython/tree/3.14/Lib/rlcompleter.py)
 

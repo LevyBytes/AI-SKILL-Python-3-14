@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / Porting to Python 2.5 — csv, locale, pickle, xmlrpc.server
+# What's New in Python 2.5 / Porting to Python 2.5 - csv, locale, pickle, xmlrpc.server
 
 ### Porting to Python 2.5
 
@@ -22,4 +22,4 @@ The items below recap earlier-mentioned changes that might force edits to your o
 
 - C API: Because of the obmalloc rework you have to avoid intermixing the `PyMem_*` and `PyObject_*` function families. Whatever you allocate with one family’s `*_Malloc` has to be released through that same family’s `*_Free` function.
 
-[Subject index](INDEX.md) · [Previous source section](port-specific-changes.md) · [Next source section](acknowledgements.md) · [Release/subject declaration](pep-308-conditional-expressions.md)
+[Subject index](INDEX.md) · [Previous source section](port-specific-changes.md) · [Release/subject declaration](pep-308-conditional-expressions.md)

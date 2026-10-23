@@ -1,4 +1,4 @@
-# doctest — Command-line Usage
+# doctest - Command-line Usage
 
 ### Command-line Usage
 

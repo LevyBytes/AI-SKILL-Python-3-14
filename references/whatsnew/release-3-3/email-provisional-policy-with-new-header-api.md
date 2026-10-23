@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / email / Provisional Policy with New Header API — email.header, email.policy
+# What's New In Python 3.3 / email / Provisional Policy with New Header API - email.header, email.policy
 
 #### Provisional Policy with New Header API
 

@@ -2,7 +2,7 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking collections.abc — `collections.abc` — Abstract Base Classes for Containers: [collections.abc — `collections.abc` — Abstract Base Classes for Containers](collections-abc-abstract-base-classes-for-containers.md).
+- Open when checking collections.abc`collections.abc` - Abstract Base Classes for Containers: [collections.abc`collections.abc` - Abstract Base Classes for Containers](collections-abc-abstract-base-classes-for-containers.md).
 - Open when checking the documented contracts for `collections.abc.Container` in collections.abc. [collections.abc: `collections.abc.Container`](collections-abc-container-class.md).
 - Open when checking the documented contracts for `collections.abc.Hashable` in collections.abc. [collections.abc: `collections.abc.Hashable`](collections-abc-hashable-class.md).
 - Open when checking the documented contracts for `collections.abc.Sized` in collections.abc. [collections.abc: `collections.abc.Sized`](collections-abc-sized-class.md).
@@ -22,7 +22,7 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `collections.abc.AsyncIterator` in collections.abc. [collections.abc: `collections.abc.AsyncIterator`](collections-abc-asynciterator-class.md).
 - Open when checking the documented contracts for `collections.abc.AsyncGenerator` in collections.abc. [collections.abc: `collections.abc.AsyncGenerator`](collections-abc-asyncgenerator-class.md).
 - Open when checking the documented contracts for `collections.abc.Buffer` in collections.abc. [collections.abc: `collections.abc.Buffer`](collections-abc-buffer-class.md).
-- Open when checking collections.abc — Collections Abstract Base Classes: [collections.abc — Collections Abstract Base Classes](collections-abstract-base-classes.md).
-- Open when checking collections.abc — Examples and Recipes: [collections.abc — Examples and Recipes](examples-and-recipes.md).
+- Open when checking collections.abc - Collections Abstract Base Classes: [collections.abc - Collections Abstract Base Classes](collections-abstract-base-classes.md).
+- Open when checking collections.abc - Examples and Recipes: [collections.abc - Examples and Recipes](examples-and-recipes.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

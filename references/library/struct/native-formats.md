@@ -1,4 +1,4 @@
-# struct — Native Formats
+# struct - Native Formats
 
 ### Native Formats
 

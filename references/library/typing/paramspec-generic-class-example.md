@@ -1,4 +1,4 @@
-# typing — User-defined generic types — Code example: from typing import ParamSpec, Generic
+# typing - User-defined generic types - Code example: from typing import ParamSpec, Generic
 
 ```python
 from typing import ParamSpec, Generic

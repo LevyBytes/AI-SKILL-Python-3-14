@@ -1,4 +1,4 @@
-# optparse — How `optparse` handles errors
+# optparse - How `optparse` handles errors
 
 ### How `optparse` handles errors
 

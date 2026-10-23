@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / faulthandler — faulthandler, signal
+# What's New In Python 3.3 / faulthandler - faulthandler, signal
 
 ### New Modules
 

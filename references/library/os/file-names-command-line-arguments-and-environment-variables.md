@@ -1,4 +1,4 @@
-# os — File Names, Command Line Arguments, and Environment Variables
+# os - File Names, Command Line Arguments, and Environment Variables
 
 ### File Names, Command Line Arguments, and Environment Variables
 

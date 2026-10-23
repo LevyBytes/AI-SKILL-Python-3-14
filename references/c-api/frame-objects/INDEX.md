@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Legacy local variable APIs: [Legacy local variable APIs](pyframe-localstofast-to-pyframe-fasttolocalswitherror.md).
 - Open when checking Frame locals proxies: [Frame locals proxies](pyframelocalsproxy-type-to-pyframelocalsproxy-check.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

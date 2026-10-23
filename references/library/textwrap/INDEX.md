@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `textwrap.TextWrapper` in textwrap. [textwrap: `textwrap.TextWrapper`](textwrap-textwrapper-class.md).
 - Open when checking the documented contracts for `wrap()`, `fill()` in textwrap.TextWrapper. [textwrap.TextWrapper: `wrap()`, `fill()`](textwrap-textwrapper-wrap-to-textwrap-textwrapper-fill.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

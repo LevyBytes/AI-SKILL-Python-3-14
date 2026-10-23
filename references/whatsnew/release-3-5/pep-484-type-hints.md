@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / PEP 484 - Type Hints — typing
+# What’s New In Python 3.5 / PEP 484 - Type Hints - typing
 
 ### PEP 484 - Type Hints
 

@@ -1,4 +1,4 @@
-# multiprocessing — Examples — Pool example imports and complete worker/helper functions
+# multiprocessing - Examples - Pool example imports and complete worker/helper functions
 
 Using `Pool`:
 

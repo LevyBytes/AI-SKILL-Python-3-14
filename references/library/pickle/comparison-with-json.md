@@ -1,4 +1,4 @@
-# pickle — Comparison with `json`
+# pickle - Comparison with `json`
 
 ### Comparison with `json`
 

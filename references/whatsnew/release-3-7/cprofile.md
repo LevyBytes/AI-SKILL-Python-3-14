@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / cProfile — profile
+# What's New In Python 3.7 / cProfile - profile
 
 ### cProfile
 

@@ -1,4 +1,4 @@
-# http.cookiejar — CookiePolicy Objects
+# http.cookiejar - CookiePolicy Objects
 
 ### CookiePolicy Objects
 

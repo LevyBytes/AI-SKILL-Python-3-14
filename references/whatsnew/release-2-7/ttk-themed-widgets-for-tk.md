@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / ttk: Themed Widgets for Tk — tkinter.ttk
+# What’s New in Python 2.7 / ttk: Themed Widgets for Tk - tkinter.ttk
 
 ### ttk: Themed Widgets for Tk
 

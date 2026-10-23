@@ -12,17 +12,17 @@ Covers: Software Packaging and Distribution; distutils — Building and installi
 
 The libraries here assist with distributing and installing Python software. Although these modules are built to operate together with the [Python Package Index](https://pypi.org), you can equally point them at a local index server or run them with no index server whatsoever.
 
-- [`ensurepip` — Bootstrapping the `pip` installer](https://docs.python.org/3.14/library/ensurepip.html)
+- [`ensurepip` - Bootstrapping the `pip` installer](https://docs.python.org/3.14/library/ensurepip.html)
   - [Command-line interface](https://docs.python.org/3.14/library/ensurepip.html#command-line-interface)
   - [Module API](https://docs.python.org/3.14/library/ensurepip.html#module-api)
 
-- [`venv` — Creation of virtual environments](https://docs.python.org/3.14/library/venv.html)
+- [`venv` - Creation of virtual environments](https://docs.python.org/3.14/library/venv.html)
   - [Creating virtual environments](https://docs.python.org/3.14/library/venv.html#creating-virtual-environments)
   - [How venvs work](https://docs.python.org/3.14/library/venv.html#how-venvs-work)
   - [API](https://docs.python.org/3.14/library/venv.html#api)
   - [An example of extending `EnvBuilder`](https://docs.python.org/3.14/library/venv.html#an-example-of-extending-envbuilder)
 
-- [`zipapp` — Manage executable Python zip archives](https://docs.python.org/3.14/library/zipapp.html)
+- [`zipapp` - Manage executable Python zip archives](https://docs.python.org/3.14/library/zipapp.html)
   - [Basic Example](https://docs.python.org/3.14/library/zipapp.html#basic-example)
   - [Command-Line Interface](https://docs.python.org/3.14/library/zipapp.html#command-line-interface)
   - [Python API](https://docs.python.org/3.14/library/zipapp.html#python-api)
@@ -33,9 +33,9 @@ The libraries here assist with distributing and installing Python software. Alth
 
   - [The Python Zip Application Archive Format](https://docs.python.org/3.14/library/zipapp.html#the-python-zip-application-archive-format)
 
-## distutils — Building and installing Python modules
+## distutils - Building and installing Python modules
 
-### `distutils` — Building and installing Python modules
+### `distutils` - Building and installing Python modules
 
 Deprecated since version 3.10, removed in version 3.12.
 

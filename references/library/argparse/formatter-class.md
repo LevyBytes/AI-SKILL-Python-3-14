@@ -1,4 +1,4 @@
-# argparse — formatter_class
+# argparse - formatter_class
 
 ### formatter_class
 

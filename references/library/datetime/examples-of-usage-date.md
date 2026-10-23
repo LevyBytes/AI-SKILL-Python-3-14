@@ -1,4 +1,4 @@
-# datetime — Examples of usage: `date`
+# datetime - Examples of usage: `date`
 
 Behaves identically to `date.strftime()`. This lets you supply a format string for a `date` object inside [formatted string literals](https://docs.python.org/3.14/reference/lexical_analysis.html#f-strings) and through [`str.format()`](https://docs.python.org/3.14/library/stdtypes.html#str.format). Consult strftime() and strptime() behavior and `date.isoformat()` for further detail.
 

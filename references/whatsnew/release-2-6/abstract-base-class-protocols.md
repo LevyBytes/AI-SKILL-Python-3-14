@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 3119: Abstract Base Classes — abc, collections
+# What’s New in Python 2.6 / PEP 3119: Abstract Base Classes - abc, collections
 
 ### PEP 3119: Abstract Base Classes
 

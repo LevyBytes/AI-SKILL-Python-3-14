@@ -1,6 +1,6 @@
-# test.support.threading_helper — `test.support.threading_helper` — Utilities for threading tests
+# test.support.threading_helper`test.support.threading_helper` - Utilities for threading tests
 
-### `test.support.threading_helper` — Utilities for threading tests
+### `test.support.threading_helper` - Utilities for threading tests
 
 The `test.support.threading_helper` module offers support for threading tests.
 

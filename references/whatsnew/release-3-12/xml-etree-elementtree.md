@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / xml.etree.ElementTree — copy, xml.etree.elementtree
+# What’s New In Python 3.12 / xml.etree.ElementTree - copy, xml.etree.elementtree
 
 ### xml.etree.ElementTree
 

@@ -1,4 +1,4 @@
-# unittest.mock — Setting return values and attributes
+# unittest.mock - Setting return values and attributes
 
 ### Setting return values and attributes
 

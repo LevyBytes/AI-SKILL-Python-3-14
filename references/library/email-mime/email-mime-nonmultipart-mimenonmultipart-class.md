@@ -1,4 +1,4 @@
-# email.mime — `email.mime`: Creating email and MIME objects from scratch
+# email.mime`email.mime`: Creating email and MIME objects from scratch
 
 *class *email.mime.nonmultipart.MIMENonMultipart
 

@@ -1,4 +1,4 @@
-# What’s New in Python 2.3 / The optparse Module — getopt, optparse
+# What’s New in Python 2.3 / The optparse Module - getopt, optparse
 
 ### The optparse Module
 

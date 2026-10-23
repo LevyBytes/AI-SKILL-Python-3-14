@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Convolution and polynomial recipes
+# itertools - Itertools Recipes - Convolution and polynomial recipes
 
 [Required complete example component](prime-sieve-factorization-and-totient-recipes.md) / [Required complete example component](running-statistics-recipes.md)
 

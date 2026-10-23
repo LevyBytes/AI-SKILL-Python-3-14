@@ -1,4 +1,4 @@
-# unittest.mock — Mock subclasses and their attributes
+# unittest.mock - Mock subclasses and their attributes
 
 ### Mock subclasses and their attributes
 

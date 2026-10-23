@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "references/library", "topics": [
-  {"topic": "Overview and scope / ctypes — `ctypes` — A foreign function library for Python", "file": "ctypes/ctypes-a-foreign-function-library-for-python.md", "summary": "Open when checking ctypes — `ctypes` — A foreign function library for Python.", "keywords": []},
+  {"topic": "Overview and scope / ctypes - `ctypes` - A foreign function library for Python", "file": "ctypes/ctypes-a-foreign-function-library-for-python.md", "summary": "Open when checking ctypes - `ctypes` - A foreign function library for Python.", "keywords": []},
   {"topic": "ctypes tutorial", "file": "ctypes/context-ctypes-tutorial.md", "summary": "Open when checking ctypes tutorial.", "keywords": []},
   {"topic": "ctypes reference", "file": "ctypes/context-ctypes-reference.md", "summary": "Open when checking ctypes reference.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

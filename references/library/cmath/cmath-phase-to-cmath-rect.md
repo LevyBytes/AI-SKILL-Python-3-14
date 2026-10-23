@@ -1,4 +1,4 @@
-# cmath — Conversions to and from polar coordinates
+# cmath - Conversions to and from polar coordinates
 
 ### Conversions to and from polar coordinates
 

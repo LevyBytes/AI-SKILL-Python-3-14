@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / cProfile — profile
+# What’s New In Python 3.8 / cProfile - profile
 
 > (Contributed by Raymond Hettinger in [bpo-35864](https://bugs.python.org/issue?@action=redirect&bpo=35864).)
 

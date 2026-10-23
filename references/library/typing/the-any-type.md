@@ -1,4 +1,4 @@
-# typing — The `Any` type
+# typing - The `Any` type
 
 ### The `Any` type
 

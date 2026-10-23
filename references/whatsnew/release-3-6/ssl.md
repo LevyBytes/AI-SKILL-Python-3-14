@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / ssl — enum, ssl
+# What's New In Python 3.6 / ssl - enum, ssl
 
 ### ssl
 

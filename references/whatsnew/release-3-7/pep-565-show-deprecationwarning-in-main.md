@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 565: Show DeprecationWarning in `__main__` — __main__
+# What's New In Python 3.7 / PEP 565: Show DeprecationWarning in `__main__` - __main__
 
 ### PEP 565: Show DeprecationWarning in `__main__`
 
@@ -16,7 +16,7 @@ Up to now [`DeprecationWarning`](https://docs.python.org/3.14/library/exceptions
 
 See also
 
-[**PEP 565**](https://peps.python.org/pep-0565/) — Show DeprecationWarning in `__main__`
+[**PEP 565**](https://peps.python.org/pep-0565/): Show DeprecationWarning in `__main__`
 
 PEP written and implemented by Nick Coghlan
 

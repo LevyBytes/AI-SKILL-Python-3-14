@@ -1,4 +1,4 @@
-# dataclasses — Descriptor-typed fields
+# dataclasses - Descriptor-typed fields
 
 ### Descriptor-typed fields
 

@@ -1,4 +1,4 @@
-# unittest.mock — Coping with mutable arguments — Code example: >>> from copy import deepcopy
+# unittest.mock - Coping with mutable arguments - Code example: >>> from copy import deepcopy
 
 ```python
 >>> from copy import deepcopy

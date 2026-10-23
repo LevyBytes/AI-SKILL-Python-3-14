@@ -1,4 +1,4 @@
-# ctypes — Structures and unions
+# ctypes - Structures and unions
 
 ### Structures and unions
 

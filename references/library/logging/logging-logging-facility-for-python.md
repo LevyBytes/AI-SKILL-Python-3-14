@@ -1,6 +1,6 @@
-# logging — `logging` — Logging facility for Python
+# logging`logging` - Logging facility for Python
 
-### `logging` — Logging facility for Python
+### `logging` - Logging facility for Python
 
 **Source code:** [Lib/logging/__init__.py](https://github.com/python/cpython/tree/3.14/Lib/logging/__init__.py)
 

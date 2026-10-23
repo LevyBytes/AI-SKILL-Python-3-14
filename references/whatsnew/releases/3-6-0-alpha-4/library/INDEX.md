@@ -31,4 +31,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 alpha 4 / library / threads and concurrency: [Python 3.6.0 alpha 4 / library / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.6.0 alpha 4 / library / traceback: [Python 3.6.0 alpha 4 / library / traceback](traceback.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

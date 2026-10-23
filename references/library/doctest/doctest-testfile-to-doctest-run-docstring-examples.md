@@ -1,4 +1,4 @@
-# doctest — Basic API
+# doctest - Basic API
 
 ### Basic API
 

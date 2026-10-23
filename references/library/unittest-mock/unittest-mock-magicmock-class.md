@@ -1,4 +1,4 @@
-# unittest.mock — Magic Mock
+# unittest.mock - Magic Mock
 
 ### Magic Mock
 

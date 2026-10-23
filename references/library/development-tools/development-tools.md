@@ -1,6 +1,6 @@
 # development.tools: `patch.object`, `patch.dict`, `patch.multiple`
 
-- [`unittest` — Unit testing framework](https://docs.python.org/3.14/library/unittest.html)
+- [`unittest` - Unit testing framework](https://docs.python.org/3.14/library/unittest.html)
   - [Basic example](https://docs.python.org/3.14/library/unittest.html#basic-example)
   - [Command-Line Interface](https://docs.python.org/3.14/library/unittest.html#command-line-interface)
     - [Command-line options](https://docs.python.org/3.14/library/unittest.html#command-line-options)
@@ -22,7 +22,7 @@
 
   - [Signal Handling](https://docs.python.org/3.14/library/unittest.html#signal-handling)
 
-- [`unittest.mock` — mock object library](https://docs.python.org/3.14/library/unittest.mock.html)
+- [`unittest.mock` - mock object library](https://docs.python.org/3.14/library/unittest.mock.html)
   - [Quick Guide](https://docs.python.org/3.14/library/unittest.mock.html#quick-guide)
   - [The Mock Class](https://docs.python.org/3.14/library/unittest.mock.html#the-mock-class)
     - [Calling](https://docs.python.org/3.14/library/unittest.mock.html#calling)

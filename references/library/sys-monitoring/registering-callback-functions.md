@@ -1,4 +1,4 @@
-# sys.monitoring — Registering callback functions
+# sys.monitoring - Registering callback functions
 
 ### Registering callback functions
 

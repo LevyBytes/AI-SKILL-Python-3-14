@@ -1,4 +1,4 @@
-# argparse — FileType objects
+# argparse - FileType objects
 
 ### FileType objects
 

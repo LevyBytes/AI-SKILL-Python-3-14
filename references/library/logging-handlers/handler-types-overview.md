@@ -1,6 +1,6 @@
-# logging.handlers — `logging.handlers` — Logging handlers
+# logging.handlers`logging.handlers` - Logging handlers
 
-### `logging.handlers` — Logging handlers
+### `logging.handlers` - Logging handlers
 
 **Source code:** [Lib/logging/handlers.py](https://github.com/python/cpython/tree/3.14/Lib/logging/handlers.py)
 

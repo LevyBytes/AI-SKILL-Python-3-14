@@ -1,4 +1,4 @@
-# unittest.mock — Quick Guide — Code example: >>> foo = {'key': 'value'}
+# unittest.mock - Quick Guide - Code example: >>> foo = {'key': 'value'}
 
 ```python
 >>> foo = {'key': 'value'}

@@ -1,4 +1,4 @@
-# What’s New In Python 3.12 / asynchat and asyncore — asyncio
+# What’s New In Python 3.12 / asynchat and asyncore - asyncio
 
 ### Removed
 

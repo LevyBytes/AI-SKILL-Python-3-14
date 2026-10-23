@@ -1,4 +1,4 @@
-# codecs — Codec Base Classes
+# codecs - Codec Base Classes
 
 ### Codec Base Classes
 

@@ -22,4 +22,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.12.0 alpha 1 / build / socket: [Python 3.12.0 alpha 1 / build / socket](socket.md).
 - Open when checking Python 3.12.0 alpha 1 / build / wasm32 wasi builds no longer lean wasix s pthread stubs: [Python 3.12.0 alpha 1 / build / wasm32 wasi builds no longer lean wasix s pthread stubs](wasm32-wasi-builds-no-longer-lean-wasix-s-pthread-stubs.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

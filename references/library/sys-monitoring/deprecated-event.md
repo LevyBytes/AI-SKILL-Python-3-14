@@ -1,4 +1,4 @@
-# sys.monitoring — Deprecated event
+# sys.monitoring - Deprecated event
 
 ### Deprecated event
 

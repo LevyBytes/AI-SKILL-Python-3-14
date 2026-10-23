@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / zlib — zlib
+# What's new in Python 3.14 / zlib - zlib
 
 ### zlib
 

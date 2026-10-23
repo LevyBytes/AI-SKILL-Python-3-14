@@ -2,7 +2,7 @@
 
 # Array
 
-### `array` — Efficient arrays of numeric values
+### `array` - Efficient arrays of numeric values
 
 ---
 

@@ -1,6 +1,6 @@
 # poplib: `poplib.POP3`
 
-### `poplib` — POP3 protocol client
+### `poplib` - POP3 protocol client
 
 **Source code:** [Lib/poplib.py](https://github.com/python/cpython/tree/3.14/Lib/poplib.py)
 

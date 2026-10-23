@@ -1,4 +1,4 @@
-# What's New In Python 3.9 / tarfile — shutil, tarfile
+# What's New In Python 3.9 / tarfile - shutil, tarfile
 
 ### Notable changes in 3.9.17
 

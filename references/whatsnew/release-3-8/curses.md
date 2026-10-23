@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / curses — curses
+# What’s New In Python 3.8 / curses - curses
 
 > (Contributed by Michael Selik in [bpo-34003](https://bugs.python.org/issue?@action=redirect&bpo=34003).)
 

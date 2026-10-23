@@ -10,4 +10,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 6 / c api / object: [Python 3.10.0 alpha 6 / c api / object](object.md).
 - Open when checking Python 3.10.0 alpha 6 / c api / structures: [Python 3.10.0 alpha 6 / c api / structures](structures.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

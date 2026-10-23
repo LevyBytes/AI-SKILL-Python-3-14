@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / sysconfig — sysconfig
+# What's New In Python 3.2 / sysconfig - sysconfig
 
 ### sysconfig
 

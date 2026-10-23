@@ -1,4 +1,4 @@
-# tkinter — Important Tk Concepts
+# tkinter - Important Tk Concepts
 
 ### Important Tk Concepts
 

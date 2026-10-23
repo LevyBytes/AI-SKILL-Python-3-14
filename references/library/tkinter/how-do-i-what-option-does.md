@@ -1,4 +1,4 @@
-# tkinter — How do I…? What option does…?
+# tkinter - How do I…? What option does…?
 
 ### How do I…? What option does…?
 

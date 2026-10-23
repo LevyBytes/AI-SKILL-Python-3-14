@@ -1,4 +1,4 @@
-# What’s New in Python 2.1 / PEP 217: Interactive Display Hook — sys
+# What’s New in Python 2.1 / PEP 217: Interactive Display Hook - sys
 
 ### PEP 217: Interactive Display Hook
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / xml.sax — xml.sax, xml.sax.reader
+# What’s New In Python 3.5 / xml.sax - xml.sax, xml.sax.reader
 
 ### xml.sax
 

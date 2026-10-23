@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "bisect — `bisect` — Array bisection algorithm", "file": "bisect/bisect-bisect-left-to-bisect-insort.md", "summary": "Open when checking bisect — `bisect` — Array bisection algorithm.", "keywords": []},
-    {"topic": "bisect — Examples", "file": "bisect/examples.md", "summary": "Open when checking bisect — Examples.", "keywords": []},
-    {"topic": "bisect — Performance Notes", "file": "bisect/performance-notes.md", "summary": "Open when checking bisect — Performance Notes.", "keywords": []},
-    {"topic": "bisect — Searching Sorted Lists", "file": "bisect/searching-sorted-lists.md", "summary": "Open when checking bisect — Searching Sorted Lists.", "keywords": []},
+    {"topic": "bisect - `bisect` - Array bisection algorithm", "file": "bisect/bisect-bisect-left-to-bisect-insort.md", "summary": "Open when checking bisect - `bisect` - Array bisection algorithm.", "keywords": []},
+    {"topic": "bisect - Examples", "file": "bisect/examples.md", "summary": "Open when checking bisect - Examples.", "keywords": []},
+    {"topic": "bisect - Performance Notes", "file": "bisect/performance-notes.md", "summary": "Open when checking bisect - Performance Notes.", "keywords": []},
+    {"topic": "bisect - Searching Sorted Lists", "file": "bisect/searching-sorted-lists.md", "summary": "Open when checking bisect - Searching Sorted Lists.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

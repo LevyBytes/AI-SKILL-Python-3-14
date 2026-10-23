@@ -1,4 +1,4 @@
-# __main__ — Idiomatic Usage
+# __main__ - Idiomatic Usage
 
 ### Idiomatic Usage
 

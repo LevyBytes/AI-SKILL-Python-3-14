@@ -1,8 +1,8 @@
-# wave — `wave` — Read and write WAV files
+# wave`wave` - Read and write WAV files
 
 # Wave
 
-### `wave` — Read and write WAV files
+### `wave` - Read and write WAV files
 
 **Source code:** [Lib/wave.py](https://github.com/python/cpython/tree/3.14/Lib/wave.py)
 

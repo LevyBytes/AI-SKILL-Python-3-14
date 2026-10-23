@@ -18,6 +18,6 @@ You can initialize the array through several different routes by way of the opti
 
 Supply no argument and you get an array of length 0.
 
-Consult [Binary Sequence Types — bytes, bytearray, memoryview](https://docs.python.org/3.14/library/stdtypes.html#binaryseq) and [Bytearray Objects](https://docs.python.org/3.14/library/stdtypes.html#typebytearray) as well.
+Consult [Binary Sequence Types - bytes, bytearray, memoryview](https://docs.python.org/3.14/library/stdtypes.html#binaryseq) and [Bytearray Objects](https://docs.python.org/3.14/library/stdtypes.html#typebytearray) as well.
 
 [Subject index](INDEX.md) · [Previous](breakpoint.md) · [Continue](bytes-class-to-bytes-class.md) · [Owning module, declaration or section: Built-in Functions](INDEX.md)

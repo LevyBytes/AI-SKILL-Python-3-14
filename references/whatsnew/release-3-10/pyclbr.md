@@ -1,4 +1,4 @@
-# What's New In Python 3.10 / pyclbr — pyclbr
+# What's New In Python 3.10 / pyclbr - pyclbr
 
 ### pyclbr
 

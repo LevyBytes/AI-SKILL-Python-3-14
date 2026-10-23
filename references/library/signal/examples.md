@@ -1,4 +1,4 @@
-# signal — Examples
+# signal - Examples
 
 ### Examples
 

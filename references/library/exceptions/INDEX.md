@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Inheriting from built-in exceptions: [Inheriting from built-in exceptions](inheriting-from-built-in-exceptions.md).
 - Open when checking Warnings: [Warnings](warning-to-resourcewarning.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

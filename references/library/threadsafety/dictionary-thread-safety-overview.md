@@ -1,4 +1,4 @@
-# Thread safety for dict objects — Section introduction and initial examples
+# Thread safety for dict objects - Section introduction and initial examples
 
 ### Thread safety for dict objects
 

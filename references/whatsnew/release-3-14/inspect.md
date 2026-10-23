@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / inspect — annotationlib, inspect
+# What's new in Python 3.14 / inspect - annotationlib, inspect
 
 ### inspect
 

@@ -2,7 +2,7 @@
 
 # Tty
 
-### `tty` — Terminal control functions
+### `tty` - Terminal control functions
 
 **Source code:** [Lib/tty.py](https://github.com/python/cpython/tree/3.14/Lib/tty.py)
 

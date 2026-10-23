@@ -1,4 +1,4 @@
-# tarfile — Filter errors
+# tarfile - Filter errors
 
 ### Filter errors
 

@@ -1,4 +1,4 @@
-# codecs — Python Specific Encodings
+# codecs - Python Specific Encodings
 
 ### Python Specific Encodings
 

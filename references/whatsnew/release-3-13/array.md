@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / array — array, collections.abc
+# What's New In Python 3.13 / array - array, collections.abc
 
 ### array
 

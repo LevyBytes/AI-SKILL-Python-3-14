@@ -1,4 +1,4 @@
-# Audit events table — resource
+# Audit events table - resource
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

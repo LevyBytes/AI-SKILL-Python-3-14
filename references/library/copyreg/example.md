@@ -1,4 +1,4 @@
-# copyreg — Example
+# copyreg - Example
 
 ### Example
 

@@ -1,4 +1,4 @@
-# zipapp — Specifying the Interpreter
+# zipapp - Specifying the Interpreter
 
 ### Specifying the Interpreter
 

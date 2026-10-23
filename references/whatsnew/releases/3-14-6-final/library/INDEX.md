@@ -31,4 +31,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.6 final / library / xmlrpc client: [Python 3.14.6 final / library / xmlrpc client](xmlrpc-client.md).
 - Open when checking Python 3.14.6 final / library / zipfile: [Python 3.14.6 final / library / zipfile](zipfile.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# lzma — Specifying custom filter chains
+# lzma - Specifying custom filter chains
 
 ### Specifying custom filter chains
 

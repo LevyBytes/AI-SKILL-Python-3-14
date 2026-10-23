@@ -13,4 +13,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 alpha 4 / core and builtins / traceback: [Python 3.6.0 alpha 4 / core and builtins / traceback](traceback.md).
 - Open when checking Python 3.6.0 alpha 4 / core and builtins / treat excess statically nested blocks syntaxerror rather than systemerror: [Python 3.6.0 alpha 4 / core and builtins / treat excess statically nested blocks syntaxerror rather than systemerror](excess-static-block-nesting-syntax-error.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -14,4 +14,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.8.0 alpha 4 / build / skip building crypt extension under vxworks: [Python 3.8.0 alpha 4 / build / skip building crypt extension under vxworks](skip-building-crypt-extension-under-vxworks.md).
 - Open when checking Python 3.8.0 alpha 4 / build / sys: [Python 3.8.0 alpha 4 / build / sys](sys.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# trace — Command-Line Usage
+# trace - Command-Line Usage
 
 ### Command-Line Usage
 

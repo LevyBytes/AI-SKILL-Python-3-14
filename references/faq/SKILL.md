@@ -1,9 +1,9 @@
 ---
 name: faq
-description: "Use when answering Python FAQ questions about design, history, programming behavior, library tasks, extension or embedding interfaces, Windows execution, GUI toolkits, or why Python is installed. This is the bundled Python 3.14 FAQ reference."
+description: "Use when answering Python FAQ questions about design, history, programming behavior, library tasks, extension or embedding interfaces, Windows execution, GUI toolkits, or why Python is installed."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

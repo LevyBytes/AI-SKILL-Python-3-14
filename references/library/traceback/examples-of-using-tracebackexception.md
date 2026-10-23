@@ -1,4 +1,4 @@
-# traceback — Examples of Using `TracebackException`
+# traceback - Examples of Using `TracebackException`
 
 ### Examples of Using `TracebackException`
 

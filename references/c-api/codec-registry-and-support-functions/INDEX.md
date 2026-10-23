@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Codec registry and support functions: [Codec registry and support functions](pycodec-register-to-pycodec-decode.md).
 - Open when checking Registry API for Unicode encoding error handlers: [Registry API for Unicode encoding error handlers](pycodec-registererror-to-pycodec-namereplaceerrors.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

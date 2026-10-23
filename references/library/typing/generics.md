@@ -1,4 +1,4 @@
-# typing — Generics
+# typing - Generics
 
 ### Generics
 

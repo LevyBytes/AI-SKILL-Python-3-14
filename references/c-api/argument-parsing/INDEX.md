@@ -15,4 +15,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking string and binary-buffer argument parsing formats in argument parsing C API. [argument parsing C API: String and binary-buffer argument parsing formats](string-buffer-memory-ownership.md).
 - Open when checking encoded strings and buffer conversion formats in argument parsing C API. [argument parsing C API: Encoded strings and buffer conversion formats](strings-and-buffers-w-read-write-bytes-like-object-py-buffer.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

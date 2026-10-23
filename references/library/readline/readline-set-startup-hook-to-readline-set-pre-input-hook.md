@@ -1,4 +1,4 @@
-# readline — Startup hooks
+# readline - Startup hooks
 
 ### Startup hooks
 

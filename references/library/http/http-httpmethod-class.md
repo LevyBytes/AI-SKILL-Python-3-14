@@ -1,4 +1,4 @@
-# http — HTTP status category
+# http - HTTP status category
 
 ### HTTP status category
 

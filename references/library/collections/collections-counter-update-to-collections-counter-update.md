@@ -1,4 +1,4 @@
-# collections — `Counter` objects — Signature and initial contract
+# collections`Counter` objects - Signature and initial contract
 
 update(***kwargs*)
 

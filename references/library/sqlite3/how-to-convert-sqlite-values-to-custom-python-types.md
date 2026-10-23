@@ -1,4 +1,4 @@
-# sqlite3 — How to convert SQLite values to custom Python types
+# sqlite3 - How to convert SQLite values to custom Python types
 
 ### How to convert SQLite values to custom Python types
 

@@ -1,4 +1,4 @@
-# sys.monitoring — Turning events on and off
+# sys.monitoring - Turning events on and off
 
 ### Turning events on and off
 

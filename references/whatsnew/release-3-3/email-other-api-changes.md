@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / email / Other API Changes — datetime, email.parser, email.utils
+# What's New In Python 3.3 / email / Other API Changes - datetime, email.parser, email.utils
 
 #### Other API Changes
 

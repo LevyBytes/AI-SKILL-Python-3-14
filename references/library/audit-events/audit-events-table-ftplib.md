@@ -1,4 +1,4 @@
-# Audit events table — ftplib
+# Audit events table - ftplib
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

@@ -15,10 +15,10 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `types.FrameType`, `types.GetSetDescriptorType`, `types.MemberDescriptorType` in types. [types: `types.FrameType`, `types.GetSetDescriptorType`, `types.MemberDescriptorType`](types-frametype-to-types-memberdescriptortype.md).
 - Open when checking the documented contracts for `types.MappingProxyType`, `iter()`, `len()`, `copy()`, `get()`, `items()`, `keys()`, `values()`, `reversed()`, `hash()` in types. [types: `types.MappingProxyType`, `iter()`, `len()`, `copy()`, `get()`, `items()`, `keys()`, `values()`, `reversed()`, `hash()`](types-mappingproxytype-class-to-types-mappingproxytype-hash.md).
 - Open when checking the documented contracts for `types.CapsuleType` in types. [types: `types.CapsuleType`](types-capsuletype-class.md).
-- Open when checking types — Coroutine Utility Functions: [types — Coroutine Utility Functions](types-coroutine.md).
-- Open when checking types — `types` — Dynamic type creation and names for built-in types: [types — `types` — Dynamic type creation and names for built-in types](types-dynamic-type-creation-and-names-for-built-in-types.md).
+- Open when checking types - Coroutine Utility Functions: [types - Coroutine Utility Functions](types-coroutine.md).
+- Open when checking types`types` - Dynamic type creation and names for built-in types: [types`types` - Dynamic type creation and names for built-in types](types-dynamic-type-creation-and-names-for-built-in-types.md).
 - Open when checking the documented contracts for `types.new_class()`, `types.prepare_class()`, `types.resolve_bases()` in types. [types: `types.new_class()`, `types.prepare_class()`, `types.resolve_bases()`](types-new-class-to-types-resolve-bases.md).
 - Open when checking the documented contracts for `types.get_original_bases()` in types. [types: `types.get_original_bases()`](types-get-original-bases.md).
-- Open when checking types — Additional Utility Classes and Functions: [types — Additional Utility Classes and Functions](types-simplenamespace-class-to-types-dynamicclassattribute.md).
+- Open when checking types - Additional Utility Classes and Functions: [types - Additional Utility Classes and Functions](types-simplenamespace-class-to-types-dynamicclassattribute.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

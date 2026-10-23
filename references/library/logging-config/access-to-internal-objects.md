@@ -1,4 +1,4 @@
-# logging.config — Access to internal objects
+# logging.config - Access to internal objects
 
 ### Access to internal objects
 

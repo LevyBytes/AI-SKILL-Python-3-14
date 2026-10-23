@@ -21,4 +21,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.7.0 alpha 1 / build / setup py able detect system libffi carries multiarch wrapper: [Python 3.7.0 alpha 1 / build / setup py able detect system libffi carries multiarch wrapper](setup-py-able-detect-system-libffi-carries-multiarch-wrapper.md).
 - Open when checking Python 3.7.0 alpha 1 / build / threads and concurrency: [Python 3.7.0 alpha 1 / build / threads and concurrency](threads-and-concurrency.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

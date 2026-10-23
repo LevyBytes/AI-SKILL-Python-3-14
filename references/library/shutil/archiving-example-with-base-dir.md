@@ -1,4 +1,4 @@
-# shutil — Archiving example with *base_dir*
+# shutil - Archiving example with *base_dir*
 
 ### Archiving example with *base_dir*
 

@@ -1,4 +1,4 @@
-# urllib.request — HTTPErrorProcessor Objects
+# urllib.request - HTTPErrorProcessor Objects
 
 ### HTTPErrorProcessor Objects
 

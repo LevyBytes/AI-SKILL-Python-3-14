@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / pdb — bdb, pdb, sys
+# What's new in Python 3.14 / pdb - bdb, pdb, sys
 
 ### pdb
 

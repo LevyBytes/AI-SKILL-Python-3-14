@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / queue — queue
+# What's New In Python 3.7 / queue - queue
 
 ### queue
 

@@ -30,4 +30,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking 4.3. The `range()` Function: [4.3. The `range()` Function](the-range-function.md).
 - Open when checking 4.9.5. Unpacking Argument Lists: [4.9.5. Unpacking Argument Lists](unpacking-argument-lists.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

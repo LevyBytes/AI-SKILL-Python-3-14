@@ -1,4 +1,4 @@
-# socket — Example — Section introduction and initial examples
+# socket - Example - Section introduction and initial examples
 
 ### Example
 

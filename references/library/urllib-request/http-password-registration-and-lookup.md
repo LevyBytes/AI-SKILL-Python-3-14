@@ -1,4 +1,4 @@
-# urllib.request — HTTPPasswordMgr Objects
+# urllib.request - HTTPPasswordMgr Objects
 
 ### HTTPPasswordMgr Objects
 

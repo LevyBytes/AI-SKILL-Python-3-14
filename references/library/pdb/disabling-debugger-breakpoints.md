@@ -1,4 +1,4 @@
-# pdb — Debugger commands — Contract: Disable the breakpoints supplied as a space-separated list of breakpoint numbers.
+# pdb - Debugger commands - Contract: Disable the breakpoints supplied as a space-separated list of breakpoint numbers.
 
 Disable the breakpoints supplied as a space-separated list of breakpoint numbers. A disabled breakpoint can no longer halt the program, yet unlike a cleared one it stays in the breakpoint list and can be re-enabled later.
 

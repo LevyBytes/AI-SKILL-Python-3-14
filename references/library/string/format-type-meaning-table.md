@@ -1,4 +1,4 @@
-# string — Format specification mini-language — Complete Type , Meaning table
+# string - Format specification mini-language - Complete Type , Meaning table
 
 | Type | Meaning |
 | --- | --- |

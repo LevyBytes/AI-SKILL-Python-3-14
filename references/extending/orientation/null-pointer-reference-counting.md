@@ -1,4 +1,4 @@
-# NULL Pointers — Py_INCREF, Py_DECREF, Py_XINCREF, Py_XDECREF, Pytype_Check
+# NULL Pointers - Py_INCREF, Py_DECREF, Py_XINCREF, Py_XDECREF, Pytype_Check
 
 ### 1.10.4. NULL Pointers
 

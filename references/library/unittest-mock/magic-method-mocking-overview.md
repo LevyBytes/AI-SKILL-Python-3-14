@@ -1,4 +1,4 @@
-# unittest.mock — Mocking Magic Methods — Section introduction and initial examples
+# unittest.mock - Mocking Magic Methods - Section introduction and initial examples
 
 ### MagicMock and magic method support
 

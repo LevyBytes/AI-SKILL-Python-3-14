@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.10.0 alpha 6 / core and builtins / functions and types: [Python 3.10.0 alpha 6 / core and builtins / functions and types](functions-and-types.md).
 - Open when checking Python 3.10.0 alpha 6 / core and builtins / text and unicode: [Python 3.10.0 alpha 6 / core and builtins / text and unicode](text-and-unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

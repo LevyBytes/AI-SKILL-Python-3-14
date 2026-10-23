@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking I can't get key bindings to work in Tkinter: why?: [I can't get key bindings to work in Tkinter: why?](i-can-t-get-key-bindings-to-work-in-tkinter-why.md).
 - Open when checking What GUI toolkits exist for Python?: [What GUI toolkits exist for Python?](what-gui-toolkits-exist-for-python.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

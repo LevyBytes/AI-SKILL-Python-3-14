@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.3 release candidate 1 / build / setup py picks up system libffi via multiarch wrapper: [Python 3.5.3 release candidate 1 / build / setup py picks up system libffi via multiarch wrapper](setup-py-picks-up-system-libffi-via-multiarch-wrapper.md).
 - Open when checking Python 3.5.3 release candidate 1 / build / text and unicode: [Python 3.5.3 release candidate 1 / build / text and unicode](text-and-unicode.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

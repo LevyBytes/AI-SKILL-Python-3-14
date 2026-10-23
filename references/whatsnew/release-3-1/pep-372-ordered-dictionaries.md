@@ -1,4 +1,4 @@
-# What’s New In Python 3.1 / PEP 372: Ordered Dictionaries — collections, configparser, json
+# What’s New In Python 3.1 / PEP 372: Ordered Dictionaries - collections, configparser, json
 
 ### What’s New In Python 3.1
 

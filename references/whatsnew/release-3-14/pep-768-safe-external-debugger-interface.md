@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / **PEP 768**: Safe external debugger interface — sys
+# What's new in Python 3.14 / **PEP 768**: Safe external debugger interface - sys
 
 ### [**PEP 768**](https://peps.python.org/pep-0768/): Safe external debugger interface
 

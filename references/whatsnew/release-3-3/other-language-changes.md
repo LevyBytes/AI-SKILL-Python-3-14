@@ -1,4 +1,4 @@
-# What's New In Python 3.3 / Other Language Changes — collections.abc, unicodedata
+# What's New In Python 3.3 / Other Language Changes - collections.abc, unicodedata
 
 ### Other Language Changes
 

@@ -1,9 +1,9 @@
 ---
 name: library
-description: "Use for the Python 3.14 standard library: built-in functions, types and exceptions; typing and collections; text, binary data and mathematics; files, databases and archives; operating systems, concurrency and asyncio; networking, email, web protocols and markup; GUI tools, testing, debugging, importing and interpreter services. Match the documented Python version and platform; use the language reference for core syntax."
+description: "Use for the Python 3.14 standard library: built-in functions, types and exceptions; typing and collections; text, binary data and mathematics; files, databases and archives; operating systems, concurrency and asyncio; networking, email, web protocols and markup; GUI tools, testing, debugging, importing and interpreter services."
 license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

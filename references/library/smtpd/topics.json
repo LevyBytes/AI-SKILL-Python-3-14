@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "smtpd — `smtpd` — SMTP Server", "file": "smtpd/smtpd-smtp-server.md", "summary": "Open when checking smtpd — `smtpd` — SMTP Server.", "keywords": []},
+    {"topic": "smtpd - `smtpd` - SMTP Server", "file": "smtpd/smtpd-smtp-server.md", "summary": "Open when checking smtpd - `smtpd` - SMTP Server.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

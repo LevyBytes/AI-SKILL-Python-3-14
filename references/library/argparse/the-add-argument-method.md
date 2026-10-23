@@ -1,4 +1,4 @@
-# argparse — The add_argument() method
+# argparse - The add_argument() method
 
 ### The add_argument() method
 

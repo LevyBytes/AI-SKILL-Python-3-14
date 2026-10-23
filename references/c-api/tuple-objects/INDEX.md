@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking tuple construction, size, item access and assignment in tuple objects C API. [tuple objects C API: Tuple construction, size, item access and assignment](pytupleobject-to-pytuple-setitem.md).
 - Open when checking the documented contracts for `PyTuple_SET_ITEM()`, `_PyTuple_Resize()` in tuple objects C API. [tuple objects C API: `PyTuple_SET_ITEM()`, `_PyTuple_Resize()`](pytuple-set-item-to-pytuple-resize.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

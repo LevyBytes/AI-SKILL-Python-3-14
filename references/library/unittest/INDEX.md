@@ -2,20 +2,20 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking unittest — Basic example: [unittest — Basic example](basic-example.md).
+- Open when checking unittest - Basic example: [unittest - Basic example](basic-example.md).
 - Open when checking Class and Module Fixtures: [Class and Module Fixtures](class-and-module-fixtures.md).
-- Open when checking unittest — Classes and functions: [unittest — Classes and functions](classes-and-functions.md).
-- Open when checking unittest — Command-Line Interface: [unittest — Command-Line Interface](command-line-interface.md).
-- Open when checking unittest — Command-line options: [unittest — Command-line options](command-line-options.md).
-- Open when checking unittest — Distinguishing test iterations using subtests: [unittest — Distinguishing test iterations using subtests](distinguishing-test-iterations-using-subtests.md).
+- Open when checking unittest - Classes and functions: [unittest - Classes and functions](classes-and-functions.md).
+- Open when checking unittest - Command-Line Interface: [unittest - Command-Line Interface](command-line-interface.md).
+- Open when checking unittest - Command-line options: [unittest - Command-line options](command-line-options.md).
+- Open when checking unittest - Distinguishing test iterations using subtests: [unittest - Distinguishing test iterations using subtests](distinguishing-test-iterations-using-subtests.md).
 - Open when checking load_tests Protocol: [load_tests Protocol](load-tests-protocol.md).
-- Open when checking unittest — Organizing test code — Contract: You can run the test module on its own from the command line.: [unittest — Organizing test code — Contract: You can run the test module on its own from the command line.](standalone-test-module-execution.md).
-- Open when checking unittest — Organizing test code — Section introduction and initial examples: [unittest — Organizing test code — Section introduction and initial examples](test-code-organization-overview.md).
-- Open when checking unittest — Re-using old test code: [unittest — Re-using old test code](re-using-old-test-code.md).
+- Open when checking unittest - Organizing test code - Contract: You can run the test module on its own from the command line.: [unittest - Organizing test code - Contract: You can run the test module on its own from the command line.](standalone-test-module-execution.md).
+- Open when checking unittest - Organizing test code - Section introduction and initial examples: [unittest - Organizing test code - Section introduction and initial examples](test-code-organization-overview.md).
+- Open when checking unittest - Re-using old test code: [unittest - Re-using old test code](re-using-old-test-code.md).
 - Open when checking setUpClass and tearDownClass: [setUpClass and tearDownClass](setupclass-and-teardownclass.md).
 - Open when checking skipping tests and declaring expected failures in unittest. [unittest: Skipping tests and declaring expected failures](skipping-tests-and-expected-failures.md).
 - Open when checking the documented contracts for `unittest.skip()`, `unittest.skipIf()`, `unittest.skipUnless()`, `unittest.expectedFailure`, `unittest.SkipTest` in unittest. [unittest: `unittest.skip()`, `unittest.skipIf()`, `unittest.skipUnless()`, `unittest.expectedFailure`, `unittest.SkipTest`](unittest-skiptest.md).
-- Open when checking unittest — Test Discovery: [unittest — Test Discovery](test-discovery.md).
+- Open when checking unittest - Test Discovery: [unittest - Test Discovery](test-discovery.md).
 - Open when checking setUpModule and tearDownModule: [setUpModule and tearDownModule](unittest-addmodulecleanup-to-unittest-domodulecleanups.md).
 - Open when checking the documented contracts for `unittest.TestCase` in unittest. [unittest: `unittest.TestCase`](unittest-testcase-class.md).
 - Open when checking the documented contracts for `countTestCases()`, `defaultTestResult()`, `id()`, `shortDescription()`, `addCleanup()`, `enterContext()`, `doCleanups()`, `addClassCleanup()`, `enterClassContext()`, `doClassCleanups()` in unittest. [unittest: `countTestCases()`, `defaultTestResult()`, `id()`, `shortDescription()`, `addCleanup()`, `enterContext()`, `doCleanups()`, `addClassCleanup()`, `enterClassContext()`, `doClassCleanups()`](test-case-counting-and-cleanup.md).
@@ -39,6 +39,6 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `unittest.TextTestRunner`, `_makeResult()`, `run()`, `unittest.main()` in unittest. [unittest: `unittest.TextTestRunner`, `_makeResult()`, `run()`, `unittest.main()`](unittest-texttestrunner-class-to-unittest-main.md).
 - Open when checking the documented contracts for `unittest.TestSuite` in unittest. [unittest: `unittest.TestSuite`](unittest-testsuite-class.md).
 - Open when checking the documented contracts for `addTest()`, `addTests()`, `run()`, `debug()`, `countTestCases()`, `__iter__()` in unittest. [unittest: `addTest()`, `addTests()`, `run()`, `debug()`, `countTestCases()`, `__iter__()`](unittest-testsuite-addtest-to-unittest-testsuite-iter.md).
-- Open when checking unittest — `unittest` — Unit testing framework: [unittest — `unittest` — Unit testing framework](unittest-unit-testing-framework.md).
+- Open when checking unittest`unittest` - Unit testing framework: [unittest`unittest` - Unit testing framework](unittest-unit-testing-framework.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

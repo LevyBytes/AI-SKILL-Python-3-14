@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / PEP 456: Secure and Interchangeable Hash Algorithm — sys
+# What's New In Python 3.4 / PEP 456: Secure and Interchangeable Hash Algorithm - sys
 
 ### PEP 456: Secure and Interchangeable Hash Algorithm
 

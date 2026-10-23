@@ -1,4 +1,4 @@
-# locale — Access to message catalogs
+# locale - Access to message catalogs
 
 ### Access to message catalogs
 

@@ -1,4 +1,4 @@
-# optparse — The store action
+# optparse - The store action
 
 ### The store action
 

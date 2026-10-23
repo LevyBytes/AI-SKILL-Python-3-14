@@ -1,4 +1,4 @@
-# http.client — HTTPResponse Objects
+# http.client - HTTPResponse Objects
 
 ### HTTPResponse Objects
 

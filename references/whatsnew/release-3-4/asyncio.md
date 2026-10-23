@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / asyncio — asyncio
+# What's New In Python 3.4 / asyncio - asyncio
 
 ### New Modules
 
@@ -10,7 +10,7 @@ Within Python 3.4, this module counts as a [provisional API](https://docs.python
 
 See also
 
-[**PEP 3156**](https://peps.python.org/pep-3156/) — Asynchronous IO Support Rebooted: the "asyncio" Module
+[**PEP 3156**](https://peps.python.org/pep-3156/) - Asynchronous IO Support Rebooted: the "asyncio" Module
 
 PEP written and implementation led by Guido van Rossum.
 

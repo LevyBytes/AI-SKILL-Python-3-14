@@ -1,4 +1,4 @@
-# optparse — Standard option actions — Code example: parser.add_option("--clobber", action="store_true", dest="clobber")
+# optparse - Standard option actions - Code example: parser.add_option("--clobber", action="store_true", dest="clobber")
 
 ```python
 parser.add_option("--clobber", action="store_true", dest="clobber")

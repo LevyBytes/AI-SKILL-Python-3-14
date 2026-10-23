@@ -1,8 +1,8 @@
-# tokenize — `tokenize` — Tokenizer for Python source
+# tokenize`tokenize` - Tokenizer for Python source
 
-## tokenize — Tokenizer for Python source
+## tokenize - Tokenizer for Python source
 
-### `tokenize` — Tokenizer for Python source
+### `tokenize` - Tokenizer for Python source
 
 **Source code:** [Lib/tokenize.py](https://github.com/python/cpython/tree/3.14/Lib/tokenize.py)
 

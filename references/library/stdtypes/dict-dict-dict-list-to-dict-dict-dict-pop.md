@@ -82,4 +82,4 @@ Hand back a fresh view onto the dictionary's keys. Consult the documentation of 
 
 When *key* is present in the dictionary, drop it and hand back its value; otherwise hand back *default*. Should *default* be omitted and *key* be missing from the dictionary, a [`KeyError`](https://docs.python.org/3.14/library/exceptions.html#KeyError) is raised.
 
-[Subject index](INDEX.md) · [Previous](mapping-types-and-dict-construction.md) · [Continue](dict-dict-dict-popitem-to-dict-dict-dict-values.md) · [Owning module, declaration or section: dict; dict; dict](dict-class-to-dict-class.md) · [Owning module, declaration or section: Mapping Types — `dict`](dict-class-to-dict-class.md)
+[Subject index](INDEX.md) · [Previous](mapping-types-and-dict-construction.md) · [Continue](dict-dict-dict-popitem-to-dict-dict-dict-values.md) · [Owning module, declaration or section: dict; dict; dict](dict-class-to-dict-class.md) · [Owning module, declaration or section: Mapping Types - `dict`](dict-class-to-dict-class.md)

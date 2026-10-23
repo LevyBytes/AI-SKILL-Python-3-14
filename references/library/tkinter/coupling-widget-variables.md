@@ -1,4 +1,4 @@
-# tkinter — Coupling Widget Variables
+# tkinter - Coupling Widget Variables
 
 ### Coupling Widget Variables
 

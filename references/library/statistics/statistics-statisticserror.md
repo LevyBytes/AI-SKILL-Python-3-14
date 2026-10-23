@@ -1,4 +1,4 @@
-# statistics — Exceptions
+# statistics - Exceptions
 
 ### Exceptions
 

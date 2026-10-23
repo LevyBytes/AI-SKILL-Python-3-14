@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / tkinter — tkinter.ttk
+# What's New In Python 3.7 / tkinter - tkinter.ttk
 
 ### tkinter
 

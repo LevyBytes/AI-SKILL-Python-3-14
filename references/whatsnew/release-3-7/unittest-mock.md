@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / unittest.mock — copy, pickle, unittest.mock
+# What's New In Python 3.7 / unittest.mock - copy, pickle, unittest.mock
 
 ### unittest.mock
 

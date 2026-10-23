@@ -1,8 +1,8 @@
 # syslog: Syslog messages, connection control and priorities
 
-## syslog — Unix syslog library routines
+## syslog - Unix syslog library routines
 
-### `syslog` — Unix syslog library routines
+### `syslog` - Unix syslog library routines
 
 ---
 

@@ -1,4 +1,4 @@
-# sys.monitoring — Disabling events
+# sys.monitoring - Disabling events
 
 ### Disabling events
 

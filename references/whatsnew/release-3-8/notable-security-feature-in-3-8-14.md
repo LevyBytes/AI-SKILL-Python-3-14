@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Notable security feature in 3.8.14 — sys
+# What’s New In Python 3.8 / Notable security feature in 3.8.14 - sys
 
 ### Notable security feature in 3.8.14
 

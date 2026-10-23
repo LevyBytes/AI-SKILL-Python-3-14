@@ -1,4 +1,4 @@
-# hashlib — Constructors
+# hashlib - Constructors
 
 ### Constructors
 

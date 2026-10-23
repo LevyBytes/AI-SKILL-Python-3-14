@@ -1,4 +1,4 @@
-# concurrent.interpreters — Concurrency and Parallelism
+# concurrent.interpreters - Concurrency and Parallelism
 
 ### Concurrency and Parallelism
 

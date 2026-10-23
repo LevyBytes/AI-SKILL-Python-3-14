@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / PEP 477: Backport ensurepip (PEP 453) to Python 2.7 / Bootstrapping pip By Default — ensurepip
+# What’s New in Python 2.7 / PEP 477: Backport ensurepip (PEP 453) to Python 2.7 / Bootstrapping pip By Default - ensurepip
 
 #### Bootstrapping pip By Default
 

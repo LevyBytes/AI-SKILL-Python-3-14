@@ -1,4 +1,4 @@
-# urllib.request — OpenerDirector Objects
+# urllib.request - OpenerDirector Objects
 
 ### OpenerDirector Objects
 
@@ -8,21 +8,21 @@
 
 *handler* should be an instance of `BaseHandler`. Each of the methods below is looked for and folded into the candidate chains (bear in mind that HTTP errors get special treatment). Bear in mind that, throughout what follows, you substitute the real protocol being handled for *protocol* — say, `http_response()` for the HTTP protocol response handler. Likewise, you substitute the real HTTP code for *type* — say, `http_error_404()` to take on HTTP 404 errors.
 
-- `<protocol>_open()` — marks the handler as capable of opening *protocol* URLs.
+- `<protocol>_open()`: marks the handler as capable of opening *protocol* URLs.
 
 See `BaseHandler.<protocol>_open()` for more information.
 
-- `http_error_<type>()` — marks the handler as capable of dealing with HTTP errors that carry HTTP error code *type*.
+- `http_error_<type>()`: marks the handler as capable of dealing with HTTP errors that carry HTTP error code *type*.
 
 See `BaseHandler.http_error_<nnn>()` for more information.
 
-- `<protocol>_error()` — marks the handler as capable of dealing with errors arising from (non-`http`) *protocol*.
+- `<protocol>_error()`: marks the handler as capable of dealing with errors arising from (non-`http`) *protocol*.
 
-- `<protocol>_request()` — marks the handler as capable of pre-processing *protocol* requests.
+- `<protocol>_request()`: marks the handler as capable of pre-processing *protocol* requests.
 
 See `BaseHandler.<protocol>_request()` for more information.
 
-- `<protocol>_response()` — marks the handler as capable of post-processing *protocol* responses.
+- `<protocol>_response()`: marks the handler as capable of post-processing *protocol* responses.
 
 See `BaseHandler.<protocol>_response()` for more information.
 

@@ -1,4 +1,4 @@
-# cmath — Trigonometric functions
+# cmath - Trigonometric functions
 
 ### Trigonometric functions
 

@@ -1,4 +1,4 @@
-# tracemalloc — Record the current and peak size of all traced memory blocks
+# tracemalloc - Record the current and peak size of all traced memory blocks
 
 #### Record the current and peak size of all traced memory blocks
 

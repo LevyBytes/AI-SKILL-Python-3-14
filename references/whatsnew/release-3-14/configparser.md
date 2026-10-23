@@ -1,4 +1,4 @@
-# What's new in Python 3.14 / configparser — configparser
+# What's new in Python 3.14 / configparser - configparser
 
 ### configparser
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module — optparse
+# What's New In Python 3.2 / PEP 389: Argparse Command Line Parsing Module - optparse
 
 ```shell
 $ ./helm.py --help                         # top level help (launch and move)

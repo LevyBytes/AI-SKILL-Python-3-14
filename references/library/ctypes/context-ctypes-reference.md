@@ -2,8 +2,8 @@
 
 Select by the documented task or API context. [Topic catalog](context-ctypes-reference.json).
 
-- Open when checking ctypes — Finding shared libraries. [ctypes reference / ctypes — Finding shared libraries](ctypes-util-find-library.md).
-- Open when checking ctypes — Listing loaded shared libraries. [ctypes reference / ctypes — Listing loaded shared libraries](listing-loaded-shared-libraries.md).
+- Open when checking ctypes - Finding shared libraries. [ctypes reference / ctypes - Finding shared libraries](ctypes-util-find-library.md).
+- Open when checking ctypes - Listing loaded shared libraries. [ctypes reference / ctypes - Listing loaded shared libraries](listing-loaded-shared-libraries.md).
 - Open when checking shared-library loading flags and Windows error state in ctypes. [ctypes: Shared-library loading flags and Windows error state](loading-shared-libraries.md).
 - Open when checking the documented contracts for `ctypes.OleDLL` in ctypes. [ctypes: `ctypes.OleDLL`](ctypes-oledll-class.md).
 - Open when checking the documented contracts for `ctypes.WinDLL` in ctypes. [ctypes: `ctypes.WinDLL`](ctypes-windll-class.md).
@@ -14,9 +14,9 @@ Select by the documented task or API context. [Topic catalog](context-ctypes-ref
 - Open when checking the documented contracts for `ctypes.CDLL` in ctypes. [ctypes: `ctypes.CDLL`](ctypes-cdll-class.md).
 - Open when checking the documented contracts for `ctypes._CFuncPtr` in ctypes. [ctypes: `ctypes._CFuncPtr`](ctypes-cfuncptr-class.md).
 - Open when checking foreign-function restype, argtypes and errcheck contracts in ctypes._CFuncPtr. [ctypes._CFuncPtr: Foreign-function restype, argtypes and errcheck contracts](ctypes-cfuncptr-callable.md).
-- Open when checking ctypes — Function prototypes. [ctypes reference / ctypes — Function prototypes](ctypes-cfunctype-to-prototype.md).
-- Open when checking ctypes — Function prototypes — Signature and initial contract. [ctypes reference / ctypes — Function prototypes — Signature and initial contract](prototype.md).
-- Open when checking ctypes — Function prototypes — Code example: &gt;&gt;&gt; from ctypes import POINTER, WINFUNCTYPE, windll, WinError. [ctypes reference / ctypes — Function prototypes — Code example: &gt;&gt;&gt; from ctypes import POINTER, WINFUNCTYPE, windll, WinError](windows-function-prototype-example.md).
+- Open when checking ctypes - Function prototypes. [ctypes reference / ctypes - Function prototypes](ctypes-cfunctype-to-prototype.md).
+- Open when checking ctypes - Function prototypes - Signature and initial contract. [ctypes reference / ctypes - Function prototypes - Signature and initial contract](prototype.md).
+- Open when checking ctypes - Function prototypes - Code example: &gt;&gt;&gt; from ctypes import POINTER, WINFUNCTYPE, windll, WinError. [ctypes reference / ctypes - Function prototypes - Code example: &gt;&gt;&gt; from ctypes import POINTER, WINFUNCTYPE, windll, WinError](windows-function-prototype-example.md).
 - Open when checking the documented contracts for `ctypes.pointer()`, `ctypes.resize()`, `ctypes.set_errno()`, `ctypes.set_last_error()`, `ctypes.sizeof()`, `ctypes.string_at()`, `ctypes.WinError()`, `ctypes.wstring_at()`, `ctypes.memoryview_at()` in ctypes. [ctypes: `ctypes.pointer()`, `ctypes.resize()`, `ctypes.set_errno()`, `ctypes.set_last_error()`, `ctypes.sizeof()`, `ctypes.string_at()`, `ctypes.WinError()`, `ctypes.wstring_at()`, `ctypes.memoryview_at()`](ctypes-pointer-to-ctypes-memoryview-at.md).
 - Open when checking the documented contracts for `ctypes.addressof()`, `ctypes.alignment()`, `ctypes.byref()`, `ctypes.CopyComPointer()`, `ctypes.cast()`, `ctypes.create_string_buffer()` in ctypes. [ctypes: `ctypes.addressof()`, `ctypes.alignment()`, `ctypes.byref()`, `ctypes.CopyComPointer()`, `ctypes.cast()`, `ctypes.create_string_buffer()`](ctypes-addressof-to-ctypes-create-string-buffer.md).
 - Open when checking Unicode buffers, library lookup, errors and raw memory operations in ctypes. [ctypes: Unicode buffers, library lookup, errors and raw memory operations](ctypes-create-unicode-buffer-to-ctypes-memset.md).
@@ -60,8 +60,8 @@ Select by the documented task or API context. [Topic catalog](context-ctypes-ref
 - Open when checking the documented contracts for `ctypes.c_bool` in ctypes. [ctypes: `ctypes.c_bool`](ctypes-c-bool-class.md).
 - Open when checking the documented contracts for `ctypes.HRESULT` in ctypes. [ctypes: `ctypes.HRESULT`](ctypes-hresult-class.md).
 - Open when checking the documented contracts for `ctypes.py_object` in ctypes. [ctypes: `ctypes.py_object`](ctypes-py-object-class.md).
-- Open when checking ctypes — Fundamental data types — Section introduction and initial examples. [ctypes reference / ctypes — Fundamental data types — Section introduction and initial examples](fundamental-ctypes-overview.md).
-- Open when checking ctypes — Fundamental data types — Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):. [ctypes reference / ctypes — Fundamental data types — Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):](ctypes-and-given-that-python-string-objects-cannot-be-mutated.md).
+- Open when checking ctypes - Fundamental data types - Section introduction and initial examples. [ctypes reference / ctypes - Fundamental data types - Section introduction and initial examples](fundamental-ctypes-overview.md).
+- Open when checking ctypes - Fundamental data types - Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):. [ctypes reference / ctypes - Fundamental data types - Contract: When you assign a fresh value to instances of the pointer types `c_char_p`, `c_wchar_p`, and `c_void_p`, you alter the *memory location* they reference, *not the contents* of the memory block (and naturally so, given that Python string objects cannot be mutated):](ctypes-and-given-that-python-string-objects-cannot-be-mutated.md).
 - Open when checking CField names, types, offsets and bit-field descriptors in ctypes. [ctypes: CField names, types, offsets and bit-field descriptors](structured-data-types-ctypes-cfield.md).
 - Open when checking the documented contracts for `ctypes.Union` in ctypes. [ctypes: `ctypes.Union`](ctypes-union-class.md).
 - Open when checking the documented contracts for `ctypes.BigEndianUnion` in ctypes. [ctypes: `ctypes.BigEndianUnion`](ctypes-bigendianunion-class.md).
@@ -73,5 +73,5 @@ Select by the documented task or API context. [Topic catalog](context-ctypes-ref
 - Open when checking the documented contracts for `ctypes.CField` in ctypes. [ctypes: `ctypes.CField`](ctypes-cfield-class.md).
 - Open when checking the documented contracts for `ctypes.Array`, `ctypes.ARRAY()` in ctypes. [ctypes: `ctypes.Array`, `ctypes.ARRAY()`](ctypes-array-class-to-ctypes-array.md).
 - Open when checking the documented contracts for `ctypes._Pointer` in ctypes. [ctypes: `ctypes._Pointer`](ctypes-pointer-class.md).
-- Open when checking ctypes — Exceptions. [ctypes reference / ctypes — Exceptions](ctypes-argumenterror-to-ctypes-comerror.md).
+- Open when checking ctypes - Exceptions. [ctypes reference / ctypes - Exceptions](ctypes-argumenterror-to-ctypes-comerror.md).
 - Open when you need a language version of references other than English. [Reference Language Selection](../languages.md).

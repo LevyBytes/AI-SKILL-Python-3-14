@@ -1,4 +1,4 @@
-# unittest.mock — Mocking a dictionary with MagicMock
+# unittest.mock - Mocking a dictionary with MagicMock
 
 ### Mocking a dictionary with MagicMock
 

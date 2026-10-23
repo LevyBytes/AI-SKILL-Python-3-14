@@ -1,4 +1,4 @@
-# sqlite3 — How to work with SQLite URIs
+# sqlite3 - How to work with SQLite URIs
 
 ### How to work with SQLite URIs
 

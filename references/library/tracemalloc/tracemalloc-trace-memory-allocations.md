@@ -1,8 +1,8 @@
-# tracemalloc — `tracemalloc` — Trace memory allocations
+# tracemalloc`tracemalloc` - Trace memory allocations
 
 # Tracemalloc
 
-### `tracemalloc` — Trace memory allocations
+### `tracemalloc` - Trace memory allocations
 
 Added in version 3.4.
 

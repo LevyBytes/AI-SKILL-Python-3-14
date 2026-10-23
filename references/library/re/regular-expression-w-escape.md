@@ -1,4 +1,4 @@
-# re — Regular-expression \W escape
+# re - Regular-expression \W escape
 
 Matches every character that does not count as a word character, making it the inverse of `\w`. Without extra flags, it matches any non-underscore (`_`) character for which [`str.isalnum()`](https://docs.python.org/3.14/library/stdtypes.html#str.isalnum) yields `False`.
 

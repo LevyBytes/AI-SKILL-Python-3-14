@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Value Types: [Value Types](winreg-reg-binary-to-winreg-reg-sz.md).
 - Open when checking `winreg` ? Windows registry access: [`winreg` ? Windows registry access](winreg-windows-registry-access.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

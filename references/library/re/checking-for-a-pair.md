@@ -1,4 +1,4 @@
-# re — Checking for a Pair
+# re - Checking for a Pair
 
 ### Regular Expression Examples
 

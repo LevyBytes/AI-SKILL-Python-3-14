@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / ensurepip — ensurepip
+# What's New In Python 3.4 / ensurepip - ensurepip
 
 ### ensurepip
 

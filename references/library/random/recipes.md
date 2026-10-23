@@ -1,4 +1,4 @@
-# random — Recipes
+# random - Recipes
 
 ### Recipes
 
@@ -85,6 +85,6 @@ In spirit, this recipe matches an algorithm that picks among every multiple of 2
 
 See also
 
-[Generating Pseudo-random Floating-Point Values](https://allendowney.com/research/rand/downey07randfloat.pdf) — Allen B. Downey's paper laying out techniques for producing floats at a finer granularity than `random()` normally delivers.
+[Generating Pseudo-random Floating-Point Values](https://allendowney.com/research/rand/downey07randfloat.pdf): Allen B. Downey's paper laying out techniques for producing floats at a finer granularity than `random()` normally delivers.
 
 [Subject index](INDEX.md) · [Previous](examples-code-example-from-statistics-import-fmean-as-mean.md) · [Owning module, declaration or section: random](random-generate-pseudo-random-numbers.md) · [Continue](command-line-usage.md)

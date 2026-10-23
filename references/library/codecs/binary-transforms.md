@@ -1,4 +1,4 @@
-# codecs — Binary Transforms
+# codecs - Binary Transforms
 
 ### Binary Transforms
 

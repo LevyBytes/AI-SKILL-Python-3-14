@@ -7,4 +7,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.5 release candidate 1 / build / keep apple clang out jit builds since arrives without: [Python 3.14.5 release candidate 1 / build / keep apple clang out jit builds since arrives without](keep-apple-clang-out-jit-builds-since-arrives-without.md).
 - Open when checking Python 3.14.5 release candidate 1 / build / random: [Python 3.14.5 release candidate 1 / build / random](random.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / PEP 655: Marking individual `TypedDict` items as required or not-required — typing
+# What's New In Python 3.11 / PEP 655: Marking individual `TypedDict` items as required or not-required - typing
 
 > (Contributed by Matthew Rahtz in [bpo-43224](https://bugs.python.org/issue?@action=redirect&bpo=43224), with contributions by Serhiy Storchaka and Jelle Zijlstra. PEP written by Mark Mendoza, Matthew Rahtz, Pradeep Kumar Srinivasan, and Vincent Siles.)
 

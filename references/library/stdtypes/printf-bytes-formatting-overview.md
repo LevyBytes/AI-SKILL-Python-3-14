@@ -1,4 +1,4 @@
-# `printf`-style Bytes Formatting — Section introduction and initial examples
+# `printf`-style Bytes Formatting - Section introduction and initial examples
 
 ### `printf`-style Bytes Formatting
 

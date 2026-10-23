@@ -1,4 +1,4 @@
-# sqlite3 — SQLite and Python types
+# sqlite3 - SQLite and Python types
 
 ### SQLite and Python types
 

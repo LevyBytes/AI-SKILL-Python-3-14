@@ -6,4 +6,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking numeric unary, bitwise and in-place arithmetic in numeric protocol C API. [numeric protocol C API: Numeric unary, bitwise and in-place arithmetic](pynumber-absolute-to-pynumber-inplacetruedivide.md).
 - Open when checking in-place numeric operations and index conversion in numeric protocol C API. [numeric protocol C API: In-place numeric operations and index conversion](pynumber-inplaceremainder-to-pyindex-check.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

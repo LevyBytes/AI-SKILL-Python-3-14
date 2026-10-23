@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Other Language Changes — decimal, json, marshal, pickle, sys
+# What’s New in Python 2.7 / Other Language Changes - decimal, json, marshal, pickle, sys
 
 ### Other Language Changes
 

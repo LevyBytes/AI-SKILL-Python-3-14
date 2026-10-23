@@ -1,4 +1,4 @@
-# string — Format examples — Section introduction and initial examples
+# string - Format examples - Section introduction and initial examples
 
 ### Format examples
 

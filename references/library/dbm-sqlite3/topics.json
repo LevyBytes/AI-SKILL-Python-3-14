@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "dbm.sqlite3 — `dbm.sqlite3` — SQLite backend for dbm", "file": "dbm-sqlite3/dbm-sqlite3-open.md", "summary": "Open when checking dbm.sqlite3 — `dbm.sqlite3` — SQLite backend for dbm.", "keywords": []},
-    {"topic": "dbm.sqlite3 — **flag** (*str*) –", "file": "dbm-sqlite3/sqlite3-close.md", "summary": "Open when checking dbm.sqlite3 — **flag** (*str*) –.", "keywords": []},
+    {"topic": "dbm.sqlite3 - `dbm.sqlite3` - SQLite backend for dbm", "file": "dbm-sqlite3/dbm-sqlite3-open.md", "summary": "Open when checking dbm.sqlite3 - `dbm.sqlite3` - SQLite backend for dbm.", "keywords": []},
+    {"topic": "dbm.sqlite3 - **flag** (*str*) –", "file": "dbm-sqlite3/sqlite3-close.md", "summary": "Open when checking dbm.sqlite3 - **flag** (*str*) –.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

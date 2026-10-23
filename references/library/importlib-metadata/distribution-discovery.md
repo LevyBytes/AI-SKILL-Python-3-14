@@ -1,4 +1,4 @@
-# importlib.metadata — Distribution Discovery
+# importlib.metadata - Distribution Discovery
 
 ### Distribution Discovery
 

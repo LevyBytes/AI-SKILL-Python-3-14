@@ -3,8 +3,8 @@
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
 - Open when checking Calibration: [Calibration](calibration.md).
-- Open when checking Instant User's Manual — Contract: -s <sort_order>: [Instant User's Manual — Contract: -s <sort_order>](instant-user-s-manual-contract-s-sort-order.md).
-- Open when checking Instant User's Manual — Section introduction and initial examples: [Instant User's Manual — Section introduction and initial examples](profiler-quickstart-overview.md).
+- Open when checking Instant User's Manual - Contract: -s <sort_order>: [Instant User's Manual - Contract: -s <sort_order>](instant-user-s-manual-contract-s-sort-order.md).
+- Open when checking Instant User's Manual - Section introduction and initial examples: [Instant User's Manual - Section introduction and initial examples](profiler-quickstart-overview.md).
 - Open when checking Introduction to the profilers: [Introduction to the profilers](introduction-to-the-profilers.md).
 - Open when checking Limitations: [Limitations](limitations.md).
 - Open when checking the documented contracts for `profile.run()`, `profile.runctx()` in profile. [profile: `profile.run()`, `profile.runctx()`](profile-run-to-profile-runctx.md).
@@ -16,4 +16,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking The Python Profilers: [The Python Profilers](the-python-profilers.md).
 - Open when checking What Is Deterministic Profiling?: [What Is Deterministic Profiling?](what-is-deterministic-profiling.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

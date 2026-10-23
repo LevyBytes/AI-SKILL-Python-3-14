@@ -1,4 +1,4 @@
-# sysconfig — Other functions
+# sysconfig - Other functions
 
 ### Other functions
 
@@ -20,7 +20,7 @@ Windows:
 
 - win-arm64 (64-bit Windows running on ARM64, also called AArch64)
 
-- win32 (everything else — here, sys.platform is what comes back)
+- win32 (everything else: here, sys.platform is what comes back)
 
 POSIX based OS:
 

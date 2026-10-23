@@ -1,4 +1,4 @@
-# optparse — Raising errors in a callback
+# optparse - Raising errors in a callback
 
 ### Raising errors in a callback
 

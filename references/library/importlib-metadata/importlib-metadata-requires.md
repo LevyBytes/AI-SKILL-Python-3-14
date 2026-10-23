@@ -1,4 +1,4 @@
-# importlib.metadata — Distribution requirements
+# importlib.metadata - Distribution requirements
 
 ### Distribution requirements
 

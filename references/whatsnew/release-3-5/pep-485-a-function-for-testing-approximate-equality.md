@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / PEP 485: A function for testing approximate equality — cmath, math
+# What’s New In Python 3.5 / PEP 485: A function for testing approximate equality - cmath, math
 
 ### PEP 485: A function for testing approximate equality
 

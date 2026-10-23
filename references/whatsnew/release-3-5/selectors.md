@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / selectors — selectors
+# What’s New In Python 3.5 / selectors - selectors
 
 ### selectors
 

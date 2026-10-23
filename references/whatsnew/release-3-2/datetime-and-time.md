@@ -1,4 +1,4 @@
-# What's New In Python 3.2 / datetime and time — datetime
+# What's New In Python 3.2 / datetime and time - datetime
 
 ### datetime and time
 

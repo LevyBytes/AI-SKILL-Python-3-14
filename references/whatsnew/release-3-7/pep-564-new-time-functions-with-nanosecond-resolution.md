@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 564: New Time Functions With Nanosecond Resolution — time
+# What's New In Python 3.7 / PEP 564: New Time Functions With Nanosecond Resolution - time
 
 ### PEP 564: New Time Functions With Nanosecond Resolution
 
@@ -22,7 +22,7 @@ These new functions hand back a nanosecond count as an integer.
 
 See also
 
-[**PEP 564**](https://peps.python.org/pep-0564/) — Add new time functions with nanosecond resolution
+[**PEP 564**](https://peps.python.org/pep-0564/): Add new time functions with nanosecond resolution
 
 PEP written and implemented by Victor Stinner
 

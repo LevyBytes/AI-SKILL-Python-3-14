@@ -1,4 +1,4 @@
-# itertools — Itertools Recipes — Sieve, factorization, primality and totient recipes
+# itertools - Itertools Recipes - Sieve, factorization, primality and totient recipes
 
 [Required complete example component](itertools-recipes-convolution-and-polynomial-recipes.md) / [Required complete example component](running-statistics-recipes.md)
 

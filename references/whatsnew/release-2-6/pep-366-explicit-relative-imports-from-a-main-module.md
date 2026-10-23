@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / PEP 366: Explicit Relative Imports From a Main Module — runpy
+# What’s New in Python 2.6 / PEP 366: Explicit Relative Imports From a Main Module - runpy
 
 ### PEP 366: Explicit Relative Imports From a Main Module
 

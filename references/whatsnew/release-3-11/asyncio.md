@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / asyncio — asyncio-eventloop, asyncio-runner, asyncio-stream, asyncio-sync, asyncio-task
+# What's New In Python 3.11 / asyncio - asyncio-eventloop, asyncio-runner, asyncio-stream, asyncio-sync, asyncio-task
 
 ### Improved Modules
 

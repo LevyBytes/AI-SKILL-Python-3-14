@@ -1,4 +1,4 @@
-# zipapp — Caveats
+# zipapp - Caveats
 
 ### Caveats
 

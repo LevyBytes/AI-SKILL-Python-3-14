@@ -1,4 +1,4 @@
-# sys.monitoring — The initialization of the `sys.path` module search path
+# sys.monitoring - The initialization of the `sys.path` module search path
 
 ## The initialization of the sys.path module search path
 

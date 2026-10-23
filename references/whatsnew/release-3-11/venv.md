@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / venv — sysconfig
+# What's New In Python 3.11 / venv - sysconfig
 
 ### venv
 

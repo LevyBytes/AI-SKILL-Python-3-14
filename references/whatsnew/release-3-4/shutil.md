@@ -1,4 +1,4 @@
-# What's New In Python 3.4 / shutil — shutil
+# What's New In Python 3.4 / shutil - shutil
 
 ### shutil
 

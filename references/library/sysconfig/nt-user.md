@@ -1,4 +1,4 @@
-# sysconfig — `nt_user`
+# sysconfig`nt_user`
 
 ### `nt_user`
 

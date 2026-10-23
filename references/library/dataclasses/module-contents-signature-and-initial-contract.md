@@ -1,4 +1,4 @@
-# dataclasses — Module contents — Signature and initial contract
+# dataclasses - Module contents - Signature and initial contract
 
 ### Module contents
 

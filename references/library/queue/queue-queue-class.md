@@ -1,8 +1,8 @@
 # queue: `queue.Queue`
 
-## queue — A synchronized queue class??
+## queue - A synchronized queue class??
 
-### `queue` — A synchronized queue class
+### `queue` - A synchronized queue class
 
 **Source code:** [Lib/queue.py](https://github.com/python/cpython/tree/3.14/Lib/queue.py)
 

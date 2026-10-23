@@ -1,4 +1,4 @@
-# Call and iterator protocol slots — tp_call, PyObject, PyArg_ParseTuple, PyUnicode_FromFormat, tp_iter, tp_iternext, PyTypeObject
+# Call and iterator protocol slots - tp_call, PyObject, PyArg_ParseTuple, PyUnicode_FromFormat, tp_iter, tp_iternext, PyTypeObject
 
 What follows is a simple sample `tp_call` implementation:
 

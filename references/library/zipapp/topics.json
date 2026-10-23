@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "topics": [
-    {"topic": "zipapp — Basic Example", "file": "zipapp/basic-example.md", "summary": "Open when checking zipapp — Basic Example.", "keywords": []},
-    {"topic": "zipapp — Caveats", "file": "zipapp/caveats.md", "summary": "Open when checking zipapp — Caveats.", "keywords": []},
-    {"topic": "zipapp — Command-Line Interface", "file": "zipapp/command-line-interface.md", "summary": "Open when checking zipapp — Command-Line Interface.", "keywords": []},
-    {"topic": "zipapp — Creating Standalone Applications with zipapp", "file": "zipapp/creating-standalone-applications-with-zipapp.md", "summary": "Open when checking zipapp — Creating Standalone Applications with zipapp.", "keywords": []},
-    {"topic": "zipapp — Examples", "file": "zipapp/examples.md", "summary": "Open when checking zipapp — Examples.", "keywords": []},
-    {"topic": "zipapp — Specifying the Interpreter", "file": "zipapp/specifying-the-interpreter.md", "summary": "Open when checking zipapp — Specifying the Interpreter.", "keywords": []},
-    {"topic": "zipapp — The Python Zip Application Archive Format", "file": "zipapp/the-python-zip-application-archive-format.md", "summary": "Open when checking zipapp — The Python Zip Application Archive Format.", "keywords": []},
-    {"topic": "zipapp — Python API", "file": "zipapp/zipapp-create-archive-to-zipapp-get-interpreter.md", "summary": "Open when checking zipapp — Python API.", "keywords": []},
-    {"topic": "zipapp — `zipapp` — Manage executable Python zip archives", "file": "zipapp/zipapp-manage-executable-python-zip-archives.md", "summary": "Open when checking zipapp — `zipapp` — Manage executable Python zip archives.", "keywords": []},
+    {"topic": "zipapp - Basic Example", "file": "zipapp/basic-example.md", "summary": "Open when checking zipapp - Basic Example.", "keywords": []},
+    {"topic": "zipapp - Caveats", "file": "zipapp/caveats.md", "summary": "Open when checking zipapp - Caveats.", "keywords": []},
+    {"topic": "zipapp - Command-Line Interface", "file": "zipapp/command-line-interface.md", "summary": "Open when checking zipapp - Command-Line Interface.", "keywords": []},
+    {"topic": "zipapp - Creating Standalone Applications with zipapp", "file": "zipapp/creating-standalone-applications-with-zipapp.md", "summary": "Open when checking zipapp - Creating Standalone Applications with zipapp.", "keywords": []},
+    {"topic": "zipapp - Examples", "file": "zipapp/examples.md", "summary": "Open when checking zipapp - Examples.", "keywords": []},
+    {"topic": "zipapp - Specifying the Interpreter", "file": "zipapp/specifying-the-interpreter.md", "summary": "Open when checking zipapp - Specifying the Interpreter.", "keywords": []},
+    {"topic": "zipapp - The Python Zip Application Archive Format", "file": "zipapp/the-python-zip-application-archive-format.md", "summary": "Open when checking zipapp - The Python Zip Application Archive Format.", "keywords": []},
+    {"topic": "zipapp - Python API", "file": "zipapp/zipapp-create-archive-to-zipapp-get-interpreter.md", "summary": "Open when checking zipapp - Python API.", "keywords": []},
+    {"topic": "zipapp - `zipapp` - Manage executable Python zip archives", "file": "zipapp/zipapp-manage-executable-python-zip-archives.md", "summary": "Open when checking zipapp - `zipapp` - Manage executable Python zip archives.", "keywords": []},
     {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
   ]
 }

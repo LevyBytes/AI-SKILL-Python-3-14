@@ -17,4 +17,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.2 release candidate 1 / core and builtins / threads and concurrency: [Python 3.6.2 release candidate 1 / core and builtins / threads and concurrency](threads-and-concurrency.md).
 - Open when checking Python 3.6.2 release candidate 1 / core and builtins / whenever max line length none given under compat32 policy stops being: [Python 3.6.2 release candidate 1 / core and builtins / whenever max line length none given under compat32 policy stops being](compat32-unlimited-header-line-length.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

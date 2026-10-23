@@ -1,4 +1,4 @@
-# xmlrpc.client — ServerProxy Objects
+# xmlrpc.client - ServerProxy Objects
 
 ### ServerProxy Objects
 

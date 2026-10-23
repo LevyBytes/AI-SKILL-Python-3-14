@@ -78,4 +78,4 @@ See also
 
 For detailed information on thread-safety guarantees for `dict` objects, see [Thread safety for dict objects](https://docs.python.org/3.14/library/threadsafety.html#thread-safety-dict).
 
-[Subject index](INDEX.md) · [Previous](dict-dict-dict-list-to-dict-dict-dict-pop.md) · [Continue](len-to-dictview-mapping.md) · [Owning module, declaration or section: dict; dict; dict](dict-class-to-dict-class.md) · [Owning module, declaration or section: Mapping Types — `dict`](dict-class-to-dict-class.md)
+[Subject index](INDEX.md) · [Previous](dict-dict-dict-list-to-dict-dict-dict-pop.md) · [Continue](len-to-dictview-mapping.md) · [Owning module, declaration or section: dict; dict; dict](dict-class-to-dict-class.md) · [Owning module, declaration or section: Mapping Types - `dict`](dict-class-to-dict-class.md)

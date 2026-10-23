@@ -1,4 +1,4 @@
-# subprocess — Legacy Shell Invocation Functions
+# subprocess - Legacy Shell Invocation Functions
 
 ### Legacy Shell Invocation Functions
 

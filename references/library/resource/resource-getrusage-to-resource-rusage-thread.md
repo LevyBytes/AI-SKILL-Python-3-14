@@ -1,4 +1,4 @@
-# resource — Resource Usage
+# resource - Resource Usage
 
 ### Resource Usage
 

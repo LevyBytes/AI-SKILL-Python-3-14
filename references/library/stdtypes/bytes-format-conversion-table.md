@@ -1,4 +1,4 @@
-# `printf`-style Bytes Formatting — Complete Conversion , Meaning , Notes table
+# `printf`-style Bytes Formatting - Complete Conversion , Meaning , Notes table
 
 | Conversion | Meaning | Notes |
 | --- | --- | --- |

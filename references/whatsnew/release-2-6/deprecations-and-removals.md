@@ -1,4 +1,4 @@
-# What’s New in Python 2.6 / Deprecations and Removals — email, fcntl, hashlib, subprocess
+# What’s New in Python 2.6 / Deprecations and Removals - email, fcntl, hashlib, subprocess
 
 ### Deprecations and Removals
 

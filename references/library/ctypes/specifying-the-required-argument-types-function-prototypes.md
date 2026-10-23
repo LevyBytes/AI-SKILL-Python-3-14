@@ -1,4 +1,4 @@
-# ctypes — Specifying the required argument types (function prototypes)
+# ctypes - Specifying the required argument types (function prototypes)
 
 ### Specifying the required argument types (function prototypes)
 

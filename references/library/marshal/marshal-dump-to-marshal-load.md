@@ -1,8 +1,8 @@
 # marshal: `marshal.dump()`, `marshal.load()`
 
-## marshal — Internal Python object serialization
+## marshal - Internal Python object serialization
 
-### `marshal` — Internal Python object serialization
+### `marshal` - Internal Python object serialization
 
 ---
 

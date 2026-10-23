@@ -1,4 +1,4 @@
-# What’s New in Python 2.7 / Optimizations — pickle
+# What’s New in Python 2.7 / Optimizations - pickle
 
 ### Optimizations
 

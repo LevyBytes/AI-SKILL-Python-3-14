@@ -1,4 +1,4 @@
-# argparse — Registering custom types or actions
+# argparse - Registering custom types or actions
 
 ### Registering custom types or actions
 

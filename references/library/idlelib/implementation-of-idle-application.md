@@ -1,6 +1,6 @@
-# idlelib — implementation of IDLE application
+# idlelib - implementation of IDLE application
 
-### idlelib — implementation of IDLE application
+### idlelib - implementation of IDLE application
 
 **Source code:** [Lib/idlelib](https://github.com/python/cpython/tree/3.14/Lib/idlelib)
 

@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Debug build uses the same ABI as release build — sys
+# What’s New In Python 3.8 / Debug build uses the same ABI as release build - sys
 
 ### Debug build uses the same ABI as release build
 

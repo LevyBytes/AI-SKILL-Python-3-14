@@ -1,4 +1,4 @@
-# os — os.setns namespace membership
+# os - os.setns namespace membership
 
 Beginning with Linux 5.8, *fd* may be a PID file descriptor handed back by `pidfd_open()`. When that is the case, `setns()` joins the calling thread to one or more of the same namespaces as the thread that *fd* points at. This obeys whatever limits *nstype* imposes, that being a bit mask that ORs together one or more of the CLONE_NEW* constants, for example `setns(fd, os.CLONE_NEWUTS | os.CLONE_NEWPID)`. The caller's memberships in any namespaces left unspecified stay as they were.
 

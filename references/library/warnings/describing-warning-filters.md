@@ -1,4 +1,4 @@
-# warnings — Describing Warning Filters
+# warnings - Describing Warning Filters
 
 ### Describing Warning Filters
 

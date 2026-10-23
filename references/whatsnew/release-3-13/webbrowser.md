@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / webbrowser — webbrowser
+# What's New In Python 3.13 / webbrowser - webbrowser
 
 ### webbrowser
 

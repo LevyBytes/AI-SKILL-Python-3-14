@@ -1,4 +1,4 @@
-# ctypes — Structure/union layout, alignment and byte order
+# ctypes - Structure/union layout, alignment and byte order
 
 ### Structure/union layout, alignment and byte order
 

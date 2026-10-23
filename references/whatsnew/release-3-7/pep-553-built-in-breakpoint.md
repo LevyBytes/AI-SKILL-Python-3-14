@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / PEP 553: Built-in `breakpoint()` — pdb, sys
+# What's New In Python 3.7 / PEP 553: Built-in `breakpoint()` - pdb, sys
 
 ### PEP 553: Built-in `breakpoint()`
 
@@ -8,7 +8,7 @@ Calling the built-in `breakpoint()` invokes [`sys.breakpointhook()`](https://doc
 
 See also
 
-[**PEP 553**](https://peps.python.org/pep-0553/) — Built-in breakpoint()
+[**PEP 553**](https://peps.python.org/pep-0553/): Built-in breakpoint()
 
 PEP written and implemented by Barry Warsaw
 

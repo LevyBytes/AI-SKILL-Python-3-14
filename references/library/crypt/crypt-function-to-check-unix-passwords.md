@@ -1,8 +1,8 @@
-# crypt — `crypt` — Function to check Unix passwords
+# crypt`crypt` - Function to check Unix passwords
 
-## crypt — Function to check Unix passwords
+## crypt - Function to check Unix passwords
 
-### `crypt` — Function to check Unix passwords
+### `crypt` - Function to check Unix passwords
 
 Deprecated since version 3.11, removed in version 3.13.
 

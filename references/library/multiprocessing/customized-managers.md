@@ -1,4 +1,4 @@
-# multiprocessing — Customized managers
+# multiprocessing - Customized managers
 
 #### Customized managers
 

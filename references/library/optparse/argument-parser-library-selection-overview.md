@@ -1,4 +1,4 @@
-# optparse — Choosing an argument parsing library — Section introduction and initial examples
+# optparse - Choosing an argument parsing library - Section introduction and initial examples
 
 ### Choosing an argument parsing library
 

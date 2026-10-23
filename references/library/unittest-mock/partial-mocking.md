@@ -1,4 +1,4 @@
-# unittest.mock — Partial mocking
+# unittest.mock - Partial mocking
 
 ### Partial mocking
 

@@ -44,7 +44,7 @@ Programs may append callbacks of their own to this list. The chief use cases are
 
 >
 
-Collecting metrics on garbage collection — for example, how frequently the various generations get collected and how much time a collection consumes.
+Collecting metrics on garbage collection: for example, how frequently the various generations get collected and how much time a collection consumes.
 
 Letting programs spot and dispose of their own uncollectable types once those surface in `garbage`.
 

@@ -1,4 +1,4 @@
-# inspect — Fetching attributes statically
+# inspect - Fetching attributes statically
 
 ### Fetching attributes statically
 

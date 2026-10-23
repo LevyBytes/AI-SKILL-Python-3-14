@@ -1,4 +1,4 @@
-# string — String constants
+# string - String constants
 
 ### String constants
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / tracemalloc — tracemalloc
+# What's New In Python 3.6 / tracemalloc - tracemalloc
 
 ### tracemalloc
 

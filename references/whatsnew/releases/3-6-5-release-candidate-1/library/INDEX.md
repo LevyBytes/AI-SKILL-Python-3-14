@@ -35,4 +35,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.5 release candidate 1 / library / tkinter: [Python 3.6.5 release candidate 1 / library / tkinter](tkinter.md).
 - Open when checking Python 3.6.5 release candidate 1 / library / urllib parse: [Python 3.6.5 release candidate 1 / library / urllib parse](urllib-parse.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

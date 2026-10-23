@@ -1,4 +1,4 @@
-# multiprocessing — Examples — test continuation: Pool lifetime, task setup and ordered/unordered results
+# multiprocessing - Examples - test continuation: Pool lifetime, task setup and ordered/unordered results
 
 Open the [complete example modules](../../examples/pool-examples/INDEX.md) for the complete definitions, imports and entrypoint.
 

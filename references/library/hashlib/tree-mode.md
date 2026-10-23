@@ -1,4 +1,4 @@
-# hashlib — Tree mode
+# hashlib - Tree mode
 
 #### Tree mode
 
@@ -42,4 +42,4 @@ Here the internal digests run 64 bytes each, while the digest handed back at the
 
 ```
 
-[Subject index](INDEX.md) · [Previous](personalization.md) · [Continue](credits.md) · [Owning module, declaration or section: hashlib](hashlib-secure-hashes-and-message-digests.md)
+[Subject index](INDEX.md) · [Previous](personalization.md) · [Owning module, declaration or section: hashlib](hashlib-secure-hashes-and-message-digests.md)

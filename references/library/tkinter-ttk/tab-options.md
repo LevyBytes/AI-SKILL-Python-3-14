@@ -1,4 +1,4 @@
-# tkinter.ttk — Tab Options
+# tkinter.ttk - Tab Options
 
 ### Tab Options
 

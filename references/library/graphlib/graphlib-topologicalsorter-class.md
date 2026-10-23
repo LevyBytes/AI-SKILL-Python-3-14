@@ -1,8 +1,8 @@
 # graphlib: `graphlib.TopologicalSorter`
 
-## graphlib — Functionality to operate with graph-like structures
+## graphlib - Functionality to operate with graph-like structures
 
-### `graphlib` — Functionality to operate with graph-like structures
+### `graphlib` - Functionality to operate with graph-like structures
 
 **Source code:** [Lib/graphlib.py](https://github.com/python/cpython/tree/3.14/Lib/graphlib.py)
 

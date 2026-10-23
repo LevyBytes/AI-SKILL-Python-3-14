@@ -1,4 +1,4 @@
-# typing — Other special directives — Code example: class Point2D(TypedDict, total=False):
+# typing - Other special directives - Code example: class Point2D(TypedDict, total=False):
 
 ```python
 class Point2D(TypedDict, total=False):

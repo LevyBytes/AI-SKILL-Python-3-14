@@ -1,4 +1,4 @@
-# sys.monitoring — Per code object events
+# sys.monitoring - Per code object events
 
 ### Per code object events
 

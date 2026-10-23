@@ -12,4 +12,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.5.1 release candidate 1 / windows / put requestedexecutionlevel back manifest switch off uac virtualization: [Python 3.5.1 release candidate 1 / windows / put requestedexecutionlevel back manifest switch off uac virtualization](windows-execution-manifest-and-uac-virtualization.md).
 - Open when checking Python 3.5.1 release candidate 1 / windows / py exe launcher lacks icons: [Python 3.5.1 release candidate 1 / windows / py exe launcher lacks icons](py-exe-launcher-lacks-icons.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

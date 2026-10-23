@@ -1,6 +1,6 @@
-# IDLE — Python editor and shell
+# IDLE - Python editor and shell
 
-### IDLE — Python editor and shell
+### IDLE - Python editor and shell
 
 **Source code:** [Lib/idlelib/](https://github.com/python/cpython/tree/3.14/Lib/idlelib/)
 

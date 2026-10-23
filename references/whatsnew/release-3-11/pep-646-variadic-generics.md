@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / PEP 646: Variadic generics — typing
+# What's New In Python 3.11 / PEP 646: Variadic generics - typing
 
 ### PEP 646: Variadic generics
 

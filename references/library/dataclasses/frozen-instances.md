@@ -1,4 +1,4 @@
-# dataclasses — Frozen instances
+# dataclasses - Frozen instances
 
 ### Frozen instances
 

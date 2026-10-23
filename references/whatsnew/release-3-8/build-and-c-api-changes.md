@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / Build and C API Changes — decimal, fractions, sys
+# What’s New In Python 3.8 / Build and C API Changes - decimal, fractions, sys
 
 ### Build and C API Changes
 

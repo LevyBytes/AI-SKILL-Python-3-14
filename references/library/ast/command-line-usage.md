@@ -1,4 +1,4 @@
-# ast — Command-line usage
+# ast - Command-line usage
 
 ### Command-line usage
 

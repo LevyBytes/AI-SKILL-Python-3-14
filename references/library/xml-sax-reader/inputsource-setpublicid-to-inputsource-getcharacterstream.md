@@ -1,4 +1,4 @@
-# xml.sax.xmlreader — InputSource Objects
+# xml.sax.xmlreader - InputSource Objects
 
 ### InputSource Objects
 

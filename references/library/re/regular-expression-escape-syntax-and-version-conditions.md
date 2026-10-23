@@ -1,4 +1,4 @@
-# re — Regular-expression escape syntax and version conditions
+# re - Regular-expression escape syntax and version conditions
 
 The regular expression parser also accepts most of the [escape sequences](https://docs.python.org/3.14/reference/lexical_analysis.html#escape-sequences) that Python string literals understand:
 

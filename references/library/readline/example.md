@@ -1,4 +1,4 @@
-# readline — Example
+# readline - Example
 
 ### Example
 

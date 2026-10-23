@@ -1,4 +1,4 @@
-# What's New In Python 3.13 / Pending removal in Python 3.19 — ctypes
+# What's New In Python 3.13 / Pending removal in Python 3.19 - ctypes
 
 ### Pending removal in Python 3.19
 

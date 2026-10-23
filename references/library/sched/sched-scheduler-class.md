@@ -1,8 +1,8 @@
-# sched — `sched` — Event scheduler
+# sched`sched` - Event scheduler
 
-## sched — Event scheduler
+## sched - Event scheduler
 
-### `sched` — Event scheduler
+### `sched` - Event scheduler
 
 **Source code:** [Lib/sched.py](https://github.com/python/cpython/tree/3.14/Lib/sched.py)
 

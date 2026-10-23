@@ -1,4 +1,4 @@
-# multiprocessing — All start methods — Section introduction and initial examples
+# multiprocessing - All start methods - Section introduction and initial examples
 
 ### All start methods
 

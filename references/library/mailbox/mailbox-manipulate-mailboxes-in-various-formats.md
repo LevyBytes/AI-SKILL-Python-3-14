@@ -1,6 +1,6 @@
-# mailbox — `mailbox` — Manipulate mailboxes in various formats
+# mailbox`mailbox` - Manipulate mailboxes in various formats
 
-### `mailbox` — Manipulate mailboxes in various formats
+### `mailbox` - Manipulate mailboxes in various formats
 
 **Source code:** [Lib/mailbox.py](https://github.com/python/cpython/tree/3.14/Lib/mailbox.py)
 

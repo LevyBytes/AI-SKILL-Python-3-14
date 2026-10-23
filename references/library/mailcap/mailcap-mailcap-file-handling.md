@@ -1,6 +1,6 @@
-# mailcap — `mailcap` — Mailcap file handling
+# mailcap`mailcap` - Mailcap file handling
 
-### `mailcap` — Mailcap file handling
+### `mailcap` - Mailcap file handling
 
 Deprecated since version 3.11, removed in version 3.13.
 

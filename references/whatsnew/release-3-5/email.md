@@ -1,4 +1,4 @@
-# What’s New In Python 3.5 / email — email.policy
+# What’s New In Python 3.5 / email - email.policy
 
 ### email
 

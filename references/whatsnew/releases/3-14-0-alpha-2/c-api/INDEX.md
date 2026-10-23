@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.14.0 alpha 2 / c api / py huge val macro carries soft deprecated status: [Python 3.14.0 alpha 2 / c api / py huge val macro carries soft deprecated status](py-huge-val-macro-carries-soft-deprecated-status.md).
 - Open when checking Python 3.14.0 alpha 2 / c api / type: [Python 3.14.0 alpha 2 / c api / type](type.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

@@ -1,4 +1,4 @@
-# sysconfig — Home scheme
+# sysconfig - Home scheme
 
 ### Home scheme
 

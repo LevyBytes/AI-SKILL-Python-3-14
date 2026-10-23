@@ -1,7 +1,7 @@
 {"schema_version": 1, "topics": [
   {"topic": "__future__: `__future__._Feature`", "file": "future/future-feature-class.md", "summary": "Open when checking the documented contracts for `__future__._Feature` in __future__.", "keywords": []},
   {"topic": "__future__: `_Feature.getOptionalRelease()`, `_Feature.getMandatoryRelease()`, `_Feature.compiler_flag`", "file": "future/feature-getoptionalrelease-to-feature-compiler-flag.md", "summary": "Open when checking the documented contracts for `_Feature.getOptionalRelease()`, `_Feature.getMandatoryRelease()`, `_Feature.compiler_flag` in __future__.", "keywords": []},
-  {"topic": "__future__ — `__future__` — Future statement definitions", "file": "future/future-future-statement-definitions.md", "summary": "Open when checking __future__ — `__future__` — Future statement definitions.", "keywords": []},
-  {"topic": "__future__ — Future statement definitions", "file": "future/future-statement-definitions.md", "summary": "Open when checking __future__ — Future statement definitions.", "keywords": []},
+  {"topic": "__future__ - `__future__` - Future statement definitions", "file": "future/future-future-statement-definitions.md", "summary": "Open when checking __future__ - `__future__` - Future statement definitions.", "keywords": []},
+  {"topic": "__future__ - Future statement definitions", "file": "future/future-statement-definitions.md", "summary": "Open when checking __future__ - Future statement definitions.", "keywords": []},
   {"topic": "Reference Language Selection", "file": "languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

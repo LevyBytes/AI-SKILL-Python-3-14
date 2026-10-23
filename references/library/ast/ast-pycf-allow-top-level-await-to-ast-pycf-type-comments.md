@@ -1,4 +1,4 @@
-# ast — Compiler flags
+# ast - Compiler flags
 
 ### Compiler flags
 

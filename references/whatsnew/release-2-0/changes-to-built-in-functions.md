@@ -1,4 +1,4 @@
-# What’s New in Python 2.0 / Changes to Built-in Functions — sys
+# What’s New in Python 2.0 / Changes to Built-in Functions - sys
 
 ### Changes to Built-in Functions
 

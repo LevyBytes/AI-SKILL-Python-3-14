@@ -1,4 +1,4 @@
-# tkinter.ttk — Using Ttk
+# tkinter.ttk - Using Ttk
 
 ### Using Ttk
 

@@ -9,4 +9,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking Python 3.6.0 beta 1 / windows / text: [Python 3.6.0 beta 1 / windows / text](text.md).
 - Open when checking Python 3.6.0 beta 1 / windows / winsound: [Python 3.6.0 beta 1 / windows / winsound](winsound.md).
 
-[Reference Language Selection](../../../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../../../languages.md) - Open when you need a language version of references other than English.

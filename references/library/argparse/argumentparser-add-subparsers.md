@@ -1,4 +1,4 @@
-# argparse — Subcommands — Signature and initial contract
+# argparse - Subcommands - Signature and initial contract
 
 ### Other utilities
 

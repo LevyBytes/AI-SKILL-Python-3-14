@@ -65,7 +65,7 @@ For a primer on socket programming (in C), take a look at these papers:
 
 - *An Introductory 4.3BSD Interprocess Communication Tutorial*, by Stuart Sechrest
 
-- *An Advanced 4.3BSD Interprocess Communication Tutorial* — authored by Samuel J. Leffler and colleagues,
+- *An Advanced 4.3BSD Interprocess Communication Tutorial*: authored by Samuel J. Leffler and colleagues,
 
 which you'll find in the UNIX Programmer’s Manual, Supplementary Documents 1 — specifically at sections PS1:7 and PS1:8. Reference material that is platform-specific, covering the assorted socket-related system calls, likewise makes a worthwhile source on the finer points of socket semantics. On Unix, turn to the manual pages; on Windows, consult the WinSock (or Winsock 2) specification. For IPv6-ready APIs, readers might look to [**RFC 3493**](https://datatracker.ietf.org/doc/html/rfc3493.html) titled Basic Socket Interface Extensions for IPv6.
 

@@ -1,4 +1,4 @@
-# curses — Constants — Application command keys
+# curses - Constants - Application command keys
 
 | Key constant | Key |
 | --- | --- |

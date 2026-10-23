@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / logging — logging.handlers
+# What's New In Python 3.6 / logging - logging.handlers
 
 ### logging
 

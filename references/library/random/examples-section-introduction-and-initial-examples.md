@@ -1,4 +1,4 @@
-# random — Examples — Section introduction and initial examples
+# random - Examples - Section introduction and initial examples
 
 ### Examples
 

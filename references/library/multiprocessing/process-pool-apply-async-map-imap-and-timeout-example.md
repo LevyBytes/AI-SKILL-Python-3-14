@@ -1,4 +1,4 @@
-# multiprocessing — Process Pool apply_async, map, imap and timeout example
+# multiprocessing - Process Pool apply_async, map, imap and timeout example
 
 ```python
 from multiprocessing import Pool

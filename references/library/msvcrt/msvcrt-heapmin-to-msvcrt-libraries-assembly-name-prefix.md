@@ -1,4 +1,4 @@
-# msvcrt — Other Functions
+# msvcrt - Other Functions
 
 ### Other Functions
 

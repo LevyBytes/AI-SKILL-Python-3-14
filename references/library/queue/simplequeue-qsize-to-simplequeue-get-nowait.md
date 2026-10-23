@@ -1,4 +1,4 @@
-# queue — SimpleQueue Objects
+# queue - SimpleQueue Objects
 
 ### SimpleQueue Objects
 

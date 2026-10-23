@@ -1,4 +1,4 @@
-# What's New in Python 2.5 / The ctypes package — ctypes
+# What's New in Python 2.5 / The ctypes package - ctypes
 
 ### The ctypes package
 

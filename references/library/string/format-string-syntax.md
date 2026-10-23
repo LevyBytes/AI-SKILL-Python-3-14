@@ -1,4 +1,4 @@
-# string — Format string syntax
+# string - Format string syntax
 
 ### Format string syntax
 

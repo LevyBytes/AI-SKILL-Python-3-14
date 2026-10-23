@@ -23,7 +23,7 @@ class B     class C:
 
 For classic classes the lookup rule is straightforward yet none too clever; base classes get walked depth-first, moving left to right. Referencing `D.save()` will hunt through classes `D`, `B`, and then `A`, where `save()` turns up and gets returned. `C.save()` would never be reached at all. That’s a problem, since if `C`’s `save()` method is stashing some internal state unique to `C`, skipping the call means that state never gets stashed.
 
-New-style classes use a different algorithm — a touch harder to lay out, but it behaves correctly here. (Be aware that Python 2.3 swaps this algorithm for one that yields identical results in most situations, while delivering better results for truly tangled inheritance graphs.)
+New-style classes use a different algorithm: a touch harder to lay out, but it behaves correctly here. (Be aware that Python 2.3 swaps this algorithm for one that yields identical results in most situations, while delivering better results for truly tangled inheritance graphs.)
 
 1.
 

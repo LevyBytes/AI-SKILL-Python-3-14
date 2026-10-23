@@ -1,4 +1,4 @@
-# typing — NewType
+# typing - NewType
 
 ### NewType
 

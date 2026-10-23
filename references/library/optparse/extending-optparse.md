@@ -1,4 +1,4 @@
-# optparse — Extending `optparse`
+# optparse - Extending `optparse`
 
 ### Extending `optparse`
 

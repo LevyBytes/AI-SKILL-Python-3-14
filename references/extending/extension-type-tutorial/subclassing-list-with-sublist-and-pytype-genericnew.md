@@ -1,4 +1,4 @@
-# Subclassing list with SubList — PyListObject, PyObject_HEAD, PyObject, SubList_init, PyList_Type, tp_init, tp_new, PyTypeObject, tp_dealloc, tp_alloc, tp_base, Py_mod_exec, PyType_Ready, PyModule_AddObjectRef, PyType_GenericNew
+# Subclassing list with SubList - PyListObject, PyObject_HEAD, PyObject, SubList_init, PyList_Type, tp_init, tp_new, PyTypeObject, tp_dealloc, tp_alloc, tp_base, Py_mod_exec, PyType_Ready, PyModule_AddObjectRef, PyType_GenericNew
 
 ```c
 typedef struct {

@@ -1,4 +1,4 @@
-# tkinter.ttk — Progressbar
+# tkinter.ttk - Progressbar
 
 ### Progressbar
 

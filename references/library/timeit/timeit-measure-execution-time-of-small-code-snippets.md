@@ -1,8 +1,8 @@
-# timeit — `timeit` — Measure execution time of small code snippets
+# timeit`timeit` - Measure execution time of small code snippets
 
 # Timeit
 
-### `timeit` — Measure execution time of small code snippets
+### `timeit` - Measure execution time of small code snippets
 
 **Source code:** [Lib/timeit.py](https://github.com/python/cpython/tree/3.14/Lib/timeit.py)
 

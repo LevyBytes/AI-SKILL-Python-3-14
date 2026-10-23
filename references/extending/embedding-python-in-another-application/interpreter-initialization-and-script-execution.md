@@ -1,4 +1,4 @@
-# Embedding Python in Another Application — Py_Initialize, PyRun_SimpleString, PyRun_SimpleFile
+# Embedding Python in Another Application - Py_Initialize, PyRun_SimpleString, PyRun_SimpleFile
 
 ## 1. Embedding Python in Another Application
 

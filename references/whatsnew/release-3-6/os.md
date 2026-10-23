@@ -1,4 +1,4 @@
-# What's New In Python 3.6 / os — os, os.path
+# What's New In Python 3.6 / os - os, os.path
 
 ### os
 

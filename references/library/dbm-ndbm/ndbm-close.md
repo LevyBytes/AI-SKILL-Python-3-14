@@ -1,4 +1,4 @@
-# dbm.ndbm — **flag** (*str*) –
+# dbm.ndbm - **flag** (*str*) –
 
 **flag** ([*str*](https://docs.python.org/3.14/library/stdtypes.html#str)) –
   - `'r'` (default): read-only access to a database that already exists.

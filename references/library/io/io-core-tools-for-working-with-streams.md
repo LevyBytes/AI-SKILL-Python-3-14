@@ -1,6 +1,6 @@
-# io — `io` — Core tools for working with streams
+# io`io` - Core tools for working with streams
 
-### `io` — Core tools for working with streams
+### `io` - Core tools for working with streams
 
 **Source code:** [Lib/io.py](https://github.com/python/cpython/tree/3.14/Lib/io.py)
 

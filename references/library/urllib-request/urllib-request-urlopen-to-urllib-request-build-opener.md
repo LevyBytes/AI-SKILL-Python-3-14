@@ -1,6 +1,6 @@
-# urllib.request — `urllib.request` — Extensible library for opening URLs
+# urllib.request`urllib.request` - Extensible library for opening URLs
 
-### `urllib.request` — Extensible library for opening URLs
+### `urllib.request` - Extensible library for opening URLs
 
 **Source code:** [Lib/urllib/request.py](https://github.com/python/cpython/tree/3.14/Lib/urllib/request.py)
 

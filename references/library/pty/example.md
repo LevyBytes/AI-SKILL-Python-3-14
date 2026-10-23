@@ -1,4 +1,4 @@
-# pty — Example
+# pty - Example
 
 ### Example
 

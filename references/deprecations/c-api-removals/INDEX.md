@@ -8,4 +8,4 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking python 3 18: [python 3 18](python-3-18/INDEX.md).
 - Open when checking unscheduled: [unscheduled](unscheduled/INDEX.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

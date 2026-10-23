@@ -1,4 +1,4 @@
-# optparse — What are options for?
+# optparse - What are options for?
 
 ### What are options for?
 

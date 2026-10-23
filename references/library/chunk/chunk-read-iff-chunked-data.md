@@ -1,8 +1,8 @@
-# chunk — `chunk` — Read IFF chunked data
+# chunk`chunk` - Read IFF chunked data
 
-## chunk — Read IFF chunked data??
+## chunk - Read IFF chunked data??
 
-### `chunk` — Read IFF chunked data
+### `chunk` - Read IFF chunked data
 
 Deprecated since version 3.11, removed in version 3.13.
 

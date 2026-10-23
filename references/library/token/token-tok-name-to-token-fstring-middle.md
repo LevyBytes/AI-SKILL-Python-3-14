@@ -1,6 +1,6 @@
 # token: Tokenizer terminal, name, number and f-string constants
 
-### `token` — Constants used with Python parse trees
+### `token` - Constants used with Python parse trees
 
 **Source code:** [Lib/token.py](https://github.com/python/cpython/tree/3.14/Lib/token.py)
 

@@ -1,4 +1,4 @@
-# secrets — Random numbers
+# secrets - Random numbers
 
 ### Random numbers
 

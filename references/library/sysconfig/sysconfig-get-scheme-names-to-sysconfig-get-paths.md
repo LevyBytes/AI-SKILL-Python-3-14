@@ -1,4 +1,4 @@
-# sysconfig — Installation path functions
+# sysconfig - Installation path functions
 
 ### Installation path functions
 

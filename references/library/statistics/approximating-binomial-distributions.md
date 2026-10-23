@@ -1,4 +1,4 @@
-# statistics — Approximating binomial distributions
+# statistics - Approximating binomial distributions
 
 ### Approximating binomial distributions
 

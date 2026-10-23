@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / locale — locale
+# What's New In Python 3.7 / locale - locale
 
 ### locale
 

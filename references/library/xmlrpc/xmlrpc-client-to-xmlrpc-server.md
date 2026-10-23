@@ -1,8 +1,8 @@
-# xmlrpc — `xmlrpc` — XMLRPC server and client modules
+# xmlrpc`xmlrpc` - XMLRPC server and client modules
 
-## xmlrpc — XMLRPC server and client modules
+## xmlrpc - XMLRPC server and client modules
 
-### `xmlrpc` — XMLRPC server and client modules
+### `xmlrpc` - XMLRPC server and client modules
 
 As a Remote Procedure Call mechanism, XML-RPC carries XML over HTTP as its transport. Through it, a client invokes parameterized methods on a far server (named by a URI) and gets structured data in return.
 

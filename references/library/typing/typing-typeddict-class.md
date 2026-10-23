@@ -1,4 +1,4 @@
-# typing — Other special directives — Signature and initial contract
+# typing - Other special directives - Signature and initial contract
 
 *class *typing.TypedDict(*dict*)
 

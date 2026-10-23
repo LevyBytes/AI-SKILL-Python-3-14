@@ -1,4 +1,4 @@
-# unittest.mock — Raising exceptions with mocks
+# unittest.mock - Raising exceptions with mocks
 
 ### Raising exceptions with mocks
 

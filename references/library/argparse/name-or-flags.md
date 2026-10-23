@@ -1,4 +1,4 @@
-# argparse — name or flags
+# argparse - name or flags
 
 What follows explains the role each of these plays.
 

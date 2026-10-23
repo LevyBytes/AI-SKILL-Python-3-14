@@ -1,4 +1,4 @@
-# optparse — Handling boolean (flag) options
+# optparse - Handling boolean (flag) options
 
 ### Handling boolean (flag) options
 

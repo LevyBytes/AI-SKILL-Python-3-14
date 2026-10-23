@@ -1,4 +1,4 @@
-# ctypes — Listing loaded shared libraries
+# ctypes - Listing loaded shared libraries
 
 ### Listing loaded shared libraries
 

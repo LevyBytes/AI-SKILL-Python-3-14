@@ -1,4 +1,4 @@
-# What's New In Python 3.11 / Other Language Changes — collections, contextlib, copy, datetime, pickle, string, sys, weakref
+# What's New In Python 3.11 / Other Language Changes - collections, contextlib, copy, datetime, pickle, string, sys, weakref
 
 ### Other Language Changes
 

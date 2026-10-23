@@ -1,4 +1,4 @@
-# curses — curses constants, key capabilities and terminal mappings — Complete Constant , Color table
+# curses - curses constants, key capabilities and terminal mappings - Complete Constant , Color table
 
 | Constant | Color |
 | --- | --- |

@@ -1,4 +1,4 @@
-# optparse — Creating the parser
+# optparse - Creating the parser
 
 ### Reference Guide
 

@@ -1,4 +1,4 @@
-# What's New In Python 3.7 / zipapp — zipapp
+# What's New In Python 3.7 / zipapp - zipapp
 
 ### zipapp
 

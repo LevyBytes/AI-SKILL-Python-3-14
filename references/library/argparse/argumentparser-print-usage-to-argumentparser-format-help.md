@@ -1,4 +1,4 @@
-# argparse — Printing help
+# argparse - Printing help
 
 ### Printing help
 

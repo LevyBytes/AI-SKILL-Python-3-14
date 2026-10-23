@@ -1,6 +1,6 @@
-# test.support — `test.support` — Utilities for the Python test suite
+# test.support`test.support` - Utilities for the Python test suite
 
-### `test.support` — Utilities for the Python test suite
+### `test.support` - Utilities for the Python test suite
 
 Support for Python's regression test suite comes from the `test.support` module.
 

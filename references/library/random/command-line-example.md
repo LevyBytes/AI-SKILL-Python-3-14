@@ -1,4 +1,4 @@
-# random — Command-line example
+# random - Command-line example
 
 ### Command-line example
 

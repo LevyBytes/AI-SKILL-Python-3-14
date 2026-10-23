@@ -1,4 +1,4 @@
-# Audit events table — socket
+# Audit events table - socket
 
 | Audit event | Arguments | References |
 | --- | --- | --- |

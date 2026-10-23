@@ -1,4 +1,4 @@
-# pathlib — General properties
+# pathlib - General properties
 
 ### General properties
 

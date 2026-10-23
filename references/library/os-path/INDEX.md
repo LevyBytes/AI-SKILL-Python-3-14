@@ -8,6 +8,6 @@ Open the [topic catalog](topics.json) when selecting a reference by its trigger 
 - Open when checking the documented contracts for `os.path.normpath()`, `os.path.realpath()`, `os.path.ALLOW_MISSING`, `os.path.relpath()`, `os.path.samefile()`, `os.path.sameopenfile()`, `os.path.samestat()`, `os.path.split()` in os.path. [os.path: `os.path.normpath()`, `os.path.realpath()`, `os.path.ALLOW_MISSING`, `os.path.relpath()`, `os.path.samefile()`, `os.path.sameopenfile()`, `os.path.samestat()`, `os.path.split()`](os-path-normpath-to-os-path-split.md).
 - Open when checking the documented contracts for `os.path.splitdrive()`, `os.path.splitroot()` in os.path. [os.path: `os.path.splitdrive()`, `os.path.splitroot()`](os-path-splitdrive-to-os-path-splitroot.md).
 - Open when checking the documented contracts for `os.path.splitext()`, `os.path.supports_unicode_filenames` in os.path. [os.path: `os.path.splitext()`, `os.path.supports_unicode_filenames`](os-path-splitext-to-os-path-supports-unicode-filenames.md).
-- Open when checking os.path — Common pathname manipulations??: [os.path — Common pathname manipulations??](os-path-common-pathname-manipulations.md).
+- Open when checking os.path - Common pathname manipulations??: [os.path - Common pathname manipulations??](os-path-common-pathname-manipulations.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

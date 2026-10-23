@@ -1,4 +1,4 @@
-# What’s New In Python 3.8 / ctypes — ctypes, os
+# What’s New In Python 3.8 / ctypes - ctypes, os
 
 > (Contributed by Serhiy Storchaka in [bpo-31680](https://bugs.python.org/issue?@action=redirect&bpo=31680).)
 

@@ -2,6 +2,6 @@
 
 Open the [topic catalog](topics.json) when selecting a reference by its trigger summary.
 
-- Open when checking asyncore — `asyncore` — Asynchronous socket handler: [asyncore — `asyncore` — Asynchronous socket handler](asyncore-asynchronous-socket-handler.md).
+- Open when checking asyncore`asyncore` - Asynchronous socket handler: [asyncore`asyncore` - Asynchronous socket handler](asyncore-asynchronous-socket-handler.md).
 
-[Reference Language Selection](../languages.md) — Open when you need a language version of references other than English.
+[Reference Language Selection](../languages.md) - Open when you need a language version of references other than English.

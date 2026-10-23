@@ -1,4 +1,4 @@
-# argparse — Customizing file parsing
+# argparse - Customizing file parsing
 
 ### Customizing file parsing
 

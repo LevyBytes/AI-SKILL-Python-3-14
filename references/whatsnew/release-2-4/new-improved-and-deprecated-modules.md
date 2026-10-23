@@ -1,4 +1,4 @@
-# What’s New in Python 2.4 / New, Improved, and Deprecated Modules — base64, bisect, collections, configparser, curses, difflib, threading
+# What’s New in Python 2.4 / New, Improved, and Deprecated Modules - base64, bisect, collections, configparser, curses, difflib, threading
 
 ### New, Improved, and Deprecated Modules
 

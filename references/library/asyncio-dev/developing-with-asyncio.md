@@ -1,4 +1,4 @@
-# asyncio — Developing with asyncio
+# asyncio - Developing with asyncio
 
 ## Developing with asyncio
 

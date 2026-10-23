@@ -1,8 +1,8 @@
-# zoneinfo — `zoneinfo` — IANA time zone support
+# zoneinfo`zoneinfo` - IANA time zone support
 
 # Zoneinfo
 
-### `zoneinfo` — IANA time zone support
+### `zoneinfo` - IANA time zone support
 
 Added in version 3.9.
 
