@@ -1,8 +1,6 @@
-# dbm.dumb - Debugging and Profiling
+# Debugging and Profiling
 
-## Debugging and Profiling
 
-### Debugging and Profiling
 
 These libraries support your Python work: the debugger lets you walk through code, examine stack frames, set breakpoints, and so on, while the profilers execute code and report a detailed timing breakdown so you can pinpoint the bottlenecks in your programs. Auditing events expose runtime behavior that you would otherwise only see through intrusive debugging or patching.
 

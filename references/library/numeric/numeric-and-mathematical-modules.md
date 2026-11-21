@@ -1,8 +1,6 @@
-# numbers - Numeric and Mathematical Modules
+# Numeric and Mathematical Modules
 
-## Numeric and Mathematical Modules
 
-### Numeric and Mathematical Modules
 
 This chapter's modules deliver numeric and math-oriented functions along with data types. An abstract hierarchy of numeric types is laid out by the [`numbers`](https://docs.python.org/3.14/library/numbers.html#module-numbers) module. Assorted mathematical functions for floating-point and complex values live in the [`math`](https://docs.python.org/3.14/library/math.html#module-math) and [`cmath`](https://docs.python.org/3.14/library/cmath.html#module-cmath) modules. Exact decimal-number representations, backed by arbitrary-precision arithmetic, are what the [`decimal`](https://docs.python.org/3.14/library/decimal.html#module-decimal) module offers.
 

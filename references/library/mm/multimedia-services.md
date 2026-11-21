@@ -1,8 +1,6 @@
-# mimetypes - Multimedia Services
+# Multimedia Services
 
-## Multimedia Services
 
-### Multimedia Services
 
 This chapter's modules supply assorted algorithms and interfaces aimed chiefly at multimedia applications. Whether they are present depends on how the installation was set up. A quick overview follows:
 

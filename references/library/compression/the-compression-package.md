@@ -1,8 +1,6 @@
-# compileall - The `compression` package
+# The `compression` package
 
-## The compression package
 
-### The `compression` package
 
 Added in version 3.14.
 

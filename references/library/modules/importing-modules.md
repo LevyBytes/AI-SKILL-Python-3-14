@@ -1,8 +1,6 @@
-# modulefinder - Importing Modules
+# Importing Modules
 
-## Importing Modules
 
-### Importing Modules
 
 The modules covered in this chapter add fresh means of importing other Python modules plus hooks for tailoring the import process.
 

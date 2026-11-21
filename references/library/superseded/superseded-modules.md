@@ -1,8 +1,6 @@
-# sunau - Superseded Modules
+# Superseded Modules
 
-## Superseded Modules
 
-### Superseded Modules
 
 For the bulk of tasks, the modules gathered in this chapter have been overtaken by newer ones; they linger mainly so that older code keeps working.
 

@@ -1,8 +1,6 @@
-# fractions - Program frameworks
+# Program frameworks
 
-## Program frameworks
 
-### Program frameworks
 
 Upkeep on this chapter has ceased, and the modules that once sat in it have been relocated into the topical documentation each belongs to.
 

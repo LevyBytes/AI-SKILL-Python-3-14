@@ -1,68 +1,108 @@
-# Python 3.14
+# Python 3.14 Agent Skill
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python 3.14"):::skill
-    first(["Language + Library"]):::topic
-    second(["Extensions + C API"]):::topic
-    third(["Setup + Migration"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](.github/readme-banner.png)
+
+Gives Claude Code, Codex and other coding agents the Python 3.14 (CPython) documentation as 19,947 reference pages in 13 subskills: the standard library, the language reference, the tutorial and HOWTOs, interpreter setup, packaging, C and C++ extensions and the Python/C API, FAQs, the glossary, release changes from Python 2.0 to 3.14 and deprecation schedules. Each subskill loads on its own, so an agent reads the tutorial, the API contract or the release note that a task needs.
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## Install
+
+```sh
+npx skills add LevyBytes/AI-SKILL-Python-3-14 -g
 ```
 
-CPython 3.14 references spanning everyday Python development, interpreter setup and native extension work. Thirteen reference-area subskills separate tutorials, language contracts, standard-library APIs and historical changes so an agent can select the appropriate kind of evidence.
+This installs the skill as `python-3-14` for each coding agent it finds on your computer; without `-g` it goes into the current project only. The command needs Node.js 22.20 or later.
+
+<details>
+<summary>Install without Node.js</summary>
+
+Clone the repository into your agent's skills folder:
+
+| Agent | Command |
+| --- | --- |
+| Claude Code | `git clone https://github.com/LevyBytes/AI-SKILL-Python-3-14 ~/.claude/skills/python-3-14` |
+| Codex | `git clone https://github.com/LevyBytes/AI-SKILL-Python-3-14 ~/.agents/skills/python-3-14` |
+
+</details>
+
+## Use
+
+Ask your agent about Python as usual; it loads the skill when a task matches. You can also call it by name with `/python-3-14` in Claude Code or `$python-3-14` in Codex.
+
+- "What do template strings (t-strings) return in Python 3.14, and how do I read their interpolations?"
+- "How do I read annotations that refer to names that are not defined yet?"
+- "How do I tell whether my interpreter is a free-threaded build with the GIL disabled?"
+- "Which standard-library APIs are scheduled for removal in Python 3.15, and what replaces them?"
+- "How do I write a C extension type that supports cyclic garbage collection?"
+
+## Subskills
+
+The 13 subskills and 16 shared example pages hold 19,947 pages. Pages keep the documentation's `Added in version`, `Changed in version` and `Deprecated since version` notes, so an answer can be checked against the interpreter in use.
+
+### Standard library: built-in functions, types and modules
+
+[Standard library](references/library/INDEX.md) covers built-in functions, types, constants and exceptions and the standard-library modules, from `asyncio`, `pathlib` and `typing` to the 3.14 additions `annotationlib`, `string.templatelib`, `compression.zstd` and `concurrent.interpreters`. 4,329 pages.
+
+### Language reference: syntax, data model, execution and imports
+
+[Language reference](references/reference/INDEX.md) covers lexical analysis, the data model, the execution model, the import system, expressions, simple and compound statements and the full grammar. 390 pages.
+
+### Tutorial: learning Python with examples
+
+[Tutorial](references/tutorial/INDEX.md) covers the interpreter, control flow, data structures, modules, input and output, errors and exceptions, classes, a tour of the standard library, floating-point arithmetic and virtual environments, for readers who already program. 186 pages.
+
+### HOWTOs: asyncio, logging, regular expressions, free threading and more
+
+[HOWTOs](references/howto/INDEX.md) covers a conceptual overview of asyncio, logging and its cookbook, regular expressions, sorting, descriptors, the method resolution order, enums, annotations, argparse, sockets, Unicode, free-threaded Python and extensions, remote debugging, profiling with perf and DTrace, and porting to Python 3. 538 pages.
+
+### Release changes: What's New from Python 2.0 to 3.14
+
+[Release changes](references/whatsnew/INDEX.md) covers the What's New guide for every release from 2.0 to 3.14, with porting notes, and the changelogs of individual releases and pre-releases. 13,045 pages.
+
+### Deprecations: pending removals and replacements
+
+[Deprecations](references/deprecations/INDEX.md) covers language, library and C API features scheduled for removal in Python 3.13 through 3.19 or without a set date, with the replacement for each. 48 pages.
+
+### Interpreter usage: installing, building and running Python
+
+[Interpreter usage](references/using/INDEX.md) covers command-line options and environment variables, build configuration, and setup on Unix, Windows, macOS, Android and iOS, plus editors and IDEs. 377 pages.
+
+### Python/C API: objects, reference counting and the runtime
+
+[Python/C API](references/c-api/INDEX.md) covers the abstract and concrete object layers, reference counting and memory management, type objects and slots, initialization and thread state, subinterpreters, monitoring and the stable ABI. 685 pages.
+
+### Extending and embedding: C and C++ extensions
+
+[Extending and embedding](references/extending/INDEX.md) covers writing extension modules and custom extension types, building C and C++ extensions, Windows builds and embedding Python in another application. 96 pages.
+
+### FAQs: design, programming, library, extending and Windows
+
+[FAQs](references/faq/INDEX.md) covers the general, design and history, programming, library, extending and embedding, Windows, GUI and installed-Python FAQs. 190 pages.
+
+### Installing modules: pip and package installation
+
+[Installing modules](references/installing/INDEX.md) gives the package installation overview and points to the Python Packaging User Guide for detailed workflows. 9 pages.
+
+### Distributing modules: packaging overview
+
+[Distributing modules](references/distributing/INDEX.md) gives the official distribution overview and points to the Python Packaging User Guide. 6 pages.
+
+### General reference: glossary and documentation
+
+[General reference](references/general/INDEX.md) covers the glossary, documentation conventions and contributors. 30 pages.
+
+## When agents load this skill
 
 Use when writing, debugging or reviewing Python 3.14 (CPython): standard-library APIs, language syntax and object protocols, tutorials and HOWTOs, interpreter setup, package installation and distribution, C/C++ extensions, embedding and the Python/C API. Also use for bundled Python FAQs, terminology, version-specific release changes and deprecation schedules.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Check language and library behavior](references/library/README.md) | Find standard-library APIs and use the language reference for syntax and object protocols. |
-| [Apply focused techniques](references/howto/README.md) | Use task-oriented guides for concurrency, tooling and language features. |
-| [Build native integrations](references/extending/README.md) | Follow extension and embedding guidance with linked C API contracts. |
-| [Understand compatibility changes](references/deprecations/README.md) | Check replacements and removal schedules against their named Python versions. |
-
-## Included reference-area subskills
-
-| Subskill | Use it for |
-| --- | --- |
-| [Tutorial](references/tutorial/README.md) | Python concepts and examples for readers with programming experience. |
-| [Language reference](references/reference/README.md) | Syntax, data model, execution, imports and grammar. |
-| [Standard library](references/library/README.md) | Built-ins, modules and their API contracts. |
-| [HOWTOs](references/howto/README.md) | Focused language, concurrency, tooling and debugging techniques. |
-| [FAQs](references/faq/README.md) | Design, programming, platform, GUI and extension questions. |
-| [Interpreter usage](references/using/README.md) | Installation, builds, invocation and platform configuration. |
-| [Installing modules](references/installing/README.md) | The package-installation overview and links to detailed packaging guidance. |
-| [Distributing modules](references/distributing/README.md) | The official overview and pointers to the Python Packaging User Guide. |
-| [Extending and embedding](references/extending/README.md) | C/C++ extensions, custom types, linking and embedded interpreters. |
-| [Python/C API](references/c-api/README.md) | Objects, protocols, reference ownership, runtime state and ABI contracts. |
-| [Release changes](references/whatsnew/README.md) | Historical feature guides, porting notes and release records. |
-| [Deprecations](references/deprecations/README.md) | Deprecated features, migration replacements and removal schedules. |
-| [General reference](references/general/README.md) | Terminology, documentation origins and contributors. |
-
 ## The work behind the references
 
-The documentation is organized into focused subject files with linked prerequisites, examples and continuations. The repair work reviewed code formatting and protected technical content alongside naming and navigation, retaining the version conditions around historical material.
+The documentation is organized into focused subject files with linked prerequisites, examples and continuations. The repair work reviewed code formatting and protected technical content alongside naming and navigation, and kept the version conditions around historical material.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Keep all thirteen areas together. The main reference target is CPython 3.14; historical release notes apply to their named versions. Installing and distributing modules are overview routes, not a bundled replacement for the entire Python Packaging User Guide.
+Pull requests are accepted from approved contributors only. To propose a fix or a feature, first open an issue that describes the change your pull request would make, such as a page that differs from the Python 3.14 documentation or an example that fails on CPython 3.14, and the documentation section it should match. The maintainer reviews the issue and your GitHub account, then approves or declines. New maintainers are approved the same way. See [CONTRIBUTING](.github/CONTRIBUTING.md).
 
 ## Sources and license
 

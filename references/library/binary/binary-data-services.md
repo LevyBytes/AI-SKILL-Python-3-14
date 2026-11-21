@@ -1,8 +1,6 @@
-# bdb - Binary Data Services
+# Binary Data Services
 
-## Binary Data Services??
 
-### Binary Data Services
 
 This chapter's modules supply some basic services operations for working with binary data. Further operations on binary data, in particular those concerning file formats and network protocols, appear in the relevant sections.
 

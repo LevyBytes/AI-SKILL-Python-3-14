@@ -1,8 +1,6 @@
-# sys.monitoring - The initialization of the `sys.path` module search path
+# The initialization of the `sys.path` module search path
 
-## The initialization of the sys.path module search path
 
-### The initialization of the [`sys.path`](https://docs.python.org/3.14/library/sys.html#sys.path) module search path
 
 When Python launches, a module search path gets initialized. You can reach this module search path at [`sys.path`](https://docs.python.org/3.14/library/sys.html#sys.path).
 

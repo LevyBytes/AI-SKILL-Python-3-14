@@ -1,8 +1,6 @@
-# multiprocessing.shared_memory - Internet Data Handling
+# Internet Data Handling
 
-## Internet Data Handling
 
-### Internet Data Handling
 
 The modules outlined in this chapter back the handling of data formats that the internet relies on widely.
 

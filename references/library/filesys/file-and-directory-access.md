@@ -1,8 +1,6 @@
-# fileinput - File and Directory Access
+# File and Directory Access
 
-## File and Directory Access
 
-### File and Directory Access
 
 What this chapter's modules concern themselves with is disk files and directories. Among them, for instance, you'll find modules for inspecting file properties, working with paths in a cross-platform fashion, and spinning up temporary files. Here is the complete roster of modules covered:
 

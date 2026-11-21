@@ -1,8 +1,6 @@
-# secrets - Security Considerations
+# Security Considerations
 
-## Security Considerations
 
-### Security Considerations
 
 Specific security considerations apply to the modules below:
 
@@ -32,6 +30,6 @@ Specific security considerations apply to the modules below:
 
 - [`zipfile`](https://docs.python.org/3.14/library/zipfile.html#module-zipfile): [maliciously prepared .zip files can cause disk volume exhaustion](https://docs.python.org/3.14/library/zipfile.html#zipfile-resources-limitations)
 
-You can run Python in isolated mode by way of the [`-I`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-I) command line option. Where that is not an option, the [`-P`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-P) option or the [`PYTHONSAFEPATH`](https://docs.python.org/3.14/using/cmdline.html#envvar-PYTHONSAFEPATH) environment variable can stop a potentially unsafe path — for instance the working directory, the directory holding the script, or an empty string — from getting prepended to [`sys.path`](https://docs.python.org/3.14/library/sys.html#sys.path).
+You can run Python in isolated mode by way of the [`-I`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-I) command line option. Where that is not an option, the [`-P`](https://docs.python.org/3.14/using/cmdline.html#cmdoption-P) option or the [`PYTHONSAFEPATH`](https://docs.python.org/3.14/using/cmdline.html#envvar-PYTHONSAFEPATH) environment variable can stop a potentially unsafe path (for instance the working directory, the directory holding the script, or an empty string) from getting prepended to [`sys.path`](https://docs.python.org/3.14/library/sys.html#sys.path).
 
 [Subject index](INDEX.md)

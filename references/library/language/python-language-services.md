@@ -1,8 +1,6 @@
-# keyword - Python Language Services
+# Python Language Services
 
-## Python Language Services
 
-### Python Language Services
 
 Several modules ship with Python to help you work with the Python language itself. Among their capabilities are tokenizing, parsing, syntax analysis, bytecode disassembly, and a range of further facilities.
 

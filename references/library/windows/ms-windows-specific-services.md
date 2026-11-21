@@ -1,8 +1,6 @@
-# webbrowser - MS Windows Specific Services
+# MS Windows Specific Services
 
-## MS Windows Specific Services
 
-### MS Windows Specific Services
 
 The modules covered in this chapter exist solely on MS Windows platforms.
 

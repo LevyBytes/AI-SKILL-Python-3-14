@@ -1,8 +1,6 @@
-# crypt - Cryptographic Services
+# Cryptographic Services
 
-## Cryptographic Services
 
-### Cryptographic Services
 
 This chapter's modules put into practice an assortment of cryptography-related algorithms. Whether they are present depends on the particular installation. A summary follows:
 

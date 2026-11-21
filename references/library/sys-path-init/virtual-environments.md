@@ -1,6 +1,5 @@
-# sys.monitoring - Virtual Environments
+# Virtual Environments
 
-### Virtual Environments
 
 Virtual environments drop a `pyvenv.cfg` file into their prefix, which makes [`sys.prefix`](https://docs.python.org/3.14/library/sys.html#sys.prefix) and [`sys.exec_prefix`](https://docs.python.org/3.14/library/sys.html#sys.exec_prefix) refer to them in place of the base installation.
 

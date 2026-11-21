@@ -1,6 +1,5 @@
-# sys.monitoring - Embedded Python
+# Embedded Python
 
-### Embedded Python
 
 When Python is embedded inside another application, [`Py_InitializeFromConfig()`](https://docs.python.org/3.14/c-api/interp-lifecycle.html#c.Py_InitializeFromConfig) and the [`PyConfig`](https://docs.python.org/3.14/c-api/init_config.html#c.PyConfig) structure can serve to initialize Python. The path-specific particulars are covered at [Python Path Configuration](https://docs.python.org/3.14/c-api/init_config.html#init-path-config).
 

@@ -1,8 +1,6 @@
-# ftplib - Functional Programming Modules
+# Functional Programming Modules
 
-## Functional Programming Modules
 
-### Functional Programming Modules
 
 This chapter's modules supply functions and classes geared toward a functional programming style, plus general operations on callables.
 

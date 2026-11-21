@@ -1,10 +1,8 @@
-# filecmp - File Formats
+# File Formats
 
-## File Formats
 
-### File Formats
 
-This chapter's modules handle a grab-bag of file formats — ones that are neither markup languages nor anything to do with e-mail.
+This chapter's modules handle a grab-bag of file formats, ones that are neither markup languages nor anything to do with e-mail.
 
 - [`csv` - CSV File Reading and Writing](https://docs.python.org/3.14/library/csv.html)
   - [Module Contents](https://docs.python.org/3.14/library/csv.html#module-contents)
