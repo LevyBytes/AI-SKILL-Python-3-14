@@ -1,49 +1,30 @@
-# Python Release Changes
+# Python Release Changes: What's New from Python 2.0 to 3.14
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python Release Changes"):::skill
-    first(["Feature History"]):::topic
-    second(["Porting Guidance"]):::topic
-    third(["Compatibility Changes"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-Historical Python release references for understanding when features changed and what migrations required. Version-specific guides keep new behavior, compatibility notes and removals tied to the release that introduced them.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 13,043 reference pages. It covers the What's New guide for every release from 2.0 to 3.14, with porting notes, and the changelogs of individual releases and pre-releases. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Review Python 3.14 changes](release-3-14/INDEX.md) | Find the bundled 3.14 feature and porting material. 154 pages. |
+| [Compare Python 3.13 behavior](release-3-13/INDEX.md) | Inspect the preceding version's documented changes. 120 pages. |
+| [Explore release history](INDEX.md) | Select other bundled Python 2.x and 3.x release guides. |
+
+## When agents load this subskill
 
 Use when researching historical Python release changes, new language or standard-library features, PEP introductions, compatibility changes, deprecations, removal schedules, porting guidance or dated CPython maintenance/prerelease fixes. Covers Python 2.0 to 2.7 and 3.0 to 3.14 feature guides and changelogs.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Review Python 3.14 changes](release-3-14/INDEX.md) | Find the bundled 3.14 feature and porting material. |
-| [Compare Python 3.13 behavior](release-3-13/INDEX.md) | Inspect the preceding version's documented changes. |
-| [Explore release history](INDEX.md) | Select other bundled Python 2.x and 3.x release guides. |
-
 ## The work behind the references
 
-Release material is organized chronologically by named version, preserving dated maintenance and prerelease context rather than merging it into current API claims.
+Release material is organized chronologically by named version, preserving dated maintenance and prerelease context rather than merging it into current API claims. Historical notes apply only to their named versions; the language and library references hold current API contracts.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Historical notes apply only to their named versions. Use the current task's language or library reference to establish its API contract.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

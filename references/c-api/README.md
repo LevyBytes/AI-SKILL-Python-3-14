@@ -1,49 +1,30 @@
-# Python/C API
+# Python/C API: objects, reference counting and the runtime
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python/C API"):::skill
-    first(["Object and Type APIs"]):::topic
-    second(["Interpreter Integration"]):::topic
-    third(["ABI Compatibility"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-CPython 3.14 C API references for implementing extension objects and embedding the interpreter. The material helps native-code authors locate object protocols, runtime requirements and compatibility boundaries before using an API.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 683 reference pages. It covers the abstract and concrete object layers, reference counting and memory management, type objects and slots, initialization and thread state, subinterpreters, monitoring and the stable ABI. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Check object protocols](abstract-objects-layer/INDEX.md) | Find the generic object interfaces used by native extension code. 2 pages. |
+| [Define extension modules](defining-extension-modules/INDEX.md) | Locate module definitions and their interpreter-facing contracts. 6 pages. |
+| [Choose an ABI boundary](api-and-abi-versioning/INDEX.md) | Distinguish versioned API and ABI guarantees. 4 pages. |
+
+## When agents load this subskill
 
 Use when writing C/C++ extension modules or embedding CPython 3.14: Python objects, reference ownership, type layouts, object and container protocols, calls, buffers, Unicode, exceptions, memory, modules, interpreter initialization, GIL/thread state, subinterpreters, monitoring, or Stable/Limited/Unstable C API contracts. Not for ordinary Python-only application code or another Python version's undocumented behavior.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Check object protocols](abstract-objects-layer/INDEX.md) | Find the generic object interfaces used by native extension code. |
-| [Define extension modules](defining-extension-modules/INDEX.md) | Locate module definitions and their interpreter-facing contracts. |
-| [Choose an ABI boundary](api-and-abi-versioning/INDEX.md) | Distinguish versioned API and ABI guarantees. |
-
 ## The work behind the references
 
-Native interfaces are grouped by object family and runtime responsibility, retaining signatures, ownership conditions and version constraints with the reference prose.
+Native interfaces are grouped by object family and runtime responsibility, retaining signatures, ownership conditions and version constraints with the reference prose. Examples target the documented CPython version and ABI, and their reference ownership, thread state and interpreter-lifecycle requirements apply when adapting them.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Target the documented CPython version and ABI. Review reference ownership, thread state and interpreter-lifecycle requirements before adapting native examples.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

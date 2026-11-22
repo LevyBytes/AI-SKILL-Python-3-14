@@ -1,49 +1,30 @@
-# Python FAQs
+# Python FAQs: design, programming, library, extending and Windows
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python FAQs"):::skill
-    first(["Language Decisions"]):::topic
-    second(["Programming Questions"]):::topic
-    third(["Platform Guidance"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-Python FAQ references for explaining language behavior, design choices and common platform questions. The question-oriented material complements the formal language and API references when a task needs rationale or troubleshooting context.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 188 reference pages. It covers the general, design and history, programming, library, extending and embedding, Windows, GUI and installed-Python FAQs. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Explain language design](design/INDEX.md) | Find documented reasons behind Python language choices. 29 pages. |
+| [Investigate programming behavior](programming/INDEX.md) | Look up common coding questions and their explanations. 68 pages. |
+| [Answer Windows questions](windows/INDEX.md) | Locate platform-specific execution and installation guidance. 10 pages. |
+
+## When agents load this subskill
 
 Use when answering Python FAQ questions about design, history, programming behavior, library tasks, extension or embedding interfaces, Windows execution, GUI toolkits, or why Python is installed.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Explain language design](design/INDEX.md) | Find documented reasons behind Python language choices. |
-| [Investigate programming behavior](programming/INDEX.md) | Look up common coding questions and their explanations. |
-| [Answer Windows questions](windows/INDEX.md) | Locate platform-specific execution and installation guidance. |
-
 ## The work behind the references
 
-FAQ subjects remain grouped by the question being answered, with separate routes for general, library, extension and graphical-interface topics.
+FAQ subjects remain grouped by the question being answered, with separate routes for general, library, extension and graphical-interface topics. Answers hold for their documented version and platform. Formal API and syntax contracts are in the standard library and language reference subskills.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Read answers in their documented version and platform context. Use the standard-library or language-reference area when the task needs a formal API or syntax contract.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

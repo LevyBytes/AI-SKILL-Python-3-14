@@ -1,43 +1,28 @@
-# Distributing Python Modules
+# Distributing Python Modules: packaging overview
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Distributing Python Modules"):::skill
-    first(["Find Packaging Guidance"]):::accent
-    brand --- skill
-    skill --- first
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-A concise entrypoint to Python module distribution guidance. This reference area explains where the official overview ends and routes readers to the Python Packaging User Guide for the detailed packaging workflow.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 4 reference pages. It gives the official distribution overview and points to the Python Packaging User Guide. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
 
-Use when packaging or distributing your own Python modules: the official overview pointing to the Python Packaging User Guide, not the full packaging workflow.
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
 
-## What this skill helps with
+## What's inside
 
-| Task | Useful reference material |
+| Starting point | Covers |
 | --- | --- |
 | [Find the distribution overview](orientation/distributing.md) | Read the bundled orientation and follow its authoritative packaging guidance. |
 
+## When agents load this subskill
+
+Use when packaging or distributing your own Python modules: the official overview pointing to the Python Packaging User Guide, not the full packaging workflow.
+
 ## The work behind the references
 
-The distribution overview keeps its links to the Python Packaging User Guide and the project-packaging tutorial together.
+The distribution overview keeps its links to the Python Packaging User Guide and the project-packaging tutorial together. Detailed build, release and distribution procedures are in the linked packaging documentation; this area does not bundle the full Python Packaging User Guide.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Use the linked packaging documentation for detailed build, release and distribution procedures. This area does not bundle the full Python Packaging User Guide.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

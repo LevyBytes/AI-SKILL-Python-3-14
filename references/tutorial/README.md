@@ -1,50 +1,31 @@
-# Python Tutorial
+# Python Tutorial: learning Python with examples
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python Tutorial"):::skill
-    first(["Language Foundations"]):::topic
-    second(["Program Structure"]):::topic
-    third(["Errors and File I/O"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-A routed Python 3.14 tutorial for readers who already have programming experience. The material follows core syntax and data structures into functions, modules, classes, exceptions and practical standard-library use.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 184 reference pages. It covers the interpreter, control flow, data structures, modules, input and output, errors and exceptions, classes, a tour of the standard library, floating-point arithmetic and virtual environments, for readers who already program. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Learn control flow](controlflow/INDEX.md) | Work through statements, functions and related examples. 28 pages. |
+| [Choose data structures](datastructures/INDEX.md) | Explore the tutorial treatment of collections and their use. 16 pages. |
+| [Structure programs with classes](classes/INDEX.md) | Find the introduction to classes and object-oriented program structure. 19 pages. |
+| [Handle program errors](errors/INDEX.md) | Study exceptions and the tutorial error-handling examples. 14 pages. |
+
+## When agents load this subskill
 
 Use when learning Python 3.14 with prior programming experience: interpreter use, arithmetic, strings, lists, control flow, functions, data structures, modules, classes, errors, file I/O, standard-library examples, floating point, virtual environments or packages.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Learn control flow](controlflow/INDEX.md) | Work through statements, functions and related examples. |
-| [Choose data structures](datastructures/INDEX.md) | Explore the tutorial treatment of collections and their use. |
-| [Structure programs with classes](classes/INDEX.md) | Find the introduction to classes and object-oriented program structure. |
-| [Handle program errors](errors/INDEX.md) | Study exceptions and the tutorial error-handling examples. |
-
 ## The work behind the references
 
-Tutorial subjects retain their teaching sequence while being divided into focused references with linked setup and examples.
+Tutorial subjects retain their teaching sequence while being divided into focused references with linked setup and examples. The subject index continues into modules, exceptions, file I/O, virtual environments and library examples, and the language reference holds the exact language rules.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Use the subject index to continue into modules, exceptions, file I/O, virtual environments and library examples. Consult the formal reference when exact language rules are required.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

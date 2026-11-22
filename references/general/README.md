@@ -1,46 +1,29 @@
-# Python General Reference
+# Python General Reference: glossary and documentation
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python General Reference"):::skill
-    first(["Terminology"]):::topic
-    second(["Documentation Context"]):::topic
-    brand --- skill
-    skill --- first
-    skill --- second
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-Python terminology and documentation-context references for interpreting the rest of the package accurately. The area brings together the glossary, documentation origins and contribution context.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 28 reference pages. It covers the glossary, documentation conventions and contributors. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Resolve terminology](glossary/INDEX.md) | Look up the documented meaning of Python terms. 21 pages. |
+| [Understand documentation context](documentation/INDEX.md) | Find documentation origins, contributors and related guidance. 4 pages. |
+
+## When agents load this subskill
 
 Use when checking Python glossary definitions and terminology, documentation origins and contributors, or bug-reporting guidance in the bundled Python 3.14 documentation.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Resolve terminology](glossary/INDEX.md) | Look up the documented meaning of Python terms. |
-| [Understand documentation context](documentation/INDEX.md) | Find documentation origins, contributors and related guidance. |
-
 ## The work behind the references
 
-Definitions and documentation history have their own routes.
+Definitions and documentation history have their own routes. This area helps when a term or provenance question affects how a technical reference is read.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Use this area when a term or provenance question affects how a technical reference should be interpreted.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

@@ -1,49 +1,30 @@
-# Python Deprecations
+# Python Deprecations: pending removals and replacements
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python Deprecations"):::skill
-    first(["Language Migrations"]):::topic
-    second(["Library Replacements"]):::topic
-    third(["C API Changes"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-Python compatibility references for identifying deprecated behavior and planning upgrades. Language, standard-library and C API changes are separated so removal schedules can be checked against the version actually being targeted.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 46 reference pages. It covers language, library and C API features scheduled for removal in Python 3.13 through 3.19 or without a set date, with the replacement for each. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Review language and library changes](language-library-removals/INDEX.md) | Locate deprecated features, replacements and documented removal versions. 30 pages. |
+| [Review native API changes](c-api-removals/INDEX.md) | Find C API deprecations and migration requirements. 13 pages. |
+| [Interpret version conditions](version-and-contract-conditions.md) | Keep scheduled removals distinct from deprecations without a fixed removal date. |
+
+## When agents load this subskill
 
 Use when checking Python deprecated features, scheduled removal versions, migration replacements, compatibility shims, standard-library deprecations or C API removals in the bundled Python 3.14 documentation.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Review language and library changes](language-library-removals/INDEX.md) | Locate deprecated features, replacements and documented removal versions. |
-| [Review native API changes](c-api-removals/INDEX.md) | Find C API deprecations and migration requirements. |
-| [Interpret version conditions](version-and-contract-conditions.md) | Keep scheduled removals distinct from deprecations without a fixed removal date. |
-
 ## The work behind the references
 
-The material preserves the version attached to each change, with focused indexes for Python-level behavior and native extension contracts.
+The material preserves the version attached to each change, with focused indexes for Python-level behavior and native extension contracts. This is the bundled Python 3.14 deprecation reference. A historical schedule is evidence for its named release, not proof of the behavior of every installed interpreter.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Use this as the bundled Python 3.14 deprecation reference. A historical schedule is evidence for its named release, not proof of the behavior of every installed interpreter.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

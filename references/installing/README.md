@@ -1,49 +1,30 @@
-# Installing Python Modules
+# Installing Python Modules: pip and package installation
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Installing Python Modules"):::skill
-    first(["Package Installation"]):::topic
-    second(["Virtual Environments"]):::topic
-    third(["Interpreter Selection"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-A concise Python package-installation overview for choosing the intended interpreter and environment. It covers the bundled pip and virtual-environment orientation and points to the detailed packaging guides when more depth is needed.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 7 reference pages. It gives the package installation overview and points to the Python Packaging User Guide for detailed workflows. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
 
-Use when installing Python packages: the official overview of pip, virtual environments and the detailed packaging guides, not the full packaging workflow.
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
 
-## What this skill helps with
+## What's inside
 
-| Task | Useful reference material |
+| Starting point | Covers |
 | --- | --- |
 | [Install and update packages](orientation/install-version-pin-upgrade-and-use-virtual-environments.md) | Find the overview of version selection, upgrades and virtual environments. |
 | [Choose the installation context](orientation/per-user-scientific-and-multiple-interpreter-installation.md) | Review per-user and multiple-interpreter considerations. |
 | [Diagnose setup limitations](orientation/system-python-safety-missing-pip-and-binary-extensions.md) | Check system-interpreter, pip and binary-extension concerns. |
 
+## When agents load this subskill
+
+Use when installing Python packages: the official overview of pip, virtual environments and the detailed packaging guides, not the full packaging workflow.
+
 ## The work behind the references
 
-The overview is kept separate from the external packaging guides, preserving the boundary between bundled orientation and detailed installation procedures.
+The overview is kept separate from the external packaging guides, preserving the boundary between bundled orientation and detailed installation procedures. Commands depend on the interpreter and environment they target. The full workflow is in the linked official packaging documentation.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Confirm which interpreter and environment a command targets. Follow the linked official packaging documentation for the full workflow.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 

@@ -1,50 +1,31 @@
-# Python HOWTOs
+# Python HOWTOs: asyncio, logging, regular expressions, free threading and more
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 400
----
-flowchart LR
-    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
-    skill("Python HOWTOs"):::skill
-    first(["Language Techniques"]):::topic
-    second(["Concurrency Patterns"]):::topic
-    third(["Debugging and Tooling"]):::accent
-    brand --- skill
-    skill --- first
-    skill --- second
-    skill --- third
-    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
-    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
-    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
-    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
-    linkStyle default stroke:#38bdf8,stroke-width:1px
-```
+![Python 3.14 agent skill: Language + Library, Extensions + C API, Setup + Migration](../../.github/readme-banner.png)
 
-Task-oriented Python guidance for techniques that need more context than an API entry. The HOWTO collection connects language features, concurrency and development tools through focused explanations and examples.
+Part of the [Python 3.14 agent skill](../../README.md), this subskill gives Claude Code, Codex and other coding agents 536 reference pages. It covers a conceptual overview of asyncio, logging and its cookbook, regular expressions, sorting, descriptors, the method resolution order, enums, annotations, argparse, sockets, Unicode, free-threaded Python and extensions, remote debugging, profiling with perf and DTrace, and porting to Python 3. Its context router is [SKILL.md](SKILL.md) and its catalog is [INDEX.md](INDEX.md); it installs with the parent skill, as described in [Install](../../README.md#install).
+
+**Status: early draft.** The reference pages and per-subskill reference checks are in place; scripts, assets and evaluations will be added over time.
+
+## What's inside
+
+| Starting point | Covers |
+| --- | --- |
+| [Understand asynchronous execution](a-conceptual-overview-of-asyncio/INDEX.md) | Read the conceptual guide before selecting lower-level asyncio APIs. 11 pages. |
+| [Design application logging](logging-cookbook/INDEX.md) | Find logging patterns and their associated setup. 86 pages. |
+| [Work with free-threaded Python](free-threading-python/INDEX.md) | Check the documented conditions and limitations of free-threaded execution. 21 pages. |
+| [Understand descriptors](descriptor/INDEX.md) | Follow the language technique and its documented protocol behavior. 35 pages. |
+
+## When agents load this subskill
 
 Use when applying Python HOWTO guidance: asyncio, argparse, curses, descriptors, enums, functional programming, sorting, regular expressions, Unicode, networking, logging, free threading, extension isolation, annotations, migration, GDB, tracing, profiling or remote debugging.
 
-## What this skill helps with
-
-| Task | Useful reference material |
-| --- | --- |
-| [Understand asynchronous execution](a-conceptual-overview-of-asyncio/INDEX.md) | Read the conceptual guide before selecting lower-level asyncio APIs. |
-| [Design application logging](logging-cookbook/INDEX.md) | Find logging patterns and their associated setup. |
-| [Work with free-threaded Python](free-threading-python/INDEX.md) | Check the documented conditions and limitations of free-threaded execution. |
-| [Understand descriptors](descriptor/INDEX.md) | Follow the language technique and its documented protocol behavior. |
-
 ## The work behind the references
 
-The guides preserve their individual subject and historical context, with linked examples and focused indexes for techniques such as descriptors, argparse, annotations and extension isolation.
+The guides preserve their individual subject and historical context, with linked examples and focused indexes for techniques such as descriptors, argparse, annotations and extension isolation. Each guide keeps its named Python version and platform, and historical porting guides apply to the versions they describe.
 
-## Start here
+## Contributing
 
-Start with [SKILL.md](SKILL.md) and follow its context routes.
-
-Select the guide for the task and retain its named Python version and platform. Historical porting guides apply to the versions they describe.
+Contributions follow the parent skill's process: pull requests are accepted from approved contributors only, after the maintainer reviews and approves an issue. See [CONTRIBUTING](../../.github/CONTRIBUTING.md).
 
 ## Sources and license
 
